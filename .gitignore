@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 _site
 .sass-cache
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+>>>>>>> 842efe178f6dcfa83747426c88c4fe5240ab9cd2
 .jekyll-metadata
