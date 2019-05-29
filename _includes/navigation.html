@@ -1,7 +1,7 @@
 <nav class="uk-navbar-container uk-margin" uk-navbar>
     <div class="nav-overlay uk-navbar-left">
-        <a class="uk-navbar-item uk-logo" href="/">
-          <img src="/assets/images/logo.svg" class="nav-logo" alt="">
+        <a class="uk-navbar-item uk-logo" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/images/logo.svg" class="nav-logo" alt="">
         </a>
         <ul class="uk-navbar-nav">
             <li><a href="#">Tema</a></li>
@@ -14,7 +14,7 @@
     </div>
     <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
         <div class="uk-navbar-item uk-width-expand">
-            <form class="uk-search uk-search-navbar uk-width-1-1" action="/search.html" method="get">
+            <form class="uk-search uk-search-navbar uk-width-1-1" action="{{ site.baseurl }}/search.html" method="get">
                 <input class="uk-search-input" id="search-box" name="query" type="search" placeholder="Søk..." autofocus>
             </form>
         </div>

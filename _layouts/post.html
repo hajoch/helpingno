@@ -9,10 +9,10 @@ layout: default
         <div class="uk-margin-medium">
           {% if page.crop_image %}
             <div class="uk-cover-container uk-height-large" uk-parallax="grayscale: 100; blur: 2px" >
-              <img src="{{ page.main_image }}" alt="" uk-cover >
+              <img src="{{ page.main_image | prepend: site.baseurl }}" alt="" uk-cover >
             </div>
           {% else %}
-            <img src="{{ page.main_image }}" alt="">
+            <img src="{{ page.main_image | prepend: site.baseurl }}" alt="">
           {% endif %}
         </div>
       {% endif %}

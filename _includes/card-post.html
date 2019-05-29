@@ -2,7 +2,7 @@
       <a href="{{ post.url | prepend: site.baseurl }}" class="uk-link-toggle">
         <div class="uk-card uk-card-default uk-box-shadow-hover-small">
             <div class="uk-card-media-top">
-                <img src="{{ post.main_image }}" alt="">
+                <img src="{{ post.main_image | prepend: site.baseurl }}" alt="">
             </div>
             <div class="uk-card-body">
                 <h3 class="uk-card-title uk-margin-remove">
