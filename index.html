@@ -2,15 +2,17 @@
 layout: home
 title: Helping
 ---
+<!-- NOTE
 
-<h2> DEtte er en test </h2>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut purus lacinia dolor auctor aliquet. Etiam euismod id enim vel scelerisque. Aenean vitae vulputate metus. Pellentesque malesuada odio at consequat vehicula. Nulla egestas luctus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam metus dolor, pulvinar at congue et, auctor eu mi. Nunc non faucibus tellus.
+https://serennu.com/colour/colourcalculator.php
+#FBF041
 
-Mauris aliquam purus id orci maximus sodales. Etiam dapibus eros nisi, condimentum ullamcorper nibh blandit ac. In et leo maximus arcu consequat maximus. Nunc sollicitudin efficitur ex et bibendum. Aliquam erat volutpat. Morbi sed tristique turpis. In eu pellentesque tellus. Nullam posuere consequat ipsum, vel volutpat neque mollis ac. Sed eu fermentum ipsum. Integer faucibus tellus vel turpis sagittis, tempor aliquam ipsum consectetur. Aliquam non sem ut velit tempor sodales. Morbi pellentesque arcu a arcu volutpat, id rhoncus nisi facilisis. Nulla tortor leo, semper sed risus non, commodo elementum odio. Praesent quis tristique est, sit amet facilisis arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce sollicitudin ullamcorper nisl ac luctus.
+END NOTE -->
 
-In hac habitasse platea dictumst. Sed elementum non eros vel dictum. Nunc gravida commodo lorem, et iaculis velit euismod vitae. Donec sagittis varius velit nec congue. Aenean at mi nec enim tincidunt dignissim. Integer vitae odio ante. Etiam feugiat euismod magna, nec condimentum mi feugiat rhoncus. Pellentesque nec purus non velit sodales feugiat. Maecenas condimentum vel magna quis posuere. Etiam eu metus metus. Morbi dignissim tempus est, id cursus lacus ornare sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean porta mauris mi, nec iaculis massa fermentum ut. In auctor ipsum vel nisl sagittis, vitae mollis purus malesuada.
+<div class="uk-grid-small uk-child-width-1-2@m uk-text-center" uk-grid>
+{% for post in site.posts %}
 
-Aliquam sed metus facilisis, ultrices turpis in, malesuada tellus. In vel commodo nisl. Phasellus in ante ac mi faucibus dictum non at felis. Duis nec elit nisi. Nulla auctor ac erat vel gravida. Duis scelerisque magna eu leo convallis, vitae sodales libero consectetur. Vestibulum quis pulvinar neque, commodo venenatis lacus. Etiam diam diam, viverra sed risus sit amet, mattis rhoncus odio.
+    {% include card-post.html %}
 
-Duis a erat nulla. Nunc commodo lorem neque, sit amet accumsan odio rhoncus venenatis. Donec dignissim orci eu justo vestibulum, nec aliquet nulla hendrerit. Quisque sit amet odio congue, molestie urna nec, convallis dolor. Curabitur ac velit vitae diam finibus mattis. Cras ac nulla nec sapien consequat condimentum nec eget augue. Donec sollicitudin urna leo, vitae tristique mauris posuere a. Proin id risus velit. Nunc elementum imperdiet aliquam. Curabitur finibus gravida ligula, eget tempus lectus dignissim id. Nunc gravida luctus mauris ut posuere. Aliquam accumsan auctor fermentum.</p>
+{% endfor %}
+</div>

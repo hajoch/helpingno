@@ -1,0 +1,50 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+em {
+  color: inherit !important;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.avatar-thumb {
+  height: 80px;
+  width: 80px;
+}
+.avatar-full {
+  height: 200px;
+  width: 200px;
+}
+.avatar {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  img {
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    -ms-interpolation-mode: bicubic;
+  }
+}
+
+.content {
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+//  background: white;
+  padding-top: 50px;
+}
+
+.nav-logo {
+    height: 50px;
+}

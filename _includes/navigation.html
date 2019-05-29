@@ -1,3 +1,38 @@
+<nav class="uk-navbar-container uk-margin" uk-navbar>
+    <div class="nav-overlay uk-navbar-left">
+        <a class="uk-navbar-item uk-logo" href="/">
+          <img src="/assets/images/logo.svg" class="nav-logo" alt="">
+        </a>
+        <ul class="uk-navbar-nav">
+            <li><a href="#">Tema</a></li>
+            <li><a href="#">Bøker</a></li>
+            <li><a href="#">Om oss</a></li>
+        </ul>
+    </div>
+    <div class="nav-overlay uk-navbar-right">
+        <a class="uk-navbar-toggle" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+    </div>
+    <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+        <div class="uk-navbar-item uk-width-expand">
+            <form class="uk-search uk-search-navbar uk-width-1-1" action="/search.html" method="get">
+                <input class="uk-search-input" id="search-box" name="query" type="search" placeholder="Søk..." autofocus>
+            </form>
+        </div>
+        <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+    </div>
+</nav>
+
+<!--
+  <div uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent uk-light; top: 200">
+    <nav class="uk-navbar-container" uk-navbar>
+      <div class="uk-navbar-container">
+
+        </div>
+    </nav>
+</div>
+
+-->
+<!--
 <nav>
     <div class="nav-wrapper">
       <a href="#!" class="brand-logo">Logo</a>
@@ -13,7 +48,6 @@
         <li><a href="badges.html">Components</a></li>
         <li><a href="collapsible.html">Javascript</a></li>
         <li><a href="mobile.html">Mobile</a></li>
-        <!-- Dropdown Trigger -->
         <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Dropdown<i class="material-icons right">arrow_drop_down</i></a></li>
 
       </ul>
@@ -34,3 +68,4 @@
     <li><a href="collapsible.html">Javascript</a></li>
     <li><a href="mobile.html">Mobile</a></li>
   </ul>
+-->
