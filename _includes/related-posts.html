@@ -1,0 +1,11 @@
+<div class="uk-margin-auto uk-padding related-posts">
+  <div class="uk-grid-small uk-child-width-1-3@m uk-text-center" uk-grid>
+    {% for post in site.posts %}
+      <div>
+        {% unless post.title == page.title %}
+          {% include card-post.html %}
+        {% endunless %}
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -9,10 +9,12 @@ https://serennu.com/colour/colourcalculator.php
 
 END NOTE -->
 
-<div class="uk-grid-small uk-child-width-1-2@m uk-text-center" uk-grid>
-{% for post in site.posts %}
+<div class="content">
+  <div class="uk-grid-small uk-child-width-1-2@m uk-text-center" uk-grid>
+  {% for post in site.posts %}
 
-    {% include card-post.html %}
+      {% include card-post.html %}
 
-{% endfor %}
+  {% endfor %}
+  </div>
 </div>

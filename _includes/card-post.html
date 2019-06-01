@@ -1,26 +1,26 @@
     <div>
       <a href="{{ post.url | prepend: site.baseurl }}" class="uk-link-toggle">
         <div class="uk-card uk-card-default uk-box-shadow-hover-small">
+            {% if post.main_image %}
             <div class="uk-card-media-top">
-                <img src="{{ post.main_image | prepend: site.baseurl }}" alt="">
+              <div class="uk-cover-container small-height">
+                <img class="uk-cover" src="{{ post.main_image | prepend: site.baseurl }}" alt="">
+              </div>
             </div>
-            <div class="uk-card-body">
+            {% endif %}
+            <div class="uk-card-body uk-padding-small">
                 <h3 class="uk-card-title uk-margin-remove">
                   <a class="uk-link-heading" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h3>
-                {% if post.ingress %}
-                  <p>{{ post.ingress }}</p>
-                {% else %}
-                  <p>{{ post.excerpt }}</p>
-                {% endif %}
-<!--
-                {% for category in post.tags %}
-                  <span class="uk-badge">
-                      {{ category }}
-                  </span>
-                {% endfor %}
--->
+                <div class="ingress">
+                  <p>{% if post.ingress %}{{ post.ingress }}{% else %}{{ post.excerpt }}{% endif %}</p>
+                </div>
+                <div class="post-meta-categories">
+                  {% for category in post.categories %}
+                  <span class="uk-label">{{category}}</span>
+                  {% endfor %}
+                </div>
             </div>
         </div>
-        </a>
-    </div>
+      </a>
+  </div>

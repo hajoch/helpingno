@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+<div class="content">
   <div class="post uk-article">
     <header class="post-header">
       <h2 class="uk-article-title">{{ page.title }}</h2>
@@ -35,9 +37,14 @@ layout: default
     </div>
   </div>
   <div class="uk-flex uk-flex-center uk-margin-medium">
-    <div><a class="uk-align-center" href="#" uk-totop uk-scroll></a></div>
+    <div><a class="uk-align-center" uk-tooltip="Til toppen" href="#" uk-totop uk-scroll></a></div>
   </div>
-
+</div>
+<div class="below-content">
+  <div class="">
+    {% include related-posts.html %}
+  </div>
+</div>
   <!--
 
 <h3>Innlegg med samme kategori:</h3>
