@@ -1,12 +1,14 @@
 ---
 layout: post
-categories: [Mental Helse]
+categories:
+  - "mental-helse"
 date: 2019-01-01
 main_image: "/assets/images/fottur.jpg"
 crop_image: True
 tags: [Fottur, Helse, Mental Helse]
 title:  "Go for a walk"
 author: "odd-m-lunde"
+weight: 1
 ---
 
 

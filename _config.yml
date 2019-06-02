@@ -33,13 +33,24 @@ collections:
     title: Authors
     output: true
     permalink: /author/:title
-    defaults:
-      - scope:
-          path: ""
-          type: "author"
-        values:
-          layout: author
+  category:
+    title: Category
+    output: true
+    permalink: /category/:title
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "author"
+    values:
+      layout: author
+  -
+    scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
 
 
 # Exclude from processing.
