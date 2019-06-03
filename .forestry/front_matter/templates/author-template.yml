@@ -5,9 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: author
+  hidden: true
 - type: text
-  name: name
-  label: name
+  name: title
+  label: Navn
 - type: file
   name: image
-  label: image
+  label: Bilde
