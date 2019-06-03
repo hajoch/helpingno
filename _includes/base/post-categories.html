@@ -1,0 +1,12 @@
+{% unless post %}
+  {% assign post = page %}
+{% endunless %}
+<div class="post-meta-categories">
+  {% assign pagecategories = post.categories | join:',' %}
+  {% assign categories = site.category | where: 'title', pagecategories %}
+  {% for category in categories %}
+  <a href="{{ category.url | prepend: site.baseurl }}">
+    <span class="uk-label">{{ category.title }}</span>
+  </a>
+  {% endfor %}
+</div>

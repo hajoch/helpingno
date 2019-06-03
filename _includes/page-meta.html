@@ -5,24 +5,21 @@
   <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid>
     <div class="uk-width-auto">
       <div class="avatar avatar-thumb">
-        <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" src="{{ site.baseurl }}{{ author.main_image }}" alt="">
-      </div><!-- http://www.helping.no/gc8.jpg -->
+        <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" src="{{ author.image | prepend: site.baseurl }}" alt="">
+      </div>
     </div>
     <div class="uk-width-expand">
-      <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a></h4>
+      <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ author.url | prepend: site.baseurl }}">{{ author.title }}</a></h4>
       <ul class="uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top">
-        {% if page.main_image %}
-          <li><a>{{ page.date | date: '%B %d, %Y' }}</a></li>
+        {% if page.publish_date %}
+          <li><span class="uk-button-text">{{ page.publish_date | date: '%B %d, %Y' }}</span></li>
         {% endif %}
-        <li><a><span id="readingTime"></span></a></li>
+        <li><span class="uk-button-text">{% include liquids/readtime.html %}</span></li>
       </ul>
     </div>
   </header>
-  <div class="post-meta-categories">
-    {% for category in page.categories %}
-      <span class="uk-label">{{category}}</span>
-    {% endfor %}
-  </div>
+  {% include base/post-categories.html %}
+
 </acticle>
 
 {% endif %}

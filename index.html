@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Helping
+featured: "AIMA"
 ---
 <!-- NOTE
 
@@ -8,22 +9,35 @@ https://serennu.com/colour/colourcalculator.php
 #FBF041
 
 END NOTE -->
-<div class="category-nav">
-  <h3>Categories</h3>
-  {% include category-nav.html %}
-</div>
 
-<div class="content">
+
+<!-- LIQUID ASSIGNMENTS -->
+{% if page.featured %}
+  {% assign featured = site.posts | where: 'slug', page.featured | first %}
+{% else %}
+  {% assign featured = site.posts | sort:"weight" | reverse | first %}
+{% endif %}
+
+{% assign posts = site.posts | sort:"weight" | reverse  %}
+<!-- -->
+
+<div class="width-full">
   <!-- Highlighted -->
-  <div class="featured">
-    {% assign featured = site.posts | where:"featured","True" %}
-    <h3>{{ featured[0].title }}</h3>
+<!--
+  <div uk-grid>
+    <div class="featured">
+      <h3>{{ featured.title }}</h3>
+    </div>
+    <div class="">
+      {% for post in posts limit:2 %}
+        {% include list-post.html %}
+      {% endfor %}
+    </div>
   </div>
 
-  <div class="uk-grid-small uk-child-width-1-2@m uk-text-center" uk-grid>
-    {% assign posts = site.posts | sort:"weight" | reverse  %}
-    {% for post in posts %}
-        {% include card-post.html %}
-    {% endfor %}
+-->
+  <div>
+    {% include component/posts-grid.html %}
   </div>
+
 </div>

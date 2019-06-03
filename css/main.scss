@@ -23,6 +23,23 @@ main {
   height: 200px;
   width: 200px;
 }
+
+.image-size-thumb {
+  height: 80px;
+  width: 80px;
+}
+.image-fill {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  img {
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    -ms-interpolation-mode: bicubic;
+  }
+}
+
 .avatar {
   display: block;
   position: relative;
@@ -56,15 +73,21 @@ main {
   max-width: 1024px;
 }
 
-.ingress p {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+.width-medium {
+  max-width: 740px;
+  margin: 0 auto;
 }
+.width-full {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
 
 .small-height {
   height: 100px;
+}
+.category-nav {
+  z-index: 100;
 }
 
 .drop-shadow {

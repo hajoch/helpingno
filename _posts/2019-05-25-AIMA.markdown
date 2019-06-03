@@ -1,16 +1,16 @@
 ---
 layout: post
 categories:
- - bøker
+  - "Bøker"
 date: 2019-05-25 23:14:42 +0200
-main_image: "/assets/images/aima5.jpg"
+publish_date: 2019-05-25 23:14:42 +0200
+image: "/assets/images/aima5.jpg"
 crop_image: True
 tags: [Aima, barnebok]
 title:  "Aima - Spennende barnebok"
-ingress: "Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne."
+excerpt: "Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne."
 author: "gunnar-christensen"
 weight: 3
-featured: True
 ---
 
 Aima er ei lita hulder med evner og egenskaper

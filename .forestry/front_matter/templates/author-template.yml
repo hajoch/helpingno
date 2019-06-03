@@ -9,5 +9,5 @@ fields:
   name: name
   label: name
 - type: file
-  name: main_image
-  label: main_image
+  name: image
+  label: image

@@ -1,6 +1,7 @@
-<ul class="uk-iconnav">
-  {% for category in site.categories %}
-      <li class="a">Test</li>
-      <li><a href="{{ category.url }}" uk-icon="icon: {{ category.icon }}">{{ category.title }}</a></li>
-  {% endfor %}
-</ul>
+<div class="uk-flex uk-flex-center category-nav uk-card uk-card-default" uk-sticky>
+  <ul class="uk-subnav uk-margin-small-top">
+    {% for category in site.category limit:10 %}
+      <li><a href="{{ category.url | prepend: site.baseurl }}">{{ category.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

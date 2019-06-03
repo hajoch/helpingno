@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-
 <div class="content">
   <div class="post uk-article">
     <header class="post-header">
       <h2 class="uk-article-title">{{ page.title }}</h2>
       <h4 class="uk-article-lead uk-margin-remove">{{ page.ingress }}</h4>
-      {% if page.main_image %}
+      {% if page.image %}
         <div class="uk-margin-medium">
           {% if page.crop_image %}
             <div class="uk-cover-container uk-height-large" uk-parallax="grayscale: 100; blur: 2px" >
-              <img src="{{ page.main_image | prepend: site.baseurl }}" alt="" uk-cover >
+              <img src="{{ page.image | prepend: site.baseurl }}" alt="" uk-cover >
             </div>
           {% else %}
-            <img src="{{ page.main_image | prepend: site.baseurl }}" alt="">
+            <img src="{{ page.image | prepend: site.baseurl }}" alt="">
           {% endif %}
         </div>
       {% endif %}
@@ -36,6 +35,7 @@ layout: default
 
     </div>
   </div>
+  {% include social-menu.html %}
   <div class="uk-flex uk-flex-center uk-margin-medium">
     <div><a class="uk-align-center" uk-tooltip="Til toppen" href="#" uk-totop uk-scroll></a></div>
   </div>
@@ -45,13 +45,3 @@ layout: default
     {% include related-posts.html %}
   </div>
 </div>
-  <!--
-
-<h3>Innlegg med samme kategori:</h3>
-{% assign category = page.categories[0] %}
-<div class="uk-grid-small uk-child-width-1-3@m uk-text-center" uk-grid>
-{% for post in site.categories[category] %}
-  {% include card-post.html %}
-{% endfor %}
-
--->

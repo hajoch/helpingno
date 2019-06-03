@@ -1,9 +1,9 @@
 ---
 layout: post
 categories:
-  - "mental-helse"
+  - "Mental Helse"
 date: 2019-01-01
-main_image: "/assets/images/fottur.jpg"
+image: "/assets/images/fottur.jpg"
 crop_image: True
 tags: [Fottur, Helse, Mental Helse]
 title:  "Go for a walk"
