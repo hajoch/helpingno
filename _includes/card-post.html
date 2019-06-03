@@ -12,7 +12,7 @@
                 <h3 class="uk-card-title uk-margin-remove">
                   <a class="uk-link-heading" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h3>
-                <div class="ingress">
+                <div class="ingress uk-divider">
                   <p>{{ post.excerpt | truncate: 200 }}</p>
                 </div>
                 {% include base/post-categories.html %}

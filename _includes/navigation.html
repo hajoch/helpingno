@@ -5,9 +5,15 @@
           <img src="{{ site.baseurl }}/assets/images/logo.svg" class="nav-logo" alt="">
         </a>
         <ul class="uk-navbar-nav">
-            <li><a href="#">Tema</a></li>
-            <li><a href="#">Bøker</a></li>
-            <li><a href="#">Om oss</a></li>
+            <li><a href="#">Tema</a>
+              <div class="uk-navbar-dropdown">
+                <ul class="uk-nav uk-navbar-dropdown-nav">
+                  {% for category in site.category %}
+                    <li><a href="{{ category.url | prepend: site.baseurl }}">{{ category.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
         </ul>
     </div>
     <div class="nav-overlay uk-navbar-right">

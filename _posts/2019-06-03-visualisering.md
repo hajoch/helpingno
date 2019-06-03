@@ -13,7 +13,7 @@ categories:
 - Mental Helse
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
-publish_date: 
+publish_date:
 weight: 0
 tags:
 - Mental Helse
