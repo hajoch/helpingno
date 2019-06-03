@@ -2,8 +2,8 @@
 layout: author
 title: Odd M. Lunde
 image: "/assets/images/authors/oddmlunde.jpg"
----
 
+---
 **Lege og psykiater**
 
 
