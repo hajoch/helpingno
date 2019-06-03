@@ -55,3 +55,5 @@ fields:
 - type: list
   name: tags
   label: Emneknagger
+pages:
+- _posts/visualisering.md
