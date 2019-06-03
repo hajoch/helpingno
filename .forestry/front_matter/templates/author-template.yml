@@ -13,3 +13,5 @@ fields:
 - type: file
   name: image
   label: Bilde
+pages:
+- _authors/gunnar-christensen.md
