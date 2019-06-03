@@ -11,7 +11,7 @@ excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fys
   små dråper med fruktsaft følger knivens linje i skjæret.
 categories:
 - Mental Helse
-image: assets/images/visualisering[1]-1.jpg
+image: "/assets/images/visualisering[1].jpg"
 crop_image: true
 publish_date: 
 weight: 0
