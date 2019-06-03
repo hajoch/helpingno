@@ -5,33 +5,53 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: list
-  name: categories
-  label: categories
+  hidden: true
+  default: post
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: publish_date
-  label: publish_date
-- type: file
-  name: image
-  label: image
-- type: boolean
-  name: crop_image
-  label: crop_image
-- type: list
-  name: tags
-  label: tags
+  hidden: true
+  default: now
 - type: text
   name: title
-  label: title
+  label: Tittel
 - type: textarea
   name: excerpt
-  label: excerpt
-- type: text
-  name: author
-  label: author
+  label: Ingress
+  description: Er dette feltet tomt så velges første avsnitt automatisk på sider med
+    forhåndsvisning av artikkelen
+- type: list
+  name: categories
+  label: Kategorier
+  description: Innleggets kategori (første blir hovedkategori)
+- type: file
+  name: image
+  label: Bilde
+- type: boolean
+  name: crop_image
+  label: Tilpass bilde
+  description: Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
+    i sin helhet
+- name: author
+  type: select
+  default: _authors/gunnar-christensen.md
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Skribent
+  description: Hvem har skrevet innholdet
+- type: datetime
+  name: publish_date
+  label: Dato Publisert
 - type: number
   name: weight
-  label: weight
+  label: Vekting
+  description: Bestemmer hvor synlig skal denne artikkelen være
+- type: list
+  name: tags
+  label: Emneknagger
