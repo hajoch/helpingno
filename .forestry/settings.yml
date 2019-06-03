@@ -4,15 +4,24 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
-  label: Posts
+  label: Artikler
+  create: all
+  templates:
+  - post-template
+- type: jekyll-pages
+  label: Sider
   create: all
 - type: directory
   path: _authors
-  label: Authors
+  label: Personer
+  create: all
+  match: "**/*"
+  templates:
+  - author-template
+- type: directory
+  path: _category
+  label: Kategorier
   create: all
   match: "**/*"
 upload_dir: assets/images
