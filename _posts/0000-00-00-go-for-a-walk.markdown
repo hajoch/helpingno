@@ -1,17 +1,21 @@
 ---
 layout: post
 categories:
-  - "Mental Helse"
-date: 2019-01-01
+- Mental Helse
+date: 2019-06-03 22:12:53 +0200
 image: "/assets/images/fottur.jpg"
-crop_image: True
-tags: [Fottur, Helse, Mental Helse]
-title:  "Go for a walk"
-author: "odd-m-lunde"
-weight: 1
+crop_image: true
+tags:
+- Fottur
+- Helse
+- Mental Helse
+title: Go for a walk
+author: _authors/odd-m-lunde.markdown
+weight: 2
+excerpt: ''
+publish_date: 
+
 ---
-
-
 Vi sitter for mye. Alle vi som kan gå. Når indretjenesten i boligen din er ferdig eller før så tar du deg en deilig spasertur. Du gjør slik; Ta på ledige klær og gode sko. Gå ut av bostedet ditt og la beina føre deg av sted. Kan du gå rundt et vann eller over en kolle eller til havet, så velg gjerne det.
 
 Du slenger med armene og bøyer lett i knærne. Du føler underlaget og treffer bakken med helen, så ruller du opp på forfoten og retter ryggen. Du holder den farten du kan uten å bli svett. Pust inn gjennom nesa og ut gjennom munnen fem ganger og så glem pusten. La følelser og tanker komme og gå. Ikke dvel ved et problem eller ved at du har vondt et sted.
