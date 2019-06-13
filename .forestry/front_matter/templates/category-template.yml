@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: Kategorinavn
-- type: text
-  name: color
+- name: color
+  type: color
   label: Farge
+  config:
+    required: false
+    color_format: Hex
