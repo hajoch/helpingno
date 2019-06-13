@@ -24,6 +24,8 @@ sections:
   label: Kategorier
   create: all
   match: "**/*"
+  templates:
+  - category-template
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
