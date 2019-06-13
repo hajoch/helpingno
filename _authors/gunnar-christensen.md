@@ -6,8 +6,7 @@ image: "/assets/images/authors/gc8.jpg"
 ---
 i [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
 
-**Utdannelse  
-**  
+**Utdannelse**  
 Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http://www.helping.no/religioner.htm), [økonomi](http://www.helping.no/okonomi.htm) og [sosiologi](http://www.helping.no/farger.htm) fra universitetene i Oslo og Bergen
 
 **Utgitt bøkene:**
@@ -78,3 +77,5 @@ Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen a
 De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med småforlag.   
   
 Dette systemet gjør at du går glipp av mange flotte bøker.
+
+**![](http://www.helping.no/gul2.jpg =150x5)**  

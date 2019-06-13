@@ -14,5 +14,5 @@ fields:
   name: image
   label: Bilde
 pages:
-- _authors/odd-m-lunde.markdown
 - _authors/gunnar-christensen.md
+- _authors/odd-m-lunde.markdown
