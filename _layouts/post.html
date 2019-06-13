@@ -26,7 +26,7 @@ layout: default
         {% include base/post-categories.html %}
       </div>
     </header>
-    <article class="post-content uk-margin" id="postContent">
+    <article class="post-content uk-margin uk-dropcap" id="postContent">
       {{ content }}
     </article>
     <div class="post-tags">
@@ -38,7 +38,9 @@ layout: default
 
     </div>
   </div>
-  {% include social-menu.html %}
+  <div class="print-hide">
+    {% include social-menu.html %}
+  </div>
   <div class="uk-flex uk-flex-center uk-margin-medium print-hide">
     <div><a class="uk-align-center" uk-tooltip="Til toppen" href="#" uk-totop uk-scroll></a></div>
   </div>

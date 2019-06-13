@@ -5,8 +5,9 @@
   {% assign pagecategories = post.categories | join:',' %}
   {% assign categories = site.category | where: 'title', pagecategories %}
   {% for category in categories %}
+  {% assign color = category.color | default: '#404BFB' %}
   <a href="{{ category.url | prepend: site.baseurl }}">
-    <span class="uk-label">{{ category.title }}</span>
+    <span class="uk-label" style="background: {{ color }}">{{ category.title }}</span>
   </a>
   {% endfor %}
 </div>

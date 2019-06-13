@@ -103,11 +103,14 @@ main {
   padding: 0px 20px;
 }
 
+.uk-badge {
+  background: #404BFB !important;
+}
 
 
 //-------------------
  @media print {
-    body {margin-top: 50mm; margin-bottom: 50mm; 
+    .content{margin-top: 50mm; margin-bottom: 50mm;
            margin-left: 0mm; margin-right: 0mm}
    .print-hide {
      display: none;
