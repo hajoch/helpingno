@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-03 22:05:21 +0200
+date: 2019-06-03T20:05:21.000+00:00
 author: _authors/odd-m-lunde.markdown
 title: Visualisering
 excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fysisk
@@ -10,10 +10,10 @@ excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fys
   Vi kan skrelle det, vi kan skjære en båt av eplet og kjenne smaken, vi kan se hvordan
   små dråper med fruktsaft følger knivens linje i skjæret.
 categories:
-- Mental Helse
+- _category/mental-helse.md
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
-publish_date:
+publish_date: 
 weight: 0
 tags:
 - Mental Helse
