@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Kategorinavn
 - type: text
-  name: icon
-  label: icon
+  name: color
+  label: Farge
