@@ -71,5 +71,6 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/båtkjøpfeller-unngå-kjøpertabbene.md
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-05-25-AIMA.markdown
