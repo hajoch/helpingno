@@ -3,7 +3,7 @@
 {% endunless %}
 <div class="post-meta-categories">
   {% assign pagecategories = post.categories | join:',' %}
-  {% assign categories = site.category | where: 'title', pagecategories %}
+  {% assign categories = site.category | where: 'path', pagecategories %}
   {% for category in categories %}
   {% assign color = category.color | default: '#404BFB' %}
   <a href="{{ category.url | prepend: site.baseurl }}">
