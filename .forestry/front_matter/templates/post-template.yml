@@ -18,8 +18,8 @@ fields:
 - type: textarea
   name: excerpt
   label: Ingress
-  description: Er dette feltet tomt så velges første avsnitt automatisk på sider med
-    forhåndsvisning av artikkelen
+  config:
+    wysiwyg: false
 - type: file
   name: image
   label: Bilde
