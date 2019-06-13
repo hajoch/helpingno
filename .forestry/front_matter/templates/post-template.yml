@@ -55,6 +55,15 @@ fields:
 - type: list
   name: tags
   label: Emneknagger
+- name: image_caption
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bildetekst
 pages:
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-05-25-AIMA.markdown
