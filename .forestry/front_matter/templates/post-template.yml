@@ -24,6 +24,11 @@ fields:
   name: categories
   label: Kategorier
   description: Innleggets kategori (første blir hovedkategori)
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: kategori
 - type: file
   name: image
   label: Bilde
@@ -52,9 +57,6 @@ fields:
   name: weight
   label: Vekting
   description: Bestemmer hvor synlig skal denne artikkelen være
-- type: list
-  name: tags
-  label: Emneknagger
 - name: image_caption
   type: textarea
   default: ''
@@ -64,26 +66,10 @@ fields:
     schema:
       format: markdown
   label: Bildetekst
-- name: categoriess
-  type: field_group_list
-  fields:
-  - name: test
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: kategori
-        file: 
-        path: 
-    label: test
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: test
+- name: tags
+  type: tag_list
+  default: []
+  label: Emneknagger
 pages:
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-05-25-AIMA.markdown
