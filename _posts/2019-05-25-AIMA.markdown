@@ -1,15 +1,16 @@
 ---
 layout: post
 categories:
-- Bøker
-date: 2019-06-03 22:09:41 +0200
+- _category/boker.md
+date: 2019-06-03T20:09:41.000+00:00
 publish_date: 2019-05-25T21:14:42.000+00:00
 image: "/assets/images/aima5.jpg"
-image_caption: "Tegning av Berit Anfinsen"
+image_caption: Tegning av Berit Anfinsen
 crop_image: true
 tags:
 - Aima
-- barnebok
+- Bok
+- Barnebok
 title: Aima - Spennende barnebok
 excerpt: Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende
   ny skapning innen barnebøker som vil fascinere både barn og voksne.
