@@ -5,6 +5,7 @@ categories:
 date: 2019-06-03 22:09:41 +0200
 publish_date: 2019-05-25T21:14:42.000+00:00
 image: "/assets/images/aima5.jpg"
+image_caption: "Tegning av Berit Anfinsen"
 crop_image: true
 tags:
 - Aima
@@ -17,9 +18,6 @@ weight: 3
 
 ---
 Aima er ei lita hulder med evner og egenskaper som er mystiske og fremmede for mange av oss.
-
-* **Tegner** - Berit Anfinsen
-* **Forfatter** - Gunnar Christensen
 
 Handlingen i barneboka Aima foregår i norsk natur. Hovedpersonen Aima er ei lita hulder. Som kjent knytter det seg fra gammel tid mye folketro, fantasi og forestillinger til Huldra hvilket har vart helt fram til vår tid.
 

@@ -4,9 +4,10 @@ layout: default
 <div class="content">
   <div class="post uk-article">
     <header class="post-header">
-      <h2 class="uk-article-title">{{ page.title }}</h2>
+      <h2 class="uk-article-title uk-margin-remove">{{ page.title }}</h2>
+      <h4 class="uk-article-lead uk-margin">{{ page.excerpt }}</h4>
       {% if page.image %}
-        <div class="uk-margin-medium">
+        <div class="uk-margin uk-margin-medium-top print-hide">
           {% if page.crop_image %}
             <div class="uk-cover-container uk-height-large" uk-parallax="grayscale: 100; blur: 2px" >
               <img src="{{ page.image | prepend: site.baseurl }}" alt="" uk-cover >
@@ -14,14 +15,18 @@ layout: default
           {% else %}
             <img src="{{ page.image | prepend: site.baseurl }}" alt="">
           {% endif %}
+          {% if page.image_caption %}
+            <p class="uk-text-meta uk-text-center">{{ page.image_caption }}</p>
+          {% endif %}
         </div>
       {% endif %}
+
       <div class="page-meta">
         {% include page-meta.html %}
+        {% include base/post-categories.html %}
       </div>
     </header>
     <article class="post-content uk-margin" id="postContent">
-      <h4 class="uk-article-lead">{{ page.excerpt }}</h4>
       {{ content }}
     </article>
     <div class="post-tags">
@@ -34,11 +39,11 @@ layout: default
     </div>
   </div>
   {% include social-menu.html %}
-  <div class="uk-flex uk-flex-center uk-margin-medium">
+  <div class="uk-flex uk-flex-center uk-margin-medium print-hide">
     <div><a class="uk-align-center" uk-tooltip="Til toppen" href="#" uk-totop uk-scroll></a></div>
   </div>
 </div>
-<div class="below-content">
+<div class="below-content print-hide">
   <div class="">
   </div>
 </div>

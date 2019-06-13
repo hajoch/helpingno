@@ -2,7 +2,7 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    <header>
+    <header class="print-hide">
       {% include navigation.html %}
     </header>
     <main>
@@ -10,7 +10,9 @@
         {{ content }}
       </div>
     </main>
-    {% include footer.html %}
+    <div class="print-hide">
+      {% include footer.html %}
+    </div>
     <script>
     try{
       console.log('test');

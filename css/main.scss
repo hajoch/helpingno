@@ -59,7 +59,7 @@ main {
   padding-right: 20px;
   margin: 0 auto;
 //  background: white;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .below-content {
@@ -102,3 +102,17 @@ main {
 .uk-navbar-container {
   padding: 0px 20px;
 }
+
+
+
+//-------------------
+ @media print {
+    body {margin-top: 50mm; margin-bottom: 50mm; 
+           margin-left: 0mm; margin-right: 0mm}
+   .print-hide {
+     display: none;
+   }
+   .uk-cover-container {
+     filter: none;
+   }
+ }
