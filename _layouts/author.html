@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="post uk-article">
+<div class="post uk-article content">
   <header class="post-header">
     <div class="uk-flex uk-flex-center uk-margin-medium">
       <div class="avatar avatar-full">
-        <img src="{{ page.image }}" />
+        <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" src="{{ page.image | prepend: site.baseurl }}" />
       </div>
     </div>
     <h2 class="uk-article-title">{{ page.title }}</h2>
   </header>
 
-  <div class="author-content">
+  <div class="author-content ">
     {{ content }}
   </div>
 </div>
