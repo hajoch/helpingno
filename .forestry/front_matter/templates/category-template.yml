@@ -11,3 +11,5 @@ fields:
   config:
     required: false
     color_format: Hex
+pages:
+- _category/båt.md
