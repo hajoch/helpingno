@@ -20,23 +20,24 @@ fields:
   label: Ingress
   description: Er dette feltet tomt så velges første avsnitt automatisk på sider med
     forhåndsvisning av artikkelen
-- type: list
-  name: categories
-  label: Kategorier
-  description: Innleggets kategori (første blir hovedkategori)
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: kategori
 - type: file
   name: image
   label: Bilde
+- name: image_caption
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bildetekst
 - type: boolean
   name: crop_image
   label: Tilpass bilde
   description: Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
     i sin helhet
+  default: true
 - name: author
   type: select
   default: _authors/gunnar-christensen.md
@@ -50,6 +51,15 @@ fields:
       path: 
   label: Skribent
   description: Hvem har skrevet innholdet
+- type: list
+  name: categories
+  label: Kategorier
+  description: Innleggets kategori (første blir hovedkategori)
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: kategori
 - type: datetime
   name: publish_date
   label: Dato Publisert
@@ -57,15 +67,6 @@ fields:
   name: weight
   label: Vekting
   description: Bestemmer hvor synlig skal denne artikkelen være
-- name: image_caption
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Bildetekst
 - name: tags
   type: tag_list
   default: []
