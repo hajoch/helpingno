@@ -1,19 +1,21 @@
 ---
 layout: post
 categories:
-- Mental Helse
-date: 2019-06-03 22:12:53 +0200
+- _category/mental-helse.md
+date: 2019-06-03T20:12:53.000+00:00
 image: "/assets/images/fottur.jpg"
 crop_image: true
 tags:
 - Fottur
 - Helse
 - Mental Helse
+- Mentalhygene
 title: Go for a walk
 author: _authors/odd-m-lunde.markdown
 weight: 2
 excerpt: ''
 publish_date: 
+image_caption: ''
 
 ---
 Vi sitter for mye. Alle vi som kan gå. Når indretjenesten i boligen din er ferdig eller før så tar du deg en deilig spasertur. Du gjør slik; Ta på ledige klær og gode sko. Gå ut av bostedet ditt og la beina føre deg av sted. Kan du gå rundt et vann eller over en kolle eller til havet, så velg gjerne det.
