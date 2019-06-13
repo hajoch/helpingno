@@ -15,7 +15,7 @@ weight: 3
 image_caption: 'foto: Gunnar Christensen'
 
 ---
-**Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i luften på båtmesser og i salgsannonser. Sommeruker på sjøen lokker med badeliv og fiske. Dette ligger i bakhodet når båtannonser pløyes.**
+Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i luften på båtmesser og i salgsannonser. Sommeruker på sjøen lokker med badeliv og fiske. Dette ligger i bakhodet når båtannonser pløyes.
 
 Hvilken båttype skal jeg velge? Gammel eller ny, stor eller liten båt? Standard "tilstands-test" på båter finnes ikke. Her er man helt avhengig av kunnskap, tillit og god vurderingsevne ved kjøp. Sparer du penger ved å kjøpe brukt? Undersøk alltid en bruktbåt grundig før kjøp: Sammenlikn med nypris og garanti. Få hjelp av fagmann om du ikke er motorkyndig. Har plastbåten plastpest? Tidligere skrogskader som ikke er fagmessig reparert? Finnes heftelser på båten som må sjekkes på Brønnøysundregisteret?
 
@@ -92,8 +92,8 @@ Er du i tvil om sjømerkingssysyemet langs kysten så ha med en oversikt over de
 På høsten og vinteren er bruktbåtprisene vanligvis på det laveste. Våren og forsommeren er bruktprisene tradisjonelt på det høyeste. De senere år har bruktprisene vært høye hele året.
 
 **Husk standard kjøpekontrakt når du kjøper eller selger båt.**  
-En ryddig eierskifteavtale er best både for kjøper og selger. Forbrukerrådet m. flere har slike kontrakter som kan lestes ned fra nett.  
-  
+En ryddig eierskifteavtale er best både for kjøper og selger. Forbrukerrådet m. flere har slike kontrakter som kan lestes ned fra nett.
+
 Registrert båt meldes eierskifte til Redningsselskapets småbåtregister eller annet båtregister som f.eks. Securmark som nå både registerer og tyverisikrer båter. Viktigst med registrering er å tyverisikre båten. Et skilt fra Redningasselskapet kan lett rives av båten ved tyveri. Blir nummeret preget inn i båtskråget og på motoren er det vanskeligere å fjerne det.
 
 Kjøpes eller selges båthenger skal denne omregistreres på eget skjema som fåes hos din nærmeste trafikkstasjon.
