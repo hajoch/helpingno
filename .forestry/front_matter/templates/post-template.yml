@@ -64,6 +64,26 @@ fields:
     schema:
       format: markdown
   label: Bildetekst
+- name: categoriess
+  type: field_group_list
+  fields:
+  - name: test
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: kategori
+        file: 
+        path: 
+    label: test
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: test
 pages:
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-05-25-AIMA.markdown
