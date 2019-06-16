@@ -8,4 +8,4 @@ image: ''
 
 Redaksjonssekretær i helping.no
 
-Fotograf, Journalist, webdesigner og redaksjonssekretær
+Fotograf, Journalist, 
