@@ -15,7 +15,7 @@ tags:
 title: Aima - Spennende barnebok
 excerpt: "Aima er ei lita hulder med evner og egenskaper \nsom er mystiske og fremmede
   for mange av oss"
-author: _authors/gunnar-christensen.md
+author: ''
 weight: 10
 
 ---
