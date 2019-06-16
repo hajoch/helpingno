@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/leasing-eller-billån.md
 - _posts/2019-06-16-buddhismens-fornyelse.md
 - _posts/2019-06-16-døden-og-livet-som-forandring.md
 - _posts/0000-00-00-go-for-a-walk.markdown
