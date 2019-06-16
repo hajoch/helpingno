@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sjøens-helter-krigsseilernes-kamp-bokanmeldelse-av-jon-michelet-bokserie.md
 - _posts/2019-06-16-Leasing.md
 - _posts/leasing-eller-billån.md
 - _posts/2019-06-16-buddhismens-fornyelse.md
