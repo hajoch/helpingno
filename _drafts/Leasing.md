@@ -13,3 +13,62 @@ publish_date:
 weight: 
 
 ---
+**Bilforhandlerne markedsfører nå leasing stadig oftere og i takt med omsetningsvariasjonene på nybiler. Leasing er en rimeligere inngangsbillett til en ny bil hevdes det. Men er dette riktig? Hva innebærer det å lease en bil fremfor å kjøpe? Leasing-kontrakter har mange komponenter du må holde orden på: Beregning av verditap, rente m.m..**
+
+**Men hva lønner seg? Kjøpe eller leie?   
+Se nøye på leasingkontraktene: Det kan være stor forskjell på pris-tilbud og vilkår..**
+
+Spørsmål om verditap blir ekstra usikkert når vi nå har flere drivstoffalternativer enn før og en rask teknisk utvikling i retning av el-biler og hybrider - og snart hydrogenbiler - som alle er i stadig forbedring. Dette samtidig med forbedringer av bensin- og dieselmotorer. Biodrivstoff? Gassdrift? Hva med de bilpolitiske signalene i Norge?
+
+**- Kjøp av ny bil har aldri tidligere vært mer uforutsigbart. Hvor vil bilprisene ligge fremover? Hvorfor er den norske bilavgiftspolitikken i utakt med inernasjonale forskningsresultater og andre vestlige lands politikk?  
+**  
+\- Hvor miljøvennlig er egentlig el-bilene når økt strømforbruk i Norge bl.a. fører til at svenskene starter opp atomkraftverkene sine til 90% ytelse for å dekke den økte etterspørselen vår? Hvor miljøvennlig er batteriproduksjonen?
+
+**Hva er leasing?**  
+I prinsippet leier du ny bil når du "leaser" såkalt "privat leasing". Det innebærer en fast månedsleie med tillegg av et gebyr i en periode på 3 år. Ved inngåelsen av leieavtalen innbetaler du i noen tilfeller et innskudd som er et engangsbeløp du må betale ved inngåelse av leieavtalen - f. eks. femti tusen kroner. Dette engangsbeløpet får du ikke tilbake etter leieavtalens slutt så dette er en del av totalkostnaden ved leieavtalen. Hva er da den reelle leasingprisen?
+
+**Leieavtale.**  
+Det opprettes en leieavtale med et finansieringsselskap og dette selskapet kjøper bilen du ønsker av forhandler og leier den ut til deg med avtale om kjørelengde. Det kan i løpet av leieperioden gjøres endringer i avtalen om kjørelengde når du trenger å øke denne, men ikke når du trenger lavere kjørelengde i løpet av leieforholdet.   
+  
+Disse leasingselskapene tjener godt på dette.
+
+**Skatt og leasing**  
+Skattemessig slipper du å føre opp bilen du leier på selvangivelsen som formue, men til gjengjeld får du ikke rentefradrag for rentene du betaler som del av leiebeløpet. Dette rentefradraget er det bileier dvs. finansieringsselskapet som får.
+
+Oftest er privat leie innrettet slik at det ikke lønner seg å kjøpe bilen etter leieperioden, men heller gå inn på en ny avtale etter 3 år. Bilfirmaet gjør avtale med finansieringsselskapet om gjenkjøp av bilen etter 3 år til en pris som er avtalt i leiekontrakten: Denne gjenkjøpsprisen er høyere enn antatt markedspris på leveringstidspunktet.
+
+**Hvorfor er denne gjenkjøpsprisen høyere?**  
+Rett og slett fordi du ikke skal fristes til å kjøpe leiebilen etter 3 år - for da minster de deg som leasingkunde videre. Bilselgeren vil fortelle deg at finansieringsselskapet tar en risiko ved å beregne en høyere verdi på bilen etter 3 år. Dette er tull. Alle vet at et firma har andre skatteregler enn privatpersoner i Norge. Finansieringsselskapet har bl.a. momsfradrag og avskrivningsregler som gjør dette til god butikk for dem selv. Meget god butikk.
+
+**Ekstraregning**  
+Mange bil-leiere er forarget etter å ha avsluttet en leasing-avtale. Det rapporteres som at mange får store urimelige, ekstraregninger for ubetydelige, knapt synlige riper i lakken eller bagatellmessige småfeil ved innlevering av bilen. "Feil" som mange ikke gjør noe med på egen bil. Med slike opplysninger om leasingpraksis forstår du at regnestykket går opp og mer enn det for finansieringsselskapet og forhandler. Forhandler styrer trolig dette for å få en så fin bruktbil som mulig å selge videre.
+
+Dette fører til at det er ingen selvfølge at leasing blir populært for bilister over tid, når eller hvis usikkerheten omkring bilpolitikken, bilverdiene og drivstoff-problematikken roer seg.
+
+**Hva skjer hvis renten går opp?**  
+Nå markedsføres en leasing-rente helt nede i ca. 2 prosent. Rentene er en del av det du betaler hver måned i leie og denne renta er flytende. Det betyr at om renta går opp så går også leiebeløpet opp. Dermed er du ikke sikker på hvor gunstig leiekontrakten er før hele leieperioden er over og du da kan sammenlikne om det du har betalt i perioden er like mye som det verditapet og de renteutgifter du ville hatt om du kjøper bilen. Renteoppgang er ventet i markedet nå.
+
+Det er derfor bilselgeren ikke vil presentere en beregning som vise deg hva som er lønnsomt - kjøpe eller leie. Her spiller bl.a. markedssituasjonen for bruktbiler og nybilsalg inn sammen med bl.a. renten og skiftende skatteregler. Altså er dette et regnestykke med for mange usikkerhetsfaktorer til at lønnsomheten kan regnes ut på en enkel måte.
+
+**Verditapet**  
+Verditapet på en ny bil er ikke hyggelig. Særlig i Norge med høye avgifter på biler.Til gjengjeld er det en fordel å kjøre nyere bil med garantiene på plass og god trafikksikkerhet. Uansett hvordan du snur og vender på regnestykket blir bilhold et tapsprosjekt. Da særlig om du beholder bilen ut over garantitiden når alder, slitasje, rust, serviceutgifter og slitasjedeler ofte gir uforutsette utgifter.  
+  
+Det er derfor forutsigbarheten, komforten og sikkerheten ved å kjøre nyere bil som er leasings styrke, med faste månedlige leieutgifter. Men som sagt disse "faste" utgiftene forutsetter uendret rentenivå om da ikke leieavtalen binder renten i leieperioden. Og hva koster det å binde renta?
+
+Verditap er et regnestykke mange bileiere frykter. Hva får jeg for bilen etter 3 år når den selges eller byttes inn? Det er dette leasing-systemet kanskje sparer deg for.
+
+Når du går over fra å eie til leasing tar bilfirmaet din bil i innbytte etter en pris basert på "vanlig" og lav innbyttepris. Det som overskrider fastbeløpet du må ut med for å inngå leasingavtalen får du utbetalt kontant. Om du får kr. 150.000 i innbytte for gamlebilen og skal ut med kr. 50.000 til en ny leasing-avtale så frigjør du da altså hundre tusen.
+
+**Hva lønner seg?**  
+Hva lønner seg? Økonomisk er det trolig mest lønnsom å kjøpe bil om du har beløpet kontant tilgjengelig. Likevel vet du ikke hva bilen har kostet deg før du har byttet den ut og verditapet realiseres.
+
+Mange kjøper bil samtidig med huskjøp fordi man da kan låne langsiktig et større beløp enn huset koster og kjøpe både hus og bil samtidig. Men da binder du kapital over lengre tid som du kanskje ville ønske å ha til lavere gjeld, båt eller ferie. Er alternativet å opprette et billån og kjøpe bilen kan leasing være et bedre alternativ om du vil unngå å binde for mye kapital i bilholdet.
+
+**Kjøpe og beholde bilen lengre enn 3 år?**  
+Dette er bilselgernes mareritt: Flere bilkjøpere oppdager at bilen som byttes inn etter 3 år ikke er mer verd i innbytte enn under halvparten av hva ny tilsvarende bil koster. Eksempel Ford Focus stv.. Og det med kun 40 - 50.000km på måleren. Da er det fremdeles mye igjen av bilen.
+
+Den sterkeste tapskurven er naturligvis de tre førsten årene. Trenger du å kjøpe bil hver 3 år? Er det kun pga naboeffekten eller endret bilbehov. Beholder du bilen ut garantitiden på 5 til 7 år og kjører den f.eks. i 10 år. Da har du et langt mindre tap pr. år enn de regnestykkene leasingberegningene opererer med. Og de påkostningene som påløper er knapt i den størrelsesorden leasingregningene er. Men den tekniske utviklingen på bilsikkerhet blir bedre for hver ny modell. Det taler for å skifte til nyere bil.
+
+Viktig når du beholder bilen legre enn 3 år er å være nøye med understelsbehandling - Tectyl er best her. Velger du i tillegg bilmerke med gode testresultater på slitestyrke, lite rust og holdbarhet er dette trolig det rimeligste bilholdet.
+
+**Hovedproblemet for de fleste er behovet for en bil og ønsket om å tape minst mulig på bilholdet. Se også da på andre utgifter ved bilholdet som priser på skatter og avgifter, drivstoff, forsikring og hvor du tar servicen og kjøper dekk.**
