@@ -10,7 +10,8 @@ excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, 
 image: "/assets/images/stupanepal.jpg"
 image_caption: 'Foto fra Nepal. Buddhisme: Swoyambhu like utenfor Kathamnduer verdens
   største Stupa. Her møtes tibetanske buddhister og turister.'
-categories: []
+categories:
+- _category/religion.md
 publish_date: 
 weight: 
 
