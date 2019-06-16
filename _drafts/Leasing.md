@@ -14,7 +14,7 @@ publish_date:
 weight: 10
 
 ---
-**Bilforhandlerne markedsfører nå leasing stadig oftere og i takt med omsetningsvariasjonene på nybiler. Leasing er en rimeligere inngangsbillett til en ny bil hevdes det. Men er dette riktig? Hva innebærer det å lease en bil fremfor å kjøpe? Leasing-kontrakter har mange komponenter du må holde orden på: Beregning av verditap, rente m.m..**
+Bilforhandlerne markedsfører nå leasing stadig oftere og i takt med omsetningsvariasjonene på nybiler. Leasing er en rimeligere inngangsbillett til en ny bil hevdes det. Men er dette riktig? Hva innebærer det å lease en bil fremfor å kjøpe? Leasing-kontrakter har mange komponenter du må holde orden på: Beregning av verditap, rente m.m..
 
 **Men hva lønner seg? Kjøpe eller leie?   
 Se nøye på leasingkontraktene: Det kan være stor forskjell på pris-tilbud og vilkår..**
@@ -72,4 +72,4 @@ Den sterkeste tapskurven er naturligvis de tre førsten årene. Trenger du å kj
 
 Viktig når du beholder bilen legre enn 3 år er å være nøye med understelsbehandling - Tectyl er best her. Velger du i tillegg bilmerke med gode testresultater på slitestyrke, lite rust og holdbarhet er dette trolig det rimeligste bilholdet.
 
-**Hovedproblemet for de fleste er behovet for en bil og ønsket om å tape minst mulig på bilholdet. Se også da på andre utgifter ved bilholdet som priser på skatter og avgifter, drivstoff, forsikring og hvor du tar servicen og kjøper dekk.**
+Hovedproblemet for de fleste er behovet for en bil og ønsket om å tape minst mulig på bilholdet. Se også da på andre utgifter ved bilholdet som priser på skatter og avgifter, drivstoff, forsikring og hvor du tar servicen og kjøper dekk.
