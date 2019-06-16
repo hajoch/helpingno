@@ -1,6 +1,6 @@
 ---
 layout: author
-title: Henning J. Grini
+title: Henning Jon Grini
 image: "/assets/images/henning4.jpg"
 
 ---
