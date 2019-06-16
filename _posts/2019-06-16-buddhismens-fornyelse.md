@@ -3,7 +3,9 @@ layout: post
 date: 2019-06-16 23:01:45 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Buddhisme
+- " religion tro"
 title: Buddhismens fornyelse
 excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, samt
   Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
@@ -11,6 +13,7 @@ image: "/assets/images/stupanepal.jpg"
 image_caption: 'Foto fra Nepal. Buddhisme: Swoyambhu like utenfor Kathamnduer verdens
   største Stupa. Her møtes tibetanske buddhister og turister.'
 categories:
+- _category/religion.md
 - _category/religion.md
 publish_date: 
 weight: 
