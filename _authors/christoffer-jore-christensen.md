@@ -2,7 +2,6 @@
 layout: author
 title: Christoffer Jore Christensen
 image: ''
-published: false
 
 ---
 **Helping Bil**
