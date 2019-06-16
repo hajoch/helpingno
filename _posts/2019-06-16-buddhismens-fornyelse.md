@@ -16,7 +16,7 @@ categories:
 - _category/religion.md
 - _category/religion.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
