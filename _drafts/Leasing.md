@@ -5,7 +5,7 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Leasing eller billån?
-excerpt: ''
+excerpt: "Kjøp av ny bil har aldri \ntidligere vært mer uforutsigbart."
 image: "/assets/images/leasingbil.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 categories:
