@@ -16,7 +16,6 @@ image: "/assets/images/nov.06.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
-- _category/mental-helse.md
 publish_date: 
 weight: 1
 
