@@ -8,9 +8,10 @@ title: Leasing eller billån?
 excerpt: ''
 image: "/assets/images/leasingbil.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
-weight: 
+weight: 10
 
 ---
 **Bilforhandlerne markedsfører nå leasing stadig oftere og i takt med omsetningsvariasjonene på nybiler. Leasing er en rimeligere inngangsbillett til en ny bil hevdes det. Men er dette riktig? Hva innebærer det å lease en bil fremfor å kjøpe? Leasing-kontrakter har mange komponenter du må holde orden på: Beregning av verditap, rente m.m..**
