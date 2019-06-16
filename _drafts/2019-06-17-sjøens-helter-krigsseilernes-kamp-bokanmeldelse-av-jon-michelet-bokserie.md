@@ -81,9 +81,8 @@ Halvor er ikke en gjennomsnittssjømann på denne tiden. Han er sterkt opptatt a
 
 Jon Michelet klarte å skrive ferdig den femte og siste betydningsfulle boken i denne serien før han døde i 2018:   
 **  
-Bind 5**
-
-Like etter at forfatteren gikk bort kom hans siste bind i serien om “Skogsmatrosen”. Første halvpart av boka omhandler norske sjøfolks kamp i Asia. Først på hospital på en tropeøy som følge av at Skramstad ble bombeoffer og ombord i handelsflåten Nortraskip. Et betydelig antall skip med norsk besetning seilte med forsyninger til den Amerikanske krigen mot Japan. Denne brutale og traumatiske del av krigsseilasen er ikke så kjent i Norge, men desto viktigere å løfte frem. Denne krigen varte lengre her enn i Europa. Mens nyhetene om befrielsen av land etter land i Europa - også Norge - kjempet disse norske heltene for sine liv mot intense japse-angrep for amerikanske interesser.
+Bind 5  
+**Like etter at forfatteren gikk bort kom hans siste bind i serien om “Skogsmatrosen”. Første halvpart av boka omhandler norske sjøfolks kamp i Asia. Først på hospital på en tropeøy som følge av at Skramstad ble bombeoffer og ombord i handelsflåten Nortraskip. Et betydelig antall skip med norsk besetning seilte med forsyninger til den Amerikanske krigen mot Japan. Denne brutale og traumatiske del av krigsseilasen er ikke så kjent i Norge, men desto viktigere å løfte frem. Denne krigen varte lengre her enn i Europa. Mens nyhetene om befrielsen av land etter land i Europa - også Norge - kjempet disse norske heltene for sine liv mot intense japse-angrep for amerikanske interesser.
 
 Siste del av boka er krigsseilernes hjemkomst og det harde livet som møtte dem: Her skildres den brutale virkeligheten krigsseilerne uventet kom hjem til etter at de som gruppe medvirket avgjørende til å vinne krigen.
 
