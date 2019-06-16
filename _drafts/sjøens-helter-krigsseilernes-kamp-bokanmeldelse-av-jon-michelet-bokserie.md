@@ -6,7 +6,7 @@ author: _authors/gunnar-christensen.md
 tags: []
 title: Sjøens helter - krigsseilernes kamp  Bokanmeldelse av Jon Michelet bokserie.
 excerpt: ''
-image: ''
+image: "/assets/images/bokanm.jpg"
 image_caption: ''
 categories: []
 publish_date: 
