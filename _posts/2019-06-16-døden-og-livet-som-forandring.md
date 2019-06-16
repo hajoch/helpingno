@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-16 22:23:39 +0200
 crop_image: true
-author: ''
+author: _authors/kari-rose-norheim.md
 tags:
 - Helse
 - Døden
@@ -14,7 +14,9 @@ excerpt: 'Døden er slik jeg har opplevd det ikke annet enn en kvalitativ stor f
   aldri vil bli helt det samme mennesket igjen. '
 image: "/assets/images/nov.06.jpg"
 image_caption: 'Foto: Gunnar Christensen'
-categories: []
+categories:
+- _category/helse.md
+- _category/mental-helse.md
 publish_date: 
 weight: 1
 
