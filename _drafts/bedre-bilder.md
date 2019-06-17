@@ -11,9 +11,10 @@ excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virk
   har mobiltelefoner også fått gode kameraer.
 image: "/assets/images/nov.14.jpg"
 image_caption: 'Foto: Gunnar Christensen'
-categories: []
+categories:
+- _category/foto.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
 **![](/assets/images/toru.002.jpg)Kameravalg**  
