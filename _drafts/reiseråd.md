@@ -1,0 +1,64 @@
+---
+layout: post
+date: 2019-06-17 12:15:50 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: Reiseråd
+excerpt: ''
+image: ''
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+  
+**Pass - visum**  
+ Sjekk passet i god tid før reisen. Husk det kan i perioder ta tid å få et nytt pass. Sjekk også passregler for landet du skal til. Noen land har strengere krav til passet. Sjekk derfor bl.a. seksmånedersregelen i land som Egypt, Thailand m.fl.. Tenk sikkerhet: Ha et kopi av passet og ev. visum annet sted i bagasjen. Det kan være et papirkopi eller en mobilbilde for å nevne noe.Ved frastjålet pass i utlandet er nødpass en løsning. Pass rundt halsen under ytterklær kan være lurt.
+
+**Vaksiner**  
+Sjekk om du må ta vaksiner i god tid før du reiser til reisemålet ditt. Om det er krav om vaksiner må du ta med vaksinasjonspapirene på reisen sammen med passet. Ha kopi av vaksinasjonspapirene annet sted om det skulle komme bort. Et kopi hjemme når du er på reise i utlandet kan også være nyttig.  
+  
+Vaksiner på utenlandsreiser:  
+[www.fhi.no/eway/default.aspx?pid=239&trg=List_6212&Main_6157=6263:0:25,](http://www.fhi.no/eway/default.aspx?pid=239&trg=List_6212&Main_6157=6263:0:25,6566&MainContent_6263=6464:0:25,7073&List_6212=6218:0:25,7105:1:0:0:::0:0)  
+[6566&MainContent_6263=6464:0:25,7073&List_6212=6218:0:25,7105:1:0:0:::0:0](http://www.fhi.no/eway/default.aspx?pid=239&trg=List_6212&Main_6157=6263:0:25,6566&MainContent_6263=6464:0:25,7073&List_6212=6218:0:25,7105:1:0:0:::0:0)
+
+Vaksiner hele året?  
+[www.nrk.no/norge/vaksinene-som-voksne-bor-huske-a-ta-1.11670847](http://www.nrk.no/norge/vaksinene-som-voksne-bor-huske-a-ta-1.11670847)
+
+Vaksiner der du reiser  
+[www.vaksinekart.org/default.aspx](http://www.vaksinekart.org/default.aspx)
+
+**Europeisk helsetrygdekort - helse**  
+Få kjenner til dette, men blir du syk på reisen er dette viktig å ha i orden. Helsetrygdekortet bekrefter din rett til helsetjenester som blir nødvendig når du oppholder deg midlertidig i andre EØS-land eller Sverits. Du har nemlig rett til helsetjenester etter reglene i landet hvor du oppholder deg. Helsetrygdekortet får du ved å kotakte helseøkonomiforvaltningen  
+HELFO på telefon 815 70 030 eller på nettsiden [www.helfo.no](http://www.helfo.no/).  
+Kortene er gyldige i 3 år fra utstedelsesdato.
+
+Tenk forebyggende helse på reisen. Unngå matforgiftning ved å følge forsiktihetsregler. Husk kulltabeletter, reiseapotek m.m.. En flaske kjøpevann til tannpuss og mundskyld kan være klokt i mange land.
+
+**Medisiner på reisen**  
+Er du daglig avhengig av medisiner bør du få en bekreftelse fra ditt apotek på at du er avhengig av disse medisinene om det blir kontroll av håndbagasjen på flyplassen. Det er ingen god ide å legge medisinene i kofferten for å unngå denne sjekken. Blir kofferten borte på flyreisen (noe som ofte skjer) er du i en vanskelig sitasjon.
+
+**Reise- og ulykkeforsikring og økonomi**  
+Det lønner seg å ha helårs reiseforsikring fremfor å tegne egen reiseforsikring for hver tur du tar. Har du helårs reiseforsikring er du også dekket når du er utenfor egen kommune hele året. Stol ikke på reiseforsikringen som er tilknyttet kredittkortet. Kredittkortforsikringen har mange unntak.
+
+De fleste reiseforikringer har ulykkesorsikring, men vurder om du trenger å øke ulykkesforsikringen. Ha alltid en kopi av vilkårene og forsikringsbeviset til reiseforsikringen med deg på reisen om du ikke har sikker nett-tilgang. Slik sjekker du nødvendige telefonnummerer og hvordan du skal forholde deg i situasjoner der du trenger hjelp fra forsikringen.
+
+**Risiko-vurdering på utenlandsreiser**  
+Det gamle ordtaket gjelder fortsatt: "Ikke bær alle dine egg i en kurv". Sørg for å spre risiko. F. eks ved å ha med to eller flere betalingskort. Helst ett av dem som kredittkort (med forsikring mot svindel). Ikke ha alle kort på en plass i lommeboka eller annet sted. Er du på hotell så lås ett betalingskort kort inn i safen eller kufferten. Husk alle (pin)koder. Snakk med banken din om tryggest mulig bruk av Visa og kredittkort i utlandet.
+
+Husk å sikre alle verdisaker: F.eks. kamera som gir deg vedrifulle minner fra turen. Det er smart å ha med et ekstra lite kamra med lader i kufferten om du skulle miste det du bruker til vanlig. Også pyntegjenstander kan ha stor verdi så tenk sikkerhet og vurder hele tiden risiko på reisen.
+
+**Nyheter og politikk**  
+ Oppdater deg på nyheter om ditt reisemål. Dette inkluderer også økonomi-nyheter og politiske forhold samt værforhold på reisen og i landet du skal til. Er du i tvil om din sikkerhet i landet kan du be UD om råd.
+
+**Ryggsekk-turist**  
+Er du ryggsekkturist i India så sy fast lommer på baksiden av bukselinningen der du oppbevarer pass og verdisaker: I India et det fortsatt tabu å gå under belltestedet på folk selv for mange kriminelle. Ikke reis alene om du kan unngå det. Det er tryggest å reise sammen med noen du har tillit til.
+
+**Data og mobilsikkerhet**  
+Sjekk datasikkerhet i utlandet om du tar med pc og mobil bl.a. i forbindelse med nettbank. Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker over i Norge. Når du ferierer i utlandet eller jobber der i kortere eller lengre tid så sjekk råd om sikkerhet. PST har utarbeid pdf-brosjyrer med råd til deg om sikkerhet og mobilbruk i utlandet.
+
+**Reisegaranti**  
+Reiser du på charter-tur er du imidlertid dekket av Reisegarantifondet.  
+Se nettsted: [www.rgf.no/pakketur](http://www.rgf.no/pakketur)
