@@ -15,7 +15,7 @@ publish_date:
 weight: 7
 
 ---
-**Sorg er en tilstand av opplevd tap. Man har måttet ufrivillig gi slipp på noe. Sorg er oftest forbundet med død, men kan også være tap av funksjonalitet ved for eksempel sykdom, invalidisering og alderdom, tap av arbeidssted, parforhold eventuelt med barn, m.m.. Akkurat som depresjon har sorg mange alvorlighetsgrader, fra ufrivillig tap og forandring med ubehagelig nyorientering, til psykisk invalidiserende håpløshet og mangel på mening i livet og livslyst.**
+Sorg er en tilstand av opplevd tap. Man har måttet ufrivillig gi slipp på noe. Sorg er oftest forbundet med død, men kan også være tap av funksjonalitet ved for eksempel sykdom, invalidisering og alderdom, tap av arbeidssted, parforhold eventuelt med barn, m.m.. Akkurat som depresjon har sorg mange alvorlighetsgrader, fra ufrivillig tap og forandring med ubehagelig nyorientering, til psykisk invalidiserende håpløshet og mangel på mening i livet og livslyst.
 
 Det som kjennetegner og definerer sorg fra andre psykologiske tilstander er at det er etterreaksjonen på en situasjon som har medført uønsket tap.
 
@@ -33,13 +33,13 @@ Ved sorg kan alle slags følelser og tilstander oppstå. Alle følelser fra bebr
 **Kriseteori**  
 Det har vist seg at alle mennesker gjennomgår lignende faser i opplevelsen av tap. Kriseteorien til Cullberg opererer med 4 faser, som ikke behøver å komme i denne rekkefølgen. De kan også hoppes frem og tilbake på, og går selvfølgelig over i hverandre. Dette varierer fra menneske til menneske og kommer an på person og hendelse. Denne fremstillingen er veldig generell og representerer derfor det mest vanlige. Kort presentasjon.
 
-1\.&#9;Sjokkfase. Tidsperspektiv timer/dager. Kjennetegnes først og fremst ved uvirkelighetsfølelse. Kan oppleves nesten som deltagelse i en drøm. Realiteten har ikke godt opp for en. Dette skjer ikke meg, eller sammenbrudd.
+Sjokkfase. Tidsperspektiv timer/dager. Kjennetegnes først og fremst ved uvirkelighetsfølelse. Kan oppleves nesten som deltagelse i en drøm. Realiteten har ikke godt opp for en. Dette skjer ikke meg, eller sammenbrudd.
 
-2\.&#9;Reaksjonsfase. Tidsperspektiv dager/uker. Kjennetegnes først og fremst ved at alle følelser, tanker og adferd kan forekomme, ofte helt eller delvis ukontrollert.
+Reaksjonsfase. Tidsperspektiv dager/uker. Kjennetegnes først og fremst ved at alle følelser, tanker og adferd kan forekomme, ofte helt eller delvis ukontrollert.
 
-3\.&#9;Bearbeiding eller reparasjonsfase. Tidsperspektiv uker/måneder. Kjennetegnes først og fremst ved at opplevelsen(er) gjennomarbeides, tidligere faser og reaksjoner integreres, og de begynner å bli forstått og satt i perspektiv.
+Bearbeiding eller reparasjonsfase. Tidsperspektiv uker/måneder. Kjennetegnes først og fremst ved at opplevelsen(er) gjennomarbeides, tidligere faser og reaksjoner integreres, og de begynner å bli forstått og satt i perspektiv.
 
-4\.&#9;Nyorienteringsfase. Tidsperspektiv måneder/år. Kjennetegnes først og fremst ved ny begynnende fremtidstro. Livet begynner å falle på plass igjen, og man klarer å se fremover.
+Nyorienteringsfase. Tidsperspektiv måneder/år. Kjennetegnes først og fremst ved ny begynnende fremtidstro. Livet begynner å falle på plass igjen, og man klarer å se fremover.
 
 **Livet kan gå videre**  
 Alle disse fasene bør gjennomleves for at sorgprosessen skal bli psykologisk helbredende etter tapsopplevelsen, så livet kan gå videre. Forsering og fortrengning av følelser, tanker og hendelser fører fort til fastlåst sorg, psykiske og fysiske problemer i etterkant eller senere i livet. Søvnproblemer og konsentrasjonsproblemer osv er vanlig ved sorg, uten at det er noe unormalt ved det. Lurer du på noe: Ta kontakt med legen din eller andre du har tillit til, som kan hjelpe deg eventuelt å sortere tanker og følelser, om nødvendig. Hvis ikke du trenger medisinsk hjelp er venner fine å ha. Nøl ikke med å kontakte andre mennesker. Ellers er det godt å flytte oppmerksomheten til andre ting, eller hyggelige ting. Det er alltid godt med en pause "time out" når livet er vanskelig.
