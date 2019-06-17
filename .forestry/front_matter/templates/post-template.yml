@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/hva-er-blasfemi.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
