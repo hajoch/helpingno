@@ -16,12 +16,12 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
 categories:
 - _category/religion.md
 publish_date: 
-weight: 6
+weight: 7
 
 ---
 **Dette møte er ti år før H.H: Dalai Lama blir Nobelprisvinner.**
 
-**Ikke-voldsforkjemperen, men først og fremst den politiske og åndelige lederen Dalai Lama setter seg smilende på en gul, polstret pute like foran meg, og ikke på den høye brokade-dekorerte tronen hvor han sitter under religiøse seremonier. Dette fordi han forbereder seg på samtale med sine gjester - i alt 60 europeiske pilgrimmer. Stedet er det tibetansk-buddhistiske tempelet i Bodh Gaya.**
+Ikke-voldsforkjemperen, men først og fremst den politiske og åndelige lederen Dalai Lama setter seg smilende på en gul, polstret pute like foran meg, og ikke på den høye brokade-dekorerte tronen hvor han sitter under religiøse seremonier. Dette fordi han forbereder seg på samtale med sine gjester - i alt 60 europeiske pilegrimer. Stedet er det tibetansk-buddhistiske tempelet i Bodh Gaya.
 
 Bodh Gaya i Nordøst-India er et hellig sted for alle buddhister. Det var her Buddha mediterte seg frem til sin visdom. Pilgrimmer kommer til Bodh Gaya fra alle verdens kanter hvor buddhismen har fotfeste. Dalai Lama, religiøs leder for det tibetanske folk, er intet unntak. Her er særlig hans religiøse rolle prioritert.
 
@@ -42,14 +42,14 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 Mahabodhitempelet i Bodh Gaya, Bihar hvor  
 H H Dalai Lama deltok i seremonier.
 
-Dalai Lama gir audiensen for de europeiske pilgrimmenene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilgrimmene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
+Dalai Lama gir audiensen for de europeiske pilegrimene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilegrimene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
 
 Pilgrimmenes leder ga på forhånd beskjed om ikke å stille Hans Hellighet politiske spørsmål. Dette fordi Dalai Lama for dem først og fremst er den religiøse leder for den tibetanske religion, som de bekjenner seg til. Samtalen dreier seg derfor om religiøse og etiske sprørsmål.
 
-Pilgrimmene setter seg på gulvet - på puter og tepper som skikk er i tempelet. De venter på sin religiøse leder. I kor summer de sitt hovedmantra: Om Mani Peme Hung. Summingen stiger i styrke og intensitet. Et kaos av ulike stemmer i blandet kor. Brått blir det stille: Dalai Lama kommer inn sammen med munken som er tolk. Hans Hellighet er i strålende humør. På sin beskjedne, uformelle og imøtekommende måte hilse han oss alle velkommen på tibetansk vis.
+Pilegrimene setter seg på gulvet - på puter og tepper som skikk er i tempelet. De venter på sin religiøse leder. I kor summer de sitt hovedmantra: Om Mani Peme Hung. Summingen stiger i styrke og intensitet. Et kaos av ulike stemmer i blandet kor. Brått blir det stille: Dalai Lama kommer inn sammen med munken som er tolk. Hans Hellighet er i strålende humør. På sin beskjedne, uformelle og imøtekommende måte hilse han oss alle velkommen på tibetansk vis.
 
 **En levende Buddha**  
-Dalai Lama er for pilgrimmene en levende Buddha. Et menneske som har nådd den dypeste erkjennelse og visdom. Han har avgitt løfte om å la seg gjenføde igjen og igjen til alle levende vesener er blitt frelst ut av verdens lidelser - til Nirvana. Han er den 14. i rekken av sine egne gjenfødelser, og regnes av troende for å ha åndelige krefter som kan hjelpe andre mennesker ved såkalte kraftoverføringer.
+Dalai Lama er for pilegrimene en levende Buddha. Et menneske som har nådd den dypeste erkjennelse og visdom. Han har avgitt løfte om å la seg gjenføde igjen og igjen til alle levende vesener er blitt frelst ut av verdens lidelser - til Nirvana. Han er den 14. i rekken av sine egne gjenfødelser, og regnes av troende for å ha åndelige krefter som kan hjelpe andre mennesker ved såkalte kraftoverføringer.
 
 Dalai Lams tolk er for det meste overflødig. Med en stemme som varierer fra de dypeste til de høyeste toneskalaene taler han et utmerket engelsk:
 
