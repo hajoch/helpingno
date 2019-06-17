@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Begrepene "lidelse" og "sjel" i Buddhismen
-excerpt: ''
+excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
+  dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
+  dukkha.
 image: ''
 image_caption: ''
 categories: []
