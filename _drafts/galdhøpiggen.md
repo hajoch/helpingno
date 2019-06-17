@@ -1,0 +1,107 @@
+---
+layout: post
+date: 2019-06-17 17:52:02 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: 'Galdhøpiggen '
+excerpt: Til stengt dør
+image: ''
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+
+**1. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.**
+
+**Hva? Ubetjent og stengt? Nå midt i beste sesongtid?**
+
+Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - han hadde tatt fri alt klokken 14.30 denne dagen. Det hadde ingen sagt noe om på Spiterstulen.
+
+Det var nedtur for både barn og voksne selv om været var strålende og det var mulig å kjøpe en Galdhøpiggen pins nede på Spiterstulen etterpå som plaster på såret.
+
+| --- |
+|  |
+
+| --- |
+| Utsikt mot vest fra toppen av Galdhøpiggen. |
+
+For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser. Turistforeningen har merket denne turen med 4 timers gange fra Spiterstulen på sine kart, men det er kun de sprekeste som klarer dette.
+
+Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser og nistespising - og fremfor alt nyte den fine naturopplevelsen denne turen byr på. Best av alt så behøver man ikke klatreutstyr eller brevandring for å bestige Galdhøpiggen fra Spiterstulen. Men du må utstyre deg med varme og vindtette klær - og det er en del snø på veien.
+
+Underveis treffer du mange andre som også bruker både 6 og 7 timer opp og forstår ikke hvorfor løypa er merket med 4 timer opp og 2 timer ned - helt til du treffer en jogger.
+
+| --- |
+|  |
+
+| --- |
+| Utsikt fra Galdhøpiggen. |
+
+Og vel nede på Spiterstulen etter å ha feilberegnet tiden og kjempet for å rekke ned før mørket faller på, får du i resepsjonen høre om alle atleter som har klart hele turen opp på kortere enn 4 timer.
+
+Det var "Gutta på Tur-gruppa"........
+
+Her er ingen selvkritikk på den optimistiske tidsangivelsen.
+
+Kanskje må det skje en alvorlig ulykke før Turistforeningen nyanserer de 4 timene opp og de 2 timene ned?
+
+| --- |
+|  |
+
+| --- |
+| Jotunheimen: Spiterstulen ligger i et dalføre med bilvei på 1100 m.o.h. mellom Galdhøpiggen og Glitretind. |
+
+**Synes du det høres hardt ut?**
+
+Som alltid finnes det en lettere versjon - en tur for dem som ikke vil klatre fra 1100 meter til 2469. Nemlig Juvasshytta på hele 1840 meter over havet. Der er bilvei helt frem til Juvasshytta.
+
+Herfra har du en bedagelig tur over en isbre og opp til toppen av Galdhøpiggen. OBS: Se opp for sprekker i isbreen og snakk med lokalkjente som har kunnskap om denne brevandringen.
+
+Men prøver du etterpå å skryte av å ha besteget Galdhøpiggen fra denne hytta er det best å ikke nevne at utgangspunktet er Juvasshytta - for det imponerer ikke like mye som fra Spiterstulen.
+
+Den lettere turen fra Juvasshytta er å foretrekke   
+om du har med små barn eller besteforeldre på turen.
+
+Viktigst på turen er den vakre naturopplevelsen   
+\- særlig om du er heldig med været.
+
+**![](http://helping.no/gul2.jpg =150x5)**
+
+Se også:  
+[Gjende](http://helping.no/gjende.htm) Jotunheimens perle ved Besseggen
+
+[Sognefjellsvegen ](http://helping.no/sognefjellet.htm)Nord-Europas høyeste fjellovergang 1434 moh
+
+**![](http://helping.no/gul2.jpg =150x5)**
+
+Husk fjellvettreglene  
+\- og egne forsiktigshetsregler når du går på isbre.
+
+Fjellvettreglene  
+Værforholdene i fjellet endrer seg raskt og det er viktig å være forberedt på uvær. Uansett om du har lite erfaring med friluftsliv eller er en dreven fjellvandrer er det lurt å ha fjellvettreglene i bakhodet underveis.
+
+![](http://helping.no/kule.jpg =12x12) Legg ikke ut på langtur uten trening.
+
+![](http://helping.no/kule.jpg =12x12) Meld fra hvor du går.
+
+![](http://helping.no/kule.jpg =12x12) Vis respekt for været og værmeldingen.
+
+![](http://helping.no/kule.jpg =12x12) Lytt til erfarne fjellfolk.
+
+![](http://helping.no/kule.jpg =12x12) Vær rustet mot uvær og kulde selv på korte turer.  
+Ta alltid med ryggsekk og det utstyret som fjellet krever.
+
+![](http://helping.no/kule.jpg =12x12) Bruk kart og kompass.
+
+![](http://helping.no/kule.jpg =12x12) Gå ikke alene.
+
+![](http://helping.no/kule.jpg =12x12) Vend i tide. Det er ingen skam å snu.
+
+![](http://helping.no/kule.jpg =12x12) Spar på kreftene og grav deg inn i snøen om nødvendig.  
+Hvordan du graver deg ned:  
+[http://www.vg.no/reise/artikkel.php?artid=103417](http://www.vg.no/reise/artikkel.php?artid=103417 "http://www.vg.no/reise/artikkel.php?artid=103417")
+
+Kilde: [http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185](http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185 "http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185")
