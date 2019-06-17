@@ -7,17 +7,18 @@ tags: []
 title: Slankekurer
 excerpt: ''
 image: "/assets/images/eple1.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Gunnar Christensen'
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 9
 
 ---
 Slankekur
 
-**Viktigst av alt etter en slankekur er å bedre dine**  
-**kostholdsvaner i forhold til før du startet kuren. Kaster du deg   
-over søtsaker og fett etter kuren kan den fort være forgjeves.**
+Viktigst av alt etter en slankekur er å bedre dine  
+kostholdsvaner i forhold til før du startet kuren. Kaster du deg  
+over søtsaker og fett etter kuren kan den fort være forgjeves.
 
 Vær skeptisk til alle slankekurer som lover raske resultater. Her er imidlertid to kurer som lover nettopp dette **innsendt fra våre lesere**: I vår redaksjon har vi ikke kompetanse på disse to kurene og vi svarer derfor nå ikke på spørsmål i tilknytning til disse.
 
