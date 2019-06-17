@@ -12,7 +12,7 @@ image_caption: Foto Gunnar Christensen. Benares på Ganges.
 categories:
 - _category/religion.md
 publish_date: 
-weight: 
+weight: 6
 
 ---
 
