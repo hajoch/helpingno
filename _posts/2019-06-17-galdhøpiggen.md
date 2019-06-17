@@ -21,7 +21,6 @@ Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - ha
 
 Det var nedtur for både barn og voksne selv om været var strålende og det var mulig å kjøpe en Galdhøpiggen pins nede på Spiterstulen etterpå som plaster på såret.
 
-  
 ![](/assets/images/ga.jo.gc-1.jpg)
 
 For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser. Turistforeningen har merket denne turen med 4 timers gange fra Spiterstulen på sine kart, men det er kun de sprekeste som klarer dette.
@@ -50,18 +49,17 @@ Den lettere turen fra Juvasshytta er å foretrekke
 om du har med små barn eller besteforeldre på turen.
 
 Viktigst på turen er den vakre naturopplevelsen  
-\- særlig om du er heldig med været.
-
-**![](http://helping.no/gul2.jpg =150x5)  
-**Se også:  
+\- særlig om du er heldig med været.  
+Se også:  
 [Gjende](http://helping.no/gjende.htm) Jotunheimens perle ved Besseggen
 
 [Sognefjellsvegen ](http://helping.no/sognefjellet.htm)Nord-Europas høyeste fjellovergang 1434 moh
 
-**![](http://helping.no/gul2.jpg =150x5)**  
+  
 \- og egne forsiktigshetsregler når du går på isbre.
 
-Fjellvettreglene  
+###### Fjellvettreglene  
+  
 Værforholdene i fjellet endrer seg raskt og det er viktig å være forberedt på uvær. Uansett om du har lite erfaring med friluftsliv eller er en dreven fjellvandrer er det lurt å ha fjellvettreglene i bakhodet underveis.
 
 ![](http://helping.no/kule.jpg =12x12) Legg ikke ut på langtur uten trening.
