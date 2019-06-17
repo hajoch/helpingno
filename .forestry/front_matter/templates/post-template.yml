@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/søvn.md
+- _posts/2019-06-17-søvn.md
 - _posts/2019-06-17-motsetninger-innen-moderne-islam.md
 - _posts/2019-06-17-hva-er-blasfemi.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
