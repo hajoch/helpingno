@@ -18,7 +18,6 @@ publish_date:
 weight: 2
 
 ---
-
 Selv har jeg fått god hjelp av politiet i et slikt tilfelle for 20 år siden.
 
 Men disse linjene er til deg som forfølger. Som oftest er du en mann. Du opplever deg som jeger og i en form for rus når du stalker. Denne rusen er egentlig en form for tvangshandling du må gjøre for å få ei kjensle av kontroll. Og tvang og kontroll er former for angst. Slå opp hva ordet stalking betyr.
@@ -42,6 +41,3 @@ Egne veier ut av stalking. (Særlig i ungdommen er det mange, 40 %?,som stalker)
 7\. Har du stalket lenge er det like vanskelig å slutte som å slutte å røyke. Men er du sterk, så møter du smerten i livet ditt på en mer healende måte. >Du klarer det.
 
 8\. Og har du en venn eller en god kollega så vis dette innlegget og vurder mens vedkommende leser det om du tør bekjenne. Ofte dør trollet med åpenhet.
-
-| --- |
-|  |
