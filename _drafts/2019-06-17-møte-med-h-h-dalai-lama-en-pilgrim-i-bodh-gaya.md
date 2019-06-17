@@ -7,8 +7,12 @@ tags: []
 title: 'Møte med H.H. Dalai Lama: En pilgrim i Bodh Gaya'
 excerpt: ''
 image: ''
-image_caption: ''
-categories: []
+image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer
+  i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for
+  å samle stoff til sin master/hovedoppgave i religionsvitenskap. Han møter Dalai
+  Lama i det tibetanske tempelet  i Bodh Gaya i 1979.
+categories:
+- _category/religion.md
 publish_date: 
 weight: 
 
