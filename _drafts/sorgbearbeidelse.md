@@ -5,7 +5,8 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Sorgbearbeidelse
-excerpt: ''
+excerpt: "Det som kjennetegner og definerer sorg fra andre \npsykologiske tilstander
+  er at det er etterreaksjonen \npå en situasjon som har medført uønsket tap."
 image: "/assets/images/natur1.jpg"
 image_caption: ''
 categories: []
