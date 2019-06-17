@@ -1,0 +1,51 @@
+---
+layout: post
+date: 2019-06-17 22:30:27 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: Kosebåt
+excerpt: Marex 77 Holiday
+image: "/assets/images/marex77holiday.jpg"
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+**Marex 77 Holiday har en imponerende plassutnyttelse. Her er salong, bysse og en romlig akterlugar. En sosial uteplass særtegner denne båten. Alle sitter i samme høyde. På andre liknende båter - inklusive snekker - sitter fører og sidepassasjer bortimot en halv etasje over passasjerene i aktersete. Slik er det ikke her. Dette gjør båten til en unik og trivelig familie- og turbåt.**
+
+Båten er retningsstabil og stø, enkel å manøvrere og lystrer roret bra, men krever noe tilvenning ved bruk i trangt farvann, særlig når du går akterover.
+
+**Førerplass**  
+Instrumeneter og betjening ved førerplass er ryddig. Der er plass til båtsportkart. Ved sjøgang kan kartet vandre litt siden kartplassen mangler pleksiglass over, men dette venner man seg til å kompensere for. Man sitter godt i det dobble førersetet som har en løsning med ryggstø som kan forskyves slik at man kan sitte i begge retninger - praktisk når man skal sitte rundt bordet som har god plass til seks personer. Byssa er romlig og praktisk. Alt i alt har båten en god innredningsløsning. Der er god ståhøyde under kalesja.
+
+Motorrommet under dørken ved førerplass er romlig og lett å komme til i for å gjøre service på motoren.
+
+**Salongen**  
+Salongen er trivelig. Trekk og seter, ja hele innredningen har god kvalitet. Solid godt håndverk. Her er klesskap og plass til mye under benkene. Er du over 1,80 i lengde bør du sove i akterkøya - der er det bedre plass til å strekke seg.
+
+**Akterlugaren**  
+Akterlugaren er en positiv opplevelse av god plass og praktske løsninger. Foruten dobbelsenga på styrbord side finnes på babord en liten benk hvor et mindre barn kan sove komfortabelt. Nå må det sies at det må slanke kropper til å kalle dobbeltsenga i akterkabinen for soveplass til to.
+
+**Solsenga**  
+Solsenga over akterlugaren er også en romlig soveplass. Dette gjør at båten holder til overnatting for 5 personer.
+
+Mens stoffet i salongene er av god solid kvalitet er skaiputene solide, men umulig å holde rene. Skiten gror seg inn i dem. Uansett hva du prøver med så får du de aldri til å se rene ut. Mange båter av denne typen har derfor sydd nye trekk til disse putene.
+
+**Konstruksjonsfeil?**  
+I tillegg er det en konstruksjonsfeil på sidene utvendig midtskips der det alltid samler seg en vanndam ved regnvær - dreneringspunktene er rett og slett feilplassert.
+
+Toalettet på barbord side i forkabinen er smalt, lavt og trangt. Det hjelper med en luke over som kan heves og gir bedre ståhøyde. En ventil i vinduet besørger utluftingen.
+
+**Ekstrautstyr**  
+Ekstrautstyr i båten var: badetrapp, badeplattform, 30 liters varmtvannstank, trykktank, hånddusj på badeplattforma, kompass, ekkolodd, optimus med to bluss, alarm, baugstige, 2 stk. 105 amp. batterier og en på 70 amp., fendere, transportpresenning og krybbe.
+
+En spesialdesignet snapdarviter til slepejolla (en Terhi 8 fot) var flott så lenge den varte: Det var praktisk å kunne hekte jolle bakpå plattforma fremfor slep. Men etter at en annen båt kjørte inn i platforma/jolla og smadret denne for så å stikke av fra båthavna var det slutt på denne fornøyelsen. Deretter kjøpte jeg ny slepejolle - en [Pioner 8](http://www.helping.no/bat.pi8.htm).
+
+Det som manglet av ekstrautstyr (for å gjøre båten helt topp) var baugpropell og elektrisk dreggvinsj: Båten har et solid vindfang så to 8 kg. dregger måtte kastes manuelt ved oppankring for kvelden. I trange båthavner drømte jeg om baugpropell.
+
+Motor**:** ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)
+
+55 hk Yanmar 4JH-TBE 4 cyl.. Turobodiesel: Den beste dieselmotoren jeg har opplevd. Jevn og pen gange uten problemer av noe slag. Ikke svetter den. Du kan nærmest gå ned i maskinrommet med hvite hansker. Malingen flasser ikke av slik du opplever på de fleste andre slike motorer. En innenbordsmotor man blir glad i:   
+Drømmemotoren.
