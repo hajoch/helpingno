@@ -13,7 +13,7 @@ excerpt: |-
 
   Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for de mange tilbakemeldinger på at boka hjelper trafikkskadde.
 image: "/assets/images/styrke.jpg"
-image_caption: Boka "Syurkeprøven"
+image_caption: Boka "Styrkeprøven"
 categories:
 - _category/boker.md
 publish_date: 
