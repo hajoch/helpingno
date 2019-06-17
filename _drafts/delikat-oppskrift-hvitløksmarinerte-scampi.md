@@ -2,13 +2,14 @@
 layout: post
 date: 2019-06-17 16:01:24 +0200
 crop_image: true
-author: ''
+author: _authors/jens-christian-jore-christensen.md
 tags: []
 title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
 excerpt: ''
 image: "/assets/images/scampi2.jpg"
 image_caption: Foto Jens Christian Jore Christensen
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
 weight: 5
 
