@@ -4,7 +4,7 @@ date: 2019-06-17 21:34:10 +0200
 crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
-title: Siosial Fobi
+title: Sosial fobi
 excerpt: Så mange som en av sju personer utvikler en sjenanse som alltid er til stede
   (unnvikende personlighetsforstyrrelse) eller en redsel av angststyrke for andre
   mennesker. Denne angsten går fra taleangst (se denne på helping.no) til telefonangst.
