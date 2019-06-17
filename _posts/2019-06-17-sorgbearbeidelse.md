@@ -8,7 +8,7 @@ title: Sorgbearbeidelse
 excerpt: "Det som kjennetegner og definerer sorg fra andre \npsykologiske tilstander
   er at det er etterreaksjonen \npå en situasjon som har medført uønsket tap."
 image: "/assets/images/natur1.jpg"
-image_caption: Ilystrasjonsfoto av Gunnar Christensen
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
