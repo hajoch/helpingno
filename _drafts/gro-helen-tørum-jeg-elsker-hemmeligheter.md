@@ -5,15 +5,17 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Gro Helen Tørum: Jeg elsker hemmeligheter '
-excerpt: ''
+excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
+  , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
+  klarsynt og vil først snakke om lykke.
 image: "/assets/images/grohelen.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Bjørn Wad'
+categories:
+- _category/mental-helse.md
 publish_date: 
 weight: 
 
 ---
-**Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden" , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og klarsynt og vil først snakke om lykke.**
 
 \- Hvordan definerer du begrepet lykke og hva vil du si er viktigst for lykken?  
 \- Jeg intervjuet en gang den tibetanske munken Tulku Lama Lobsang. Han sa at lykke er visdom. For meg ble dette en veiviser inn til forståelsen av at lykke for meg. Det er å se stadig større sammenhenger og å se at også det meningsløse har en mening. Når jeg mestrer aksept og tilstedeværelse, når gleden over å lykkes er større enn frykten for å mislykkes - da er jeg lykkelig!
@@ -29,8 +31,8 @@ Gro Helen formidler sin egen livshistorie som for henne er en bevistgjøringspro
 \- Er motgang dårlig karma slik man tenker seg det i for eksempel hinduismen?  
 \- Motgang er ikke dårlig karma for meg. Motgang er læresetninger som er lagt ut for oss langs den veien vi går. Gjennom disse "stopp-punktene" får vi mulighet til å forløse det som hindrer vårt egentlige potensial i å tre frem. For meg er Kama "store" læresetninger som vi har jobbet med i flere liv og som nå kan se sin endelige forløsning, om vi vil.
 
-**Dele livserfaringer**   
- Seminarene jeg har jobbet med blir på en måte som å dele livserfaringer som løfter oss alle. Lykke er ikke noe omgivelsene tilbyr deg. Den ligger inni deg som en kilde som venter på å bli oppdaget. Av deg selv!
+**Dele livserfaringer**  
+Seminarene jeg har jobbet med blir på en måte som å dele livserfaringer som løfter oss alle. Lykke er ikke noe omgivelsene tilbyr deg. Den ligger inni deg som en kilde som venter på å bli oppdaget. Av deg selv!
 
 \- Jeg håper på seminarene å kunne hjelpe deltakerne til en utvikling mot et bedre liv, men har ikke selv alle svarene. Mange deltakere i salen vil være resurssterke mennesker som vil kunne bidra til den dynamikken som slike seminarer skaper.
 
