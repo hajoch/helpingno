@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/hinduismens-mystikk.md
+- _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
 - _posts/2019-06-17-møte-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya.md
 - _posts/2019-06-17-begrepene-lidelse-og-sjel-i-buddhismen.md
