@@ -5,7 +5,7 @@ crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
 title: Sukkeravhengighet
-excerpt: ''
+excerpt: En avhengighet er noe du ofte trenger litt hjelp til komme ut av.
 image: "/assets/images/kake-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 categories:
