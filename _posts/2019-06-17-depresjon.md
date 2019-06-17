@@ -15,7 +15,6 @@ publish_date:
 weight: 5
 
 ---
-
 **Naturen.**  
 Gå ut i naturen: Langs havkanten. I skogen. Fjellvandring. Båttur. Gå tur, jogg eller sett deg på et vakkert sted og ta inn inntrykkene omkring deg. Observer det som er omkring deg: Frost krystaller i solskinn. Bølgeslag mot stranden. Fuglene. Ekorn i tretoppen. Gi deg selv god tid. Fyll lungene med frisk, ren luft. Kjenn hvorledes naturen gir deg kraft. Skogens mange grønnfarger virker beroligende på deg.
 
@@ -32,8 +31,8 @@ Søvn er viktig for den mentale helse. Sørg for å få tilstrekkelig søvn ved 
 Avspenningsteknikker se[ yoga ](http://www.helping.no/yoga.htm)og [meditasjon](http://www.helping.no/meditasjon.htm)
 
 **Film - Komedier:**  
-Også i sofakroken kan du gjøre mye for å bedre din sinnstilstand og forebygge eller komme ut av depresjon. Styr unna voldsfilmer, skrekkfilmer og filmer som gjør deg stresset, trist eller utrygg. Dette fordi alle påvirkninger har innflytelse på vår mentale helse. Beskytt deg selv mot negative påvirkninger også når du velger filmer.  
-  
+Også i sofakroken kan du gjøre mye for å bedre din sinnstilstand og forebygge eller komme ut av depresjon. Styr unna voldsfilmer, skrekkfilmer og filmer som gjør deg stresset, trist eller utrygg. Dette fordi alle påvirkninger har innflytelse på vår mentale helse. Beskytt deg selv mot negative påvirkninger også når du velger filmer.
+
 Velg komedier. Lei eller kjøp noen komedier på DVD så slipper du å være prisgitt det som er på TV-programmene når du ønsker å komme i bedre humør.
 
 På helping.no har vi oversikt over komedier på DVD: "[Latterkroken](http://www.helping.no/index2.htm)" Latter er den beste anti-depresjons-pillen.
@@ -73,3 +72,14 @@ En norsk undersøkelse ved Universitetet i Oslo viser at depresjon er vanligere 
 Ikke tro at piller eller rus kan hjelpe deg. Rus gjør alt så mye verre.
 
 **Søk nærhet - ta kontakt:**
+
+Depresjon fører ofte til at du isolerer deg fordi du ikke har overskudd til å være sosial. Likevel . Ikke isoler deg. Kontakt med andre mennesker er viktig for å komme ut av depresjonen. Søk de vennene som du opplever som mest positive. Ikke snakk bare om depresjon med dem, men mest om positive temaer.
+
+Fysisk kontakt som et håndtrykk, en klem eller et klapp på skulderen kan bety mye. Søk positiv nærhet til andre mennesker. Det gir trygghet og følelsen av å være inkludert i det sosiale fellesskap du er en del av.
+
+Har du en partner som kan gi deg nærhet så nyt godt av denne nærheten. Det behøver ikke nødvendigvis være sex. Der er mange grader av nærhet. Det går an å ha en god og nær hud-mot-hudkontakt uten å ha sex: Denne nærheten kan lindre depresjon og gi deg trygghet.
+
+Kjæledyr kan også gi en god nærhet. F.eks. en katt i fanget kan gi en fin nærhet og trygghet. Ta vare på det du opplever som positivt i livet ditt og konsentrer deg om det fremfor å tenke på det som plager deg hele tiden.
+
+Snakk med noen du har tillit til f.eks. en god venn eller din lege.  
+Det er mye god hjelp å få hos andre mennesker.
