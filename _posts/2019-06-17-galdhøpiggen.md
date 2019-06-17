@@ -7,8 +7,9 @@ tags: []
 title: 'Galdhøpiggen '
 excerpt: Nord-Europas høyeste fjell. Til stengt dør
 image: "/assets/images/ga.jo.gc.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Gunnar Christensen: Toppen av Galdhøpiggen på 2469 meters høyde.'
+categories:
+- _category/reise.md
 publish_date: 
 weight: 
 
