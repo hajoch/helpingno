@@ -5,7 +5,7 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Slankekurer
-excerpt: 3 dagers-kuren
+excerpt: 3 dagers-kuren og Stoffskifte-diett "oppskrift"
 image: "/assets/images/eple1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
@@ -46,3 +46,79 @@ Vi kan ikke garantere de resultater som det skrytes av her og anbefaler kontakt 
 Dietten fungerer ved en kjemisk nedbrytelse. Den må ikke varieres eller erstattes med noe annet i kostplanen. Husk - INGEN MELLOM-MÅLTIDER. Kaffe, te og vann kan drikkes til og utenom måltidene. Salt og pepper kan brukes, men ingen andre krydder. Hvor det ikke er angitt presise informasjoner om mål og vekt, er ingen restriksjoner annet enn sunn fornuft.
 
 Denne dietten skal brukes i 3 dager av gangen, på de 3 dagene vil man tape opp til 5 kg. Etter 3 dagers diett kan det igjen spises normalt, - men ikke meget. Etter 4 dager med alminnelig mat, starter man igjen med 3 dagers diett. Opp til 20 kg kan slankes på en måned påståes det.
+
+#### **Stoffskifte-diett "oppskrift"**
+
+**Denne dietten varer i 13 dager, og er derfor hard, men effektiv. Dietten går ut på å endre ditt stoffskifte, hvilket medfører at du etter 13 dager kan spise normalt uten å legge på deg i de neste 2 år. Det er altså ikke en tradisjonell "sultekur", og virker derfor også etter diettens opphør.**
+
+Hvis kuren følges slavisk, vil man tape alt overflødig kroppsfett ( 7 - 20kg.). Kuren skal følges i 13 dager, hverken mer eller mindre. Men som nevnt skal den følges slavisk. Hvis man under kuren drikker en øl/vin eller spiser slikkerier eller tyggegummi, eller spiser ekstra mat SÅ AVBRYT KUREN STRAKS, idet virkningen er bortfalt. Kuren kan IKKE gjenopptaes før etter 1/2 år. Hvis man er kommet bare til den 6.te dagen, kan kuren gjennopptaes etter 3 måneder. Hvis kuren er fulgt til punkt og prikke i alle 13 dagene, må den under ingen omstendigheter gjennopptaes før det er gått 2 år.
+
+Blir du sulten underveis, drikk minst 2 liter vann pr. dag. NB: Husk å drikke mye vann, minst 2 liter pr. dag. Kaffe må IKKE erstattes med te, og bruk sukker som anført. Dietten skal følges til punkt og prikke 13 dager, hverken mer eller mindre.  
+Kuren påståes å være laget av det Danske Rikshospitalet, men dette er trolig tvilsomt. Vi anbefaler at kurene brukes i samarbeid med lege.
+
+**STOFFSKIFTE-DIETT**
+
+**Dag 1:**  
+**Frokost:** 1 kopp sort kaffe og en sukkerbit.  
+**Lunsj:** 2 hardkokte egg + 1/2 pakke spinat kokt i vann + 1 tomat  
+**Middag:** 200g biff + salat 2 - 3 blader (eller kinakål) med olje og sitron
+
+**Dag 2:**  
+**Frokost:** 1 kopp sort kaffe og en sukkerbit  
+**Lunsj:** 1/2 boks bogskinke + 1,25 dl yoghurt naturell  
+**Middag:** Biff 200g og salat som dag 1 og 1 frukt
+
+**Dag 3**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 hardkokte egg +1/2 boks bogskinke + salat  
+**Middag:** Kokt selleri + 1 tomat + 1 frukt
+
+**Dag 4:**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 dl. usukret juice eller 1 boks fruktcoctail + 1,25 dl. yoghurt naturell  
+**Middag:** 1 hardkokt egg + 1 reven gulerot + 1/2 beger cottage cheese
+
+**Dag 5:**  
+**Frokost:** 1 stor reven gullrot med sitron  
+**Lunsj:** 200g kokt torsk m./sitron av 1/2 sitron og en klatt smør  
+**Middag:** 1 stor biff 200g + salat 2 - 3 blader (el. kinakål) med selleri
+
+**Dag 6:**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 hardkokte egg + 1 stor reven gulrot  
+**Middag:** 1/2 Kylling + salat 3 - 4 blader med sitron og olje
+
+**Dag 7:**  
+**Frokost:** 1 kopp te uten sukker  
+**Lunsj:** INGENTING  
+**Middag:** 1 stk. grillet lammekotelett + frisk frukt
+
+**Dag 8:**  
+**Frokost:** 1 kopp sort kaffe og en sukkerbit  
+**Lunsj:** 2 hardkokte egg + 1/2 pakke spinat kokt i vann + 1 tomat  
+**Middag:** Biff 200g + salat 2 - 3 blader (eller kinakål) med olje og sitron
+
+**Dag 9:**  
+**Frokost:** 1 kopp sort kaffe og en sukkerbit  
+**Lunsj:** 1/2 boks bogskinke + 1,25 dl. yoghurt naturell  
+**Middag:** Biff 200g og salat som dag 1 og 1 frukt
+
+**Dag 10:**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 hardkokte egg + 8 - 10 skv. kokt skinke + salat  
+**Middag:** Kokt selleri + tomat + 1 frukt
+
+**Dag 11:**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 dl. usukret juice eller 1 boks fruktcoctail + 1,25 dl. yoghurt naturell  
+**Middag:** 1 hardkokt egg + 1 reven gulerot + 1/2 beger cottage cheese
+
+**Dag 12:**  
+**Frokost:** 1 stor reven gullrot med sitron  
+**Lunsj**: 1 stort stk. kokt torsk 200g m./ saften av 1/2 sitron og klatt smør  
+**Middag:** 200g biff + salat med selleri
+
+**Dag 13:**  
+**Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
+**Lunsj:** 2 hardkokte egg + 1 stor reven gulrot  
+**Middag**: 1/2 Kylling + salat 3 - 4 blader (eller kinakål) med sitron og olje.
