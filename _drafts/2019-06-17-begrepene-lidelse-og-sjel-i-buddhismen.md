@@ -9,7 +9,7 @@ excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse 
   dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
   dukkha.
 image: "/assets/images/stupa.jpg"
-image_caption: 'Foto: Gunnar Christensen, Sri Lanka'
+image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
 categories: []
 publish_date: 
 weight: 9
