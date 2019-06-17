@@ -5,18 +5,17 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Den nye "Snåsamannen"  er ei vakker ung kvinne
-excerpt: ''
+excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
+  er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
+  ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
 image: "/assets/images/susanne.jpg"
-image_caption: ''
+image_caption: 'Foto: Asbjørn Egir - Tekst: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
 weight: 5
 
 ---
-Foto: Asbjørn Egir - Tekst: [Gunnar Christensen](http://www.helping.no/gunnar.htm)
-
-**Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.**
 
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne foretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
 
@@ -48,8 +47,9 @@ Mange mener Susanne nå er en av de viktigste arvtakerne etter "Snåsamannen": D
 **Snåsamannen er helt unik**  
 \- Var det markedsføreren i deg som slo til da du lanserte deg selv med liknende evner som Snåsamannen?  
 \- Jeg har aldri påstått at jeg har de samme evnene, men jeg har registrert likheter etter å ha lest boken om han. Jeg kan ha nevnt Snåsamannen i sammenhenger, men det er for at folk flest skal kunne skjønne hva jeg driver med. Mange kjenner til begrepet healing, men enda flere kjenner til personen Snåsamannen. Derfor har jeg brukt det som en sammenlikning. Jeg har aldri tatt et kurs i healing. Jeg har bare evnene. Det samme gjaldt ham. Mine hender veksler mellom å være iskalde og ekstremt varme. Derfor var det utrolig interessant å lese at han har det samme. Jeg vil imidlertid aldri påstå at jeg har de samme evnene som han. Det tror jeg verken på eller har forutsetning for å påstå. Snåsamannen er en helt unik person som jeg respekterer høyt. Han har vært en enorm døråpner og gjort det lettere for mennesker med evner til å tørre å stå frem.  
-\- Snåsamannen liker ikke benevnelsen "healer", men du bruker dette ordet aktivt.  
- - Jeg er mye yngre enn han og bruker ord som ungdommen forstår. Jeg synes det er trist at et ord skal settes i en negativ bås og håper jeg kan snu dette til å bli et positivt begrep igjen. Å heale betyr jo bare "å gjøre hel".
+\- Snåsamannen liker ikke benevnelsen "healer", men du bruker dette ordet aktivt.
+
+* Jeg er mye yngre enn han og bruker ord som ungdommen forstår. Jeg synes det er trist at et ord skal settes i en negativ bås og håper jeg kan snu dette til å bli et positivt begrep igjen. Å heale betyr jo bare "å gjøre hel".
 
 **Kraften kommer fra Gud**  
 \- Snåsamannen mener den helbredende kraften kommer fra Gud og at den går gjennom han. Opplever du dette på sammen måten og hvordan definerer du Gud?  
@@ -109,9 +109,10 @@ Susanne peker på vannglasset hun serverte meg ved ankomst;
 \- Er du bevist på hva som skjer under healing og styrer du energien dit den virker best?  
 \- Ja.  
 \- Har du alltid kontakt med "guider" i arbeidet ditt?  
-\- Ja. Det har jeg.  
- - Er det begrenset hvor mange pasienter du har kapasitet til å ta hver dag og er kraften like sterk på slutten av dagen som på morgenen?  
-\- Dagsformen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
+\- Ja. Det har jeg.
+
+* Er det begrenset hvor mange pasienter du har kapasitet til å ta hver dag og er kraften like sterk på slutten av dagen som på morgenen?  
+  \- Dagsformen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
 
 **Hva er koden?**  
 \- Der er mange forestillinger omkring det å være healer og veldig mange som gir seg ut for å være healere kanskje på sviktende grunnlag. Mange som prøver healing opplever derfor at healing ikke virker, andre det motsatte. Tror du at dette er noe som er medfødt eller tror du healing kan læres?  
@@ -132,9 +133,10 @@ Susanne serverer mer vann og kaffe. De vakre blå øynene fokuserer igjen på me
 
 **Australia**  
 \- Hvorfor valgte du først en karriere i næringslivet og hvilken utdannelse tok du?  
-\- Jeg har udannelse fra International Business på Brisbane i Australia og markedskommunikasjon fra BI i Trondheim. Jeg har også tatt noen fag ved Universitetet i Trondheim. Jeg har alltid vært opptatt av å få en god utdannelse, og ønsket meg en karriere hvor jeg kunne utvikle meg til å bli et bevisst selvstendig menneske. Forretningslivet fascinerte meg tidlig, og jeg hadde en fantastisk morfar som var skipsreder. Han var en enorm inspirasjonskilde, og lenge ønsket jeg å gå i hans fotspor. Dette var nok barndomsdrømmen.  
- - Hvilke råd vil du gi til foreldre som oppdager at barnet deres har slike spesielle evner som du har?  
-\- Jeg er ingen ekspert, men var det jeg som havnet i den situasjonen ville jeg ikke oppmuntret til noe som helst. La dem være vanlige barn så lenge som mulig. Det hjelper dem å holde bakkekontakten. Jeg er selv glad for at dette var en verden som jeg kunne oppdaget helt selv. Selvfølgelig skal man vise støtte om barnet opplever noe utenom det vanlige, men jeg synes det er viktig å ikke fokusere for mye på det i tidlig alder. Lytting er det aller viktigste. La aldri barn føle at det de sier er dumt eller uvanlig. Har barnet spørsmål det er vanskelig å svare på, er det ingen problem å si akkurat det. At man ikke er sikker, men at det ikke gjør noe som helst. Man trenger ikke å forstå alt som foregår.
+\- Jeg har udannelse fra International Business på Brisbane i Australia og markedskommunikasjon fra BI i Trondheim. Jeg har også tatt noen fag ved Universitetet i Trondheim. Jeg har alltid vært opptatt av å få en god utdannelse, og ønsket meg en karriere hvor jeg kunne utvikle meg til å bli et bevisst selvstendig menneske. Forretningslivet fascinerte meg tidlig, og jeg hadde en fantastisk morfar som var skipsreder. Han var en enorm inspirasjonskilde, og lenge ønsket jeg å gå i hans fotspor. Dette var nok barndomsdrømmen.
+
+* Hvilke råd vil du gi til foreldre som oppdager at barnet deres har slike spesielle evner som du har?  
+  \- Jeg er ingen ekspert, men var det jeg som havnet i den situasjonen ville jeg ikke oppmuntret til noe som helst. La dem være vanlige barn så lenge som mulig. Det hjelper dem å holde bakkekontakten. Jeg er selv glad for at dette var en verden som jeg kunne oppdaget helt selv. Selvfølgelig skal man vise støtte om barnet opplever noe utenom det vanlige, men jeg synes det er viktig å ikke fokusere for mye på det i tidlig alder. Lytting er det aller viktigste. La aldri barn føle at det de sier er dumt eller uvanlig. Har barnet spørsmål det er vanskelig å svare på, er det ingen problem å si akkurat det. At man ikke er sikker, men at det ikke gjør noe som helst. Man trenger ikke å forstå alt som foregår.
 
 **Forholder meg til mange typer mennesker**  
 \- Finnes det likheter mellom din jobb nå som healer og din tidligere jobb som markedssjef i oljebransjen?  
