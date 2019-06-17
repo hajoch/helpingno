@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Møte med H.H. Dalai Lama: En pilgrim i Bodh Gaya'
-excerpt: ''
+excerpt: |-
+  En reise til Bodh Gaya, India med audiens hos Hans Hellighet
+  den 14 Dalai Lama i det lokale tibetanskbuddhistiske klosteret.
 image: ''
 image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer
   i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for
@@ -14,7 +16,7 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
 categories:
 - _category/religion.md
 publish_date: 
-weight: 
+weight: 6
 
 ---
 **Dette møte er ti år før H.H: Dalai Lama blir Nobelprisvinner.**
