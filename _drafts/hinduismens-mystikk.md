@@ -5,7 +5,8 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Hinduismens mystikk
-excerpt: ''
+excerpt: Hinduismen aksepterer sjelens evighet som en erfaring, det enten det finnes
+  en verdenssjel eller et stort antall individuelle sjeler.
 image: "/assets/images/ganges2.jpg"
 image_caption: ''
 categories: []
