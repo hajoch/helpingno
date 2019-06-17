@@ -7,7 +7,7 @@ tags: []
 title: Kosebåt
 excerpt: Marex 77 Holiday
 image: "/assets/images/marex77holiday.jpg"
-image_caption: ''
+image_caption: Foto Marex
 categories:
 - _category/båt.md
 publish_date: 
@@ -46,7 +46,7 @@ En spesialdesignet snapdarviter til slepejolla (en Terhi 8 fot) var flott så le
 
 Det som manglet av ekstrautstyr (for å gjøre båten helt topp) var baugpropell og elektrisk dreggvinsj: Båten har et solid vindfang så to 8 kg. dregger måtte kastes manuelt ved oppankring for kvelden. I trange båthavner drømte jeg om baugpropell.
 
-Motor**:** ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)
+Motor
 
 55 hk Yanmar 4JH-TBE 4 cyl.. Turobodiesel: Den beste dieselmotoren jeg har opplevd. Jevn og pen gange uten problemer av noe slag. Ikke svetter den. Du kan nærmest gå ned i maskinrommet med hvite hansker. Malingen flasser ikke av slik du opplever på de fleste andre slike motorer. En innenbordsmotor man blir glad i:  
 Drømmemotoren.
