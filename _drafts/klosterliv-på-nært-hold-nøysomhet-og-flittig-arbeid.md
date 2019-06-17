@@ -6,8 +6,8 @@ author: _authors/gunnar-christensen.md
 tags: []
 title: Klosterliv på nært hold Nøysomhet og flittig arbeid
 excerpt: ''
-image: ''
-image_caption: ''
+image: "/assets/images/broderclaude.jpg"
+image_caption: Broder Claude
 categories: []
 publish_date: 
 weight: 
