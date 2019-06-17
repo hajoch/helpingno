@@ -5,18 +5,17 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Galdhøpiggen '
-excerpt: Til stengt dør
-image: ''
+excerpt: Nord-Europas høyeste fjell. Til stengt dør
+image: "/assets/images/ga.jo.gc.jpg"
 image_caption: ''
 categories: []
 publish_date: 
 weight: 
 
 ---
+1\. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.
 
-**1. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.**
-
-**Hva? Ubetjent og stengt? Nå midt i beste sesongtid?**
+Hva? Ubetjent og stengt? Nå midt i beste sesongtid?
 
 Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - han hadde tatt fri alt klokken 14.30 denne dagen. Det hadde ingen sagt noe om på Spiterstulen.
 
@@ -62,10 +61,10 @@ Herfra har du en bedagelig tur over en isbre og opp til toppen av Galdhøpiggen.
 
 Men prøver du etterpå å skryte av å ha besteget Galdhøpiggen fra denne hytta er det best å ikke nevne at utgangspunktet er Juvasshytta - for det imponerer ikke like mye som fra Spiterstulen.
 
-Den lettere turen fra Juvasshytta er å foretrekke   
+Den lettere turen fra Juvasshytta er å foretrekke  
 om du har med små barn eller besteforeldre på turen.
 
-Viktigst på turen er den vakre naturopplevelsen   
+Viktigst på turen er den vakre naturopplevelsen  
 \- særlig om du er heldig med været.
 
 **![](http://helping.no/gul2.jpg =150x5)**
