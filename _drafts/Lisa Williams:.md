@@ -4,19 +4,18 @@ date: 2019-06-17 19:22:42 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: ''
-excerpt: ''
+title: 'Lisa Williams: "Åndene gir meg akkurat det som trenger å bli formidlet"'
+excerpt: I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:-
+  Jeg har en personlig beskjed til deg fra den andre siden.
 image: "/assets/images/lisawil.jpg"
 image_caption: 'Foto: Jens Christian Jore Christensen i intervju med helping.no av
   Gunnar Christensen'
-categories: []
+categories:
+- _category/religion.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
-
-I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:  
-\- Jeg har en personlig beskjed til deg fra den andre siden.
 
 Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de døde. Folk står i kø for å møte henne og populariteten bare øker i Norge.
 
