@@ -6,7 +6,7 @@ author: _authors/gunnar-christensen.md
 tags: []
 title: Hinduismens mystikk
 excerpt: ''
-image: ''
+image: "/assets/images/ganges2.jpg"
 image_caption: ''
 categories: []
 publish_date: 
