@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Farmors kjøttkaker
-excerpt: ''
+excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt.
+  I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage
+  kjøttkaker med eller uten hvitløk eller vanlig løk.'
 image: "/assets/images/middag.1 (1).jpg"
 image_caption: Foto GC
 categories:
@@ -14,7 +16,6 @@ publish_date:
 weight: 3
 
 ---
-Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt. I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage kjøttkaker med eller uten hvitløk eller vanlig løk.
 
 Følgende ingredienser må til:  
 Kjøttdeig ca. 500gram til 9 kjøttkaker  
