@@ -14,6 +14,7 @@ fields:
   name: image
   label: Bilde
 pages:
+- _authors/ellen-marie-christensen.md
 - _authors/jens-christian-jore-christensen.md
 - _authors/christoffer-jore-christensen.md
 - _authors/kari-rose-norheim.md
