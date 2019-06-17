@@ -8,7 +8,8 @@ title: Hva er synkretisme?
 excerpt: En oversikt over hovedtrekk ved synkretistiske religioner
 image: "/assets/images/IMG_0541.JPG"
 image_caption: ''
-categories: []
+categories:
+- _category/religion.md
 publish_date: 
 weight: 
 
@@ -17,12 +18,9 @@ Synkretisme tolkes som religionsblanding. Betegnelsen på å forene forskjellige
 
 Få eller ingen religioner kan sies å være fri for synkretisme, eller synkretistiske tendenser. For eksempel jødedommen tok opp i seg flere forskjellige ideer og ritualer fra andre religioner.
 
-**Når vi snakker om synkretistiske religioner så oppfatter vi begrepet synkretisme ikke så omfattende som bekrevet over. Vanligvis forbinder vi synkretistiske religioner med nyere religiøse dannelser som bygger på elementer fra forskjellige eldre religioner.**
+Når vi snakker om synkretistiske religioner så oppfatter vi begrepet synkretisme ikke så omfattende som bekrevet over. Vanligvis forbinder vi synkretistiske religioner med nyere religiøse dannelser som bygger på elementer fra forskjellige eldre religioner.
 
-**Eksempler på disse nye religionene kan være**:
-
-| --- |
-|  |
+Eksempler på disse nye religionene kan være:
 
 Nord- Amerika: Mormonene, Peyotekulter den såkalte Native Church of Amerika, De sorte muslimer, UFO-religionen.  
 Syd-Amerika: Umbanda og Kimbanda (Brasil)  
@@ -33,7 +31,7 @@ Og de nye religionen fra tiden etter den andre verdenskrig som f..eks. de tre lo
 Korea: Ch on do kyo m.fl.  
 Vietnam:[Cao Dai](http://www.helping.no/vietnam.htm)(se egen artikkel)  
 Indonesia: Cargo-kulter.  
-Afrika: Nyere messianske samfunn blant zuluer, xhosa og andre stammer**![](http://www.helping.no/gulkule.jpg =43x40)**
+Afrika: Nyere messianske samfunn blant zuluer, xhosa og andre stammer
 
 **Eksempel på synkretisme:**
 
@@ -55,19 +53,25 @@ Emosjonelle elementer som ekstatisk fromhet og tungetale er sterkt fremtredende.
 
 Det foregår en diskusjon om messianske religionen er en form for afrikansk kristendom eller en egen religionsform. Men ettersom disse religionsformene inneholder elementer av både kristendom og de tradisjonelle stammereligionene, velger jeg å kalle dem synkretistiske.
 
-**Hovedtrekk i de nye synkretistiske religionene:**  
-**![](http://www.helping.no/kule.jpg =12x12) **De nye religionene har tatt opp i seg elementer fra flere forskjellige religioner, og gjør krav på å sammenfatte det beste i de gamle tradisjonene for eksempel Bahai, Afrikansk Messias som ivaretar afrikansk kultur og dannet en front mot apartheid, Messias-forestillingene tilknyttet UFO-religionene kombinert med et mer moderne vitenskapelig verdensbilde.
+**Hovedtrekk i de nye synkretistiske religionene:  
+**  
+\- De nye religionene har tatt opp i seg elementer fra flere forskjellige religioner, og gjør krav på å sammenfatte det beste i de gamle tradisjonene for eksempel Bahai, Afrikansk Messias som ivaretar afrikansk kultur og dannet en front mot apartheid, Messias-forestillingene tilknyttet UFO-religionene kombinert med et mer moderne vitenskapelig verdensbilde.
 
-**![](http://www.helping.no/kule.jpg =12x12) **De nye synkretistiske religionene gir seg ut for å besvare de religiøse spørsmål i vår tid: En ny verdenssituasjon, med et integrasjonsbehov. UFO-religiones syn på det fysiske makrokosmos kontra menneskets plass i dette. Bahai som en universalreligion som skal passe i alle religioner. Svart Messias i Afrika - en kamp for afrikansk selvbevissthet.
+* De nye synkretistiske religionene gir seg ut for å besvare de religiøse spørsmål i vår tid: En ny verdenssituasjon, med et integrasjonsbehov. UFO-religiones syn på det fysiske makrokosmos kontra menneskets plass i dette. Bahai som en universalreligion som skal passe i alle religioner. Svart Messias i Afrika - en kamp for afrikansk selvbevissthet.
 
-**![](http://www.helping.no/kule.jpg =12x12) **Typisk for de nye åpenbaringsreligionene er at de gir seg ut for å være universelle, og at de betrakter tidligere religioner som utilstrekkelige som for eksempel Bahai og UFO-religionen Svart Messias betrakter "de hvites religion" som utilstrekkelig, men er ikke en utpreget universalreligion.
 
-**![](http://www.helping.no/kule.jpg =12x12) **De nye religionene baserer seg på nye åpenbaringer grunnlagt på spesielle kallelses- eller oppdrags-opplevelser, noe som ofte understrekes i liturgien. UFO-religionene har besøk fra det ytre verdensrom, Bahai har de siste profetene med den reneste læren etc. Svart Messias er den Messias som gjelder Afrika i dag og som manifesteres i de religiøse lederne.
+* Typisk for de nye åpenbaringsreligionene er at de gir seg ut for å være universelle, og at de betrakter tidligere religioner som utilstrekkelige som for eksempel Bahai og UFO-religionen Svart Messias betrakter "de hvites religion" som utilstrekkelig, men er ikke en utpreget universalreligion.
 
-**![](http://www.helping.no/kule.jpg =12x12) **Misjon: De nye religionene driver misjon. De prøver å utbre sin lære, ofte med nye kommunikasjonsmidler som massemedia etc.
 
-**![](http://www.helping.no/kule.jpg =12x12) **Politisk og sosialt engasjement: Peyotekulturen kjemper for indianernes frihetskamp, Svart Messias kjempet mot apartheid og afrikansernes frihetkamp. Bahai kjemper for fred og nedrustning, et felles verdensspråk, internasjonal domstol og fellesforbund/FN. UFO-religionen baserer seg på frykt for atomkrig som kan utslette vår klode.
+* De nye religionene baserer seg på nye åpenbaringer grunnlagt på spesielle kallelses- eller oppdrags-opplevelser, noe som ofte understrekes i liturgien. UFO-religionene har besøk fra det ytre verdensrom, Bahai har de siste profetene med den reneste læren etc. Svart Messias er den Messias som gjelder Afrika i dag og som manifesteres i de religiøse lederne.
 
-**![](http://www.helping.no/kule.jpg =12x12) **De nye religionene har oppstått uavhengig av hverandre i ulike åndelige, kulturelle og sosiale forhold. De er ikke like selv om de har flere fellestrekk og de befinner seg på forskjellige utviklingsstadier.
+
+* Misjon: De nye religionene driver misjon. De prøver å utbre sin lære, ofte med nye kommunikasjonsmidler som massemedia etc.
+
+
+* Politisk og sosialt engasjement: Peyotekulturen kjemper for indianernes frihetskamp, Svart Messias kjempet mot apartheid og afrikansernes frihetkamp. Bahai kjemper for fred og nedrustning, et felles verdensspråk, internasjonal domstol og fellesforbund/FN. UFO-religionen baserer seg på frykt for atomkrig som kan utslette vår klode.
+
+
+* De nye religionene har oppstått uavhengig av hverandre i ulike åndelige, kulturelle og sosiale forhold. De er ikke like selv om de har flere fellestrekk og de befinner seg på forskjellige utviklingsstadier.
 
 Man må kunne konkludere med at de synkretisktiske religionene er høyest ulike, men har tatt opp i seg elementer fra forskjellig eldre religioner. Dette gjelder nær sagt alle religioner. Viktig er også å være klar over at religionenes utvikling ikke er statisk, men dynamisk. Det skjer en utvikling hele tiden, fordi det her gjelder mennesker som praktiserer og som endrer religionen ettersom nye momenter kommer inn i deres forestillingsverden.
