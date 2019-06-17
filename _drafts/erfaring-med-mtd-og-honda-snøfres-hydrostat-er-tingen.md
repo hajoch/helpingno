@@ -10,13 +10,13 @@ excerpt: Når du kjøper din første snøfres har du ingen erfaring. Hver butikk
   selgerne.
 image: "/assets/images/mtd1.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/bolig.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
-
-**På forhånd hører du på råd hos forskjellige forhandlere og ser på priser og antall hestekrefter. Da virker Honda 970 med 8 hk, hjul og manuell start urimelig dyr og har dobbel pris sammenliknet med MTD E640F med like stor motor, 8 hk, hjul, arbeidsbredde 66 cm, med elektrisk start på 230v rett fra stikkontakten. i tillegg har MTDmanual snorstart om du er langt fra strøm**
+På forhånd hører du på råd hos forskjellige forhandlere og ser på priser og antall hestekrefter. Da virker Honda 970 med 8 hk, hjul og manuell start urimelig dyr og har dobbel pris sammenliknet med MTD E640F med like stor motor, 8 hk, hjul, arbeidsbredde 66 cm, med elektrisk start på 230v rett fra stikkontakten. i tillegg har MTDmanual snorstart om du er langt fra strøm
 
 **Førstekjøp MTD**  
 Jeg valgte derfor MTD. Jeg tenkte: "En kanadisk snøfres må jo kunne jobben. Canada har like mye snø som Norge. I Japan er det sikkert ikke store snøklatten"
@@ -30,8 +30,8 @@ Så står det en ny MTD-snøfres i garasjen. Deilig å strekke ledningen og tryk
 Men andre reparasjoner må på verksted. Og det blir stadig flere verkstedbesøk på de fire sesongene jeg har denne freseren. Og hver gang blir det mer og mer besværlig å få den reparert og lang venting på deler. For det er mange MTDer som skal repareres ved det lokale verkstedet.
 
 Det blir gradvis åpenbart at dette ikke er en kvalitetsvare. Forhandleren  
-har dessuten problemer med å skaffe deler til MTD og må sveise til improvisasjoner når noe ryker. Og slitestyrken er ikke som selger skrøt av.  
-  
+har dessuten problemer med å skaffe deler til MTD og må sveise til improvisasjoner når noe ryker. Og slitestyrken er ikke som selger skrøt av.
+
 Den tåler ikke en gang for sterk kulde. Verkstedet opplever å få inn et run av MTD-eiere ved sterkere kulde for da ryker MTD og det er en reklamasjonssak så lenge den er yngre enn 5 år.  
 En kanadisk snøfreser som ikke tåler kulde?  
 . - Da er tålegrensen nådd. Denne skal byttes ut.
@@ -49,12 +49,12 @@ Neste sesong bar det til Honda-forhandler: En Honda-freser på 8hk type 970 med 
 Sesongen med Honda-freser ga både skuffelser og gleder. Her var det hydrostat noe som forklarer den mye høyere prisen. Dernest var det slutt på problemet med kastelengden. Den kaster lengre enn jeg trengte og tok i tillegg også våt snø, noe MTDen ikke klarte. Ulempen var imidlertid at splinten ryker betydelig oftere: Tre ganger på en sesong så langt: Og den innerste splinten var så utilgjengelig og vanskelig å nå med dårlig rygg at jeg måtte til verksted for å skifte den. Kun en råtten furukjepp skulle til - så røk den. Splintene på Honda virker unødig skjøre.
 
 Honda er nå testet i fem sesonger. Og den klarer jobben.  
- Den har slitestyrke bedre enn MTDen.
+Den har slitestyrke bedre enn MTDen.
 
-Men hvorfor har de fleste Honda-selgerne og reperatører selv skaffet seg Honda-snøfresere fra åttitallet? Disse gamle freserne har dårlig sikkerhet om freseren tetter seg.   
+Men hvorfor har de fleste Honda-selgerne og reperatører selv skaffet seg Honda-snøfresere fra åttitallet? Disse gamle freserne har dårlig sikkerhet om freseren tetter seg.  
 Er det som med plenklipperne til Honda at det er de gamle Honda-plenklipperne som er de beste?
 
 **Konklusjon**  
-Konklusjonen er at en freser med hydrostat er den mest solide og sterkeste, men dyreste freseren du kan kjøpe. Se ikke bare på antall hestekrefter. Der er flere gode merker på markedet som leverer maskiner med hydrostatsdrift. Dette sammen med at du må sikre deg tilgang på et pålitelig verksted som gir deg god rask og rimelig service når du trenger det.  
-  
+Konklusjonen er at en freser med hydrostat er den mest solide og sterkeste, men dyreste freseren du kan kjøpe. Se ikke bare på antall hestekrefter. Der er flere gode merker på markedet som leverer maskiner med hydrostatsdrift. Dette sammen med at du må sikre deg tilgang på et pålitelig verksted som gir deg god rask og rimelig service når du trenger det.
+
 Viktigst av alt: Sjekk sikkerhetsutstyret på en freser. Finnes ikke gitter i utkastetrøret så styr unna. Mange har fått kuttet av seg hånda på fresere med dårlig sikkerhet som har tette seg. Dette er en farlig innretning hvis du ikke har lest bruksanvisningen nøye. Følg sikkerhetsreglene.
