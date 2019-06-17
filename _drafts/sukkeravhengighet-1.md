@@ -8,9 +8,10 @@ title: Sukkeravhengighet
 excerpt: ''
 image: "/assets/images/kake-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
   
