@@ -13,7 +13,7 @@ image_caption: 'Foto: Bjørn Wad'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
