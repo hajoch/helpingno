@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sukkeravhengighet-1.md
 - _posts/sukkeravhengighet.md
 - _posts/2019-06-17-hvordan-du-skal-komme-deg-ut-av-en-slik-mani-slanking-og-slankemani.md
 - _posts/2019-06-17-sorgbearbeidelse.md
