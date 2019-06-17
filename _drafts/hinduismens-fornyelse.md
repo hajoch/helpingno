@@ -8,7 +8,7 @@ title: Hinduismens fornyelse
 excerpt: "Mahatma Gandhi tok avstand fra tanken om velferd til alle og pekte på idealet
   \"etisk riktig\". De \"moderne\" hinduer på grasrotplanet fulgte Gandhis eksempel
   og brukte Bhagavad \nGita som etisk guide."
-image: ''
+image: "/assets/images/tempel.jpg"
 image_caption: ''
 categories:
 - _category/religion.md
