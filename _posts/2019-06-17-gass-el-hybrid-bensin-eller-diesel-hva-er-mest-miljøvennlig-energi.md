@@ -4,7 +4,7 @@ date: 2019-06-17 21:58:23 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: 'Gass, el, hybrid, bensin eller diesel?Hva er mest miljøvennlig energi? '
+title: 'Gass, el, hybrid, bensin eller diesel? Hva er mest miljøvennlig energi? '
 excerpt: 'Du behøver ikke investere i en ny hybridbi eller elbil for å kjøre billig
   og miljøvennlig: Bil med bensinmotor kan bygges om til gassdrift . På gass kjører
   du for omkring halvparten av hva bensin koster.'
@@ -18,10 +18,10 @@ weight: 7
 ---
 En bil på gass forurenser mindre og ikke i det hele tatt avhengig av typen gass. Bensinbiler kan etter en liten ombygging kjøres direkte på propangass. Men hvorfor er gass så lite brukt i Norge? Flere andre europeiske land har kjørt på gass i flere tiår. Avgiftskutt og andre fordeler på el-biler er nok svaret.
 
-**Kjører du el-bil eller ladbar hybrid?   
-Hva med prisutviklingen på strøm fremover og hvor ren er engentlig strømmen i et europeisk strømsamarbeid? Atomkraftverk og kullkraftverk for å nevne noe. På positiv side er utviklingen av solenergi og vindkraft/bølgekraft? Vindkraft ødelegger stadig mer av vår uberørte natur på land.**
+Kjører du el-bil eller ladbar hybrid?  
+Hva med prisutviklingen på strøm fremover og hvor ren er engentlig strømmen i et europeisk strømsamarbeid? Atomkraftverk og kullkraftverk for å nevne noe. På positiv side er utviklingen av solenergi og vindkraft/bølgekraft? Vindkraft ødelegger stadig mer av vår uberørte natur på land.
 
-**Prisen på strøm fremover presses oppover når stadig mer er avhengig av strøm i et internasjonalt, europeisk marked.**
+Prisen på strøm fremover presses oppover når stadig mer er avhengig av strøm i et internasjonalt, europeisk marked.
 
 Hydrogenbilen er også en form for elbil. Har vi glemt at gass fra søppelfyllinger er det mest miljøvennlige drivstoff for biler?
 
@@ -29,7 +29,7 @@ Hydrogenbilen er også en form for elbil. Har vi glemt at gass fra søppelfyllin
 Fokuset er nå ensidig på å produsere nye biler med sterkere innslag av el-kraft , såkalt hybrider og el-biler. Å øke produksjonen av nye biler gir betydelig klimaforurensning. Er dette energiøkonomisering? Har vi mistet evnen til å tenke helhetlig?
 
 **Helsekonsekvenser**  
-Og hva med de helesemessige konsekvensene av el- og hybridbilene som kjører rundt med en stor batterikapasitet? Ingen har ennå utredet helsekonsekvensene av den elektromagnetiske strålingen i slike biler. 
+Og hva med de helesemessige konsekvensene av el- og hybridbilene som kjører rundt med en stor batterikapasitet? Ingen har ennå utredet helsekonsekvensene av den elektromagnetiske strålingen i slike biler.
 
 **10 år med Gass**  
 Geir Vaagsnes ved Friluftsrådet Sør i Arendal fortalte i 2007 til avisen Agderposten om ti års problemfri erfaring med å kjøre en Mercedes Gelenderwagen bensin-utgave på propangass. En bruktbil han bygde om selv.  
