@@ -8,8 +8,8 @@ tags:
 - " søvn"
 title: Søvn
 excerpt: Innsovningsproblemer er det vanligste av alle søvnproblemer.
-image: ''
-image_caption: ''
+image: "/assets/images/nov.12.jpg"
+image_caption: Foto Gunnar Christensen. Tema Søvn
 categories:
 - _category/mental-helse.md
 publish_date: 
