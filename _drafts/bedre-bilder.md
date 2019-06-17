@@ -10,7 +10,7 @@ excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virk
   gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
   har mobiltelefoner også fått gode kameraer.
 image: "/assets/images/nov.14.jpg"
-image_caption: ''
+image_caption: 'Foto: Gunnar Christensen'
 categories: []
 publish_date: 
 weight: 
@@ -47,4 +47,6 @@ Motlys kan gi mange spennende effekter i bildet - enten du tar portrett eller la
 **Blitsbruk**  
 Digitalkameraene har blits som automatisk slår seg på ved dårlig belysning. Av og til kan det være en ide å skru av blitsen, særlig ved landskapsfotografering. Uten blits blir det mer naturlig lys på bildet og du slipper plagsomme skygger. Røde øyne kan du unngå med en innstillingsfunksjon på kameraet, men om du er uheldig og får røde øyne på en person kan de fleste fotobehandlingsprogrammer rette på det i etterhånd. I mange situasjoner er blitsen det eneste alternativ. Da kan du anskaffe en blitsslave - d.v.s. en ekstra blits som blinker samtidig med blitsen på kameraet gi verdifullt tilleggslys.
 
-**Utsnitt og redigering på PC**
+**Utsnitt og redigering på PC![](/assets/images/husskog.jpg)**
+
+Digitalkameraene gir deg muligheten til å gå rett på PCen og redigere bildet straks det er tatt. Dette er lærerikt og gøyalt. For her kan du prøve deg fram med ulike bildeutsnitt og fargenyanser.
