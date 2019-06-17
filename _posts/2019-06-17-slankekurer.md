@@ -28,7 +28,7 @@ Vær kritisk til om du vil hoppe på disse kurene, men om du gjør det så ha og
 
 Vi kan ikke garantere de resultater som det skrytes av her og anbefaler kontakt med lege dersom du ikke er frisk og ønsker slanking. Husk at slanking kan være både unødvendig og helseskadelig like mye som betydelig overvekt kan være helseskadelig.
 
-#### 3 dagers-kuren  
+##### 3 dagers-kuren  
   
 **1.dag:**  
 **Frokost:** 1/2 grapefrukt, 1 stk. ristet brød, 2 ts peanut butter.  
