@@ -5,9 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Reiseråd
-excerpt: ''
-image: ''
-image_caption: ''
+excerpt: Sjekkliste når du reiser!
+image: "/assets/images/reiserad.jpg"
+image_caption: 'Foto: Jens Christian Jore Christensen: Illustrasjonsfoto'
 categories: []
 publish_date: 
 weight: 
