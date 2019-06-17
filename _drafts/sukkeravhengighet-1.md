@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-17 15:08:14 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/odd-m-lunde.markdown
 tags: []
 title: Sukkeravhengighet
 excerpt: ''
