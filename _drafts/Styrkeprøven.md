@@ -4,13 +4,20 @@ date: 2019-06-17 12:25:16 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: ''
-excerpt: ''
-image: ''
-image_caption: ''
-categories: []
+title: Styrkeprøven
+excerpt: |-
+  Etter at Styrkeprøven ble utsolgt
+  i bokhandelen ble den lagt ut for gratis nedlasting på helping.no. Mange eksemplarer er lastet ned.
+
+  Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen.
+
+  Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for de mange tilbakemeldinger på at boka hjelper trafikkskadde.
+image: "/assets/images/styrke.jpg"
+image_caption: Boka "Syurkeprøven"
+categories:
+- _category/boker.md
 publish_date: 
-weight: 
+weight: 10
 
 ---
 Slik ble Styrkeprøven til  
