@@ -12,6 +12,7 @@ fields:
     required: false
     color_format: Hex
 pages:
+- _category/hjelpearbeid.md
 - _category/sport.md
 - _category/foto.md
 - _category/bolig.md
