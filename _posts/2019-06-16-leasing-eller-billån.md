@@ -13,9 +13,10 @@ excerpt: Det er sensommer og finvær. DB "Bjoren" glir stille på Byglands-fjord
   jeg ikke har opplevd maken til. Det er som en meditasjon på fjorden.
 image: "/assets/images/bjoren.jpg"
 image_caption: 'Foto: GC'
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
 
