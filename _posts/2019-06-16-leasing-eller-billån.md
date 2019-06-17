@@ -11,8 +11,8 @@ excerpt: Det er sensommer og finvær. DB "Bjoren" glir stille på Byglands-fjord
   en symaskin og skroget pløyer fjorden med en utrolig, liten og beskjeden hekksjø.
   Her er ingen andre båter på fjorden nå. Det gjør dette til en magisk og vakker opplevelse
   jeg ikke har opplevd maken til. Det er som en meditasjon på fjorden.
-image: ''
-image_caption: ''
+image: "/assets/images/bjoren.jpg"
+image_caption: 'Foto: GC'
 categories: []
 publish_date: 
 weight: 
