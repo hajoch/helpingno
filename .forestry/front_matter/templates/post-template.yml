@@ -72,10 +72,10 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
 - _posts/2019-06-17-grønn-suppe.md
 - _posts/2019-06-17-blomkålsuppe.md
-- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-17-bmi.md
 - _posts/2019-06-17-sukkeravhengighet.md
