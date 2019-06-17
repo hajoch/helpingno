@@ -4,8 +4,7 @@ date: 2019-06-16 23:48:36 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Dampveteranen DB "Bjoren" på Byglandsfjord i Setesdal  er verdens eneste, vedfyrte
-  dampbåt i rutetrafikk  En meditativ sommeropplevelse
+title: 'Dampveteranen i Setesdal  '
 excerpt: Det er sensommer og finvær. DB "Bjoren" glir stille på Byglands-fjorden i
   retning slusene ved Storstraumen. Den vedfyrte damp-maskinen er stillegående som
   en symaskin og skroget pløyer fjorden med en utrolig, liten og beskjeden hekksjø.
