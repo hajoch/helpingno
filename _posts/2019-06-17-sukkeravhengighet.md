@@ -5,15 +5,15 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Boligleie
-excerpt: ''
+excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
+  sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
 image: "/assets/images/boligleie.jpg"
-image_caption: ''
+image_caption: 'Foto: GC'
 categories: []
 publish_date: 
-weight: 
+weight: 6
 
 ---
-**Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden, sover og henter oss inn. Det er derfor avgjørende å trives i boligen.**
 
 **Før du inngår avtale**  
 Når du skal ut i leiemarkedet bør du regne ut hvor mye du har råd til å betale i husleie. Blink deg deretter ut områder der du kan tenke deg å bo. Søk i bolig-til-leie-annonser etter det som passer for deg både økonomisk og praktisk. Samtidig bør du tenke økonomi: Om det er mulig for deg å leie en billigere bolig nå enn du maksimalt har råd til, kan du legge til sides penger til å finansiere eget boligkjøp senere.
