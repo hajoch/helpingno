@@ -9,7 +9,7 @@ excerpt: "Mahatma Gandhi tok avstand fra tanken om velferd til alle og pekte på
   \"etisk riktig\". De \"moderne\" hinduer på grasrotplanet fulgte Gandhis eksempel
   og brukte Bhagavad \nGita som etisk guide."
 image: "/assets/images/tempel.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen, motiv fra Nepal
 categories:
 - _category/religion.md
 publish_date: 
