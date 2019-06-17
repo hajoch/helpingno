@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/indre-uro.md
+- _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-farmors-middag-kjøttkaker-av.md
 - _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/2019-06-17-kosebåt.md
