@@ -5,18 +5,19 @@ crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
 title: Alvorlig depresjon
-excerpt: ''
+excerpt: 'Mange tenker på depresjon som symptomet tristhet eller senket stemningsleie.
+  Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et
+  spørreskjema vi kaller MADRS. '
 image: "/assets/images/okt7.jpg"
 image_caption: 'Foto: GC'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
-**©** Av psykiater [Odd M. Lunde](http://www.helping.no/oddmlunde.htm)
 
-Mange tenker på depresjon som symptomet tristhet eller senket stemningsleie. Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et spørreskjema vi kaller MADRS. Men som ved feber kan tristhet være tegn på mange sykdommer med varierende alvorlighetsgrad. 25 prosent av alle kvinner vil rammes av en form for depresjonsykdom i løpet av livet. Personlig tror jeg at mange menn skjuler depresjonen under et alkoholmisbruk slik at det er like mange menn får en slik sykdom.
+Men som ved feber kan tristhet være tegn på mange sykdommer med varierende alvorlighetsgrad. 25 prosent av alle kvinner vil rammes av en form for depresjonsykdom i løpet av livet. Personlig tror jeg at mange menn skjuler depresjonen under et alkoholmisbruk slik at det er like mange menn får en slik sykdom.
 
 Den alvorligste formen kalte vi før melankoli, endogen depresjon (store somatiske sykdomstegn) eller gjentatte alvorlige depresjoner i det manisk depressive tilstandsbilde. Det kan være så mange som tre prosent av befolkningen som har en grad av denne sykdommen til enhver tid. Derfor er mange familier, arbeidsplasser og vennekretser involvert. Sykdommen kan av og til være maskert. Men er vanligst så skremmende tydelig at vi rygger tilbake eller gir gode råd. Slike gode råd vil for en alvorlig deprimert som oftest bli oppfatta negativt.
 
