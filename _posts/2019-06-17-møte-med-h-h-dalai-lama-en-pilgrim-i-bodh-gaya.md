@@ -16,7 +16,7 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 **Dette møte er ti år før H.H: Dalai Lama blir Nobelprisvinner.**
