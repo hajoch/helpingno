@@ -5,7 +5,10 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Bedre bilder
-excerpt: ''
+excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
+  at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
+  gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
+  har mobiltelefoner også fått gode kameraer.
 image: "/assets/images/nov.14.jpg"
 image_caption: ''
 categories: []
@@ -13,10 +16,6 @@ publish_date:
 weight: 
 
 ---
-**Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå har mobiltelefoner også fått gode kameraer.**
-
-**Tekst og foto © :** [**Gunnar Christensen**](http://helping.no/gunnar.htm)
-
 **Kameravalg**  
 Digitalkameraene har tatt over markedet. Grovt kan kameraene deles i tre grupper: Kompaktkamera, hybridkamera og speilreflekskamera. Mobiltelefoner har kompaktkamera.
 
@@ -36,3 +35,7 @@ En klassisk feil ved personfotografering er å ta et skritt bakover før bildet 
 **Landskap og dybdevirkning**
 
 ![](/assets/images/mars.jpg)
+
+Landskapsfotografering blir ofte bedre om du finner en forgrunn. Det kan være en figur, et tre eller noe annet som gir det todimensjonale bildet en tredimensjonal effekt. Som en rekke med telefonstolper langs en vei. Trær langs en elv der du ser at trærne blir mindre jo lengre borte de befinner seg på bildet. Forgrunnen kan også være slik at bildet rammes inne av f.eks. to trær med landskapet du avbilder mellom disse. Tåke kan også gi en slik dybdeeffekt i bildet.
+
+**Motlys**
