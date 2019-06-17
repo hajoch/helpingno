@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-17 16:01:24 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: ''
 tags: []
 title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
 excerpt: ''
@@ -13,7 +13,6 @@ publish_date:
 weight: 5
 
 ---
-Av 
 
 Hvitløksmarinerte Scampi:  
 Oppskrift for 4 personer:
