@@ -21,23 +21,14 @@ Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - ha
 
 Det var nedtur for både barn og voksne selv om været var strålende og det var mulig å kjøpe en Galdhøpiggen pins nede på Spiterstulen etterpå som plaster på såret.
 
-| --- |
-|  |
-
-| --- |
-| Utsikt mot vest fra toppen av Galdhøpiggen. |
+  
+![](/assets/images/ga.jo.gc-1.jpg)
 
 For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser. Turistforeningen har merket denne turen med 4 timers gange fra Spiterstulen på sine kart, men det er kun de sprekeste som klarer dette.
 
 Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser og nistespising - og fremfor alt nyte den fine naturopplevelsen denne turen byr på. Best av alt så behøver man ikke klatreutstyr eller brevandring for å bestige Galdhøpiggen fra Spiterstulen. Men du må utstyre deg med varme og vindtette klær - og det er en del snø på veien.
 
 Underveis treffer du mange andre som også bruker både 6 og 7 timer opp og forstår ikke hvorfor løypa er merket med 4 timer opp og 2 timer ned - helt til du treffer en jogger.
-
-| --- |
-|  |
-
-| --- |
-| Utsikt fra Galdhøpiggen. |
 
 Og vel nede på Spiterstulen etter å ha feilberegnet tiden og kjempet for å rekke ned før mørket faller på, får du i resepsjonen høre om alle atleter som har klart hele turen opp på kortere enn 4 timer.
 
@@ -46,12 +37,6 @@ Det var "Gutta på Tur-gruppa"........
 Her er ingen selvkritikk på den optimistiske tidsangivelsen.
 
 Kanskje må det skje en alvorlig ulykke før Turistforeningen nyanserer de 4 timene opp og de 2 timene ned?
-
-| --- |
-|  |
-
-| --- |
-| Jotunheimen: Spiterstulen ligger i et dalføre med bilvei på 1100 m.o.h. mellom Galdhøpiggen og Glitretind. |
 
 **Synes du det høres hardt ut?**
 
@@ -67,16 +52,13 @@ om du har med små barn eller besteforeldre på turen.
 Viktigst på turen er den vakre naturopplevelsen  
 \- særlig om du er heldig med været.
 
-**![](http://helping.no/gul2.jpg =150x5)**
-
-Se også:  
+**![](http://helping.no/gul2.jpg =150x5)  
+**Se også:  
 [Gjende](http://helping.no/gjende.htm) Jotunheimens perle ved Besseggen
 
 [Sognefjellsvegen ](http://helping.no/sognefjellet.htm)Nord-Europas høyeste fjellovergang 1434 moh
 
-**![](http://helping.no/gul2.jpg =150x5)**
-
-Husk fjellvettreglene  
+**![](http://helping.no/gul2.jpg =150x5)**  
 \- og egne forsiktigshetsregler når du går på isbre.
 
 Fjellvettreglene  
