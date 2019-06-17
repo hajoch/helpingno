@@ -5,7 +5,8 @@ crop_image: true
 author: _authors/jens-christian-jore-christensen.md
 tags: []
 title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
-excerpt: ''
+excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smaker
+  utmerket inntil. Hvitløksbrød er også godt, og kanskje en flaske rødvin?
 image: "/assets/images/scampi2.jpg"
 image_caption: Foto Jens Christian Jore Christensen
 categories:
