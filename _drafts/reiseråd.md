@@ -8,7 +8,8 @@ title: Reiseråd
 excerpt: Sjekkliste når du reiser!
 image: "/assets/images/reiserad.jpg"
 image_caption: 'Foto: Jens Christian Jore Christensen: Illustrasjonsfoto'
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
 weight: 
 
