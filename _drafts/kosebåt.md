@@ -8,12 +8,13 @@ title: Kosebåt
 excerpt: Marex 77 Holiday
 image: "/assets/images/marex77holiday.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
-**Marex 77 Holiday har en imponerende plassutnyttelse. Her er salong, bysse og en romlig akterlugar. En sosial uteplass særtegner denne båten. Alle sitter i samme høyde. På andre liknende båter - inklusive snekker - sitter fører og sidepassasjer bortimot en halv etasje over passasjerene i aktersete. Slik er det ikke her. Dette gjør båten til en unik og trivelig familie- og turbåt.**
+Marex 77 Holiday har en imponerende plassutnyttelse. Her er salong, bysse og en romlig akterlugar. En sosial uteplass særtegner denne båten. Alle sitter i samme høyde. På andre liknende båter - inklusive snekker - sitter fører og sidepassasjer bortimot en halv etasje over passasjerene i aktersete. Slik er det ikke her. Dette gjør båten til en unik og trivelig familie- og turbåt.
 
 Båten er retningsstabil og stø, enkel å manøvrere og lystrer roret bra, men krever noe tilvenning ved bruk i trangt farvann, særlig når du går akterover.
 
@@ -47,5 +48,5 @@ Det som manglet av ekstrautstyr (for å gjøre båten helt topp) var baugpropell
 
 Motor**:** ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)
 
-55 hk Yanmar 4JH-TBE 4 cyl.. Turobodiesel: Den beste dieselmotoren jeg har opplevd. Jevn og pen gange uten problemer av noe slag. Ikke svetter den. Du kan nærmest gå ned i maskinrommet med hvite hansker. Malingen flasser ikke av slik du opplever på de fleste andre slike motorer. En innenbordsmotor man blir glad i:   
+55 hk Yanmar 4JH-TBE 4 cyl.. Turobodiesel: Den beste dieselmotoren jeg har opplevd. Jevn og pen gange uten problemer av noe slag. Ikke svetter den. Du kan nærmest gå ned i maskinrommet med hvite hansker. Malingen flasser ikke av slik du opplever på de fleste andre slike motorer. En innenbordsmotor man blir glad i:  
 Drømmemotoren.
