@@ -4,7 +4,7 @@ date: 2019-06-17 11:27:32 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Klosterliv på nært hold Nøysomhet og flittig arbeid
+title: 'Klosterliv på nært hold: Nøysomhet og flittig arbeid'
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
   sitt hjem. Det 800 år gamle klosteret er idyllisk plassert på en åskam i vakre naturomgivelser.
   Fra et fjellplatå like ved kan Mont Blanc skimtes i det fjerne - på godværsdager.
