@@ -7,28 +7,28 @@ tags: []
 title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
 excerpt: ''
 image: "/assets/images/scampi2.jpg"
-image_caption: ''
+image_caption: Foto Jens Christian Jore Christensen
 categories: []
 publish_date: 
-weight: 
+weight: 5
 
 ---
-Av Jens Christian Jore Christensen
+Av 
 
-Hvitløksmarinerte Scampi:   
+Hvitløksmarinerte Scampi:  
 Oppskrift for 4 personer:
 
 Ingredienser:  
- 2 hvitløker  
+2 hvitløker  
 1 chilli  
- 1 paprika  
- Litt stekeolje  
+1 paprika  
+Litt stekeolje  
 1 sitron  
 1 kg dypfryste ferdigkokte scampi  
- Litt salt og pepper  
+Litt salt og pepper  
 Ruccula salat  
 Tomater  
- Hvitløksbrød
+Hvitløksbrød
 
 **Fremgangsmåte:**
 
