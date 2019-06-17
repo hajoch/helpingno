@@ -2,15 +2,16 @@
 layout: post
 date: 2019-06-17 15:29:15 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/odd-m-lunde.markdown
 tags: []
 title: BMI
-excerpt: ''
+excerpt: Mer om slanking
 image: "/assets/images/oddpaski.jpg"
 image_caption: Foto Valdis Lunde
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
 
