@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/farmors-kjøttkaker.md
+- _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/farmors-middag-kjøttkaker-av.md
 - _posts/2019-06-17-kosebåt.md
 - _posts/2019-06-17-erfaring-med-mtd-og-honda-snøfres-hydrostat-er-tingen.md
