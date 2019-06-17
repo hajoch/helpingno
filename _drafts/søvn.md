@@ -16,9 +16,7 @@ publish_date:
 weight: 5
 
 ---
-Søvnmangel
-
-**©** Av psykiater [Odd M. Lunde](http://www.helping.no/oddmlunde.htm)
+#### Søvnmangel
 
 **Innsovningsproblemer er det vanligste av alle søvnproblemer. Det kommer av bekymringer i løpet av dagen. Alt fra store livshendelser til daglige irritasjoner klarer vi å løpe fra i oppreist stilling, men så er de der igjen om kvelden. Deretter kommer angsten for ikke å få sove etter en natt med lite søvn. Angst for angsten kalles det på fagspråket.**
 
@@ -26,11 +24,7 @@ Dette kan behandles med medisin som vi kan bli avhengig av eller som vi ikke kan
 
 Siden innsovingsproblemer er en angstvariant, må det adferdsterapi til. Dvs.: Omlegging av vaner. Hver morgen i 4 uker må du stå opp på samme tidspunkt. Deretter kan du en dag i uka ligge en til to timer lengre. Dette har hjulpet 50 % av pasientene mine. Jeg snakker kun om å krøke seg opp. Det kan ha positive sideeffekter som at du rekker frokost, får lest avisa og kan gå til jobb. Men det er selve det å stå opp på samme tid som er behandlingen. Og det er hardt nok det.
 
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-5 gode søvnråd
-
-© Av psykiater [Odd M. Lunde](http://www.helping.no/oddmlunde.htm)
+#### 5 gode søvnråd
 
 **Søvn er viktig. Så snakk om søvnen din, les gode råd og søk hjelp hos fastlegen raskt(3 dager) hvis søvnen har forandret seg. Vær kritisk til alle som vil selge deg noe.**
 
@@ -51,11 +45,7 @@ Stå opp til samme tid hverdag som fest og når du er på hytta. Hver 4 de uke e
 
 Fysisk og psykisk smerte må også dempes og på dagtid jobbes med.
 
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-Avbrutt søvn og søvnhygiene
-
-**©** Av psykiater [Odd M. Lunde](http://www.helping.no/oddmlunde.htm)
+#### Avbrutt søvn og søvnhygiene
 
 **Forebyggende tiltak for å forbedre søvnen kaller vi søvnhygene. Hvis du er våken og opplagt på dagtid og sover mellom seks og ni timer, så skal du ikke bekymre deg om søvnen forandrer seg i noen uker. Først når søvnen har forandret seg i lenger enn fire uker skal du sette inn med forebyggende tiltak. Det finnes mange gode bøker om søvn med mange slike preventive eller søvnhygeniske tiltak.**
 
