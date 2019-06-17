@@ -5,7 +5,7 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Slankekurer
-excerpt: ''
+excerpt: 3 dagers-kuren
 image: "/assets/images/eple1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
