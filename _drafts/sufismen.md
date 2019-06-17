@@ -8,7 +8,7 @@ title: Sufismen
 excerpt: Sufismen har særlig i sin opprinnelse vært i sterk motsetning til ortodoks
   Islam
 image: "/assets/images/tajmahal2.jpg"
-image_caption: ''
+image_caption: Sufismen er Islams mystikk
 categories:
 - _category/religion.md
 publish_date: 
