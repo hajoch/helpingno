@@ -16,7 +16,7 @@ publish_date:
 weight: 
 
 ---
-**Kameravalg**  
+**![](/assets/images/toru.002.jpg)Kameravalg**  
 Digitalkameraene har tatt over markedet. Grovt kan kameraene deles i tre grupper: Kompaktkamera, hybridkamera og speilreflekskamera. Mobiltelefoner har kompaktkamera.
 
 Kvaliteten er nå så god på flere av de små kompaktkameraene at de fleste satser på dette fremfor speilreflekskamera som er større, tyngre og dermed mer å dra på. Hybridkameraene er enkelt forklart en krysning mellom kompaktkameraet og speilreflekskameraet og tar nesten like gode bilder som speilreflekskameraene.
@@ -39,3 +39,12 @@ En klassisk feil ved personfotografering er å ta et skritt bakover før bildet 
 Landskapsfotografering blir ofte bedre om du finner en forgrunn. Det kan være en figur, et tre eller noe annet som gir det todimensjonale bildet en tredimensjonal effekt. Som en rekke med telefonstolper langs en vei. Trær langs en elv der du ser at trærne blir mindre jo lengre borte de befinner seg på bildet. Forgrunnen kan også være slik at bildet rammes inne av f.eks. to trær med landskapet du avbilder mellom disse. Tåke kan også gi en slik dybdeeffekt i bildet.
 
 **Motlys**
+
+![](/assets/images/toru.002.jpg)
+
+Motlys kan gi mange spennende effekter i bildet - enten du tar portrett eller landskapsbilder. Sørg da for å skru av blitsen slik at du får utnyttet disse effektene fult ut. Eller ta i bruk blitsen for å kompensere for skygger som blir for mørke nær kameraet.
+
+**Blitsbruk**  
+Digitalkameraene har blits som automatisk slår seg på ved dårlig belysning. Av og til kan det være en ide å skru av blitsen, særlig ved landskapsfotografering. Uten blits blir det mer naturlig lys på bildet og du slipper plagsomme skygger. Røde øyne kan du unngå med en innstillingsfunksjon på kameraet, men om du er uheldig og får røde øyne på en person kan de fleste fotobehandlingsprogrammer rette på det i etterhånd. I mange situasjoner er blitsen det eneste alternativ. Da kan du anskaffe en blitsslave - d.v.s. en ekstra blits som blinker samtidig med blitsen på kameraet gi verdifullt tilleggslys.
+
+**Utsnitt og redigering på PC**
