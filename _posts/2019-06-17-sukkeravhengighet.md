@@ -15,7 +15,6 @@ publish_date:
 weight: 6
 
 ---
-
 **Før du inngår avtale**  
 Når du skal ut i leiemarkedet bør du regne ut hvor mye du har råd til å betale i husleie. Blink deg deretter ut områder der du kan tenke deg å bo. Søk i bolig-til-leie-annonser etter det som passer for deg både økonomisk og praktisk. Samtidig bør du tenke økonomi: Om det er mulig for deg å leie en billigere bolig nå enn du maksimalt har råd til, kan du legge til sides penger til å finansiere eget boligkjøp senere.
 
@@ -42,8 +41,8 @@ Som kjent er både radon og høyspent stråling kreftfremkallende.
 
 Bruk alle sanser på visningen. Lukter det mugg på badet? Fuktskader gir dårlig inneklima og helseplager. Hvilken isolasjonstype er brukt. Det er kjent at Glava gir dårlig inneklima, mens Rockwool gir godt inneklima og er i tillegg brannhindrende. Les også [Miljøhus.](http://www.helping.no/miljohus.htm)
 
-Hvilken årgang er huset? Nyere hus har bedre isolasjon enn eldre. En kjellerleilighet i et hus fra 1990-tallet eller nyere er langt å foretrekke framfor en tilsvarende fra fra f.eks. 1960-tallet. Dette har også med fyringsutgifter og dermed økonomi og trivsel å gjøre.  
-  
+Hvilken årgang er huset? Nyere hus har bedre isolasjon enn eldre. En kjellerleilighet i et hus fra 1990-tallet eller nyere er langt å foretrekke framfor en tilsvarende fra fra f.eks. 1960-tallet. Dette har også med fyringsutgifter og dermed økonomi og trivsel å gjøre.
+
 Beliggenhet i forhold til støy fra vei, jernbane m.m. er viktig for søvnkvalitet der du bor. Får du ikke den nødvendige søvndybde som følge av for eksempel trafikk/gatestøy om natten, blir du ikke skikkelig uthvilt etter nattesøvnen og i lengden kan det slite på helsa.
 
 Sjekk også naboforholdene: Spør gjerne folk som bor i nærheten om dette er et greit sted å bo. Om det er greie naboforhold i strøket? Trygg skolevei for barna? Parkeringsforhold i gata? Bussforbindelser? Rolig strøk eller mye kriminalitet?
@@ -67,4 +66,4 @@ Husk på at det du har med deg når du flytter inn i boligen har en verdi. Du ha
 **Sjekk forsikrings-tilbudene**  
 Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du bestemmer deg. Enkelte medlemskap eller arbeidsforhold kan gi rabatt hos noen forsikringsselskaper. Hvis du er student og ikke melder flytting til studiested i folkeregisteret, kan du i noen tilfeller være dekket under dine foreldrenes innboforsikring, men dette er ofte aldersbestemt - slik at forsikringen opphører når du f. eks. er over 23 år.
 
-**Lykke til med boligjakten.**
+Lykke til med boligjakten.
