@@ -8,8 +8,9 @@ title: Hinduismens mystikk
 excerpt: Hinduismen aksepterer sjelens evighet som en erfaring, det enten det finnes
   en verdenssjel eller et stort antall individuelle sjeler.
 image: "/assets/images/ganges2.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto Gunnar Christensen. Benares på Ganges.
+categories:
+- _category/religion.md
 publish_date: 
 weight: 
 
