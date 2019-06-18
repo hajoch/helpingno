@@ -17,17 +17,17 @@ publish_date:
 weight: 3
 
 ---
-Et hyl ljomer gjennom en kaotisk, overfylt gate i Kathmandu: I det samme kommer en ung kvinne løpende gjennom folkemengden, etterfulgt av en guttebande bevæpnet med ballonger fylt med vann og fargepulver som de kaster etter henne.
+Et hyl ljomer gjennom en kaotisk, overfylt gate i Kathmandu: I det samme kommer en ung kvinne løpende gjennom folkemengden, etterfulgt av en guttbande bevæpnet med ballonger fylt med vann og fargepulver som de kaster etter henne.
 
-Det er den fargerike Holifestivalen i Nepal, og datoen er 14 mars. Rødfargen dominerer, men også sort fargepulver er i bruk. Nepaleserne kaster ballonger fylt med farger og vann på hverandre og "ofrene" blir temmelig ukjennelige. De fleste i gatene på denne festdagen har fått fargestoffet på seg. Det er en gledesfest som feires.
+Det er den fargerike Holifestivalen i Nepal, og datoen er 14 mars. Rødfargen dominerer, men også sort fargepulver er i bruk. Nepalerne kaster ballonger fylt med farger og vann på hverandre og "ofrene" blir temmelig ukjennelige. De fleste i gatene på denne festdagen har fått fargestoffet på seg. Det er en gledesfest som feires.
 
 Det er ofte de unge pikene som får unngjelde også før festivaldagen, da mange trener litt på forhånd for å ha godt handlag med fargepulveret og vannet før selve dagen.
 
-Holifestivalen er et vårtegn: Den dagen da nesten alle har farger i hår, ansikt og på klærne. Det er liv og røre i gatene og en ekstra porsjon moro i en ellers trist hverdag for mange nepalesere.
+Holifestivalen er et vårtegn: Den dagen da nesten alle har farger i hår, ansikt og på klærne. Det er liv og røre i gatene og en ekstra porsjon moro i en ellers trist hverdag for mange nepalere.
 
 Turistene kan lett bli med på moroa, mer eller mindre frivillig. Råd til dem er derfor å ta på de eldste klær og kjøpe inn ballonger, farger og vann ­ og la det stå til.
 
-Som alltid ellers i Nepal byr det ikke på problemer å få kontakt med de fastboende. Nepaleserne tar oftest initiativet til kontakt før turistene får tid til det. Holifastivalen er ingen unntakelse. Dagen da smilet og latteren preger Nepals byer og tettsteder.
+Som alltid ellers i Nepal byr det ikke på problemer å få kontakt med de fastboende. Nepalerne tar oftest initiativet til kontakt før turistene får tid til det. Holifastivalen er ingen unntakelse. Dagen da smilet og latteren preger Nepals byer og tettsteder.
 
 Bli med dem! Syng og dans i gatene, slå på tromme og kast farger blandet med vann i ballonger til utpå ettermiddagen! Da er det tid for å gå hjem og gjøre tapre forsøk på å få av seg fargestoffet, noe en av og til må slite litt for å få til.
 
