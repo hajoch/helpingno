@@ -13,19 +13,13 @@ excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet 
   meste er dekket med jord og torv. Lite er utgravd. Disse gravhaugene av den engang
   så stolt handelsstat og militær stormakt skjuler trolig mange hemmeligheter..."
 image: "/assets/images/tunis4.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Foto Gunnar Christensen. Araberfesser er stedets mest brukte hodeplagg
+  for far og sønn.
 categories: []
 publish_date: 
 weight: 
 
 ---
-
-OBS: Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo")[  
-_tunisia/id2414832/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_tunisia/id2414832/)
-
-| --- |
-|  |
-
 **Karthago var en gang en stormakt. Nå er her stille...**
 
 Museet like ved har hauger med potteskår, mosaikk og bruksgjenstander fra mindre utgravinger. Trygt plasser i glassmontre...
@@ -54,11 +48,6 @@ Tepper. Vakre håndknyttede tepper laget av kvinner og barn...
 Hestemarked...  
 Basarer.  
 Frukt og grønnskar fra lokale bønder...
-
-| --- |
-|  |
-
-**Fine grønnsaker på markedet.**
 
 En pisk.  
 Selgeren nærmer seg med et hemmelighetsfullt smil;  
@@ -103,7 +92,5 @@ Jeg ser inn i to ivrige øyne.
 
 Dette er ingen spøk. Mannen mener alvor. Og om han får ett håndtrykk nå så er det en handel og den er beskyttet av landets lover.
 
-| --- |
-|  |
-
-**Araberfesser er stedets mest brukte hodeplagg for far og sønn**.
+OBS: Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo")[  
+_tunisia/id2414832/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_tunisia/id2414832/)
