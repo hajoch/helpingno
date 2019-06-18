@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/jeg-jobbet-hos-mor-teresa-en-engel.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-06-18-disneyland-i-paris.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md
