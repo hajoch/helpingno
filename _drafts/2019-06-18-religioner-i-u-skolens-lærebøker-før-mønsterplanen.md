@@ -33,7 +33,7 @@ Utgitt første gang oktober 2004 på Ildsjelen Forlag,
 
 Presseomtale av:  
 **Albert Henrik Mohn,**  
-**Morgenavisen, Bergen**
+**Morgenavisen**
 
 I de siste årene har vi fått en rekke minoritetsgrupper i  
 landet vårt. Pakistanere og vietnamesere er to av dem.
