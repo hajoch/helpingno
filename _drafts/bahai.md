@@ -36,3 +36,21 @@ I tråd med universalistisk tankegang ønsker Bahai et universalspråk, og et sk
 I politisk sammenheng har Bahai kjempet for et forlkeforbund, en folkedomstol av internasjonal karakter lenge før slike ble til. (FN og Haag-domstolen)
 
 Bahai har stor utbredelse i Europa og Amerika. Religionen har en dynamisk misjonsvirksomhet som tar i bruk alle moderne organisasjonsmetoder, behersker massemedier og pedagogisk propaganda og er svært tilpassningsdyktig til aktuelle situasjoner.
+
+**Leserinnlegg om Bahai:**
+
+Jeg har lyst til å påpeke at min forståelse av hoved-religionenes utvikling, dvs. hinduisme, buddhisme, jødedom, kristendom, islam og bahai, ikke innebærer synkretisme. Hver av disse religionene er selvstendige åpenbaringer gjennom profeter sendt av Gud, for å manifestere Hans vilje for menneskeheten. At forskjellige religioner har like kjennetegn i forhold til åndelig innhold, er ikke så merkelig all den tid de har samme kilde: Gud.
+
+Slik sett er åpenbaringene fra religionene som kapitler i én og samme bok Guds Bok. Splittelse og stridigheter mellom Hans religioner er derfor en gedigen misforståelse og maktarroganse hos diverse religioners overhoder. Når dere skriver at bahaitroen betrakter de andre religionene som utilstrekkelig er dette en sannhet med modifikasjoner.
+
+I seg selv er alle religioner medsendt fra Gud, mer enn tilstrekkelige for den tiden de åpenbares i. Men når Gud velger å sende en ny manifestasjon med et nytt budskap for menneske-hetens åndelige og materielle utvikling, er det klart at det er den siste religionen som er up to date. Dessverre er ikke universitetene oppdatert slik at bahai kan studeres der på lik linje med de andre store religionene. Derimot har den sin plass i FN som rådgiver.
+
+Sjekk [www.bahai.no](http://www.bahai.no/) for videre forklaringer om bahaireligionen, dens innhold og sammenhengen mellom den og de eldre.
+
+Mvh  
+May-Lill Thorkelsson,  
+Bahai og realist
+
+**Redaktørens bemerkning:**  
+Ved universitetene er det mulig å studere Bahai på lik linje med de andre religionene. Det er imidlertid kjent at religions-historikere på enkelte områder kan være uenige med troende Bahaier.   
+Red. Gunnar Christensen
