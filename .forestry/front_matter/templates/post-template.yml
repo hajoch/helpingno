@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/taleangst.md
+- _posts/2019-06-18-taleangst.md
 - _posts/2019-06-18-advokatbrevet.md
 - _posts/2019-06-18-natur-som-lykkepille.md
 - _posts/2019-06-18-mambo.md
