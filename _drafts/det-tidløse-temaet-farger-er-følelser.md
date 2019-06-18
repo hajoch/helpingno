@@ -11,7 +11,7 @@ excerpt: 'Fargene taler direkte til vårt følelsesliv. Samspillet mellom kalde 
 image: "/assets/images/mercedes7.jpg"
 image_caption: |-
   Farger selger
-  Foto Gunnar Christensen
+  Foto Christoffer J. Christensen
 categories:
 - _category/økonomi.md
 publish_date: 
