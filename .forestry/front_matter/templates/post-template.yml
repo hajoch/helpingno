@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/norge-straffer-penger-på-bok-kjøp-eiendom.md
 - _posts/2019-06-18-tunisia-karthagos-ruiner-oliven-og-kameler.md
 - _posts/2019-06-18-fargefestival-i-nepal.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
