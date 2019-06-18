@@ -1,0 +1,32 @@
+---
+layout: post
+date: 2019-06-18 09:30:07 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: Indre Uro
+excerpt: Har du en indre uro? Mange har det. Det er ikke alltid like lett å forstå
+  hva denne uroen består i eller hvordan den er kommet til deg. Det kan være noe som
+  bare er der. Noe som er en del av din person. Det behøver ikke å være en dramatisk
+  hendelse fra barndommen som er fortrengt over i det ubeviste liksom mange psykologiserer
+  slikt til. Heller ikke noen form for sykdom.
+image: "/assets/images/helse-1.jpg"
+image_caption: 'Foto: GC'
+categories:
+- _category/mental-helse.md
+publish_date: 
+weight: 5
+
+---
+
+Det er mange typer indre uro. For noen oppleves denne uroen som noe positivt. Mange kunstnere kanaliserer den indre uroen sin til konstruktiv virksomhet i form av eksempelvis musikk eller bilder. Ja, innen alle yrker finnes mennesker som bruker sin indre uro som en ekstra drivkraft. Om Kjell Inge Røkke har en slikt indre uro som drivkraft i sin virksomhet er det lett å se hvilke resultater dette kan gi i form av arbeidsplasser og verdiskapning. Om Edvard Munch hadde en slik uro i seg er det lett i dag å se hva dette har gitt av resultater.
+
+Den indre uroen kan oppleves både positiv og negativ. Eller den skifter fra å være positiv til negativ og så positiv igjen ut i fra hvilke situasjoner du møter. Her er mange nyanser av positivitet og negativitet omkring opplevelsen av indre uro. Og det kan være helt normalt.
+
+For andre derimot kan den indre uroen oppleves kun som noe negativt. Noe som tærer på kreftene og ødelegger livsutfoldelsen. Det kan oppleves som en trykkoker som stadig koker over og du må legge stadig nye lodder på lokket for å holde det på plass. Dette kan være slitsomt og deprimerende. Du står da overfor et valg: Kan jeg bruke denne uroen til noe positivt for meg selv og andre? Eller skal jeg bruke denne uroen til noe negativt - som jeg vet vil skade meg selv og kanskje også andre.
+
+Tenk igjennom om det er dine tanker og følelser omkring denne uroen som gjør den negativ for deg. Er det mulig for deg å snu den negative uroen helt eller delvis til en positiv uro? Noe som kan øke din livskvalitet. Som for eksempel å bruke uroen til å trene hardt innen en idrettsgren og oppnå gode sportslige resultater: Som sykkelritt, lengdeløp eller skihopp? Mange idrettsklubber har dyktige trenere som kan motivere deg og gi deg gode råd og oppmuntring i denne prosessen.
+
+Er din indre uro så pågående og ødeleggende at du føler det er umulig å handtere den på egen hånd så søk hjelp. Prøv å snakke om det til en god venn som har tid til å lytte og er ærlig nok til å si det han/hun mener. Eller kontakt din lege for å søke henvisning til spesialistbehandling.
+
+Viktigst for deg i denne prosessen er at du hele tiden ser etter positive løsninger og at du selv tar styringen og ansvaret i ditt eget liv. Overlater du styringen av ditt liv til andre så har du ikke definert deg selv som voksen. Ta alltid ansvar for ditt eget liv og dine handlinger.
