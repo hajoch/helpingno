@@ -16,27 +16,26 @@ publish_date:
 weight: 5
 
 ---
-Du formuebeskattes for 100% av bankinnskuddets formueverdi. Investeringer i eiendom gir sammenlikningsvis betydelig lavere formueskatt fordi ligningsverdien for eiendom fremdeles er lavere enn markedsverdien. Beregner du inflasjonsutviklingen inn i dette regnestykke, da taper du penger på å sette pengene i banken når renten er lav. I klartekst betyr dette at pengene blir mindre verd i banken enn om du investerer dem i bolig. Nå har imidlertid finanskriser ført til usikkerhet omkring boligprisen, men på lang sikt er alltid eiendom gunstig.
+Du formuebeskattes for 100% av bankinnskuddets formueverdi. Investeringer i eiendom gir sammenligningsvis betydelig lavere formueskatt fordi ligningsverdien for eiendom fremdeles er lavere enn markedsverdien. Beregner du inflasjonsutviklingen inn i dette regnestykke, da taper du penger på å sette pengene i banken når renten er lav. I klartekst betyr dette at pengene blir mindre verd i banken enn om du investerer dem i bolig. Nå har imidlertid finanskriser ført til usikkerhet omkring boligprisen, men på lang sikt er alltid eiendom gunstig.
 
-Bankene har laget en rekke andre "spareløsninger" med mindre formueverdi på selvangivelsen. Dette for å lokke deg i "fella" som f.eks. å kjøpe andeler i offentlige bygg, aksjer med gjenkjøpsavtaler etc.. Vær imidlertid svært skeprisk til disse tilbudene uansett gode eller dårlige tider.  
-  
-Historien har vist at banker   
-har mer salgslyst enn banketikk.  
-Banker vil gjerne fremstå som seriøse, men utlånsviljen har i lengre tid vært stor og mange privathusholdninger er i dag ille ute med for mye lån.
+Bankene har laget en rekke andre "spareløsninger" med mindre formueverdi på selvangivelsen. Dette for å lokke deg i "fella" som f.eks. å kjøpe andeler i offentlige bygg, aksjer med gjenkjøpsavtaler etc.. Vær imidlertid svært skeptisk til disse tilbudene uansett gode eller dårlige tider.
 
-Banker er i mange tilfeller ikke en trygg finansrådgiver. Pressen og rettsvesenet har avslørt mange useriøse banker som i mange tilfeller har lurt kunder til å investere sine sparemidler på katastrofalt vis og kundene har tapt store summer. I enkelte tilfeller har bankunder tapt hele sin formue på denne måten.
+Historien har vist at banker har mer salgs lyst enn banketikk.  
+Banker vil gjerne fremstå som seriøse, men utlåns viljen har i lengre tid vært stor og mange privathusholdninger er i dag ille ute med for mye lån.
+
+Banker er i mange tilfeller ikke en trygg finansrådgiver. Pressen og rettsvesenet har avslørt mange useriøse banker som i mange tilfeller har lurt kunder til å investere sine sparemidler på katastrofalt vis og kundene har tapt store summer. I enkelte tilfeller har bankkunder tapt hele sin formue på denne måten.
 
 Kjøpe egen bolig?  
-Best plassering av sparepenger er i fast eiendom som bolig, hytte eller annen form for investering i eiendom. (Men styr unna festetomter og borettslag.) Her fastsettes likningverdien av din investering betydelig lavere enn bankinnskudd. En bolig til 2 mill. kan eksempelvis ha en likningverdi og dermed skattegrunnalg langt lavere. Dette gir en betydelig lavere formueskatt. I tillegg er dette gunstig med hensyn på indeksregulering og svingninger i økonomien.  
-  
-Best invesstering er derfor å investe i egen bolig. Også fordi du uansett trenger et sted å bo - noe som koster deg noe uansett. Og når du har kjøpt bolig med egenandel og lån bør du følge med på boligens verdi. Stiger boligens verdi betyr det i praksis at din egenandel øker og med større egenandel får du bedre lånebetingelser i banken: Dette kan du justere underveis ettersom egenandelen øker på denne måten. Få en mekler eller takstemann til å verdivurdere boligen når markedsverdien øker rundt deg.   
-  
-Bruk heller sparepenger til overs til å redusere lånet på boligen   
-fremfor å ha dem i banken hvis det er en kilde til ekstraskatt og du ikke trenger pengene til andre utgifter   
-  
+Best plassering av sparepenger er i fast eiendom som bolig, hytte eller annen form for investering i eiendom. (Men styr unna festetomter og borettslag.) Her fastsettes likningverdien av din investering betydelig lavere enn bankinnskudd. En bolig til 2 mill. kan eksempelvis ha en likningverdi og dermed skattegrunnlag langt lavere. Dette gir en betydelig lavere formueskatt. I tillegg er dette gunstig med hensyn på indeksregulering og svingninger i økonomien.
+
+Best investering er derfor å investere i egen bolig. Også fordi du uansett trenger et sted å bo - noe som koster deg noe uansett. Og når du har kjøpt bolig med egenandel og lån bør du følge med på boligens verdi. Stiger boligens verdi betyr det i praksis at din egenandel øker og med større egenandel får du bedre lånebetingelser i banken: Dette kan du justere underveis ettersom egenandelen øker på denne måten. Få en mekler eller takstmann til å verdivurdere boligen når markedsverdien øker rundt deg.
+
+Bruk heller sparepenger til overs til å redusere lånet på boligen  
+fremfor å ha dem i banken hvis det er en kilde til ekstraskatt og du ikke trenger pengene til andre utgifter
+
 Før du kjøper  
-Følg med på i utviklingen i eiendomsmarkedet over lengre tid før du handler så du kjenner markedet prismessig. Tenk langsiktig. Om du kun trenger boligen i kort tid er det kanskje billigere å leie? Blir du boende der i mange år er det tryggest å eie - selveie - ikke kjøp borettslag for det er boligmarkedets B-vare. Samtidig kan du spare i boligen ved å oppgradere den og øke verdien.
+Følg med på i utviklingen i eiendomsmarkedet over lengre tid før du handler så du kjenner markedet prismessing. Tenk langsiktig. Om du kun trenger boligen i kort tid er det kanskje billigere å leie? Blir du boende der i mange år er det tryggest å eie - selveier - ikke kjøp borettslag for det er boligmarkedets B-vare. Samtidig kan du spare i boligen ved å oppgradere den og øke verdien.
 
-Søk råd hos fagfolk om boligens tekniske tilstand og undersøk boligen nøye på forhånd: Ha med fagfolk til å vurdere boligens tekniske tilstand på visningen. Kontakt f.eks. en byggmester du har tillit til. Vurder avstand til støy, forurensning og høyspendtledninger/trafoer i boligens nærmiljø. Da er du sikrere på at det endelige kjøpet er den rette investeringen for deg.
+Søk råd hos fagfolk om boligens tekniske tilstand og undersøk boligen nøye på forhånd: Ha med fagfolk til å vurdere boligens tekniske tilstand på visningen. Kontakt f.eks. en byggmester du har tillit til. Vurder avstand til støy, forurensning og høyspentledninger/trafoer i boligens nærmiljø. Da er du sikrere på at det endelige kjøpet er den rette investeringen for deg.
 
-Sjekk også komunale avgifter og skatten på bolig i den kommunen der du vurderer å kjøpe bolig.
+Sjekk også kommunale avgifter og skatten på bolig i den kommunen der du vurderer å kjøpe bolig.
