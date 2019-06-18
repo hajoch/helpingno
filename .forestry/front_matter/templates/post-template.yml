@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/øvelseskjøring-med-bil-førerkortopplæring.md
 - _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-18-norge-straffer-penger-på-bok-kjøp-eiendom.md
 - _posts/2019-06-18-tunisia-karthagos-ruiner-oliven-og-kameler.md
