@@ -5,27 +5,25 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: ". Hytteinntekt Slik leier du ut hytta"
-excerpt: ''
+excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En
+  inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering
+  av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.
 image: "/assets/images/hytte1.jpg"
-image_caption: ''
+image_caption: 'Foto: Gunnar Christensen'
 categories: []
 publish_date: 
 weight: 5
 
 ---
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
+Er ikke hytta fin nok? Vær klar over at det er et marked for hytter med alle type standarder. Fra de helt enkle til den best utstyrte. Behovene for rekreasjon varierer fra meneske til menneske og fra familie til familie. Vær også klar over at utenlandske statsborgere også etterspør utleiehytter. De har kanskje andre preferanser enn nordmenn både med hensyn på tidspunkt fr leie, beliggenhet og standard.
 
-**Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.**
-
-Er ikke hytta fin nok? Vær klar over at det er et marked for hytter med alle type standarder. Fra de helt enkle til den best utstyrte. Behovene for rekreasjon varierer fra meneske til menneske og fra familie til familie. Vær også klar over at utenlandske statsborgere også etterspør utleiehytter. De har kanskje andre preferanser enn nordmenn både med hensyn på tidspunkt fr leie, beliggenhet og standard.  
-  
 **Før du leier ut**  
 Et godt resultat avhenger av en god forberedelse. Tenk igjennom alt praktisk med utleie:
 
 **Hvilke praktiske forberedelser må gjøres?**  
 **Ta bilder**  
-Ta gode, skarpe bilder av hytta. Ikke bare ett bilde, men mange. Ikke knips vilt, men tenk grundig igjennom hva du vil fortelle med hvert bilde. Den utvendige bygningen må fotograferes slik at du illustrerer beliggenheten best mulig. Er hytta ved havet så sørg for at horisonten blir rett på bildet. Ta bilder av sittegruppen og utegrillen slik at de potensielle leieboerne kan se for seg hvordan de vil kunne innrette seg på hytta. Har du båtplass og båt til hytta så må det fotograferes og beskrives.  
-  
+Ta gode, skarpe bilder av hytta. Ikke bare ett bilde, men mange. Ikke knips vilt, men tenk grundig igjennom hva du vil fortelle med hvert bilde. Den utvendige bygningen må fotograferes slik at du illustrerer beliggenheten best mulig. Er hytta ved havet så sørg for at horisonten blir rett på bildet. Ta bilder av sittegruppen og utegrillen slik at de potensielle leieboerne kan se for seg hvordan de vil kunne innrette seg på hytta. Har du båtplass og båt til hytta så må det fotograferes og beskrives.
+
 Er det ei fjellhyte så få fram naturen omkring og gjerne et vinterbilde siden mange leier fjellhytter om vinteren. Opplysninger om avstand til løyper og alpinanlegg kan legges inn i billedteksten eller beskrives mer utførlig i eget avsnitt. Er det bilvei til døren? Er veien til hytta fremkommelig med vanlig bil eller bare høy SUV? Her er billedtekstenm en fin anledning til å beskrive praktiske detaljer.
 
 Tar du bilder om sommeren så bruk gjerne ettermiddagslyset som gir varme og lunere lysforhold på bildet. Morgenlyset er skapere og har mer kontrast.
@@ -35,14 +33,8 @@ Tar du bilder om sommeren så bruk gjerne ettermiddagslyset som gir varme og lun
 
 Før du knipser inni hytta så sjekk at du har ryddet og rengjort slik at hytta fremstår som et innbydende leieobjekt på de bildene du tar. En blomst på bordet gir et godt inntrykk. Likeså stearinlys på peishyllen. Slike estetiske detaljer skaper stemning og gir et koselig inntrykk av hytta.
 
-**Markedsføring**
-
-| --- |
-|  |
-
-  
-  
-Hvor og hvordan skal hytta annonseres til leie? I dag er både nett og avisannonser vanlige. Det er klokt å benytte seg av flere annonsekanaler og erfare underveis hvilke som gir best uttelling. Noen nettsteder gir gratis annonseplass for deg som leier ut hytta.
+**Markedsføring  
+**Hvor og hvordan skal hytta annonseres til leie? I dag er både nett og avisannonser vanlige. Det er klokt å benytte seg av flere annonsekanaler og erfare underveis hvilke som gir best uttelling. Noen nettsteder gir gratis annonseplass for deg som leier ut hytta.
 
 Atrraktive hytter langs kysten kan fort gi deg en inntekt på kr. 10.000 eller mer pr. uke i fellesferien og kanksje halvparten i ukepris utenom sesongukene. Sjekk prisene på andre liknende leieobjekter i nærheten før du priser din hytte slik at du ikke er i utakt med prisnivået i din region.
 
@@ -62,18 +54,13 @@ Ha redningsvester til voksne og barn i hytta eller be gjestene ta med egne. Et b
 **Forsikring**  
 Husk at utleie ofte krever avtale med forsikringsselskapet. Det blir ofte litt hyøyere forsikringspremie ved utleie for perioden du leier ut. Husk også den evnetuelle hyttebåten i denne sammenheng. Det kan være lurt å undersøke prisen i flere forsikringsselskaper om du synes tillegget for utleie blir urimelig.
 
-Se over hytta før utleie og fjern eiendeler som er uerstattelige for seg: Som ting du har arvet eller gjenstander som har minneverdi.  
-  
- **Skatt**  
+Se over hytta før utleie og fjern eiendeler som er uerstattelige for seg: Som ting du har arvet eller gjenstander som har minneverdi.
+
+**Skatt**  
 Økonomien i utleie er også avhengig av de skattemessige forhold ved utleievirksomheten. Ditt lokale likningskontor [www.skatteetaten.no](http://www.skatteetaten.no/) eller nettstedet [www.skatt.no](http://www.skatt.no/) kan gi deg opplysninger om skatteregler som gjelder for utleie.
 
-**Kontrakten**
-
-| --- |
-|  |
-
-  
-Bruk en kontrakt som du vet er godkjent og juridisk oppdatert. Last ned en kontrakt som gjelder leieforhold og lag tilpasninger som gjelder for denne type korttidsleie.
+**Kontrakten  
+**Bruk en kontrakt som du vet er godkjent og juridisk oppdatert. Last ned en kontrakt som gjelder leieforhold og lag tilpasninger som gjelder for denne type korttidsleie.
 
 Opplysninger og råd om leiekontrakter kan du finne på Forbrukerrådets nettsider.
 
