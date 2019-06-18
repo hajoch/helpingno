@@ -12,7 +12,7 @@ excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankeg
   For mange er det tilstrekkelig slankekur å kutte ut brus, cola og søtsaker som gotteri
   og kaker: Kutt ut sukkersaker!'
 image: "/assets/images/eple1 (1).jpg"
-image_caption: ''
+image_caption: 'Foto: GC'
 categories:
 - _category/helse.md
 publish_date: 
