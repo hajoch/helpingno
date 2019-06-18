@@ -14,10 +14,9 @@ publish_date:
 weight: 4
 
 ---
+Lise Lyseggen er sterkt engasjert i hjelpearbeid i fattige deler av verden og i særdeleshet blant Siouxindianerne i Sør-Dakota, USA. Hver sommer drar hun til Siouxindianerne der hun er deres "medisinmann" og hjelper.
 
-**Lise Lyseggen er sterkt engasjert i hjelpearbeid i fattige deler av verden og i særdeleshet blant Siouxindianerne i Sør-Dakota, USA. Hver sommer drar hun til Siouxindianerne der hun er deres "medisinmann" og hjelper.**
-
-**Lise Lyseggen er kjent fra TV-skjermen som klarsynt og healer. Hun har privat terapipraksis i Oslo, Kongsvinger, Tønsberg og på Kirkenær.**
+Lise Lyseggen er kjent fra TV-skjermen som klarsynt og healer. Hun har privat terapipraksis i Oslo, Kongsvinger, Tønsberg og på Kirkenær.
 
 \- Du er opprinnelig Oslojente, men bosatt på Finnskogen. Hvordan havnet du her?  
 Lise tar fram rulletobakken og lener seg bakover på stolen:  
@@ -44,9 +43,6 @@ Lise tar fram rulletobakken og lener seg bakover på stolen:
 Plutselig sa Stanley: "You have the gift."  
 \- Ryktet gikk som ild i tørt gress, rundt om på prærien. Ingen kalte meg for "white trash" etter dette. Jeg fikk nye venner i min nye verden på de 3 ukene jeg var der og praktiserte healig.
 
-| --- |
-|  |
-
 **Hjelpearbeid**  
 \- Jeg var fast bestemt på å hjelpe disse indianerne på en eller annen måte - koste hva det ville. Tilbake til reservatet ville jeg, men det var få som trodde meg da de fulgte oss til grensa mellom reservatet og USA. Vi satte kursen for New York igjen. Buddy var som sagt musiker og veldig stolt over at han var fullblods siouxindianer og en direkte etterkommer av indianerhøvdingen Crazy Horse. Jeg var bare ei jente som alle andre og fra Vålerènga, ikke mye glamorøst der.  
 \- Det var første møte med Siouxindianerne. Hva skjedde videre?  
@@ -65,8 +61,9 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 \- Hva begynte du med?  
 \- Jeg begynte med å ta tak i ungdommen. 80% av dem var med i gjenger av rusmisbrukere og avhoppere fra skolen: De mente jo at de ikke hadde noen framtid. Derfor spilte det ingen rolle hva de gjorde. Skulle stammen reddes så måtte ungdommen snu tankegangen sin etter som ungdommen er selve fremtiden for stammen. De "gamle" ventet bare på den store reisen til sine forfedre.
 
-\- Hva hadde du å tilby ungdommen?  
- - Jeg begynte og holde foredrag for dem som ville høre på, men det var få som ville det i begynnelsen. Dette var en sped begynnelse som vokste til flere og flere tilhørere. Utfordringen min var å utføre flere forskjellige hjelpeoppgaver og å samarbeide med andre organisasjoner.
+\- Hva hadde du å tilby ungdommen?
+
+* Jeg begynte og holde foredrag for dem som ville høre på, men det var få som ville det i begynnelsen. Dette var en sped begynnelse som vokste til flere og flere tilhørere. Utfordringen min var å utføre flere forskjellige hjelpeoppgaver og å samarbeide med andre organisasjoner.
 
 \- Slik fortsatte det år etter år?  
 \- Ja. Jeg reiste tilbake så ofte jeg kunne. Hadde alltid med meg venner og kofferter fulle av klær, kjærlighet og optimisme. Jeg holdt foredrag, ga healing og veiledning. Håpet er at jeg har vært med på og gjøre reservatet litt bedre.
@@ -77,8 +74,9 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 \- Er Buddy og Standly fremdeles med på laget?  
 \- I dag er både Buddy og Stanley døde. De er hos sine forfedre.
 
-| --- |
-|  |
+![](/assets/images/liselyseggen3.jpg)
+
+Foto Gunnar Christensen i intervju med Lise Lyseggen
 
 **Jobber som "medisinmann"**  
 \- De siste 15 årne har jeg samarbeidet med en annen sjaman som heter Stan. Jeg er alltid med Stan som "medisinkvinne" særlig under "Sun Dance" som blir holdt rundt i reservatet engang i året på forskjellige steder under forskjellige klanledere. En Sun Dance er veldig spesiell. Den varer i 4 dager fra solen går opp til den går ned, Dette er noe som få hvite får være med på. Med "Sun Dance" holder indianerne flere hundre års tradisjoner ved like.
