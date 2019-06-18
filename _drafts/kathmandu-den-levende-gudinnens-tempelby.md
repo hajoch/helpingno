@@ -4,7 +4,7 @@ date: 2019-06-18 17:03:56 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: " Kathmandu: Den levende gudinnens tempelby"
+title: " Kathmandu i Nepal: Den levende gudinnens tempelby"
 excerpt: 'Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert
   i et vakkert, gammelt tempel ved Hanuman Dhoka.
 
