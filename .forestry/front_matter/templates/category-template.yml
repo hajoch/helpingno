@@ -12,6 +12,7 @@ fields:
     required: false
     color_format: Hex
 pages:
+- _category/fritid.md
 - _category/økonomi.md
 - _category/mat.md
 - _category/hjelpearbeid.md
