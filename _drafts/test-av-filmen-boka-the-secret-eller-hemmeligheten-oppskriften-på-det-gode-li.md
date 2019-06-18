@@ -4,8 +4,7 @@ date: 2019-06-18 18:10:31 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Test av filmen/boka "The Secret" eller "Hemmeligheten"   Oppskriften på det
-  gode li
+title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode li
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
@@ -20,7 +19,6 @@ publish_date:
 weight: 3
 
 ---
-
 Filmen fokuserer på hvor viktig tankene våre er med hensyn på  
 hvordan vi opplever og styrer virkeligheten vår. Filmen gir en spennende vinkling på vårt liv.
 
@@ -49,23 +47,19 @@ Siden loven om tiltrekning virker kontinuerlig er det viktig å bli klar over hv
 
 **Den magiske Takknemlighetsteknikken**
 
-| --- |
-|  |
-
-  
 Gå til stranden eller et annet sted hvor du finner en fin liten stein. Plukk den opp og ha den i lomma fremover. Hver gang du ser på, berører eller tar ut denne steinen av lomma - f.eks. hver kveld - så tenk på noe du er takknemlig for. Det kan være noe positivt du har, noe positivt du har opplevd eller hva som helst som du er takknemlig for og som du gjerne skulle hatt mer av.
 
 Ikke bare tenk på det du er takknemlig for:  
-Føl og kjenn på deg denne takknemligheten og se det for deg.  
-  
+Føl og kjenn på deg denne takknemligheten og se det for deg.
+
 Denne øvelsen øker din positivitet omkring livet ditt. Når du tenker flere positive tanker trer gradvis det negative mer og mer tilbake. Fordi positive tanker og følelser tiltrekker flere positive opplevelser. Det er loven om tiltrekning som virker slik at man tiltrekker mer av det man sender sin tanke- og følelsesenergi til.
 
-Tankene våre har sterkere betydning og påvirkning for våre liv enn vi ofte er klar over. Tanker som går på takknemlighet er ekstra sterke på en positiv måte.  
-  
+Tankene våre har sterkere betydning og påvirkning for våre liv enn vi ofte er klar over. Tanker som går på takknemlighet er ekstra sterke på en positiv måte.
+
 Praktiser dette fra nå.  
 Ikke vent til det passer seg å prøve det om en dag,  
-om en måned eller om ett år. Gjør det NÅ.  
-  
+om en måned eller om ett år. Gjør det NÅ.
+
 Tenker du etter så finner du mye du kan være takknemlig for.  
 Tenk og føl på det du er takknemlig for så ofte du kan.
 
@@ -75,12 +69,12 @@ Skriv minst 5 forskjellige ting, opplevelser
 eller følelser du er takknemlig for hver dag.
 
 Takknemlighet er en veldig sterk og god følelse  
-derfor er denne øvelsen så fin:  
-  
+derfor er denne øvelsen så fin:
+
 Tenk og føl hver dag og så ofte du kan på noe du er takknemlig for.  
 Fordi takknemlighet fjerner negativitet og skaper positivitet.
 
 **Visualiseringsøvelse.**  
-Gi energi til det du ønsker deg: Tenk på det. Visualiser det. Drøm om det. Se det for deg som om du har oppnådd ditt ønske og føl på hvor godt det føles.  
-  
+Gi energi til det du ønsker deg: Tenk på det. Visualiser det. Drøm om det. Se det for deg som om du har oppnådd ditt ønske og føl på hvor godt det føles.
+
 For eksempel ved å sette deg ned i en stol i rolige omgivelser, lukke øynene og se for deg det du ønsker deg. Se for deg at du alt har oppnådd det du ønsker deg og kjenn på gleden ved å oppnå dette - send så takknemlighetstanker inn i denne situasjonen.
