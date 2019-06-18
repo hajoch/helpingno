@@ -40,6 +40,10 @@ main {
   }
 }
 
+.list-post {
+  margin-top: 10px !important;
+}
+
 .avatar {
   display: block;
   position: relative;
@@ -106,6 +110,12 @@ main {
 .uk-badge {
   background: #404BFB !important;
 }
+
+.content-container .uk-subnav-pill>.uk-active>a {
+    background-color: #FBF041;
+    color: #333;
+}
+
 
 
 //-------------------

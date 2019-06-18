@@ -1,16 +1,16 @@
-<div uk-grid>
+<div class="margin-remove list-post" uk-grid>
     <div class="uk-width-auto">
         <div class="image-fill">
-            <img class="image-size-thumb" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}">
+            <img class="image-size-thumb" src="{{ include.post.image | prepend: site.baseurl }}" alt="{{ include.post.title }}">
         </div>
     </div>
     <div class="uk-width-expand">
-      <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+      <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ include.post.url | prepend: site.baseurl }}">{{ include.post.title }}</a></h4>
       <ul class="uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top uk-margin-remove-bottom">
-        {% if post.publish_date %}
-          <li><a>{{ post.publish_date | date: '%B %d, %Y' }}</a></li>
+        {% if include.post.publish_date %}
+          <li><a>{{ include.post.publish_date | date: '%B %d, %Y' }}</a></li>
         {% endif %}
-        <li><a>{% include liquids/readtime.html %}</a></li>
+        <li><a>{% include liquids/readtime.html post=post %}</a></li>
       </ul>
       {% include base/post-categories.html %}
     </div>

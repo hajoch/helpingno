@@ -14,7 +14,7 @@
         {% if page.publish_date %}
           <li><span class="uk-button-text">{{ page.publish_date | date: '%B %d, %Y' }}</span></li>
         {% endif %}
-        <li><span class="uk-button-text">{% include liquids/readtime.html %}</span></li>
+        <li><span class="uk-button-text">{% include liquids/readtime.html post=page %}</span></li>
       </ul>
     </div>
   </header>

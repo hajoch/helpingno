@@ -4,7 +4,7 @@
             {% if post.image %}
             <div class="uk-card-media-top">
               <div class="image-fill small-height">
-                <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" src="{{ post.image | prepend: site.baseurl }}" alt="">
+                <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" data-src="{{ post.image | prepend: site.baseurl }}" alt="" uk-img>
               </div>
             </div>
             {% endif %}
@@ -13,7 +13,11 @@
                   <a class="uk-link-heading" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h3>
                 <div class="ingress uk-divider">
-                  <p>{{ post.excerpt | truncate: 200 }}</p>
+                  {% if post.excerpt != '' %}
+                    <p>{{ post.excerpt | truncate: 200 }}</p>
+                  {% else %}
+                    <p>{{ post.content | truncate: 200 }}</p>
+                  {% endif %}
                 </div>
                 {% include base/post-categories.html %}
             </div>
