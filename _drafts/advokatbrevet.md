@@ -11,7 +11,7 @@ excerpt: Hvem har ikke fått en avlang konvolutt med et stort og elegant firmana
   i forbindelse med et skriv fra en offentlig etat. Men et slikt etatsbrev krever
   en annen respons av deg.)
 image: "/assets/images/advobre.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
