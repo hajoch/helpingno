@@ -13,9 +13,10 @@ excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankeg
   og kaker: Kutt ut sukkersaker!'
 image: "/assets/images/eple1 (1).jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 8
 
 ---
 Husk å undersøke kvaliteten på det du spiser særlig med hensyn på salt, sukkerinnhold og fett. Slanking kan være så enkelt som å redusere inntaket av fett og av sukkerholdig mat og drikke. Undersøk hva matvarene du bruker inneholder: Hvilke matvarer spiser du oftest? Finnes et sunnere altarnativ som du også liker?
