@@ -4,31 +4,23 @@ date: 2019-06-18 22:28:59 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: 'Bok: Skandalebøkene i ungdomsskolen'
+title: 'Bokomtale: Skandalebøkene i ungdomsskolen'
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
   Religioner i u-skolens lærebøker før Mønsterplanen
 image: "/assets/images/skandalestor.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/boker.md
 publish_date: 
-weight: 
+weight: 9
 
 ---
- | Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte.Det har i dag historisk interesse at mange årskull elever gikk ut av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner. |
+ | Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte.Det har i dag historisk interesse at mange årskull elever gikk ut av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner. 
 
-![](http://www.helping.no/gul2.jpg =150x5)
-
-Presseomtale: **![](http://www.helping.no/6.jpg =53x52)**
-
-Skjerp dere, lærere!
-
-| --- |
-|  |
-
-**Av**  
+Presseomtale av:  
 **Albert Henrik Mohn,**  
-**Morgenavisen, Bergen 1983**
+**Morgenavisen, Bergen** 
 
 I de siste årene har vi fått en rekke minoritetsgrupper i  
 landet vårt. Pakistanere og vietnamesere er to av dem.
@@ -36,7 +28,7 @@ landet vårt. Pakistanere og vietnamesere er to av dem.
 Begge kommer fra sørlige breddegrader og er preget  
 av religion og kultur temmelig forskjellig fra vår egen.
 
-Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremmedes isolering.
+Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
 
 Toleranse vokser ikke sjelden ut av forståelse. Med  
 rette legges det derfor stor vekt på dette i Mønsterplanen  
