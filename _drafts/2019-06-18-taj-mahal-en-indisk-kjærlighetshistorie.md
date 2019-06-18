@@ -19,7 +19,7 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
 categories:
 - _category/reise.md
 publish_date: 
-weight: 4
+weight: 7
 
 ---
  Taj Mahal er et av verdens vakreste byggverk. |
