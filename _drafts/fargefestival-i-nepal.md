@@ -8,23 +8,16 @@ title: Fargefestival i Nepal
 excerpt: Mange legender knytter seg til denne feiringen. En av dem går ut på fortellingen
   om gudeparet Rada og Krishna og den guddommelige kjærligheten mellom dem.
 image: "/assets/images/maske.jpg"
-image_caption: ''
-categories: []
+image_caption: Gunnar Christensen ( foto)reiste i 1979 sammen med en gruppe europeiske
+  pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
+  klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap.
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
-
-| --- |
-|  |
-
-| --- |
-| Dans med Holikamaske i tempelbyene i Kathmandu. |
-
-  
-_Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap._
-
-**Et hyl ljomer gjennom en kaotisk, overfylt gate i Kathmandu: I det samme kommer en ung kvinne løpende gjennom folkemengden, etterfulgt av en guttebande bevæpnet med ballonger fylt med vann og fargepulver som de kaster etter henne.**
+Et hyl ljomer gjennom en kaotisk, overfylt gate i Kathmandu: I det samme kommer en ung kvinne løpende gjennom folkemengden, etterfulgt av en guttebande bevæpnet med ballonger fylt med vann og fargepulver som de kaster etter henne.
 
 Det er den fargerike Holifestivalen i Nepal, og datoen er 14 mars. Rødfargen dominerer, men også sort fargepulver er i bruk. Nepaleserne kaster ballonger fylt med farger og vann på hverandre og "ofrene" blir temmelig ukjennelige. De fleste i gatene på denne festdagen har fått fargestoffet på seg. Det er en gledesfest som feires.
 
