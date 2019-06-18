@@ -61,15 +61,8 @@ Gatene er trange og skitne. Men OBS: Kua har alltid sin hellige forkjørrett: Fo
 **Offer**  
 I tempelet summer hinduer rundt statuer av guder, inklusive kua. De ofrer blomster. Guden Kali krever sogar boldoffer av levende dyr, oftest okse eller bukk. Bare hindier får komme inn i hindu-templene her. En fakir deler ut Shivas velsigelser på gaten utenfor: En håndfull fargestoff i hånden og med pekefingeren maler han et rødt merke i pannen ved neseroten. En uoppmerksom turist får lett en velsignelse klasket i pannen med påfølgende krav om rupées til ofringer. .
 
-**Hellige drikkeplasser**
-
-| --- |
-|  |
-
-| --- |
-| Langs Ganges bredd i Benares er det et yrende folkeliv. |
-
-Ganges har livlig båttrafikk. De utroligste båtkonstruksjoner seiles og blir rodd omkring. Få drives av motorer: Det er billigere å leie folk til å ro.
+**Hellige drikkeplasser  
+**Ganges har livlig båttrafikk. De utroligste båtkonstruksjoner seiles og blir rodd omkring. Få drives av motorer: Det er billigere å leie folk til å ro.
 
 Til tross for søppel, likaske og søle i elven, drikkes vannet i Ganges. Spesielle steder er "drikkeplasser" - hellige sådanne. Disse drikkeplassenes plassering strider mot enhver fornuft: Noen meter fra drikkeplassene kastes søppel og rask i eleven, uten at dette synes å misnke appetitten på vannet.
 
