@@ -1,6 +1,6 @@
 ---
 title: Hjelpearbeid
-color: ''
+color: "#F5A623"
 published: false
 
 ---
