@@ -9,7 +9,7 @@ excerpt: 'Forskjellige former for sinnereaksjoner hører med i allergisesongen. 
   lett tennbarhet og grader av surhet er noe som de fleste pårørende til allergikere
   kjenner igjen. '
 image: "/assets/images/may2.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
