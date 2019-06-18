@@ -4,42 +4,24 @@ date: 2019-06-17 23:21:18 +0200
 crop_image: true
 author: _authors/ellen-marie-christensen.md
 tags: []
-title: 'Farmors middag: Kjøttkaker  '
-excerpt: 50-tallsmat på smak og imgridienser
-image: "/assets/images/middag.1-1.jpg"
+title: Farmors Bankekjøtt
+excerpt: ''
+image: "/assets/images/bankekjott.jpg"
 image_caption: 'Foto: GC'
 categories:
-- _category/helse.md
+- _category/mat.md
 publish_date: 
 weight: 
 
 ---
-Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt. I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage kjøttkaker med eller uten hvitløk eller vanlig løk.
+Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kvalitet uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge er en god start på et vellykket måltid. Kjøp f.eks. et stort stykke til hver person.   
+  
+Bank kjøttet. Bruk f.eks. den uskarpe enden av en kjøkkenkniv hvis du ikke har et spesialredskap for bankingen. Bank kjøttet på begge sider før steking. Brun så kjøttet på begge sider i pannen.
 
-Følgende ingredienser må til:  
-Kjøttdeig ca. 500gram til 9 kjøttkaker  
-Stekeolje f.eks. solsikkeolje eller margarin  
-Kavring eller mel.  
-Salt  
-Pepper  
-Ingefær  
-Egg 1 - 2 stk.  
-Vann eller melk  
-Løk eller hvitløk  
-Slik gjør du det:
+**Steking**  
+Ta deretter fram en gryte - gjerne en jerngryte - der du legger stykkene fra stekepannen. Hell deretter vann oppi gryta til like over kjøttet. Tilsett deretter salt, pepper og 2 til 3 laubærblader og la det koke i opp til en time til kjøttet er blitt mørt. Serveres inntil poteter eller ris samt grønnsaker.
 
-Legg kjøttdeigen i en bolle
-
-Tilsett: 1 eller 2 egg. Knus 5 til 7 kavringer ved å gni dem mot hverandre eller knuse dem. Tilpass mengde salt. pepper og ingefærpulver etter smak. 2 spiseskjeer melk eller vann. Ønsker du hvitløk i kjøttkakene så skjær opp en hvitløkbåt og hakk den litt opp før du legger den i bollen. Rør om eller kna deigen med rene hender.
-
-Finn fram en stor stekepanne helst av jern. Det gir best resultat.
-
-Legg margarin eller olje i bunnen panna. Bruker du raps- eller solsikkeolje så har den aller best kvalitet hvis du kjøper den på glassflaske. Oppbevaring av olje i glassflaske er det sunneste alternativet. Les mer om kreftfarlige plastflasker på: [Plastemballasje](http://www.helping.no/plastemballasje.htm)
-
-Straks panna er varm former du kjøttkakene og legger dem i panna til steking. Litt flatklemte runde former som du steker på begge sider. Hakk opp en løk som du steker ved siden av og maten er klar.
-
-Inntil kjøttkaker kan du lage slysaus: Hell litt vann i panna etter steking og rør litt forsiktig med stekespaden. Hell så blandingen av vann og stekefett i en sausskål og det er serveringsklart.
-
-Inntil kjøttkaker kan du servere grønnsaker, tyttebærsyltetøy, potetsalat, potetmos, kokte poteter eller stekte poteter.
+**Slik lager du sausen til bankekjøttet:**  
+Brun litt smør i pannen. Deretter sper du på med mel og spe deretter på med kraften fra kjøttet til du har en passe tykk saus.
 
 God appetitt.
