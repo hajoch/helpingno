@@ -7,17 +7,16 @@ tags: []
 title: 'Natur som lykkepille  '
 excerpt: |2-
 
-
   "I naturen ruver fjellene. I hjemmet ruver bagatellene."
 image: "/assets/images/natur09.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto Gunnar Christensen
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
-
-**Jeg er ikke så glad i regnvær. Det dugger på brillene. Så jeg vet ikke så mye om natur. Men jeg har da sett Norges nasjonalfugl; Fossekallen. Den satt i en bekk innerst i Nordmarka og lurte på hvordan den ble kåret til nasjonalfugl. Selv ble jeg fasinert av fuglen, så vel som det lille bekkedraget den holdt til i. Kan du forresten tenke deg en bedre boktittel enn; Hendelser ved vann. Det måtte i så fall vært noe med våtmarksområdet våkner?**
+Jeg er ikke så glad i regnvær. Det dugger på brillene. Så jeg vet ikke så mye om natur. Men jeg har da sett Norges nasjonalfugl; Fossekallen. Den satt i en bekk innerst i Nordmarka og lurte på hvordan den ble kåret til nasjonalfugl. Selv ble jeg fasinert av fuglen, så vel som det lille bekkedraget den holdt til i. Kan du forresten tenke deg en bedre boktittel enn; Hendelser ved vann. Det måtte i så fall vært noe med våtmarksområdet våkner?
 
 Men det vet jeg at naturen må inntas som søndagstur. Minst to timer med natur på søndager. Helst samtidig med bevegelse på mykt underlag. Det er en overopphoping av muskel og skjelletlidelser langs kysten av Norge.. Og tur i Guds frie natur, er en motvekt for smerter og spenninger. Det trenger jo ikke å være på søndager.
 
