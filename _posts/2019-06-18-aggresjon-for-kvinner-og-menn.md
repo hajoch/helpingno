@@ -15,7 +15,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
