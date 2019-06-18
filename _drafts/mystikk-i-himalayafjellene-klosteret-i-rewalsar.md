@@ -6,7 +6,7 @@ author: _authors/gunnar-christensen.md
 tags: []
 title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
-  barn. Alle med de karakteristiske barberte hodene.\n\n\nKlosteret i Rewalsar \n\n"
+  barn. Alle med de karakteristiske barberte hodene."
 image: "/assets/images/rewalsar4.jpg"
 image_caption: Artikkelforfatteren ved den mystiske innsjøen i Rewalsar. Han reiste
   i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette for å
