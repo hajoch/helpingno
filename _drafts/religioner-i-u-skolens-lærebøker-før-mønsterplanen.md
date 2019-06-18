@@ -4,9 +4,10 @@ date: 2019-06-18 22:28:59 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Religioner i u-skolens lærebøker før Mønsterplanen
+title: 'Bok: Skandalebøkene i ungdomsskolen'
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
+  Religioner i u-skolens lærebøker før Mønsterplanen
 image: "/assets/images/skandalestor.jpg"
 image_caption: ''
 categories: []
@@ -14,11 +15,7 @@ publish_date:
 weight: 
 
 ---
-
-![](http://www.helping.no/skandalestor.jpg =450x640)
-
-| --- |
-| Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte.Det har i dag historisk interesse at mange årskull elever gikk ut av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner. |
+ | Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte.Det har i dag historisk interesse at mange årskull elever gikk ut av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner. |
 
 ![](http://www.helping.no/gul2.jpg =150x5)
 
