@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-18 16:51:34 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/odd-m-lunde.markdown
 tags: []
 title: Advokatbrevet
 excerpt: Hvem har ikke fått en avlang konvolutt med et stort og elegant firmanavn
@@ -12,9 +12,10 @@ excerpt: Hvem har ikke fått en avlang konvolutt med et stort og elegant firmana
   en annen respons av deg.)
 image: "/assets/images/advobre.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 
