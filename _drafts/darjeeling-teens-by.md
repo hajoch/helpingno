@@ -5,39 +5,24 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Darjeeling:Teens by
-excerpt: ''
+excerpt: |-
+  En natt klokken fire: Det dundrer på døren.
+
+  - Your jeep for Tiger Hill, Sir!
+
+  Stedet er Darjeeling, teens by, 2134 meter over havet i Indias nordøstlige fjelland mot Himalaya. Tiger Hill er ikke severdig i seg selv. Men fra toppen, 2.660 meter over havet, ser man Indias vakreste soloppgang med utsikt til "gudenes fjell" Kanchenjunga som ruver 8.598 meter over havhøyde.
 image: "/assets/images/darjeeling.jpg"
-image_caption: ''
-categories: []
+image_caption: |-
+  Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin master/hovedoppgave i religionsvitenskap.
+  Foto: Gunnar Christensen
+  Panorama over teens by Darjeeling.
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
-
-Av **Copyright © :** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
-| --- |
-|  |
-
-| --- |
-| Panorama over teens by Darjeeling. |
-
-  
-_Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap._
-
-**En natt klokken fire: Det dundrer på døren.**
-
-**- Your jeep for Tiger Hill, Sir!**
-
-**Stedet er Darjeeling, teens by, 2134 meter over havet i Indias nordøstlige fjelland mot Himalaya. Tiger Hill er ikke severdig i seg selv. Men fra toppen, 2.660 meter over havet, ser man Indias vakreste soloppgang med utsikt til "gudenes fjell" Kanchenjunga som ruver 8.598 meter over havhøyde.**
-
 Navnet er tibetansk: Khang Chen Dzod Nga. Fjellet består av syv tinder på samme fjellrygg. Den øverste av dem er Kanchenjunga og dominerer de andre tindene i høyde og berømmelse.
-
-| --- |
-|  |
-
-| --- |
-| Mt. Everest ved Nuptse 8.848 m.o.h.. |
 
 **Verdensrekord**  
 Darjeeling har en verdensrekord. En smalsporet engelskbygd jernbane fra 1881 sliter seg opp fra Siliguri i det indiske lavlandet - via en høyde - på 3.600 meter til endestasjonen Darjeeling drøye to tusen meter over havet. Sporbredden er 60 cm. Like før endestopp passeres verdensrekorden. Den heter Ghoom Station i 2.438 meters høyde: Verdens høyest beliggende jernbanestasjon på et gjennomgående jernbanespor.
