@@ -15,7 +15,7 @@ image_caption: |-
 categories:
 - _category/økonomi.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
   
