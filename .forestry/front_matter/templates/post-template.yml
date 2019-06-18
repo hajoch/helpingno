@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sorg-i-bøker.md
 - _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
 - _posts/2019-06-18-folkeaksjonen-mot-uønsket-telefonsalg.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
