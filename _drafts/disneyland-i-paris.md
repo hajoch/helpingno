@@ -78,18 +78,11 @@ Kjøp mer!
 Tilbud før stengetid...  
 Disney kjøpesenter også utenfor...
 
-| --- |
-|  |
-
-| --- |
-| Utsikten fra Triumfbuen gir et flott utsyn over hovedgatenChamps Elysèes. Eiffeltårnet blir borte i morgendisen. |
-
-**Paris sentrum:**
-
-Voksne undervurderer ofte barns interesse for turistattraksjoner: Fra Bussy-Saint-Georges går metroen direkte til Triumfbuen. Stasjonen ligger noen etasjer under det kjente byggverket. Dagslyset i enden av trappen viser vei til Champs Elysèes kjente rundkjøring. Mektig troner Triumfbuen i senter med sine vakre utsmykning. Vindeltrappen fører opp til platået med utsikt over bydelen.  
+**Paris sentrum:  
+**Voksne undervurderer ofte barns interesse for turistattraksjoner: Fra Bussy-Saint-Georges går metroen direkte til Triumfbuen. Stasjonen ligger noen etasjer under det kjente byggverket. Dagslyset i enden av trappen viser vei til Champs Elysèes kjente rundkjøring. Mektig troner Triumfbuen i senter med sine vakre utsmykning. Vindeltrappen fører opp til platået med utsikt over bydelen.  
 I morgendisen kommer Eiffeltårnet svakt til syne.
 
-Så Eiffeltårnet, en liten fottur fra Triumfbuen.  
+Så Eifeltårnet, en liten fottur fra Triumfbuen.  
 Tiggere i gaten: En fillet far med sin lille sønn. Diskret inntil en husvegg. Som for å unnskylde at de er der...  
 Selgere maser rundt: Indere med suvenirer og pågående markedsføring.  
 \- Ta heis eller gå opp?  
@@ -116,13 +109,7 @@ Lukt av røkelse.
 Ettertanke.  
 Kontemplasjon.  
 Ro. Ro i sinnet.  
-For en stund...
-
-| --- |
-|  |
-
-| --- |
-| Notre-Dame har messe for de døde. |
+For en stund..
 
 Lommetyver er svært aktive i Paris. Se opp for dem på overfylte metroer...  
 Pass godt på barna. Ikke la dem gå for seg selv.
