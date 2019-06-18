@@ -10,7 +10,8 @@ excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde.
   av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.
 image: "/assets/images/hytte1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
-categories: []
+categories:
+- _category/økonomi.md
 publish_date: 
 weight: 5
 
