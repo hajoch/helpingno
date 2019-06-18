@@ -8,7 +8,7 @@ title: Psykiske reaksjoner ved allergi.
 excerpt: 'Forskjellige former for sinnereaksjoner hører med i allergisesongen. Irriterthet,
   lett tennbarhet og grader av surhet er noe som de fleste pårørende til allergikere
   kjenner igjen. '
-image: ''
+image: "/assets/images/may2.jpg"
 image_caption: ''
 categories:
 - _category/helse.md
