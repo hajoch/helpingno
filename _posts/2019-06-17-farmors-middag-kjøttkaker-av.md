@@ -5,16 +5,17 @@ crop_image: true
 author: _authors/ellen-marie-christensen.md
 tags: []
 title: Farmors Bankekjøtt
-excerpt: ''
+excerpt: 'Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kvalitet
+  uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge
+  er en god start på et vellykket måltid. Kjøp f.eks. et stort stykke til hver person. '
 image: "/assets/images/bankekjott.jpg"
 image_caption: 'Foto: GC'
 categories:
 - _category/mat.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
-Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kvalitet uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge er en god start på et vellykket måltid. Kjøp f.eks. et stort stykke til hver person.   
   
 Bank kjøttet. Bruk f.eks. den uskarpe enden av en kjøkkenkniv hvis du ikke har et spesialredskap for bankingen. Bank kjøttet på begge sider før steking. Brun så kjøttet på begge sider i pannen.
 
