@@ -4,7 +4,7 @@ date: 2019-06-18 10:24:09 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Konkurs i reiselivsbransjenkan gi deg økonomisk tap?
+title: Konkurs i reiselivsbransjen kan gi deg økonomisk tap?
 excerpt: Feriereiser i nedgangstider betyr at du må passe på hvor du bestiller billetter.
   Problemet er at selskapet du bestiller feriereiser hos kan være konkurs når du skal
   reise. Da har du tapt det du har betalt inn på forskudd.
