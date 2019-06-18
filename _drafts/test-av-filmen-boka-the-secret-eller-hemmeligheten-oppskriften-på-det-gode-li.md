@@ -4,7 +4,7 @@ date: 2019-06-18 18:10:31 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode li
+title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode liv
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
