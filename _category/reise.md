@@ -1,6 +1,6 @@
 ---
 title: Reise
-color: "#417505"
+color: "#9013FE"
 published: false
 
 ---
