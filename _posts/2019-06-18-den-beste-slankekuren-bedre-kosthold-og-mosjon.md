@@ -4,7 +4,7 @@ date: 2019-06-18 16:22:29 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Den beste Slankekuren:Bedre kosthold og mosjon
+title: 'Den beste Slankekuren: Bedre kosthold og mosjon'
 excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankegevinst
   nemlig å forandre det ved din livsførsel som gir deg overvekten. Oftest er det bare
   mer fysisk aktivitet og sunnere kosthold som skal til. F. eks. å begrense mengdene
