@@ -31,20 +31,13 @@ Du har ingen garanti for at pengene du sender på denne måten blir benyttet sli
 
 Mange velger derfor å gå gjennom organisasjoner som formidler f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
 
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
 Den beste hjelpen?
-
-| --- |
-|  |
-
-Foto: Gunnar Christensen. Motiv fra Sri Lanka.
 
 Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.
 
 Mange familier i utviklingsland har spennende håndverkstradisjoner som er salgbare i vårt land. Det kan være treskjærerkunst, søm, batikk eller praktiske redskaper.
 
-Varene du kjøper kan selges videre til butikker i Norge, de kan selges på vennetreff f.eks. ved å danne en hjelpeklubb på hjemstedet der varene sprees via et personlig nettverk. Eller du kan åpne en nettbutikk for å selge varene videre på internett.
+Varene du kjøper kan selges videre til butikker i Norge, de kan selges på vennetreff f.eks. ved å danne en hjelpeklubb på hjemstedet der varene spredes via et personlig nettverk. Eller du kan åpne en nettbutikk for å selge varene videre på Internett.
 
 Hvis du velger å selge varene videre gjennom butikker bør du sikre deg noe vareprøver som du så presenterer for innkjøpsansvarlig i de butikker du mener varen passer inn i. Mange produkter laget for hånd er godt egnet for gavebutikker.
 
