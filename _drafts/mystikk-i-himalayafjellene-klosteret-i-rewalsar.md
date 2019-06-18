@@ -8,28 +8,29 @@ title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
   barn. Alle med de karakteristiske barberte hodene.\n\n\nKlosteret i Rewalsar \n\n"
 image: "/assets/images/rewalsar4.jpg"
-image_caption: ''
+image_caption: Artikkelforfatteren ved den mystiske innsjøen i Rewalsar. Han reiste
+  i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette for å
+  få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin master/hovedoppgave
+  i religionsvitenskap.
 categories:
 - _category/reise.md
 publish_date: 
 weight: 3
 
 ---
-_Artikkelforfatteren ved den mystiske innsjøen i Rewalsar. Han reiste i 1979 sammen med en gruppe europeiske pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap._
-
-**Lett regn fra skyfri himmel i en halv time, men ingen blir våte. En innsjø hvor små torvøyer beveger seg uten et vindpust eller strøm i vannet mens trommene drønner fra klosteret. Et mystisk fortavtrykk blant huleboere i Himalaya-fjellet. Flere uforklarlige fenomener møter meg ved ankomsten til Rewalsar, et mystisk, hellig sted noen timers busstur opp de bratte fjellene fra Mandi, en liten by i nord-vest-India.**
+Lett regn fra skyfri himmel i en halv time, men ingen blir våte. En innsjø hvor små torvøyer beveger seg uten et vindpust eller strøm i vannet mens trommene drønner fra klosteret. Et mystisk fortavtrykk blant huleboere i Himalaya-fjellet. Flere uforklarlige fenomener møter meg ved ankomsten til Rewalsar, et mystisk, hellig sted noen timers busstur opp de bratte fjellene fra Mandi, en liten by i nord-vest-India.
 
 To slitne, engelske coach-sjåfører sjekker de velbrukte GB-registrerte turistbussene sine etter timer i konsentrasjon på den stupbratte, smale Himalayafjellveien fra Mandi. At kolossene klarte å få oss velberget opp de smale, humpete veiene over flere hundre meter stupbratte fjellsider er i seg selv et mirakel.
 
-Jeg ankommer Rewalsar sammen med 60 pilegrimer fra forskjellige tibetanskbuddhistiske sentre i Europa. Der kommer de tibetanske munkene med gjestfrie smil i sine røde kapper. Tibetansk smørte står rykende klar som velkomstdrikk. Flere munker er barn. Alle med de karakteristiske barberte hodene.
+Jeg ankommer Rewalsar sammen med 60 pilegrimer fra forskjellige tibetanskbuddhistiske sentre i Europa. Der kommer de tibetanske munkene med gjestfrie smil i sine røde kapper. Tibetansk smør-te står rykende klar som velkomstdrikk. Flere munker er barn. Alle med de karakteristiske barberte hodene.
 
-**Ved ankomsten faller regn fra skyfri himmel. Ingen blir våte og mange undrer seg. Regnet varer kun en halv time. Så overtar solen. Pilegrimene mener det er en velsignelse....**
+Ved ankomsten faller regn fra skyfri himmel. Ingen blir våte og mange undrer seg. Regnet varer kun en halv time. Så overtar solen. Pilegrimene mener det er en velsignelse....
 
 Den religiøse seremonien Pujaen starter i det lokale tempelet - Gumpaen. Pilegrimene tar av seg skoene, ofrer Rupées, svinger bønnehjul og kneler med pannen i gulvet. Lamaene leder den religiøse seremonien pujaen med opplesning fra de hellige tekstene på tibetansk, mantrasang og innslag av symballer, blåseinstrumenter og drønn fra store trommer....
 
 \- Walk clockwise, Sir! smiler og bukker en ung munk og peker retningen min: Gange rundt den hellige innsjøen i Rewalsar må skje i riktig retning ? med urviseren - dette er viktig: Dette må gjøres så mange ganger som mulig mens jeg mumler det tibetanske mantraet OM MANI PEDME HUNG.
 
-**Flokker av pilegrimer går rundt innsjøen langs en vakker opparbeid gangvei. De mumler mantraer og teller på bønnekransen en tibetansk rosenkrans med 108 kuler. Fra tempelet høres dype røster fra mannskor med innslag av store trommer.**
+Flokker av pilegrimer går rundt innsjøen langs en vakker opparbeid gangvei. De mumler mantraer og teller på bønnekransen en tibetansk rosenkrans med 108 kuler. Fra tempelet høres dype røster fra mannskor med innslag av store trommer.
 
 En inder presenterer seg som Mr. Rastogi. Han stopper meg og peker oppstemt utover innsjøen: Der beveger en liten øy seg utpå innsjøen. Øya har en rettlinjet kurs. Mens vi står der skifter øya retning fire ganger. Stopper til slutt opp midt utpå sjøen. Det er vindstille. Sjøen har ingen strømninger å se til. Store fargerike fisk svømmer rolig langs bredden. Og munkene har puja....
 
@@ -51,17 +52,11 @@ _med Rewalsar dypt nede i dalen._
 
 Fjell-landskapet glitret i sol fra nysnø da pilegrimene begynte den bratte oppstigningen til de høye lamaene såkalte rinposher. De bebor fjellhuler noen timers klatretur opp i fjellene fra Rewalsar.
 
-**En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.**
+En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.
 
 Det berømte fotavtrykket i fjellet er like ved: Etter sagnet skal Guru Rinpoche ha sparket ifra på dette stedet i fjellet...... Fotavtrykket teller omkring 40 cm i lengde fra tåspiss til hel.
 
 En kø av pilegrimer ønsker å kjenne energistrømmene i fortavtrykket....
-
-| --- |
-|  |
-
-_Høydepunktet på klatreturen i Himalaya_  
-_er det berømte fotavtrykket i fjellveggen._
 
 **Ikke bare tibetanere er huleboere i disse fjellene: Et engelsk nygift par har slått seg til i en nylig utgravd hule på sin bryllupsreise. De graver daglig videre innover i fjellet. Planen er å bli her i ett år...**
 
