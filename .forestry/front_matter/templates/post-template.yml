@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/folkeaksjonen-mot-uønsket-telefonsalg.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-18-aggresjon-for-kvinner-og-menn.md
