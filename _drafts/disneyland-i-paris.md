@@ -5,17 +5,17 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Disneyland i Paris
-excerpt: Med bil
+excerpt: 'Besøk Disneyland og Paris i barnas høstferie og unngå langdryge, uendelige
+  køer på silsvette sommerdager. Unngå rådyre Disneyland-hoteller og flyreiser: Ta
+  bilen og planlegg turen godt.'
 image: "/assets/images/disney.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
 weight: 4
 
 ---
-**Besøk Disneyland og Paris i barnas høstferie og unngå langdryge, uendelige køer på silsvette sommerdager. Unngå rådyre Disneyland-hoteller og flyreiser: Ta bilen og planlegg turen godt.**
-
 Med bilen blir turen til og fra til en innholdsrik del av turen.  
 Begrepet avstand blir mer virkelig.
 
