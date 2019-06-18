@@ -44,12 +44,6 @@ Rastigi skriver nå på en bok om øyene og innsjøen.
 
 Overnattingen i soveposer på lemmer lagt ut over steingulvet i en stor enkel klostersal. Kuldegradene kommer snikende i løpet av natten.
 
-| --- |
-|  |
-
-_Himalayas fjellandskap ligger badet i glitter fra nysnø_  
-_med Rewalsar dypt nede i dalen._
-
 Fjell-landskapet glitret i sol fra nysnø da pilegrimene begynte den bratte oppstigningen til de høye lamaene såkalte rinposher. De bebor fjellhuler noen timers klatretur opp i fjellene fra Rewalsar.
 
 En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.
@@ -58,7 +52,7 @@ Det berømte fotavtrykket i fjellet er like ved: Etter sagnet skal Guru Rinpoche
 
 En kø av pilegrimer ønsker å kjenne energistrømmene i fortavtrykket....
 
-**Ikke bare tibetanere er huleboere i disse fjellene: Et engelsk nygift par har slått seg til i en nylig utgravd hule på sin bryllupsreise. De graver daglig videre innover i fjellet. Planen er å bli her i ett år...**
+Ikke bare tibetanere er huleboere i disse fjellene: Et engelsk nygift par har slått seg til i en nylig utgravd hule på sin bryllupsreise. De graver daglig videre innover i fjellet. Planen er å bli her i ett år...
 
 En kvinne fra Hawaii har etablert seg permanent i en annen hule. Hun har konvertert til tibetansk buddhisme og ble nonne for tre år siden.
 
