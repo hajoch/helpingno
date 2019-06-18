@@ -15,9 +15,10 @@ excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet 
 image: "/assets/images/tunis4.jpg"
 image_caption: Foto Gunnar Christensen. Araberfesser er stedets mest brukte hodeplagg
   for far og sønn.
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
 **Karthago var en gang en stormakt. Nå er her stille...**
