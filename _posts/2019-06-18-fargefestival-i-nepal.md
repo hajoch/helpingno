@@ -14,7 +14,7 @@ image_caption: Gunnar Christensen ( foto)reiste i 1979 sammen med en gruppe euro
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 Et hyl ljomer gjennom en kaotisk, overfylt gate i Kathmandu: I det samme kommer en ung kvinne løpende gjennom folkemengden, etterfulgt av en guttbande bevæpnet med ballonger fylt med vann og fargepulver som de kaster etter henne.
