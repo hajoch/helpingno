@@ -74,7 +74,7 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 \- Er Buddy og Standly fremdeles med på laget?  
 \- I dag er både Buddy og Stanley døde. De er hos sine forfedre.
 
-![](/assets/images/liselyseggen3.jpg)
+![](/assets/images/liselyseggen3.jpg)![](/assets/images/liselyseggen3.jpg)
 
 Foto Gunnar Christensen i intervju med Lise Lyseggen
 
