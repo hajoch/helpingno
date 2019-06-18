@@ -15,8 +15,7 @@ publish_date:
 weight: 2
 
 ---
-
-Telefonselgere bruker stadig nye metoder til å nå deg på din hjemmetelefon og nå også mobilen din: Mange selgere gjør henvendelsen "privat" ved å bruke ditt fornavnet ved henvendelsenslik at ektefellen eller barna tror det er en bekjent som ringer deg. Knepene og strategien blir stadig fornyet  
+Telefonselgere bruker stadig nye metoder til å nå deg på din hjemmetelefon og nå også mobilen din: Mange selgere gjør henvendelsen "privat" ved å bruke ditt fornavnet ved henvendelsen slik at ektefellen eller barna tror det er en bekjent som ringer deg. Knepene og strategien blir stadig fornyet  
 og mange oppfatter dette som en ren plage.
 
 Telefonsalg er en vekstindustri som det blir stadig mer av.
@@ -28,9 +27,9 @@ Deres argument for denne virksomheten er at vi ønsker reklame på telefonen vå
 **Hva kan du gjøre?**  
 Vi oppfordrer deg til å benytte deg av "Reservasjon mot adressert reklame" ved Brønnøysundregisteret! Når et stort antall nordmenn gjør dette vil telefonselgerne få klar og entydig beskjed om at uønsket telefonsalg vil vi ikke ha.
 
-**Vær derfor klar over at du kan stoppe de fleste telefonselgerne ved nettopp å registrere dine reservasjoner i "Reservasjon mot adressert reklame". Her har du mulighter for reservasjon mot reklame i post, telefonsalg på mobil og fasttelefon samt forespørsler fra ulike organisasjoner. Registreringen skjer ved Brønnøysundregisterets eget nettsted**:
+Vær derfor klar over at du kan stoppe de fleste telefonselgerne ved nettopp å registrere dine reservasjoner i "Reservasjon mot adressert reklame". Her har du muligheter for reservasjon mot reklame i post, telefonsalg på mobil og fasttelefon samt forespørsler fra ulike organisasjoner. Registreringen skjer ved Brønnøysundregisterets eget nettsted:
 
 [http://w2.brreg.no/reservasjon/](http://w2.brreg.no/reservasjon/ "http://w2.brreg.no/reservasjon/")
 
-Blir dine reservasjoner etter registrereing likevel ikke repektert  
+Blir dine reservasjoner etter registrering likevel ikke respektert  
 av enkelte telefonselgere kan du klage til Datatilsynet.
