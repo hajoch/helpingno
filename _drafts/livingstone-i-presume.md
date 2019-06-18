@@ -3,7 +3,8 @@ layout: post
 date: 2019-06-18 22:13:14 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- afrika
 title: '"Livingstone, I presume"'
 excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lille
   afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (60)
@@ -12,17 +13,13 @@ excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lil
   murer og bur.'
 image: "/assets/images/gambia.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
-
-| --- |
-|  |
-
-| --- |
-| Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia. |
+Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia. |
 
 Villy tilbyr spennende safari på Gambiaflodens frodige sideelver med lange, flat-bunnede båter drevet av påhengsmotor og lokalkjente innfødte ombord. I tillegg støver Villys jeep-safari seg gjennom buskaset for dem som har god rygg og orker klore seg fast bak på jeepen. Enkle overnattingsmuligheter tilbys turistene. Leiren har ingen air-codition i hyttene. Her er varmt og stillestående luft. Turister som ikke tåler høye innlands-temperaturer frarådes å ta denne turen.
 
