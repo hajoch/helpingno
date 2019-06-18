@@ -7,8 +7,8 @@ tags: []
 title: Bahai
 excerpt: Bahaireligionen har islamsk opprinnelse, men religionen ble av den islamske
   domstolen i Beba i Egypt "dømt" til å være en selvstendig religion i 1925.
-image: ''
-image_caption: ''
+image: "/assets/images/sol.gc.jpg"
+image_caption: Illustrasjon av Gunnar Christensen
 categories:
 - _category/religion.md
 publish_date: 
