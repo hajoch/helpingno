@@ -22,12 +22,7 @@ publish_date:
 weight: 4
 
 ---
-
-| --- |
-|  |
-
-| --- |
-| Taj Mahal er et av verdens vakreste byggverk. |
+ Taj Mahal er et av verdens vakreste byggverk. |
 
 To skikkelser styrter frem fra mørket, drar meg inn i en korridor hvor et stearinlys blafrer bak et tykt jerngitter. En stemme bak gitteret sier:
 
@@ -47,7 +42,7 @@ La gå. Frem med en Rupée´ og på med beskytterne. Så opp marmortrappen til p
 Det store rommet i mosaikk av marmor og edelsteiner tar det meste av palasset. Lyset fra lommelykten tett opp til mosaikken gir det klareste bilde av prakten. Steinene gir gjenskinn i alt fra rødt og grønt til hvitt og sort. Ikke underlig det tok 18 år å bygge praktverket fra 1632.
 
 **Yndlingshustru**  
-Midt i hallen symmetrisk om midten ligger kopien av en kvinnes kiste: Hun som ga inspirasjon til at bygget ble til som hennes gravkammer: Murmataz Mahal, byggherre Sjah Jahans høyt elskede yndlingshustru, som døde i ung alder.
+Midt i hallen symmetrisk om midten ligger kopien av en kvinnes kiste: Hun som ga inspirasjon til at bygget ble til som hennes gravkammer: Murmataz Mahal, byggherre Sjah Jahans høyt elskede yndlings hustru, som døde i ung alder.
 
 Hans kiste står til venstre for hennes, liksom i det egentlige kapellet - i kjelleren like under hvor gravkammeret deres med de ekte kistene står.
 
@@ -65,22 +60,16 @@ Jeg er i gravkammeret...
 
 De hvite, mosaikk-kistene i marmor er brunet av elde. Turister slipper sjelden ned i gravkammeret. Derfor finnes identiske kopier i den store hallen like over.
 
-Den klemmende stillheten i gravkammeret avbrytes av subbende skritt som et fjernt ekko over gravkammeret forbi huller i gulvet som fører ned hit. En vissen blomsterkvast ligger på Mahals kiste. Hun var vakker...
+Den klemmene stillheten i gravkammeret avbrytes av subbende skritt som et fjernt ekko over gravkammeret forbi huller i gulvet som fører ned hit. En vissen blomsterkvast ligger på Mahals kiste. Hun var vakker...
 
 **Valfartssted**  
 Jeg krabber opp og ut. I måneskinnet streifer en og annen turist eller pilgrim omkring i den behagelige nattetemperaturen. Dette er muslimenes valfartssted: Et vakkert minne om Islams storhetstid i India.
 
-Jeg sklir tilbake til de tre vaktene rundt oljelampen, leverer beskytterne tilbake og tusler ned i parkanlegget og ut i landsbyen: På leting etter overnatting i en sykkelrikshaw med en lokaltkkjent mann ved pedalene. Fem dekorerte kameler ruver i gatene med staselig ryttere. Bjeller markerer de veldige dyrenes majesteiske skritt gjennom landsbyen som er i ferd med å gå til ro.
+Jeg sklir tilbake til de tre vaktene rundt oljelampen, leverer beskytterne tilbake og tusler ned i parkanlegget og ut i landsbyen: På leting etter overnatting i en sykkelrikshaw med en lokaltkkjent mann ved pedalene. Fem dekorerte kameler ruver i gatene med staselig ryttere. Bjeller markerer de veldige dyrenes majestetiske skritt gjennom landsbyen som er i ferd med å gå til ro.
 
 Å ferdes i India om natten er å friste til ran, overfall og drap. Det haster å finne et krypinn. Helst ikke i friluft av redsel for slanger eller annet dødelig utøy. Jeg ender i en gammel buss hvor sovepose og liggeunderlag rulles ut over to dobbelseter med ryggsekken imellom. Verdisaker puttes i soveposen med kamera og filmer. En lommekniv er klar til selvforsvar.
 
 Frokost klokken fem. Bananer, en pakke kjeks,vitamin- og malariatabeletter samt en indisk Campa-Cola.
-
-| --- |
-|  |
-
-| --- |
-| Slangetemmerne dukker raskt opp påturiststeder med sine Cobraslanger i India |
 
 **Turistmagnet**  
 Nytt besøk i Taj Mahal som stiger frem av morgentåken med glinsende marmor. En kunstner støtter opp sitt staffeli og tasler videre med sitt ufullkomne kopi. En fotograf smyger rundt i parken. Turister surrer omkring.
