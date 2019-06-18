@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
 - _posts/2019-06-18-darjeeling-teens-by.md
 - _posts/2019-06-18-livingstone-i-presume.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
