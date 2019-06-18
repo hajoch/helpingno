@@ -4,7 +4,7 @@ date: 2019-06-18 13:50:51 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Blodigste minnesmerke:Slaveøya
+title: 'Blodigste minnesmerke: Slaveøya'
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
 image_caption: 'Den blodige slaveøya James Island kommer til syne i tåkedisen på Gambiafloden.
