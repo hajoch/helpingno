@@ -10,9 +10,9 @@ excerpt: Denne type henvendelser øker nå i et slikt omfang at mange oppfatter 
 image: "/assets/images/telefon.jpg"
 image_caption: 'Foto: GC'
 categories:
-- _category/bolig.md
+- _category/helse.md
 publish_date: 
-weight: 2
+weight: 4
 
 ---
 Telefonselgere bruker stadig nye metoder til å nå deg på din hjemmetelefon og nå også mobilen din: Mange selgere gjør henvendelsen "privat" ved å bruke ditt fornavnet ved henvendelsen slik at ektefellen eller barna tror det er en bekjent som ringer deg. Knepene og strategien blir stadig fornyet  
