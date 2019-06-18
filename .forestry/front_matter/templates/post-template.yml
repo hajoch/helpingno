@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/den-beste-slankekuren-bedre-kosthold-og-mosjon.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md
 - _posts/2019-06-18-blodigste-minnesmerke-slaveøya.md
 - _posts/2019-06-18-benares.md
