@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-18-bahai.md
 - _posts/2019-06-18-øvelseskjøring-med-bil-førerkortopplæring.md
