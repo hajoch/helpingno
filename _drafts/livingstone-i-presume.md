@@ -12,7 +12,7 @@ excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lil
   sønner: Krokodiller, slanger og sjeldne fugler fores og passes på bak dertil egnede
   murer og bur.'
 image: "/assets/images/gambia.jpg"
-image_caption: ''
+image_caption: "Foto Gunnar Christensen. \nGambia-flodens sideelver i tett jungel"
 categories:
 - _category/reise.md
 publish_date: 
