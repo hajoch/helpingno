@@ -1,0 +1,89 @@
+---
+layout: post
+date: 2019-06-18 13:39:39 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: Benares,
+excerpt: 'En morgen klokken seks: Langs elven Ganges står hinduer i tusentall. De
+  gjør sine religiøse ritualer for å få et bedre liv og en bedre gjenfødelse med gudenes
+  beskyttelse.'
+image: "/assets/images/ganges2 (1).jpg"
+image_caption: Gunnar Christensen ( foto) reiste i 1979 sammen med en gruppe europeiske
+  pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
+  klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap. Benares
+  er en hellig by for hinduer og flere andre religioner.
+categories:
+- _category/reise.md
+publish_date: 
+weight: 7
+
+---
+Dette er Benares, eller Varanasi, som den heter på det indiske kartet - byen med de 1500 hindutemplene, de 400 moskeene, med buddhistenes hellige Sarnath og drøyt én million innbyggere.
+
+Hit kommer pilgrimmer for å vaske seg i den hellig elv og be til gudene. Hit kommer gamle indere for å dø: Folk som har levd et liv i samfunnet med familie og arbeid, "forlater verden" og kommer for å forberede seg på livets utgang. De fremsier bønner, resiterer mantraer og fordyper seg i meditasjon.
+
+**På Ganges**  
+Guiden ror selv båten: Dette er stedets lokale turisttilbud på Ganges i morgengryet. En halvt synkeferdig, umalt 20 fots båt snegler seg forbi et eventyrlig menneskemylder langs bredden. Noen ber, andre bader, eller vasker seg - atter andre gjør yogaøvelser mellom hellige bad. Innimellom sitter hellige menn i meditativ fordypning.
+
+Her og der finnes likbrenningsplasser: Enkelte bål lyser opp - med tett røk og en søtlig lukt. Indere har et åpent forhold til døden - ikke noe er gjemt bort eller forsøkt skjult. Folk står omkring og betrakter brenningen - forgjengeligheten. Fotografering av likbrenningen er derimot tabu...
+
+**Velsignelser**  
+Små nøtteskall med lys og blomster på store grønne blad flyter ut fra strandbredden. Dette er velsignelser for å minne om en avdød - fra nære slektninger eller venner. En kramkar innpå bredden har slikt til salgs. Han sitter på en flat steinhelle, roper ut sine tilbud og ringer med en bjelle.
+
+En annen sitter med en stabel paise foran seg - Indias minste myntenhet. For en rupée, eller rundt regnet 60 øre, kan en veksle til seg en liten søyle paise for å gi til tiggere. Det gir velsignelse fra gudene.
+
+**Pruting**  
+Ivrige myldrer selgere omkring turister. Den som ikke har lært å prute, blir grådig lurt - etter indiske verdiskalaer. Prisen på alle varer og tjenester må prutes og avgjøres på forhånd, ellers kan forlangendet nå store høyder etter indisk norm.
+
+En frisør kommer løpende:  
+\- En hårklipp, Sir - bare fire kroner?  
+\- No.  
+\- Jeg gir spesiell pris for Dem, Sir - bare to kroner?  
+\- No.  
+\- OK 50 øre da?
+
+La gå - jeg setter meg et stede i den skitne gata og lar det stå til. Fra et tøystykke haler frisøren frem en rusten saks og en like luguber kam. Så et halvt, knust speil, som støttes mot en stein så kunden kan følge utviklingen i arbeidet og si ifra hvis det bærer galt ivei.
+
+Hårmassasje?
+
+Etter endt behandling:  
+\- Skal det være hårmassasje, Sir - bare to kroner?  
+\- No - nei takk, jeg vet ikke om det er hår igjen til en ny behandling...
+
+Hårklipp, skopuss, skredderarbeid eller grønnsakmarkedet - over alt den samme forhandlingen om pris. Latterlig lave priser etter norske forhold, men det kreves tid og tålmodighet å handle i India.
+
+**Håndarbeid billigst**  
+Håndverksarbeid er billig: Alt fra perlekjeder, vakre treskjæringer til silkevarer, sjal, gull- og sølvvarer. Håndarbeid er billigere enn masseproduserte ting. Arbeidskraft finnes her nok av, maskiner er mangelvare. Utallige er arbeidsløse - lever på sultegrensen. Mange dør i rennesteinen hver dag.
+
+Gatene er trange og skitne. Men OBS: Kua har alltid sin hellige forkjørrett: Fotgjengere og bilister har vikeplikt.
+
+**Offer**  
+I tempelet summer hinduer rundt statuer av guder, inklusive kua. De ofrer blomster. Guden Kali krever sogar boldoffer av levende dyr, oftest okse eller bukk. Bare hindier får komme inn i hindu-templene her. En fakir deler ut Shivas velsigelser på gaten utenfor: En håndfull fargestoff i hånden og med pekefingeren maler han et rødt merke i pannen ved neseroten. En uoppmerksom turist får lett en velsignelse klasket i pannen med påfølgende krav om rupées til ofringer. .
+
+**Hellige drikkeplasser**
+
+| --- |
+|  |
+
+| --- |
+| Langs Ganges bredd i Benares er det et yrende folkeliv. |
+
+Ganges har livlig båttrafikk. De utroligste båtkonstruksjoner seiles og blir rodd omkring. Få drives av motorer: Det er billigere å leie folk til å ro.
+
+Til tross for søppel, likaske og søle i elven, drikkes vannet i Ganges. Spesielle steder er "drikkeplasser" - hellige sådanne. Disse drikkeplassenes plassering strider mot enhver fornuft: Noen meter fra drikkeplassene kastes søppel og rask i eleven, uten at dette synes å misnke appetitten på vannet.
+
+Vestlige kjemikere påståes å ha analysert vannet på disse drikkeplassene, og kommet til at vannet er forsvarlig å drikke, mens vannet i omkrets rundt er direkte helsefarlig. Vestens turister avstår som oftest fra denne drikkingen - med siste dagers diaréer og matforgiftninger frisk i minne.
+
+**Buddhas park**  
+Ti kilometer fra Benares´ masete sentrum ligger Sarneth, den fredelige Hjorteparken, buddhistenes hellige sted. På dette stedet ga Buddha sine første belæringer for omkring 2500 år siden - den kjente Benaresprekenen som ble grunnsøylen i den buddhistiske lære om at alt i verden er lidelse: Dukkha - de fire edle sannhetene.
+
+Forskjellige retinger innen buddhismen er representert med hver sine templer i Sarnath. Selve Hjorteparken er bevart som et vakkert parkanlegg omkring den gamle stupaen med relikvier av Buddha, tempelet og de gamle klosterruinene bygd over stedet der Buddha holdt sin tale.
+
+**Gulltempel**  
+Hinduer har flere hellige steder å velge mellom. Ett av dem er et praktfult tempel hundre meter fra Gangesbredden. Tårnet på dette tempelet er dekket av et tykt lag massivet gull. Flere tonn gull påståes det - og slik ser det faktisk ut.
+
+Muslimenes tilknytning til Benares skriver seg fra islams militære og religiøse inntog i India da buddhismen var på retur - omkring tusentallet etter Kristus. Moskeene i Benares er i bruk ennå, en påminnelse om at islam fremdeles har fotfeste i India.
+
+**Eventyrlig**  
+Benares er en storby i vekst - et trafikknutepunkt for jernbane og flytrafikk. En mer moderne bydel har grodd opp rundt det gamle, trange Benares, men det samme uorgansierte mylder av alt tenkelig og utenkelig preger også de nye bydelene: En rundtur i Benares er slitsom og tidkrevende og en prøvelse for tålmodigheten, ikke minst med tiggere som trenger på fra alle kanter. Likevel er Benares en eventyrlig opplevelse.
