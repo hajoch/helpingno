@@ -18,9 +18,7 @@ weight: 9
 ---
 Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
 
-Gunnar Christensen: Jeg gir deg boka gratis
-
-"Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
+Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
 
 Last ned gratis bok:  
 **-** Klikk [her](http://www.helping.no/skandale.htm) om du ønsker en **printervennlig** utgave. (Her får du hele boken på en side.)
@@ -30,7 +28,7 @@ Last ned gratis bok:
 Papirutgave  
 Skandalebøkene i Ungdomsskolen  
 er også tilgjengelig i papirutgave!  
-Utgitt første gang oktober 2004 på Ildsjelen Forlag,   
+Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
 118 sider. Forlaget er utsolgt.
 
 Presseomtale av:  
