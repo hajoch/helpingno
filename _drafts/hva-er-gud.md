@@ -7,10 +7,11 @@ tags: []
 title: Hva er Gud
 excerpt: Novelle - kort historie inspirert av en samtale
 image: "/assets/images/des.5.jpg"
-image_caption: ''
-categories: []
+image_caption: Foyo GC
+categories:
+- _category/boker.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 **Han setter seg forsiktig ved siden av meg og sier:  
