@@ -5,24 +5,19 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
-excerpt: ''
-image: ''
-image_caption: ''
-categories: []
+excerpt: Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
+  eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
+  måte - med hensyn på å hjelpe dem økonomisk.
+image: "/assets/images/aleks.jpg"
+image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk og blemarkedsført
+  gjennom helping.nos spalter til han døde for noen år tilbake.'
+categories:
+- _category/hjelpearbeid.md
 publish_date: 
 weight: 
 
 ---
-
-| --- |
-|  |
-
-Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk og ble  
-markedsført gjennom helping.nos spalter til han døde for noen år tilbake.
-
 Eget hjelpeprogram?
-
-**Besøker du utviklingsland kan det være en god ide å bli kjente med en familie eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen måte - med hensyn på å hjelpe dem økonomisk.**
 
 Men vær litt kritisk og undersøk flere kilder når du velger ut hvem du vil støtte.
 
@@ -45,8 +40,8 @@ Den beste hjelpen?
 
 Foto: Gunnar Christensen. Motiv fra Sri Lanka.
 
-Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.  
-  
+Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.
+
 Mange familier i utviklingsland har spennende håndverkstradisjoner som er salgbare i vårt land. Det kan være treskjærerkunst, søm, batikk eller praktiske redskaper.
 
 Varene du kjøper kan selges videre til butikker i Norge, de kan selges på vennetreff f.eks. ved å danne en hjelpeklubb på hjemstedet der varene sprees via et personlig nettverk. Eller du kan åpne en nettbutikk for å selge varene videre på internett.
