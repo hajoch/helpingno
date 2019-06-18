@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/småbarnsfamilien.md
 - _posts/2019-06-18-konkurs-i-reiselivsbransjenkan-gi-deg-økonomisk-tap.md
 - _posts/2019-06-18-indre-uro.md
 - _posts/2019-06-17-indre-uro.md
