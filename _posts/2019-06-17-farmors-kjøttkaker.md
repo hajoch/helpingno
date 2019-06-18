@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-17 23:27:11 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/ellen-marie-christensen.md
 tags: []
 title: Farmors kjøttkaker
 excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt.
