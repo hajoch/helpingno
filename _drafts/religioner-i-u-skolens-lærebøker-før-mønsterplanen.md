@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-18 22:28:59 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/albert-henrik-mohn.md
 tags: []
 title: 'Bokomtale: Skandalebøkene i ungdomsskolen'
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
