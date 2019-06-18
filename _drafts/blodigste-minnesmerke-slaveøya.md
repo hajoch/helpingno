@@ -8,9 +8,10 @@ title: Blodigste minnesmerke:Slaveøya
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
 image_caption: 'Foto: Gunnar Christensen'
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
   
