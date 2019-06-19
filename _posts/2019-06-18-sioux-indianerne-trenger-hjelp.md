@@ -92,13 +92,12 @@ Alle som kjenner USAs historie vet hvordan indianerne i Nord-Amerika er blitt be
 
 All kunnskap omkring Maya kalenderen som er blitt kjent i den senere tid har fått mange til å interessere seg for indiansk kultur og religion. Særlig i alternativmiljøet har interessen for indianer-kulturens visdom blomstret i forbindelse med 2012-problematikken. Vi ser nå at denne kulturen beriker verdenssamfunnet og må bevares.
 
-Samtidig må vi rette opp  
-så mye vi kan av den  
-urett som er begått mot indianerfolket.
+Samtidig må vi rette opp så mye vi kan av den urett som er begått mot indianerfolket.
 
 I over 40 år har Lise Lyseggen sett dette og jobbet for å gjenreise denne indianerkulturen og gi den en gang så stolte  
 og velutviklede Siouxstammen et verdig  
 og meningsfylt liv.  
+  
 Lise Lyseggens nettsider:
 
 ##### **Sioux-hjelpen:**  
