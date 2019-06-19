@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-17T17:31:49.000+00:00
-crop_image: false
+crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Den nye "Snåsamannen"  er ei vakker ung kvinne
