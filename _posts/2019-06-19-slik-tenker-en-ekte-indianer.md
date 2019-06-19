@@ -73,3 +73,13 @@ Det er gjennom medisinmannen jeg har kommet langt med å nå frem og få tillit 
 
 Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjentar:  
 \- Som naturfolk har indianerne en unik kunnskap og harmoni med naturen. Når indianerne tar noe fra naturen - f.eks. hogger et tre - da planter de et nytt tre for hvert tre de hogger. Tanken er at neste generasjon også trenger trær. Slik vil ressursene alltid være der. Vi forstår lite av naturen sammenliknet med dem. Her er avgjørende kunnskap som kan være viktig for vår sivilisasjons overlevelse.
+
+  
+Lise Lyseggens nettsider:
+
+**Sioux-hjelpen:**  
+Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
+[siouxsoul.no](http://siouxsoul.no/)
+
+Grasrotandel i Norsk tipping:  
+Sioux Soul org nr 911899272.
