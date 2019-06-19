@@ -34,7 +34,7 @@ Mobilprodusentene er pålagt å gi opplysning om SAR-verdien for hvert produkt s
 (SAR = Spesifikk Absorbsjons Rate).  
 Sjekk alltid SAR-verdien på mobiltelefonen før du kjøper deg ny.
 
-Har mobiltelefon-bruk:  
+##### Har mobiltelefon-bruk:  
 \- Kreftrisiko?
 
 * Nedsatt fruktbarhet?
