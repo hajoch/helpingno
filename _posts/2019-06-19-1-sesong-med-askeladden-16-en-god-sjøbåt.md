@@ -44,3 +44,7 @@ Tekniske data testbåt:
 Lengde 4,94 m  
 Bredde 1.95 m  
 Vekt 340 kg
+
+Max last: personer 8  
+Max motor 40 hk kort stamme Denne båten hadde en enkel 25 hk Yamaha med 2 cyl uten autolobe.  
+Veritas/CE-godkjent
