@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/test-pioner-13.md
 - _posts/pioner-13.md
 - _posts/2019-06-19-joller-er-praktiske.md
 - _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
