@@ -40,7 +40,7 @@ Yamaha får problemer med tidens tann som de fleste andre motorer og da er deler
 
 På eldre motorer ryker det noe når det minst passer - og alle verkstedene er fullbooket når du trenger hjelp under høy solfaktor. Knytt deg da til en båtforhandler du kan få god service av med gammel påhenger. Det kan lønne seg. Det er når du har gammel sliten båtmotor du skal blinke deg ut den beste og rimeligste servicen på hjemstedet - der hvor du kjøper din neste motor.
 
-**Tekniske data testbåt:**  
+**Tekniske data testbåt:** Fakta om Askeladden 16-4400  
 Lengde 4,94 m  
 Bredde 1.95 m  
 Vekt 340 kg
