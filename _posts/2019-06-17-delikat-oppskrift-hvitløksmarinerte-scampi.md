@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 16:01:24 +0200
+date: 2019-06-17T14:01:24.000+00:00
 crop_image: true
 author: _authors/jens-christian-jore-christensen.md
 tags: []
@@ -10,12 +10,11 @@ excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smak
 image: "/assets/images/scampi2.jpg"
 image_caption: Foto Jens Christian Jore Christensen
 categories:
-- _category/helse.md
+- _category/mat.md
 publish_date: 
 weight: 5
 
 ---
-
 Hvitløksmarinerte Scampi:  
 Oppskrift for 4 personer:
 
