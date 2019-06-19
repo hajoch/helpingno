@@ -2,15 +2,16 @@
 layout: post
 date: 2019-06-19 08:58:49 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/ole-t-moy.md
 tags: []
 title: Forbrukertest - bruktbåt:YAMARIN 76 DC med 250 hk Yamaha
 excerpt: RAPPORT ETTER 11SESONGER:Kvalitetsbåt
 image: ''
 image_caption: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
