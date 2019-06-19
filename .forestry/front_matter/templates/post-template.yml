@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/test-nikon.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
 - _posts/2019-06-19-redaksjonen.md
