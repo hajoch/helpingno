@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/redaksjonen.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
