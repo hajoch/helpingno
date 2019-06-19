@@ -8,11 +8,7 @@ title: BMW 530 XD Touring 4 WD 2008 modell
 excerpt: |-
   Bruktbil: Langtidstest - 4 år med:
   Fakta om testbilen: BMW 530 XD Touring stv.
-  2008 modell
-   235 dieselhester
-  Dreiemoment på 500 nm
-  6 trinns automat girkasse
-  4 WD: permanent i hhv 60% og 40 % bak og foran
+  2008 modell, 235 dieselhester, Dreiemoment på 500 nm, 6 trinns automat girkasse, 4 WD: permanent i hhv 60% og 40 % bak og foran
 image: "/assets/images/bmwo3.jpg"
 image_caption: Foto Ole T. Moy
 categories:
