@@ -19,10 +19,10 @@ publish_date:
 weight: 
 
 ---
-**Båten: ![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)**![](http://helping.no/kule.jpg =12x12)
+Båten: 
 
-**Pen båt med god plass, stødig og solid**  
-**I sjøen er AMT 185 BR en fin opplevelse. Båten oppfører seg stødig og forutsigbart i sjøen og den gjør bedre fart enn oppgitt : 36 knop med 2 personer ombord. Den hydrauliske styringen er behagelig og presis.**
+Pen båt med god plass, stødig og solid  
+I sjøen er AMT 185 BR en fin opplevelse. Båten oppfører seg stødig og forutsigbart i sjøen og den gjør bedre fart enn oppgitt : 36 knop med 2 personer ombord. Den hydrauliske styringen er behagelig og presis.
 
 Bowriderkonstruksjonen gir meget god innvendig plass. Her kan 8 personer (men båten er kun godkjent for 7 personer) sitte komfortabelt hvis vi regner med de tre sitteplassene framfor vindskjermen. Faktisk har denne båten bedre plass enn den 20 fot store daycruiseren AMT lager. Dette er en praktisk familiebåt som er lett å trives i.
 
