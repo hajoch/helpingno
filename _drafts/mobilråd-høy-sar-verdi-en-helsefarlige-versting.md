@@ -5,17 +5,19 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Mobilråd: Høy SAR-verdi en helsefarlige versting '
-excerpt: ''
+excerpt: Verstingene på mobilstråling i mobiltelefon-markedet er telefoner med høy
+  SAR-verdi. Høy SAR-verdi har telefoner som kan skade din helse. Legg merke til at
+  ingen mobilprodusenter markedsfører mobiltelefoner ut i fra en gunstig SAR-verdi.
+  Du må slite litt for å finne strålingsverdiene på telefonene du er interessert i
+  for disse opplysningene markedsføres ikke. Hvorfor?
 image: "/assets/images/sok810i.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/fritid.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
-
-Verstingene på mobilstråling i mobiltelefon-markedet er telefoner med høy SAR-verdi. Høy SAR-verdi har telefoner som kan skade din helse. Legg merke til at ingen mobilprodusenter markedsfører mobiltelefoner ut i fra en gunstig SAR-verdi. Du må slite litt for å finne strålingsverdiene på telefonene du er interessert i for disse opplysningene markedsføres ikke. Hvorfor?
-
 Mange velger kjente merker for for å sikre seg kvalitetsvare: Slik er det ikke når du kjøper mobiltelefoner. Hver enkelt modell må sjekkes for seg ut i fra en gunstig eller ugunstig SAR-verdi Dette bør være en tankevekker for oss som forbrukere at mange kjente produsenter fremdeles produserer de fleste av sine mobiler med for høy SAR-verdi. Dette i seg selv er en grunn til å sjekke kjøpet nøye.
 
 **Grenseverdi i USA er 1,6 W/kg**  
@@ -23,21 +25,22 @@ Strålingsverdien, den såkaldte SAR-verdien.
 Det er illevarslende når grensen for mobil-telefoner i USA er på 1,6 W/kg. Mobiler som har SAR-strålingsverdien over 1,6 W/kg er ulovlig å omsette i USA. I EU er denne grenseverdien på hele 2,0 W/kg noe som ikke er betryggende for forbrukerne.
 
 **Uetisk å selge mobiltelefoner med høy SAR-verdi**  
-De fleste moderne mobiler på markedet i dag ligger på SAR-verdier fra 0,2 til 0,8 W/kg. Det er med andre ord uetisk å selge mobiltelefoner som har høye strålingsverdier. Mange bruker ikke nok tid på å sette seg inn i mobiltelefonens tekniske spesifikasjoner. Det hviler derfor et tung etisk ansvar på mobilselgere - som oftest ikke kan noe om Sar-verdi.  
-  
+De fleste moderne mobiler på markedet i dag ligger på SAR-verdier fra 0,2 til 0,8 W/kg. Det er med andre ord uetisk å selge mobiltelefoner som har høye strålingsverdier. Mange bruker ikke nok tid på å sette seg inn i mobiltelefonens tekniske spesifikasjoner. Det hviler derfor et tung etisk ansvar på mobilselgere - som oftest ikke kan noe om Sar-verdi.
+
 Kjøp mobil med lavest mulig SAR-verdi!
 
 **SAR-verdien.**  
-Mobilprodusentene er pålagt å gi opplysning om SAR-verdien for hvert produkt som selges, dvs. hvor mye stråling kroppsvevet absorberer.   
-(SAR = Spesifikk Absorbsjons Rate).   
+Mobilprodusentene er pålagt å gi opplysning om SAR-verdien for hvert produkt som selges, dvs. hvor mye stråling kroppsvevet absorberer.  
+(SAR = Spesifikk Absorbsjons Rate).  
 Sjekk alltid SAR-verdien på mobiltelefonen før du kjøper deg ny.
 
 Har mobiltelefon-bruk:  
-\- Kreftrisiko?  
- - Nedsatt fruktbarhet?  
- - Konsentrasjonsvansker?  
- -Tretthet?  
-\- Hodepine?
+\- Kreftrisiko?
+
+* Nedsatt fruktbarhet?
+* Konsentrasjonsvansker?  
+  \-Tretthet?  
+  \- Hodepine?
 
 Mange artikler og nyhetsoppslag har over lengre tid satt fokus på helsefaren ved bruk av mobiltelefoner:
 
@@ -78,8 +81,8 @@ Barn under 13 år bør ikke bruke mobiltelefon: Det er foreldres ansvar å ta h�
 
 Tråløst handsfree er nå på markedet. Pr. i dag vet vi ikke nok til å kunne peke ut tråløst handsfree som en bedre eller dårligere løsning. Utstyret må måles for hver modell på markedet.
 
-En trådløs kommunikasjon mellom hodetelefon og mobiltelefon kan kun etableres dersom begge deler er utstyrt med mottaker og sender. Det betyr i praksis at hodetelefonen i seg selv har innebygget en sender som stråler og opprettholder kommunikasjonen med mobilen. Dette er en sender installert enda nærmere inntil hodet (inn i øret) under telefonering. Selv om senderen til hodetelefonen vil stråle er dette som regel mindre enn selve senderen til mobiltelefonen.   
-  
+En trådløs kommunikasjon mellom hodetelefon og mobiltelefon kan kun etableres dersom begge deler er utstyrt med mottaker og sender. Det betyr i praksis at hodetelefonen i seg selv har innebygget en sender som stråler og opprettholder kommunikasjonen med mobilen. Dette er en sender installert enda nærmere inntil hodet (inn i øret) under telefonering. Selv om senderen til hodetelefonen vil stråle er dette som regel mindre enn selve senderen til mobiltelefonen.
+
 Trådløse ørepropper har en egen liten mottaker som fanger opp signaler fra mobilen og disse gir betydelig svakere stråling enn mobilen.
 
 **Verneutstyr.**  
@@ -89,7 +92,7 @@ Noen firmaer tilbyr utstyr som påståes å verne deg mot mobilstråling. Firmae
 Mange har for vane å legge mobiltelefonen i brystlommen. Da er mobilen nær viktige deler av kroppen. Det er bedre og tryggere for deg å ha den i vesken. Eller montert fast på førerplass i bilen når du kjører bil koplet til bilens handsfree..
 
 **SAR-verdien.**  
-Mobilprodusentene er pålagt å gi opplysning om SAR-verdien for hvert produkt som selges, dvs. hvor mye stråling kroppsvevet absorberer. (SAR = Spesifikk Absorbsjons Rate).   
+Mobilprodusentene er pålagt å gi opplysning om SAR-verdien for hvert produkt som selges, dvs. hvor mye stråling kroppsvevet absorberer. (SAR = Spesifikk Absorbsjons Rate).  
 Sjekk alltid SAR-verdien på mobiltelefonen før du kjøper deg ny.
 
 **Begrens bruken: Ta "mobil-siesta".**  
