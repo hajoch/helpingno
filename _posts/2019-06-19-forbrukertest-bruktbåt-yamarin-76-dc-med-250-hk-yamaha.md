@@ -19,7 +19,9 @@ Fakta om YAMARIN 76 DC med Yamaha
 Tekniske data testbåt:Lengde 7,52 mBredde 2,60 mVekt båt 1500 kgMax personer: 8Motorstyrke 150 - 300 hkVeil utsalgspris med 250 hk Yamaha V6 3,4 liter 4T.ca. kr. 700.000,-Vekt motor 280 kg.
 
 Båten: **![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**  
-Dessverre ble sommeren 2007 ikke det noen håpet, aller minst for nybakte båteiere med store forventninger til mange hyggestunder om bord. Lkevel, noen turer fikk vi - og båten ble vi godt kjent med i løpet av sommeren.**Hvorfor Yamarin 76 DC?**  
+Dessverre ble sommeren 2007 ikke det noen håpet, aller minst for nybakte båteiere med store forventninger til mange hyggestunder om bord. Lkevel, noen turer fikk vi - og båten ble vi godt kjent med i løpet av sommeren.  
+  
+**Hvorfor Yamarin 76 DC?**  
 Hvorfor Yamarin 76 DC når vi kunne velge en Ibiza 24 Touring? Vel, i utgangspunktet kan det se ut til at prisnivået er ganske likt og de appellerer trolig til samme kundegruppe. Men ved nærmere øyesyn viser det seg at Yamarinen er langt bedre utstyrt i standardutførelse. I første rekke hva gjelder pantry og WC m/innebygd tank.
 
 Under dekk er det god takhøyde slik at man sitter behagelig, og uten å måtte bøye hodet. 4 koøyer som åpnes enkelt, sikrer en god lufting. I tillegg er det god stuveplass. Fra cabinen er det en stikkøye som går bakover under dekk, og gir plass til to personer - fortrinnsvis mindreårige.
