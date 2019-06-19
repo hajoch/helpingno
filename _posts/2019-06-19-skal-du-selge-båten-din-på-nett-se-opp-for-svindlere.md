@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-19 10:37:53 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/leserinnlegg.md
 tags: []
 title: Skal du selge båten din på nett? Se opp for svindlere!
 excerpt: Innlegg
