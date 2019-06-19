@@ -12,6 +12,7 @@ fields:
     required: false
     color_format: Hex
 pages:
+- _category/leserinnlegg.md
 - _category/slanking.md
 - _category/fritid.md
 - _category/økonomi.md
