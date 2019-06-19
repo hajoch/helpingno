@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/forbrukertest-bruktbåt-dp425-med-selvlens-og-innerliner.md
 - '_posts/2019-06-19-Brukttest: Hansvik 18 HT..md'
 - _posts/2019-06-19-pioner-13.md
 - _posts/2019-06-19-joller-er-praktiske.md
