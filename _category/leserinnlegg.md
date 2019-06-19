@@ -1,5 +1,5 @@
 ---
-title: Leserinnlegg
+title: Barn og ungdom
 color: "#417505"
 
 ---
