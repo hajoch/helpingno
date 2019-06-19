@@ -8,9 +8,10 @@ title: Skal du selge båten din på nett? Se opp for svindlere!
 excerpt: Innlegg
 image: "/assets/images/batsalg.jpg"
 image_caption: Illustrasjonsfoto GC
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 
