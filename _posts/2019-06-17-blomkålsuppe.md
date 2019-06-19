@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 15:43:53 +0200
+date: 2019-06-17T13:43:53.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -9,7 +9,7 @@ excerpt: Vegetarmat - sunt, billig og godt
 image: "/assets/images/blomk..jpg"
 image_caption: ''
 categories:
-- _category/helse.md
+- _category/mat.md
 publish_date: 
 weight: 3
 
