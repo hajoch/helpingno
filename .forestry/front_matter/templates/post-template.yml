@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-19-penger-bank-og-nett.md
@@ -112,7 +113,6 @@ pages:
 - _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-grønn-suppe.md
-- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-bedre-bilder.md
 - _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-06-17-lise-lyseggen-om-klimakrisen-uten-indianernes-kunnskap-vil-menneskeheten-dø-ut.md

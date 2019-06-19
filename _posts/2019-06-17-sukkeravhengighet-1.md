@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 15:08:14 +0200
+date: 2019-06-17T13:08:14.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
@@ -11,11 +11,9 @@ image_caption: 'Foto: Christoffer Jore Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
-  
-  
 Hvitt sukker hører til karbohydratene. Alle karbohydrater(dvs. bl.a. poteter, brød og frukt) omdannes i kroppen til det kjemiske stoffet glucose som er energi for kroppen. Men det er også energi for hjernen. På samme måte som hjernen utvikler en fysisk og psykisk avhengighet for eksempel alkohol kan den danne avhengighet for karbohydrater. Denne avhengigheten er til en stor del arvelig slik som alkoholisme er det. Jeg tror at arveligheten er over nesten de samme gener som rusavhengigheten.
 
 Merkelig nok vet vi ikke nok om hvordan kroppen virker i forhold til mat. Det ovennevnte kan være en forklaring på hvorfor Atkins dietten virker for mange mennesker. Men noen mennesker har også hatt hjelp av blodtypedietten. Her hevdet man jo at folk med blodtype O, levde i liten form for ketose. Dvs. bl.a. at de forbrenner energi direkte fra fett. Dette styrker mine observasjoner om at det fins en meget utbredt karbohydratavhengighet i vestlige land.
