@@ -4,7 +4,7 @@ date: 2019-06-19 08:40:22 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: '1 sesong med Askeladden 16: En god sjøbåt'
+title: '1 testsesong med Askeladden 16: En god sjøbåt'
 excerpt: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig god
   og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du ikke
   trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
