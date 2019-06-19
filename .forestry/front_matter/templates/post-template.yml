@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/om-oss.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-19-penger-bank-og-nett.md
 - _posts/2019-06-19-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md

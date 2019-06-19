@@ -1,0 +1,47 @@
+---
+layout: post
+date: 2019-06-19 18:22:19 +0200
+crop_image: true
+author: ''
+tags: []
+title: Om oss
+excerpt: ''
+image: "/assets/images/helping2.jpg"
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+Helping-magasinet  
+Helping.no er en organisasjon innen  
+Media/Nyheter/Forlagsvirksomhet
+
+**Artikler som hjelper deg.**  
+Tanken bak helping.no er å bygge opp en kunnkapsbase der du kan finne råd og hjelp innen ulike fagområder. Enten det gjelder helse, mental helse, kosthold og slanking, religiøse spørsmål, båtkjøp, bruktbilvalg eller økonomi.
+
+Helping.no er således ikke som en "vanlig" nyhetsleverandør.  
+Vi fokuserer på det som kan være nyttig og hjelpsomt for deg.   
+Oversikt over våre [temasider](http://www.helping.no/indexi.htm).
+
+  
+  
+ **Vi er uavhengige i vår journalistikk.**  
+Helping.no representerer ingen bestemt religiøs,   
+politisk eller økonomisk interessegruppe.
+
+Vi arbeider innenfor de etiske retningslinjer som er vanlig for   
+norske medier og redaktøren er medlem av Norsk Journalistlag.   
+Slik har det vært siden vi startet i 2001.  
+  
+www.helping.no har temasider med nyttig lesestoff.  
+Vi gir deg i tillegg bøker som du kan laste ned [gratis](http://www.helping.no/gratis.htm).
+
+Fordi helping.no fokuser på det som kan hjelper deg  
+har vi valgt solen som symbol i vår logo.
+
+Flere redaksjonsmedarbeidere og gjesteskribenter  
+er tilknyttet helping.no. Se: [Kontakter](http://www.helping.no/kontaktpersoner.htm)
+
+Kontakt oss: E-post redaksjonen:  
+[helping.red@gmail.com](mailto:helping.red@gmail.com)
