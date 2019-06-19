@@ -9,9 +9,10 @@ excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tiggin
   lavtlønnsgrupper i samfunnet:'
 image: "/assets/images/trommer.jpg"
 image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. |
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. |
