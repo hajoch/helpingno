@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-19 18:31:48 +0200
-crop_image: true
+crop_image: false
 author: ''
 tags: []
 title: Redaksjonen
