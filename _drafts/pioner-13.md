@@ -34,12 +34,8 @@ Kjøpt brukt hos merkeforhandler. Denne motoren var lettstarte 2 cylinder og en 
 
 Teknisk sett har denne motoren en del plastløsninger som på sikt trenger raskere utskiftning enn vanlige metalldeler. Dette er forklaringen på den brukervennlige, lette vekten.
 
-**Tohatsu 8 hk 2 takt:** ![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)
-
-| --- |
-|  |
-
-**T**ohatsu 8 hk 2-takt 2 cyl. modell 1998 kjøpt brukt hos båtforhandler i 2002. Motoren har god kvalitet - er lettstartet, startvillig og går problemfritt. Kun tennplugger er skiftet. I tillegg er motoren ferskvanns-kjørt hver høst. Motoren får Pioner 13 i plan med to personer ombord.
+**Tohatsu 8 hk 2 takt:**   
+Tohatsu 8 hk 2-takt 2 cyl. modell 1998 kjøpt brukt hos båtforhandler i 2002. Motoren har god kvalitet - er lettstartet, startvillig og går problemfritt. Kun tennplugger er skiftet. I tillegg er motoren ferskvanns-kjørt hver høst. Motoren får Pioner 13 i plan med to personer ombord.
 
 Denne 2-cylindrede Tohatsuen klarte barna lett å starte. En 2-cylinder motor går penere og er et bedre valg når man skal velge en liten 2-takts-motor til jolla.
 
