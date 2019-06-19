@@ -10,9 +10,10 @@ excerpt: Dette er en båt med god plass. Den er lettdrevet og gjør god fart med
   en opprusting som nybåt i salg i dag.
 image: "/assets/images/hansvik.18.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter
