@@ -14,7 +14,6 @@ publish_date:
 weight: 
 
 ---
-
 **![](http://helping.no/polar.20_hvit.jpg =472x185)**
 
 Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjermesjektenes scharme fra trebåtens storhetstid før plastbåtene kom på markedet.
@@ -23,10 +22,7 @@ Dette er en romlig, stødig og god dagsturbåt for dem som tar seg tid til famil
 
 Dette er den perfekte dagsturbåt med vindskjerm som gir ly for vinden, badestige akter og motorkassa midtskips som spisebord. Kommer det en regnskur har du kallesja parat. Men selv om produksjonen er flagget ut så er prisen fortsatt ganske stiv sammenliknet med tilsvarende båter.
 
-Dette er en båt som kan passe bra med en el.motor.
-
-| --- | --- |
-|  | Tekn. opplysninger: Lengde 6,2 mBredde 2,25Dybde 70 cm,Vekt 850 kg,Volvo 18 hk diesel 2 cyl. |
+Dette er en båt som kan passe bra med en el.motor. Tekn. opplysninger: Lengde 6,2 mBredde 2,25Dybde 70 cm,Vekt 850 kg,Volvo 18 hk diesel 2 cyl. |
 
 Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu med en 2 til 5 hesters bensinmotor, oljelukt og pussing på tennplugger. Det var et annet tempo og en annen tid. En tid da de fleste langs kysten brukte skjermesjekta som familiebåt. En tid da påsketider var båtpusstider med sjøsetting i god trutnetid før St. Hans. Skjermsjekta var selveste symbolet på sommerferien langs Sørlandskysten.
 
