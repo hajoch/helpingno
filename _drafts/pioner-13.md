@@ -39,5 +39,5 @@ Tohatsu 8 hk 2-takt 2 cyl. modell 1998 kjøpt brukt hos båtforhandler i 2002. M
 
 Denne 2-cylindrede Tohatsuen klarte barna lett å starte. En 2-cylinder motor går penere og er et bedre valg når man skal velge en liten 2-takts-motor til jolla.
 
-**Yamaha 9,9hk 2- takt:** ![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)  
+**Yamaha 9,9hk 2- takt:**   
 Motoren ble kjøpt ny hos forhandler. Dette er en driftsikker og god motor, men kanskje litt i sterkeste laget til båten med ett mindreårig barn ombord. Særlig hvis motoren er trimmet til 15 hk. Med 5 ombord trenger du imidlertid denne motorstyrken.
