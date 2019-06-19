@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-06-17 19:31:49 +0200
-crop_image: true
+date: 2019-06-17T17:31:49.000+00:00
+crop_image: false
 author: _authors/gunnar-christensen.md
 tags: []
 title: Den nye "Snåsamannen"  er ei vakker ung kvinne
@@ -16,7 +16,6 @@ publish_date:
 weight: 5
 
 ---
-
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne foretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
 
 Deretter befinner jeg meg på et stort kontor med sort behandlingsbenk, bokhylle og kontorutstyr. Her er intet som minner om alternativ behandling: Modernistisk kunst på veggene. En stor grønn plante i en krok. Kun en liten grønn plante ved vinduet. Ingen røkelse i luften. Ingen bilder av guruer. Ingen musikk til behandlingen.  
