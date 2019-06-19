@@ -9,11 +9,12 @@ excerpt: Han satt stadig og trommet. Som om hendene ikke ville innfinne seg med 
   og orden. Var der en bordkant, sengekant eller hva som helst nær hendene hans så
   var trommingen igang. Hele kroppen levde med i trommingen. Han gikk i trance straks
   rytmen kom over han.
-image: ''
+image: "/assets/images/slangetemmer.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/boker.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 En novelle fra Gangtok,  
