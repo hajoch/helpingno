@@ -6,7 +6,7 @@ author: ''
 tags: []
 title: Redaksjonen
 excerpt: ''
-image: "/assets/images/helping-1.jpg"
+image: "/assets/images/logo-1.svg"
 image_caption: ''
 categories: []
 publish_date: 
