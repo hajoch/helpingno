@@ -29,11 +29,10 @@ Bowriderkonstruksjonen gir meget god innvendig plass. Her kan 8 personer (men b�
 **Spesialutgave**  
 Denne hvite båten er både penere og mer praktisk enn standard-modellen som selges med en trist, grå stripe som standard. Praktisk fordi stripene krever mer vedlikehold og blir fort ripete, falmet og stygge. Testbåten har comfortstoler og baugcover.
 
-**AMT/Honda-service: Mysen var best**  
-**Da jeg bestilte og kjøpte båten på Mysen Motorsenter AS fikk jeg fantasitisk god service og den beste båthandelen på denne båten**   
-**som var mulig i Norge på dette tidspunktet. Ingen andre forhandlere i Norge ville ta seg bryet med å spesialbestille en båt uten grå stripe. All honør til Mysen Motorsenter AS som beklageligvis ikke lengre eksisterer.**
+AMT/Honda-service: Mysen var best  
+Da jeg bestilte og kjøpte båten på Mysen Motorsenter AS fikk jeg fantasitisk god service og den beste båthandelen på denne båten som var mulig i Norge på dette tidspunktet. Ingen andre forhandlere i Norge ville ta seg bryet med å spesialbestille en båt uten grå stripe. All honør til Mysen Motorsenter AS som beklageligvis ikke lengre eksisterer.
 
-**Motoren ![](http://helping.no/kule.jpg =12x12)**![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)  
+**Motoren**   
 2007-modellen 90 hk Honda er stillegående og har behagelig gange.   
 Hondas 90 hk hadde da den kom makedets mest moderne motorteknologi- VTEC. Motoren har mindre utslipp og forbruk i forhold til eldre teknologi hevdes det.
 
@@ -63,4 +62,14 @@ Mysen fristet ikke i juli.
 **2009 - 2014: Motoren friskmeldes og fungerer bra**  
  Etter problemene med motoren første sesong hadde vi som fast rutine at jolla med Yamaha-motor alltid er parat når AMT sjøsettes. Men det er ikke lengre behov for den: Hondamotoren starter og går greit. Sesongen 2009, 2010, 2011 osv. har gått uten problemer med motoren. Og slik fortsatte det. Dette friskmelder motoren.   
   
- **Konklusjon - båt og motor** 
+ **Konklusjon - båt og motor   
+BÅT**  
+AMT 185 BR er en vellykket konstrukson: Båten er stabil, stødig og god i sjøen med et godt design og mange fine praktiske løsninger. En pen, solid og trygg familiebåt med god innvendig plass som det er lett å trives i og bli glad i.
+
+**MOTOR**  
+For en familiebåt er dirvstoff-økonomi, lite motorstøy og miljøvennlig påhengsmotor viktig. Man kjøper en båt for å ha den flere sesonger fremover og da er det tryggest å kjøpe båt med "den mest miljøvennlige motoren som er på markedet" på kjøpstidspunktet. Om den da bare hadde virket som den skulle i begynnelsen.
+
+Tekniske problemer med motoren første sesong har ført til at båt og motor nå tilsammen kun skårer 4 soltegn i vår test. Dette er tragisk på en så fin båt. Videre er det tragisk at denne båten kun fåes med Honda-motor: Forbruker burde fritt kunne velge påhengsmotor på en båt. Det er heller ikke mulig å spesialbestille båt uten motor i Norge for så å sette et annet motormerke på båten. Da må du kjøpe den i Finnland (se tips fra leser på samme side)
+
+Er AMT 185BR med 90 hk Honda "bedre enn jeg forventer" slik den første markedsføringen av båten hevder? - Nei. Man forventer en problemfri motor og god service når man kjøper ny båt. Dog. Fra sesongen 2009 ble motoren friskmeldet og fungerte utmerket. Slik   
+det burde vært fra første dag.
