@@ -5,8 +5,12 @@ crop_image: false
 author: ''
 tags: []
 title: Redaksjonen
-excerpt: "Kontakt-informasjon\nRedaksjonen \nEtablert i 21.04.2001\nOrganisasjonsnr.
-  997604830\nE-post redaksjonen: helping.red@gmail.com"
+excerpt: |2+
+
+  Etablert i 21.04.2001
+
+  Organisasjonsnr. 997604830
+
 image: "/assets/images/logo-1.svg"
 image_caption: ''
 categories: []
@@ -14,7 +18,8 @@ publish_date:
 weight: 0
 
 ---
-**Redaksjonen**
+Kontakt-informasjon  
+E-post redaksjonen: helping.red@gmail.com
 
 [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)  
 **Ansv.redaktør, styreformann og gründer**  
