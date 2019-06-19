@@ -2,7 +2,6 @@
 layout: author
 title: Hallvard J. Christensen
 image: ''
-published: false
 
 ---
   
