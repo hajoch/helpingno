@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/slik-tenker-en-ekte-indianer.md
 - _posts/2019-06-19-redaksjonen.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-19-om-oss.md
