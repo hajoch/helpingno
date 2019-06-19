@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 17:52:02 +0200
+date: 2019-06-17T15:52:02.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -9,7 +9,7 @@ excerpt: Nord-Europas høyeste fjell. Til stengt dør
 image: "/assets/images/ga.jo.gc.jpg"
 image_caption: 'Foto: Gunnar Christensen: Toppen av Galdhøpiggen på 2469 meters høyde.'
 categories:
-- _category/sport.md
+- _category/fritid.md
 publish_date: 
 weight: 9
 
