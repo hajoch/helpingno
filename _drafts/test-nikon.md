@@ -26,9 +26,6 @@ Fotopressen har klaget på zoom-objektivet som følger med i denne "pakken" (Nik
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
-| --- |
-|  |
-
 **Førsteinntrykket**  
 Førsteinntrykket av dette kameraet er posistivt. Faktisk veier ikke denne Nikon D 3100 mer enn mange hybridkameraer. Faktisk føles det lettere enn hybrid-kameraet [Olympus](http://www.helping.no/olympus.htm) PEN med Nikkor 18-55 f. 3,5-5,6. Nikon 3100 ligger godt i hånden og er lett å bruke. Familien liker det umiddelbart og synes det er gøy å ta bilder med det.
 
@@ -37,9 +34,6 @@ Med på Nikon 3100-handelen følger også et lite fotokurs en helg for dem som b
 Den innebygde blitzen skvetter for raskt opp uten at det er en virkelig motlyssituasjon. Det irriterer.
 
 Første gang jeg kjører batteriet tomt har jeg supermotivet i sikte; Batterilogoen viser nemlig ikke tom søyle så jeg tror det er mer å gå på. Dette er begynner-tabbe med dette kameraet: Ikke stol på batterimåleren. Lad batteriet i god tid før søylen nærner seg 1/4 restenergi i indikatorsøylen.
-
-| --- |
-|  |
 
 **Skarphet**  
 Testetbilder på innstilling "auto" gir middels gode bilder med brukbar skarphet. Skarphet bedre enn kompaktkameraene. Men ikke "Nikon-skarphet" som jeg kjenner fra tidligere: Den ekstraordinære skarpheten uteblir. Skarpheten som jeg husker fra mitt gamle Nikon-utstyr før den digitale revolusjonen.
@@ -51,18 +45,13 @@ Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv Nikkor 18-55 f
 
 Testen ble tatt ved å sette samme type SD-kortet fra de to kameraene direkte inn i en ny Phanasinic Plasma 42 tommers full HD-TV. Testen var en stor overraskelse. Vi kan tydelig se at Nikons bilder er skarpere, har bedre fargegjengivelse og er klarere med Nikkor 18-55 f. 3,5-5,6 enn Olympus.
 
-**Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er standard på Nikon D3100 i Norge så absolutt holder mål i test sammeliknet med en av konkurrentene.**
+Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er standard på Nikon D3100 i Norge så absolutt holder mål i test sammeliknet med en av konkurrentene.
 
 **Valg av kamartype**  
 Mange lurer på dette valget: Hybrid kamera eller et nytt lett speilrefleks i samme prisklasse. Sammenlikning av Nikon 3100 opp mot Olympus PEN levner ingen tvil: Nikon 3100 er best på kvalitet og brukervennlighet. Det er fristende å legge til "mest for pengene" etter som Olympus-kameraet fikk teknisker problemer under testen på helping.no.
 
-| --- |
-|  |
-
-**Fotoserien** [**Skagen,**](http://www.helping.no/skagen.htm) **Danmark er tatt med Nikon 3100**
-
 **Filtertips**  
-**Har du brukt speilreflekskamera i flere tiår så ligger det i ryggmargen at du ikke tar i bruk et nytt objektiv før du har fått på et filter. Skylight eller helst UV. Det er den beste objektivforsikring du kan få.**
+Har du brukt speilreflekskamera i flere tiår så ligger det i ryggmargen at du ikke tar i bruk et nytt objektiv før du har fått på et filter. Skylight eller helst UV. Det er den beste objektivforsikring du kan få.
 
 Om du får ei ripe i linsa ved et uhell så skifter du bare filteret så er linsa uskadd. Tar du i bruk linsa uten filter og du får en skade så er det nesten bare å kaste hele det dyrebare objektivet om du da ikke har forsikret deg. Men forsikring har egenandeler som koster deg mer enn et filter. Filteret til Nikkor 18-55 f. 3,5-5,6 er på 52mm. En kurant filterstørrelse.
 
@@ -73,12 +62,9 @@ kr. 399,-. Dette er en uhørt høy pris på en så enkel konstruksjon - nærmest
 **Solblender**  
 Vi har valgt en gummisolblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilbake ved vidvinkelfotografering. Kamara med fast brennvidde har ofte solblendere av metall. Det fulgte med matallsolblender i prisen på Nikkor 18-105 f.3,5-4,5 - objektivet.. I likhet med filteret beskytter solblendere linsen mot støtskader og gir i mange situasjoner bedre bilder.
 
-| --- |
-|  |
-
 **Helping hjelper deg med Nikon-modellene**
 
-**De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine.** **Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.**
+De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine. Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.
 
 På spørsmål til Nikon Norge om en modellorientering svarer  
 "Marketing Coordinator" Eva Gullerud slik:  
