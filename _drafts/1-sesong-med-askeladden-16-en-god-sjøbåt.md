@@ -10,29 +10,16 @@ excerpt: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig 
   trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
   Har du ikke bryggeplass er dette en lett og grei båt å ha på en båthenger.
 image: "/assets/images/ask.16.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Askeladden'
+categories:
+- _category/båt.md
 publish_date: 
 weight: 
 
 ---
 Askeladden 16 m. 25 hk Yamaha
 
-**![](http://www.helping.no/ask.16.jpg =310x131)**
-
-**Av:** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
-Båt og motor gies poeng med antall sol-tegn.  
-Best poeng er 5 soltegn:![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12) - dårligst 1 soltegn.
-
-![](http://www.helping.no/kule.jpg =12x12)
-
-Båt: ![](http://www.helping.no/kule.jpg =12x12)
-
-Fakta om Askeladden 16-4400
-
-| --- | --- |
-| Tekniske data testbåt:Lengde 4,94 mBredde 1.95 mVekt 340 kg | Max last: personer 8Max motor 40 hk kort stamme Denne båten hadde en enkel 25 hk Yamaha med 2 cyl uten autolobe.Veritas/CE-godkjent |
+Fakta om Askeladden 16-4400 |Tekniske data testbåt:Lengde 4,94 mBredde 1.95 mVekt 340 kg | Max last: personer 8Max motor 40 hk kort stamme Denne båten hadde en enkel 25 hk Yamaha med 2 cyl uten autolobe.Veritas/CE-godkjent |
 
 Du ser mange av dem på fjorden. Mange av dem med orange dekk. Senere fikk de penere farger. De er ikke direkte vakre for å si det forsiktig, men grunnen til at det finnes så mange av dem er først og fremst sjøegenskapene: Romlige, praktiske, solide og enkle. Lite arbeid med dem vår og høst:. Trykkspyle, pakke inn for vinteren og bunnsmøre på våren, så er sesongen i gang på ny.
 
@@ -52,6 +39,3 @@ Jeg hadde problemer med giret på denne. En relativt dyr operasjon måtte til om
 Yamaha får problemer med tidens tann som de fleste andre motorer og da er deler dyre. Selv festeboltene som skrur motoren til båten koster mer enn hos andre motormerker, særlig om vi ser i forhold til Johnson og Evinrude. Dette er en betydelig ulempen med Yamaha. Delene er unødvendig dyre.
 
 På eldre motorer ryker det noe når det minst passer - og alle verkstedene er fullbooket når du trenger hjelp under høy solfaktor. Knytt deg da til en båtforhandler du kan få god service av med gammel påhenger. Det kan lønne seg. Det er når du har gammel sliten båtmotor du skal blinke deg ut den beste og rimeligste servicen på hjemstedet - der hvor du kjøper din neste motor.
-
-  
-![](http://www.helping.no/ask.16.jpg)
