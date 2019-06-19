@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 10:11:51 +0200
+date: 2019-06-17T08:11:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -10,7 +10,8 @@ excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse 
   dukkha.
 image: "/assets/images/stupa.jpg"
 image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
-categories: []
+categories:
+- _category/religion.md
 publish_date: 
 weight: 9
 
