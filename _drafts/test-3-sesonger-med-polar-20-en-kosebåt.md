@@ -9,9 +9,10 @@ excerpt: 'Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu m
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:'
 image: "/assets/images/polar.20.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 **![](http://helping.no/polar.20_hvit.jpg =472x185)**
