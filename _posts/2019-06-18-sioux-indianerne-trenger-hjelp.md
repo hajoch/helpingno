@@ -82,10 +82,26 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 Lise drar siste draget ut av sneipen, stumper den bestemt i askebegeret og blåser røyken sidelengs ut:  
 \- Jeg reiser alltid tilbake.
 
-  
+#### Lise Lyseggen
+
+Lise Lyseggen en født i Oslo og har studert teologi ved Menighetsfakultetet, Universitetet i Oslo. Hun er født med evner som klarsynt og healer og driver egen privatpraksis i Oslo, Kongsvinger og på Kirkenær..
+
+Alt i 1972 besøkte hun Sioux-indianerne i Dakota for første gang og har siden vært engasjert i hjelpe-arbeid for indianernes sak. Hun ser på hjelpearbeid som fredsarbeid.
+
+Alle som kjenner USAs historie vet hvordan indianerne i Nord-Amerika er blitt behandlet: Dette er den største skamplett på USAs historie. Indianerne i Nord Amerika har all grunn til å være skeptisk og negativ til den "hvite mann" slik Lise Lyseggen erfarte da hun første gang kom til dette Siouxindianernes reservatet.
+
+All kunnskap omkring Maya kalenderen som er blitt kjent i den senere tid har fått mange til å interessere seg for indiansk kultur og religion. Særlig i alternativmiljøet har interessen for indianer-kulturens visdom blomstret i forbindelse med 2012-problematikken. Vi ser nå at denne kulturen beriker verdenssamfunnet og må bevares.
+
+Samtidig må vi rette opp  
+så mye vi kan av den  
+urett som er begått mot indianerfolket.
+
+I over 40 år har Lise Lyseggen sett dette og jobbet for å gjenreise denne indianerkulturen og gi den en gang så stolte  
+og velutviklede Siouxstammen et verdig  
+og meningsfylt liv.  
 Lise Lyseggens nettsider:
 
-**Sioux-hjelpen:**  
+##### **Sioux-hjelpen:**  
 Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
 [siouxsoul.no](http://siouxsoul.no/)
 
