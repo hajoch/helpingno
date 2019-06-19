@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-16 23:48:36 +0200
+date: 2019-06-16T21:48:36.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -18,7 +18,6 @@ publish_date:
 weight: 4
 
 ---
-
 **Hjertet**  
 Har du tidligere seilt med veteranskipet "Skibladner" på Mjøsa vil du bli forbauset over hvor stillegående hjertet slår i "Bjoren". En fornøyd maskinist uten hørselsvern peker og forklarer velvillig hvordan motoren fungerer mens "Bjoren" "spiser" vedkubber og jobber jevnt og pent. Dampmotoren høres som en plystrelyd fra en fornøyd fugl om våren.
 
