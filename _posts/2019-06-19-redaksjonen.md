@@ -14,6 +14,8 @@ publish_date:
 weight: 0
 
 ---
+**Redaksjonen**
+
 [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)  
 **Ansv.redaktør, styreformann og gründer**  
 Cand.philol - master/lektor, forfatter og journalist
