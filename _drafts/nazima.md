@@ -1,0 +1,131 @@
+---
+layout: post
+date: 2019-06-19 22:59:37 +0200
+crop_image: true
+author: _authors/gunnar-christensen.md
+tags: []
+title: Nazima
+excerpt: Han satt stadig og trommet. Som om hendene ikke ville innfinne seg med ro
+  og orden. Var der en bordkant, sengekant eller hva som helst nær hendene hans så
+  var trommingen igang. Hele kroppen levde med i trommingen. Han gikk i trance straks
+  rytmen kom over han.
+image: ''
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+En novelle fra Gangtok,  
+inspirert av en reise til India.   
+**av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
+
+Plagsomt var det å dele rom med Finn. Han gikk meg først på nervene med sin uavlatelige tromming.  
+\- Du er ikke den eneste som føler det slik, medga Finn: - Problemet er. Jeg kan bare ikke la det være.....
+
+Trommingen fortsatte. Det gule, tynne håret sto til værs. Som om trommingen ladet opp magnetismen til ytterste hårstrå. Sigarettsneipen var sluknet der den hang i munnviken totalt glemt i rytmene.
+
+Vi fant hverandre ganske fort. Buddhistpilgrimmen Finn interesserte meg. Spesielle mennesker er fascinerende fordi de tør være anderledes - tør å være seg selv. Slik med Finn. Som medlem i den lille tibetansk-buddhistiske menigheten i Oslo, var han en av få norske pilegrimene på denne pilegrimsreisen i India. Jeg var med som religionsforsker.
+
+Stadig imponerte han meg på turen med sin leksikalske kunnskap og utrolige hukommelse. Geografi er Finns favorittfag. Jeg har følelsen av at han kan alle bynavn, elver og fjell globusen rommer. I tillegg behersker han tibetansk - tilstrekkelig til å gjøre seg forståelig i de indiske flyktningeleirene hvor andre språk er nytteløse. Mange tibetanske flyktningeleirer er blant reisemålene våre. Derfor ble Finns tibetansk-kunnskaper særdeles verdifulle.
+
+Men på hotellet i Darjeeling var plutselig Finn forandret. Han satt taus og innesluttet ved bordet uten å tromme. Jeg trengte meg nysgjerrig på:
+
+\- Hva er galt, Finn?  
+\- Galt?  
+\- Nå har vi kjent hverandre i drøye to måneder, siden pilegrimsreisen startet. Vi har sovet i samme rom i tibetanske klostre, og tatt inn på et utall lugubre, indiske hotell sammen. Jeg tror jeg kjenner deg godt nok nå til å skjønne at noe er galt. Ut med språket kompis. Hva kan jeg hjelpe deg med?  
+\- Du kan ikke hjelpe!  
+\- Ikke vær så sikker på det. Hvorfor så hemmelighetsfull? Hvem har stjålet trommingen din?  
+\- Nazima......  
+\- Nazima?  
+\- Ja, Nazima.  
+\- Vi vinket adjø til henne i går. Nydelig jente, forresten.  
+\- Ja. Nydelig jente....  
+\- Er du ....  
+\- Verre enn det...
+
+Finn biter i pennen, krøller arket og sender det i papirkurven:  
+\- Jeg vet ikke hvordan jeg skal få sagt det..  
+\- Det ser ut til at du prøver å skrive det.  
+\- Ja...
+
+Nazima var vår guide i Gangtok, den nordindiske delstaten Sikkims gamle hovedstad før landet ble innlemmet i India. Her brøt vi sammen opp fra leiren i den høye lama Karmapas kloster. Tok inn på hotell i Gangtok og kontaktet stedets turist-tilbud. Dagen etter var Nazima på pletten i minibuss med stedets lokale guidetilbud. Lokale, fargerike markeder, teppefabrikker og treskjærerverksteder samt utsiktspunkter og naturperler. Nazima var scenevant og profesjonell. Vi ble begge betatt av den billedskjønne, tibetanske kvinnen, og inviterte henne på middag etter omvisningen. Resultatet ble flere guidede turer i Sikkims spennende, kuperte landskap.
+
+Spesielt interessant for meg som religionshistoriker var Nazimas muslimske trosbakgrunn. Få tibetanere er muslimer. Dette fordi den buddhistiske religion er så dypt forankret i tibetansk kultur. Nazima var derfor en religionsvitenskapelig "godbit" som ga meg førstehånds kunnskap om den lille muslimske menighet blant tibetanere i eksil.
+
+Nazima hadde åpenbart røsket godt tak i Finns hjerterøtter, men hvor alvorlig var han angrepet? Jeg prøvde forsiktig med:
+
+\- Unnskyld min nysgjerrighet.  
+\- Neida. Det er godt å snakke ut om dette. Jeg må bare.... ha henne.  
+\- Vil du fri til henne?  
+\- Jeg har alt gjort det.  
+\- Før vi dro fra Gangtok?  
+\- Ja. Jeg postet brevet da vi gikk på bussen.  
+\- Hvordan vil du løse dette praktisk?  
+\- Hvordan da?  
+\- Skal du bosette deg her?  
+Finn så forskrekket på meg.  
+\- Nei! Jeg tar henne med til Norge så klart.
+
+Jeg sto ved vinduet med utsikt til Darjeelings yrende folkeliv. Denne kulturen var fremmed for oss. Hvordan ville det gå hvis Finn tok med seg Nazima til Norge?  
+\- Her er stor kulturforskjell. Hvordan tror du hun vil trives i Norge?
+
+Finn kom bort til vinduet. Han så ut over de kuperte teplantasjene og opp mot de snøkledde Himalaya-fjellene i det fjerne:  
+\- Hun er tibetaner og oppvokst med fjell. Hun vil trives i Norge. Hvorfor skulle hun ikke trives?  
+\- Jeg husker et intervju med en hjemvendt norsk-amerikaner. Etter omkring førti år over dammen var han tilbake i gamlelandet. Han sa: "Den sikreste måten å bli ulykkelig på, det er å utvandre."  
+\- Der finnes også lykkelige utvandrere.  
+\- Sant nok. Unnskyld mine motforestillinger. Jeg vil bare hjelpe deg. Det er ikke lett å komme på motforestillinger i din tilstand.  
+Finn smiler:  
+\- Sant nok.  
+\- Hva gjør du nå?  
+\- Jeg drar tilbake....... for å få svaret...  
+\- Du er heldig.  
+\- Ja.
+
+Dagen etter står Finn på terskelen til jeepen. Med besluttsom mine legger han ryggsekken på plass mellom setene, setter seg ved siden av føreren og vinker far-vel.  
+Så kjører han tilbake til sin nye fremtid.....
+
+Solen flommer varm og gavmild over Oslo fra skyfri himmel. Mennesker trekker til rekreasjonsstedene. Sykkelturer og svalende bad i Nordmarka. Tallrike lystfartøy pløyer den solglitrende Oslofjorden. Strandkantene på Huk er fylt som fuglefjell med nakne og halvnakne kropper.
+
+Sommer i Oslo.  
+Kvelden beholder dagens generøse varme.  
+Solmette kvelder.  
+Ølet skummer ved uterestaurantene på Aker brygge hvor jeg får øye på Finn.  
+Han nipper til en halvliter med blikket mot sjøen.  
+\- Takk for sist, gamle venn.  
+Finn rykker til. Som revet ut av en drøm, smiler og peker mot en ledig stol.  
+ Long time no see, gamle ørn. Du kom deg vel hjem?  
+\- Hvor har du gjemt Nazima?  
+Finn peker mot et fly som brøler seg opp fra flyplassen med haler av røyksøyler fra vingene.  
+\- Ikke foregrip. Ta det fra Darjeeling. Jeg er lutter øre.
+
+Finn vinker på kelneren og peker mot meg:  
+\- Ta deg en halvliter. Historien er like lang og detaljrik som veien til Gangtok.  
+Jeg bestiller og lar Finns legendariske hukommelse beskrive den fargerike reisen i detalj og møte med den tibetanske kvinnen i Gangtok hvor hennes foreldre drev hotell. Finn nyter å holde meg i spenning......
+
+\- Så ble hun med til Oslo?  
+\- Ja, men...  
+\- Men, hva?  
+\- Hun ville ikke svare på mitt frieri før vi var blitt bedre kjent. Hun gikk med på å komme til Norge. Hun kom og var her noen måneder. Med seg hadde hun fine antikviteter og utstyr som hun solgte her.  
+\- Hvorfor?  
+\- Hun insisterte på å betale flybilletten jeg la ut. Det gjorde hun. Hun var stolt og ville ikke være en utgiftspost...  
+\- OK, nok om disse praktiske detaljene. Hvordan går det med kjærligheten?  
+Finn sukker:  
+\- Jeg vet ikke.  
+\- Hva ødela for dere?
+
+\- Kort tid etter at hun kom hit, ble hun utsatt for en gruppe nynazister. Ved en ren tilfeldighet kom vi borti dem her i byen. Det var et kaos av en demonstrasjon der skjellsordene flagret og hun ble plutselig "skyteskive"............. Det var et sjokk for henne.  
+Hendelsen satte igang en prosess..........
+
+Etter som norskkunnskapene økte forsto hun slagordene på T-banestasjonen:  
+" Norge for nordmenn" og andre med samme innhold. Summen av alt dette ble negativ for Norge og dermed for meg....
+
+Finn ser mot nok et fly idet det dundrer over oss ......  
+\- Da hun dro sa hun....  
+Pause.  
+\- Hva sa hun?  
+\- Hun sa: "Jeg vil heller leve i fattige Sikkim som før enn å være lavkaste i Norge".  
+\- Kunne du tenke deg å bli pikkolo i Sikkim?  
+Finn sitter taus.  
+En gatemusikant med sliten gitar sloss om oppmerksomheten vår.....  
+Men trommingen er borte.
