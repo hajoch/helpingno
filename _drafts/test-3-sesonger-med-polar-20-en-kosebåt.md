@@ -7,7 +7,7 @@ tags: []
 title: 'Test 3 sesonger med Polar 20: En kosebåt'
 excerpt: 'Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu med
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:'
-image: "/assets/images/polar.20_hvit.jpg"
+image: "/assets/images/polar.20.jpg"
 image_caption: ''
 categories: []
 publish_date: 
@@ -47,3 +47,9 @@ Lengde 6,2 m bredde 2,25 dybde 70 cm, vekt 850 kg, Volvo 18 hk diesel med 3 syli
 Kjøper du ny Polar 20 så anbefales hvitt skrog uten striper. Det er mest vedlikeholdsfritt. Blåfarget skrog og striper i forskjellige farger gir besværlig vedlikehold.
 
 Unngå også ekstrautstyr av treverk. Treverket er kun fint den første sesongen og vil siden være en byrde for deg. Jo mindre treverk det er i båten des mer lettstelt er den. I tillegg kan mye av dette treverket være fra de truede regnskogene og båten kan fort bli ukurant versjon etter som det blir stadig mer fokus på miljø nå fremover.
+
+**Polar 20 med el-motor?**  
+Nå lanseres Polar 20 med en miljøvennlig elektrisk motor. Dette betyr mindre motorstøy og derfor en behageligere tilværelse ombord i båten. Men hvorfor er nyheten dyrere enn den samme båten  
+med dieselmotor?
+
+Som kjent er produk-sjonenen av Polar flyttet fra Norge til Polen. Men dette har ikke ført til rimeligere båter så langt. Heller tvert om.
