@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 15:00:32 +0200
+date: 2019-06-17T13:00:32.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
@@ -9,7 +9,7 @@ excerpt: 'Hvordan du skal komme deg ut av en slik mani  '
 image: "/assets/images/tunis3.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
-- _category/helse.md
+- _category/slanking.md
 publish_date: 
 weight: 6
 
