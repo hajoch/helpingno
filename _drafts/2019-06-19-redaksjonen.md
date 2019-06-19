@@ -5,12 +5,8 @@ crop_image: true
 author: ''
 tags: []
 title: Redaksjonen
-excerpt: |-
-  Kontakt-informasjon
-  RedaksjonenHelping-magasinet
-  Etablert i 21.04.2001
-  Organisasjonsnr. 997604830
-  E-post redaksjonen: helping.red@gmail.com
+excerpt: "Kontakt-informasjon\nRedaksjonen \nEtablert i 21.04.2001\nOrganisasjonsnr.
+  997604830\nE-post redaksjonen: helping.red@gmail.com"
 image: "/assets/images/logo-1.svg"
 image_caption: ''
 categories: []
@@ -18,7 +14,6 @@ publish_date:
 weight: 0
 
 ---
-
 [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)  
 **Ansv.redaktør, styreformann og gründer**  
 Cand.philol - master/lektor, forfatter og journalist
