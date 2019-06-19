@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 19:11:40 +0200
+date: 2019-06-17T17:11:40.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -18,7 +18,6 @@ publish_date:
 weight: 5
 
 ---
-
 Lisa Williams er mest kjent for å snakke med de døde og det er dette showet hennes går ut på. Hun formidler kontakt mellom vår verden og "den andre siden". En kontakt som fenger stadig flere. Showene hennes blir raskt utsolgt uansett hvor hun kommer. Denne gang besøker hun Oslo, Bergen og Trondheim. Hun tiltrekker seg oppmerksomhet som en magnet. Og showene er utrolig spennende og formidlingen mellom vår verden og "den andre siden" er svært overbevisende: Intime detaljer som "ingen andre kunne vite " dukker stadig opp i møte med publikum.
 
 **Større frihet og kjærlighet**  
@@ -65,3 +64,9 @@ Døren går opp. Lisa må videre. Tempoet er stort før et show med TV-opptak og
 Så er hun ute av døren.
 
 Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "Livet blant de døde" og der har Lisa rukket å skrive: " Gunnar. Great to meet you! Big Hugs. Lisa".
+
+Bok av [**Lisa Williams**](http://helping.no/lisawilliams.htm)**:**  
+**"Livet blant de døde". Cappelen Damm AS**  
+ **2009, 254 sider og senere utgaver..**
+
+Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en skjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større vikrlighet enn den bevisthen vi opererer med i våre liv. Det er ikke mulig å tro at alt er sllutt med døden etter et møte med henne.
