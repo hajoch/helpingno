@@ -10,10 +10,11 @@ excerpt: DP425 er 14 fot, tar 5 personer, veier 200 kg, har pent design. Jolla k
   direkte fra fabrikk i januar 2007 uten motor, men med bunnbehandling. Båten ble
   solgt med motor og båthenger i 2010. Etter nesten 4 hele sesonger.
 image: "/assets/images/jolle425.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto GC
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
 Det er ukjent om båten finnes ny på markedet i dag - trolig er i så fall produksjonen i liten skala og kanskje med annet navn. Denne test må derfor ansees som en bruktbåttest.
