@@ -13,10 +13,11 @@ excerpt: "Intervju med LiseLyseggen: \n- Noen sioux indianere blir fremdeles opp
   Indianere ble tidligere brukt som speidere i naturen fordi de ser absolutt alle
   tegn."
 image: "/assets/images/siouxbarn.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Lise Lyseggen'
+categories:
+- _category/hjelpearbeid.md
 publish_date: 
-weight: 
+weight: 6
 
 ---
 Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Indianernes verdifulle kunnskap om naturen kan nå dø ut.
