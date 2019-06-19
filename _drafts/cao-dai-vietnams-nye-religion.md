@@ -5,9 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Cao Dai: Vietnams nye religion'
-excerpt: "De to viktigste religiøse elementer i Cao Dai er først forfedrekulten som
+excerpt: 'De to viktigste religiøse elementer i Cao Dai er først forfedrekulten som
   har dype tradisjoner i denne del av verden. Dernest den vitenskapelige spiritismen,
-  som kom til Vietnam med det franske koloniregimets tjenestemenn. \n\n"
+  som kom til Vietnam med det franske koloniregimets tjenestemenn. '
 image: "/assets/images/srilankabat.jpg"
 image_caption: Foto GC
 categories:
