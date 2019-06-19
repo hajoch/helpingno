@@ -12,7 +12,7 @@ image: "/assets/images/katt.jpg"
 image_caption: "Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan
   hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.\n\n"
 categories:
-- _category/fritid.md
+- _category/økonomi.md
 publish_date: 
 weight: 3
 
