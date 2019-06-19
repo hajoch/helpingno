@@ -7,7 +7,7 @@ tags: []
 title: 'Test 3 sesonger med Polar 20: En kosebåt'
 excerpt: 'Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu med
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:'
-image: "/assets/images/polar.20.jpg"
+image: "/assets/images/polar.20_hvit.jpg"
 image_caption: ''
 categories:
 - _category/båt.md
