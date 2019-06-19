@@ -5,19 +5,19 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Penger, bank og nett?
-excerpt: ''
+excerpt: 'Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innbrudd
+  på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det.
+  Trusselbildet endrer seg stadig.'
 image: "/assets/images/katt.jpg"
 image_caption: "Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan
   hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.\n\n"
 categories:
 - _category/fritid.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
-
-**PC-bruker oppdager ikke**  
-Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innbrudd på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det. Trusselbildet endrer seg stadig.
+**PC-bruker oppdager ikke**
 
 Datakriminalitet kalles på fagspråket "botnet" som står for robotnett. Eksempel på dette er når en kriminell styrer et stort antall "leiesoldater" som styrer andres datamaskiner. Opp mot 100 000 datamaskiner kan fjernstyres anonymt. Den enkelte maskin tappes for prosessorkraft. Virusvariantene forandrer seg så fort at antivirusprogrammene alltid er på etterskudd.
 
@@ -39,14 +39,14 @@ Vips brukere er også utsatt for svindel. Kriminelle ligger hele tiden litt fora
 **Bankene skyver risikoen over på kundene**  
 Utviklingen i baknæringen går i retning av å skyve risikoen over på kundene. Bruker du brevgiro er det bankenes betalingssentral som har det fulle og hele ansvaret for å sjekke at din underskrift er rett og at de beløp som tastes er rett.
 
-Ved nettbank sitter du selv med hele ansvaret og bevisbyrden om noen knekker koden din. Eller om du taster en null for mye når du betaler regningen i nettbanken.   
-  
+Ved nettbank sitter du selv med hele ansvaret og bevisbyrden om noen knekker koden din. Eller om du taster en null for mye når du betaler regningen i nettbanken.
+
 Det samme var tilfelle da bankene sluttet med å tilby kundene sjekkhefte: En forfalsket sjekk hadde banken det fulle og hele ansvaret for å kontrollere at var ekte. Som kunde var du skadefri om noen forfalsket din signatur.
 
 Når betalingskortene kom ble det i prinsippet kundenes ansvar om koden knekkes og kriminelle forsyner seg av din konto. Kunden sitter hele tiden med bevisbyrden når noe går galt med betalingskort.
 
 Ved prisingen av betalingstjeneseter styrer bankene nå ditt valg av betalingstjenester over på systemer som gir bankene de største fordelene.  
 \- Sjekkhefter er priset ut eller finnes ikke i de fleste banker.  
-\- Brevgiro prises nå høyere og høyere.  
-  
+\- Brevgiro prises nå høyere og høyere.
+
 Tenk først og fremst på din sikkerhet når nye tilbud om betalingssystemer introduseres. Det reklameres alltid med fordelene: Ulempene må du lete nøyere etter eller smertelig erfare. Undersøk vilkårene - særlig den delen som er med petitskrift.
