@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
 - _posts/2019-06-19-test-nikon.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
