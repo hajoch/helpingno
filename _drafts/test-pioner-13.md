@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Bruktbåttest: Hansvik 18 HT med 40 hk Yamaha:'
-excerpt: ''
+excerpt: Dette er en båt med god plass. Den er lettdrevet og gjør god fart med relativt
+  små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig og trenger
+  en opprusting som nybåt i salg i dag.
 image: "/assets/images/hansvik.18.jpg"
 image_caption: ''
 categories: []
@@ -13,16 +15,7 @@ publish_date:
 weight: 
 
 ---
-5 sesonger med Hansvik 18 HT:
-
-Romlig og fornuftig 18 foter
-
-**Av:** [**Gunnar Christensen**](http://helping.no/gunnar.htm)
-
-**Dette er en båt med god plass. Den er lettdrevet og gjør god fart med relativt små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig og trenger en opprusting som nybåt i salg i dag.**
-
-Båt og motor gies poeng med antall sol-tegn.  
-Best poeng er 5 soltegn:![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12)![](http://helping.no/kule.jpg =12x12) - dårligst 1 soltegn.
+5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter
 
 **Fakta om Hansvik 18 HT**
 
