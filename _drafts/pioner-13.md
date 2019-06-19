@@ -9,7 +9,7 @@ excerpt: Dette er en solid og trygg båt å slippe barna ut i med en liten påhe
   Kommer du opp i motorer over 8 hk får du problemer med at båten spruter. Du blir
   søkk våt når sjø og vind kommer inn fra baugen eller siden.
 image: "/assets/images/pioner.13.jpg"
-image_caption: ''
+image_caption: Foto Oi
 categories: []
 publish_date: 
 weight: 
