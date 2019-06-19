@@ -2,21 +2,21 @@
 layout: post
 date: 2019-06-19 10:04:26 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/ole-t-moy.md
 tags: []
 title: 'Bruktbil: BMW X5: Fantastisk bil'
-excerpt: ''
+excerpt: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje verdens
+  beste dieselmaskin?
 image: "/assets/images/bmwx5.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
-  
-**Test av: Ole T. Moy**
 
-**Dette er en fantastisk bil. En behagelig SUV med 211 hk diesel, men motoren er litt treg for denne bilen vekten tatt i betraktning. Dog ligger kjøreopplevelsen på den komfortable siden. Bilen er retningsstabil, fast og fin. Klimaanlegget virker bra. Rattet er godt å holde i. Med "activ drive" trenger man ikke så stort utslag på rattet for å ta svingene. Dette er et fin funksjon på svingete veier.**
+Dette er en fantastisk bil. En behagelig SUV med 211 hk diesel, men motoren er litt treg for denne bilen vekten tatt i betraktning. Dog ligger kjøreopplevelsen på den komfortable siden. Bilen er retningsstabil, fast og fin. Klimaanlegget virker bra. Rattet er godt å holde i. Med "aktiv drive" trenger man ikke så stort utslag på rattet for å ta svingene. Dette er et fin funksjon på svingete veier.
 
 En ny 7-trinns girkasse på automatgiret føles nesten som trinnløst gir slik at man knapt merker når bilen girer. Akselerasjonen skjer behagelig og kraftig i et jevnt trøkk hvilket er kvalitet.
 
