@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-18 11:19:06 +0200
+date: 2019-06-18T09:19:06.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -74,10 +74,6 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 \- Er Buddy og Standly fremdeles med på laget?  
 \- I dag er både Buddy og Stanley døde. De er hos sine forfedre.
 
-![](/assets/images/liselyseggen3.jpg)![](/assets/images/liselyseggen3.jpg)
-
-Foto Gunnar Christensen i intervju med Lise Lyseggen
-
 **Jobber som "medisinmann"**  
 \- De siste 15 årne har jeg samarbeidet med en annen sjaman som heter Stan. Jeg er alltid med Stan som "medisinkvinne" særlig under "Sun Dance" som blir holdt rundt i reservatet engang i året på forskjellige steder under forskjellige klanledere. En Sun Dance er veldig spesiell. Den varer i 4 dager fra solen går opp til den går ned, Dette er noe som få hvite får være med på. Med "Sun Dance" holder indianerne flere hundre års tradisjoner ved like.
 
@@ -85,3 +81,20 @@ Foto Gunnar Christensen i intervju med Lise Lyseggen
 
 Lise drar siste draget ut av sneipen, stumper den bestemt i askebegeret og blåser røyken sidelengs ut:  
 \- Jeg reiser alltid tilbake.
+
+  
+Lise Lyseggens nettsider:
+
+**Sioux-hjelpen:**  
+Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
+[siouxsoul.no](http://siouxsoul.no/)
+
+Grasrotandel i Norsk tipping:  
+Sioux Soul org nr 911899272.
+
+**Facebook**
+
+[www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)
+
+**E-post:**  
+[Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
