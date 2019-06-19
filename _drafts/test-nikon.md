@@ -4,32 +4,25 @@ date: 2019-06-19 21:08:03 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: 'Test: Nikon'
-excerpt: ''
+title: 'Test: Nikon digitalt speilrefleks'
+excerpt: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for langtidstest.
+  Mange av bildene våre er tatt med disse testkameraene. Et ypperlig kamera sett i
+  forhold til prisen.
 image: "/assets/images/nikondk1.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto GC
+categories:
+- _category/foto.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
-Test digitalt speilrefleks:  
-Nikons bestselger
-
-| --- |
-|  |
-
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)  
-  
-**Nikons bestselgene digitale speilrefleks-kamarahus heter nå Nikon D3500. Vil du spare to tusen så kjøp heller modell D3400. Den kommer også med et mer kompakt 18-55 m.m. standardobjektiv enn det vi tester her.**
-
-Helping.no har Nikon D3100 og D3200 for langtidstest. Bildene i denne artikkelen er tatt med testkameraet D3100. Vi har flere års erfaring med D3000 serien som er et ypperlig kamera.
+Nikons bestselgene digitale speilrefleks-kamarahus heter nå Nikon D3500. Vil du spare to tusen så kjøp heller modell D3400. Den kommer også med et mer kompakt 18-55 m.m. standardobjektiv enn det vi tester her.
 
 **Test pakketilbud**  
 Fotopressen har klaget på zoom-objektivet som følger med i denne "pakken" (Nikkor 18-55 f. 3,5-5,6) og hevdet at dette kamerahuset fortjener et bedre objektiv. I denne testen anser vi imidlertid objektiv og kamerahus som en enhet. Dette fordi dette markedsføres som et samlet pakketilbud til "folk flest" i Norge. Det eneste vi ekstra monterer på utstyret er skylight/UV-filter og en solblender. I tillegg tester vi Nikkor 18-105 f.3,5-4,5 med original solblender som tilleggsutstyr.
 
 **Nikon sa NEI**  
- **Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pressedemoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.**
+**Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pressedemoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.**
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
@@ -83,8 +76,8 @@ Vi har valgt en gummisolblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilb
 | --- |
 |  |
 
-**Helping hjelper deg med Nikon-modellene**  
-  
+**Helping hjelper deg med Nikon-modellene**
+
 **De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine.** **Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.**
 
 På spørsmål til Nikon Norge om en modellorientering svarer  
@@ -102,7 +95,7 @@ D7000. 7100 osv. til 750 .. er alle entuiast kameraer.**
 **![](http://www.helping.no/blinkendekule.gif =13x13)D100, D200, D300,D300s, D600, D610,  
 D800,D800E ... D850 er alle semi pro/pro kameraer.**
 
-**![](http://www.helping.no/blinkendekule.gif =13x13) D700, D1, D1H, D1Hs, D1x, D2X, D2Xs, D2Hs, D3, D3s, D3x, D4, D5   
+**![](http://www.helping.no/blinkendekule.gif =13x13) D700, D1, D1H, D1Hs, D1x, D2X, D2Xs, D2Hs, D3, D3s, D3x, D4, D5  
 D6 osv. er alle profesjonelle kameraer.**
 
 **![](http://www.helping.no/blinkendekule.gif =13x13) Nikon full-frame speilfri Z6 , Z7**
