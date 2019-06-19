@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-19 10:11:09 +0200
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/ole-t-moy.md
 tags: []
 title: BMW 530 XD Touring 4 WD 2008 modell
 excerpt: |-
@@ -14,10 +14,11 @@ excerpt: |-
   6 trinns automat girkasse
   4 WD: permanent i hhv 60% og 40 % bak og foran
 image: "/assets/images/bmwo3.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto Ole T. Moy
+categories:
+- _category/bil.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
