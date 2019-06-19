@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/test-3-sesonger-med-polar-20-en-kosebåt.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-dp425-med-selvlens-og-innerliner.md
 - '_posts/2019-06-19-Brukttest: Hansvik 18 HT..md'
 - _posts/2019-06-19-pioner-13.md
