@@ -22,7 +22,7 @@ Nikons bestselgene digitale speilrefleks-kamarahus heter nå Nikon D3500. Vil du
 Fotopressen har klaget på zoom-objektivet som følger med i denne "pakken" (Nikkor 18-55 f. 3,5-5,6) og hevdet at dette kamerahuset fortjener et bedre objektiv. I denne testen anser vi imidlertid objektiv og kamerahus som en enhet. Dette fordi dette markedsføres som et samlet pakketilbud til "folk flest" i Norge. Det eneste vi ekstra monterer på utstyret er skylight/UV-filter og en solblender. I tillegg tester vi Nikkor 18-105 f.3,5-4,5 med original solblender som tilleggsutstyr.
 
 **Nikon sa NEI**  
-**Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pressedemoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.**
+Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pressedemoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
@@ -72,16 +72,12 @@ På spørsmål til Nikon Norge om en modellorientering svarer
 
 **Oversikt over de tidligste digitale Nikon speilrefleks-modellene;**
 
-**![](http://www.helping.no/blinkendekule.gif =13x13) D40, D40x, D50, D60, D3000, D3100, D3200, D3300, D3400, D3500....**  
-**er alle "entry level" kameraer for nybegynnere.**
-
-**![](http://www.helping.no/blinkendekule.gif =13x13) D70, D70s, D80, D90, D5000, D5100, D5200, D5300, D5400, D5500, D5600.......  
-D7000. 7100 osv. til 750 .. er alle entuiast kameraer.**
-
-**![](http://www.helping.no/blinkendekule.gif =13x13)D100, D200, D300,D300s, D600, D610,  
-D800,D800E ... D850 er alle semi pro/pro kameraer.**
-
-**![](http://www.helping.no/blinkendekule.gif =13x13) D700, D1, D1H, D1Hs, D1x, D2X, D2Xs, D2Hs, D3, D3s, D3x, D4, D5  
-D6 osv. er alle profesjonelle kameraer.**
-
-**![](http://www.helping.no/blinkendekule.gif =13x13) Nikon full-frame speilfri Z6 , Z7**
+* D40, D40x, D50, D60, D3000, D3100, D3200, D3300, D3400, D3500....  
+  er alle "entry level" kameraer for nybegynnere.
+* D70, D70s, D80, D90, D5000, D5100, D5200, D5300, D5400, D5500, D5600.......  
+  D7000. 7100 osv. til 750 .. er alle entuiast kameraer.
+* D100, D200, D300,D300s, D600, D610,  
+  D800,D800E ... D850 er alle semi pro/pro kameraer.
+* D700, D1, D1H, D1Hs, D1x, D2X, D2Xs, D2Hs, D3, D3s, D3x, D4, D5  
+  D6 osv. er alle profesjonelle kameraer.
+* Nikon full-frame speilfri Z6 , Z7
