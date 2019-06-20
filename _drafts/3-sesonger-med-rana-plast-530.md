@@ -8,7 +8,7 @@ title: 3 sesonger med Rana Plast 530
 excerpt: Dette er en båt med god plass, men med svært enkel innredning. For enkel
   innredning vil mange mene. Mye mer kunne gjøres ut av dette konseptet. Du har følelsen
   av at fabrikanten har tatt en åpen båt og ettermontert dekk, vinduer og noe bedre
-  sittecomfort enn jolla og selger den som daycruiser uten å planelegge særlig mye
+  sittekomfort enn jolla og selger den som daycruiser uten å planlegge særlig mye
   på forhånd.
 image: "/assets/images/r530dc.jpg"
 image_caption: Illustrasjonsfoto Rana Plast
