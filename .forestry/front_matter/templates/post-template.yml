@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/rent-drikkevann.md
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-20-3-sesonger-med-rana-plast-530.md
 - _posts/2019-06-20-14-sesonger-med-pioner-8-barnas-favoritt.md
