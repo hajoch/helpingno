@@ -29,5 +29,4 @@ Det er derfor flott at noen av sjåførene ber passasjerene begrense mobilbruken
 
 Denne testen bygger på et stort antall erfaringer etter regelmessig bruk av begge selskapene så lenge tilbudene har eksistert.
 
-Selskapene gies poeng med antall sol-tegn.  
-Best poeng er 5 soltegn: ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12), dårligst er 1: ![](http://www.helping.no/kule.jpg =12x12)
+Vurdering:
