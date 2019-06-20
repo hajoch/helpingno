@@ -10,7 +10,8 @@ excerpt: |-
 
   Av Gunnar Christensen
 image: "/assets/images/volvoamazon.jpg"
-image_caption: Foto Volvo
+image_caption: Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybillansering
+  av Volvo Amazon.)
 categories:
 - _category/bil.md
 publish_date: 
@@ -50,6 +51,3 @@ Hjemme i Oslo klapper vi Amazonen på panseret etter feilfri langtur. Det eneste
 2-dørs med B20 motor på 82 hk/DIN (90 hk/SAE), manuell girkasse.
 
 Produksjonen varte i 14 år, fra 1956 til 1970. I løpet av denne perioden ble det produsert ca. 670 000 biler.
-
-Bildene er ærlig og redelig  
-stjålet fra Volvos nybillansering av Volvo Amazon og internett
