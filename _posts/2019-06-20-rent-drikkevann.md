@@ -5,7 +5,7 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Rent drikkevann
-excerpt: Vann er det reneste og beste du kan drikke
+excerpt: Rent vann er det beste du kan drikke
 image: "/assets/images/vann.5.gc.jpg"
 image_caption: Foto GC
 categories:
