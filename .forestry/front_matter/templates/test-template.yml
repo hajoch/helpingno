@@ -1,4 +1,12 @@
 ---
 label: Test Template
 hide_body: true
-fields: []
+fields:
+- name: panel
+  type: blocks
+  label: panel
+  template_types:
+  - post-template
+  config:
+    min: 
+    max: 
