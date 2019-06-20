@@ -10,7 +10,7 @@ excerpt: |-
 
   Hva er UFO-religionen og hva er denne religionens trosgrunnlag?
 image: "/assets/images/ufo (1).jpg"
-image_caption: ''
+image_caption: Illustrasjon
 categories:
 - _category/religion.md
 publish_date: 
