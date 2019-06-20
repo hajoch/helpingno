@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Hurricane 370. Drømmebåten
-excerpt: jøpe ekte vare. Piratkopi kan være farlig Ungdomsbåten
+excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjorden:
+  Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
+  båt. Piratkopi kan være farlig "
 image: "/assets/images/hurric-370-a.jpg"
 image_caption: Foto GC. Flere bilder kommer
 categories:
