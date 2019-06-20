@@ -47,3 +47,6 @@ Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God p
 
 **Jesperhus blomsterland på Jylland  
 **Et vakkert blomsteranlegg som gleder voksne mer enn barna: Dette er en fin inspirasjonskilde for alle hageinteresserte. Dog finnes også flere tilbud til barn, særlig de minste. Her finnes vakre rasteplasser for familielunch. Kommer du hit på regnværsdager finnes et innendørs badeanlegg like ved.
+
+**Djurs sommerland på Jylland  
+**Varierende kvalitet: Noe nytt og fint, men også endel slitne innretninger som godt kunne oppgraderes. Ikke den helt store opplevelsen for barna.
