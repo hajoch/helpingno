@@ -59,3 +59,11 @@ Nyinnkjøp av flere nye busser hever nå comfortnivået.
 Da Sørlands-eksprtessen startet var alle sjåførene meget dyktige. Dette har forandret seg noe i senere tid. En fartsbot er observert. Det er en sammenheng mellom kjøreerfaring og norskkunnskaper på servicesiden.
 
 Nettbuss har innført samme system som NSB med plassbestilling og bestilling på nett for å være sikker på å skremme bort de fleste pensjonistene, men også andre grupper. Dette taper Nettbuss på så lenge de konkurrerer mot selskap med plassgaranti.
+
+###### Parkeringsproblemer på Harebakken i Arendal  
+  
+Bilene står tett ved parkeringsplassen for reisende på bussterminalen ved Harebakken utenfor Arendal. Av og til er det ikke parkeringsplass ledig. Da er det bare å ombestemme seg og ta bilen i stedet for bussen inn til Oslo.
+
+Problemet er at denne parkeringsplassen brukes også av bilister som jobber i Arendal sentrum og som unngår parkometeravgift i sentrum ved å samarbeide: Fem bilister avtaler at fire av dem parkerer gratis på Harebakken og spleiser på å betale avgiften for den ene bilen som må parkeres i parkeringshusene i sentrum. Derfor blir det tett med biler på bussterminalens gratisparkering for reisende. Dette til frustrasjon for reisende som ikke lengre er trygge på at der er plass til bilen der man tar bussen.
+
+Hvis dette problemet løses ved parkeringsavgift på bussterminalen vil dette gjøre bussreise mindre attraktivt.
