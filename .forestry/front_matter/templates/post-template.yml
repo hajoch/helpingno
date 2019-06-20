@@ -72,7 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/gaustatoppens-hemmelighetlangt-inni-fjellet.md
+- _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-20-bussduellen-oslo-sørlandet.md
 - _posts/2019-06-20-galdhøpiggens-villreinstamme.md
