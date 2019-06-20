@@ -16,18 +16,9 @@ publish_date:
 weight: 
 
 ---
+**Fakta om Pioner 8** |Tekniske data testbåt:Lengde 2,45 mBredde 1,23 mVekt 43 kg | Max last:2 personer tilsammen 165 kg.Max motor 3 hk kort stamme Veritas/CE-godkjent |
 
-**Av:** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
-Båt og motor gies poeng med antall sol-tegn.  
-Best poeng er 5 soltegn:![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12) - dårligst 1 soltegn.
-
-**Fakta om Pioner 8**
-
-| --- | --- |
-| Tekniske data testbåt:Lengde 2,45 mBredde 1,23 mVekt 43 kg | Max last:2 personer tilsammen 165 kg.Max motor 3 hk kort stamme Veritas/CE-godkjent |
-
-**Båt:** ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)
+**Båt:** 
 
 Jolla har en utrolig god flyteevne og er det sikreste i denne størrelsen du kan slippe barna ut på sjøen i.
 
