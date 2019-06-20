@@ -58,17 +58,3 @@ For oss forbrukere er det en frustrerende utvikling at produsenter med gode prod
 Osa-kildevann er nå stort sett borte fra konsumentmarkedet og Jotunheimen fra Utla kjeldevann AS er i den senere tid også blitt vanskeligere å finne i butikkhyllene.
 
 I denne sammenheng kan vi som forbrukere spørre etter de produktene vi savner i butikkene. Slik påvirker vi innkjøpene der vi kjøper våre varer. Slik kan vi gjøre noe aktivt for å forhindre at noen få store leverandører tar over hele markedet og fratar oss flere valgmuligheter.
-
-| --- |
-| Olden Hansa, Bergen www.olden.no |
-|  | Jotunheimen kildevann Utla Kjeldevann AS, Øvre Ådal. |
-|  | Osa-kildevann |
-|  | Isklar Tappet i Hardager av Isklar AS, 5773 Hovland |
-|  | Telemark Telemark Kildevann AS |
-|  | Vann uten kullsyre Euroshopper/ICA |
-|  | Taffel, Gran Grans Bryggeri |
-|  | Bonaqua uten kulsyreprod. for Coca Cola Norge: Telemark Kildevann AS |
-|  | Fyresdal mineralvann uten kullsyre Telemark Kildevann AS |
-|  | Best www.bestwater.no |
-|  | Imsdal Ringnes Bryggeri |
-|  | Bare vann Reitangruppen AS |
