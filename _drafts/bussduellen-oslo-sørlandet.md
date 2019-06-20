@@ -7,10 +7,11 @@ tags: []
 title: 'Bussduellen: Oslo-Sørlandet'
 excerpt: '"Underdog" skåret best, men nå har nye Nettbuss oppgradert bussene.'
 image: "/assets/images/buss.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto GC
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 Busstrafikken mellom Sørlandet og Oslo har tatt av og "stjålet" mange kunder fra toget og biltrafikken. Kystruten sjøveien er for lengst historie. Det største volumet passasjerer tar bussene og her er flere aktører.
