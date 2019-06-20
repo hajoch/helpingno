@@ -5,12 +5,9 @@ crop_image: true
 author: ''
 tags: []
 title: 'Sommeren 1977: Elvis Presley og Volvo Amazon'
-excerpt: "- Grattis med ny bil! Studiekompisen lar blikket gli over interiøret gjennom
-  bilvinduet.Jeg svarer:- Ikke helt ny, men ny nok for en fattig student. Hopp inn!
-  Kompisen lar seg ikke be to ganger. Hopper inn, kjenner godt etter sittekomforten
-  og bemerker.- Deilige seter. Med regulerbar korsryggstøtte til og med. Fin gulfarge
-  og. Gratulerer med nygammel bil da. Den ser jo veldig bra ut.- Høres ut som du er
-  klar for en prøvetur?- Yepp, you said it!"
+excerpt: |-
+  - Grattis med ny bil! Studiekompisen lar blikket gli over interiøret gjennom bilvinduet.Jeg svarer:- Ikke helt ny, men ny nok for en fattig student. Hopp inn! Kompisen lar seg ikke be to ganger. Hopper inn, kjenner godt etter sittekomforten og bemerker.- Deilige seter. Med regulerbar korsryggstøtte til og med. Fin gulfarge og. Gratulerer med nygammel bil da. Den ser jo veldig bra ut.- Høres ut som du er klar for en prøvetur?- Yepp, you said it!
+  Av Gunnar Christensen
 image: "/assets/images/volvoamazon.jpg"
 image_caption: Foto Volvo
 categories:
