@@ -12,21 +12,21 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
 **Utgitt bøkene:**
 
-* "Styrkeprøven" 1996 
-* "Skandalebøkene i Ungdomsskolen" 2004 
-* "Aima" 2006  
-    
+* "Styrkeprøven" 1996
+* "Skandalebøkene i Ungdomsskolen" 2004
+* "Aima" 2006
+
   [Presseomtaler](http://www.helping.no/presse.htm)
 
 **Yrkesbakgrunn**  
-Pedagogisk praksis som lærer i barne- og ungdomsskolen   
+Pedagogisk praksis som lærer i barne- og ungdomsskolen  
 samt foreleser ved Norsk Folkeakademi.
 
-**Pressebakgrunn** bl.a. fra VG, Morgenavisen m.fl..   
+**Pressebakgrunn** bl.a. fra VG, Morgenavisen m.fl..  
 Redaktør og gründer i www.helping.no.
 
-**Barnebok  
-**["Aima"](http://www.helping.no/aima.htm)  
+\**Barnebok  
+\**["Aima"](http://www.helping.no/aima.htm)  
 Utgitt 2006
 
 **Roman**  
@@ -42,7 +42,7 @@ Institutt for sosiologi,
 Universitetet i Oslo 1978.
 
 "Fremmede religioner i Ungdomsskolen."  
- Kristiansand Lærerhøgskole 1978.
+Kristiansand Lærerhøgskole 1978.
 
 "[Fremmede religioner i ungdomsskolens lærebøker](http://www.helping.no/religioner2.htm)".  
 Religionshistorisk institutt  
@@ -54,16 +54,15 @@ Utgitt 2004
 
 **Utredninger:**  
 "Profilering av NVE.  
-Om informasjonstjeneste og markedsføringstiltak."   
-NVE Oslo 1983  
-  
-  
+Om informasjonstjeneste og markedsføringstiltak."  
+NVE Oslo 1983
+
 **Små tekster/ Noveller**
 
 * [Nazima](http://www.helping.no/nazima.htm)  
   www.helping.no 2001
 * [Jolla](http://www.helping.no/jolla.htm)  
-  www.helping.no 2002 
+  www.helping.no 2002
 * [Hva er Gud?  
   ](http://www.helping.no/gud.html) www.helping.no 2017
 
@@ -71,12 +70,12 @@ NVE Oslo 1983
 
 ### Hvorfor gratis bøker?
 
-Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel.  
-  
- Forfatteren vil helst bli lest så lenge som mulig etter utgivelsen.   
-  
-De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med småforlag.   
-  
+Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen ofte av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel.
+
+Forfattere vil helst bli lest så lenge som mulig etter utgivelsen.
+
+De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av forlagenes rettigheter. Slik er det ikke alltid med noen småforlag.
+
 Dette systemet gjør at du går glipp av mange flotte bøker.
 
 **![](http://www.helping.no/gul2.jpg =150x5)**
