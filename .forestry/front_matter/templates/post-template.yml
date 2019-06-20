@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/galdhøpiggens-villreinstamme.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-20-står-ufo-religionen-bak-menneskekloning-ny-religion-med-økende-tilhengerskare.md
 - _posts/2019-06-19-nazima.md
