@@ -44,3 +44,6 @@ Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God p
 
 **Legoland, Billund  
 **Legoland er den absolutt beste fritidspark i Danmark. På mange måter er Legoland et kvalitativt høydepunkt for barna fordi tilbudet her er så variert, mangfoldig og særegent. Her er mye opplevelser for barna. Ulempen med Legoland er at så mange vil dit. Det blir lett lange, svette køer i sommersesongen.
+
+**Jesperhus blomsterland på Jylland  
+**Et vakkert blomsteranlegg som gleder voksne mer enn barna: Dette er en fin inspirasjonskilde for alle hageinteresserte. Dog finnes også flere tilbud til barn, særlig de minste. Her finnes vakre rasteplasser for familielunch. Kommer du hit på regnværsdager finnes et innendørs badeanlegg like ved.
