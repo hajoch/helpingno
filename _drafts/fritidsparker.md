@@ -35,3 +35,6 @@ Vil du se den ekte Il Tempo Gigante og bli kjent med norske folkeeventyr i Ivo K
 
 **Fårup Sommerland på N-Jylland**  
 Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God plass både inne på anlegget og ute på parkeringsplassene. Dette er ofte første høydepunkt for barna på Danmarksturen og flere besøk hit kommer raskt på ønskelisten.
+
+**Tivoli i Aalborg  
+**Dette er et tradisjonsrikt lite tivoli som er avgrenset til et kvartal i byen. Sammenliknet med mange andre fornøyelsesparker virker dette lite og avgrenset med begrensede muligheter. For foreldre kan det likevel være et koselig gjensyn med bardomsminner selv om anlegget nå blekner ved siden av andre og nyere fritidsparker.
