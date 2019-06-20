@@ -7,7 +7,7 @@ tags: []
 title: Hurricane 370. Drømmebåten
 excerpt: jøpe ekte vare. Piratkopi kan være farlig Ungdomsbåten
 image: "/assets/images/hurric-370-a.jpg"
-image_caption: Foto GC
+image_caption: Foto GC. Flere bilder kommer
 categories:
 - _category/leserinnlegg.md
 publish_date: 
