@@ -9,7 +9,7 @@ excerpt: Din guide til de beste fritids-og familieparkene i Skandinavia. Fritids
   i Norge, Danmark og Sverige. Det legges vekt på barnevennlighet, tilpasning for
   hele familien, tilgjengelighet og totalinntrykk.
 image: "/assets/images/hunderfossen.jpg"
-image_caption: Foto Gunnar Christensen motiv fra Hunderfossen
+image_caption: Foto Gunnar Christensen motiv fra Trollet i Hunderfossen
 categories:
 - _category/fritid.md
 publish_date: 
