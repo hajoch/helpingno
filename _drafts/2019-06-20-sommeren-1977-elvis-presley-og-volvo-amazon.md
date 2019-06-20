@@ -10,8 +10,10 @@ excerpt: |-
 
   Av Gunnar Christensen
 image: "/assets/images/volvoamazon.jpg"
-image_caption: Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybillansering
-  av Volvo Amazon.)
+image_caption: |-
+  Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybillansering av Volvo Amazon.)
+
+  Tekst Gunnar Christensen
 categories:
 - _category/bil.md
 publish_date: 
