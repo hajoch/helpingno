@@ -29,4 +29,18 @@ Det er derfor flott at noen av sjåførene ber passasjerene begrense mobilbruken
 
 Denne testen bygger på et stort antall erfaringer etter regelmessig bruk av begge selskapene så lenge tilbudene har eksistert.
 
-Vurdering:
+Vurdering: [**konkurrenten.no**](http://www.konkurrenten.no/)  
+Det eneste selskapet med plassgaranti
+
+**Punktlighet**  
+Bussene holder ruta meget bra. Er der forsinkelser så er det oftest, omkjøringer, trafikkproblemer eller andre årsaker som sjåførene ikke er herre over.
+
+Korresponderer og har avgang/påstigning ved Kielferga i Oslo. Dette fungerte ikke når vi testet det fordi bussen som henter på fergekaia ikke alltid er godt nok merket (innleid buss med annen farge) og parkerer annet sted ved avgang enn ved adkomst.  
+  
+**Komfort**  
+ 4-stjerners turistbusser med behagelige seter, god beinplass, air-condition som gir jevn og fin varme uten at det "trekker". Men havner du i en av de innleide bussene med navn "Prebens bussreiser" er du garantert iskald trekk som selv sjåførene ikke får regulert bort: I disse bussene er det "forkjølelsegaranti".  
+  
+**Service**  
+De fleste sjåførene er meget dyktige med behagelig kjørestil og meget gode kundebehandlere. Sjåfører som ikke behersker norsk godt nok kan forekomme.
+
+Vurdering: 
