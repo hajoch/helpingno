@@ -7,7 +7,7 @@ tags: []
 title: Rent drikkevann
 excerpt: Vann er det reneste og beste du kan drikke
 image: "/assets/images/vann.5.gc.jpg"
-image_caption: ''
+image_caption: Foto GC
 categories:
 - _category/helse.md
 publish_date: 
