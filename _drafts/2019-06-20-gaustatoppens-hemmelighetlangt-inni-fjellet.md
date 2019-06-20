@@ -47,11 +47,7 @@ neonlys på toppen.
 
 En trapp fører opp til maskinrommet bak en glassvegg. Her skimtes et solid maskineri og en maskinist bak spakene.
 
-Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.
-
-| --- |
-|  |
-
+Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.  
   
 En tunell fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
 
