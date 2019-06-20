@@ -43,4 +43,19 @@ Korresponderer og har avgang/påstigning ved Kielferga i Oslo. Dette fungerte ik
 **Service**  
 De fleste sjåførene er meget dyktige med behagelig kjørestil og meget gode kundebehandlere. Sjåfører som ikke behersker norsk godt nok kan forekomme.
 
-Vurdering: 
+Vurdering: [**Nettbuss**](http://www.nettbuss.no/rutetilbud/ekspressbuss/nettbuss-express/-nx190-kristiansand-drammen-oslo)
+
+**Punktlighet**  
+Bussene holder ruta meget bra. Er der forsinkelser så er det oftest, omkjøringer, trafikkproblemer eller andre årsaker som sjåførene ikke er herre over.  
+  
+**Komfort**  
+Ulike busstyper med forskjellig komfort. De fleste bussene er nå nyere med god komfort, men de gamle har fremdeles en kald trekk i kupeen som kan være ubehagelig og som i verste fall kan gi en forkjølelse: Nettbuss-sjåfører må skjerpe seg på aicondition her er kald trekk snarere regelen enn unntaket.
+
+Nyinnkjøp av flere nye busser hever nå comfortnivået.  
+  
+**Service**  
+ De fleste sjåførene er dyktige med behagelig kjørestil og meget gode kundebehandlere.
+
+Da Sørlands-eksprtessen startet var alle sjåførene meget dyktige. Dette har forandret seg noe i senere tid. En fartsbot er observert. Det er en sammenheng mellom kjøreerfaring og norskkunnskaper på servicesiden.
+
+Nettbuss har innført samme system som NSB med plassbestilling og bestilling på nett for å være sikker på å skremme bort de fleste pensjonistene, men også andre grupper. Dette taper Nettbuss på så lenge de konkurrerer mot selskap med plassgaranti.
