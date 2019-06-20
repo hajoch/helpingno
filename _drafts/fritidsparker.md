@@ -31,7 +31,7 @@ Bø sommerland er først og fremst badeland. Dermed er sesongen kort og prisgitt
 **Hunderfossen**  
 Vil du se den ekte Il Tempo Gigante og bli kjent med norske folkeeventyr i Ivo Kaprinos ånd er dette stedet. I tillegg et lite tivoli. Parken er ikke stor: Det trekker ned at inngangsbilletten er forholdsvis dyr og den har vært det siden parken åpnet. Parken er mest tilrettelagt for de minste. Tenåringer kjeder seg her.
 
-Danmark
+#### Danmark
 
 **Fårup Sommerland på N-Jylland**  
 Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God plass både inne på anlegget og ute på parkeringsplassene. Dette er ofte første høydepunkt for barna på Danmarksturen og flere besøk hit kommer raskt på ønskelisten.
