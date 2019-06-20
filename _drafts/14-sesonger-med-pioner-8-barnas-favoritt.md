@@ -36,4 +36,7 @@ Båten er nå videreutviklet til nyere modelleler med mer moderne linjer.
 Tekniske data testbåt:  
 Lengde 2,45 m  
 Bredde 1,23 m  
-Vekt 43 kg
+Vekt 43 kg  
+Max last:  
+2 personer tilsammen 165 kg.  
+Max motor 3 hk kort stamme Veritas/CE-godkjent
