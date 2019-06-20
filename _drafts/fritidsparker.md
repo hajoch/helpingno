@@ -26,3 +26,6 @@ Tusenfryd ved Oslo ligger i bratt østvendt terreng. De fleste hovedattraksjonen
 
 **Bø Sommerland**  
 Bø sommerland er først og fremst badeland. Dermed er sesongen kort og prisgitt været. Badelandet ligger i delvis bratt terreng med et lite tivoli og spilleboder øverst. Sirkusforestillinger foregår i et lite telt. Få badeland i Norge kan måle seg med dette tilbudet for de badelystne i alle aldere.
+
+**Hunderfossen**  
+Vil du se den ekte Il Tempo Gigante og bli kjent med norske folkeeventyr i Ivo Kaprinos ånd er dette stedet. I tillegg et lite tivoli. Parken er ikke stor: Det trekker ned at inngangsbilletten er forholdsvis dyr og den har vært det siden parken åpnet. Parken er mest tilrettelagt for de minste. Tenåringer kjeder seg her.
