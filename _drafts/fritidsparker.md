@@ -38,3 +38,6 @@ Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God p
 
 **Tivoli i Aalborg  
 **Dette er et tradisjonsrikt lite tivoli som er avgrenset til et kvartal i byen. Sammenliknet med mange andre fornøyelsesparker virker dette lite og avgrenset med begrensede muligheter. For foreldre kan det likevel være et koselig gjensyn med bardomsminner selv om anlegget nå blekner ved siden av andre og nyere fritidsparker.
+
+**Tivoli i København  
+**En opplevelse av en fornøyelsespark med lange tivoli-tradisjoner og et variert tilbud av interesse for hele familien. En fornem perle for rekreasjon midt i København sentrum.
