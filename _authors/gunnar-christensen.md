@@ -2,7 +2,6 @@
 layout: author
 title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
-published: false
 
 ---
 i [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
