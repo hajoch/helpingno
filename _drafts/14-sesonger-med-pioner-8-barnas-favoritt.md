@@ -11,9 +11,10 @@ excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør b
   den går på biltaket hvis du har lastebøyler.
 image: "/assets/images/pioner.8.1.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 **Fakta om Pioner 8** |Tekniske data testbåt:Lengde 2,45 mBredde 1,23 mVekt 43 kg | Max last:2 personer tilsammen 165 kg.Max motor 3 hk kort stamme Veritas/CE-godkjent |
