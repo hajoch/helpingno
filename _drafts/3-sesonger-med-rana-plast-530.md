@@ -18,13 +18,19 @@ publish_date:
 weight: 2
 
 ---
-Brukt: Rana Plast 530 DC  
+Bruktbåt: Rana Plast 530 DC  
 med 40 hk Yamaha.
 
 I tillegg finnes versjoner som bare har påmontert dekk og skjermer og er ellers som jolla innvendig. Dette er stakkarslig innredning.
 
-Fakta om Rana Plast 530 DC
-| Tekniske data testbåt:Lengde 5,30 mBredde 2,00 mVekt 350 kg | Max last: 8 personerMax motor 35 hk lang stamme Veritas/CE-godkjent |
+Fakta om Rana Plast 530 DC  
+Tekniske data testbåt:  
+Lengde 5,30 m  
+Bredde 2,00 m  
+Vekt 350 kg
+Max last: 8 personer  
+Max motor 35 hk lang stamme   
+Veritas/CE-godkjent |
 
 Båt
 
