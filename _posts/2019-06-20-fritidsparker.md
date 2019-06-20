@@ -35,20 +35,20 @@ Vil du se den ekte Il Tempo Gigante og bli kjent med norske folkeeventyr i Ivo K
 **Fårup Sommerland på N-Jylland**  
 Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God plass både inne på anlegget og ute på parkeringsplassene. Dette er ofte første høydepunkt for barna på Danmarksturen og flere besøk hit kommer raskt på ønskelisten.
 
-**Tivoli i Aalborg  
-**Dette er et tradisjonsrikt lite tivoli som er avgrenset til et kvartal i byen. Sammenliknet med mange andre fornøyelsesparker virker dette lite og avgrenset med begrensede muligheter. For foreldre kan det likevel være et koselig gjensyn med bardomsminner selv om anlegget nå blekner ved siden av andre og nyere fritidsparker.
+**Tivoli i Aalborg**  
+Dette er et tradisjonsrikt lite tivoli som er avgrenset til et kvartal i byen. Sammenliknet med mange andre fornøyelsesparker virker dette lite og avgrenset med begrensede muligheter. For foreldre kan det likevel være et koselig gjensyn med bardomsminner selv om anlegget nå blekner ved siden av andre og nyere fritidsparker.
 
-**Tivoli i København  
-**En opplevelse av en fornøyelsespark med lange tivoli-tradisjoner og et variert tilbud av interesse for hele familien. En fornem perle for rekreasjon midt i København sentrum.
+**Tivoli i København**  
+En opplevelse av en fornøyelsespark med lange tivoli-tradisjoner og et variert tilbud av interesse for hele familien. En fornem perle for rekreasjon midt i København sentrum.
 
-**Legoland, Billund  
-**Legoland er den absolutt beste fritidspark i Danmark. På mange måter er Legoland et kvalitativt høydepunkt for barna fordi tilbudet her er så variert, mangfoldig og særegent. Her er mye opplevelser for barna. Ulempen med Legoland er at så mange vil dit. Det blir lett lange, svette køer i sommersesongen.
+**Legoland, Billund**  
+Legoland er den absolutt beste fritidspark i Danmark. På mange måter er Legoland et kvalitativt høydepunkt for barna fordi tilbudet her er så variert, mangfoldig og særegent. Her er mye opplevelser for barna. Ulempen med Legoland er at så mange vil dit. Det blir lett lange, svette køer i sommersesongen.
 
-**Jesperhus blomsterland på Jylland  
-**Et vakkert blomsteranlegg som gleder voksne mer enn barna: Dette er en fin inspirasjonskilde for alle hageinteresserte. Dog finnes også flere tilbud til barn, særlig de minste. Her finnes vakre rasteplasser for familielunch. Kommer du hit på regnværsdager finnes et innendørs badeanlegg like ved.
+**Jesperhus blomsterland på Jylland**  
+Et vakkert blomsteranlegg som gleder voksne mer enn barna: Dette er en fin inspirasjonskilde for alle hageinteresserte. Dog finnes også flere tilbud til barn, særlig de minste. Her finnes vakre rasteplasser for familielunch. Kommer du hit på regnværsdager finnes et innendørs badeanlegg like ved.
 
-**Djurs sommerland på Jylland  
-**Varierende kvalitet: Noe nytt og fint, men også endel slitne innretninger som godt kunne oppgraderes. Ikke den helt store opplevelsen for barna.
+**Djurs sommerland på Jylland**  
+Varierende kvalitet: Noe nytt og fint, men også endel slitne innretninger som godt kunne oppgraderes. Ikke den helt store opplevelsen for barna.
 
 #### Sverige
 
@@ -57,10 +57,10 @@ Mange familier kommer til Astrid Lindgrensenteret i Sverige med store forventnin
 
 Men om du likevel tar turen så unn deg et stopp på Kathult, gården der Emil-filmene ble innspilt. Den ligger en liten kjøretur unna Vimmerby. Selvom gården ikke lengre er så godt vedlikeholdt som den var i filmene, så er dette en liten idyll vel verd besøket for barna som straks kjenner igjen både snekkerboden og utedoen. Her får barna også kjøpt seg både "byssa" og "myssa" i ekte Emil-stil.
 
-**Skara Sommerland, Skara  
-**Sliten og middelmådig fritidspark der vedlikeholdet var så som så. Et dårlig tilbud sammenliknet med de fleste danske fritidsparkene.
+**Skara Sommerland, Skara**  
+Sliten og middelmådig fritidspark der vedlikeholdet var så som så. Et dårlig tilbud sammenliknet med de fleste danske fritidsparkene.
 
-**Liseberg, Gøteborg  
-**Dette er mer tivoli enn fritidspark og minner sånn sett mye om en større versjon av Tusenfryd i Norge m.h.p. tilbudet. Liseberg har imidlertid betydelig lengre tradisjoner som tivoli og har mye variert å by på.
+**Liseberg, Gøteborg**  
+Dette er mer tivoli enn fritidspark og minner sånn sett mye om en større versjon av Tusenfryd i Norge m.h.p. tilbudet. Liseberg har imidlertid betydelig lengre tradisjoner som tivoli og har mye variert å by på.
 
 Liseberg har opp gjennom årne hatt en rekke ulykker med alvorlige personskader bl.a. den 14 juli 2008. Det er derfor spørsmål om denne fritidsparken tar sikkerhet på alvor eller som denne type underholdning har større ulykkesrisiko.
