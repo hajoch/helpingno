@@ -4,7 +4,7 @@ date: 2019-06-20 12:43:04 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Gaustatoppens hemmelighetLangt inni fjellet.....
+title: Gaustatoppens hemmelighet. Langt inni fjellet.....
 excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
   i fjellet til den store attraksjonen.
 image: "/assets/images/gausta2.jpg"
