@@ -50,3 +50,10 @@ Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God p
 
 **Djurs sommerland på Jylland  
 **Varierende kvalitet: Noe nytt og fint, men også endel slitne innretninger som godt kunne oppgraderes. Ikke den helt store opplevelsen for barna.
+
+#### Sverige
+
+**Astrid Lindgrensentere**  
+Mange familier kommer til Astrid Lindgrensenteret i Sverige med store forventninger og det med god grunn: Både bøkene og filmene om Emil, Pippi og alle de andre kjente og kjære Lindgren-figurene er i toppklasse. Derfor blir besøket på Lindgrensenteret en gedigen nedtur. Her er det gjort lite annet enn å sette opp noen miniatyrhus og et lite museum samt litt skuespilleropptreden av lokale krefter i sommersesongen. Dette føyer seg inn i rekkene av mange svenske fritidstilbud som er både nedslitt og direkte dårlig laget.
+
+Men om du likevel tar turen så unn deg et stopp på Kathult, gården der Emil-filmene ble innspilt. Den ligger en liten kjøretur unna Vimmerby. Selvom gården ikke lengre er så godt vedlikeholdt som den var i filmene, så er dette en liten idyll vel verd besøket for barna som straks kjenner igjen både snekkerboden og utedoen. Her får barna også kjøpt seg både "byssa" og "myssa" i ekte Emil-stil.
