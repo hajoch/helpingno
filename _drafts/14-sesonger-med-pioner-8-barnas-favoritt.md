@@ -32,3 +32,8 @@ I utgangspunktet ble båten kjøpt inn med en 3,3 hk Johnson. Denne motoren star
 Som rojolle er Pioner 8 et funn: To barn går lett i båten uten at den blir baktung. Er bana små, går også tre ombord uten problemer. To voksne er det verre med. Det blir i trangeste laget og jolla blir lett baktung. En voksen alene kan oppleve flotte trimturer i denne båten. Og så er den lett og fin å dra opp på stranden.
 
 Båten er nå videreutviklet til nyere modelleler med mer moderne linjer.
+
+Tekniske data testbåt:  
+Lengde 2,45 m  
+Bredde 1,23 m  
+Vekt 43 kg
