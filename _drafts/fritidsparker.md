@@ -5,10 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Fritidsparker
-excerpt: |-
-  Din guide til de beste fritids-og familieparkene i Skandinavia.
-
-  Fritidsparkene i Norge, Danmark og Sverige.Det legges vekt på barnevennlighet, tilpasning for hele familien, tilgjengelighet og totalinntrykk.
+excerpt: Din guide til de beste fritids-og familieparkene i Skandinavia. Fritidsparkene
+  i Norge, Danmark og Sverige. Det legges vekt på barnevennlighet, tilpasning for
+  hele familien, tilgjengelighet og totalinntrykk.
 image: "/assets/images/hunderfossen.jpg"
 image_caption: Foto Gunnar Christensen motiv fra Hunderfossen
 categories:
