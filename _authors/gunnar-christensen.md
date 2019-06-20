@@ -2,6 +2,7 @@
 layout: author
 title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
+published: false
 
 ---
 i [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
@@ -78,4 +79,4 @@ De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn a
   
 Dette systemet gjør at du går glipp av mange flotte bøker.
 
-**![](http://www.helping.no/gul2.jpg =150x5)**  
+**![](http://www.helping.no/gul2.jpg =150x5)**
