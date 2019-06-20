@@ -51,3 +51,5 @@ To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha** 9,9 
 Yamaha 9,9hk er en driftssikker og solid motor i 2-taktversjon. Mer populær enn Yamahas 4-takter hos de unge. Dette har sammenheng med at motoren kan trimmes til15 hk ved et mindre inngrep hos forhandler. På sjøen er det 16-årsgrense på båter over 10 hk. Og da er det viktig at det står 9,9 på dekselet og ikke 15. Derfor er 9,9 storselgeren, mens 15 hk som egentlig er samme motoren selger dårligere.
 
 Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at det på noen båter kan bli problemer med å tilte opp motoren med styrestaket på - men ikke på vår versjon. Men der er trangt. Videre er det litt plundrete å få plassert originaltanken til motoren i Hurricaneversjonen på en stødig måte under dekk ved motoren på grunn av båtens forsterkninger av skroget.
+
+Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha på en liten kalesje for å holde den tørr. Da blir båten tett og klarer seg gjennom regnvær uten problemer.
