@@ -19,12 +19,6 @@ publish_date:
 weight: 
 
 ---
-
-| --- |
-|  |
-
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
 Sommeren er i støtet og frister til biltur ut av byen. Vi svinger ut av Oslo sydover E6 i min lysegule Volvo Amazon med lys brune seter og interiør i skystoff. Bilradioen har til og med noe så moderne som en kassettspiller og en ladning kassetter ligger spilleklare i dashbordet.
 
 Motoren er virkelig en flott opplevelse. B20 har kraft og er seig. Noe helt annet enn B16 jeg hadde i PVen - min første bil. Sylindervolum 1986 cm³ og bedre forgasser gjør susen og gir hele 82 spreke hestekrefter. Dreiemomentet er merkbart bedre enn i en eldre Volvo. Fortsatt lang girstang er jo kult og behagelig i bruk. To krets bremsesystem som på nye 140-serien og B20-merke i grillen fremfor Volvo-logoen.
@@ -53,11 +47,10 @@ Turen går videre langs den svenske østkysten opp mot nord i Finland, tilbake g
 
 Hjemme i Oslo klapper vi Amazonen på panseret etter feilfri langtur. Det eneste den har fått på turen er nye nakkestøtter i forsetene i samme farge som setene. Det oppgrader den til en 1970-modell.
 
-  
 **1969 modell**  
 **Volvo Amazon** 121,  
-2-dørs med B20 motor på 82 hk/DIN (90 hk/SAE), manuell girkasse.  
-  
+2-dørs med B20 motor på 82 hk/DIN (90 hk/SAE), manuell girkasse.
+
 Produksjonen varte i 14 år, fra 1956 til 1970. I løpet av denne perioden ble det produsert ca. 670 000 biler.
 
 Bildene er ærlig og redelig  
