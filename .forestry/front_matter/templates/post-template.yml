@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sommeren-1977-elvis-presley-og-volvo-amazon.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-19-1-sesong-med-askeladden-16-en-god-sjøbåt.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-yamarin-76-dc-med-250-hk-yamaha.md
