@@ -41,3 +41,6 @@ Badeland og fritidspark i tradisjonell forstand og et variert godt tilbud. God p
 
 **Tivoli i København  
 **En opplevelse av en fornøyelsespark med lange tivoli-tradisjoner og et variert tilbud av interesse for hele familien. En fornem perle for rekreasjon midt i København sentrum.
+
+**Legoland, Billund  
+**Legoland er den absolutt beste fritidspark i Danmark. På mange måter er Legoland et kvalitativt høydepunkt for barna fordi tilbudet her er så variert, mangfoldig og særegent. Her er mye opplevelser for barna. Ulempen med Legoland er at så mange vil dit. Det blir lett lange, svette køer i sommersesongen.
