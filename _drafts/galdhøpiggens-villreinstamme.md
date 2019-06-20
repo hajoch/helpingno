@@ -15,7 +15,7 @@ image_caption: Foto Christoffer J. Christensen og Hallvard J. Christensen
 categories:
 - _category/fritid.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 Villreinflokken beveger seg raskt og smidig. Gråbrun, strihåret pels, også pels mellom klauvene og på mulen. Flotte gevir. De lever i Jotunheimen på snaufjellet ved Galdhøpiggen. De er sky og vanskelig å komme inn på.
