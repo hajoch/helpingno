@@ -5,7 +5,9 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Rent drikkevann
-excerpt: Rent vann er det beste du kan drikke
+excerpt: Rent vann er en forutsetning for god helse. Mange vannverk rundt om i landet
+  har for dårlig standard og har fått påtale fra Mattilsynet. Rent vann er det beste
+  du kan drikke
 image: "/assets/images/vann.5.gc.jpg"
 image_caption: Foto GC
 categories:
@@ -14,8 +16,6 @@ publish_date:
 weight: 3
 
 ---
-Rent vann er en forutsetning for god helse. Mange vannverk rundt om i landet har for dårlig standard og har fått påtale fra Mattilsynet.
-
 Mange vannforsyningssystemer er får dårlige: Gammelt og utdatert ledningsnett under gateplan forsyner vann til store menneskemengder i byene våre. Ofte ligger vann- og kloakkrør side om side. Med alder og rystelser i grunnen fra trafikk over disse rørene er det åpenbart at vann kan bli forurenset på kort varsel og mange kan bli alvorlig syke - noen til og med kronisk syke. Vannskandalene i Oslo (2007) på Askøy (2019) og Bergen (2003) illustrerer hvor viktig rent vann er for folkehelsa.
 
 Kanskje er det svekket tillit til vannforsyningen som har gitt kjøpevannet en stadig større omsetning? I alle fall er kjøpevann en viktig beredskapskilde til rent drikkevann når uhellet er ute og alarmen går fra ditt lokale vannverk. I oktober 2007 gikk alarmen i Arendal: Da hadde en sprengningsulykke ført kloakkvann inn i vannforsyningsnettet i østre bydel.
