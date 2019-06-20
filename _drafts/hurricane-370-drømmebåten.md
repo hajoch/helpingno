@@ -5,28 +5,22 @@ crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: Hurricane 370. Drømmebåten
-excerpt: ''
+excerpt: jøpe ekte vare. Piratkopi kan være farlig Ungdomsbåten
 image: "/assets/images/hurric-370-a.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto GC
+categories:
+- _category/leserinnlegg.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
-Kjøpe ekte vare. Piratkopi kan være farlig Ungdomsbåten 
-
-| --- |
-|  |
-
-**Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
-**Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20 knop og ligger fint i sjøen med liten planings-terskel. Den er behagelig, trygg og stødig å kjøre med denne motoren på grunn av god bredde bak og solid v-bunn. Sjøene tar den uten å gi sprut inn i båten. Men prøver du å kjøre raskt inn i en krapp hekksjø kan den ta inn vann over dekk.**
+Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20 knop og ligger fint i sjøen med liten planings-terskel. Den er behagelig, trygg og stødig å kjøre med denne motoren på grunn av god bredde bak og solid v-bunn. Sjøene tar den uten å gi sprut inn i båten. Men prøver du å kjøre raskt inn i en krapp hekksjø kan den ta inn vann over dekk.
 
 **Winrace, Hurricane eller Cyber**  
-Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som racebåt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.  
-  
-Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.  
-  
+Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som racebåt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.
+
+Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.
+
 Utviklingen av Winrace racebåtene kan sees på linkene under:  
 [www.winraceboats.no](http://www.winraceboats.no/)  
 [www.winracepropellers.no](http://www.winracepropellers.no/)  
@@ -39,9 +33,6 @@ Hurricane 370 er nå blitt en kostbar båt i nyanskaffelse og bruktbåter av den
 
 Vi treffer stadig på ungdom over 16 som er så glad i denne båten at de beholder den, men skifter til større motor - som 20 - 25 hk - straks aldersgrensen på 16 er passert.
 
-| --- |
-|  |
-
 **Advarsel!**  
 Når du søker etter brukt Hurricane og Cyber på finn.no eller andre annonseorganer er det lett å bli lurt. Mange konstruksjoner bruker disse navnene for å markedsføre båten sin uten at den er i nærheten av å være ekte vare. De bare likner på en ekte Hurricane.
 
@@ -53,12 +44,10 @@ Lar du deg lure til å kjøpe en piratkopi kan du få ubehagelige overraskelser 
 Vi har i en periode på 8 sesonger testet versjonen av båten som heter Hurricane 370. Skroget har blå metallakk med gult dekk. Gult er en signalfarge som er godt synlig på fjorden og gir derfor god sikkerhet: Du blir sett. Mørke farger på denne båten er derfor ikke så lurt.
 
 **To motorer**  
-To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha**9,9 hk trimmet til 15. Begge motorene passer ypperlig på båten, men 9,9/15 hk får båten raskt i plan og det går greit med to lette personer i båten.
+To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha** 9,9 hk trimmet til 15. Begge motorene passer ypperlig på båten, men 9,9/15 hk får båten raskt i plan og det går greit med to lette personer i båten.
 
 **Yamaha**
 
-| --- |
-|  |
-
-  
 Yamaha 9,9hk er en driftssikker og solid motor i 2-taktversjon. Mer populær enn Yamahas 4-takter hos de unge. Dette har sammenheng med at motoren kan trimmes til15 hk ved et mindre inngrep hos forhandler. På sjøen er det 16-årsgrense på båter over 10 hk. Og da er det viktig at det står 9,9 på dekselet og ikke 15. Derfor er 9,9 storselgeren, mens 15 hk som egentlig er samme motoren selger dårligere.
+
+Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at det på noen båter kan bli problemer med å tilte opp motoren med styrestaket på - men ikke på vår versjon. Men der er trangt. Videre er det litt plundrete å få plassert originaltanken til motoren i Hurricaneversjonen på en stødig måte under dekk ved motoren på grunn av båtens forsterkninger av skroget.
