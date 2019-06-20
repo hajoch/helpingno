@@ -32,6 +32,34 @@ Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er
 
 Det er 85% funktighet i lufta på grunn av vannet som renner under oss.
 
+\- Jeg hører vann som renner?   
+\- Det går en fjellbekk under oss. Det er smeltevann fra permafrost og nedbør på toppen. Reneste vann du kan få. Det samles opp i en tank nederst ved inngangen og pumpes opp som vannforsyning til boenheter og turisthytta på toppen.  
+  
+ - Det dugger fælt på linsa?   
+\- Ikke rart for her er det 85% funktighet i lufta på grunn av vannet som renner under oss.
+
+Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".  
+  
+Kabelen trekkes jevnt og stødig oppover:  
+\- Denne banen er ikke bare godkjent her i Norge. Vi måtte til og med innhente EU-godkjenning her, bemerker konduktøren idet vi  
+glimter endestasjonen badet i  
+neonlys på toppen.
+
+En trapp fører opp til maskinrommet bak en glassvegg. Her skimtes et solid maskineri og en maskinist bak spakene.
+
+Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.
+
+| --- |
+|  |
+
+  
+En tunell fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
+
+Ute av tunellen ligger Turist-foreningens hytte sløret i tåke som et spøkelsesslott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
+
+**Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. Den vakre utsikten fikk  
+jeg ikke.**
+
 Ute av tunellen ligger Turistforeningens hytte sløret i tåke som et spøkelsesslott en liten klatretur unna. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i tåka.
 
 Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
