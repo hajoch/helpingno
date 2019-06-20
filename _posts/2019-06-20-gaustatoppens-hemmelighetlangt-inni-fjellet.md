@@ -15,7 +15,6 @@ publish_date:
 weight: 5
 
 ---
-
 Dovregubben ble viden kjent gjennom Henrik Ibsens "Per Gynt", men Gaustatoppen har ruget på sine hemmeligheter helt til de siste årene. Det som har vært militære hemmeligheter helt siden den ble bygget i 1959, åpnes opp for deg og meg på helårsbasis
 
 Gaustatoppen er det eneste fjell i Norge som har en slik spennende og mystisk bane inni fjellet. Om ikke det militære har enda flere slike hemmelige prosjekter på samvittigheten, da.
@@ -32,14 +31,14 @@ Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er
 
 Det er 85% funktighet i lufta på grunn av vannet som renner under oss.
 
-\- Jeg hører vann som renner?   
-\- Det går en fjellbekk under oss. Det er smeltevann fra permafrost og nedbør på toppen. Reneste vann du kan få. Det samles opp i en tank nederst ved inngangen og pumpes opp som vannforsyning til boenheter og turisthytta på toppen.  
-  
- - Det dugger fælt på linsa?   
-\- Ikke rart for her er det 85% funktighet i lufta på grunn av vannet som renner under oss.
+\- Jeg hører vann som renner?  
+\- Det går en fjellbekk under oss. Det er smeltevann fra permafrost og nedbør på toppen. Reneste vann du kan få. Det samles opp i en tank nederst ved inngangen og pumpes opp som vannforsyning til boenheter og turisthytta på toppen.
 
-Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".  
-  
+* Det dugger fælt på linsa?  
+  \- Ikke rart for her er det 85% funktighet i lufta på grunn av vannet som renner under oss.
+
+Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".
+
 Kabelen trekkes jevnt og stødig oppover:  
 \- Denne banen er ikke bare godkjent her i Norge. Vi måtte til og med innhente EU-godkjenning her, bemerker konduktøren idet vi  
 glimter endestasjonen badet i  
@@ -47,8 +46,8 @@ neonlys på toppen.
 
 En trapp fører opp til maskinrommet bak en glassvegg. Her skimtes et solid maskineri og en maskinist bak spakene.
 
-Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.  
-  
+Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.
+
 En tunell fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
 
 Ute av tunellen ligger Turist-foreningens hytte sløret i tåke som et spøkelsesslott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
@@ -59,3 +58,7 @@ jeg ikke.**
 Ute av tunellen ligger Turistforeningens hytte sløret i tåke som et spøkelsesslott en liten klatretur unna. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i tåka.
 
 Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
+
+**Linker**  
+**Slik får du kontakt med Gaustabanen:**  
+[www.gaustabanen.no](http://www.gaustabanen.no/)
