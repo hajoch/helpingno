@@ -14,7 +14,7 @@ image_caption: Foto Gunnar Christensen motiv fra Hunderfossen
 categories:
 - _category/fritid.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
 #### Norge:
