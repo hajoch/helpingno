@@ -6,7 +6,7 @@ author: ''
 tags: []
 title: 'Test: Saab 9000 CSE'
 excerpt: |2-
-   2 år med Saab 9000 CSE, Jubileum 1997: Kollisjonssikker vinterbil, men mye unødvendig teknisk tull. Skuffelsene har stått i kø
+   2 år med Saab 9000 CSE, Jubileum 1997: Kollisjonssikker vinterbil, men mye unødvendig teknisk tull. Skuffelsene har stått i kø.
   Nostalgisk tilbakeblikk på Saab-veteran
 image: "/assets/images/saab 2.jpg"
 image_caption: Foto Gunnar Christensen
