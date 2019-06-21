@@ -53,3 +53,12 @@ Det ropes bak døren:
 \- Jeg er ikke hjemme!  
 \- Men skoa dine står på utsida, argumenteres det utenifra.  
 \- Jeg har to par sko, svarer det det til slutt der inne.
+
+**Lukket avdeling**  
+  
+To pasienter på "lukket avdeling" sitter i sykehuskorridoren da en overlege kommer forbi:  
+ - Jeg er Napoleon sier den ene til overlegen.  
+\- Hvem har sagt det? spør overlegen.  
+\- Det har Jesus sagt, svarer pasienten:  
+Da reagerer den andre pasienten:  
+\- Ikke tale om: Det har jeg aldri sagt!
