@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/meditasjonskurs-1-meditasjon-med-pusteteknikk.md
 - _posts/2019-06-21-test-saab-9000-cse.md
 - _posts/2019-06-20-sommeren-1977-elvis-presley-og-volvo-amazon.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
