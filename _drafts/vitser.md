@@ -74,3 +74,12 @@ Per:
   
 Presten skal henge opp et bilde i kirken og skal til å feste spikeren da han treffer tommelen. Forpint sier han til klokkeren:  
  - Nå får du si det som skal sies!
+
+**Presten fortrolig til klokkeren**  
+  
+Presten snakker fortrolig med klokkeren:  
+\- Det gjør meg ikke noe  
+om menigheten gjesper  
+når jeg holder prekener  
+eller om de sovner. Men  
+jeg tåler ikke at de rister armbåndsuret for å sjekke om det virker.
