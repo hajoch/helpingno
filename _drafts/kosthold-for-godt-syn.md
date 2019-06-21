@@ -6,11 +6,12 @@ author: ''
 tags: []
 title: Kosthold for godt syn
 excerpt: Kan du få bedre syn av å spise sunt? Hva slag mat er bra for øynene dine?
-image: ''
+image: "/assets/images/skulptur.jpg"
 image_caption: ''
-categories: []
+categories:
+- _category/mat.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
 Leserinnlegg: av Edle Bugge 
