@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 08:30:35 +0200
+date: 2019-06-21T06:30:35.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Meditasjonskurs 2.  Mantra-meditasjon
 excerpt: Mantra-meditasjon er bare en av mange måter å meditere på.
@@ -15,8 +15,6 @@ weight: 5
 
 ---
 
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
 ![](http://www.helping.no/kule.jpg =12x12) Du kan gjøre disse øvelsen hjemme eller ute i naturen. Du kan meditere i ti minutter eller en halv time alt etter hva som passer deg best. Kanskje 20 min?
 
 ![](http://www.helping.no/kule.jpg =12x12) Du kan sitte i stillhet. Eller du kan ha på dempet klassisk musikk eller naturlyder (f.eks. regn som faller, bølger på stranden, bekk som sildrer etc.) som virker rolig og harmoniserende på deg. Velg det som passe deg best. Til å begynne med anbefales å sitte i stillhet. Når du blir mer trent kan du meditere på bussen, toget, flyet eller hvor som helst du ønsker.
@@ -24,7 +22,7 @@ weight: 5
 ![](http://www.helping.no/kule.jpg =12x12) Du kan også gjøre opptak av egne beroligende lyder, instruksjoner eller positive afirmasjoner og spille dem av når du mediterer. Her er mulighetene mange.
 
 Ønsker du å benytte en lyd - et såkaldt mantra - i meditasjonen,  
- kan du bruke lyden **OM**. (Andere mantraer er **AUM** og **HUM** om du er mer komfortabel med en av dem.)
+kan du bruke lyden **OM**. (Andere mantraer er **AUM** og **HUM** om du er mer komfortabel med en av dem.)
 
 Denne meditasjonsteknikken likner bl.a. på TM-meditasjon og andre teknikker som benyttes innen yoga-tradisjonen.
 
