@@ -11,9 +11,10 @@ excerpt: "  Slipp latteren løs og kjenn hvor befriende\nog godt det er å trene
 image: "/assets/images/ur2.jpg"
 image_caption: ''
 author: ''
-categories: []
+categories:
+- _category/fritid.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 **Feieren**
