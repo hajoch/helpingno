@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 08:33:16 +0200
+date: 2019-06-21T06:33:16.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Meditasjonskurs 3. Mantra-meditasjon med pusteteknikk
 excerpt: Ønsker du å kombinere de to meditasjonsformene nevnt over kan du konsentrere
@@ -18,9 +18,6 @@ publish_date:
 weight: 5
 
 ---
-
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
 **Mantra-meditasjon er bare en av mange måter å meditere på.**
 
 ![](http://www.helping.no/kule.jpg =12x12) Du kan gjøre disse øvelsen hjemme eller ute i naturen. Du kan meditere i ti minutter eller en halv time alt etter hva som passer deg best. Kanskje 20 min?
