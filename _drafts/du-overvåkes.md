@@ -9,7 +9,7 @@ excerpt: Er vårt personvern gått tapt? Tenker du over at du blir overvåket hv
   kjøper varer registrerer banken og kredittkort-selskapet hver enkelt vare du kjøper,
   når du kjøper og til hvilken pris. Når du kjører gjennom bompengeautomater registrerer
   din passering deg med tid og sted.
-image: "/assets/images/overvake.jpg"
+image: "/assets/images/overvake-1.jpg"
 image_caption: ''
 author: ''
 categories:
