@@ -15,7 +15,7 @@ image_caption: Tekst og foto Gunnar Christensen
 categories:
 - _category/fritid.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 Oftest er det hotellet nærmest høyfjellet som tilbyr deg den mest komfortable overnattingen som bad med dusj etc. liksom her. En dusj er ingen selvfølge i høyfjellet og fremstår som rene luksusen til fjellheimen å være.
