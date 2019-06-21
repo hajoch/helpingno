@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-18 21:57:19 +0200
+date: 2019-06-18T19:57:19.000+00:00
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: ''
 tags: []
 title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
