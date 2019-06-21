@@ -38,3 +38,6 @@ Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private ba
 Ung huskjøper  
 Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
 [husbanken.no/lan/soke-startlan/](http://www.husbanken.no/lan/soke-startlan/)
+
+**Helårs reiseforsikring**  
+er den billigste og beste løsningen også på korte reiser. Helårs reiseforsikring dekker deg vanligvis når du er utenfor hjemkommunen hele året. Reiseforsikring som selges sammen med reisen hos reisebyrået er betydelig dyrere enn helårs reise-forsikring. Stol ikke på at reise-forsikringen på kredittkortet dekker deg fullt ut.
