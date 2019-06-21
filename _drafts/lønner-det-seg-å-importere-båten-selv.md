@@ -4,7 +4,7 @@ date: 2019-06-21 11:12:41 +0200
 crop_image: true
 tags: []
 title: Lønner det seg å  importere båten selv?
-excerpt: Kjøpe båt i Sverige? Importere båt fra USA?
+excerpt: Kjøpe båt i Sverige? Importere båt fra USA? Importer AMT fra Finland?
 image: ''
 image_caption: ''
 author: ''
