@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-21 10:30:30 +0200
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Se Volkswagens rustproblemer!
 excerpt: Folk i antirust-bransjen har snakket om det lenge.
@@ -14,9 +14,6 @@ publish_date:
 weight: 2
 
 ---
-
-Tekst [Gunnar Christensen](http://helping.no/gunnar.htm)
-
 Folk i antirust-bransjen har snakket om det lenge. Også Volkswageneiere har lenge vært frustrert over mer rustproblemer på bilene sine sammenliknet med andre merker. Selv de nyeste modellene har rustproblemer iflg. uavhengige godkjente verksteder.
 
 Disse uavhengige godkjente verkstedene er hoderystende til Volks-wagens innsats mot rust på nye biler der du nektes å antirust-behandle bilen hos f.eks. Tectyl om Volkswagen-garantien mot rust skal gjelde: Såender du opp med rust på bilen uten at forhandler tar konsekvensen av de dårlige garantiene som er gitt.
