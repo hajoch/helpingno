@@ -16,6 +16,7 @@ publish_date:
 weight: 5
 
 ---
+"Bedre enn du forventer"
 
 **Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
