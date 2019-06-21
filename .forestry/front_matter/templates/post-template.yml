@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/eksotisk-vakker-men-uforutsigbar.md
 - _posts/2019-06-21-kreftfremkallende-plastflasker.md
 - _posts/2019-06-21-meditasjonskurs-introduksjon.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
