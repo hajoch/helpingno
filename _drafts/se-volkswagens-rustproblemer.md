@@ -5,7 +5,7 @@ crop_image: true
 author: ''
 tags: []
 title: Se Volkswagens rustproblemer!
-excerpt: ''
+excerpt: Folk i antirust-bransjen har snakket om det lenge.
 image: ''
 image_caption: 'Foto: Tactyl, Arendal'
 categories: []
@@ -13,7 +13,6 @@ publish_date:
 weight: 
 
 ---
-Folk i antirust-bransjen har snakket om det lenge.
 
 Tekst [Gunnar Christensen](http://helping.no/gunnar.htm)
 
