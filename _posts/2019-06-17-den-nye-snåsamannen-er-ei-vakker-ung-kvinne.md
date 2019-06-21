@@ -9,7 +9,7 @@ excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert 
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
   ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
 image: "/assets/images/susanne.jpg"
-image_caption: 'Foto: Asbjørn Egir - Tekst: Gunnar Christensen'
+image_caption: 'Foto: Asbjørn Egir '
 categories:
 - _category/mental-helse.md
 publish_date: 
