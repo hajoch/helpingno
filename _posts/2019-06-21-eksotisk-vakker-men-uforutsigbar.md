@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 09:28:59 +0200
+date: 2019-06-21T07:28:59.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Eksotisk, vakker men uforutsigbar
 excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten utenfor
@@ -10,17 +10,17 @@ excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten uten
   småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød i et farlig
   farvann hjemsøkt av menneskeetende hai. '
 image: "/assets/images/fiskere.jpg"
-image_caption: 'Hver morgen stiger en skog av master og seil frem over horisonten
-  utenfor Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle,
-  spinkle småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød
-  i et farlig farvann hjemsøkt av menneskeetende hai. '
+image_caption: 'Foto Gunnar Christensen. Hver morgen stiger en skog av master og seil
+  frem over horisonten utenfor Negombos kyststripe: Fiskerne kommer med dagens fangst
+  i sine tradisjonelle, spinkle småbåter. Det likner et mektig sjøslag og er kampen
+  for det dagligebrød i et farlig farvann hjemsøkt av menneskeetende hai. '
 categories:
 - _category/reise.md
 publish_date: 
 weight: 1
 
 ---
-Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)  
+  
 OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
 
 **Fiskerne deler broderlig**  
