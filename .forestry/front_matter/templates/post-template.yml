@@ -40,7 +40,7 @@ fields:
   default: true
 - name: author
   type: select
-  default: _authors/gunnar-christensen.md
+  default: ''
   config:
     required: false
     options: []
@@ -50,7 +50,6 @@ fields:
       file: 
       path: 
   label: Skribent
-  description: Hvem har skrevet innholdet
 - type: list
   name: categories
   label: Kategorier
