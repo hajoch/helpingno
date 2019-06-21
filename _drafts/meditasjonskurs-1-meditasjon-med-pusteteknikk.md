@@ -9,15 +9,13 @@ excerpt: Dette meditasjonskurset er enkelt og uten innviklede instruksjoner og r
   Vi kan kalle det å "finne roen" ved hjelp av pusten. Liknende teknikker brukes både
   innen yoga- og zentradisjonen.
 image: "/assets/images/oct.08.jpg"
-image_caption: ''
-categories: []
+image_caption: Foto Gunnar Christensen
+categories:
+- _category/fritid.md
 publish_date: 
 weight: 
 
 ---
-
-| --- |
-|  |
 
 [**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
@@ -68,4 +66,4 @@ Daglig meditasjon anbefales.
 Om du sovner mens du mediterer  
 blir ikke meditasjonen dårligere av den grunn.
 
-**Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.**
+Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.
