@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 08:25:42 +0200
+date: 2019-06-21T06:25:42.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Meditasjonskurs 1. Meditasjon med pusteteknikk
 excerpt: Dette meditasjonskurset er enkelt og uten innviklede instruksjoner og ritualer.
@@ -16,7 +16,6 @@ publish_date:
 weight: 5
 
 ---
-
 [**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
 Denne form for meditasjon har en fin innvirkning på både kropp og sinn. Pusten er selve livsrytmen din. Pusten er livet.....
