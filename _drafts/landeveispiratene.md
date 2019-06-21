@@ -7,7 +7,7 @@ title: Landeveispiratene
 excerpt: 'De fleste norske bilister tror tyske bilverksteder er betydelig billigere
   enn norske. Det er derfor nå på tide at sannheten kommer frem: Sannheten om de skyhøye,
   tyske verkstedprisene.'
-image: ''
+image: "/assets/images/saab5.jpg"
 image_caption: Foto Gunnar Christensen
 author: ''
 categories:
