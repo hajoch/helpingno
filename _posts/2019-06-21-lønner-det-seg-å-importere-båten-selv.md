@@ -6,7 +6,7 @@ tags: []
 title: Lønner det seg å  importere båten selv?
 excerpt: Kjøpe båt i Sverige? Importere båt fra USA? Importer AMT fra Finland? Ikke
   kjøp båt med regnskog treverk.
-image: ''
+image: "/assets/images/batimport.jpg"
 image_caption: ''
 author: ''
 categories:
