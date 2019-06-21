@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-18 17:03:56 +0200
+date: 2019-06-18T15:03:56.000+00:00
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: ''
 tags: []
 title: " Kathmandu i Nepal: Den levende gudinnens tempelby"
 excerpt: 'Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert
@@ -19,7 +19,6 @@ publish_date:
 weight: 3
 
 ---
-
 Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert i et vakkert, gammelt tempel ved Hanuman Dhoka. Hun tilbedes av alle. Kongen og statsministeren ligger for hennes føtter slik landets hindutradisjon krever. Hun er hellig. En levende guddom. Prøver turister å fotografere henne blir de arrestert, fratatt kamera og utvist fra landet, opplyses det. Et ferdig sminket og toppstaset bilde av henne er å få kjøpt blant landets øvrige turistattraksjoner i "souvenirshop".
 
 Gudinnen velges til rollen omkring fem år gammel. Det er status blant de høyere sosiale lag i Nepal å ha ei datter valgt til levende gudinne. Valget skjer i sterk konkurranse med andre pikebarn i passende alder. Pikene må igjennom harde tester før gudinnen pekes ut. Piken forblir i rollen som levende gudinne til hun er kjønnsmoden. Ved første menstruasjon er gudinnerollen slutt. Da får hun uærbødig sagt sparken uten fallskjerm: Hun haver på gaten uten noen form for støtte fra sin familie. En ny gudinne velges i hennes sted etter de samme utvalgskriterier.
