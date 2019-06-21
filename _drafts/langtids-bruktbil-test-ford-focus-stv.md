@@ -19,14 +19,9 @@ publish_date:
 weight: 
 
 ---
-
 Elendige seter og handsfree som ikke virker om du har iphone.
 
-| --- |
-|  |
-
-| --- |
-| Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping. |
+Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping. |
 
 Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
@@ -40,8 +35,7 @@ Ford Focus som leveres til Norge produseres ved Fords fabrikk i Tyskland. De fle
 
 Ford markedsfører Focus som verdens mestselgende bil og har produksjon og markedsføring som dekker hele kloden. Bl.a i Kina selger Focus bedre enn de fleste.
 
-| --- |
-| Korsryggstøtte avgjordeDa vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrspakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrspakka Titanium.Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retningsviseren og kan ikke leveres med både korsryggstøtte og manuell håndbrekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
+Korsryggstøtte avgjordeDa vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrspakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrspakka Titanium.Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retningsviseren og kan ikke leveres med både korsryggstøtte og manuell håndbrekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
 
 **Genialt drivstoff-inntak.**  
 Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep dieselpistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
@@ -52,24 +46,19 @@ En av utlånsbilene var en demo combi av samme modell Focus. Også denne hadde e
 
 På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimmensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne bilen med å levere et førersete med leketøyskvalitet er ubegripelig.
 
-På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finnar ut av. De påstår det er produksjonesfeil på Iphoneer, men når bare Ford har problemer med   
+På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finnar ut av. De påstår det er produksjonesfeil på Iphoneer, men når bare Ford har problemer med  
 iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
-Dette frister ikke til å kjøpe en ny Focus etter 3 år.  
-  
+Dette frister ikke til å kjøpe en ny Focus etter 3 år.
+
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
 Brukt Ford Focus 2013: Bedre enn forventet
-
-| --- |
-|  |
 
 Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)  
 Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
-**Dette er en bilmodell som overrasker positivt. Her er god kjørekomfort med flotte kjøreegenskaper og kraft nok så det holder fra en 3 sylinder 125hk bensinmotor: Følelsen av å kjøre en større og dyrere bil med god støydemping gjør denne bilen bedre enn forventet i Golf-klassen. Ja, du må lytte for å høre om motoren er i gang når du stopper opp.**
+Dette er en bilmodell som overrasker positivt. Her er god kjørekomfort med flotte kjøreegenskaper og kraft nok så det holder fra en 3 sylinder 125hk bensinmotor: Følelsen av å kjøre en større og dyrere bil med god støydemping gjør denne bilen bedre enn forventet i Golf-klassen. Ja, du må lytte for å høre om motoren er i gang når du stopper opp.
 
 Motoren er et kapitel for seg. Denne 1 liters motoren ble kåret til "Engine of the year" i 2012 og 2013 på grunn av ny teknologi som gir lavere forbruk og utslipp sammen med meget god yteevne. Motorjournalistene har latt seg begeistre av denne Ford Focus- utgaven. Etter en prøvetur forståes hvorfor.
 
