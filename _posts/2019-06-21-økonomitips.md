@@ -6,7 +6,7 @@ tags: []
 title: Økonomitips
 excerpt: Gode råd i personlig økonomi
 image: "/assets/images/bruktbat.jpg"
-image_caption: ''
+image_caption: Tekst og foto Gunnar Christensen
 author: ''
 categories:
 - _category/økonomi.md
