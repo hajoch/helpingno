@@ -14,9 +14,9 @@ publish_date:
 weight: 7
 
 ---
-Tekst/Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)
-
 Mustangen er en bil med en stolt og lang historie få andre bilmodeller kan konkurrere med. Den er en klassiker alle elsker. Mustangen er ikke bare en bil, det er et verdenskjent ikon. Bilen har vært vanvittig populær i flere tiår blant alle aldersgrupper og nasjonaliteter. Og denne gang var det Helping Bil sin tur til å oppleve denne velkjente muskelbilen.
+
+Tekst/Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)
 
 Bilen har fått sitt navn etter en amerikansk hestetype. Denne hestetypen er et viltlevende dyr som er kraftig bygd, men elegant og utholdende. "Mustang" kommer fra meksikansk og betyr vill. Ford har dermed funnet det perfekte navnet til den legendariske muskelbilen sin, ettersom bilen også omtales slik.
 
