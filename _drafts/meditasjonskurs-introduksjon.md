@@ -7,10 +7,11 @@ tags: []
 title: Meditasjonskurs introduksjon
 excerpt: 'Kurs i Meditasjon. Mange av de mest fremgangsrike menneskene i vår tid mediterer:'
 image: "/assets/images/nov.14 (1).jpg"
-image_caption: ''
-categories: []
+image_caption: Foto Gunnar Christensen
+categories:
+- _category/fritid.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
