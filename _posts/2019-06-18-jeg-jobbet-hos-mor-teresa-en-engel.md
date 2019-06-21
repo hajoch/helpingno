@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-18 13:26:21 +0200
+date: 2019-06-18T11:26:21.000+00:00
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: ''
 tags: []
 title: "- Jeg jobbet hos  Mor Teresa - en engel"
 excerpt: Lise Lyseggen i intervju med helping
