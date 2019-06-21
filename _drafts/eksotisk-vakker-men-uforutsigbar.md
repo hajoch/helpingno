@@ -5,8 +5,11 @@ crop_image: true
 author: ''
 tags: []
 title: Eksotisk, vakker men uforutsigbar
-excerpt: ''
-image: ''
+excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten utenfor
+  Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle, spinkle
+  småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød i et farlig
+  farvann hjemsøkt av menneskeetende hai. '
+image: "/assets/images/fiskere.jpg"
 image_caption: 'Hver morgen stiger en skog av master og seil frem over horisonten
   utenfor Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle,
   spinkle småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød
@@ -17,16 +20,9 @@ publish_date:
 weight: 1
 
 ---
-
-Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)
-
-**  
-**  
+Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)  
 OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. Les alltid UDs oppdaterte reiseråd  
 før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
-
-| --- |
-|  |
 
 **Fiskerne deler broderlig**  
 Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har slitt for på Sri Lanka. Fisken fordeles på den glitrende stranden under palmene: Noe til fiskernes familier, naboer og resten til markedene i byen. Nye fiskeredskaper effektiviserer og utkonkurrerer disse enkle garnredskapene, men fiskerne deler broderlig så alle får.
@@ -50,9 +46,6 @@ Flere severdigheter er tilknyttet landets religiøse tradisjon. Ved Anuradhapadu
 Jernbanen har to forskjellige sporbredder. De eldste smalsporede togene dekker lokalsteder og stammer fra den engelske kolonitiden. Langdistansene dekkes av nyere tog produsert i Canada. Jernbanetrafikk er rimelig og dermed tilgjengelig for de fleste.
 
 Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til tross forfor sin oftest skrøpelige tekniske forfatning. Men OBS: Uoppmerksomme turister kan lett bli lurt på prisen hvis den ikke avtales på forhånd.
-
-| --- |
-|  |
 
 **Tradisjonelle fiskebåt på Negombo-stranden**
 
