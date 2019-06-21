@@ -4,11 +4,10 @@ date: 2019-06-21 15:10:07 +0200
 crop_image: true
 tags: []
 title: 'Langtids bruktbil test: Ford Focus stv.:'
-excerpt: Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
+excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
-  Ford Focus er handbrekka:Denne håndbrekka er ikke lengre på nye Focus 2018. Sjekk
-  Den sikreste handbrekka
+  Ford Focus er handbrekka: Denne håndbrekka er ikke lengre på nye Focus 2018. '
 image: "/assets/images/focus155.jpg"
 image_caption: |-
   Foto: Christoffer Jore Christensen.
@@ -22,7 +21,7 @@ weight:
 ---
 Elendige seter og handsfree som ikke virker om du har iphone.
 
-Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping. |
+Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping. 
 
 Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
@@ -36,7 +35,7 @@ Ford Focus som leveres til Norge produseres ved Fords fabrikk i Tyskland. De fle
 
 Ford markedsfører Focus som verdens mestselgende bil og har produksjon og markedsføring som dekker hele kloden. Bl.a i Kina selger Focus bedre enn de fleste.
 
-Korsryggstøtte avgjordeDa vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrspakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrspakka Titanium.Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retningsviseren og kan ikke leveres med både korsryggstøtte og manuell håndbrekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
+Korsryggstøtte avgjordeDa vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrs pakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrs pakka Titanium. Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retningsviseren og kan ikke leveres med både korsryggstøtte og manuell håndbrekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
 
 **Genialt drivstoff-inntak.**  
 Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep dieselpistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
@@ -54,7 +53,7 @@ Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
-Brukt Ford Focus 2013: Bedre enn forventet
+**Brukt Ford Focus 2013: Bedre enn forventet**
 
 Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)  
 Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
