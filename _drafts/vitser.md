@@ -62,3 +62,10 @@ To pasienter på "lukket avdeling" sitter i sykehuskorridoren da en overlege kom
 \- Det har Jesus sagt, svarer pasienten:  
 Da reagerer den andre pasienten:  
 \- Ikke tale om: Det har jeg aldri sagt!
+
+**Skolen**  
+  
+Læreren:  
+\- Per! Denne stilen er så dårlig at jeg må snakke med din far!  
+Per:  
+\- Det er nok det beste for det er han som har skrevet den.
