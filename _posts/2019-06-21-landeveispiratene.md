@@ -9,15 +9,13 @@ excerpt: 'De fleste norske bilister tror tyske bilverksteder er betydelig billig
   tyske verkstedprisene.'
 image: "/assets/images/saab5.jpg"
 image_caption: Foto Gunnar Christensen
-author: ''
+author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
 weight: 1
 
 ---
-**Av** [**Gunnar Christensen**](http://helping.no/gunnar.htm)
-
 Ligg unna de tyske landeveispriratene!
 
 På vei tilbake fra en begivenhetsrik bilferie til Paris skjedde det på fredagskvelden en høstdag i oktober 2002: Mor, far og tre barn på vei hjem til Norge på motorveien nord for Hamburg med danskebåten som mål. Clutchen begynner å slure og blir raskt svakere. Med nød og neppe lar bilen seg overtale til å bringe familien til et hotell i Schleswig. Så er det definitivt stopp.
