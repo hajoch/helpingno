@@ -6,14 +6,15 @@ author: ''
 tags: []
 title: Kreftfremkallende plastflasker
 excerpt: ''
-image: ''
-image_caption: ''
-categories: []
+image: "/assets/images/flasker.jpg"
+image_caption: "Foto Gunnar Christensen. Bruk en glassflaske med skrukork når du tar
+  med deg drikkevann. \n"
+categories:
+- _category/helse.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
-
 EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan være kreftfremkallende.
 
 Dette rammer også de samme flaskene som brukes til salg av øl,mineralvann og det meste av emballasjen som benyttes til matvarer.
@@ -33,5 +34,11 @@ Matvarer pakket i hermetikk, glass eller papir har nå beviselig sunnere emballa
 
 Straks etterspørselen av matvarer innpakket i plast minker vil produsentene finne nye løsninger på emballasjen. Våre kjøpevaner styrer produsentenes tilbud. Dette er vår forbrukermakt. Og det er nå naturlig at vi unngår mest mulig mat som er pakket i kreftfremkallende plastemballasje.
 
-| --- |
-| Tips om drikkevann:Bruk en glassflaske med skrukork når du tar med deg drikkevann. Da unngår du problemene med plastflasker som gir fra seg helseskadelige stoffer.(Se artikkelen på samme side: "Kreftfremkallende plastflasker"). Har du en vannrenser på kjøkkenet er dette bra drikkevann. (Se anrtikkel "Vannrenser" på samme side.) Ellers kan du koke vann som kjøles ned og helles på glassflaske. Du kan i stedet for glassflaske bruke liten juicekartong med skrukork om det passer deg bedre.  |
+* Tips om drikkevann: Bruk en glassflaske med skrukork når du tar med deg drikkevann. Da unngår du problemene med plastflasker som gir fra seg helseskadelige stoffer.(Se artikkelen på samme side: "Kreftfremkallende plastflasker"). Har du en vannrenser på kjøkkenet er dette bra drikkevann. (Se anrtikkel "Vannrenser" på samme side.) Ellers kan du koke vann som kjøles ned og helles på glassflaske. Du kan i stedet for glassflaske bruke liten juicekartong med skrukork om det passer deg bedre.  
+* **Vannrenser**
+
+  Rørleggere kan montere et vannrenseanlegg i kjøkkenbenken slik at du får god drikkevannskvalitet i din daglige husholdning. Du får da en egen tappekran til drikkevannet i tillegg til den vanlige vannkranen.
+
+  På markedet finnes i dag flere modeller og kvaliteter på vannrenseanlegg. Kjøper du mye drikkevann kan et slikt vann-renseanlegg være en god investering slik prisnivået på kjøpevann nå har utviklet seg. I tillegg er nyheten om giftstoffer i plastflasker et godt argument for å montere vannrenser.  
+  **OPS:** Mattilsynet har opplysninger om testing  
+  av vannrensere. Sjekk der hvilke modeller som er best.
