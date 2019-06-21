@@ -14,7 +14,8 @@ image_caption: |-
   Foto: Christoffer Jore Christensen.
   Tekst Gunnar Christensen
 author: ''
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
 weight: 
 
