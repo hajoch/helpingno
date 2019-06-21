@@ -31,19 +31,19 @@ Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåk
 Kankje flere skaffer seg innsyn? Hackere er over hele systemet.  
 Vi har intet sikkert vern mot overvåkerne i dag.
 
-Tilliten til internett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til internettkommunikasjon blir borte?
+Tilliten til Internett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til internettkommunikasjon blir borte?
 
 **"Storebror ser deg"**  
 Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
 
 **Privatliv på nettet**  
-Hvorfor blotlegger mange mennesker hele sitt privatliv på facebook og twitter med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på facebook når du reise bort og huset står tomt?
+Hvorfor botlegger mange mennesker hele sitt privatliv på facebook og twitter med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på Facebook når du reise bort og huset står tomt?
 
 Hvorfor skal alle innbyggeres formue og inntekt legges  
 ut på nett som en oppslagsbok for kriminelle?
 
 **Stjeler identiteter**  
-Når du er på internett kan alt du gjør overvåkes. Tenker du da hva du skriver les personvern? Facebook og andre sosiale nettsteder er som en åpen bok for både overvåkningspolitiet og kriminelle som har interesse av din virksomhet, hvor du befinner deg, når du er hjemme eller ute, dine tanker, politiske holdninger og verdier.
+Når du er på Internett kan alt du gjør overvåkes. Tenker du da hva du skriver les personvern? Facebook og andre sosiale nettsteder er som en åpen bok for både overvåkningspolitiet og kriminelle som har interesse av din virksomhet, hvor du befinner deg, når du er hjemme eller ute, dine tanker, politiske holdninger og verdier.
 
 Kriminelle stjeler identiteter og ligger stadig i forkant på datateknologien når du bruker din nettbank, snoker i din elektroniske pasientjournal etc. etc. Ikke en gang Pentagon har klart å hindre hackere innsyn. Skandalene har stått i kø: Helse-Sør-Øst-skandalenen...........
 
