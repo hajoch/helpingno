@@ -9,7 +9,9 @@ excerpt: Ønsker du å kombinere de to meditasjonsformene nevnt over kan du kons
   deg om o-lyden ved innpust og m-lyden ved utpust. Dermed konsetrerer du deg om både
   pusten og en lyd samtidig.
 image: "/assets/images/medita.jpg"
-image_caption: "Foto Gunnar Christensen. Mantra-meditasjon \nmed pusteteknikk"
+image_caption: |-
+  Foto Gunnar Christensen. Illustrasjonsfoto.
+  Mantra-meditasjon med pusteteknikk
 categories:
 - _category/fritid.md
 publish_date: 
