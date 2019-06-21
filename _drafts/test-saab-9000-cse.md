@@ -1,0 +1,47 @@
+---
+layout: post
+date: 2019-06-21 08:03:42 +0200
+crop_image: true
+author: ''
+tags: []
+title: 'Test: Saab 9000 CSE'
+excerpt: |2-
+   2 år med Saab 9000 CSE, Jubileum 1997: Kollisjonssikker vinterbil, men mye unødvendig teknisk tull. Skuffelsene har stått i kø
+  Nostalgisk tilbakeblikk på Saab-veteran
+image: "/assets/images/saab 2.jpg"
+image_caption: Foto Gunnar Christensen
+categories:
+- _category/bil.md
+publish_date: 
+weight: 1
+
+---
+Sabb er kjent for god kollisjonssikkerhet og gode egenskaper på vinterføre: Men er den godt skrudd sammen? Svaret er nei.
+
+Denne bilen hadde gått rundt hundre tusen kilometer da jeg kjøpte den. Etter 2 års bruk har skuffelsene stått i kø: Clutchhavari i Tyskland er den mest graverende av dem.  
+(Se reportasjen om "[Landeveispiratene](http://www.helping.no/landeveispiratene.htm)")
+
+**Tiltalene utvendig design.**  
+Bilen ser moderne og tiltalende ut i designet. Ja, utvendig er den rett ut sagt meget pen. Når det skiltes med at den er den mest påkostede versjonen utstyrsmessig dette året- selveste jubileumsversjonen - som i sin tid skulle fronte Saabs 50-årsjubileum som bilprodusent - så forventes også mye.
+
+De fleste bruktbilene av denne typen på markedet har sorte eller mørke farger. Dette er triste farger som jeg styrer unna rett og slett fordi jeg ikke liker dem. Det tok derfor tid å finne en bil som ikke var sort, grå, mørkblå eller med annet trist fargevalg. Gleden var derfor stor da et sølv metall eksemplar kom for salg, selv om sorte, klamme skinnseter var kamelen jeg måtte sluke.
+
+**Skuffelse**  
+Setter du deg inn så kommer skuffelsene: Det er kun førersetet som kan regulere korsryggstøtten! Setet ved siden av førersetet har ingen slike reguleringsmuligheter. Dette blir bare latterlig når setene er påkostede skinnseter med innfelt logo og mye fine detaljer. Har ikke Saab lært av landsmannen Volvo - som har hatt korsryggstøtte på begge forsetene i sine modeller siden 1965?
+
+Og når du sitter der så må det innrømmes at dashbordet og inntrykket rundt førersetet er potensløst og gammelmodig liksom de fleste Saab-modeller i 900-serien har slitt med i alle år. En gedigen nedtur når det ytre designet gir et så godt førsteinntrykk.
+
+To punkts sikkerhets-seler  
+Latterlig er det også at denne "sikkerhetsbilen" som registeres for 5 personer kun har to nakkestøtter i baksetet og en ekstra nakkestøtte koster en liten formue. Og så er der kun to punkts sikkerhets-seler i midten bak. Og det er ikke mulig å ettermontere tre-punkts-seler. Det er nedtur det! Dette forsterker inntrykket av at her er det snakk om en gammel Saab 9000 fra 80-tallet som er stylet litt opp. Ynkelig lite modernisering den betydelige nybilprisen tatt i betrakning.
+
+**Går i stykker**  
+De små detaljene i dashbordet går fort i stykker. Speilene i sol skjermen er elendig skrudd sammen og plundrete å fikse. Detaljer for air-condition i dashbordet holder ikke lenge - og hele dashbordet må demonteres for å fikse dem. Det blir dyrt.
+
+Lista er lang og de tekniske irritasjonene er mange: Bilen kryr av småfeil. Dette er en bil for deg som liker å mekke selv og har stor tålmodighet med dette svenske bilmerket. En bil for spesielt interesserte.
+
+**Vinterbil**  
+\- Det ingen kan ta fra Saab er det fine veigrepet på vinterføre. Den lekende lette måten denne bilen tar seg fram på vinter veiene er en fryd. Det kan enkelte ganger føles som å kjøre en fire-hjuls-trekk.
+
+\- Sikkerheten på denne Saab'en er også meget god. Folksam rangerer denne 9000-serien blant de beste bilene på kollisjonssikkerhet da denne billmodellen var i salg.
+
+Dette var to gode grunner for å kjøpe bilen: Men bilen ble ikke lenge hos meg. Jeg hater tekniske problemer.

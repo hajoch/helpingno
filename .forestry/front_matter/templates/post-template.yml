@@ -72,6 +72,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/test-saab-9000-cse.md
 - _posts/2019-06-20-sommeren-1977-elvis-presley-og-volvo-amazon.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-19-1-sesong-med-askeladden-16-en-god-sjøbåt.md
