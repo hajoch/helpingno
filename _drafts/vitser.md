@@ -83,3 +83,9 @@ om menigheten gjesper
 når jeg holder prekener  
 eller om de sovner. Men  
 jeg tåler ikke at de rister armbåndsuret for å sjekke om det virker.
+
+**Gebisset**  
+  
+En gammel mann har mistet gebisset over bryggekanten og sports-fiskere prøver fortvilet å hjelpe han med få gebisset på kroken. Den gamle  
+mannen roper:  
+\- Prøv å agne med sild for det liker jeg så godt!
