@@ -11,7 +11,8 @@ excerpt: Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i 
   - Bergen. Billettene bestilles ofte ett år i forveien.
 image: ''
 image_caption: ''
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
 weight: 
 
