@@ -5,13 +5,13 @@ crop_image: true
 tags: []
 title: Økonomitips
 excerpt: Gode råd i personlig økonomi
-image: "/assets/images/logo-1.svg"
+image: "/assets/images/bruktbat.jpg"
 image_caption: ''
 author: ''
 categories:
 - _category/økonomi.md
 publish_date: 
-weight: 
+weight: 7
 
 ---
 **Slik sparer du penger**  
@@ -34,7 +34,7 @@ Slik fungerer økonomien: Ray Dalio forklare deg personlig
 Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i  
 å kjøpe og aksjekursene er høye.
 
-Det er ofte småsparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover  
+Det er ofte små-sparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover  
 i tid er svaret nei.
 
 Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene er lave. Da er der ingen ofensiv markedsføring av aksjer og aksjefond. Da skriver pressen om store tap i aksjemarkedet og få privatkunder ønsker derfor å kjøpe. Småsparere selger sine aksjer og aksjefondsandeler med store tap.
