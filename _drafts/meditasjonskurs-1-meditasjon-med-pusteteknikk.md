@@ -13,7 +13,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/fritid.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 
