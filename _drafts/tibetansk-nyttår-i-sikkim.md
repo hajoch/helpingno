@@ -17,8 +17,6 @@ publish_date:
 weight: 4
 
 ---
-***
-
 Lamadans er den mest fargerike tradisjon i feiringen. |
 
 **Copyright © tekst/foto**  
