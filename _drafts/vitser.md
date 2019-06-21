@@ -45,3 +45,11 @@ Pekkas sønn var helt ustyrlig. På skolen rådde verken lærere eller rektor me
 Da året var omme, kom Pekkas sønn hjem. Nå var han helt forandret, han var snill og kjekk på alle måter, et mønster for alle klassekameratene.  
 \- Vad har dom katolikkar gjort med dej, min son? spurte Pekka.  
 \- Jo farsan, ner jag kom inn i klassrummet på den katolska skolan och såg han dom hadde spikrat upp på veggen, då forstod jag att dom menade allvar."
+
+**På Gamlehjemmet**  
+  
+Det banker på døren.  
+Det ropes bak døren:  
+\- Jeg er ikke hjemme!  
+\- Men skoa dine står på utsida, argumenteres det utenifra.  
+\- Jeg har to par sko, svarer det det til slutt der inne.
