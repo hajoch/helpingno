@@ -8,11 +8,12 @@ excerpt: 'De fleste norske bilister tror tyske bilverksteder er betydelig billig
   enn norske. Det er derfor nå på tide at sannheten kommer frem: Sannheten om de skyhøye,
   tyske verkstedprisene.'
 image: ''
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 author: ''
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 **Av** [**Gunnar Christensen**](http://helping.no/gunnar.htm)
