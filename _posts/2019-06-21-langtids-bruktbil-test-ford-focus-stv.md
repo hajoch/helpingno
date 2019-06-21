@@ -9,14 +9,12 @@ excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liter
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
   Ford Focus er handbrekka: Denne håndbrekka er ikke lengre på nye Focus 2018. '
 image: "/assets/images/focus155.jpg"
-image_caption: |-
-  Foto: Christoffer Jore Christensen.
-  Tekst Gunnar Christensen
-author: ''
+image_caption: 'Foto: Christoffer Jore Christensen.'
+author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 Elendige seter og handsfree som ikke virker om du har iphone.
