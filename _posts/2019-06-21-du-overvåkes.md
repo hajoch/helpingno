@@ -11,7 +11,7 @@ excerpt: Er vårt personvern gått tapt? Tenker du over at du blir overvåket hv
   din passering deg med tid og sted.
 image: "/assets/images/overvake-1.jpg"
 image_caption: ''
-author: ''
+author: _authors/gunnar-christensen.md
 categories:
 - _category/fritid.md
 publish_date: 
@@ -21,8 +21,6 @@ weight: 3
 Du overvåkes
 
 ![](http://helping.no/overvake.jpg =162x150)
-
-[Av Gunnar Christensen](http://helping.no/gunnar.htm)
 
 Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne.Hvem overvåker nasjonalt og internasjonalt?
 
