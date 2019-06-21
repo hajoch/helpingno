@@ -69,3 +69,8 @@ Læreren:
 \- Per! Denne stilen er så dårlig at jeg må snakke med din far!  
 Per:  
 \- Det er nok det beste for det er han som har skrevet den.
+
+**Presten**  
+  
+Presten skal henge opp et bilde i kirken og skal til å feste spikeren da han treffer tommelen. Forpint sier han til klokkeren:  
+ - Nå får du si det som skal sies!
