@@ -21,8 +21,7 @@ weight: 1
 
 ---
 Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)  
-OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. Les alltid UDs oppdaterte reiseråd  
-før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
+OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
 
 **Fiskerne deler broderlig**  
 Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har slitt for på Sri Lanka. Fisken fordeles på den glitrende stranden under palmene: Noe til fiskernes familier, naboer og resten til markedene i byen. Nye fiskeredskaper effektiviserer og utkonkurrerer disse enkle garnredskapene, men fiskerne deler broderlig så alle får.
