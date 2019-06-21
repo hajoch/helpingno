@@ -4,11 +4,12 @@ date: 2019-06-21 11:49:09 +0200
 crop_image: true
 tags: []
 title: Økonomitips
-excerpt: ''
+excerpt: Gode råd i personlig økonomi
 image: "/assets/images/logo-1.svg"
 image_caption: ''
 author: ''
-categories: []
+categories:
+- _category/økonomi.md
 publish_date: 
 weight: 
 
@@ -29,15 +30,24 @@ Slik fungerer økonomien: Ray Dalio forklare deg personlig
 økonomi og samfunnsøkonomi enkelt og lettfattelig:  
 [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
-Aksjekjøp?  
+**Aksjekjøp?**  
 Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i å kjøpe og aksjekursene er høye. Da skal du selge aksjene.
 
 Låne billig til huskjøp av staten?  
 Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
 
-Ung huskjøper  
+**Ung huskjøper**  
 Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
 [husbanken.no/lan/soke-startlan/](http://www.husbanken.no/lan/soke-startlan/)
 
 **Helårs reiseforsikring**  
 er den billigste og beste løsningen også på korte reiser. Helårs reiseforsikring dekker deg vanligvis når du er utenfor hjemkommunen hele året. Reiseforsikring som selges sammen med reisen hos reisebyrået er betydelig dyrere enn helårs reise-forsikring. Stol ikke på at reise-forsikringen på kredittkortet dekker deg fullt ut.
+
+**Hold forsikrings-selskapene i ørene  
+**Sjekk alltid premien på dine forsikringer.
+
+Det er mye penger å tjene på å sjekke prisene på dine forsikringer. Særlig ved hvert hovedforfall. I god tid før hovedforfall bør du sjekke prisene ved å ta en telefon eller nettsjekk til flere andre selskap der du ber om et tilbud på ditt forsikringsbehov. En av våre redaksjons-medarbeidere sparte mer enn fem tusen kroner i forsikringspremie ved siste pris-sammenlikning på hus, bil og båt.
+
+Prisene på ditt forsikringsbehov stiger hvert år. De fleste forsikrings-selskaper er ivrige med å plusse på litt mer hver gang forsikringspremien din går opp. Om du ikke ønsker å skifte selskap kan du konfrontere ditt selskap med konkurrentenes priser. Dette fører ofte til at du får premiereduksjon der du er.
+
+Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurderer å skifte til. Det er når du trenger skadeoppgjør at du erfarer hvor godt forsikret du egentlig er. Det er enkelt å skifte selskap: Ditt nye selskap gjør hele jobben for deg.
