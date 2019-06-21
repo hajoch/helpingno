@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-20 21:54:00 +0200
+date: 2019-06-20T19:54:00.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: 'Sommeren 1977: Elvis Presley og Volvo Amazon. Test veteranbil.'
 excerpt: |-
@@ -10,10 +10,8 @@ excerpt: |-
 
   Av Gunnar Christensen
 image: "/assets/images/volvoamazon.jpg"
-image_caption: |-
-  Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybillansering av Volvo Amazon.)
-
-  Tekst Gunnar Christensen
+image_caption: Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybillansering
+  av Volvo Amazon.)
 categories:
 - _category/bil.md
 publish_date: 
