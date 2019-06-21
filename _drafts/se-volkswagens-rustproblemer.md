@@ -7,7 +7,7 @@ tags: []
 title: Se Volkswagens rustproblemer!
 excerpt: ''
 image: ''
-image_caption: ''
+image_caption: 'Foto: Tactyl, Arendal'
 categories: []
 publish_date: 
 weight: 
@@ -15,10 +15,7 @@ weight:
 ---
 Folk i antirust-bransjen har snakket om det lenge.
 
-| --- |
-|  |
-
-Foto: Tactyl, Arendal, Tekst [Gunnar Christensen](http://helping.no/gunnar.htm)
+Tekst [Gunnar Christensen](http://helping.no/gunnar.htm)
 
 Folk i antirust-bransjen har snakket om det lenge. Også Volkswageneiere har lenge vært frustrert over mer rustproblemer på bilene sine sammenliknet med andre merker. Selv de nyeste modellene har rustproblemer iflg. uavhengige godkjente verksteder.
 
@@ -42,8 +39,8 @@ Senhøstes2012 hadde dette Volkswagen verkstedet bilen inne hele 4 uker bl.a. i 
 
 Konklusjonen er som bildene viser at den såkalte rustbeskyttelse som VW markedsfører er intet verd og har ikke tillit i markedet. Det var først da vi sendte Golfen til liten oljeskiftservice hos annet godkjent serviceverksted i januar 2013 at vi fikk beskjed om stygge rustskader under bilen.
 
-Bilen er nå forevist Tectyl-forhandleren i Arendal som har gitt en pris på sandblåsing/reparasjon og tectylering med 4 års garanti på arbeidet: Pristilbud 2013 er følgende: ?Full Tectylbehandling av bilen din.Tilbud Full Tectylbehandling påVolkswagen Golf 5 er kr. 4 600,- Evt.sandblåsing kommer i tillegg: Startkostnad sandblåsing kr. 1500,-.Timepris sandblåsing kr. 600,- Alle priser er inkl. mva."  
-  
+Bilen er nå forevist Tectyl-forhandleren i Arendal som har gitt en pris på sandblåsing/reparasjon og tectylering med 4 års garanti på arbeidet: Pristilbud 2013 er følgende: ?Full Tectylbehandling av bilen din.Tilbud Full Tectylbehandling påVolkswagen Golf 5 er kr. 4 600,- Evt.sandblåsing kommer i tillegg: Startkostnad sandblåsing kr. 1500,-.Timepris sandblåsing kr. 600,- Alle priser er inkl. mva."
+
 Merkeforhandlers verksted har også gitt ett tilbud på samme feil: Egenandel kr. 6000,- etter først å ha tatt en "Goodwill"-service hos merkeforhandleren til omtrent samme pris og så skal dette være reparert - da uten angitt tids garanti og til dobbel pris i forhold til Tectyl enda det er en "garantiskade".
 
 **Dette frister ikke uten tillit til antirustprogrammet hos VW særlig når vi må betale omring dobbelt så mye her som hos Tectyl.**
