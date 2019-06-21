@@ -34,3 +34,14 @@ Samme kveld går Arne på kino. Hvem andre setter seg ved siden av han der enn �
   
 Presten og buss-sjåføren står begge framfor "Perleporten" etter et langt liv på jorden og ber St. Peter om å komme inn i "Himmelen".  
 \- Du kommer ikke inn, sier St. Peter til presten. Da du preket i kirken sovnet tilhørerne. Henvendt til Buss-sjåføren sier St. Peter: - Men du kommer inn for når du kjørte bussen begynte alle å be.
+
+**Finske vitser**  
+  
+Historien er hentet fra boksamlingen  
+"Finske vitser" av Stene Grødum:
+
+Pekkas sønn var helt ustyrlig. På skolen rådde verken lærere eller rektor med ham. Han stjal, mobbet og røkte. Både lærere og Pekka hadde nesten gitt ham opp, da en lærer fant på at de skulle prøve å plassere ham i en katolsk internatskole ett år.
+
+Da året var omme, kom Pekkas sønn hjem. Nå var han helt forandret, han var snill og kjekk på alle måter, et mønster for alle klassekameratene.  
+\- Vad har dom katolikkar gjort med dej, min son? spurte Pekka.  
+\- Jo farsan, ner jag kom inn i klassrummet på den katolska skolan och såg han dom hadde spikrat upp på veggen, då forstod jag att dom menade allvar."
