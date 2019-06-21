@@ -5,7 +5,7 @@ crop_image: true
 tags: []
 title: Økonomitips
 excerpt: ''
-image: ''
+image: "/assets/images/logo-1.svg"
 image_caption: ''
 author: ''
 categories: []
