@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 08:48:37 +0200
+date: 2019-06-21T06:48:37.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: Kreftfremkallende plastflasker
 excerpt: EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann
