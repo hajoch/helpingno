@@ -60,14 +60,10 @@ Prisene på ditt forsikringsbehov stiger hvert år. De fleste forsikrings-selska
 
 Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurderer å skifte til. Det er når du trenger skadeoppgjør at du erfarer hvor godt forsikret du egentlig er. Det er enkelt å skifte selskap: Ditt nye selskap gjør hele jobben for deg.
 
-**Annonse:**[  
-](http://kredittkort.com/guide) [www.nettavisen.no/kredittkort  
-www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)
-
-[https://sol.no/forbruksl](https://sol.no/forbruksl "https://sol.no/forbruksl")[ån](https://sol.no/forbruksl%C3%A5n)
-
-[https://www.seher.no/forbruksl](https://www.seher.no/forbruksl "https://www.seher.no/forbruksl")[ån](https://www.seher.no/forbruksl%C3%A5n)
-
-[https://coinweb.no](https://coinweb.no "https://coinweb.no")
-
+**Annonser:**   
+[www.nettavisen.no/kredittkort  
+www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
+[https://sol.no/forbruksl](https://sol.no/forbruksl "https://sol.no/forbruksl")[ån](https://sol.no/forbruksl%C3%A5n)  
+[https://www.seher.no/forbruksl](https://www.seher.no/forbruksl "https://www.seher.no/forbruksl")[ån](https://www.seher.no/forbruksl%C3%A5n)  
+[https://coinweb.no](https://coinweb.no "https://coinweb.no")  
 [https://billig-forbrukslån.no](https://xn--billig-forbruksln-orb.no/)
