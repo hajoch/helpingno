@@ -11,9 +11,10 @@ excerpt: Lindau heter en liten kystby med havn mot vakre Bodensee, en innsjø me
 image: "/assets/images/joke.ty.jpg"
 image_caption: Foto GC
 author: ''
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 
