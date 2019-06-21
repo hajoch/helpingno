@@ -34,3 +34,7 @@ Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det hetes
 
 Låne billig til huskjøp av staten?  
 Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
+
+Ung huskjøper  
+Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
+[husbanken.no/lan/soke-startlan/](http://www.husbanken.no/lan/soke-startlan/)
