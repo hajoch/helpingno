@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2019-06-21 08:48:37 +0200
+crop_image: true
+author: ''
+tags: []
+title: Kreftfremkallende plastflasker
+excerpt: ''
+image: ''
+image_caption: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+
+EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan være kreftfremkallende.
+
+Dette rammer også de samme flaskene som brukes til salg av øl,mineralvann og det meste av emballasjen som benyttes til matvarer.
+
+Nyheten slo ned som en bombe hos norske forbrukere og vil trolig gi utslag bl.a. på omsetningen av flaskevann, øl og mineralvann fremover.
+
+Skepsisen til plastflasker er dermed bekreftet: Det er ikke lengre tvil om at glassflasker er best. Drikke i glassflasker smaker best og har ikke kreftrisiko. Jo lengre drikken er lagret på plastflasker dess verre er det iflg. forskerne.
+
+Til NRK radio P1 opplyste en av forskerne i undersøkelsen at det japanske markedet har valgt en annen type plast uten antimon i plastflaskene til drikkevarer der. Disse flaskene har en gråaktig farge, men er til gjengjeld et bedre produkt fra et helsesynspunkt ble det hevdet. Produsentene av emballasje i Europa bør snakke med sine råvareleverandører, mente forskeren.
+
+**Matvarer i plast**  
+Konsekvensene av denne nyheten er dramatiske etter som de fleste matvarer i dag er emballert i denne type plast over hele Europa.
+
+Mange spør seg: Står vi nå overfor en forklaring på økningen i krefttilfeller?
+
+Matvarer pakket i hermetikk, glass eller papir har nå beviselig sunnere emballasjer. De fleste matvarene er nå pakket i plast. Men dette kan endre seg om vi kjøper mer hermetikk fremfor plastpakket mat, velger syltetøy og saft i glass og ost på tube fremfor plastpakket ost fra fabrikk etc.. Straks produsentene ser at omsetningen av matvarer pakket i hermetikk, glass eller papir øker, vil det tilbyes flere varer med denne emballasjen.
+
+Straks etterspørselen av matvarer innpakket i plast minker vil produsentene finne nye løsninger på emballasjen. Våre kjøpevaner styrer produsentenes tilbud. Dette er vår forbrukermakt. Og det er nå naturlig at vi unngår mest mulig mat som er pakket i kreftfremkallende plastemballasje.
+
+| --- |
+| Tips om drikkevann:Bruk en glassflaske med skrukork når du tar med deg drikkevann. Da unngår du problemene med plastflasker som gir fra seg helseskadelige stoffer.(Se artikkelen på samme side: "Kreftfremkallende plastflasker"). Har du en vannrenser på kjøkkenet er dette bra drikkevann. (Se anrtikkel "Vannrenser" på samme side.) Ellers kan du koke vann som kjøles ned og helles på glassflaske. Du kan i stedet for glassflaske bruke liten juicekartong med skrukork om det passer deg bedre.  |
