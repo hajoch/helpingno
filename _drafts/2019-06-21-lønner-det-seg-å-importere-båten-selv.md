@@ -8,9 +8,10 @@ excerpt: Kjøpe båt i Sverige? Importere båt fra USA? Importer AMT fra Finland
 image: ''
 image_caption: ''
 author: ''
-categories: []
+categories:
+- _category/båt.md
 publish_date: 
-weight: 
+weight: 8
 
 ---
 ###### Kjøpe båt i Sverige?  
