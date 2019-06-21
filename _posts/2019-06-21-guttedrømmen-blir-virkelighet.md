@@ -7,7 +7,7 @@ title: Guttedrømmen blir virkelighet
 excerpt: Bruktbiltest - Trimmet til 425 hk.Ford Mustang - 2005 V8
 image: "/assets/images/mustang4.jpg"
 image_caption: 'Tekst/Foto: Christoffer Jore Christensen'
-author: ''
+author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
