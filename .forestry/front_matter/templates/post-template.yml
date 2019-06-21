@@ -71,7 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/vitser.md
+- _posts/2019-06-21-vitser.md
 - _posts/2019-06-21-økonomitips.md
 - _posts/2019-06-21-lønner-det-seg-å-importere-båten-selv.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
