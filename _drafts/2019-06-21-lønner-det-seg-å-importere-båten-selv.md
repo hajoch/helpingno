@@ -49,3 +49,10 @@ jeg ser at du er misfornøyd med at det ikke går an å kjøpe AMT uten motor. D
 Med vennlig hilsen T. W.
 
 Link AMT: [http://www.amt-veneet.fi/index.php?l=en](http://www.amt-veneet.fi/index.php?l=en "http://www.amt-veneet.fi/index.php?l=en")
+
+**Ikke kjøp båt med treverk fra fredet regnskog!**  
+Vi kjenner alle til at regnskogen i Sør-Amerika er avgjørende viktig for jordklodens helsetilstand: Denne grønne lungen ved Amazonas renser store mengder forurenset luft og hele klodens helsetilstand er avhengig av denne såkalte fotosyntesen i dette store skogområdet. Skogen er vårt eneste vern mot forurensningen som alt er sluppet ut: Mer forurensning fører til flere naturkatastrofer og ekstremvær.
+
+Denne grønne lungen i Amazonas minker for hvert år mens forurensningen på kloden stiger. Gjør det du kan ved ikke å kjøpe tresorter som ulovlig blir hugget i fredet området.
+
+Har du den miste mistanke om at teaken til båtinnredningen er fra regnskog så la være å kjøpe. Ikke tro på den vanlige bløffen om at dette er "plantasjetreverk". Gi ditt bidrag til at vi får en friskere klode. Ikke kjøp dette treverket!
