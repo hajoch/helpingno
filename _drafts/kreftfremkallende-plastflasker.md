@@ -5,7 +5,9 @@ crop_image: true
 author: ''
 tags: []
 title: Kreftfremkallende plastflasker
-excerpt: ''
+excerpt: EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann
+  avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan
+  være kreftfremkallende.
 image: "/assets/images/flasker.jpg"
 image_caption: "Foto Gunnar Christensen. Bruk en glassflaske med skrukork når du tar
   med deg drikkevann. \n"
@@ -15,9 +17,7 @@ publish_date:
 weight: 5
 
 ---
-EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan være kreftfremkallende.
-
-Dette rammer også de samme flaskene som brukes til salg av øl,mineralvann og det meste av emballasjen som benyttes til matvarer.
+Dette rammer også de samme flaskene som brukes til salg av øl, mineralvann og det meste av emballasjen som benyttes til matvarer.
 
 Nyheten slo ned som en bombe hos norske forbrukere og vil trolig gi utslag bl.a. på omsetningen av flaskevann, øl og mineralvann fremover.
 
