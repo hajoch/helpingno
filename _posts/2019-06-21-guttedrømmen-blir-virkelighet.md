@@ -8,7 +8,7 @@ excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
   Trimmet til 425 hk.
 image: "/assets/images/mustang4.jpg"
-image_caption: 'Tekst/Foto: Christoffer Jore Christensen'
+image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
