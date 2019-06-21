@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/gjøkuret-fra-schwartzwald.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-21-du-overvåkes.md
 - _posts/2019-06-21-vitser.md
