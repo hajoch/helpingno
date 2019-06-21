@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 09:54:57 +0200
+date: 2019-06-21T07:54:57.000+00:00
 crop_image: true
-author: ''
+author: _authors/leserinnlegg.md
 tags: []
 title: Kosthold for godt syn
 excerpt: Kan du få bedre syn av å spise sunt? Hva slag mat er bra for øynene dine?
