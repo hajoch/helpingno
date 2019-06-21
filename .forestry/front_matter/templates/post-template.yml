@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/landeveispiratene.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md
 - _posts/2019-06-20-sommeren-1977-elvis-presley-og-volvo-amazon.md
