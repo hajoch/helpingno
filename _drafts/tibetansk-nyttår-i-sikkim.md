@@ -27,7 +27,7 @@ Lamadans er den mest fargerike tradisjon i feiringen. |
 Hans Hellighet den 16 Karmapa er på det tibetansk-  
 buddhistiske klosteret Rumtek. Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
 
-**Det mest ettertraktede stedet å feire det tibetanske nyttår er kanskje i Hans Hellighet Kamapas kloster Rumtek. Rumtek-klosteret er i Sikkim. En liten, men meget militarisert delstat i India på grensen mot Tibet, klemt mellom Nepal og Buthan.**
+Det mest ettertraktede stedet å feire det tibetanske nyttår er kanskje i Hans Hellighet Kamapas kloster Rumtek. Rumtek-klosteret er i Sikkim. En liten, men meget militarisert delstat i India på grensen mot Tibet, klemt mellom Nepal og Buthan.
 
 Klosteret ligger i fjellsiden på over to tusen meters høyde med utsikt over en dyp dal til byen Gangtok, tidligere kongedømme Sikkims gamle hovedstad.
 
@@ -36,12 +36,6 @@ Klosteret ligger i fjellsiden på over to tusen meters høyde med utsikt over en
 
 På gårdsplassen foran klosteret dundrer de store trommene etterfulgt av trompeter i forskjellige lokale varianter. Lamadansene er i gang.  
 Gårdsplassen foran klosteret er omkranset av en ett etasjes bygning som danner en kvaderatisk ramme om området. Taket over dette kvaderatiske bygget er flatt og fungerer som publikumstribune mens lamaer og munker danser på plassen. Lamaer er munker som har nådd litt lengre på den åndelige rangstigen.
-
-| --- |
-|  |
-
-| --- |
-| Barnemunker stortrives med besøki Rumtek-klosteret i Sikkim. |
 
 **Som tordenvær**  
 På en varanda ved inngangen til klostertempelst sitter orkesteret med trommer, fløyter, symballer og de særpregede radongene - et flere meter langt sammenleggbart blåseinstrument av metall oftest kunstferdig dekorert i sølv. Musikken er monoton og fremmedartet. Trompeter og radonger kommer inn med ujevne mellomrom mens de store trommene - som minner om tordenvær - dundrer sakte og taktfast.
@@ -53,12 +47,6 @@ Dansene begynner hver dag klokken ti og varer uavbrudt av pauser til klokken 17.
 **Masker**  
 Andre dags feiring har økt fantasi og fargeprakt: Nå danses det med masker. Symbolikken kommer nå sterkere frem i dansen. Maskene har dyrehoder, fuglehoder og djevelmasker med dødningenhoder. Symboler på krefter som arbeider for å rense ut dårlige handlinger fra området før det nye året kommer.
 
-| --- |
-|  |
-
-| --- |
-| Lamadanserne har mange ulike masker |
-
 **Buthanesiske kongehus**  
 Tredje dagen fortsetter denne maskerte fargeprakten. Publikumsoppsluttningen er jevnt stigende. Selv det buthanesiske kongehus og de lokale politiske ledewre er til stede: De er alle tilhengere av kamapa, hvilket sier litt om denne høye lamaens innflytelse - også politisk.
 
@@ -67,12 +55,6 @@ En drøyt seks meter høy smørfigur er stilt opp midt på danseplassen denne tr
 
 **Kroningsseremoni**  
 Første nyttårsdag - etter den tibetanske kalenderen - feires med storslagen fest og kroningsseremoni i en ekstra pent og pyntet tempelsal dekorert med vakre thankaer - de karakteristiske veggmalerien innlemmet i brokader av tekstil. Her sitter stedets høyeste lama - Karmapa - på den høyeste tronen plassert mot veggen motsatt inngangen. Karmapa er øverste leder for Karjopaskolen - en av fire trosretninger i den tibetanske buddhismen. Ved hans side sitter de øvrige høye lamaer fjorten i tallet - kalt rinpocher plassert etter rang og orden: Høyden på tronen de sitter på avhenger av deres åndelige rang. Foran dem sitter klosterets 350 munker og lamaer foruten legfolk og pilgrimmer.
-
-| --- |
-|  |
-
-| --- |
-| Karmapa feirer nyttår i Rumtek-klosteret i Sikkim. |
 
 **Syv hviledager**  
 Lykkeønskninger og gratulasjoner preger seremoniene. Legfolket gir de helleige menn khadaer - en slags hvite silkeskjerf - som skikk er i den tibetanske kultur. Framfor Karmapas trone er stablet en mengde frukter og kaker som fordeles og fortæres ved seremoniens slutt. Her er mer enn deltakerne kan svelge unna, så de fleste kommer bærerne med hver sin kakestabel etter seremonien.  
