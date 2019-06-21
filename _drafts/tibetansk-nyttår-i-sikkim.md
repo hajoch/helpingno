@@ -7,9 +7,9 @@ title: Tibetansk nyttår i Sikkim
 excerpt: Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre
   dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
 image: "/assets/images/rumtek.jpg"
-image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer
-  i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for
-  å samle stoff til sin master/hovedoppgave i religionsvitenskap.
+image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
+  pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
+  klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap.
 author: ''
 categories:
 - _category/reise.md
