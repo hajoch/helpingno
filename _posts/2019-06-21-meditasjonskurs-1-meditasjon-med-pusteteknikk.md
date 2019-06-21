@@ -16,8 +16,6 @@ publish_date:
 weight: 5
 
 ---
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
 Denne form for meditasjon har en fin innvirkning på både kropp og sinn. Pusten er selve livsrytmen din. Pusten er livet.....
 
 ![](http://www.helping.no/kule.jpg =12x12) Du kan gjøre disse øvelsen hjemme eller ute i naturen. Du kan meditere i ti minutter eller en halv time alt etter hva som passer deg best. Kanskje 20 min?
