@@ -6,11 +6,12 @@ author: ''
 tags: []
 title: Se Volkswagens rustproblemer!
 excerpt: Folk i antirust-bransjen har snakket om det lenge.
-image: ''
+image: "/assets/images/rust.vw.jpg"
 image_caption: 'Foto: Tactyl, Arendal'
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
 
