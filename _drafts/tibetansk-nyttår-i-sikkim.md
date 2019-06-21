@@ -11,21 +11,18 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
   i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for
   å samle stoff til sin master/hovedoppgave i religionsvitenskap.
 author: ''
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
-****
+***
 
-| --- |
-|  |
-
-| --- |
-| Lamadans er den mest fargerike tradisjon i feiringen. |
+Lamadans er den mest fargerike tradisjon i feiringen. |
 
 **Copyright © tekst/foto**  
-[**Gunnar Christensen**](http://www.helping.no/gunnar.htm) 
+[**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
 Hans Hellighet den 16 Karmapa er på det tibetansk-  
 buddhistiske klosteret Rumtek. Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
