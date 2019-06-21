@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-17 15:05:47 +0200
+date: 2019-06-17T13:05:47.000+00:00
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: ''
 tags: []
 title: Boligleie
 excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
@@ -67,3 +67,12 @@ Husk på at det du har med deg når du flytter inn i boligen har en verdi. Du ha
 Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du bestemmer deg. Enkelte medlemskap eller arbeidsforhold kan gi rabatt hos noen forsikringsselskaper. Hvis du er student og ikke melder flytting til studiested i folkeregisteret, kan du i noen tilfeller være dekket under dine foreldrenes innboforsikring, men dette er ofte aldersbestemt - slik at forsikringen opphører når du f. eks. er over 23 år.
 
 Lykke til med boligjakten.
+
+**Elektrikerens spare-råd:   
+Sparepæren er ikke alltid best.**
+
+Mange skifter til spare-pærer for å spare strøm.  
+På belysning utendørs er sparepæren god å ha,  
+men inne er det verre. For sparepæren er egentlig et lite lysrør og den oppfører seg også slik. Det betyr at den gir fra seg lys i form av små blink du knapt merker og ikke jevnt lys som en vanlig lyspære. Disse små blinkene oppfatter du ikke. Likevel oppfatter hodet ditt disse blinkene og gjør deg lettere sliten hvis du bruker sparepærer som leselys. Lyset blir omtrent som ved bruk av vanlige lysrør.
+
+Som leselys er en vanlig lyspære derfor å foretrekke. I tillegg gir den fra seg varme slik at den er en varmekilde i tillegg til en lyskilde. Er lyspæren på 60 watt gir den fra seg 60 watt varme i tillegg til lyset du får fra pæren. Dermed trenger du mindre oppvarming med vanlige lyspærer enn med sparepærer i huset.
