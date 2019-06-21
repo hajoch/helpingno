@@ -17,9 +17,6 @@ weight: 5
 
 ---
 
-| --- |
-|  |
-
 [**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
 **Mantra-meditasjon er bare en av mange måter å meditere på.**
