@@ -15,13 +15,13 @@ weight:
 ---
 **Slik sparer du penger**  
 Sjekk om du har det rimeligste tilbud  
-innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)  
-  
+innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)
+
 Sjekk om du har rimeligst strømtilbud på:  
-[www.konkurransetilsynet.no](http://www.konkurransetilsynet.no/)  
-  
+[www.konkurransetilsynet.no](http://www.konkurransetilsynet.no/)
+
 Sjekk om du har det rimeligste  
- tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
+tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
 
 [Økonimi-tips](http://helping.no/oko.oko.htm)
 
@@ -31,3 +31,6 @@ Slik fungerer økonomien: Ray Dalio forklare deg personlig
 
 Aksjekjøp?  
 Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i å kjøpe og aksjekursene er høye. Da skal du selge aksjene.
+
+Låne billig til huskjøp av staten?  
+Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
