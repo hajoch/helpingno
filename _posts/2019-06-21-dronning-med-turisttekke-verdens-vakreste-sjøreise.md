@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-21 10:11:38 +0200
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags: []
 title: 'Dronning med turisttekke: Verdens vakreste sjøreise'
 excerpt: Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i de
@@ -14,11 +14,9 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
-Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)
-
 Hele året seiler et skip daglig nordover og sørover fra hvert anløp langs den 2000 km lange kyststripen. Trolig verdens vakreste naturlandskap i fint vær. Dyktige sjøfolk fører skipene innenskjærs - en av verdens vanskeligste skipsleier særlig i hardt vintervær.
 
 Turistskipene langs kysten er fremmedlegemer i de nordiske farvann. Hurtigruten derimot er hverdagen - selve livsnerven for en halv million mennesker langs kysten av Nord-Norge og Finnmark. Den er det sikreste og mest pålitelige kommunikasjonsmiddel uansett vær for mange småsamfunn.
