@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-06-21 09:38:21 +0200
+date: 2019-06-21T07:38:21.000+00:00
 crop_image: true
-author: ''
+author: _authors/leserinnlegg.md
 tags: []
 title: 'Spar penger: Fem sparetips'
 excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av måneden.
