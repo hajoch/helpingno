@@ -8,35 +8,34 @@ excerpt: Da AMT-båtene kom på markedet ble de markedsført som "bedre enn du f
   Da var det spennende å se om dette holder mål på kvalitet i bruk, praktiske løsninger
   og service. Båten er flott på alle måter. Den er virkelig bedre enn forventet.
 image: "/assets/images/amt.9.jpg"
-image_caption: Foto og tekst Gunnar Christensen
-author: ''
+image_caption: Foto Gunnar Christensen
+author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
 weight: 5
 
 ---
-"Bedre enn du forventer"
-
-**Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
 Hondamotoren derimot hadde problemer de to første sesongene og videre noe som ble tatt som garantireparasjoner: Siden ble Hondaen friskmeldt og fungerte. Motortrøbbel i garantitiden er ikke "bedre enn forventet".
 
-**Fakta og test AMT 185BR** - 
+**Fakta og test AMT 185BR** -
 
-Tekniske data testbåt: 
+Tekniske data testbåt:
 
-* Lengde 5,50 m. Bredde 2,24 m. 
-* - Vekt 690 kg. 
-* - Kalesje og hydraulisk styringer inkludert i prisen
-* - 90 liters innebygd bensintank. 
-* - Ekstrautstyr er baugkalesje, comfortstoler med trekk og båthenger. 
+* Lengde 5,50 m. Bredde 2,24 m.
+* 
+  * Vekt 690 kg.
+* 
+  * Kalesje og hydraulisk styringer inkludert i prisen
+* 
+  * 90 liters innebygd bensintank.
+* 
+  * Ekstrautstyr er baugkalesje, comfortstoler med trekk og båthenger.
 * Båten er spesialbestiltuten grå stripe.
 * Motor på testbåten eren Honda 90 hk VTEC 4-
 
-    
-  **Testresultat: Båt:   
-  Motor Konklusjon: båt og motor** 
+  **Testresultat: Båt:  
+  Motor Konklusjon: båt og motor**
 
 **Båten:**
 
