@@ -1,0 +1,48 @@
+---
+layout: post
+date: 2019-06-21 11:12:41 +0200
+crop_image: true
+tags: []
+title: Lønner det seg å  importere båten selv?
+excerpt: Kjøpe båt i Sverige? Importere båt fra USA?
+image: ''
+image_caption: ''
+author: ''
+categories: []
+publish_date: 
+weight: 
+
+---
+**  
+Kjøpe båt i Sverige?**  
+Båtkjøp i Sverige kan lønne seg. Flere har beregnet prisgevisnt på egen import av ny båt fra utlandet: Sjekk derfor prisene i Sverige - kanskje du kan oppfylle båtdrømmen billigere enn du trodde?  
+  
+Når du kjøper ny båt i Sverige får du refundert den svenske momsen, men må betale norsk moms og hk-avgift på den norske grensen.  
+  
+Her er linker til svenske nettsteder for nye og brukte båter:  
+[**http://batnet.se**](http://batnet.se "http://batnet.se")
+
+Husk at når du importerer ny båt fra områder med moms får du refundert momsen fra f.eks. Sverige eller Tyskland.
+
+Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
+
+**Importere båt fra USA?**
+
+| --- |
+|  |
+
+  
+Importeres båten direkte fra USA finnes flere kjente merker.  
+  
+Et regne-eksempel:  
+En beregning viser at det kan være mye å spare på egenimport av en ny Bayliner 175 bowrider  
+([http://www.bayliner.com/_usca/index.php?gclid=](http://www.bayliner.com/_usca/index.php?gclid= "http://www.bayliner.com/_usca/index.php?gclid=")) i forhold til forhandlerpris i Norge hvor prisen er ca 200.000 kroner. I USA koster denne båten ca. 10.000 US$ fra produsent.. Med frakt, CE-merking, moms og hk-avgift innregnet vil båten bli billigere.
+
+**Bayliner 180**  
+Undersøk nøye båtens kavlitetet og spesifikasjoner før du handler. Eksemplet Bayliner 180 vurderes slik: Bayliner 180 ble vurdert sammen med de øvrige bowriderbåtene i vår bowridertest, men diskvalifisert i den endelige avgjørelsen først og fremst fordi den ikke er selvlensende og i tillegg mangler flere av de løsningene bowriderne i denne testen har og som er tilpasset norsk forhold. Bl.a. stiller vi et spørsmål ved kvaliteten på det heldekkende stoff-interiøret i en båt som ikke leveres med heldekkende kalesje som standard. Der er kopp-holdere på dekk uten dekke over og med drenasje ned i båten m.m.: Tåler denne båten en regnfull norsk sommersesong uten å mugge? Videre mangler båten dreggluke akter hvilket gir muligheter for mye søl innabords i stoffinteriøret. Bayliners tidligere modeller som ble importert til Norge har ikke alltid vist seg å ha god kvalitet. Tiden vil vise om de nye båtene fra Bayliner nå er blitt bedre.
+
+**Importerer du båt fra USA må du regne med en frakttid på ca. 8 uker fra båten sendes fra USA som skipsfrakt til den er i Norge**.
+
+Ofte får du båthenger med på kjøpet i USA. Kjøper du båt sammen med andre båtkjøpere du kjenner kan du kanskje få rimeligere priser og frakt? Pass på å ha klare, ryddig avtaler med klare spesifiserte priser på alt du trenger i båten og til båten med seriøse selgere så du ikke blir lurt.
+
+Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
