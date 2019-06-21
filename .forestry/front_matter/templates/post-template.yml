@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-21-langtids-bruktbil-test-ford-focus-stv.md
 - _posts/2019-06-21-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md
 - _posts/2019-06-21-gjøkuret-fra-schwartzwald.md
