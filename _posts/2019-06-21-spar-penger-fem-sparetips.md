@@ -11,14 +11,14 @@ excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av 
   tre kan bidra til mer enn bare økonomien. Følger du tips 3-5, kan du også gjøre
   noe for helsen og for miljøet. Så her kan du både spare og bli et noe bedre menneske.
 image: "/assets/images/skagen3.jpg"
-image_caption: ''
-categories: []
+image_caption: 'Foto: Gunnar Christensen'
+categories:
+- _category/økonomi.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
-Av Julie Jørgensen  
-llustrasjonsfoto: [Gunnar Christensen](http://www.helping.no/gunnar.htm)
+Av Julie Jørgensen
 
 **1. Gå gjennom gjelden din**  
 Flertallet av nordmenn har boliglån, og for de fleste er boliglån en måte å spare på. Ved å "tvinge" seg selv til å nedbetale hver måned, investerer man i sin egen bolig. Fordi nedbetaling av boliglån som regel utgjør en større utgift, kan en reduksjon i renten gjøre en betydelig forskjell. Betaler du 4.7% rente for et lån på 1 million over 20 år, kan du spare 455 kroner per måned ved å forhandle renten ned til 3.8%. På årsbasis blir det 5460 kroner spart.
