@@ -31,9 +31,17 @@ Slik fungerer økonomien: Ray Dalio forklare deg personlig
 [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
 **Aksjekjøp?**  
-Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i å kjøpe og aksjekursene er høye. Da skal du selge aksjene.
+Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i  
+å kjøpe og aksjekursene er høye.
 
-Låne billig til huskjøp av staten?  
+Det er ofte småsparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover  
+i tid er svaret nei.
+
+Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene er lave. Da er der ingen ofensiv markedsføring av aksjer og aksjefond. Da skriver pressen om store tap i aksjemarkedet og få privatkunder ønsker derfor å kjøpe. Småsparere selger sine aksjer og aksjefondsandeler med store tap.
+
+Det er da de profesjonelle aktørene går med tyngde inn i markedet med sine aksjeoppkjøp til lave kurser: For de vet at kursene vil gå opp senere og de har mye å tjene på å kjøpe. De vurderer tidspunktet nøye: Når er markedet på det laveste før oppgangen?
+
+**Låne billig til huskjøp av staten?**  
 Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
 
 **Ung huskjøper**  
