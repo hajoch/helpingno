@@ -9,7 +9,7 @@ excerpt: Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i 
   åtte nordligste fylkene er Hurtigruten en like naturlig del av kysten som Lofotveggen
   og Hestmannen. Utenlandske turister står i kø for å få rundreisen Bergen - Kirkenes
   - Bergen. Billettene bestilles ofte ett år i forveien.
-image: ''
+image: "/assets/images/hurtigruten (1).jpg"
 image_caption: ''
 categories:
 - _category/reise.md
