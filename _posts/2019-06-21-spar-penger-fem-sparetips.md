@@ -10,7 +10,7 @@ excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av 
   er at du prøver noe du er motivert til. Her presenterer vi fem sparetips, hvorav
   tre kan bidra til mer enn bare økonomien. Følger du tips 3-5, kan du også gjøre
   noe for helsen og for miljøet. Så her kan du både spare og bli et noe bedre menneske.
-image: ''
+image: "/assets/images/skagen3.jpg"
 image_caption: ''
 categories: []
 publish_date: 
