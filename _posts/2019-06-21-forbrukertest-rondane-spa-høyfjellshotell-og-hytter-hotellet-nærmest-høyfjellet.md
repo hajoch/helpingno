@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 10:03:25 +0200
+date: 2019-06-21T08:03:25.000+00:00
 crop_image: false
 author: ''
 tags: []
@@ -18,7 +18,6 @@ publish_date:
 weight: 
 
 ---
-
 Oftest er det hotellet nærmest høyfjellet som tilbyr deg den mest komfortable overnattingen som bad med dusj etc. liksom her. En dusj er ingen selvfølge i høyfjellet og fremstår som rene luksusen til fjellheimen å være.
 
 Vi er en familie på fem som leide en leilighet i tilknytning til hotellet i fire døgn. Leiligheten hadde sengeplass til seks personer og eget kjøkken bad og to soverom. Bortsett fra en hemningsløs knirking i gulvet var denne leiligheten aldeles utmerket med egen liten, overbygd luftealtan. Herfra var utsikten innbydende og omgivelsene fredelige. Du er ute i naturen her og det er deilig å ha ro rundt seg. En liten dagligvarebutikk i nærheten har de nødvendigste varene om du ikke bruker hotellets spisested.
