@@ -10,17 +10,14 @@ excerpt: Lindau heter en liten kystby med havn mot vakre Bodensee, en innsjø me
   og varianter.
 image: "/assets/images/joke.ty.jpg"
 image_caption: Foto GC
-author: ''
+author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
 weight: 3
 
 ---
-
 Gjøkuret fra "Schwartzwald" i Syd Tyskland.
-
-Av [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
 Inne i butikken står et eldre ektepar parat til å selge:  
 \- Mein Herr! Wollen Sie ein Kukukksuhr? Ønsker herren et gjøkur?  
@@ -34,7 +31,7 @@ Ekspeditøren klør seg i barten:
 \- Ach so! Aber leider nicht. Disse gjøkurene er dessverre ikke derfra.
 
 Dagen etter kommer jeg på ny i land i Lindau havn. I dag har det kommet opp store skilt på utstillingsvinduene sammen med gjøkurene:  
- ?Gjøkur fra Swartzwald?.
+?Gjøkur fra Swartzwald?.
 
 I butikken smiler ekspeditøren bredt i barten.  
 \- Hvilke gjøkur er fra Swartzwald?  
