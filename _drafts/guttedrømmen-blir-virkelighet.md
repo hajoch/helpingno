@@ -30,9 +30,6 @@ Som sportsbil er denne bilen perfekt, det utvendige og innvendige designet er ny
 
 Mustangen drikker sjokkerende mye bensin, og med dagens norske drivstoffpriser ser enhver person at denne bilen er langt ifra rettet til forholdene vi har her i Norge. Mustangen passer aller best i hjemlandet USA, på langstrakte brede amerikanske veier og med lave drivstoffpriser.
 
-| --- |
-|  |
-
 Bilen er herlig å kjøre. Det er nemlig en helt spesiell følelse å sitte bak rattet i denne bilen, du som sjåfør sitter dypt nede i et robust og komfortabelt skinnsete med dårlig sikt fremover grunnet panserets design. Fremfor deg møter du et fantastisk retro interiør med ett mellomtjukt Mustang-ratt aller fremst. Designet her er enkelt, men utrolig elegant. Pedalene er harde, men gode å legge føttene på.
 
 Når du så vrir om nøklen brummer umiddelbart 425 ville mustang hester som er godt forberedt om føreren presser gasspedalen i gulvet. V8'erens lyd er en veldig sentral ting ved bilen. Den er en av de store faktorene som gjør denne bilen fantastisk. Lyden av den åttesylindrede motoren er ubeskrivelig, den er herlig uansett turtall og gir. Med høyt turtall i de fire første girene opplever man en hylende fryktinngytende motordur med en vanvittig akselerasjon. Mens i femte og siste gir får man en herlig klukkende motordur som låter veldig amerikansk. Men ikke misforstå, i femte gir er det også nok av krefter til å føre deg videre frem i enda høyere fart.
