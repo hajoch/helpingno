@@ -8,7 +8,7 @@ excerpt: "  Slipp latteren løs og kjenn hvor befriende\nog godt det er å trene
   \ Latter er helsebringende. Det er rett at latter\nforlenger livet og holder deg
   friskere.\n\n  Latter gir bedre livskvalitet. Kjenn hvor mye bedre\ndu føler deg
   etter å ha hørt en god vits. "
-image: ''
+image: "/assets/images/ur2.jpg"
 image_caption: ''
 author: ''
 categories: []
@@ -29,3 +29,8 @@ Arne er på sesjon der han satser alt på å slippe militærtjeneste ved å spil
 
 Samme kveld går Arne på kino. Hvem andre setter seg ved siden av han der enn øyenlegen fra sesjonen. Arne tenker raskt at nå er gode råd er dyre, han dulter øyenlegen i siden og spør:  
 \- Unnskyld, er dette bussen til Hønefoss?
+
+**Presten og buss-sjåføren**  
+  
+Presten og buss-sjåføren står begge framfor "Perleporten" etter et langt liv på jorden og ber St. Peter om å komme inn i "Himmelen".  
+\- Du kommer ikke inn, sier St. Peter til presten. Da du preket i kirken sovnet tilhørerne. Henvendt til Buss-sjåføren sier St. Peter: - Men du kommer inn for når du kjørte bussen begynte alle å be.
