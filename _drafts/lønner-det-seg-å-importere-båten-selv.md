@@ -13,12 +13,12 @@ publish_date:
 weight: 
 
 ---
-**  
+\**  
 Kjøpe båt i Sverige?**  
-Båtkjøp i Sverige kan lønne seg. Flere har beregnet prisgevisnt på egen import av ny båt fra utlandet: Sjekk derfor prisene i Sverige - kanskje du kan oppfylle båtdrømmen billigere enn du trodde?  
-  
-Når du kjøper ny båt i Sverige får du refundert den svenske momsen, men må betale norsk moms og hk-avgift på den norske grensen.  
-  
+Båtkjøp i Sverige kan lønne seg. Flere har beregnet prisgevisnt på egen import av ny båt fra utlandet: Sjekk derfor prisene i Sverige - kanskje du kan oppfylle båtdrømmen billigere enn du trodde?
+
+Når du kjøper ny båt i Sverige får du refundert den svenske momsen, men må betale norsk moms og hk-avgift på den norske grensen.
+
 Her er linker til svenske nettsteder for nye og brukte båter:  
 [**http://batnet.se**](http://batnet.se "http://batnet.se")
 
@@ -31,9 +31,8 @@ Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
 | --- |
 |  |
 
-  
-Importeres båten direkte fra USA finnes flere kjente merker.  
-  
+Importeres båten direkte fra USA finnes flere kjente merker.
+
 Et regne-eksempel:  
 En beregning viser at det kan være mye å spare på egenimport av en ny Bayliner 175 bowrider  
 ([http://www.bayliner.com/_usca/index.php?gclid=](http://www.bayliner.com/_usca/index.php?gclid= "http://www.bayliner.com/_usca/index.php?gclid=")) i forhold til forhandlerpris i Norge hvor prisen er ca 200.000 kroner. I USA koster denne båten ca. 10.000 US$ fra produsent.. Med frakt, CE-merking, moms og hk-avgift innregnet vil båten bli billigere.
@@ -46,3 +45,15 @@ Undersøk nøye båtens kavlitetet og spesifikasjoner før du handler. Eksemplet
 Ofte får du båthenger med på kjøpet i USA. Kjøper du båt sammen med andre båtkjøpere du kjenner kan du kanskje få rimeligere priser og frakt? Pass på å ha klare, ryddig avtaler med klare spesifiserte priser på alt du trenger i båten og til båten med seriøse selgere så du ikke blir lurt.
 
 Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
+
+Tips fra leser:  
+Importer AMT fra Finland
+
+| --- |
+|  |
+
+Hei,  
+ jeg ser at du er misfornøyd med at det ikke går an å kjøpe AMT uten motor. Det løste jeg ved å kjøpe min 185BR i Finland (på Åland) uten motor, og importere selv. Det gikk knirkefritt, og jeg har satt på en Evinrude E-Tec 150 HO som gir en toppfart på drøyt 50 knop. Dette er motor som båten takler godt og uproblematisk, og som har vært en god match. En kjenning har gjort det samme, etter min anbefaling, og satte på en Evinrude E-Tec 115 HO som gir 42-43 knop.  
+Med vennlig hilsen T. W.
+
+Link AMT: [http://www.amt-veneet.fi/index.php?l=en](http://www.amt-veneet.fi/index.php?l=en "http://www.amt-veneet.fi/index.php?l=en")
