@@ -12,7 +12,9 @@ excerpt: |2+
   Organisasjonsnr. 997604830
 
 image: "/assets/images/trille2.jpg"
-image_caption: Foto Christoffer Jore Christensen
+image_caption: |-
+  Foto Christoffer Jore Christensen.
+  Helping-maskoten skogskatten "Trille".
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
