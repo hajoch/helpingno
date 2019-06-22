@@ -6,7 +6,7 @@ tags: []
 title: Båt-tips
 excerpt: ''
 image: "/assets/images/batprat.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
@@ -17,5 +17,17 @@ weight:
 **Tips om tauverk**  
 Vask tauverket til båten i vaskemaskinen på 40 grader hver høst. Det gjør tauverket mykere og det varer lengre. Når du får vasket saltvannet ut, tørket og lagret det tørt varer tauet lengre og er mykere. Alt jern som er festet på tauet må demonteres før vask så skader du ikke vaskemaskinen.
 
-Flyter båtnøklene?  
+**Flyter båtnøklene?**  
 Et nøkkelknippe med flytekork, fire små nøkler og dødmann forvant ned i dypet da uhellet var ute: Test derfor om båtens nøkkelknippe flyter før båtturen. Ha alltid reservenøkkel til alle låser.
+
+Flytevest til  
+alle ombord  
+Husk redningsvest eller flytevest til alle ombord.   
+Det er påbudt. Test at vestene passer til alle ombord og ha dem aller helst på under turen.   
+  
+Veldig ofte har barn redningsvest på mens foreldre ikke har på seg vest. Så er det som oftest middelaldrende  
+menn som drukner.
+
+Oppblåsbare vester må skifte patron etter 3 år.  
+Test flyteevnen før  
+hver sesong på gamle redningsvester og flyteplagg.
