@@ -14,8 +14,7 @@ publish_date:
 weight: 
 
 ---
-**Elektrikerens råd:  
-Sparepæren er ikke alltid best.**
+**Elektrikerens råd: Sparepæren er ikke alltid best.**
 
 Mange skifter til spare-pærer for å spare strøm.  
 På belysning utendørs er sparepæren god å ha,  
