@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
 - _posts/2019-06-19-redaksjonen.md
 - _posts/2019-06-21-eksotisk-vakker-men-uforutsigbar.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
