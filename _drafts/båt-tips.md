@@ -37,3 +37,9 @@ Vinterlagring ute kan være en utfordring. Høststormene kan ta tak i vinterkale
 
 **Alkohol**  
 Alkohol og båt hører ikke sammen. Faller du i vannet under alkoholpåvirket tilstand blir du fortere avkjølt og drukner lettere. Det er tryggere at ta seg et "glass" på land.
+
+**Overbord?**  
+Undersøk hvordan du kan komme ombord i båten om du faller over bord. Har ikke båten badetrapp? Gjør en test under betryggende forhold før du trenger det.
+
+Tenk sikkerhet når du går ombord i en båt, kjøper  
+båt eller tar i bruk en båt.
