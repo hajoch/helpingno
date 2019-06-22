@@ -5,7 +5,7 @@ crop_image: true
 tags: []
 title: Boligråd
 excerpt: ''
-image: ''
+image: "/assets/images/mars (1).jpg"
 image_caption: ''
 author: ''
 categories: []
