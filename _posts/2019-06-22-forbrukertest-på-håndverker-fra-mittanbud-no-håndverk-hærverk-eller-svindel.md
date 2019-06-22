@@ -5,7 +5,7 @@ crop_image: true
 tags: []
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: '"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon
-  og truet med sin advokat og politianmeldelse:Pipebeslaget var en sikkerhetsrisiko
+  og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko
   og det falt fra hverandre i uvær.'
 image: "/assets/images/pipe4.jpg"
 image_caption: 'Foto GC: Pipebeslaget måtebygges opp på nytt.'
@@ -42,8 +42,8 @@ Underveis i arbeidet ble glaserte, kostbare og uerstattelige gamle hollandske te
 
 Og det ble levert takrenner uten alt utstyr som skal på plass for slike takrenner. En puteboks ble brukt som arbeidsbenk og ramponert.
 
-**Ulyd i pipa - sikkerhetsrisiko  
-**Da ulyden kom i pipa ved neste vindblåst, innså jeg at dette ikke var levert slik det skal være - og nøytrale utenforstående med kunnskap om håndverk ble spurt om å kommentere jobben.
+**Ulyd i pipa - sikkerhetsrisiko**  
+Da ulyden kom i pipa ved neste vindblåst, innså jeg at dette ikke var levert slik det skal være - og nøytrale utenforstående med kunnskap om håndverk ble spurt om å kommentere jobben.
 
 Ganske snart oppsto frykt for at den tynne, ujevnt bøyde toppen som skranglet og ristet i vinden kunne løsne og skade personer, dyr eller biler på bakken. Hvorledes var den festet og hvor mye vind skulle til før den løsnet? For dette var ikke en vanlig buet topp, men en flat sideplate som var jukset i bend på plass.
 
