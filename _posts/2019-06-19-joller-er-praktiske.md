@@ -12,7 +12,7 @@ excerpt: Mange velger jolla som sin første båt. Den er lett å ta med seg på 
   kjøres i plan med motorer som barn kan betjene på en sikker og lovlig måte. Men
   det er en åpen båt som egner seg best i godt vær.
 image: "/assets/images/b08.1.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
