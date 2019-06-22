@@ -50,3 +50,19 @@ Nyinstallasjoner av rør-leggerarbeid i hus er blitt betydelig dyrere etter at d
 uten å føle at sikkerheten med dette er blitt bedre; Fordi det nye systemet krever også en rekke flere rør i veggen og da øker også sannsynligheten for en eller flere spiker i røret.  
   
 Systemet med doble rør kreves straks det er snakk om nyanlegg i hus ved påbygging og nybygg samt større ombygginger. Fagfolk vi har snakket med spår dette systemet kort levetid: Mye penger og masse unødvendig montasje av vann-sikringsskap m.m.: Det skal bli lettere å finne lekkasjen, sier de som tror på dette systemet - mens tvilerne spår flere vann-skader fordi veggene er fulle av unødig mange rør. Rørleggeren øker sin omsetningen dramatisk på de nye reglene.
+
+**Miljøvennlig isolasjon**
+
+Vær førevar og velg miljøvennlig isolasjon som gir deg et godt inneklima.
+
+Skal du kjøpe brukt bolig eller bygge nytt bør du forsikre deg om at der ikke er Glava isolasjon i veggene. Glava Isolasjon - også kalt glassvatt - er og har vært en versting med hensyn på inneklima siden dette produktet kom på markedet på 1950-tallet. Se heller etter hus med Rockwool eller annen alternativ isolasjon.
+
+Vi i helping.no har fått rapporter fra familier som har måttet rive alle vegger i huset og erstatte Glava med Rockwool etter at barna har utviklet astma. En meget kostbar reparasjon. Straks Glavaen er borte blir barna bedre, får vi opplyst.
+
+Installer også ventiler i alle rom og bruk aller helst panel, gips eller avgassfrie sponplater.
+
+Unngå også plast som fuktsperre i størst mulig grad på nybygg. Bruk i stedet Pades. Et godt naturprodukt som "puster" og holder tett for fukt samtidig.
+
+Vi i helping.no har bygd to hus med Pades/Rockwool. Etter 8 års bruk er vi meget godt fornøyd med denne kombinasjonen. Det eneste stedet vi har benyttet plast som fuktsperre er på gulv og vegger i baderom.
+
+Pades føres ikke av mange byggevareforhandlere her i landet. Derfor gir vi tips om hvor dette kan kjøpes: Pades forhandles av Eide Miljøbygg AS - 5445 Bømlo, Telefon: 53 42 45 10 - mobil 90 67 75 84 ved Erling. E-post: [eide.miljobygg@c2i.net](mailto:eide.miljobygg@c2i.net).
