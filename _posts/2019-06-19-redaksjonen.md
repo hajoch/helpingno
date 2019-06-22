@@ -8,7 +8,6 @@ title: Redaksjonen
 excerpt: |2+
 
   Etablert i 21.04.2001
-
   Organisasjonsnr. 997604830
 
 image: "/assets/images/trille2.jpg"
