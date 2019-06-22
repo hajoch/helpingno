@@ -43,9 +43,6 @@ Du må derfor ettertrekke disse for å unngå lekkasje. Sjekk derfor avløpsrør
 
 Det finnes på markedet lysbrytere som avgir et svakt lys når lyset er slått av. Dette kan være en sikkerhetsfaktor i forbindelse med brann og andre situasjoner der du raskt trenger å finne lysbryteren. Denne løsningen er ubetydelig dyrere enn de tradisjonelle lysbryterne.
 
-| --- |
-| Velg dusjkabinettFrittstående dusjkabinettet kan være en god sikkerhet mot fuktskader i baderomsveggene. Ikke alle løsninger med dusjvegger i en krok av badet er like tette. Sansynligheten for fuktskader og dermed dårlig inneklima uten dusjkabinett er også avhengig av godt eller dårlig håndverk ved bygging. |
-
 **Rørleggerfag: Nytt dobbelt rørsystem**
 
 Nyinstallasjoner av rør-leggerarbeid i hus er blitt betydelig dyrere etter at det kom nytt regelverk som krever doble vannrør i hus. Man kan spørre seg om ikke dette systemet vil få en kortere levetid enn planlagt: Slår snekkeren en spiker i veggen der rørne er, bli det like gjerne lekkesje gjennom to rør som ett rør, hevdes det. Ved lekkasje i dobbeltrør vil huseier betale et betydelig dyrere vann-installasjon enn tidligere  
