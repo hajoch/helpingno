@@ -13,6 +13,14 @@ publish_date:
 weight: 
 
 ---
+**Elektrikerens råd:  
+Sparepæren er ikke alltid best.**
+
+Mange skifter til spare-pærer for å spare strøm.  
+På belysning utendørs er sparepæren god å ha,  
+men inne er det verre. For sparepæren er egentlig et lite lysrør og den oppfører seg også slik. Det betyr at den gir fra seg lys i form av små blink du knapt merker og ikke jevnt lys som en vanlig lyspære. Disse små blinkene oppfatter du ikke. Likevel oppfatter hodet ditt disse blinkene og gjør deg lettere sliten hvis du bruker sparepærer som leselys. Lyset blir omtrent som ved bruk av vanlige lysrør.
+
+Som leselys er en vanlig lyspære derfor å fore-trekke. I tillegg gir den fra seg varme slik at den er en varmekilde i tillegg til en lyskilde. Er lyspæren på 60 watt gir den fra seg 60 watt varme i tillegg til lyset du får fra pæren. Dermed trenger du mindre oppvarming med vanlige lyspærer enn med sparepærer i huset.
 
 **Det er ingen miljøgevinst i å installere en varmepumpe. Du sparer ikke strøm.**
 
