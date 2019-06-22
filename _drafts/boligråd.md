@@ -4,11 +4,12 @@ date: 2019-06-22 16:17:18 +0200
 crop_image: true
 tags: []
 title: Boligråd
-excerpt: ''
+excerpt: Gode råd i huset
 image: "/assets/images/mars (1).jpg"
-image_caption: ''
-author: ''
-categories: []
+image_caption: Foto GC
+author: _authors/gunnar-christensen.md
+categories:
+- _category/bolig.md
 publish_date: 
 weight: 
 
