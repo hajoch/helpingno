@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-19 18:31:48 +0200
+date: 2019-06-19T16:31:48.000+00:00
 crop_image: false
 author: ''
 tags: []
@@ -11,11 +11,11 @@ excerpt: |2+
 
   Organisasjonsnr. 997604830
 
-image: "/assets/images/logo-1.svg"
-image_caption: ''
+image: "/assets/images/trille2.jpg"
+image_caption: Foto Christoffer Jore Christensen
 categories: []
 publish_date: 
-weight: 0
+weight: 
 
 ---
 Kontakt-informasjon  

@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-redaksjonen.md
 - _posts/2019-06-21-eksotisk-vakker-men-uforutsigbar.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-21-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md
@@ -110,7 +111,6 @@ pages:
 - _posts/2019-06-19-penger-bank-og-nett.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-19-om-oss.md
-- _posts/2019-06-19-redaksjonen.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-19-test-nikon.md
