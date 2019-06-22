@@ -48,23 +48,7 @@ Det finnes på markedet lysbrytere som avgir et svakt lys når lyset er slått a
 
 **Rørleggerfag: Nytt dobbelt rørsystem**
 
-Nyinstallasjoner av rør-leggerarbeid i hus er blitt betydelig dyrere etter at det kom nytt regelverk som krever doble vannrør i hus.  
+Nyinstallasjoner av rør-leggerarbeid i hus er blitt betydelig dyrere etter at det kom nytt regelverk som krever doble vannrør i hus. Man kan spørre seg om ikke dette systemet vil få en kortere levetid enn planlagt: Slår snekkeren en spiker i veggen der rørne er, bli det like gjerne lekkesje gjennom to rør som ett rør, hevdes det. Ved lekkasje i dobbeltrør vil huseier betale et betydelig dyrere vann-installasjon enn tidligere  
+uten å føle at sikkerheten med dette er blitt bedre; Fordi det nye systemet krever også en rekke flere rør i veggen og da øker også sannsynligheten for en eller flere spiker i røret.  
   
- Man kan spørre seg om ikke dette systemet vil få en kortere levetid enn planlagt:  
-  
-Slår snekkeren en spiker i veggen der rørne er, bli det like gjerne lekkesje gjennom to rør som ett  
-rør, hevdes det.  
-  
-Ved lekkaske i dobbelrør vil huseier betale  
-et betydelig dyrere vann-instalasjon enn tdligere  
-uten å føle at sikkerheten  
-med dette er blitt bedre; Fordi det nye systemet krever også en rekke flere rør i veggen og da øker også sansynligheten for en eller flere spiker i røret.  
-  
-Systemet med doble rør kreves straks det er snakk om nyanlegg i hus ved påbygging og nybygg samt større ombygginger.  
-  
-Fagfolk vi har snakket med spår dette systemet kort levetid: Mye penger og masse unødvendig montasje av vann-sikringsskap m.m.:  
-  
-\- Det skal bli lettere å finne lekkasjen, sier de som tror på dette systemet - mens tvilerne spår flere vann-skader fordi veggene er fulle av unødig mange rør.
-
-Rørleggeen øker sin omsetningen dramatisk  
- på de nye reglene.
+Systemet med doble rør kreves straks det er snakk om nyanlegg i hus ved påbygging og nybygg samt større ombygginger. Fagfolk vi har snakket med spår dette systemet kort levetid: Mye penger og masse unødvendig montasje av vann-sikringsskap m.m.: Det skal bli lettere å finne lekkasjen, sier de som tror på dette systemet - mens tvilerne spår flere vann-skader fordi veggene er fulle av unødig mange rør. Rørleggeren øker sin omsetningen dramatisk på de nye reglene.
