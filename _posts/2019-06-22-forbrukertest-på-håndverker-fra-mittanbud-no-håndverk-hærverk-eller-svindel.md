@@ -4,9 +4,12 @@ date: 2019-06-22 15:54:37 +0200
 crop_image: true
 tags: []
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
-excerpt: '"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon
-  og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko
-  og det falt fra hverandre i uvær.'
+excerpt: |-
+  Slik blir du svindlet på mittanbud.no som tiltrekker
+  seg ufaglærte og svindlere uten fagutdannelse: Det
+  eneste som kreves for å bli listet opp der er et organisasjons-nummer i Brønnøysund-registeret.
+
+  Siste nytt: Dette firmaet eksisterer ikke lengre men handverkeren fortsetter under annet navn. Se opp for denne svindleren!"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
 image: "/assets/images/pipe4.jpg"
 image_caption: 'Foto GC: Pipebeslaget måtebygges opp på nytt.'
 author: _authors/gunnar-christensen.md
@@ -16,7 +19,11 @@ publish_date:
 weight: 0
 
 ---
-Nå har Forbrukertvist-utvalget gitt huseier medhold i at Walter Marino Fredriksens krav må trekkes tilbake og han må i tillegg erstatte utgifter til riving av hans dårlige håndverk og bygging av nytt pipebeslag.
+  
+"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse:  
+Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
+
+Nå har Forbrukertvist-utvalget gitt huseier medhold i at Walter Marino Fredriksens krav må trekkes tilbake og han må i tillegg ersatatte utgifter til riving av hans dårlige håndverk og bygging av nytt pipebeslag.
 
 Det er nå gjort, men Fredriksen ønsker ikke å gjøre opp for seg og saken går nå til inkasso. Men han betaler ikke - han har registrert firmaet på sin sønn og går fri når lensmannen kommer på døra. Slik opererer en svindler: Han har hele tiden presentert seg med sønnens navn.
 
