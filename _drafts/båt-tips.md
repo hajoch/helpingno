@@ -4,7 +4,7 @@ date: 2019-06-22 20:18:53 +0200
 crop_image: true
 tags: []
 title: Båt-tips
-excerpt: ''
+excerpt: Gode råd for båtfolk
 image: "/assets/images/batprat.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
