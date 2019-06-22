@@ -38,18 +38,18 @@ Utdannet ved Universitetet i Oslo
 Avdelingsleder for analyse
 
 [**Christoffer J. Christensen**](http://www.helping.no/christoffer.htm)  
-\**Redaksjossekretær og fotograf  
-\**Student ved universitetet i Stavanger
+Redaksjossekretær og fotograf  
+Student ved universitetet i Stavanger
 
 [**Henning Jon Grini**](http://www.helping.no/henning.htm)  
 **Styremedlem og grunder**  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
 Forfatter, foreleser og grunder  
-Utdannet ved Hotellfaghøyskolen, Stavanger.
+Utdannet ved Hotellfag høyskolen, Stavanger.
 
 Tema og frilans-medarbeidere:  
-[**  
-Ole T. Moy**](http://www.helping.no/bat.ya.htm)  
+[  
+Ole T. Moy](http://www.helping.no/bat.ya.htm)  
 **Journalist og fotograf**  
 Selvstendig næringsdrivende  
 Master i sam.pol. fra Universitet i Bergen og militærkaptein i infanteriet
