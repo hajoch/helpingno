@@ -82,3 +82,26 @@ Mange reagerer på at offentlige myndigheter fremdeles tillater boligbebyggelse 
 Vi har sett flere reportasjer gjennom årene fra eldre boligfelt ved høyspenttraseer der det er registrert overhyppighet av kreftdødsfall: Hvorfor ikke ta høyde for at dette gir økt helserisiko?
 
 Sjekk listen under hvor du kan få hjelp til å måle den elektromagnetiske strålingen på ditt hjemsted.
+
+Miljøhus
+
+Miljøhus/sunnehus gir bedre helse og høyere verdi på eiendommen din. Gode byggeråd er gode helseråd: **  
+**Miljøhus
+
+Straks du oppdager at huset ditt kan gjøre deg og din familie syk, så vil det du her får lese bli av største betydning for deg.
+
+Du kan gjøre mye for å forhindre at boligen du bygger blir en helserisiko for deg og din familie ved å øke din kunnskap om dette emnet.
+
+Du kan med kunnskap om emnet miljøhus/sunne hus bidra til at din bolig eller arbeidsplass får bedre inneklimakvaliteter. Mange sunne hus-alternativer behøver ikke å koste mer.
+
+På denne websiden får du betydningsfulle tips om hvor du kan søke kunnskap om sunne hus, råd til forbedring av huset og hjelp til å finne kilder til helsefarer i din bolig eller på din arbeidsplass.
+
+Dette oppslaget er ikke ment som en fullstendig utredning omkring temaet sunne hus og miljøhus, men heller som en samling henvisninger til personer, bøker og weblinker som gir deg bedre innsikt i temaet.
+
+Fra boktitler, linker til andre websteder og personer vil du her kunne danne deg et godt bilde av denne problematikken og således få kunnskap slik at du kan forbedre kvaliteten i din bolig eller i den boligen du ønsker å bygge eller på din arbeidsplass.
+
+Når du bygger bolig, næringseiendom eller hytte bør du vite mest mulig om de materialene du bruker i bygget. Dette fordi flere byggevarer i salg i dag kan gi dårlig inneklima og helseplager. Førevarprinsippet er derfor viktig for å oppnå et godt resultat. Det er også viktig hvor du plasserer bygget på tomten.
+
+Bruk oljebasert maling og lakk inni huset og ikke vannbaserte produkter. Oljebaserte produkter gir bedre inneklima.
+
+Boligen er for mange av oss den største investering vi gjør i livet. Det er derfor viktig at vi bygger et hus med materialer vi siden slipper å angre på at vi benyttet.
