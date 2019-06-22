@@ -28,3 +28,9 @@ Det er påbudt. Test at vestene passer til alle ombord og ha dem aller helst på
 **Farger som grått, rød og blå på striper og skrog er i skuddet på plastbåter. Det ser lekkert ut når du ser nye båter, men har du sett nærmere på bruktbåtene i båthavna? Skrogfargen på disse båtene gir fort stygge med mørkere farger enn hvitt. Det blir da merker ved de minste støt mot skroget. En ripe i lakkfargen viser det hvite underlaget på plastskroget. I slutten av sesongen ser du ofte nyere båter med er rekke skjemmende småskader i lakken. Hvite ripe i blå eller rød lakk er ikke pent.
 
 Båtforhandlere opplyser at flere båteiere lakkerer om stripa eller skroget med blåfargen ganske ofte i forbindelse med vårpussen. Denne om-lakkeringen er en betydelig ekstrakostnad på grunn av en upraktisk motebølge: Det blir ikke bedre om motebølgen går videre med andre farger: Velg derfor båten med ensfarget hvitt skrog så unngår du kostbare omlakkerings-utgifter. Det er lettest å beholde et hvitt plastskrog pent. Dessuten er hvit skrog pent og moderne det meste av tiden.
+
+**Vinterlagring**
+
+![](http://www.helping.no/batlagring.jpg =400x278)
+
+Vinterlagring ute kan være en utfordring. Høststormene kan ta tak i vinterkalesja og rote det til selv om du har gjort alt etter "boka". Det er derfor behov for regelmessig tilsyn med båten også når den vinterlagres ute på land.
