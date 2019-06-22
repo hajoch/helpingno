@@ -9,7 +9,7 @@ excerpt: |-
   seg ufaglærte og svindlere uten fagutdannelse: Det
   eneste som kreves for å bli listet opp der er et organisasjons-nummer i Brønnøysund-registeret.
 
-  Siste nytt: Dette firmaet eksisterer ikke lengre men handverkeren fortsetter under annet navn. Se opp for denne svindleren!"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
+  Siste nytt: Dette firmaet eksisterer ikke lengre, men handverkeren fortsetter under annet navn. Se opp for denne svindleren! "Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
 image: "/assets/images/pipe4.jpg"
 image_caption: 'Foto Gunnar Christensen: Pipebeslaget måte bygges opp på nytt: Stygge
   bulker og sprekker - og en topp som skrangler høylytt i vinden. Så glir endeplata
