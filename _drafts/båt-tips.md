@@ -36,6 +36,4 @@ Båtforhandlere opplyser at flere båteiere lakkerer om stripa eller skroget med
 Vinterlagring ute kan være en utfordring. Høststormene kan ta tak i vinterkalesja og rote det til selv om du har gjort alt etter "boka". Det er derfor behov for regelmessig tilsyn med båten også når den vinterlagres ute på land.
 
 **Alkohol**  
-Alkohol og båt hører ikke sammen. Faller du i vannet under alkoholpåvirket tilstand blir du fortere  
-avkjølt og drukner lettere. Det er tryggere at ta seg   
-et "glass" på land.
+Alkohol og båt hører ikke sammen. Faller du i vannet under alkoholpåvirket tilstand blir du fortere avkjølt og drukner lettere. Det er tryggere at ta seg et "glass" på land.
