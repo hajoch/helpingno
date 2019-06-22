@@ -52,7 +52,7 @@ Utdannet ved Hotellfag høyskolen, Stavanger.
 
 Tema og frilans-medarbeidere:  
 [  
-Ole T. Moy](http://www.helping.no/bat.ya.htm)  
+**Ole T. Moy**](http://www.helping.no/bat.ya.htm)  
 **Journalist og fotograf**  
 Selvstendig næringsdrivende  
 Master i sam.pol. fra Universitet i Bergen og militærkaptein i infanteriet
