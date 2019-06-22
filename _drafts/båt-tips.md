@@ -11,7 +11,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 
+weight: 2
 
 ---
 **Tips om tauverk**  
