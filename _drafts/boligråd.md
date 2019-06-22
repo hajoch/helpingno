@@ -69,9 +69,6 @@ Pades føres ikke av mange byggevareforhandlere her i landet. Derfor gir vi tips
 
 **Høyspent gir helsefare**
 
-| --- |
-|  |
-
 Når du velger hus, hytte eller byggetomt så styr unna høyspentledninger og transformatorer. Ligger en høyspentledning over eller under tomta du vurderer å kjøpe så glem den. Er der høyspentledinger i nærområdet så vær på vakt.
 
 Husk at også vann leder strøm: Vannårer under huset kan være i kontakt med en transformator. Dette kan du også få hjelp til å sjekke.
