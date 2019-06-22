@@ -42,3 +42,6 @@ Du må derfor ettertrekke disse for å unngå lekkasje. Sjekk derfor avløpsrør
 **Lysbrytere en sikkerhetsfaktor?**
 
 Det finnes på markedet lysbrytere som avgir et svakt lys når lyset er slått av. Dette kan være en sikkerhetsfaktor i forbindelse med brann og andre situasjoner der du raskt trenger å finne lysbryteren. Denne løsningen er ubetydelig dyrere enn de tradisjonelle lysbryterne.
+
+| --- |
+| Velg dusjkabinettFrittstående dusjkabinettet kan være en god sikkerhet mot fuktskader i baderomsveggene. Ikke alle løsninger med dusjvegger i en krok av badet er like tette. Sansynligheten for fuktskader og dermed dårlig inneklima uten dusjkabinett er også avhengig av godt eller dårlig håndverk ved bygging. |
