@@ -38,3 +38,7 @@ Strøm er blitt en mangelvare i perioder og prises deretter. Varmepumpa virker d
 Nyere hus har avløpsrør i plast. Dette krever tilsyn av deg som bruker. Mens eldre løranlegg holder seg tette skrur plastrørene seg opp gradvis ved bruk.
 
 Du må derfor ettertrekke disse for å unngå lekkasje. Sjekk derfor avløpsrørene jevnlig under vaskene på kjøkken og bad. Lær deg hvordan de skal ettertrekkes. Det kan spare deg for dyre lekkasjer.
+
+**Lysbrytere en sikkerhetsfaktor?**
+
+Det finnes på markedet lysbrytere som avgir et svakt lys når lyset er slått av. Dette kan være en sikkerhetsfaktor i forbindelse med brann og andre situasjoner der du raskt trenger å finne lysbryteren. Denne løsningen er ubetydelig dyrere enn de tradisjonelle lysbryterne.
