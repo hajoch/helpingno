@@ -6,10 +6,10 @@ author: _authors/gunnar-christensen.md
 tags: []
 title: 'Forbrukertest: Rondane Spa Høyfjellshotell og Hytter nærmest høyfjellet'
 excerpt: Like under tregrensen i Rondane ligger Rondane Spa med vakker utsikt mot
-  høyfkjellet. En bygningsmasse som har stått der en stund og som derfor ikke er helt
+  høyfjellet. En bygningsmasse som har stått der en stund og som derfor ikke er helt
   ny, men velholdt og fungerer greit og gir deg muligheter for flotte naturopplevelser
   både til fots og faktisk også på sykkel helt inn til Rondevassbu. Flere fjelltopper
-  over to tusen meters ved Rondevassbu har høyde som innbyr til spreke naturopplevlser.
+  over to tusen meters ved Rondevassbu har høyde som innbyr til spreke naturopplevelser.
 image: "/assets/images/rondanespa.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
