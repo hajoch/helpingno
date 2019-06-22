@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/bygg-et-miljøhus.md
 - _posts/2019-06-22-forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
 - _posts/2019-06-22-boligråd.md
 - _posts/2019-06-19-redaksjonen.md
