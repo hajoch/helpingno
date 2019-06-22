@@ -66,3 +66,22 @@ Unngå også plast som fuktsperre i størst mulig grad på nybygg. Bruk i stedet
 Vi i helping.no har bygd to hus med Pades/Rockwool. Etter 8 års bruk er vi meget godt fornøyd med denne kombinasjonen. Det eneste stedet vi har benyttet plast som fuktsperre er på gulv og vegger i baderom.
 
 Pades føres ikke av mange byggevareforhandlere her i landet. Derfor gir vi tips om hvor dette kan kjøpes: Pades forhandles av Eide Miljøbygg AS - 5445 Bømlo, Telefon: 53 42 45 10 - mobil 90 67 75 84 ved Erling. E-post: [eide.miljobygg@c2i.net](mailto:eide.miljobygg@c2i.net).
+
+**Høyspent gir helsefare**
+
+| --- |
+|  |
+
+Når du velger hus, hytte eller byggetomt så styr unna høyspentledninger og transformatorer. Ligger en høyspentledning over eller under tomta du vurderer å kjøpe så glem den. Er der høyspentledinger i nærområdet så vær på vakt.
+
+Husk at også vann leder strøm: Vannårer under huset kan være i kontakt med en transformator. Dette kan du også få hjelp til å sjekke.
+
+Det er mulig å måle den elektromagnetiske strålingen fra slike anlegg: Du har ikke råd til å la det være. Det gjelder din og din families helse. Det hevdes at elektromagnetisk stråling fra høyspent kan gi risiko for kreft og hjerte-karsykdommer.
+
+Alle høyspentmaster og transformatorer er skiltet med høyspenning. Så sjekk ditt nærområde.
+
+Mange reagerer på at offentlige myndigheter fremdeles tillater boligbebyggelse under og tett opp til høyspentledninger, mens det naturlige hadde vært å sette en grense på for eksempel 200 meter fra slike anlegg.
+
+Vi har sett flere reportasjer gjennom årene fra eldre boligfelt ved høyspenttraseer der det er registrert overhyppighet av kreftdødsfall: Hvorfor ikke ta høyde for at dette gir økt helserisiko?
+
+Sjekk listen under hvor du kan få hjelp til å måle den elektromagnetiske strålingen på ditt hjemsted.
