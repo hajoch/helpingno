@@ -11,7 +11,8 @@ excerpt: |-
 
   Siste nytt: Dette firmaet eksisterer ikke lengre men handverkeren fortsetter under annet navn. Se opp for denne svindleren!"Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse: Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
 image: "/assets/images/pipe4.jpg"
-image_caption: 'Foto GC: Pipebeslaget måtebygges opp på nytt.'
+image_caption: 'Foto GC: Pipebeslaget måtebygges opp på nytt. Stygge bulker og sprekker
+  - og en topp som skrangler høylytt i vinden.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
