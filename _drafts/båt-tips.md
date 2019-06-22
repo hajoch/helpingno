@@ -43,3 +43,7 @@ Undersøk hvordan du kan komme ombord i båten om du faller over bord. Har ikke 
 
 Tenk sikkerhet når du går ombord i en båt, kjøper  
 båt eller tar i bruk en båt.
+
+**Forbrukertest - brukt: Tohatsu 8 hk 2 takt**
+
+Tohatsu 8 hk 2-takt 2 cyl. modell 1998 kjøpt brukt hos båtforhandler i 2002. Motoren har god kvalitet - er lettstartet, startvillig og går problemfritt. Kun tennplugger er skiftet. I tillegg er motoren ferskvanns-kjørt hver høst. Motoren får en Pioner 13 i plan med to personer ombord. Motoren er også prøvd på en Hurricane 370 med godt resultat. Mindre barn kan ha problemer med å starte en-cylindrede små-motorer: Vi hadde først en ny 4 hk Yamaha som barna ikke klarte å starte. Denne 2-cylindrede Tohatsuen klarte imidlertid barna lett å starte. I tillegg går en 2-cylinder motor penere og er et bedre valg når man skal velge en liten 2-takt-motor til jolla. (GC)
