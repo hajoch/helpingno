@@ -13,7 +13,8 @@ excerpt: |2+
 
 image: "/assets/images/trille2.jpg"
 image_caption: Foto Christoffer Jore Christensen
-categories: []
+categories:
+- _category/redaksjonen-om-oss.md
 publish_date: 
 weight: 
 
