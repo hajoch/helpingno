@@ -7,8 +7,9 @@ title: Båt-tips
 excerpt: ''
 image: "/assets/images/batprat.jpg"
 image_caption: ''
-author: ''
-categories: []
+author: _authors/gunnar-christensen.md
+categories:
+- _category/båt.md
 publish_date: 
 weight: 
 
