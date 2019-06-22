@@ -31,7 +31,10 @@ gå over til **oljefyring.**Oljefyring som kan gå på andre generasjons biodies
 Med oljefyring kan du fylle tanken når prisene er lavest. Med varmepumpe  
 er du prisgitt kyniske strømleverandører som tapper ned vannmaga-sinene på høsten for å tjene mer på strømmen til deg når du trenger den mest på vinteren.
 
-**Strøm er blitt en mangelvare i perioder**  
-**og prises deretter.**
+Strøm er blitt en mangelvare i perioder og prises deretter. Varmepumpa virker dårligere jo kaldere tempraturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere utetempraturer.
 
-Varmepumpa virker dårligere jo kaldere tempraturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere utetempraturer.
+**Sjekk avløpsrørene**
+
+Nyere hus har avløpsrør i plast. Dette krever tilsyn av deg som bruker. Mens eldre løranlegg holder seg tette skrur plastrørene seg opp gradvis ved bruk.
+
+Du må derfor ettertrekke disse for å unngå lekkasje. Sjekk derfor avløpsrørene jevnlig under vaskene på kjøkken og bad. Lær deg hvordan de skal ettertrekkes. Det kan spare deg for dyre lekkasjer.
