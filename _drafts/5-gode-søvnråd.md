@@ -1,0 +1,34 @@
+---
+layout: post
+date: 2019-06-23 12:23:41 +0200
+crop_image: true
+tags: []
+title: 5 gode søvnråd
+excerpt: Søvn er viktig. Så snakk om søvnen din, les gode råd og søk hjelp hos fastlegen
+  raskt(3 dager) hvis søvnen har forandret seg. Vær kritisk til alle som vil selge
+  deg noe.
+image: "/assets/images/trille5.jpg"
+image_caption: Foto Christoffer Jore Christensen
+author: _authors/odd-m-lunde.markdown
+categories:
+- _category/mental-helse.md
+publish_date: 
+weight: 7
+
+---
+**Råd 1.**  
+Ha det mørkt i rommet. Kjøp på apoteket en mørk maske med strikk eller lag en selv av et lett fløyelsstoff for eksempel. Du trenger tilvenning og begynn med "Zorromasken" om morgenen.
+
+**Råd 2.**  
+Få det lydtett i soverommet. Persienner og 2 lag med gardiner hjelper. Men ørepropper kan være et must. De billigste koster 2 kr paret og du kan da kaste dem etter en tids bruk. Bomull har hjulpet mange. Noen har hatt hjelp av øretelefoner med en halvtime med rolig musikk(takten kan begynne med60 i min og gå ned til for eksempel 48 slag i minuttet). Tenk rengjøring i f t høytalere.
+
+**Råd 3.**  
+Kjøp ny madrass. Min mening er at du bør ha en stiv undermadrass og 2 mykere overmadrasser. Når du ligger på siden så bør det gå en rett linje fra nesen til kjønnsorganet. (Om lag slik som kvinner tror menn tenker). Etter et par mnd med ny seng må kanskje den mellomste madrassen byttes. Eller du kjøper en litt for hard seng og bruker et vattteppe de første mnd.
+
+**Råd 4.**  
+Sannsynligvis skal vi fra naturen side legge oss når det er mørkt og stå sakte opp når det lysner. A menneskene skal friste oss andre med en lukt av mat og drikke som går via nesa og rett i skallen på oss. Lag derfor et rituale av både leggetid og oppvåkning. Sett passende toner og bilder til ritualet.
+
+**Råd 5.**  
+Stå opp til samme tid hverdag som fest og når du er på hytta. Hver 4 de uke eller så kan du sove 1,5 til to timer ekstra. Beklager kjære leser men dette er mitt beste søvnråd.
+
+Fysisk og psykisk smerte må også dempes og på dagtid jobbes med.
