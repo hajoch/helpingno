@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-19 15:30:25 +0200
+date: 2019-06-19T13:30:25.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -9,8 +9,10 @@ excerpt: 'Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innb
   på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det.
   Trusselbildet endrer seg stadig.'
 image: "/assets/images/katt.jpg"
-image_caption: "Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan
-  hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.\n\n"
+image_caption: |+
+  Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.
+  Helping-maskoten skogskatten "Trille".
+
 categories:
 - _category/økonomi.md
 publish_date: 
