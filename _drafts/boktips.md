@@ -1,0 +1,29 @@
+---
+layout: post
+date: 2019-06-23 22:28:22 +0200
+crop_image: true
+tags: []
+title: Boktips
+excerpt: Tanker til ettertanke
+image: "/assets/images/oct.004.jpg"
+image_caption: Foto Gunnar Christensen
+author: _authors/gunnar-christensen.md
+categories:
+- _category/boker.md
+publish_date: 
+weight: 5
+
+---
+Boktips får du tak i denne "gamle" boka så les den:
+
+**Fernendo Savater: "Tanker til en sønn, Om etikk, ansvar og frihet."** Ashehoug 1994.187 sider. og senere opplag.
+
+Hvem har ikke prøvd å formidle sin kunnskap til barna og hvem har ikke følt seg utilstrekkelig overfor denne oppgaven? I boken med den ambisiøse tittel "Tanker til en sønn" har forfatteren Fernando Savater klart denne oppgaven på en så fremragende måte at boken sogar gir tanke til ettertanke for enhver leser.
+
+Boken tar opp og stiller de grunnleggende spørsmål formulert som brev til egen sønn: Hva er etikk? Hvordan forholder vi oss til ordre, vane og innfall. Kunsten å leve og å gi seg selv et godt liv. Hva er dumheter? Å kunne sett seg i andres sted. Hva er ekte glede? Hva er frihet? Dette er spørsmål som vi ofte ikke diskuterer. Fordi spørsmålene er underliggende verdier og tanker som vi med rett eller urett forutsetter kjent....
+
+Essensen i forfatterens brev til sin sønn er: Stol på deg selv - på intelligensen din, på dømmekraften din, på din evne til kjærlighet.....
+
+Boken er en bevisstgjører, en hjelp til selvhjelp. Til å stille seg selv de viktige verdispørsmålene: Til å sette det viktigste her i livet på sin rette hylle.
+
+I disse dager selges bokas andre opplag i norsk oversettelse: Savaters tanker om etikk er i likhet med Jostein Gaarders roman "Sofies verden", blitt en internasjonal suksess.
