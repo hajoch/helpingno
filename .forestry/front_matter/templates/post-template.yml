@@ -71,7 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/5-gode-søvnråd.md
+- _posts/2019-06-23-5-gode-søvnråd.md
 - _posts/2019-06-22-båt-tips.md
 - _posts/2019-06-22-bygg-et-miljøhus.md
 - _posts/2019-06-22-forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
