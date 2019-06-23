@@ -51,8 +51,8 @@ Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån s
 **Helårs reiseforsikring**  
 er den billigste og beste løsningen også på korte reiser. Helårs reiseforsikring dekker deg vanligvis når du er utenfor hjemkommunen hele året. Reiseforsikring som selges sammen med reisen hos reisebyrået er betydelig dyrere enn helårs reise-forsikring. Stol ikke på at reise-forsikringen på kredittkortet dekker deg fullt ut.
 
-**Hold forsikrings-selskapene i ørene  
-**Sjekk alltid premien på dine forsikringer.
+**Hold forsikrings-selskapene i ørene**  
+Sjekk alltid premien på dine forsikringer.
 
 Det er mye penger å tjene på å sjekke prisene på dine forsikringer. Særlig ved hvert hovedforfall. I god tid før hovedforfall bør du sjekke prisene ved å ta en telefon eller nettsjekk til flere andre selskap der du ber om et tilbud på ditt forsikringsbehov. En av våre redaksjons-medarbeidere sparte mer enn fem tusen kroner i forsikringspremie ved siste pris-sammenlikning på hus, bil og båt.
 
@@ -60,7 +60,11 @@ Prisene på ditt forsikringsbehov stiger hvert år. De fleste forsikrings-selska
 
 Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurderer å skifte til. Det er når du trenger skadeoppgjør at du erfarer hvor godt forsikret du egentlig er. Det er enkelt å skifte selskap: Ditt nye selskap gjør hele jobben for deg.
 
-**Annonser:**   
+**Post- og teletilsynet har nettstedet:**  
+[www.telepriser.no](http://www.telepriser.no/)  
+hvor du kan gjøre prissammenlikninger på leverandører av bredbånd.
+
+**Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
 [https://sol.no/forbruksl](https://sol.no/forbruksl "https://sol.no/forbruksl")[ån](https://sol.no/forbruksl%C3%A5n)  
