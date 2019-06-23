@@ -68,3 +68,24 @@ To bøker advarte mot overvåkningssamfunnet: Aldous Huxley utga boka "Vidunderl
 For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i vår egen levertid skulle oppleve et overvåkningssamfunn. Hvorfor var vi så naive og trodde våre folkevalgte aldri ville godta en slik utvikling? Er vi sveket av dem vi i alle år stemte inn på Stortinget? Eller er dette ute av kontroll på verdensbasis?
 
 Hva har skjedd? Har vi beskyttet oss godt nok mot å bli overvåket? Hvorfor har vi godtatt dette? Har vi godtatt det? Vet vi nok om overvåkningen i samfunnet? Er det den teknologiske utviklingen som har "tatt oss på senga"?
+
+Gallup et personvernproblem? Ikke svar
+
+| --- |
+|  |
+
+Tidligere stilte personer fra gallupundersøkelser opp på døra di. Viste fram legitimasjon og spurte om du var villig til å svare på spørsmål. Krysset så dine svar av på skjemaer og gikk. Nå foregår nesten alle gallupundersøkelser pr. mobiltelefon eller epost.
+
+Telefonhenvendelser sms og epost fra gallupinstituttene identifiserer seg i dag ikke på annen måte enn ved å utgi seg for å være fra et gallupinstitutt.
+
+Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvernproblem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
+
+\- Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?  
+ - Kanskje ringer en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
+
+Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikkerhet, hackere og levereing av data videre?   
+  
+Vi har blitt slappere med å verne om vårt privatliv nå.  
+Hvilke konsekvenser har det?  
+  
+Ikke å svare på slike galluphenvendelser fordi det ligger et personvernproblem i dette og du trenger ikke svare. Det er lov å si NEI..
