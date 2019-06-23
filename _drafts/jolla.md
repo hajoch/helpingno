@@ -6,11 +6,12 @@ tags: []
 title: Jolla
 excerpt: Novelle
 image: "/assets/images/sept.1.jpg"
-image_caption: ''
-author: ''
-categories: []
+image_caption: Foto Gunnar Christensen. Illustrasjon
+author: _authors/gunnar-christensen.md
+categories:
+- _category/boker.md
 publish_date: 
-weight: 
+weight: 0
 
 ---
 Telefonen ringer:
