@@ -8,7 +8,8 @@ excerpt: Søvn er viktig. Så snakk om søvnen din, les gode råd og søk hjelp 
   raskt(3 dager) hvis søvnen har forandret seg. Vær kritisk til alle som vil selge
   deg noe.
 image: "/assets/images/trille5.jpg"
-image_caption: Foto Christoffer Jore Christensen
+image_caption: "Foto Christoffer Jore Christensen. \nHelping-maskoten skogskatten
+  \"Trille\"."
 author: _authors/odd-m-lunde.markdown
 categories:
 - _category/mental-helse.md
