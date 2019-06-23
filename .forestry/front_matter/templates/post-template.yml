@@ -71,7 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/jolla.md
+- _posts/2019-06-23-jolla.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-06-23-tvangsinnleggelse-av-rus-avhengige-kan-redde-flere-liv.md
 - _posts/2019-06-23-5-gode-søvnråd.md
