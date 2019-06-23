@@ -69,10 +69,7 @@ For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i v
 
 Hva har skjedd? Har vi beskyttet oss godt nok mot å bli overvåket? Hvorfor har vi godtatt dette? Har vi godtatt det? Vet vi nok om overvåkningen i samfunnet? Er det den teknologiske utviklingen som har "tatt oss på senga"?
 
-Gallup et personvernproblem? Ikke svar
-
-| --- |
-|  |
+#### Gallup et personvernproblem? Ikke svar
 
 Tidligere stilte personer fra gallupundersøkelser opp på døra di. Viste fram legitimasjon og spurte om du var villig til å svare på spørsmål. Krysset så dine svar av på skjemaer og gikk. Nå foregår nesten alle gallupundersøkelser pr. mobiltelefon eller epost.
 
