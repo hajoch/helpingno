@@ -6,7 +6,9 @@ tags: []
 title: Tvangsinnleggelse av rus-avhengige kan redde flere liv
 excerpt: 'Innlegg om rus:'
 image: "/assets/images/trille7.jpg"
-image_caption: ''
+image_caption: |-
+  Foto Christoffer Jore Christensen.
+   Helping-maskoten skogskatten "Trille".
 author: _authors/odd-m-lunde.markdown
 categories:
 - _category/mental-helse.md
