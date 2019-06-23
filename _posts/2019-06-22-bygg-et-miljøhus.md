@@ -6,7 +6,7 @@ tags: []
 title: Bygg et miljøhus
 excerpt: En sjønær, romslig tomt med byggetillatelse på Sørlandet var startskuddet
   for en del år tilbake.
-image: "/assets/images/husskog (1).jpg"
+image: "/assets/images/juli.04.jpg"
 image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
