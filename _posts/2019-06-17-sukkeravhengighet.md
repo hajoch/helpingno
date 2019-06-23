@@ -8,7 +8,7 @@ title: Boligleie
 excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
   sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
 image: "/assets/images/jan.17 (1).jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
