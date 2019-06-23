@@ -6,7 +6,7 @@ tags: []
 title: Seilskipet "Sørlandet"
 excerpt: '"Sørlandet" er et norsk seilskip. Skipet har tidligere vært brukt bl.a.
   til skoleskip, chartervirksomhet i sommerhalvåret mm.. '
-image: "/assets/images/seilskute.jpg"
+image: "/assets/images/sorlandet1.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
