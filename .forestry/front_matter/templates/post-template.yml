@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/luksusstripen.md
 - _posts/taco-shells-fra-santa-maria-kostet-huseier-over-100-000.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-24-film.md
