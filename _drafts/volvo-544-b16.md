@@ -39,12 +39,10 @@ Interiøret var mer påkostet enn med 444. Dashbordets overflate var polstret av
 Utseendemessig var 544 en nokså gammeldags bil, men den hadde flere amerikanske trekk i eksteriøret.
 
 Antall produserte P544 i perioden 1958 til 1965 var 243 996. Sylindervolum:  
-1 583-1 778 cm, antall  
-gir 3 - 4, Motoreffekt:  
-60-95 hk og hjulavstand 260cm.
+1 583-1 778 cm, antall gir 3 - 4, Motoreffekt: 60-95 hk og hjulavstand 260cm.
 
 Fra 1958 til 1961 hadde 544 en B16 (1,6 l, 60 hk).  
 I 1961 kom B18-motoren (1,8 l). Den hadde større slagvolum og var videre-utviklet i forhold til B16.  
 B18 hadde i utgangspunkt 75 hk, men kom også med doble SU-forgassere (Sport-utgave) med 90 hk (95 hk i 1965).
 
-I løpet av produksjons-perioden (1958-1965) var det diverse småendringer på 544, slik som; felger, dekkdimensjon, blinklys foran, ryggelys, støtfangere, grill, emblem/merker, utvalget av farger etc.
+I løpet av produksjons-perioden (1958-1965) var det diverse små endringer på 544, slik som; felger, dekkdimensjon, blinklys foran, ryggelys, støtfangere, grill, emblem/merker, utvalget av farger etc.
