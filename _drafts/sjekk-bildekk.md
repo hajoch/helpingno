@@ -4,7 +4,7 @@ date: 2019-06-24 12:37:59 +0200
 crop_image: true
 tags: []
 title: Sjekk bildekk
-excerpt: ''
+excerpt: 'Biltips før vinteren:'
 image: "/assets/images/bildekk.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
@@ -36,29 +36,20 @@ Sjekk lufttrykket.
 
 **Biltips før vinteren:**
 
-**![](http://www.helping.no/kule.jpg =12x12) **Ikke bruk for gamle vinterdekk: Gummien blir stivere med årene og veigrepet blir dårligere. Sjekk lufttrykket. Husk å ettertrekke hjulmuttere.
-
-**![](http://www.helping.no/kule.jpg =12x12) **Sprayboks med dekkrens gir bedre  
-veigrep på glatta.
-
-**![](http://www.helping.no/kule.jpg =12x12) **Skift vindusviskere og  
-ha alltid godt med vindus-spylervæske på bilen.
-
-![](http://www.helping.no/kule.jpg =12x12) Poler bilen: Voks beskytter mot salt og skitt. Ha alltid rene lykteglass  
-og vinduer.
-
-![](http://www.helping.no/kule.jpg =12x12) Sjekk batteriet. Er det mer enn 7 år bør det skiftes.  
-  
-![](http://www.helping.no/kule.jpg =12x12) Husk frostvæsken.  
-Kan kontrolleres på bensinstasjoner.
-
-![](http://www.helping.no/kule.jpg =12x12) Ta olje i låsene så  
-fryser de ikke så lett.
-
-![](http://www.helping.no/kule.jpg =12x12) Bruk tidsur på motorvarmeren så  
-sparer du strøm.
-
-**![](http://www.helping.no/kule.jpg =12x12) **Tynnere motorolje skåner motoren i kulda: Spør nærmere om type olje  
-der du har oljeskift. Husk å sjekke oljen regelmessig.
-
-**![](http://www.helping.no/kule.jpg =12x12) **Husk isskrape, snøkost, spade og slepetau.
+* Ikke bruk for gamle vinterdekk: Gummien blir stivere med årene og veigrepet blir dårligere. Sjekk lufttrykket. Husk å ettertrekke hjulmuttere.
+* Sprayboks med dekkrens gir bedre  
+  veigrep på glatta.
+* Skift vindusviskere og  
+  ha alltid godt med vindus-spylervæske på bilen.
+* Poler bilen: Voks beskytter mot salt og skitt. Ha alltid rene lykteglass  
+  og vinduer.
+*  Sjekk batteriet. Er det mer enn 7 år bør det skiftes.
+* Husk frostvæsken.  
+  Kan kontrolleres på bensinstasjoner.
+* Ta olje i låsene så  
+  fryser de ikke så lett.
+* Bruk tidsur på motorvarmeren så  
+  sparer du strøm.
+* Tynnere motorolje skåner motoren i kulda: Spør nærmere om type olje  
+  der du har oljeskift. Husk å sjekke oljen regelmessig.
+* Husk isskrape, snøkost, spade og slepetau.
