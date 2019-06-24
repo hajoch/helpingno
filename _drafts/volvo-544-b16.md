@@ -6,7 +6,7 @@ tags: []
 title: Volvo 544 B16
 excerpt: 'Nostalgiske tilbakeblikk på Volvo-veteraner:'
 image: "/assets/images/Volvo-PV544.jpg"
-image_caption: Foto Volvo
+image_caption: 'Foto: Volvo da 544 ble lansert som ny'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
