@@ -33,3 +33,37 @@ For deg som bilkjøper danner NCAP et godt utgangspunkt for bilkjøpet.
 Oftest er nyere modeller av en biltype sikrere enn tidligere modell. Har den eldre modellen kommet godt ut i sikkerhetsnivå hos Folksam, er det god grunn til å håpe at den nye modellen er like god eller bedre. Har derimot den eldre modellen av en ny biltype kommet dårlig ut i test er det all grunn til å være skeptisk med hensyn på den nye modellen.
 
 Det er forskjell på konstruerte situasjoner i NCAP der virkeligheten simuleres slik det gjøres i NCAP og virkeligheten på veiene slik Folksam undersøker. Derfor kan det være noe forskjeller på resultatene, men som oftest samsvarer disse.
+
+**NCAP-tester: De sikreste bilene:**
+
+**Minibiler**  
+[euroncap.supermini](http://www.euroncap.com/supermini.aspx)
+
+**Små familiebiler**  
+[euroncap.small_family](http://www.euroncap.com/small_family_car.aspx)
+
+**Mellomstore biler**  
+[euroncap/large_family](http://www.euroncap.com/large_family_car.aspx)  
+**Store biler**  
+[euroncap.executive](http://www.euroncap.com/executive.aspx)
+
+**Små flerbruksbiler - MPV**  
+[euroncap.small_mpv.](http://www.euroncap.com/small_mpv.aspx)
+
+**Flerbruksbiler - MPV**  
+[euroncap.com/large_mpv.](http://www.euroncap.com/large_mpv.aspx)
+
+**Små SUV/Jeeper**  
+[euroncap.small_off_road](http://www.euroncap.com/small_off_road_4_4.aspx)
+
+**Store SUV/Jeeper**  
+[euroncap.largeoff_road](http://www.euroncap.com/large_off_road_4_4.aspx)
+
+**Van**  
+[euroncap.van](http://www.euroncap.com/van.aspx)
+
+**Pickup**  
+[euroncap.pickup](http://www.euroncap.com/pickup.aspx)
+
+**Nakkesleng**  
+[euroncap.whiplash](http://www.euroncap.com/whiplash.aspx)
