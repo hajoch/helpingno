@@ -4,7 +4,11 @@ date: 2019-06-24 12:22:35 +0200
 crop_image: true
 tags: []
 title: Bilene som redder liv
-excerpt: ''
+excerpt: Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp av ny
+  og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs
+  sikkerhetstest. Er du klar over hvilke biler som er sikrest så har du et godt utgangspunkt
+  for bilvalget ditt. Forskjellen på de sikreste og de dårligste bilene kan bety liv
+  eller død for deg om uhellet er ute i trafikken.
 image: "/assets/images/ncap.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
@@ -14,8 +18,6 @@ publish_date:
 weight: 
 
 ---
-Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp av ny og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs sikkerhetstest. Er du klar over hvilke biler som er sikrest så har du et godt utgangspunkt for bilvalget ditt. Forskjellen på de sikreste og de dårligste bilene kan bety liv eller død for deg om uhellet er ute i trafikken.
-
 Trolig lages nye biler for å oppfylle best mulig testresultat i Euro NCAP. Det er derfor viktig å ha fokus på hva NCAP ikke tester. For Euro NCAPs sikkerhetstest har svakheter: Bilene testes bl.a. ikke for kollisjoner bakfra. Det er derfor viktig også å sjekke andre tester. Dog er interessen for nakkeslengskader stigende i Euro NCAP. Husk også på at en større bil med 5 stjerners sikkerhet er sikrere enn en liten bil med samme poengsum.
 
 Vær derfor klar over de store forskjellene i kollisjonssikkerheten på nye og brukte biler i dag. Sjekk derfor sikkerhetstesten på bilen du ønsker deg før du handler. Det er en god livsforsikring for deg og de du har med deg i bilen. Ofte er det liten prisforskjell mellom de sikre og de mindre sikre bilene. Bilene prises oftest ut i fra størrelse og ikke sikkerhet. Dette fordi norske tollregler ikke favoriserer sikrere biler, men fokuserer på vekt, motorstyrke og CO2-utslipp.
