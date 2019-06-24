@@ -3,7 +3,7 @@ layout: post
 date: 2019-06-24 18:41:35 +0200
 crop_image: true
 tags: []
-title: Taco Shells fra Santa Maria kostet huseier over 300.000
+title: 'Forbruker: Taco Shells fra Santa Maria kostet huseier over 300.000'
 excerpt: 'Ekle larver i pakkene fra Taco Shells Santa Maria var tørrfruktmøll som
   ødela hele kjøkkenet. Mer enn to år og over tre hundre tusen kroner senere er synderen
   endelig oppdaget. Mattilsynet er koplet inn og forsikringsselskapet nekter å dekke
