@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/vakre-veteraner-i-froland.md
 - _posts/2019-06-24-volvo-544-b16.md
 - _posts/2019-06-23-boktips.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
