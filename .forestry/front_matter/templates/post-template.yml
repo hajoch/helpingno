@@ -71,7 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/film.md
+- _posts/2019-06-24-film.md
 - _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-24-russebilen.md
