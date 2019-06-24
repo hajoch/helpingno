@@ -3,9 +3,9 @@ layout: post
 date: 2019-06-24 18:41:35 +0200
 crop_image: true
 tags: []
-title: Taco Shells fra Santa Maria kostet huseier over 100.000
+title: Taco Shells fra Santa Maria kostet huseier over 300.000
 excerpt: 'Ekle larver i pakkene fra Taco Shells Santa Maria var tørrfruktmøll som
-  ødela hele kjøkkenet. Mer enn to år og over hundre tusen kroner senere er synderen
+  ødela hele kjøkkenet. Mer enn to år og over tre hundre tusen kroner senere er synderen
   endelig oppdaget. Mattilsynet er koplet inn og forsikringsselskapet nekter å dekke
   skaden. '
 image: "/assets/images/torrfruktmoll.jpg"
@@ -17,12 +17,12 @@ publish_date:
 weight: 2
 
 ---
-Et plutselig og uforutsett innsektangrep på kjøkkenet startet det hele. Straks larvene og den ferdige utviklede tørrfruktmøllen ble oppdaget i august 2009 ble Gjensidige og Mattilsynet kontaktet. Mattilsynet mottok prøve av insektet og analyserte dette til å være Tørrfruktmøll den 17.08.09.
+Et plutselig og uforutsett innsektangrep på kjøkkenet startet det hele. Straks larvene og den ferdige utviklede tørrfruktmøllen ble oppdaget, ble forsikringsselskapet og Mattilsynet kontaktet. Mattilsynet mottok prøve av insektet og analyserte dette til å være Tørrfruktmøll.
 
 Mattilsynet henviste til et nettsted der Folkehelseinstituttets opplysninger om insektet forelå. Mattilsynet kunne opplyse at slik møll oftest kommer inn i husholdninger via matvarer som kjøpes i dagligvarebutikken og at dette i de fleste tilfellene ikke oppdages før insektene alt er etablert i husets innredning og ørsmå sprekker og porer i sponelementene. Hvilke matvarer som ga denne plagen? Vanskelig å si.
 
 Det ble flere ganger gjort totalrengjøring i henhold til råd fra Mattilsynet og Gjensidige ble orientert om dette til skadeavdelingen. Det ble ved hver rengjøring kastet en betydelig mengde matvarer. Tilsammen matvarer for over tolv tusen kroner. Dette for å være på den sikre siden ettersom møllens larver spiser seg gjennom emballasje og således sprer seg og trenger inn i maten uten at dette er synlig utenpå emballasjen.
 
-Da disse tiltakene ikke viste seg å være tilstrekkelige for å få uskadeliggjort insektangrepet ble det foretatt riving og skifte av takplater i juni 2010. Møllen hadde da tydelig etablert seg inne i sponelementet.
+Da disse tiltakene ikke viste seg å være tilstrekkelige for å få uskadeliggjort insektangrepet ble det foretatt riving og skifte av takplater. Møllen hadde da tydelig etablert seg inne i sponelementet.
 
-Da skifte av takplater ikke hadde noen effekt ble det besluttet å rive også kjøkkeninnredning og skiftet parketten på gulvet. Dette ble utført etter at orientering om riving og gjenoppbygging ble gitt til Gjensidige. Det ble før innkjøp innhentet anbud på kjøkkeninnredning og skaden ble kostnadsmessig begrenset ved at IKEA den billigste kjøkkenleverandøren ble valgt: Prislappen på nytt kjøkken og gulv ble over hundre tusen spenn. Og under rivingen ble det oppdaget små celler med larver inne i sponplaten på innredningen. Forsikringsselskapets begrunnelse for å nekte erstatning var at treverket ikke var skadet. Hvordan får man tillit til et slikt selskap?
+Da skifte av takplater ikke hadde noen effekt ble det besluttet å rive også hele kjøkkeninnredning og skiftet parketten på gulvet. Dette ble utført etter at orientering om riving og gjenoppbygging ble gitt til forsikringsselskapet. Prislappen på nytt kjøkken og gulv ble over tre hundre tusen spenn. Og under rivingen ble det oppdaget små celler med larver inne i sponplaten på innredningen. Forsikringsselskapets begrunnelse for å nekte erstatning var at treverket ikke var skadet. Hvordan får man tillit til et slikt forsikringsselskap?
