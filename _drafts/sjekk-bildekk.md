@@ -14,18 +14,14 @@ publish_date:
 weight: 
 
 ---
-
-| --- |
-|  |
-
 **Piggdekksesongen i Norge**
 
-Piggdekksesongen i Sør-Norge varer fra 1. november til og med første søndag etter påske.  
-  
-De nordligste fylkene - Nordland, Troms og Finnmark - har piggdekk-sesong fra 15. oktober til 1. april.  
-  
-Uansett hvor du bor i landet er det lov å bruke hodet: Sko bilen etter føre. Husk å justere lufttrykket i dekkene ved dekkskift. Rett lufttrykk forlenger dekkenes levetid, gir økonomisk drivstoffforbruk og øker sikkerheten.  
-  
+Piggdekksesongen i Sør-Norge varer fra 1. november til og med første søndag etter påske.
+
+De nordligste fylkene - Nordland, Troms og Finnmark - har piggdekk-sesong fra 15. oktober til 1. april.
+
+Uansett hvor du bor i landet er det lov å bruke hodet: Sko bilen etter føre. Husk å justere lufttrykket i dekkene ved dekkskift. Rett lufttrykk forlenger dekkenes levetid, gir økonomisk drivstoffforbruk og øker sikkerheten.
+
 Det er ingen tidsfrister for piggfrie vinterdekk. Men disse "helårsdekkene" har en annen gummiblanding enn dekk som er beregnet på norsk vinter og har derfor dårligere veigrep på glatta.
 
 Minimum mønsterdybde på vinterdekk skal være 3 mm.  
