@@ -19,3 +19,5 @@ På Froland i Aust-Agder skjer det hvert år imai. Da stiller stolte bileiere me
 Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsninger?
 
 Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et sikkert mai-tegn hvert år.
+
+Flere bilder kommer senere.
