@@ -3,7 +3,7 @@ layout: post
 date: 2019-06-24 21:50:49 +0200
 crop_image: true
 tags: []
-title: '"Luksusstripen"'
+title: 'Forbrukertest: "Luksusstripen"'
 excerpt: Las Meloneras er det mest eksklusive området du kan besøke på Gran Canaria
   og kalles "luksusstripen".
 image: "/assets/images/grancana.jpg"
@@ -15,51 +15,20 @@ publish_date:
 weight: 3
 
 ---
+Las Meloneras er det mest eksklusive området du kan besøke på Gran Canaria og kalles "luksusstripen". Området ligger ved den kjente Maspalomas-stranden og er det beste du kan velge om du ønsker deg god standard uten å sprenge budsjettet på Grand Canaria. Her ligger flere store hoteller med fire og fem stjerner på plakaten. Området består hovedsakelig av nybygg som er vel tilrettelagt med butikker og restauranter.
 
-| --- |
-|  |
-
-**Las Meloneras er det mest eksklusive området du kan besøke på Gran Canaria og kalles "luksusstripen". Området ligger ved den kjente Maspalomas-stranden og er det beste du kan velge om du ønsker deg god standard uten å sprenge budsjettet på Grand Canaria. Her ligger flere store hoteller med fire og fem stjerner på plakaten. Området består hovedsakelig av nybygg som er vel tilrettelagt med butikker og restauranter.**
-
-[**Av Gunnar Christensen**](http://www.helping.no/gunnar.htm)
-
-Vi testet første gang en pakketur ei uke i april - påsken 2011 til Gran Canaria med Star Tour på hotell Hotel Lopesan Costa Meloneras. Et stort og flott firestjernes hotell ved havet med storslagen parkanlegg med over to tusen palmer samt 8 svømmebasseng og en stor gjestekapasitet.
+På hotell Hotel Lopesan Costa Meloneras, et stort og flott firestjernes hotell ved havet med storslagen parkanlegg og over to tusen palmer samt 8 svømmebasseng har en stor gjestekapasitet.
 
 Samtidig memoreres tidligere charterreise til øya desember 1989 med Apollo. Se "TIDLIGERE TEST: Grand Canaria"
 
-**Reisemålet: Las Meloneras ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**
+Las Meloneras er et hotellsentra med flott strandpromenade langs havet. Her ligger de beste hotellene på rad og naturligvis med tilstrekkelig med butikker innimellom.
 
-| --- |
-|  |
+Maspalomasstranden like ved Meloneras er så stor at du alltid finner deg en usjenert grop i de store sand-dynene som nærmest er å betrakte som en ørken med strandlinje mot havet. Det er en fin fottur å gå fra Las Meloneras til Ingles på den andre siden av stranden. Standen patruljeres av lokalt politi og badevakter for badegjestenes sikkerhet. I tillegg kan det kjøpes forfriskninger på små barer langs stranden. Dette er en fantastisk stor og flott sandstrand med finkornet sand. Badetemperaturen i april var meget behagelig.
 
-Las Meloneras er et nybygd hotellsentra med flott strandpromenade langs havet. Her ligger de beste hotellene på rad og naturligvis med tilstrekkelig med butikker innimellom.
+Været betyr mye for en chartertur ment som "solferie". I ukeperioden 20. til og med 28. april hadde vi tre varme soldager med lett skydekke og en regnværsdag på avreisedagen. De øvrige dagene var overskyet oppholdsvær. Grand Canaria, Lanzarote og ellers på Kanariøyene er det ustabilt om vinteren. Du er derfor aldri garantert å få fint vær som på denne turen her i vinterhalvåret.
 
-Maspalomasstranden (bildet) like ved Meloneras er så stor at du alltid finner deg en usjenert grop i de store snaddynene som nærmest er å betrakte som en ørken med strandlinje mot havet. Det er en fin fottur å gå fra Las Meloneras til Ingles på den andre siden av stranden. Standen patruljeres av lokalt politi og badevakter for badegjestenes sikkerhet. I tillegg kan det kjøpes forfriskninger på små barer langs stranden. Dette er en fantastisk stor og flott sandstrand med finkornet sand. Badetemperaturen i april var meget behagelig.
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-Været: **![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**
-
-Været betyr mye for en chartertur ment som "solferie".
-
-I ukeperioden 20. til og med 28. april 2011 hadde vi tre varme soldager med lett skydekke og en regnværsdag på avreisedagen. De øvrige dagene var overskyet oppholdsvær. Star Tours representant bekrefter at været både på Grand Canaria, Lanzarote og ellers på Kanariøyene er ustabilt om vinteren og at du aldri er garantert å få fint vær her i vinterhalvåret.
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-Les også: [Lanzarote](http://www.helping.no/lanzarote.htm) Bare en soldag på ei uke
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-Hotellet: Hotel Lopesan Costa Meloneras **![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**
-
-| --- |
-|  |
-
-**Hotel Lopesan Costa Meloneras**
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-**Hotel Lopesan Costa Meloneras er et flott og stort hotell. Hotellet har fin atmosfære og beliggenhet med flott utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for havutsikt vil du nyte en flott utsikt vel verd ekstra slanter.**
+**Hotel Lopesan Costa Meloneras  
+**Hotel Lopesan Costa Meloneras er et flott og stort hotell. Hotellet har fin atmosfære og beliggenhet med flott utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for havutsikt vil du nyte en flott utsikt vel verd ekstra slanter.
 
 Oppholdet på hotellet ble kjøpt med frokost og middag hvilket betyr at disse måltider er inkludert i prisen. Hotellet er bedre enn andre fire-stjernershoteller vi har testet og er et 4+-hotell, derfor gir vi hotellet fem soltegn.
 
@@ -72,8 +41,8 @@ Hotellet er svært populært hos engelske og tyske turister og der finnes en rek
 **Flyreisen Tui ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**  
 Flykomforten er ikke bedre nå enn da vi fløy til Kanariøyene på 1970-tallet. Fremdeles flyr den gamle, men trange Boeing 737 deg om du reiser med Star Tour som eier flyselskapet Tui. Hyggelig mannskap oppveier noe, men Boeing eldre 737- flåten til Tui er trang og har ikke den komforten som andre flyselskap kan tilby. Denne gang stilte selskapet med en ny 737-maskin, men med de samme filmene til underholdning som vi så på vei til Lanzarote 2 måneder tidligere. Kanskje behov for å skifte ut også filmene?
 
-Flysikkerhet og bedre komfort blir stadig viktigere for oss forbrukere i et marked der også useriøse flyselskap med høyere ulykkesrisiko frakter passasjerer til reisemål fra Norge. Flyulykker med store tapstall minner oss om hvor viktig flysikkerheten er. Sjekk derfor flyenes alder og eierforhold om flyselskapet på nett.   
-**  
+Flysikkerhet og bedre komfort blir stadig viktigere for oss forbrukere i et marked der også useriøse flyselskap med høyere ulykkesrisiko frakter passasjerer til reisemål fra Norge. Flyulykker med store tapstall minner oss om hvor viktig flysikkerheten er. Sjekk derfor flyenes alder og eierforhold om flyselskapet på nett.  
+\**  
 Star Tour Totalinntrykk ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)**
 
 | --- |
@@ -103,7 +72,7 @@ Hadde ikke personalet TUI-flyselskapet vært så flinke på service ville vi git
 Råd: Dropp charterselskapene
 
 **Bestilling**  
-Råd om du likevel velger charterselskap:   
+Råd om du likevel velger charterselskap:  
 Bestillingen hos Star Tour har en tendens til å gå "litt fort i svingene" ved telefonhenvendelse. Inntrykket er at selgerne går for raskt igjennom alt som har med standard å gjøre samt ting som gir påplusninger på prisen, men tar seg heller tid til en hyggelig ordveksling etterpå. Dette medfører ofte at det må gjøres endringer i bookingen etterpå og da er selger svært så travel og vanskeligere å få tak i. Ta deg derfor god tid i denne bestillingsfasen - ha skrevet opp alt som det skal spørres om før du ringer.Bestilling direkte på nett er best om du kjenner hotellet og reisemålet fra tidligere besøk.
 
 **![](http://www.helping.no/gul2.jpg =150x5)**
