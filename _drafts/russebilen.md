@@ -18,14 +18,11 @@ weight: 2
 Bruktbiltest:  
 15 år med Volkswagen Caravelle 2,4 diesel 1995 modell
 
-**Etter mange års bruk er dette fortsatt en solid og praktisk bil med god kollisjonssikkerhet. Dette er første årgang Caravelle med airbagg. Se opp for rust på eldre Caraveller.**
+Etter mange års bruk er dette fortsatt en solid og praktisk bil med god kollisjonssikkerhet. Dette er første årgang Caravelle med airbag. Se opp for rust på eldre Caraveller.
 
-| --- |
-|  |
+Her går det inn fem voksne sykler og all bagasje på en familietur til Danmark. Du har aldri bruk for takgrind eller henger.
 
-**Her går det inn fem voksne sykler og all bagasje på en familietur til Danmark. Du har aldri bruk for takgrind eller henger.**
-
-**Det dårligste ved denne bilen er setene. Forsetene er original fabrikkmonterte seter. De er elendige. Ta med sofapute til korsryggen for her er ingen reguleringsmuligheter. Bortsett fra setene er bilen utrolig praktisk.**
+Det dårligste ved denne bilen er setene. Forsetene er original fabrikkmonterte seter. De er elendige. Ta med sofapute til korsryggen for her er ingen reguleringsmuligheter. Bortsett fra setene er bilen utrolig praktisk.
 
 Baksetet på denne kombien er en norskprodusert setebenk med plass til fire i bredden. Alle setene har nakkestøtte og 3 punkts seler, men sittekomforten er også her dårlig. Verre enn forsetene.
 
@@ -50,19 +47,19 @@ Forsikringsselskapet insiterte på at døra skulle skiftes hos merkeforhandler s
 
 Dette er ikke første gang jeg har hatt problemer med merkeforhandlerens dårlige verksted med det resultaet at denne bilen har ikke vært på service hos denne merkeforhandleren siden 30.000km-servicen.
 
-Det er derfor underlig at nettopp dette verkstedet har utropt seg til landets beste Volkswagenverksted på service. Men så foregår da også kundeundersøkelsen slik at man unngår å registere når bilen må inn flere ganger på grunn av dårlig verkstedarbeid. Liksom i fjernsynskjøkkenet: Vi har juksa litt!  
-  
+Det er derfor underlig at nettopp dette verkstedet har utropt seg til landets beste Volkswagenverksted på service. Men så foregår da også kundeundersøkelsen slik at man unngår å registere når bilen må inn flere ganger på grunn av dårlig verkstedarbeid. Liksom i fjernsynskjøkkenet: Vi har juksa litt!
+
 **Familiebil**  
 Caravellen er en robust sliter med stor bagasjeplass. En drøm av en familiebil: Den laster glatt 5 voksne sykler og en hel families bagasje i bagasjerommet på langtur - og enda er det mer plass. Den tar to barnevogner uten at du behøver å slå dem sammen eller ta av hjulene og et hav av bagasje. Dette er en ideell familiebil for familier opp til 6 personer.
 
 Den er driftsøkonomisk, men treg med sin 2,4 liters 78 hk fem cylinder diesel: Jeg har aldri opplevd å bruke over literen på mila uansett hvor tungt den lastes på sommer eller vinterdekk. Selv ikke nå etter at bilen passerte to hundre tusen.
 
 **Brukte Caraveller**  
-Dette gjenspeiler seg på bruktbilprisen: Brukte Caraveller er populære. Jeg ble høsten 2004 stoppet i trafikken og tilbudet 150.000 spenn for bilen min. Da må man kunne si at Caravellen i sin tid var et godt nybilkjøp ettersom nybilprisen i 1995 var 215.000 kroner. Men jeg villle ikke selge den den da jeg fikk tilbudet: En mer praktsikk bil finner jeg ikke. Og en ny Caravelle er blitt for kostbar: Den har priset seg ut av markedet for nye familiebiler hvilket gjenspeiler seg i betydelig lavere salgstall.  
-  
+Dette gjenspeiler seg på bruktbilprisen: Brukte Caraveller er populære. Jeg ble høsten 2004 stoppet i trafikken og tilbudet 150.000 spenn for bilen min. Da må man kunne si at Caravellen i sin tid var et godt nybilkjøp ettersom nybilprisen i 1995 var 215.000 kroner. Men jeg villle ikke selge den den da jeg fikk tilbudet: En mer praktisk bil finner jeg ikke. Og en ny Caravelle er blitt for kostbar: Den har priset seg ut av markedet for nye familiebiler hvilket gjenspeiler seg i betydelig lavere salgstall.
+
 Se opp for rust i hjulbuer og kanalene om du kjøper en brukt Caravelle: Ikke alle passer like godt på bilen med vedlikehold og antirustbehandling.
 
 **Kollisjonstester**  
-Folksam kollisjonstester gir Volkswagen Caravlle fra 1991 og nyere topp karakter. 1995-modellen var den første som kom med air-bag og da med aribag på både passasjer og førerplass samt delvis galvanisert karoseri. I brukt-markedet er derfor 1995-modellene og nyere populære.
+Folksam kollisjonstester gir Volkswagen Caravlle fra 1991 og nyere topp karakter. 1995-modellen var den første som kom med air-bag og da med aribag på både passasjer og førerplass samt delvis galvanisert karoseri. I brukt-markedet er derfor 1995-modellene og nyere sikrere.
 
-Men når en bil er blitt over 10 år så faller bruktbilprisen merkbart. Det gjelder alle merker. Dermed finnes flere rimelige Caraveller på markedet nå. Men som sagt: Se opp for rust i hjulbuene og kanaler. Ikke alle bileiere har tatt vare på bilen.
+Men når en bil er blitt over langt over 10 år så faller bruktbilprisen merkbart. Det gjelder alle merker. Dermed finnes flere rimelige Caraveller på markedet nå. Men som sagt: Se opp for rust i hjulbuene og kanaler. Ikke alle bileiere har tatt vare på bilen. Og Volkswagen ruster mest.
