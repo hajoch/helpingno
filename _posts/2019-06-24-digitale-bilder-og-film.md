@@ -7,11 +7,12 @@ title: Digitale bilder og film
 excerpt: Har du sikret bilder og filmer mot husbrann, pc-kollaps, usikre skyer, mobiltyveri
   og innbrudd?
 image: "/assets/images/juli31.jpg"
-image_caption: ''
-author: ''
-categories: []
+image_caption: "Foto:Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
+author: _authors/gunnar-christensen.md
+categories:
+- _category/foto.md
 publish_date: 
-weight: 
+weight: 6
 
 ---
 **Digitalfoto: Ta sikkerhetskopi.**
