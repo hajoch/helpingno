@@ -27,3 +27,13 @@ Tema fra Hinduismen:
 **_![](http://www.helping.no/gandhi.jpg =90x131)_**  
 "Gandhi - Han endret verden for alltid". En flott og storslagen skildring av Gandhis liv og hinduismens ikke-voldsidealer.  
  (Tillat for alle.)
+
+**Tema fra Buddhismen**
+
+[**![](http://www.helping.no/libuddh.jpg =90x128)**](http://www.helping.no/uhjelp.htm)
+
+Keanu Reeves, Bridget Fona. Chris Isaak:  
+"Little Buddha"/ "Lille Buddha".  
+  
+Denne spennende filmen gir en meget god innsikt i buddhismen.   
+(Aldersgrense 10 år.)
