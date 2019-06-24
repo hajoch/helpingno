@@ -15,7 +15,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 Trolig lages nye biler for å oppfylle best mulig testresultat i Euro NCAP. Det er derfor viktig å ha fokus på hva NCAP ikke tester. For Euro NCAPs sikkerhetstest har svakheter: Bilene testes bl.a. ikke for kollisjoner bakfra. Det er derfor viktig også å sjekke andre tester. Dog er interessen for nakkeslengskader stigende i Euro NCAP. Husk også på at en større bil med 5 stjerners sikkerhet er sikrere enn en liten bil med samme poengsum.
