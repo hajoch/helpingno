@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 18:35:18 +0200
+date: 2019-06-17T16:35:18.000+00:00
 crop_image: true
 author: _authors/kari-rose-norheim.md
 tags: []
@@ -8,7 +8,7 @@ title: Hva er åndelig utvikling og oppvåkning?
 excerpt: Åndelig utvikling og oppvåkning er kjennetegnet ved at man begynner å stille
   forskjellige eksistensielle spørsmål ved livet og tilværelsen, ofte etter opplevelser
   av kjærlig nærvær og uforståelige hendelser eller kriser.
-image: "/assets/images/april.01.jpg"
+image: "/assets/images/oct092 (1).jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/religion.md
@@ -16,7 +16,6 @@ publish_date:
 weight: 5
 
 ---
-
 **Abstrakt forklaring**  
 Bakenfor all skapelse er det en upreget fri energi (Gud/total bevissthet.) Denne energien får forskjellige pregninger som manifesteres i frekvenser og dimensjoner. Her begynner energien å bli gradvis begrenset og vi kan begynne å snakke om de største bevissthetsformene som erkeengler og andre store åndelige bevissthetsformer/vesener. Energien går fra total bevissthet hvor den er alt og ingen ting, videre til pregninger/begrensninger som skaper forskjellighet gjennom dualitet (dobbelthet) eller tosidighet som igjen medfører skapelse av tanker og følelse til materie gjennom motsetningenes par. Dette er kjent som bl. annet yin/yang prinsippet og feminint/maskulint, følelse og tanker, opplevelse og forståelse. I den fysiske materie som magnetisme, elektrisitet osv.
 
