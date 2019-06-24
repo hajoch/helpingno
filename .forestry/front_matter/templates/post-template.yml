@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-24-taco-shells-fra-santa-maria-kostet-huseier-over-100-000.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
