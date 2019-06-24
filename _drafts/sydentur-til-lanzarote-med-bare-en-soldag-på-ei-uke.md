@@ -40,11 +40,7 @@ Hotellet har fin atmosfære og beliggenhet med utsikt over sjøen. Servicen på 
 Hotellet er svært populært hos engelske og tyske turister og der finnes en rekke positive gjestekommentarer på hotellet på Internett. Dette hotellet får du lyst til å besøke igjen.
 
 **Leiebil - se opp for "snyteri"**  
-Vi valgte leiebil denne gang. Etter mange tidligere charterturer med langdryg venting på flyplassen ved ankomst og avgang og en uendelighet av omkjøringer til alle hoteller underveis før vi endelig er på hotellet - så ble billeie valgt denne gang. Minsteprisen var kr. 1.270,- for en uke hos Star Tour som formidler det lokale leiebilfirmaet Avia Car. Prisen inkluderer en ukeleie av de minste bilene. Derfor strevde vi en del med å finne ut av hvilke biler som var å velge i for å være sikker på å få femstjerners kollisjons-sikkerhet og rimelig god driftssikkerhet. Ettersom bilens farge også har med sikkerhet å gjøre ønsket vi gul eller rød bil. Disse fargene syns godt og er i ifølge undersøkelser minst innblandet i kollisjoner. Men Star Tour hadde ingen kode for bilens farge.
-
-Etter nettbesøk hos utleiefirmaet [www.aviacar.com](http://www.aviacar.com/) som samarbeider med Star Tour valgte vi en rød Toyota Yaris fra utvalget av biler der. Da svarte Star Tours selger med å heve prisen til kr. 1.470,- uka. Etter litt diskusjon ble nå dette justert tilbake. Men etter landing på flyplassen i Arrecife fikk vi opplyst at utleiefirmaet ikke hadde Yaris og vi måtte derfor ta en rød Renault Clio som var klargjort for oss.
-
-Senere fant vi ut at andre utleiefirmaer tar kr. 880,- for samme biltype/størrelse. Så Star Tour mesker deg med en god fortjeneste på denne bilformidlertjenesten. Lei derfor ikke bil av turoperatøren. Det ordner du billigere på hotellet når du er på stedet. Eller på nett med utleiebil levert på flyplassen. Men les leiebetingelsene nøye.
+Vi valgte leiebil denne gang. Etter mange tidligere charterturer med langdryg venting på flyplassen ved ankomst og avgang og en uendelighet av omkjøringer til alle hoteller underveis før vi endelig etter en halv dag i buss er på hotellet. Billeie ble valgt denne gang og det ble billigere enn charterbuss tur/retur flyplassen og så hadde vi  bil hele uka som bonus.
 
 **Postkort**  
 En ting er likevel ved det gode gamle på Lanzarote: Postkortene vi sendte fra Hotell Iberostar Papagayo ligger i postkassene til venner og familie to uker etter at vi er kommet hjem til Norge. Da er det fremdeles håp for sydenreiser.
