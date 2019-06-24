@@ -7,7 +7,8 @@ tags: []
 title: Slik kjøper du bil
 excerpt: 'Her er sjekklista '
 image: "/assets/images/veteran19.jpg"
-image_caption: Illustrasjonsbilde er hentet fra Google
+image_caption: Foto Gunnar Christensen. Motiv fra veteranbilmessa i Froland - i mai
+  hvert år.
 categories:
 - _category/bil.md
 publish_date: 
