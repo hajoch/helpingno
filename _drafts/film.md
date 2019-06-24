@@ -19,5 +19,11 @@ Tema fra Buddhismen
 **_![](http://www.helping.no/dvd.dalailama.jpg =100x149)_**
 
 "Kundun, Den storslagne historien om den 14 Dalai Lama"  
-Filmen gir innsikt i Tibatansk buddhisme og den kinesiske okkupasjonen av Tibet og den dramatiske flukten til India.   
+Filmen gir innsikt i Tibatansk buddhisme og den kinesiske okkupasjonen av Tibet og den dramatiske flukten til India.  
 (Aldersgrense 11 år)
+
+Tema fra Hinduismen:
+
+**_![](http://www.helping.no/gandhi.jpg =90x131)_**  
+"Gandhi - Han endret verden for alltid". En flott og storslagen skildring av Gandhis liv og hinduismens ikke-voldsidealer.  
+ (Tillat for alle.)
