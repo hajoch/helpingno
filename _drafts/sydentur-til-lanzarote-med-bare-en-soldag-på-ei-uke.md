@@ -8,7 +8,7 @@ excerpt: 'Forbrukertest: Hotell Iberostar Papagayo Lanzarote. Lanzarote er ikke 
   det en gang var etter tre besøk. I alle fall ikke når det gjelder været på Playa
   Blanca'
 image: "/assets/images/lanza.jpg"
-image_caption: 'Foto: Jens Christian Jore Christensen'
+image_caption: 'Foto: Jens Christian Jore Christensen. Utsikt fra hotellet.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
