@@ -4,7 +4,7 @@ date: 2019-06-24 12:29:59 +0200
 crop_image: true
 tags: []
 title: Russebilen
-excerpt: Dette er en av de mest populære russebilene for tiden. Har er en langtidstest
+excerpt: Dette er en av de mest populære russebilene for tiden. Her er en langtidstest
   som gir deg grundig kunnskap om bilen.
 image: "/assets/images/caravellen.jpg"
 image_caption: ''
