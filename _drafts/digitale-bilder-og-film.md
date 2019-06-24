@@ -23,38 +23,29 @@ Mange har mistet verdifulle minner i form av bilder som følge av dette systemet
 Så ikke la datamaskinen din tømme brikken. Vær sikker på at du har bildene sikkert forvart på en CD eller ekstern HD eller på en sky om då stoler på skyens personvern. Flere lagringsalternativer i bruk er den beste sikkerhetskopi du kan ha med dette systemet. Spør deg også om du har sikret deg mot husbrann? Noen leier bankboks til bilder.
 
 Det kan være lurt å finne en mappe eller eske til å samle disse CD sikkerhetskopiene i så de er like sikkert forvart som de gamle negativene. Forutsatt at CDen er like holdbare som de gamle negativene.  
-Bruker du ekstren HD så ta gjerne kopi på to slike.
+Bruker du ekstern HD så ta gjerne kopi på to slike.
 
-| --- |
-|  |
-
-Og om uhellet er ute: Du har mistet bilder. Bildene er blitt slette fra menory-kortet og er borte på mobilen eller PCen din?
+Og om uhellet er ute: Du har mistet bilder. Bildene er blitt slette fra memory-kortet og er borte på mobilen eller PCen din?
 
 Da er ikke alt håp ute. Det finnes firmaer som kan rekonstruere bilder fra en memory-brikke, men det er dyr fornøyelse. I vår redaksjon ble verdifulle bilder borte: PCen kan være lunefull og bildene hadde ikke rukket å komme til sikkerhetskopi fordi vi ikke ventet med å slette brikken før alt var vel på plass på CDen.
 
-Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få de savnede bildene. Vi ble da tilbudt å rekontruere HDen på PCen for kr. 9.000,-. Da sa vi stopp.
+Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få de savnede bildene. Vi ble da tilbudt å rekontruere HD en på PCen for kr. 9.000,-. Da sa vi stopp.
 
 Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup for bildene dine. Vi garderer oss med å ha bildene på 3 PCer og to ekstrene HD nå. Backup i bankboksen.
 
-| --- |
-|  |
-
-**Digitalvideo:**  
+**Digitalfilm:**  
 Brenn inn på DVD eller ekstern HD  
-Videokamara i dag har oftest opptak direkte på en harddisk. Husk da sikkerhetskopiering av dine opptak. Har du digitalt videokamera såkalt DV med tape er det klokt å brenne disse opptakene over på DVD. Eller anndre digitale lagringsløsninger.  
-  
+Videokamera i dag har oftest opptak direkte på en harddisk. Husk da sikkerhetskopiering av dine opptak. Har du digitalt videokamera såkalt DV med tape er det klokt å brenne disse opptakene over på DVD. Eller anndre digitale lagringsløsninger.
+
 Ta gjerne flere sikkerhetskopier av DVD/ekstern HD og kanskje oppbevare en kopi i en bankboks som en ekstra sikkerhet i tilfelle brann eller innbrudd?
 
-Om du samler alle videoopptakene kun på PCen uten sikkerhetskopier kan du lett miste dine verdifulle opptak ved tyveri, datahavari, virus eller andre teksniske feil som måtte oppstå med din PC.
+Om du samler alle videoopptakene kun på PCen uten sikkerhetskopier kan du lett miste dine verdifulle opptak ved tyveri, datahavari, virus eller andre tekniske feil som måtte oppstå med din PC.
 
-Har du Video 8, Video Hi 8 eller 8 mm smalfilm kan du lett havne i den situasjonen at du ikke har muligheter for å se filmene. Det gamle kameraet er kanskje solgt eller virker ikke lengre. Da bør du spore opp personer eller firmaer som kan overføre de gamle opptaken til DVD/HD om du ikke har det tekniske utstyret som skal til for å gjøre dette selv. Ta uansett alltid vare på originalopptakene: Ikke kast dem.
+Har du Video 8, Video Hi 8 eller 8 mm smalfilm kan du lett havne i den situasjonen at du ikke har muligheter for å se filmene. Det gamle kameraet er kanskje solgt eller virker ikke lengre. Da bør du spore opp personer eller firmaer som kan overføre de gamle opptakene til DVD/HD om du ikke har det tekniske utstyret som skal til for å gjøre dette selv. Ta uansett alltid vare på originalopptakene: Ikke kast dem.
 
 På DVD eller HD blir videoene også mer tilgjengelig når du har lyst til å se gamle opptak. En DVD-plate rett i en DVD-spiller og fremvisningen er i gang.
 
 For mange blir privatopptakene mer verdifulle med årne. I tillegg blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
-
-| --- |
-|  |
 
 **Digitalkamera:**  
 Minnebrikkene går ut på dato.  
@@ -65,9 +56,6 @@ Vi får opplyst at disse minnebrikkene kan fylles og tømmes etter ønske og beh
 Minnebrikkene kan sammeliknes med de oppladbare batteriene som også har en viss levetid der de kan lades opp og brukes et antall ganger, så er det plutselig slutt. Det gode råd her er derfor å ta sikkerhetskopier og skifte minnebrikke når du merker problemer.
 
 Formater minnebrikkene etter at du har tømt dem. Ha alltid kopier av bildene dine på CD eller HD.
-
-| --- |
-|  |
 
 **Digitalkamera gir kjøpepress?**  
 Mange reagerer på kjøpepresset som er kommet etter at digitalkameraene kom på markedet. Det kan virke som om digital-kamera-produsentene skal ha deg til stadig å kjøpe nye kamera og lokker med stadig nyere og "avgjørende" finesser.
