@@ -14,16 +14,8 @@ publish_date:
 weight: 1
 
 ---
-Veteranbiltreff
+På Froland i Aust-Agder skjer det hvert år imai. Da stiller stolte bileiere med blank-pussede doninger for å se og bli sett.
 
-| --- |
-|  |
+Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsninger?
 
-  
-På Froland i Aust-Agder skjer det hvert år imai. Da stiller stolte bileiere med blank-pussede doninger  
-forå se og bli sett.
-
-Hyggelig prat og kanskje  
-en handel? Utveksle kontakter og tips om tekniske løsninger?  
-  
- Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et sikkert mai-tegn hvert år.
+Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et sikkert mai-tegn hvert år.
