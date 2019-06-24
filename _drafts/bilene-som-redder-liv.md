@@ -67,3 +67,6 @@ Det er forskjell på konstruerte situasjoner i NCAP der virkeligheten simuleres 
 
 **Nakkesleng**  
 [euroncap.whiplash](http://www.euroncap.com/whiplash.aspx)
+
+**USA-bil-tester:**  
+Kollisjonstester i USA: [www.safercar.gov/](http://www.safercar.gov/)
