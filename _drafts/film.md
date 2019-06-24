@@ -26,3 +26,8 @@ Filmen gir innsikt i Tibatansk buddhisme og den kinesiske okkupasjonen av Tibet 
 **Keanu Reeves, Bridget Fona. Chris Isaak:  
 "Little Buddha"/ "Lille Buddha".  
 Denne spennende filmen gir en meget god innsikt i buddhismen.  (Aldersgrense 10 år.)
+
+**Tema Blasfemi**  
+John Clese, "Life of Brain"  
+Gir innsikt i temaet blasfemi slik det ble tolket av den norske filmsensuren da filmen kom i 1979.  
+Komedie. (Aldersgr. 11 år)
