@@ -28,3 +28,23 @@ Denne bilen var lettere å reparere selv enn dagens biler og det var nyttig for 
 Volvo PV var en god bil på glatta, bakhjulsdrift til tross: Tyngden gjorde den stabil og god på veien. Men datidens diagonaldekk ga dårligere veigrep og lengre bremselengde enn dagens radialdekk og nå også lavprofildekk.
 
 Det var stas å ha en Volvo PV som ungdom på1970-tallet. I dag er PV 544 et samleobjekt. Det er gøy å se hvor mange flotte PVer som fremdeles er på veien i dag.
+
+**I 2018 var det 60 år siden PV 544 ble satt i produksjon.**  
+**Duetten er 5 år eldre.**
+
+Volvo PV 544 kom på markedet i 1958 og er en videreutvikling av PV 444.
+
+Interiøret var mer påkostet enn med 444. Dashbordets overflate var polstret av hensyn til sikkerheten. Bredden på baksetet var økt takket være at armlenet nå var felt inn i karosseriet. Dermed var det mer behagelig å sitte tre passasjerer i baksetet.
+
+Utseendemessig var 544 en nokså gammeldags bil, men den hadde flere amerikanske trekk i eksteriøret.
+
+Antall produserte P544 i perioden 1958 til 1965 var 243 996. Sylindervolum:  
+1 583-1 778 cm, antall  
+gir 3 - 4, Motoreffekt:  
+60-95 hk og hjulavstand 260cm.
+
+Fra 1958 til 1961 hadde 544 en B16 (1,6 l, 60 hk).  
+I 1961 kom B18-motoren (1,8 l). Den hadde større slagvolum og var videre-utviklet i forhold til B16.  
+B18 hadde i utgangspunkt 75 hk, men kom også med doble SU-forgassere (Sport-utgave) med 90 hk (95 hk i 1965).
+
+I løpet av produksjons-perioden (1958-1965) var det diverse småendringer på 544, slik som; felger, dekkdimensjon, blinklys foran, ryggelys, støtfangere, grill, emblem/merker, utvalget av farger etc.
