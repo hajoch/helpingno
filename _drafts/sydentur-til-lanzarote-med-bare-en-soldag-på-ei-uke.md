@@ -31,17 +31,13 @@ Vi ankom og kjørte leiebil fra flyplassen til hotellet i vekslende øsregn og s
 Været både på Lanzarote og ellers på Kanariøyene er ustabilt om vinteren - du er aldri er garantert å få fint vær her i vinterhalvåret. Været på Lanzarote er med andre ord betydelig dårligere enn det som opplyses i reklamen.
 
 **Hotellet: Hotell Iberostar Papagayo   
-**Hotell Iberostar Papagayo under mørke uværskyer. Oppholdet på Hotell Iberostar Papagayo ble kjøpt med "all inclusive" hvilket betyr at alle måltider er inkludert i prisen. Et nyere fire-stjernes hotell med utsikt til de berømte Papagayostrendene ved landsbyen Playa Blanca på sydkysten. Hotellet er bedre enn andre fire-stjernershoteller vi har testet, derfor gir vi hotellet fem soltegn.
+**Oppholdet på Hotell Iberostar Papagayo ble kjøpt med "all inclusive" hvilket betyr at alle måltider er inkludert i prisen. Et nyere fire-stjernes hotell med utsikt til de berømte Papagayostrendene ved landsbyen Playa Blanca på sydkysten. Hotellet er bedre enn andre fire-stjernershoteller vi har testet.
 
 Kan du tenke deg noe bedre enn å sjekke inn på et rolig hotell i vakre og landlige omgivelser ved sjøen hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler og trafikk, ingen støyende diskotek og andre støykilder. Bare bølgene som slår mot stranden; Når du skal sove - og når du våkner om morgenen.
 
-Hotellet har fin atmosfære og beliggenhet med utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for havutsikt vil du nyte en flott utsikt vel verd ekstra slanter. Her er også en svært liten spaavdeling og muligheter for å spille tennis. Solsted for naturister på taket ble det opplyst i resepsjonen.
+Hotellet har fin atmosfære og beliggenhet med utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for havutsikt vil du nyte en flott utsikt vel verd ekstra slanter. Her er også en svært liten spaavdeling og muligheter for å spille tennis. Sted for naturister på taket ble det opplyst i resepsjonen.
 
-Trimromet var skadet av regnflom uka før vi kom og ikke tilgjengelig for bruk på grunn av store sprekker og forskyvninger i gulvet.
-
-Hotellet er svært populært hos engelske og tyske turister og der finnes en rekke positive gjestekommentarer på hotellet på internett. Dette hotellet får du lyst til å besøke igjen.
-
-På Lanzarote kjøres leiebil fra flyplassen til hotellet i vekslende øsregn og sol.
+Hotellet er svært populært hos engelske og tyske turister og der finnes en rekke positive gjestekommentarer på hotellet på Internett. Dette hotellet får du lyst til å besøke igjen.
 
 **Leiebil - se opp for "snyteri"**  
 Vi valgte leiebil denne gang. Etter mange tidligere charterturer med langdryg venting på flyplassen ved ankomst og avgang og en uendelighet av omkjøringer til alle hoteller underveis før vi endelig er på hotellet - så ble billeie valgt denne gang. Minsteprisen var kr. 1.270,- for en uke hos Star Tour som formidler det lokale leiebilfirmaet Avia Car. Prisen inkluderer en ukeleie av de minste bilene. Derfor strevde vi en del med å finne ut av hvilke biler som var å velge i for å være sikker på å få femstjerners kollisjons-sikkerhet og rimelig god driftssikkerhet. Ettersom bilens farge også har med sikkerhet å gjøre ønsket vi gul eller rød bil. Disse fargene syns godt og er i ifølge undersøkelser minst innblandet i kollisjoner. Men Star Tour hadde ingen kode for bilens farge.
