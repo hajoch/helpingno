@@ -3,7 +3,7 @@ layout: post
 date: 2019-06-25 09:45:11 +0200
 crop_image: true
 tags: []
-title: 'Enda en healing som ikke virker: Caroline Myss"Medisinsk intuitiv" og forfatter
+title: 'Enda en healing som ikke virker: Caroline Myss "Medisinsk intuitiv" og forfatter
   besøkte Oslo '
 excerpt: Caroline Myss er den neste alternative kjendis som har kjøptseg en globus
   og oppdaget verden utenfor USA:- Oj, der er det noe som heter Norge. Der bor det
