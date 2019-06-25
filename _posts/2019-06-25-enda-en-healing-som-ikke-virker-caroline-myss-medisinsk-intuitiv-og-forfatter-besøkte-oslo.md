@@ -9,7 +9,7 @@ excerpt: Caroline Myss er den neste alternative kjendis som har kjøpt seg en gl
   og oppdaget verden utenfor USA:- Oj, der er det noe som heter Norge. Der bor det
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg harde nesten ikke merket finanskrisene.
-image: ''
+image: "/assets/images/myss (1).jpg"
 image_caption: "\n"
 author: _authors/gunnar-christensen.md
 categories:
