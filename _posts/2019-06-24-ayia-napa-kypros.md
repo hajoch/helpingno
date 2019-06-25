@@ -15,8 +15,7 @@ publish_date:
 weight: 4
 
 ---
-
-Vi tester sydentur i sommerhalvåret en uke til Kypros for to voksne og tre barn til Ayia Napa på Panthea Garden hotel. 
+Vi tester sydentur i sommerhalvåret en uke til Kypros for to voksne og tre barn til Ayia Napa på Panthea Garden hotel.
 
 **Reisemålet:**  
 Turistbyen Ayia Napa har høyt aktivitetsnivå i turist-sesongen med flere sandstrender og et godt utvalg av dagligvare-butikker og spisesteder samt tivoli. Butikker i "Nille-sjangeren" er over-representert.
@@ -48,3 +47,10 @@ Hotellet er registrert som et hotell med 4 stjerner: Da forventes en langt bedre
 Feilinformasjon og slurv trekker ned opplevelsen. Vi nevner bl.a.:  
 \- Goden Beach som ble markedsført som den beste stranden, var alt annet enn dette. På stedet var bl.a. tre slitne brakker med medtatte snackbarer og lite tiltalende betjening.  
 \- "Anbefalte" restauranter på stedet Ayia Napa, var betydelig dyrere enn de øvrige av samme kvalitet. Den anbefalte restauranten "Odin" var opp til dobbelt så dyr som tilsvarende restauranter på stedet.
+
+**Kypros viner**  
+På Kypros produseres flere gode terrasse-viner til litt i overkant av to kypriotiske pund pr. flaske. Liker du å slappe av med et glass rødvin på terrassen kan vi anbefale flere rimelige og gode viner:  
+\- Santa Marina - medium sweet  
+\- Anthea - medium dry,  
+\- Olympus sweet red  
+Disse vinene selges ikke av AS Vinmonopolet i Norge.
