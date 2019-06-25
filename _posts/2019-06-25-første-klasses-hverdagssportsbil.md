@@ -4,9 +4,9 @@ date: 2019-06-25 16:43:31 +0200
 crop_image: true
 tags: []
 title: Første-klasses hverdagssportsbil
-excerpt: 'Test: Mercedes Benz A-klasse AMG: Mercedes er mest kjent for sine mektige
-  stasjonsvogner med store prislapper. Det tyske kvalitetsmerket har trådd varsomt
-  inn på markedet med de mindre bilene. '
+excerpt: 'Bruktbiltest: Mercedes Benz A-klasse AMG: Mercedes er mest kjent for sine
+  mektige stasjonsvogner med store prislapper. Det tyske kvalitetsmerket har trådd
+  varsomt inn på markedet med de mindre bilene. '
 image: "/assets/images/mercedes4.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
