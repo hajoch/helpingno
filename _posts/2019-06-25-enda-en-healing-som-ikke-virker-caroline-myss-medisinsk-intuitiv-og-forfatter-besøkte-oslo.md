@@ -10,7 +10,7 @@ excerpt: Caroline Myss er den neste alternative kjendis som har kjøptseg en glo
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg harde nesten ikke merket finanskrisene.
 image: ''
-image_caption: ''
+image_caption: "\n"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/mental-helse.md
