@@ -7,7 +7,8 @@ title: Ayia Napa, Kypros
 excerpt: 'Hotelltest: Panthea Garden. Soluke på Grecian Bay Hotellet bør heve den
   sanitære standarden. Her er dessuten langt å gå til sandstranden.'
 image: "/assets/images/kyp.2.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Foto Gunnar Christensen. Sandstranden. Grecian Bay med Ayia Napa havn
+  i bakgrunnen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
