@@ -49,9 +49,7 @@ Digitalkameraene har blits som automatisk slår seg på ved dårlig belysning. A
 For mange blir bilder og videoopptakene mer verdifulle med årne. Ved betryggende lagring av brikke m.m. blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
 
 **Dybdevirkninger  
-**Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt.
-
-Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten  
+**Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt. Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten  
 til et spennende resultat.
 
 **Hva vil du fortelle?  
