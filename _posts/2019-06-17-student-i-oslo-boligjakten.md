@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2019-06-17 19:53:28 +0200
+date: 2019-06-17T17:53:28.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Student i Oslo:Boligjakten
+title: 'Student i Oslo: Boligjakten'
 excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordring.
   Da begynner jakten på et sted å bo. For første gang skal du bo "borte". Brutalt
   nok har du ikke fartstid nok til å få deg et krypinn på SiO/Samskipnadens subsidierte
@@ -49,3 +49,6 @@ Husk på at det du har med deg på hybelen har en verdi. Du har en gang kjøpt k
 Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du bestemmer deg. Enkelte medlemskap eller arbeidsforhold kan gi rabatt hos noen forsikringsselskaper. Hvis du ikke melder flytting til studiested i folkeregisteret kan du i noen tilfeller være dekket under dine foreldrenes innboforsikring. Dette sjekker du før noe annet.
 
 Lykke til med boligjakten.
+
+**Studentøkonomi - Legater:**  
+[www.legatsiden.no/](http://www.legatsiden.no/)
