@@ -31,3 +31,25 @@ Sinker du trafikken når du holder fartsgrensen? Mange biler har feil på speedo
 **Leserinnlegg: Antirust-behandling**  
 Jeg har hatt mer enn12 biler i de 40 årene jeg har kjørt. Det gir erfaring om antirust-behandling på bil. På de første bilene hadde jeg Tectyl. Så kom Tuff Kote Dinol på markedet med stor reklamekampanje godt hjulpet av komikeren Bjørn Sand. Jeg våget meg derfor ved neste anledning på en slik behandling. Det kostet meg bilen. Tuff Kote Dinol dannet en hard hinne under bilen. Denne harde hinnen sprakk etter en tid på flere stedet og slapp inn fuktighet under hinnen. Rusten eksploderte. En rustfri bil ble på to år etter denne behandlingen forvandlet til en rustholk. Etter denne opplevelsen har jeg kun brukt Tectyl. Den er best.  
 Ragnar Olsen.
+
+[**Bilordbok**](http://www.helping.no/bilord.htm)  
+**ATV** ( All Terrian Vehicle) = tre- og firehjuls motorsykkel for terengkjøring.  
+  
+**FFV** (Flexible Fuel Vehicles) Kjøretøy med drivstoff-felsibelt system som kan bruke to typer drivstoff om hverandre f.eks. bensin og etanol.  
+  
+**MPV** (Multi Purpose Vehicle) Flerbruksbil, bil med muligheter til å ta ut seter og har normalt plass til 5 - 8 personer.  
+  
+**ACC** (Automatic Climate Control) Automatisk klimaanlegg. Kan stilles inn på det gradetallet man ønsker.  
+  
+**EGIR** (Exhaust Gas Recirculation) System for resirkluering av exosen for å redusere utslipp av skadelige gasser.
+
+  
+**GDI** (Gasoline Direct Injection) Bensinmotor med direkte innsprøytning.  
+  
+**HDI** (High Pressure Direct Injection)  
+  
+ **TD** (Turbodiesel) Turboen med et turbinhjul drives av motorens eksostrykk og mater dieselmotoren med et overtrykk (luft).  
+  
+ **ABS** (Anti Block System) Blokkeringsfrie bremser. Hindrer at bremsene låser seg ved oppbremsing.  
+  
+**ASR** (Anti Slip Regulation) eller **TC**(Traction Control) Antispinn. Begynner hjulene å spinne reguleres motorens trekkraft ned slik at hjulene slutter å spinne.
