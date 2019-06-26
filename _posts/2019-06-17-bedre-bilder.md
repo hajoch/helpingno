@@ -55,40 +55,22 @@ Digitalkameraene gir deg muligheten til å gå rett på PCen og redigere bildet 
 **Verdi som minne**  
 For mange blir bilder og videoopptakene mer verdifulle med årne. Ved betryggende lagring av brikke m.m. blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
 
-**Dybdevirkninger**
-
-| --- |
-|  |
-
-Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt.
+**Dybdevirkninger  
+**Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt.
 
 Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten  
 til et spennende resultat.
 
-**Hva vil du fortelle?**
-
-| --- |
-|  |
-
-Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? Er det en historie om barnets første skoledag? Er det et portrett av en baker?
+**Hva vil du fortelle?  
+**Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? Er det en historie om barnets første skoledag? Er det et portrett av en baker?
 
 Da kan det være bra å ha med mer enn ansiktet på hovedpersonen. For eksempel bakeren med bakerlue og et brød eller den første skoledagen i klasserommet eller sammen med læreren.
 
-| --- |
-|  |
+Mulighetene er mange. God planlegging kan gi  
+deg gode ideer. Men glem ikke å være på vakt: Det perfekte motiv kan plutselig være der.
 
-Mulighetene er mange.  
-God planlegging kan gi  
-deg gode ideer. Men  
-glem ikke å være på vakt: Det perfekte motiv kan  
-plutselig være der.
-
-**Familiefotografering**
-
-| --- |
-|  |
-
-Ingen har noen gang klaget over for mange bilder av barna da de var små. Ingen har noen gang klaget over for mange bilder av besteforeldre som er gått bort. Ingen har noen gang klaget over for mange bilder fra turen til Paris, London o.s.v..
+**Familiefotografering  
+**Ingen har noen gang klaget over for mange bilder av barna da de var små. Ingen har noen gang klaget over for mange bilder av besteforeldre som er gått bort. Ingen har noen gang klaget over for mange bilder fra turen til Paris, London o.s.v..
 
 Bilder er en verdifull minneskatt som alle setter pris på. En dokumentasjon av tiden som er gått. En ressurs til glede og ettertanke. Ta heller for mange enn for få bilder. Digitalkameraet gir sjenerøse muligheter til å  
 ta mange bilder uten store kostnader. Lagrings-brikkene blir stadig bedre og lagrer stadig mer.
