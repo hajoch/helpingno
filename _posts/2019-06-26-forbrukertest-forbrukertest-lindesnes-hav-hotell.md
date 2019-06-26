@@ -28,7 +28,7 @@ Utmerkede rom med god standard. Noen med utvendig adkomst fra adkomstgalei. Heis
 
 Hyggelig betjening og greie priser.
 
-Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen inn til Spangereid. Kort vei med bil til Lindesnes Fyr. Fotturavstand langs kanalen til idylliske småstedet Spangereid.
+Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen inn til Spangereid. Kort vei med bil til Lindesnes Fyr. Fotturavstand langs kanalen til idylliske småstedet Spangereid. Landlige omgivelser bestående av uteareal med et stort utviklingspotensial.
 
 Middag og lunch var god, men frokosten var pent sagt enkel. De øvrige måltidene som forventet av et så flott og relativt nytt hotell.
 
