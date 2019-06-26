@@ -22,6 +22,9 @@ Et godt råd som bevarer bremsene lengre er å bremse før du parkerer bilen ett
 
 Dette for å rense saltet av bremseskivene før du parkerer. Bremseklossene tar da en runde på bremse-skivene og gjør dem rene. Da parkerer du bilen med rene bremseskiver framfor skitne skiver med salt som etser dem i stykker. OBS: Se for sikkerhets skyld i speilet før du bremser så du unngår farlige siutajsoner.
 
+**Katalysator- tips. Slik unngår du å måtte bytte katalysator.  
+**Nyere dieselbiler har katalysator. Enkelte opplever at katalysatoren tetter seg og må skiftes. Det er en meget dyr fornøyelse. Årsaken til at dette skjer er mye "småkjøring" d.v.s. korte turer over lengre tid. For å "blåse" katalysatoren ren og beholde den lenge må du derfor ta noen lengre turer med bilen med jevne mellomrom. Det kan være turer over en times kjøring sammenhengende slik at katalysatoren får fungert over lengre tid..
+
 **Speedometerfeil**  
 Sinker du trafikken når du holder fartsgrensen? Mange biler har feil på speedometeret også nye biler. Over 5 km feilvisning er ikke uvanlig. Et godt tips er å sjekke og justere speedometeret på et spesialverksted for dette. Er bilen så ny at feilen går inn under garantien så klag på denne feilen.
 
