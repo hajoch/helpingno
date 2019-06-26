@@ -95,5 +95,10 @@ Haanels bok ble først utgitt som brevkurs i 1912 og ut-kom som bok først i 191
 Bøkene kan lastes ned gratis som e-bok på:  
 [http://www.thesecret.tv/](http://www.thesecret.tv/ "http://www.thesecret.tv/")[secret-treasures-ebooks.html](http://www.thesecret.tv/secret-treasures-ebooks.html)
 
+**Secret-bøker på norsk.**  
+I norsk oversettelse finnes nå bl.a. to bøker som gir lettfattelig og grei innsikt i "Hemmeligheten":  
+\- Michael Losier "Loven om tiltrekning" utgitt på forlaget Lille Måne.  
+\- Esther & Jerry Hicks: "Likt tiltrekker likt", Cappelen Damm 2008.
+
 **Spennede vitenskapsmann. Dr. Fred Alan Wolf**  
 har en doktorgrad i fysikk og er kjent for en rekke bokutgivelser om kvante-fysikk. Wolf er faktisk tilgjengelig på e-post: Wolfs nettside er: [www.fredalanwolf.com/](http://www.fredalanwolf.com/)
