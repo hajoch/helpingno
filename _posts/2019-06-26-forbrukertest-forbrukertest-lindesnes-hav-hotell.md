@@ -28,6 +28,6 @@ Heisen var i uorden i hovedbygningen så vi fikk et flott rom i hotellfløy - so
 
 Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen inn til Spangereid.
 
-Middag og lunch var god, men frokosten var pent sagt enkel.
+Middag og lunch var god, men frokosten var pent sagt enkel. De øvrige måltidene som forventet av et så flott og relativt nytt hotell.
 
 [https://www.facebook.com/lindesneshavhotell/](https://www.facebook.com/lindesneshavhotell/ "https://www.facebook.com/lindesneshavhotell/")
