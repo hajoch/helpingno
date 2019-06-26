@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2019-06-19 13:52:22 +0200
+date: 2019-06-19T11:52:22.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: 'Bruktbåttest: Hansvik 18 HT med 40 hk Yamaha:'
-excerpt: Dette er en båt med god plass. Den er lettdrevet og gjør god fart med relativt
-  små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig og trenger
-  en opprusting som nybåt i salg i dag.
+title: 'Hansvik 18 HT med 40 hk Yamaha:'
+excerpt: 'Bruktbåttest: Dette er en båt med god plass. Den er lettdrevet og gjør god
+  fart med relativt små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig
+  og trenger en opprusting som nybåt i salg i dag.'
 image: "/assets/images/hansvik.18.jpg"
 image_caption: Hansvik 18 HT. Foto Hansvik
 categories:
