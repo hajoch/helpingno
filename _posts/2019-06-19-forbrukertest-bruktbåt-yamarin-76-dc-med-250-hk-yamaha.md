@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2019-06-19 08:58:49 +0200
+date: 2019-06-19T06:58:49.000+00:00
 crop_image: true
 author: _authors/ole-t-moy.md
 tags: []
-title: 'Forbrukertest - bruktbåt: YAMARIN 76 DC med 250 hk Yamaha'
-excerpt: 'RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
+title: YAMARIN 76 DC med 250 hk Yamaha
+excerpt: 'Forbrukertest - bruktbåt: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
 image: "/assets/images/ya33.jpg"
 image_caption: 'Foto GC : Yamarin 76 DC'
 categories:
