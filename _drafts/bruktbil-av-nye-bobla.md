@@ -3,7 +3,7 @@ layout: post
 date: 2019-06-26 05:26:51 +0200
 crop_image: true
 tags: []
-title: Bruktbil av nye Bobla?
+title: 'Bruktbil: "Nye Bobla"?'
 excerpt: Når du vrir om tenningsnøkkelen i denne bilen forventer du en høylytt brøl
   fra den luftkjølte "boxer-motoren" bakerst. Det skjer ikke. I stedet starter en
   stillegående Golf-motor framme i "bagasjerommet". Du sitter nå behageligere og du
@@ -18,14 +18,14 @@ publish_date:
 weight: 1
 
 ---
-Testbilen har en 1,2 liters 105 hk TSI bensinmotor så stillegående og støydempet at jeg første gang parkerte bilen med motoren i gang.
+Testbilen fra 2012 har en 1,2 liters 105 hk TSI bensinmotor så stillegående og støydempet at jeg første gang parkerte bilen med motoren i gang.
 
-Standardutstyr er antispinn og antiskrens, autohold bakkestartassistent, blokkeringsfrie bremser, klimaanlegg, cruise control og delt bakseterygg for å nevne noe. Regulerbar korsryggstøtte er utrolig nok ekstrautstyr sammen med et fett og flott Fender soundsystem med DAB-radio og stor basshøyttaler bak og multifunksjonsratt.
+Standardutstyr er antispinn og anti skrens, autohold bakkestartassistent, blokkeringsfrie bremser, klimaanlegg, cruise control og delt bakseterygg for å nevne noe. Regulerbar korsryggstøtte er utrolig nok ekstrautstyr sammen med et fett og flott Fender soundsystem med DAB-radio og stor basshøyttaler bak og multifunksjonsratt.
 
 Mye er endret nå - også prisen. For prislappen begynner nå på tohundreogfemti tusen spenn. Dog nikkes gjenkjennende til flere nostalgiske designløsninger både utvendig og innvendig.
 
 **Kjørte daglig samme boble i 29 år**  
-Med på testturen var nå avdøde pensjonert rektor Ernst Aslaksen fra Fevik. Han hadde en og samme blå Boble fra 1972 i sammenhengende 29 år. Så lenge som det var mulig å få nye reservedeler til bilen.  
+Med på testturen var min nære venn, nå avdøde pensjonert rektor Ernst Aslaksen fra Fevik. Han hadde en og samme blå Boble fra 1972 i sammenhengende 29 år. Så lenge som det var mulig å få nye reservedeler til bilen.  
 \- Hva synes du om denne nye Bobla?  
 \- Dette er en helt annen bil enn det jeg hadde. Jeg hadde for eksempel ikke varme i setene, men måtte sitte på tynne isoporplater for å holde varmen om vinteren fordi varmeapparatet begynte først å virke etter en halv times kjøring. Og motoren var ikke kraftig nok til å holde de øverste fartsgrensene på E 18. Slik komfort som dette var helt utenkelig på de gamle Boblene. Til gjengjeld var de gamle driftssikre, rimelige å reparere og prisgunstige - min kostet ny kr. 27.000 den gang.
 
@@ -41,8 +41,5 @@ Dette er blitt til en linjelekker liten sportsbil - med en eim av nostalgi. Fakt
 
 Bobla har liten beinplass bak, men til gjengjeld takhøyde til personer opp til 1,80 m i lengde og bredde til to voksne i baksetet. Dette blir en meget populær konebil og en drømmebil for mange ungdommer.
 
-| --- |
-|  |
-
 **Gi meg en rød eller gul Boble!**  
-Brunfargen er en skikkelig nedtur på denne flotte Boblal. Etter å ha sett en gammel brosjyrens flotte og glade gul, rød og blåmetall-farger fatter jeg ikke at man kunne bestille en så tragisk, trist og mørk brunfarge som jeg ikke en gang vil ha på plentraktoren.
+Brunfargen er en skikkelig nedtur på denne flotte Bobla. Etter å ha sett en gammel brosjyrens flotte og glade gul, rød og blåmetall-farger fatter jeg ikke at man kunne bestille en så tragisk, trist og mørk brunfarge som jeg ikke en gang vil ha på plentraktoren.
