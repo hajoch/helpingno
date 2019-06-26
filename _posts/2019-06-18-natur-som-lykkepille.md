@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-18 16:45:25 +0200
+date: 2019-06-18T14:45:25.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
@@ -8,7 +8,7 @@ title: 'Natur som lykkepille  '
 excerpt: |2-
 
   "I naturen ruver fjellene. I hjemmet ruver bagatellene."
-image: "/assets/images/natur09.jpg"
+image: "/assets/images/bal-1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
