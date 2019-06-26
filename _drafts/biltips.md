@@ -60,3 +60,6 @@ Ragnar Olsen.
 Forsikringsbransjen har foretatt egne undersøkelser av kvaliteten på en rekke biler i forbindelse med deres produkt - såkalt eierskifteforsikring: NRK skriver på nett: "Her er problembilene". Her finner du en liste over hyppigheten av feil på forskjellige biltyper og klare anbefalinger ved bilkjøp.  
   
 Den faktoren som ofte utelates i slike undersøkelser er hvordan bileier har behandlet bilen sin. Er servicene fulgt opp etc.. Bilens levetid og tilstand er avhengig av hvordan bilen blir behandlet. Dårlig vedlikehold får økonomiske konsekvenser: Verdien på bilen synker fortere ved dårlig vedlikehold. Likevel er undersøkelser av eiertilfredshet en viktig indikator på hvilke biler som er best.
+
+**Rustplagede Mercedes**  
+Mercedes har slitt med store rustproblemer på modellene rundt 2000 og oppover. Selv nye biler direkte fra fabrikk måtte tidligere innom karosseriverksted før de leveres kunden. Ved flere tilfeller må hele bakdøren på stasjonsvognene skiftes på helt nye biler. Dette rustproblemet har bedret seg For på nyere Mercedes. Hos antirustbehandlere har Mercedes i alle år rangert som verstingen når det gjelder rust bl.a. på grunn av dobbel bunn den fukt samles. Les også om VW\`s rustproblemer på helping.no.
