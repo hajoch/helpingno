@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-17 17:36:26 +0200
+date: 2019-06-17T15:36:26.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -51,3 +51,16 @@ Digitalkameraene har blits som automatisk slår seg på ved dårlig belysning. A
 **Utsnitt og redigering på PC![](/assets/images/husskog.jpg)**
 
 Digitalkameraene gir deg muligheten til å gå rett på PCen og redigere bildet straks det er tatt. Dette er lærerikt og gøyalt. For her kan du prøve deg fram med ulike bildeutsnitt og fargenyanser.
+
+**Verdi som minne**  
+For mange blir bilder og videoopptakene mer verdifulle med årne. Ved betryggende lagring av brikke m.m. blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
+
+**Dybdevirkninger**
+
+| --- |
+|  |
+
+Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt.
+
+Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten  
+til et spennende resultat.
