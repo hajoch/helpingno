@@ -1,16 +1,16 @@
 ---
 layout: post
-date: 2019-06-19 15:08:52 +0200
+date: 2019-06-19T13:08:52.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: Forbrukertest i 6 sesonger Bowrider AMT 185BR med 90 hk Honda
-excerpt: "Da AMT-båtene kom på markedet ble de markedsført som \"bedre enn du forventer\".
-  Da var det spennende å se om dette holder mål på kvalitet i bruk, praktiske løsninger
-  og service. Båten er flott på alle måter. Den er virkelig bedre enn forventet. \n\nHondamotoren
-  derimot hadde problemer de to første sesongene og videre noe som ble tatt som garantireparasjoner:
-  Siden ble Hondaen friskmeldt og fungerte. Motortrøbbel i garantitiden er ikke \"bedre
-  enn forventet\"."
+title: Bowrider AMT 185BR med 90 hk Honda
+excerpt: "Forbrukertest i 6 sesonger: Da AMT-båtene kom på markedet ble de markedsført
+  som \"bedre enn du forventer\". Da var det spennende å se om dette holder mål på
+  kvalitet i bruk, praktiske løsninger og service. Båten er flott på alle måter. Den
+  er virkelig bedre enn forventet. \n\nHondamotoren derimot hadde problemer de to
+  første sesongene og videre noe som ble tatt som garantireparasjoner: Siden ble Hondaen
+  friskmeldt og fungerte. Motortrøbbel i garantitiden er ikke \"bedre enn forventet\"."
 image: "/assets/images/amt.8.jpg"
 image_caption: ''
 categories:
