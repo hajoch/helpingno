@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-26-bok-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-drømmeboken.md
@@ -233,7 +234,6 @@ pages:
 - _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-18-øvelseskjøring-med-bil-førerkortopplæring.md
 - _posts/2019-06-18-bahai.md
-- _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-18-livingstone-i-presume.md
 - _posts/2019-06-18-darjeeling-teens-by.md
 - _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md

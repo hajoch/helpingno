@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-18 18:10:31 +0200
+date: 2019-06-18T16:10:31.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -81,3 +81,6 @@ For eksempel ved å sette deg ned i en stol i rolige omgivelser, lukke øynene o
 
 "The Secret, Extended Edition" finnes på  
 nettstedet [http://thesecret.tv](http://thesecret.tv "http://thesecret.tv")
+
+**Spennede vitenskapsmann. Dr. Fred Alan Wolf**  
+har en doktorgrad i fysikk og er kjent for en rekke bokutgivelser om kvante-fysikk. Wolf er faktisk tilgjengelig på e-post: Wolfs nettside er: [www.fredalanwolf.com/](http://www.fredalanwolf.com/)
