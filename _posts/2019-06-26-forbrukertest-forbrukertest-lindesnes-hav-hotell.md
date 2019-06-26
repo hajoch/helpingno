@@ -12,7 +12,7 @@ image: "/assets/images/lindhavhotell.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/reise.md
+- _category/hotell.md
 publish_date: 
 weight: 5
 
