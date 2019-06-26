@@ -6,8 +6,8 @@ author: _authors/leserinnlegg.md
 tags: []
 title: Kosthold for godt syn
 excerpt: Kan du få bedre syn av å spise sunt? Hva slag mat er bra for øynene dine?
-image: "/assets/images/skulptur.jpg"
-image_caption: ''
+image: "/assets/images/skagen.jpg"
+image_caption: Foto Gunnar Christensen, fra Skagen, Danmark
 categories:
 - _category/mat.md
 publish_date: 
