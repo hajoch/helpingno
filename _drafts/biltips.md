@@ -22,6 +22,9 @@ Et godt råd som bevarer bremsene lengre er å bremse før du parkerer bilen ett
 
 Dette for å rense saltet av bremseskivene før du parkerer. Bremseklossene tar da en runde på bremse-skivene og gjør dem rene. Da parkerer du bilen med rene bremseskiver framfor skitne skiver med salt som etser dem i stykker. OBS: Se for sikkerhets skyld i speilet før du bremser så du unngår farlige siutajsoner.
 
+**Speedometerfeil**  
+Sinker du trafikken når du holder fartsgrensen? Mange biler har feil på speedometeret også nye biler. Over 5 km feilvisning er ikke uvanlig. Et godt tips er å sjekke og justere speedometeret på et spesialverksted for dette. Er bilen så ny at feilen går inn under garantien så klag på denne feilen.
+
 **Leserinnlegg: Antirust-behandling**  
 Jeg har hatt mer enn12 biler i de 40 årene jeg har kjørt. Det gir erfaring om antirust-behandling på bil. På de første bilene hadde jeg Tectyl. Så kom Tuff Kote Dinol på markedet med stor reklamekampanje godt hjulpet av komikeren Bjørn Sand. Jeg våget meg derfor ved neste anledning på en slik behandling. Det kostet meg bilen. Tuff Kote Dinol dannet en hard hinne under bilen. Denne harde hinnen sprakk etter en tid på flere stedet og slapp inn fuktighet under hinnen. Rusten eksploderte. En rustfri bil ble på to år etter denne behandlingen forvandlet til en rustholk. Etter denne opplevelsen har jeg kun brukt Tectyl. Den er best.  
 Ragnar Olsen.
