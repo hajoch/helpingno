@@ -17,12 +17,12 @@ publish_date:
 weight: 7
 
 ---
-**![](/assets/images/toru.002.jpg)Kameravalg**  
+**Kameravalg**  
 Digitalkameraene har tatt over markedet. Grovt kan kameraene deles i tre grupper: Kompaktkamera, hybridkamera og speilreflekskamera. Mobiltelefoner har kompaktkamera.
 
 Kvaliteten er nå så god på flere av de små kompaktkameraene at de fleste satser på dette fremfor speilreflekskamera som er større, tyngre og dermed mer å dra på. Hybridkameraene er enkelt forklart en krysning mellom kompaktkameraet og speilreflekskameraet og tar nesten like gode bilder som speilreflekskameraene.
 
-**Kameraene på markedet har forskjellig kvalitet. Les derfor nøye testene av kameraene før du kjøper slik at du kan blinke deg ut de beste kjøpene uavhengig av hva butikkene helst vil selge deg.**
+Kameraene på markedet har forskjellig kvalitet. Les derfor nøye testene av kameraene før du kjøper slik at du kan blinke deg ut de beste kjøpene uavhengig av hva butikkene helst vil selge deg.
 
 **Lagring av bilder**  
 Husk å lagre bildene flere steder og ikke bare på brikken: En ekstern HD er fin til dette. Eller på en trygg sky i den grad dette er trygt. Brenn også sikkerhetskopi på DVD eller CD: Et godt tips er å leie en bankboks til sikkerhetskopier i fall husbrann. Bildene er verdifulle, og mer verdifulle blir de med tiden, særlig familiebilder.
