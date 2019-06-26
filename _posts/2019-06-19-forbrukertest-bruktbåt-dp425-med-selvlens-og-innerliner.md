@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2019-06-19 14:47:26 +0200
+date: 2019-06-19T12:47:26.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
-title: 'Forbrukertest:  Bruktbåt  DP425 med selvlens og innerliner'
-excerpt: DP425 er 14 fot, tar 5 personer, veier 200 kg, har pent design. Jolla kan
-  ta opp til 30 hk motor med kort stamme og var mest prisgunstig ved vårt innkjøp
+title: Bruktbåt  DP425 med selvlens og innerliner
+excerpt: 'Forbrukertest: 14 fot, tar 5 personer, veier 200 kg, har pent design. Jolla
+  kan ta opp til 30 hk motor med kort stamme og var mest prisgunstig ved vårt innkjøp
   direkte fra fabrikk i januar 2007 uten motor, men med bunnbehandling. Båten ble
-  solgt med motor og båthenger i 2010. Etter nesten 4 hele sesonger.
+  solgt med motor og båthenger i 2010. Etter nesten 4 hele sesonger.'
 image: "/assets/images/jolle425.jpg"
 image_caption: Foto GC
 categories:
