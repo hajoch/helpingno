@@ -16,18 +16,18 @@ publish_date:
 weight: 5
 
 ---
-Besøk i september er utenom sesong og med lite belegg på hotellet. Rekvisitter etter TV-opptak var delvis stablet opp mot en søyle og hevet i en container. Utleiekanoer var stablet langs veggen for utleie.  
-  
-Her er spesial tilbud til turister med undersjøisk restaurant og først og fremst nærmest til Lindesnes fyr. Hotellet ligger for langt unna E18 til å tiltrekke seg mye gjennomgangstrafikk med smal og svinget vei sammenfallende med veien til idylliske Lindesnes fyr. 
+Besøk i september er utenom sesong og med lite belegg på hotellet. Rekvisitter etter TV-opptak var delvis stablet opp mot en søyle og hevet i en container. Utleiekanoer var stablet langs veggen for utleie.
 
-Den nye attraksjonen undersjøisk hotell har mange forhåndsbestillinger og vil trekke flere kunder. Sammen med Lindesnes fyr og andre aktiviteter i sommerhalvåret har hotellet utvilsomt er solid fremtid.
+Her er spesial tilbud til turister med undersjøisk restaurant og først og fremst nærmest til Lindesnes fyr. Den nye attraksjonen undersjøisk hotell har mange forhåndsbestillinger og vil trekke flere kunder. Sammen med Lindesnes fyr og andre aktiviteter i sommerhalvåret har hotellet utvilsomt er solid fremtid.
+
+Hotellet ligger for langt unna E18 til å tiltrekke seg mye gjennomgangstrafikk med smal og svinget vei sammenfallende med veien til idylliske Lindesnes fyr.
 
 Det triste med Lindesnes fyr er nå er den stygge vindmølleparken som har ødelagt den landlige og visuelt vakre del av denne populære turistmagneten. At det er mulig!
 
 Heisen var i uorden i hovedbygningen så vi fikk et flott rom i hotellfløy - som vanligvis blir mest brukt i sommersesongen - med utvendig adkomstgalleri og gange over et lite uteområde for å komme til resepsjon og restaurant. Lite komfortabelt i ruskevær denne helgen. Hyggelig betjening og greie priser.
 
-Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen inn til Spangereid. 
+Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen inn til Spangereid.
 
-Middag og lunch var god, men frokosten var pent sagt enkel. 
+Middag og lunch var god, men frokosten var pent sagt enkel.
 
 [https://www.facebook.com/lindesneshavhotell/](https://www.facebook.com/lindesneshavhotell/ "https://www.facebook.com/lindesneshavhotell/")
