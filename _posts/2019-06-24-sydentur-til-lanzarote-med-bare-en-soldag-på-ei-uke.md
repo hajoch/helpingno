@@ -11,7 +11,7 @@ image: "/assets/images/lanza.jpg"
 image_caption: 'Foto: Jens Christian Jore Christensen. Utsikt fra hotellet.'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/reise.md
+- _category/hotell.md
 publish_date: 
 weight: 
 
