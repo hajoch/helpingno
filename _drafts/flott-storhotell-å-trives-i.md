@@ -11,10 +11,11 @@ excerpt: 'Clarion hotell og Conferansesenter i Trondheim: Hyggelig betjening i e
   mange muligheter i størrelse.'
 image: "/assets/images/clartrond.jpg"
 image_caption: Foto Gunnar Christensen
-author: ''
-categories: []
+author: _authors/gunnar-christensen.md
+categories:
+- _category/reise.md
 publish_date: 
-weight: 
+weight: 4
 
 ---
 En topp-tak-restaurant med fantastisk utsikt over Pirbadet og cruiseskipene ut mot fjorden med Munkholmen gir en følelse av å være på Trondheims tak både ute på tak-terrassen og inne bak glassvegger. Dette er et av byens meget populære utesteder.
