@@ -10,7 +10,7 @@ excerpt: Når du vrir om tenningsnøkkelen i denne bilen forventer du en høylyt
   har kjøreegenskapene og støydempingen til en Golf. Og du har 5 stjerner i Euro NCAPs
   sikkerhetstest.
 image: "/assets/images/boble3.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Foto Christoffer Jore Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
