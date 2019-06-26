@@ -4,7 +4,7 @@ date: 2019-06-26 13:14:23 +0200
 crop_image: true
 tags: []
 title: 'Bok: En eventyrlig vandring med Australias såkalt primitive'
-excerpt: 'Marlo Morgan: Det virkelige folket,Gyldendal Norsk Forlag 1995 og senere
+excerpt: 'Marlo Morgan: Det virkelige folket. Gyldendal Norsk Forlag 1995 og senere
   utgaver.'
 image: "/assets/images/feb.5 (1).jpg"
 image_caption: Illustrasjon. Foto Gunnar Christensen
