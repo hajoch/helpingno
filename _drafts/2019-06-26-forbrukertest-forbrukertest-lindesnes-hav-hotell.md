@@ -5,8 +5,9 @@ crop_image: true
 tags: []
 title: 'Forbrukertest: Lindesnes Hav Hotell'
 excerpt: 'Flott beliggenhet nær Lindesnes Fyr med elendig frokost: Like ved Spangereide
-  og kort vei fra Lindesnes fyr ligger dette moderne hotellet på ei brygge med havet
-  ut fjorden. Flott turområde både på land og lands kysten.'
+  og kort vei fra Lindesnes fyr ligger dette moderne hotellet på ei brygge sammen
+  med undersjøisk restaurant og med havet ut fjorden. Flott turområde både på land
+  og lands kysten.'
 image: "/assets/images/lindhavhotell.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
@@ -18,7 +19,7 @@ weight: 5
 ---
 Besøk i september er utenom sesong og med lite belegg på hotellet. Rekvisitter etter TV-opptak var delvis stablet opp mot en søyle og hevet i en container. Utleiekanoer var stablet langs veggen for utleie.
 
-Her er spesial tilbud til turister med undersjøisk restaurant og først og fremst nær Lindesnes fyr. Den nye attraksjonen - et undersjøisk hotell har mange forhåndsbestillinger og vil trekke flere kunder. Sammen med Lindesnes fyr og andre aktiviteter i sommerhalvåret har hotellet utvilsomt er solid fremtid.
+Her er spesial tilbud til turister med undersjøisk restaurant og først og fremst nær Lindesnes fyr. Den nye attraksjonen - et undersjøisk restaurant, har mange forhåndsbestillinger og vil sikkert trekke flere kunder. Sammen med Lindesnes fyr og andre aktiviteter i sommerhalvåret har hotellet utvilsomt er solid fremtid.
 
 Hotellet ligger for langt unna E18 til å tiltrekke seg mye gjennomgangstrafikk med lang, smal og svinget vei sammenfallende med veien til idylliske Lindesnes fyr.
 
