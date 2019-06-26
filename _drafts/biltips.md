@@ -6,7 +6,7 @@ tags: []
 title: Biltips
 excerpt: Gode råd for bileiere
 image: "/assets/images/veteran18.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Foto Gunnar Christensen. Illustrasjon fra veteranbiltreff.
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
