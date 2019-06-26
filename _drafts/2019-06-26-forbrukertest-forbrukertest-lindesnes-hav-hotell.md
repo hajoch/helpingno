@@ -25,9 +25,7 @@ Hotellet ligger for langt unna E18 til å tiltrekke seg mye gjennomgangstrafikk 
 
 **Det triste med Lindesnes fyr nå er den stygge vindmølleparken som har ødelagt mye av den uberørte, landlige og visuelt vakre del av denne populære turistmagneten. At det er mulig!**
 
-Utmerkede rom med god standard. Noen med utvendig adkomst fra adkomstgalei. Heisen var i uorden i hovedbygningen så vi fikk et flott rom i hotellfløy - som vanligvis blir mest brukt i sommersesongen - med utvendig adkomstgalleri og gange over et lite uteområde for å komme til resepsjon og restaurant. Lite komfortabelt i ruskevær denne helgen.
-
-Hyggelig betjening og greie priser.
+Utmerkede rom med god standard. Noen med utvendig adkomst fra adkomstgalei. Heisen var i uorden i hovedbygningen så vi fikk et flott rom i hotellfløy - som vanligvis blir mest brukt i sommersesongen - med utvendig adkomstgalleri og gange over et lite uteområde for å komme til resepsjon og hotellrestaurant. Lite komfortabelt i ruskevær denne helgen. Hyggelig betjening og greie priser.
 
 Behagelig stille og rolig område ved havkanten. Fint å gå kveldstur langs kanalen: Fotturavstand langs kanalen til idylliske Spangereid. Landlige omgivelser bestående av uteareal med et stort utviklingspotensial. Kort vei med bil til Lindesnes Fyr.
 
