@@ -3,7 +3,7 @@ layout: post
 date: 2019-06-26 19:32:22 +0200
 crop_image: true
 tags: []
-title: 'Forbrukertest: Forbrukertest: Lindesnes Hav Hotell'
+title: 'Forbrukertest: Lindesnes Hav Hotell'
 excerpt: 'Flott beliggenhet nær Lindesnes Fyr med elendig frokost: Like ved Spangereide
   og kort vei fra Lindesnes fyr ligger dette moderne hotellet på ei brygge med havet
   ut fjorden. Flott turområde både på land og lands kysten.'
