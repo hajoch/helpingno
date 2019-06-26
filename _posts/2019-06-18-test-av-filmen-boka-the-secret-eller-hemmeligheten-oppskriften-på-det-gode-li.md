@@ -79,8 +79,7 @@ Gi energi til det du ønsker deg: Tenk på det. Visualiser det. Drøm om det. Se
 
 For eksempel ved å sette deg ned i en stol i rolige omgivelser, lukke øynene og se for deg det du ønsker deg. Se for deg at du alt har oppnådd det du ønsker deg og kjenn på gleden ved å oppnå dette - send så takknemlighetstanker inn i denne situasjonen.
 
-"The Secret, Extended Edition" finnes på  
-nettstedet [http://thesecret.tv](http://thesecret.tv "http://thesecret.tv")
+"The Secret, Extended Edition" finnes på nettstedet [http://thesecret.tv](http://thesecret.tv "http://thesecret.tv")
 
 **Gratis bøker:**  
 Kildene til "The Secret"  
