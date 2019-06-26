@@ -53,3 +53,10 @@ Ragnar Olsen.
  **ABS** (Anti Block System) Blokkeringsfrie bremser. Hindrer at bremsene låser seg ved oppbremsing.  
   
 **ASR** (Anti Slip Regulation) eller **TC**(Traction Control) Antispinn. Begynner hjulene å spinne reguleres motorens trekkraft ned slik at hjulene slutter å spinne.
+
+**De beste bilene?  
+**"Naboen gråt av glede da han endelig fikk solgt sin Renault Laguna": Mange bileiere er misfornøyde med kvaliteten på bilen de kjøper. Av spanske, franske og italienske bilmerker er det flere misfornøyde kunder enn hos eiere av japanske og tyske bilmerker som oftere er fornøyde. Og innen begge disse gruppene er det forskjeller mellom bilmerkene.
+
+Forsikringsbransjen har foretatt egne undersøkelser av kvaliteten på en rekke biler i forbindelse med deres produkt - såkalt eierskifteforsikring: NRK skriver på nett: "Her er problembilene". Her finner du en liste over hyppigheten av feil på forskjellige biltyper og klare anbefalinger ved bilkjøp.  
+  
+Den faktoren som ofte utelates i slike undersøkelser er hvordan bileier har behandlet bilen sin. Er servicene fulgt opp etc.. Bilens levetid og tilstand er avhengig av hvordan bilen blir behandlet. Dårlig vedlikehold får økonomiske konsekvenser: Verdien på bilen synker fortere ved dårlig vedlikehold. Likevel er undersøkelser av eiertilfredshet en viktig indikator på hvilke biler som er best.
