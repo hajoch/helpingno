@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/drømmeboken.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-06-26-best-beskyttelse-mot-nakkesleng.md
 - _posts/2019-06-25-første-klasses-hverdagssportsbil.md
