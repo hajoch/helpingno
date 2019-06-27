@@ -71,7 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/røros-historiske-hotell.md
+- _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-17-bmi.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
