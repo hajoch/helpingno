@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-03T20:05:21.000+00:00
 author: _authors/odd-m-lunde.markdown
-title: Visualisering
+title: 'Visualisering. Søvn og avspenningsteknikker:'
 excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fysisk
   og psykisk velvære. Teknikken bygger på den evnen vi mennesker har til å se, for
   eksempel et saftig eple for oss. Uten at det ligger et eple foran oss, klarer vi
@@ -10,7 +10,7 @@ excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fys
   Vi kan skrelle det, vi kan skjære en båt av eplet og kjenne smaken, vi kan se hvordan
   små dråper med fruktsaft følger knivens linje i skjæret.
 categories:
-- _category/mental-helse.md
+- _category/helse.md
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
 publish_date: 
