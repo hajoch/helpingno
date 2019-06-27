@@ -18,6 +18,7 @@ weight: 4
 tags:
 - Mental Helse
 - Stress
+image_caption: Foto Gunnar Christensen
 
 ---
 Både avspenningstrening og kondisjonstrening er utmerkede ting for å forbedre søvn. Men for eksempel en enkel visualiseringsteknikk som 3-2-1-teknikken er mer effekt. Du ser for deg et 3-tall. Det kan ligge oppe til venstre, oppe til høyre, det kan være stort eller lite. Når du har sett det, puster du inn gjennom nesen og ut gjennom munnen. Følg rytmen i pusten ca. 12 ganger i minuttet. Du gjentar dette tre ganger med 3-tall, tre ganger med 2-tall og tre ganger med 1-tall. Du er da ganske avslappet og kan gi slipp og sovne.
