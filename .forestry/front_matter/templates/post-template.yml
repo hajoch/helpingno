@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-06-26-forbrukertest-forbrukertest-lindesnes-hav-hotell.md
@@ -160,7 +161,6 @@ pages:
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-20-rent-drikkevann.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
-- _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
 - _posts/2019-06-16-døden-og-livet-som-forandring.md
 - _posts/2019-06-16-buddhismens-fornyelse.md

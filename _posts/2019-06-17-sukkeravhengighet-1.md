@@ -9,7 +9,7 @@ excerpt: En avhengighet er noe du ofte trenger litt hjelp til komme ut av.
 image: "/assets/images/kake-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 categories:
-- _category/helse.md
+- _category/slanking.md
 publish_date: 
 weight: 5
 
