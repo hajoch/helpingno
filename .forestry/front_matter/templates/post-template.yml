@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-17-bmi.md
@@ -117,7 +118,6 @@ pages:
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-21-økonomitips.md
 - _posts/2019-06-21-lønner-det-seg-å-importere-båten-selv.md
-- _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-21-landeveispiratene.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md

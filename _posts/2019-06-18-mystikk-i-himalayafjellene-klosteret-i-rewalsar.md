@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-18T19:57:19.000+00:00
 crop_image: true
 author: ''
-tags: []
+tags:
+- religion
+- tro
+- kloster
+- himalaya
+- india
+- buddhisme
+- pilegrimmer
 title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
   barn. Alle med de karakteristiske barberte hodene."
