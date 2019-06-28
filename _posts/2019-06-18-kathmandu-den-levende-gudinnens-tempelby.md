@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-18T15:03:56.000+00:00
 crop_image: true
 author: ''
-tags: []
+tags:
+- " religion"
+- tro
+- hinduisme
+- Nepal
+- Katmandu
+- gudinne
+- severdighet
 title: " Kathmandu i Nepal: Den levende gudinnens tempelby"
 excerpt: 'Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert
   i et vakkert, gammelt tempel ved Hanuman Dhoka.
