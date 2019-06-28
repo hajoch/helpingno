@@ -1,9 +1,12 @@
 ---
 layout: post
-date: 2019-06-17 21:40:19 +0200
+date: 2019-06-17T19:40:19.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- mental helse
+- depresjon
 title: Alvorlig depresjon
 excerpt: 'Mange tenker på depresjon som symptomet tristhet eller senket stemningsleie.
   Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et
@@ -16,7 +19,6 @@ publish_date:
 weight: 3
 
 ---
-
 Men som ved feber kan tristhet være tegn på mange sykdommer med varierende alvorlighetsgrad. 25 prosent av alle kvinner vil rammes av en form for depresjonsykdom i løpet av livet. Personlig tror jeg at mange menn skjuler depresjonen under et alkoholmisbruk slik at det er like mange menn får en slik sykdom.
 
 Den alvorligste formen kalte vi før melankoli, endogen depresjon (store somatiske sykdomstegn) eller gjentatte alvorlige depresjoner i det manisk depressive tilstandsbilde. Det kan være så mange som tre prosent av befolkningen som har en grad av denne sykdommen til enhver tid. Derfor er mange familier, arbeidsplasser og vennekretser involvert. Sykdommen kan av og til være maskert. Men er vanligst så skremmende tydelig at vi rygger tilbake eller gir gode råd. Slike gode råd vil for en alvorlig deprimert som oftest bli oppfatta negativt.
