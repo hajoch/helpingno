@@ -1,16 +1,22 @@
 ---
 layout: post
-date: 2019-06-19 08:40:22 +0200
+date: 2019-06-19T06:40:22.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: '1 testsesong med Askeladden 16: En god sjøbåt'
-excerpt: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig god
-  og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du ikke
-  trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
-  Har du ikke bryggeplass er dette en lett og grei båt å ha på en båthenger.
+tags:
+- båt
+- påhengsmotor
+- fritid
+- sjø båtliv
+- skjærgård
+- sommer
+title: 'Askeladden 16: En god sjøbåt'
+excerpt: 'Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig
+  god og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du
+  ikke trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
+  Har du ikke bryggeplass er dette en lett og grei båt å ha på en båthenger.'
 image: "/assets/images/ask.16.jpg"
-image_caption: 'Foto: Askeladden'
+image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
 publish_date: 
