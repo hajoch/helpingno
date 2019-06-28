@@ -3,7 +3,16 @@ layout: post
 date: 2019-06-17T17:11:40.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- spiritisme
+- religion
+- tro
+- døden
+- nærdøden
+- intervju
+- bok
+- snakke med de døde
+- seanse
 title: 'Lisa Williams: Døden er den mest intime opplevelsen du noen gang kan erfare.'
 excerpt: Dette sier Lisa Williams som møter meg "back-stage" i Oslo Konserthus like
   før hun skal på scenen i et hastig intervju skviset på tid. Jeg innser at hun kun
