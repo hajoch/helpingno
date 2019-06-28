@@ -4,7 +4,10 @@ date: 2019-06-18T20:13:14.000+00:00
 crop_image: true
 author: ''
 tags:
-- afrika
+- Gambia
+- Afrika
+- jungel
+- safari
 title: '"Livingstone, I presume"'
 excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lille
   afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (60)
