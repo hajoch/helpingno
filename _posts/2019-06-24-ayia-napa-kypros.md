@@ -2,7 +2,13 @@
 layout: post
 date: 2019-06-24 22:33:41 +0200
 crop_image: true
-tags: []
+tags:
+- syden
+- ferie
+- Middelhavet
+- Kypros
+- solferie
+- hotelltest
 title: Ayia Napa, Kypros
 excerpt: 'Hotelltest: Panthea Garden. Soluke på Grecian Bay Hotellet bør heve den
   sanitære standarden. Her er dessuten langt å gå til sandstranden.'
