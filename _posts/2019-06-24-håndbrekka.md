@@ -2,7 +2,11 @@
 layout: post
 date: 2019-06-24 13:40:08 +0200
 crop_image: true
-tags: []
+tags:
+- bil
+- sikkerhet
+- håndbrekke
+- teknisk
 title: " Håndbrekka"
 excerpt: Moderne biler gjennomgår nå en håndbrekke-forvandling. Spaken mellom setene
   er på mange nye biler en knapp og den virker ikke alltid som den skal. Det er den
