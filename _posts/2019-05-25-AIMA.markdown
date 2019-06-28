@@ -3,7 +3,7 @@ layout: post
 categories:
 - _category/boker.md
 date: 2019-06-03T20:09:41.000+00:00
-publish_date: 2010-07-13 23:14:42 +0200
+publish_date: 2010-07-13T21:14:42.000+00:00
 image: "/assets/images/aima5.jpg"
 image_caption: Tegning av Berit Anfinsen
 crop_image: true
@@ -12,6 +12,8 @@ tags:
 - Bok
 - Barnebok
 - Barn
+- eventyr
+- lese for barn
 title: Aima - Spennende barnebok
 excerpt: "Aima er ei lita hulder med evner og egenskaper \nsom er mystiske og fremmede
   for mange av oss"
