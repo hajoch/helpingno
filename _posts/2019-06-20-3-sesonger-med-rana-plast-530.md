@@ -7,6 +7,8 @@ tags:
 - sjø
 - båtliv
 - båt påhengsmotor
+- båttest
+- skjærgård
 title: 3 sesonger med Rana Plast 530 med 40 hk Yamaha
 excerpt: Dette er en båt med god plass, men med svært enkel innredning. For enkel
   innredning vil mange mene. Mye mer kunne gjøres ut av dette konseptet. Du har følelsen
