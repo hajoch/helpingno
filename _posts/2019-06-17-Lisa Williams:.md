@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-17 19:22:42 +0200
+date: 2019-06-17T17:22:42.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- spiritisme
+- religion
+- tro
+- døden
+- religion
+- intervju
+- nærdøden
+- seanse
 title: 'Lisa Williams: "Åndene gir meg akkurat det som trenger å bli formidlet"'
 excerpt: I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:-
   Jeg har en personlig beskjed til deg fra den andre siden.
