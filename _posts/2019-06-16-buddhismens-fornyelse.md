@@ -1,11 +1,26 @@
 ---
 layout: post
-date: 2019-06-16 23:01:45 +0200
+date: 2019-06-16T21:01:45.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags:
 - Buddhisme
 - " religion tro"
+- Theravada
+- Mahayana
+- Tantrayana
+- Sri Lanka
+- Burma
+- Thailand
+- kloster
+- munker
+- Khmer
+- Laos
+- India
+- India
+- Indonesia
+- Kina
+- Japan
 title: Buddhismens fornyelse
 excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, samt
   Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
@@ -14,12 +29,10 @@ image_caption: 'Foto fra Nepal. Buddhisme: Swoyambhu like utenfor Kathamnduer ve
   største Stupa. Her møtes tibetanske buddhister og turister.'
 categories:
 - _category/religion.md
-- _category/religion.md
 publish_date: 
 weight: 8
 
 ---
-
 **De fleste sør- og øst-asiatiske land har tilknytning til Buddhisme på en eller annen måte: I de fleste av disse landene har Buddhismen en dominerende rolle.**
 
 Liksom de andre store verdensreligionene har Buddhismen gjennomgått forandringer: Fornyelsesbevegelsen i Buddhismen begynte i det 19-århundre og har tatt markert form etter 1945. To faktorer spiller inn i denne fornyelsesprosessen; Inspirasjon fra vesten, samt Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
