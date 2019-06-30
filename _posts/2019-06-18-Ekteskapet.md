@@ -2,8 +2,15 @@
 layout: post
 date: 2019-06-18T07:30:07.000+00:00
 crop_image: true
-author: ''
-tags: []
+author: _authors/odd-m-lunde.markdown
+tags:
+- ekteskap
+- samliv
+- ekteskapsproblemer
+- kjærlighet
+- vennskap
+- forelskelse
+- den gode samtalen
 title: Ekteskapet
 excerpt: Det inngås mer enn 25 tusen ekteskap i året her i Norge. I løpet av året
   er det også mer enn 10 tusen skilsmisser. Hvor mange samboerskap som starter og
