@@ -3,7 +3,12 @@ layout: post
 date: 2019-06-17T17:31:49.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- healing
+- alternativt
+- psykiske lielser
+- veiledning
+- behandling
 title: Den nye "Snåsamannen"  er ei vakker ung kvinne
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
