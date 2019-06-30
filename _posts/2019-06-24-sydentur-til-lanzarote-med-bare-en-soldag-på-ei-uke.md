@@ -2,7 +2,11 @@
 layout: post
 date: 2019-06-24 22:09:16 +0200
 crop_image: true
-tags: []
+tags:
+- Lanzarote
+- solferie
+- Playa Blanca
+- Papagayo
 title: " Sydentur til Lanzarote med bare en soldag på ei uke"
 excerpt: 'Forbrukertest: Hotell Iberostar Papagayo Lanzarote. Lanzarote er ikke hva
   det en gang var etter tre besøk. I alle fall ikke når det gjelder været på Playa
