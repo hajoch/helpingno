@@ -18,6 +18,7 @@ weight: 4
 tags:
 - Mental Helse
 - Stress
+- helse
 image_caption: Foto Gunnar Christensen
 
 ---
