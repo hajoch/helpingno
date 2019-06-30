@@ -2,7 +2,14 @@
 layout: post
 date: 2019-06-24 21:50:49 +0200
 crop_image: true
-tags: []
+tags:
+- Grand Canaria
+- sydenferie
+- solferie
+- strandferie
+- hotelltest
+- Meloneras
+- charter
 title: '"Luksusstripen"'
 excerpt: 'Forbrukertest: Las Meloneras er det mest eksklusive området du kan besøke
   på Gran Canaria og kalles "luksusstripen".'
