@@ -2,7 +2,6 @@
 layout: author
 title: 'Albert Henrik Mohn. Kategorier:'
 image: "/assets/images/a.h.mohn.jpg.jpg"
-published: false
 
 ---
 [Kategorier](https://no.wikipedia.org/wiki/Wikipedia:Kategorier "Wikipedia:Kategorier"): 
