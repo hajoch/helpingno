@@ -13,6 +13,19 @@ tags:
 - jus
 - sykehusleger
 - nakkkesleng
+- trafikkskade
+- bilulykke
+- traume
+- forsikringslegene
+- den lille manns kamp
+- erstatningssak
+- forsikringsadvokat
+- maktkamp
+- dårlig politiarbeid
+- maktovergrep
+- korrupsjon
+- pasient
+- skadeerstatning
 title: Styrkeprøven
 excerpt: |-
   Etter at Styrkeprøven ble utsolgt i bokhandelen ble den lagt ut for gratis nedlasting på helping.no. Mange eksemplarer er lastet ned.
