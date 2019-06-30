@@ -21,10 +21,10 @@ title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
   barn. Alle med de karakteristiske barberte hodene."
 image: "/assets/images/rewalsar4.jpg"
-image_caption: Artikkelforfatteren ved den mystiske innsjøen i Rewalsar. Han reiste
-  i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette for å
-  få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin master/hovedoppgave
-  i religionsvitenskap.
+image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsar.
+  Han reiste i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette
+  for å få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin
+  master/hovedoppgave i religionsvitenskap.
 categories:
 - _category/reise.md
 publish_date: 
