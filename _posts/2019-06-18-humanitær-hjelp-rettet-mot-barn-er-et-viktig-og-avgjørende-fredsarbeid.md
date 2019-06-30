@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-18 12:56:51 +0200
+date: 2019-06-18T10:56:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -31,7 +31,7 @@ Du har ingen garanti for at pengene du sender på denne måten blir benyttet sli
 
 Mange velger derfor å gå gjennom organisasjoner som formidler f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
 
-Den beste hjelpen?
+**Den beste hjelpen?**
 
 Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.
 
@@ -48,3 +48,9 @@ Selges mye varer blir det større sysselsetting der du får varene i fra: Flere 
 Kjøp kun inn litt til å begynne med til du ser hvor stor avsetning du får på varene. Selges det lite kan du prøve flere butikker, men sørg da for at dette ikke er butikker som ligger i nærheten av hverandre. Ingen butikkeier liker at de samme varene blir solgt rett over gata - og kanskje til en lavere pris.
 
 Lykke til med ditt hjelpeprosjekt.
+
+**Forbruker informasjon hjelper**
+
+Vi kan gjøre mye for bønder og arbeidere i utviklingsland ved å tenke igjennom hvilke varer vi kjøper i norske butikker.
+
+Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan selge varer til oss på like vilkår. Dette er den beste utviklingshjelpen vi kan gi. Vær alltid bevist hva du kjøper: På den måten er du med på å skape et sunnere verdenssamfunn.
