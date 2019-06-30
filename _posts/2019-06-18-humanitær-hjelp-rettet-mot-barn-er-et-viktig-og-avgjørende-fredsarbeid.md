@@ -7,6 +7,7 @@ tags:
 - hjelpearbeid
 - utviklingshjelp
 - forbrukerinformasjon
+- barnehjem
 title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
 excerpt: Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
