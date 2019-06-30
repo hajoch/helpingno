@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-18 12:49:43 +0200
+date: 2019-06-18T10:49:43.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- bil
+- reise
+- reiseråd
+- Paris
+- Frankrike
+- Disneyland
 title: Disneyland i Paris
 excerpt: 'Besøk Disneyland og Paris i barnas høstferie og unngå langdryge, uendelige
   køer på silsvette sommerdager. Unngå rådyre Disneyland-hoteller og flyreiser: Ta
@@ -78,8 +84,8 @@ Kjøp mer!
 Tilbud før stengetid...  
 Disney kjøpesenter også utenfor...
 
-**Paris sentrum:  
-**Voksne undervurderer ofte barns interesse for turistattraksjoner: Fra Bussy-Saint-Georges går metroen direkte til Triumfbuen. Stasjonen ligger noen etasjer under det kjente byggverket. Dagslyset i enden av trappen viser vei til Champs Elysèes kjente rundkjøring. Mektig troner Triumfbuen i senter med sine vakre utsmykning. Vindeltrappen fører opp til platået med utsikt over bydelen.  
+**Paris sentrum:**  
+Voksne undervurderer ofte barns interesse for turistattraksjoner: Fra Bussy-Saint-Georges går metroen direkte til Triumfbuen. Stasjonen ligger noen etasjer under det kjente byggverket. Dagslyset i enden av trappen viser vei til Champs Elysèes kjente rundkjøring. Mektig troner Triumfbuen i senter med sine vakre utsmykning. Vindeltrappen fører opp til platået med utsikt over bydelen.  
 I morgendisen kommer Eiffeltårnet svakt til syne.
 
 Så Eifeltårnet, en liten fottur fra Triumfbuen.  
