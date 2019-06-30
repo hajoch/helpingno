@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-18T19:57:19.000+00:00
 crop_image: true
-author: ''
+author: _authors/gunnar-christensen.md
 tags:
 - religion
 - tro
@@ -11,6 +11,12 @@ tags:
 - india
 - buddhisme
 - pilegrimmer
+- tibetansk buddhisme
+- tibetans kultur
+- smørte
+- puja
+- gumpa
+- bønnehjul
 title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
   barn. Alle med de karakteristiske barberte hodene."
