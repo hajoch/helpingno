@@ -1,8 +1,24 @@
 ---
 layout: post
-date: 2019-06-13 23:41:38 +0200
+date: 2019-06-13T21:41:38.000+00:00
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- sjø
+- båt
+- båt påhengsmotor
+- valg av båt
+- båttype
+- snekke
+- daycruiser
+- cabincruiser
+- motorseiler
+- seajeep
+- bowrider
+- joller
+- sikkerhet til sjøs
+- kjøpekontrakt
+- heftelser
+- båtliv
 title: Båtkjøpfeller? Unngå kjøpertabbene
 excerpt: "Hvilken båt passer deg best? \nUnngå kjøpertabbene. Har du gjort et raskt
   impulskjøp uten å tenke igjennom ditt behov kan du ha gått i kjøperfella."
