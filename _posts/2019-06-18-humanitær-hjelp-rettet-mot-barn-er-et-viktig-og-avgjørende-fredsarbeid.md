@@ -3,7 +3,10 @@ layout: post
 date: 2019-06-18T10:56:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- hjelpearbeid
+- utviklingshjelp
+- forbrukerinformasjon
 title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
 excerpt: Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
