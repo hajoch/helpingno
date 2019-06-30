@@ -12,8 +12,8 @@ excerpt: Besøker du utviklingsland kan det være en god ide å bli kjente med e
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
   måte - med hensyn på å hjelpe dem økonomisk.
 image: "/assets/images/aleks.jpg"
-image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk og blemarkedsført
-  gjennom helping.nos spalter til han døde for noen år tilbake.'
+image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk til han
+  døde for noen år tilbake. Han ble kjent bl.a. gjennom helping.no sine spalter .'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
