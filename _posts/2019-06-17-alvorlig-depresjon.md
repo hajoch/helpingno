@@ -7,6 +7,7 @@ tags:
 - helse
 - mental helse
 - depresjon
+- melankoli
 title: Alvorlig depresjon
 excerpt: 'Mange tenker på depresjon som symptomet tristhet eller senket stemningsleie.
   Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et
