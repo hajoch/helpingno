@@ -2,7 +2,10 @@
 layout: post
 date: 2019-06-24 12:18:47 +0200
 crop_image: true
-tags: []
+tags:
+- veteranbil
+- veterantreff
+- Froland
 title: " Vakre veteraner i Froland"
 excerpt: Veteranbiltreff i mai hvert år
 image: "/assets/images/veteran11.jpg"
