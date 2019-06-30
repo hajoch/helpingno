@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
 - _posts/2019-06-27-røros-historiske-hotell.md
