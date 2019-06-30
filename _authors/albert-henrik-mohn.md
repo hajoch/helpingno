@@ -1,6 +1,6 @@
 ---
 layout: author
-title: 'Albert Henrik Mohn. Kategorier: Fødsler i 1918Dødsfall i 1999NRK-korrespondenterNorske
+title: 'Albert Henrik Mohn. Kategorier: Fødsler i 1918 Dødsfall i 1999NRK-korrespondenterNorske
   sakprosaforfattereNorske forfattere av reiseskildringerNorske romanforfattereNorske
   novellisterEnglandsfarten 1940-45Norske journalister under andre verdenskrig Personer
   fra Bergen kommune'
