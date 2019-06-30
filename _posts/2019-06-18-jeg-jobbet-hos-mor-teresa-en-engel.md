@@ -12,6 +12,7 @@ tags:
 - Calcutta
 - Mor Teresa
 - intervju
+- Lise Lyeseggen
 title: "- Jeg jobbet hos  Mor Teresa - en engel"
 excerpt: Lise Lyseggen i intervju med helping
 image: "/assets/images/liselyseggen1.jpg"
