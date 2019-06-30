@@ -14,7 +14,7 @@ excerpt: |-
 
   Prinsippet i disse øvelsene er å strekke muskulaturen slik at den blir ledigere og smidigere. Stressknuter løses opp med yoga-praksis.Regelmessig yogapraksis gir en smidigere kropp.
 image: "/assets/images/y8.jpg"
-image_caption: ''
+image_caption: Øvelse 8
 author: _authors/gunnar-christensen.md
 categories:
 - _category/fritid.md
