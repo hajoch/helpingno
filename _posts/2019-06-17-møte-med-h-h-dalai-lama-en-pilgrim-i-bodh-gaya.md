@@ -1,9 +1,19 @@
 ---
 layout: post
-date: 2019-06-17 10:29:21 +0200
+date: 2019-06-17T08:29:21.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- tibetansk religion
+- buddhisme
+- tibetansk kultur
+- lamatradisjon
+- nobelprisvinner
+- audiens
+- Buddha
+- nestekjærlighet
+- brorskap
+- voldsbølgen
 title: 'Møte med H.H. Dalai Lama: En pilgrim i Bodh Gaya'
 excerpt: |-
   En reise til Bodh Gaya, India med audiens hos Hans Hellighet
