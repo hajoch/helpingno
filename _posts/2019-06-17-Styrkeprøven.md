@@ -91,3 +91,9 @@ TIDSSKRIFT FOR DEN NORSKE LÆGEFORENING
 Styrkeprøven av Gunnar Christensen er ei bok som vedkjem dei fleste menneske i dagens samfunn. Dei fleste av oss betaler forsikringspremiar. Me kjøper oss ein form for tryggleik. Dei færraste veit kva dei i røynda har kjøpt. Boka fortel klart kva den står framfor som vel å ta kampen opp mot eit forsikringsselskap i ei erstatningssak. "Styrkeprøven" er lettlest og spennande."
 
 KNUT G. SOLBERG, SETESDØLEN
+
+  
+**Godt komponert**  
+"Styrkeprøven er godt komponert og tar opp en viktig sak for alle dem som er trafikkskadd og har møtt muren. Boka gir et klart bilde av forsikringsselskapenes makt og evne til manipulering takket være deres tilgang til høyt kvalifiserte eksperter. Dette er den lille mann mot et overveldende apparat. Dette gir Styrkeprøven et samfunnsmessig perspektiv."
+
+ALBERT HENRIK MOHN, Bergen Arbeiderblad.
