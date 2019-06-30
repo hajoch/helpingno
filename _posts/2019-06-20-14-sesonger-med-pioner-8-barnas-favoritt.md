@@ -1,9 +1,14 @@
 ---
 layout: post
-date: 2019-06-20 13:00:53 +0200
+date: 2019-06-20T11:00:53.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- jolle
+- barnebåt
+- sikkerhet i båt
+- mykplastbåt
+- robåt
 title: '14 sesonger med Pioner 8: Barnas favoritt'
 excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør beherske
   på sjøen. Å utforske strandsonen i denne jolla er et eventyr for barna. Sjøstjerner
