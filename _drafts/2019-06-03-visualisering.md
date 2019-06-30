@@ -19,6 +19,8 @@ tags:
 - Mental Helse
 - Stress
 - helse
+- avslapping
+- mentalhygiene
 image_caption: Foto Gunnar Christensen
 
 ---
