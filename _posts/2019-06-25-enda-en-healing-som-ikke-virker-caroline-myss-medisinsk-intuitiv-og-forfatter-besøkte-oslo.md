@@ -2,7 +2,12 @@
 layout: post
 date: 2019-06-25 09:45:11 +0200
 crop_image: true
-tags: []
+tags:
+- alternativt
+- foredrag
+- healing
+- intuitiv
+- forfatter
 title: 'Enda en healing som ikke virker: Caroline Myss "Medisinsk intuitiv" og forfatter
   besøkte Oslo '
 excerpt: Caroline Myss er den neste alternative kjendis som har kjøpt seg en globus
@@ -10,7 +15,9 @@ excerpt: Caroline Myss er den neste alternative kjendis som har kjøpt seg en gl
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg harde nesten ikke merket finanskrisene.
 image: "/assets/images/myss (1).jpg"
-image_caption: "\n"
+image_caption: |2-
+
+  Foto GC
 author: _authors/gunnar-christensen.md
 categories:
 - _category/mental-helse.md
