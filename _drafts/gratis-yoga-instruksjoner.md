@@ -6,7 +6,7 @@ tags:
 - yoga
 - Hatha-yoga
 - yogaøvelser
-title: Gratis Yoga-instruksjoner
+title: Yoga-instruksjoner
 excerpt: |-
   Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merke vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
 
