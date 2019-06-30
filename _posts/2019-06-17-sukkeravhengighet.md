@@ -3,7 +3,18 @@ layout: post
 date: 2019-06-17T13:05:47.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- økonomi utleie investering
+- økonomi
+- boligleie
+- hus
+- bolig
+- Bolig hjem hus leilighet
+- leieavtale
+- radon
+- forbruker
+- oppsigelse  av leieavtale
+- forsikring
 title: Boligleie
 excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
   sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
