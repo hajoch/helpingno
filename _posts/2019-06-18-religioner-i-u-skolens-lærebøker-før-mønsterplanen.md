@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-18 22:28:59 +0200
+date: 2019-06-18T20:28:59.000+00:00
 crop_image: true
 author: _authors/albert-henrik-mohn.md
-tags: []
+tags:
+- ungdomsskolen
+- lærebøker
+- livssynsundervisning
+- livssyn
+- Mønsterplanen
+- Gunnar Christensen
+- analyse av lærebøker
+- fremmede religioner
 title: 'Bokomtale: Skandalebøkene i ungdomsskolen'
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
