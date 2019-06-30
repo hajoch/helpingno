@@ -51,12 +51,13 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet. | Øvelse 3 |
 * Øvelse 4  
-   Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster lagsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen. | Øvelse 4 |
+  Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster lagsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen. | Øvelse 4 |
 * Øvelse 5  
   Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben. | Øvelse 5 |
 * Øvelse 6  
   Denne øvelsen kales plogstilling - øvelsene 6 går over i 7: Ligg flatt på ryggen med hendene langs kroppen og håndflatene ned. Løft bena opp i loddrett stilling som vises på figuren over. Støtt så hendene mot hoftene slik figuren viser. Hold bena rett ved ikke å bøye knærne. Bli i denne stillingen noen minutter - og gå så over i øvelse 7. | Øvelse 6 |
-* Øvelse 7 | Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i leggmuskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langssiden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. | Øvelse 7 |
+* Øvelse 7   
+  Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i leggmuskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langssiden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. | Øvelse 7 |
 * Øvelse 8  
   Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangs-posisjonen og legg deg til hvile på siden når du gjør øvelser på magen. | Øvelse 8 |
 * Øvelse 9  
@@ -82,11 +83,7 @@ La kroppen kvitte seg med avfallsstoffene. Et godt råd er å pusse tunga hver m
 **Litteratur om Yoga**
 
 * Christopher S. Kilham: "De fem tibetanske ritene. Fem dynamiske øvelser for helse, energi og styrke"., Hilt &Hansteen 1997
-
-
 * Selvarajan Yesudian og Elisabeth Haich: "Yoga og Helse", Fabritius 1965
-
-
 * Andries J. Kroese: "Stress, meditasjon, yoga, avspenningsteknikker"  
   Aschehoug Selvutvikling, 7 opplag 2010
 
