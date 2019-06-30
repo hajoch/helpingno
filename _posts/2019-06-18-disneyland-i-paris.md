@@ -10,6 +10,9 @@ tags:
 - Paris
 - Frankrike
 - Disneyland
+- bilreise
+- familietur
+- høstferie
 title: Disneyland i Paris
 excerpt: 'Besøk Disneyland og Paris i barnas høstferie og unngå langdryge, uendelige
   køer på silsvette sommerdager. Unngå rådyre Disneyland-hoteller og flyreiser: Ta
@@ -151,7 +154,7 @@ Reguler nakkestøttene så alle får rett høyde.
 Kjør defensivt.
 
 \- Og hva husker jeg best fra Paris?  
-\- En frastjålet lommebok og et dårlig ertatningsoppgjør fra Europeiske reiseforsikring.  
+\- En frastjålet lommebok og et dårlig erstatningsoppgjør fra Europeiske reiseforsikring.  
 Paris - lommetyvenes by!
 
 God tur til Paris...
