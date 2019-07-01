@@ -40,5 +40,9 @@ Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En famili
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz  
  - slik at Vatikanet kan tjene enda itt ekstra på å selge bilder i de vatikanske souvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
 
-En liten souvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens souvenirer til turister:  
+En liten souvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
+
+Også gateselgernes utvalg utenfor preges av Peterskirken.
+
+Vatikanstaten preges nå av en positiv oppmerksomhet verden over. Også fra miljøer som vanligvis ikke er opptatt av Vatikanet eller paven. Pave Frans har fått en drømmestart på sin gjerning som pave i den katolske kirke. Han blir av mange regnet som den mest folkekjære paven på lenge og blir hyllet for sitt engasjement bl.a. for fattige. Han har også satt i gang reformer innad i Vatikanet, noe som har gjort han upopulær blant noen av dem som i lang tid har nytt godt av de ekstreme godene.
