@@ -37,6 +37,9 @@ Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i kla
 Finnmaster 570 Open/ 57BR  
 Båten mangler flere av de designmessige kvaliteter konkurentene har. Men du får mye båt og motor for pengene ved å velge Finnmaster.
 
+Nordkapp Avant 600  
+Pent design og praktiske løsninger og båten virker solid. Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene og gir merkostnader med omlakkering.
+
 **Andre bowridere**  
 Yamarin 53BR  
 Båten er testet på sjøen med 100hk Yamaha: To voksne og ett barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt og støysvak motor.  
