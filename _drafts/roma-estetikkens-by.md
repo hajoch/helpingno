@@ -19,8 +19,12 @@ publish_date:
 weight: 3
 
 ---
-  
-  
 Severdighetene er mange og populære. Travle små gater med turister, lokalfolk, mopeder og biler på gamle brostein og historisk grunn. Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro.
 
 Man føler seg trygg i denne byen. Ordensmakten gjør jobben sin her.
+
+**Pizza-tips:**   
+Ekte italiensk pizza får du i Roma på restauranten   
+Da Baffetto. På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene.
+
+[www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
