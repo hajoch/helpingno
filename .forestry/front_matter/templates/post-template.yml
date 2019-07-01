@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-07-01-roma-estetikkens-by.md
