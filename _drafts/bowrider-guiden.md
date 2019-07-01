@@ -67,6 +67,9 @@ Morgan 530
 Godt utstyrt selvlensende båt med bra design. Båten leveres med Suzuki-motor.  
 Oppsiktsvekkende at båten leveres med teakesing som standard. Dette kan ikke velges bort. Båtkjøpere i dag er ofte bevist på problematikken omkring den utrydningstruede regnskogen og stoler ikke på selgerbløffen om at dette er "plantasjetreverk". Treverk krever dessuten mer vedlikeholds-arbeid og er således mer upraktisk. Uten teak/treverk ville båten fått bedre vurdering.
 
+Galia 515  
+Den ser noe komisk ut med den høye kalesja på plass, men praktisk er det. Trang bak vindskjermen særlig for aktersetepassasjerene, men god plass framfor. Ikke helt vellykket design. Den er produsert i Polen - et lavkost-land: Da forventes en betydelig lavere pris enn dette. Leveres med 2T-teknologi fra Evinrude - en teknologi som har hatt mye tekniske problemer. At denne 2T-motoren veier mindre enn 4T betyr lite på en slik båt. Samlet sett et dårlig tilbud.
+
 **Pris på båt:**  
 Prisene på oversikten er veiledende i markedet: Ofte finnes messepriser eller spesialtilbud på disse båtene. Det er lov å prute når du kjøper båt. De fleste gjør det. Ofte får du da lavere pris og/eller mer utstyr og større motor på handelen. Båtene har flere forhandlere og de fleste er på nett.
 
