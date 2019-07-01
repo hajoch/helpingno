@@ -79,12 +79,21 @@ Vår forbrukertest av [AMT 185BR.](http://www.helping.no/bow.3.htm) viser at Hon
 
 Det er i dette valget lagt stor vekt på en totalvurdering av båtene. At AMT 185BR kan bestilles med hvitt skrog uten den besværlige fargede stripa langs skrogsiden og de praktiske designmessig løsningene ombord som bl.a. kalesje-løsningen (som er inkludert i prisen) samt penere akterende gir plusspoeng.
 
-AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret toppresultatet. Konkurrenten Yamnarin 58BR er dyrere enn AMT. Begge alternativene er likeverdig gode.
+AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret toppresultatet. Konkurrenten Yamnarin 58BR er dyrere enn AMT. 
 
-Tekniske data.
+Konklusjonen må bli at drømmebåten er en AMT 185 BR med komfortstoler, hvitt skrog og 100 hk Yamaha 4-takt.
 
-**AMT 158BR   
-**Tekniske data:  
+Men ingen forhandlere vil levere en AMT med Yamaha, men vi fikk best handel og service på AMT hos Mysen Motorcenter på Mysen. Her fikk vi bestilt en AMT med helt hvitt skrog  
+og 90 hk Honda og den absolutt beste handelen på markedet da vi handlet.  
+  
+Forhandlere for Yamarin var litt for selvsikre og lite villige til å kjøpsforhandle. Yamarin-forhandlerne i Arendal og Grimstad var direkte arrogante. Det var derfor lett å velge en AMT.
+
+Derfor ble det forbrukertest av AMT: Se [Forbrukertest](http://www.helping.no/bow.3.htm)
+
+**Tekniske data**.
+
+AMT 158BR  
+Tekniske data:  
 Lengde 5,50 m  
 Bredde 2,24 m  
 Vekt 690 kg  
@@ -97,17 +106,17 @@ Med 115 hk 4 personer 34 knop
 
 Kalesje og hydraulisk styring er inkludert i prisen på AMT 185BR.
 
-**Yamarin 58BR   
-**Tekniske data:  
+Yamarin 58BR  
+Tekniske data:  
 Lengde 5,73 m  
 Bredde 2,20 m  
-Vekt 740 kg  
-  
+Vekt 740 kg
+
 Max motor 150 hk  
 Følgende fartsmålinger med Yamaha motor er  
 oppgitt av produsent:  
 Med 100 hk 2 personer 34 knop  
 Med 115 hk 2 personer 37 knop  
-Med 150 hk 2 personer 47 knop  
-  
+Med 150 hk 2 personer 47 knop
+
 Kalesje og hydraulisk styring er ikke inkludert i prisen på Yamarin.
