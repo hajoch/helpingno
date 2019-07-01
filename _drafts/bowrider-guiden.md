@@ -34,6 +34,9 @@ Båten er testet på sjøen med 100hk Yamaha: To voksne og to barn ombord. Båte
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen.
 
+Finnmaster 570 Open/ 57BR  
+Båten mangler flere av de designmessige kvaliteter konkurentene har. Men du får mye båt og motor for pengene ved å velge Finnmaster.
+
 **Andre bowridere**  
 Yamarin 53BR  
 Båten er testet på sjøen med 100hk Yamaha: To voksne og ett barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt og støysvak motor.  
