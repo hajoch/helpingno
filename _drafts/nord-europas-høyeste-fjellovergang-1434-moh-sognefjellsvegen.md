@@ -23,3 +23,5 @@ weight: 3
 Denne siden er under  konstruksjon og mangler foreløpig en rekke bilder.**
 
 Foto-serie
+
+Vakker biltur over fjellet.
