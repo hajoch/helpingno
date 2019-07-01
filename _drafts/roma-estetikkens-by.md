@@ -11,7 +11,8 @@ excerpt: Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass 
   av byen og med rette. Romerne er imøtekommende og hjelpsomme uten å være innpåslitne
   og brysomme. Selv gateselgere tar et nei for et nei.
 image: "/assets/images/rom3.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: 'Foto Gunnar Christensen. Denne vakre fontenen finner du i bunnen av
+  Den Spanske Trappen ved  Pazza Spagna. '
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
