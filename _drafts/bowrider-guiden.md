@@ -52,6 +52,10 @@ Av selvlensende små bowrider får du ut i fra vår totalvurdering mest for peng
 Båten leveres med et avtakbart dekk som kan gjøre den om til daycruiser ved behov. Det kan være bra når det blåser og regner. Det er imidlertid ikke plass til dekket ombord når det er demontert.  
 Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene, gir godt synlige striper ved småskader og gir merkostnader med omlakkering.
 
+Bella 500/512/530 Excel  
+Testet båten med 90hk 4T Johnson (produsert av Suzuki) med 2 voksne og 3 barn. Går lett og stabilt i vannet, men legger seg av og til litt på siden mens den er i plan selv om personene ombord er balansert plassert. Konstruksjonsfeil? En dypere v-bunn hadde kanskje rettet på dette? Meget stillegående og behagelig motor fra Johnson/Suzuki.  
+Poeng gies for godt design og kurant pris. Båten mangler dreggluke akter. Det gir ofte søl ombord når dreggen skal inn under aktersetet. Testbåten var helt hvit hvilket er en fordel med hensyn på vedlikehold ved riper/falming. Båten kan nå ikke lengre leveres helt hvit - Fåes kun med blå stripe og kun med Mercury.
+
 **Pris på båt:**  
 Prisene på oversikten er veiledende i markedet: Ofte finnes messepriser eller spesialtilbud på disse båtene. Det er lov å prute når du kjøper båt. De fleste gjør det. Ofte får du da lavere pris og/eller mer utstyr og større motor på handelen. Båtene har flere forhandlere og de fleste er på nett.
 
