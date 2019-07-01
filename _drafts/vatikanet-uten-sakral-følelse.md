@@ -32,3 +32,7 @@ Innerst i kirken er en messe i gang. Unge, sortdressende sikkerhetsvakter stoppe
 
 **Peterskirken:**  
 Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp fra den indre kuppelen - til toppen av den utvendige kuppelen. Her er Romas fineste utsikt. Peterskirken tar ikke inngangsbillett.
+
+De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. Som å vandre i et populært og vakkert museum. Peterskirken tar ikke inngangsbillett.
+
+Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
