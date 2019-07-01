@@ -56,6 +56,10 @@ Bella 500/512/530 Excel
 Testet båten med 90hk 4T Johnson (produsert av Suzuki) med 2 voksne og 3 barn. Går lett og stabilt i vannet, men legger seg av og til litt på siden mens den er i plan selv om personene ombord er balansert plassert. Konstruksjonsfeil? En dypere v-bunn hadde kanskje rettet på dette? Meget stillegående og behagelig motor fra Johnson/Suzuki.  
 Poeng gies for godt design og kurant pris. Båten mangler dreggluke akter. Det gir ofte søl ombord når dreggen skal inn under aktersetet. Testbåten var helt hvit hvilket er en fordel med hensyn på vedlikehold ved riper/falming. Båten kan nå ikke lengre leveres helt hvit - Fåes kun med blå stripe og kun med Mercury.
 
+Finnmaster 530 Open/53BR  
+Bøylene over vindskjermene gjør det plundrete å få kalesja av og på. Åpningen mellom vindskjermen for passasje forut har ikke vindu eller "dør" som andre bowridere, men en kalesjeløsning med plastvindu som ekstrautstyr. Dårlig løsning i regn og vind. Mangler dreggluke akter.  
+Designet trekker ned. Den oppleves ikke designmessig som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurentene har.
+
 **Pris på båt:**  
 Prisene på oversikten er veiledende i markedet: Ofte finnes messepriser eller spesialtilbud på disse båtene. Det er lov å prute når du kjøper båt. De fleste gjør det. Ofte får du da lavere pris og/eller mer utstyr og større motor på handelen. Båtene har flere forhandlere og de fleste er på nett.
 
