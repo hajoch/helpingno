@@ -20,7 +20,9 @@ publish_date:
 weight: 3
 
 ---
-Severdighetene er mange og populære. Travle små gater med turister, lokalfolk, mopeder og biler på gamle brostein og historisk grunn. Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro. Best klima har Roma i april og mai. I juli og august er byen for varm.
+Severdighetene er mange og populære. Travle små gater med turister, lokalfolk, mopeder og biler på gamle brostein og historisk grunn. Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro. Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og suvenirer til turister.
+
+Best klima har Roma i april og mai. I juli og august er byen for varm.
 
 Man føler seg trygg i denne byen. Ordensmakten gjør jobben sin her.
 
