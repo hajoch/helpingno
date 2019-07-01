@@ -58,7 +58,14 @@ Poeng gies for godt design og kurant pris. Båten mangler dreggluke akter. Det g
 
 Finnmaster 530 Open/53BR  
 Bøylene over vindskjermene gjør det plundrete å få kalesja av og på. Åpningen mellom vindskjermen for passasje forut har ikke vindu eller "dør" som andre bowridere, men en kalesjeløsning med plastvindu som ekstrautstyr. Dårlig løsning i regn og vind. Mangler dreggluke akter.  
-Designet trekker ned. Den oppleves ikke designmessig som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurentene har.
+Designet trekker ned. Den oppleves ikke designmessig som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurentene har.  
+  
+Nordkapp Avant 500  
+Pent design og praktiske løsninger og båten virker solid. Trang bak vindskjermen særlig for aktersetepassasjerene, men god plass framfor vindskjermen. Testens minste båt med kun 16 fot og det merkes. Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene og gir merkostnader med omlakkering.
+
+Morgan 530  
+Godt utstyrt selvlensende båt med bra design. Båten leveres med Suzuki-motor.  
+Oppsiktsvekkende at båten leveres med teakesing som standard. Dette kan ikke velges bort. Båtkjøpere i dag er ofte bevist på problematikken omkring den utrydningstruede regnskogen og stoler ikke på selgerbløffen om at dette er "plantasjetreverk". Treverk krever dessuten mer vedlikeholds-arbeid og er således mer upraktisk. Uten teak/treverk ville båten fått bedre vurdering.
 
 **Pris på båt:**  
 Prisene på oversikten er veiledende i markedet: Ofte finnes messepriser eller spesialtilbud på disse båtene. Det er lov å prute når du kjøper båt. De fleste gjør det. Ofte får du da lavere pris og/eller mer utstyr og større motor på handelen. Båtene har flere forhandlere og de fleste er på nett.
