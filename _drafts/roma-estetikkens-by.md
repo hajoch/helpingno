@@ -30,6 +30,9 @@ Pantheon tempelet ble bygget 118 - 125 e.kr.av keiser Hadrian.
 
 **Pizza-tips:**   
 Ekte italiensk pizza får du i Roma på restauranten   
-Da Baffetto. På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene.
+Da Baffetto. På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene. [www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
 
-[www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
+Se opp for guidene kledd i drakter som romerske gladiatorer. Disse er frekke, arrogante og lopper deg for penger. Dette er ulikt romerne forøverig som er hyggelige med utmerket service overfor alle turister.
+
+**Turistklager i Roma:   
+**Falske kriminelle gladiatorer avslørt: Mange turister har klaget på disse "krigerne" og det er blitt en del presseomtale på dette. Roma lever av turister og turistenes klager taes derfor svært alvorlig her. Den danske avisen BT avslører arrestasjon av flere kriminelle i antikke romerdrakter.
