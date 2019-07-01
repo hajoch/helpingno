@@ -34,18 +34,23 @@ Båten er testet på sjøen med 100hk Yamaha: To voksne og to barn ombord. Båte
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen.
 
-Finnmaster 570 Open/ 57BR  
-Båten mangler flere av de designmessige kvaliteter konkurentene har. Men du får mye båt og motor for pengene ved å velge Finnmaster.
-
-Nordkapp Avant 600  
-Pent design og praktiske løsninger og båten virker solid. Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene og gir merkostnader med omlakkering.
-
 **Andre bowridere**  
 Yamarin 53BR  
 Båten er testet på sjøen med 100hk Yamaha: To voksne og ett barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt og støysvak motor.  
 Vindskjermen er sjenerende lav slik at man får vind-draget rett i panna hvis du er over 1,80 i høyde. Bensinfylling på innebygd tank er tranghalset og tidkrevende.  
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen
+
+Finnmaster 570 Open/ 57BR  
+Båten mangler flere av de designmessige kvaliteter konkurentene har. Men du får mye båt og motor for pengene ved å velge Finnmaster.
+
+Nordkapp Avant 600  
+Pent design og praktiske løsninger og båten virker solid. Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene og gir merkostnader med omlakkering.
+
+Ryds 520  
+Av selvlensende små bowrider får du ut i fra vår totalvurdering mest for pengene med å kjøpe en Ryds 520.  
+Båten leveres med et avtakbart dekk som kan gjøre den om til daycruiser ved behov. Det kan være bra når det blåser og regner. Det er imidlertid ikke plass til dekket ombord når det er demontert.  
+Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene, gir godt synlige striper ved småskader og gir merkostnader med omlakkering.
 
 **Pris på båt:**  
 Prisene på oversikten er veiledende i markedet: Ofte finnes messepriser eller spesialtilbud på disse båtene. Det er lov å prute når du kjøper båt. De fleste gjør det. Ofte får du da lavere pris og/eller mer utstyr og større motor på handelen. Båtene har flere forhandlere og de fleste er på nett.
