@@ -9,9 +9,9 @@ tags:
 title: Vatikanet - Uten sakral følelse
 excerpt: "Vatikanstaten var det jeg så mest frem til i Roma: Minner fra en sakral
   og fin stemning med messe i vakre Notre Dame-katedralen i Paris før brannen, og
-  flere andre katolske kirker ga store forventninger før første møte med Peterskirken.Innerst
-  i Peterskirken pågår messe. Unge, sort-dressende sikkerhetsvakter stopper meg: \"Not
-  for tourists\".\n\n"
+  flere andre katolske kirker ga store forventninger før første møte med Peterskirken.
+  Innerst i Peterskirken pågår messe. Unge, sortdressede sikkerhetsvakter stopper
+  meg: \"Not for tourists\".\n\n"
 image: "/assets/images/vat1.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
