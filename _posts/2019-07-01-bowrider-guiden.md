@@ -14,7 +14,7 @@ excerpt: |2-
 
   Denne oversikten omfatter små og mellomstore bowridere opp til 19 fot og kr. 350.000,-. Prisene er ikke oppdatert til dagens priser og kan tolkes som nypriser på nyere bruktbåter i dag. Det er i tillegg kommet bowridere med aluminiumsskrog som ikke er med i oversukten.
 image: "/assets/images/amt.10..jpg"
-image_caption: Foto Gunnar Christensen. AMT 185
+image_caption: Foto Gunnar Christensen. AMT 185 BR
 author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
@@ -29,7 +29,7 @@ AMT 185 BR
 Gunstig pris - mest for pengene. [Forbrukertestet](http://www.helping.no/bow.3.htm): AMT 185 BR med 90 HK Honda modell 2007 er en vellykket kontrukson som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog.  
 Kalesjen, hydraulisk styring, dregg og fendere er inkludert i prisen. [AMT testes mot Yamarin 58BR](http://www.helping.no/bow.2.htm)
 
-Yamarin 58BR  
+Yamarin 58 BR  
 Båten er testet på sjøen med 100hk Yamaha: To voksne og to barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt i sjø og støysvak motor.  
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen.
