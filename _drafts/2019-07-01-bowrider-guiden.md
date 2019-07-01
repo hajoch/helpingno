@@ -22,7 +22,7 @@ publish_date:
 weight: 7
 
 ---
-Vi tester bowrider med påhengsmotor i størrelsen mellom 17 - 19 fot på kvalitet, praktiske løsninger, design mm.
+Vi tester bowrider med påhengsmotor i størrelsen mellom 16 - 19 fot på kvalitet, praktiske løsninger, design mm.
 
 **Testvnnere:**  
 AMT 185 BR  
@@ -58,8 +58,8 @@ Poeng gies for godt design og kurant pris. Båten mangler dreggluke akter. Det g
 
 Finnmaster 530 Open/53BR  
 Bøylene over vindskjermene gjør det plundrete å få kalesja av og på. Åpningen mellom vindskjermen for passasje forut har ikke vindu eller "dør" som andre bowridere, men en kalesjeløsning med plastvindu som ekstrautstyr. Dårlig løsning i regn og vind. Mangler dreggluke akter.  
-Designet trekker ned. Den oppleves ikke designmessig som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurentene har.  
-  
+Designet trekker ned. Den oppleves ikke designmessig som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurentene har.
+
 Nordkapp Avant 500  
 Pent design og praktiske løsninger og båten virker solid. Trang bak vindskjermen særlig for aktersetepassasjerene, men god plass framfor vindskjermen. Testens minste båt med kun 16 fot og det merkes. Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoatstriper langs siden falmer lett med årene og gir merkostnader med omlakkering.
 
