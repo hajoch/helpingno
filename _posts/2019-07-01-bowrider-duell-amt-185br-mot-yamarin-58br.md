@@ -13,7 +13,7 @@ excerpt: |-
 
   Mange foretrekker bowrider fremfor seajeep fordi de nå er lei av å være våte og forblåste i vind og regn på sjøen.
 image: "/assets/images/yam58br.2.jpg"
-image_caption: 'Yamnarin 58BR '
+image_caption: 'Foto: Yamnarin 58BR, for bilde av AMT se egen artikkel om denne.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
