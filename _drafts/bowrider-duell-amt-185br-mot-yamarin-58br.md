@@ -83,7 +83,7 @@ AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret
 
 Tekniske data.
 
-**AMT 158BR ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)  
+**AMT 158BR   
 **Tekniske data:  
 Lengde 5,50 m  
 Bredde 2,24 m  
@@ -96,3 +96,18 @@ Med 115 hk 2 personer 36 knop
 Med 115 hk 4 personer 34 knop
 
 Kalesje og hydraulisk styring er inkludert i prisen på AMT 185BR.
+
+**Yamarin 58BR   
+**Tekniske data:  
+Lengde 5,73 m  
+Bredde 2,20 m  
+Vekt 740 kg  
+  
+Max motor 150 hk  
+Følgende fartsmålinger med Yamaha motor er  
+oppgitt av produsent:  
+Med 100 hk 2 personer 34 knop  
+Med 115 hk 2 personer 37 knop  
+Med 150 hk 2 personer 47 knop  
+  
+Kalesje og hydraulisk styring er ikke inkludert i prisen på Yamarin.
