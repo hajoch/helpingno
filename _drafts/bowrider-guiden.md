@@ -22,22 +22,21 @@ publish_date:
 weight: 7
 
 ---
-
 Vi tester bowrider med påhengsmotor i størrelsen mellom 17 - 19 fot på kvalitet, praktiske løsninger, design mm.
 
 **Testvnnere:**  
-**AMT 185 BR  
-**Gunstig pris - mest for pengene. [Forbrukertestet](http://www.helping.no/bow.3.htm): AMT 185 BR med 90 HK Honda modell 2007 er en vellykket kontrukson som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog.  
+AMT 185 BR  
+Gunstig pris - mest for pengene. [Forbrukertestet](http://www.helping.no/bow.3.htm): AMT 185 BR med 90 HK Honda modell 2007 er en vellykket kontrukson som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog.  
 Kalesjen, hydraulisk styring, dregg og fendere er inkludert i prisen. [AMT testes mot Yamarin 58BR](http://www.helping.no/bow.2.htm)
 
-**Yamarin 58BR  
-**Båten er testet på sjøen med 100hk Yamaha: To voksne og to barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt i sjø og støysvak motor.  
+Yamarin 58BR  
+Båten er testet på sjøen med 100hk Yamaha: To voksne og to barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt i sjø og støysvak motor.  
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen.
 
 **Andre bowridere**  
-**Yamarin 53BR  
-**Båten er testet på sjøen med 100hk Yamaha: To voksne og ett barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt og støysvak motor.  
+Yamarin 53BR  
+Båten er testet på sjøen med 100hk Yamaha: To voksne og ett barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt og støysvak motor.  
 Vindskjermen er sjenerende lav slik at man får vind-draget rett i panna hvis du er over 1,80 i høyde. Bensinfylling på innebygd tank er tranghalset og tidkrevende.  
 God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen
