@@ -26,7 +26,7 @@ Best klima har Roma i april og mai. I juli og august er byen for varm.
 
 Man føler seg trygg i denne byen. Ordensmakten gjør jobben sin her.
 
-Pantheon tempelet ble bygget 118 - 125 e.kr.av keiser Hadrian.
+Pantheon tempelet ble bygget 118 - 125 e.kr .av keiser Hadrian. Det er fremdeles en gåte at betongen i dette bygget er bedre og mer solid enn hva man klarer å lage i dag.
 
 **Pizza-tips:**   
 Ekte italiensk pizza får du i Roma på restauranten   
