@@ -14,7 +14,7 @@ image: "/assets/images/sogn1.jpg"
 image_caption: Foto Hallvard Jore Christensen og  Christoffer Jore Christensen
 author: _authors/hallvard-j-christensen.md
 categories:
-- _category/reise.md
+- _category/fritid.md
 publish_date: 
 weight: 3
 
