@@ -22,13 +22,13 @@ weight: 7
 
 ---
 **Aimo Mustonen har designet begge båtene.**  
-Denne båten er konstruert og laget av mannen bak konstruksjon og produksjon av Yamarin-båtene, finske Aimo Mustonen. Produksjonen av Yamarin er nå flagget ut til lavkostland mens AMT produseres ved de samme fabrikkene i Finland hvor Yamarin tidligere ble laget. AMT står for Advanced Marine Technology. Og AMT-båtene lages slik konstruktøren Aimo Mustonen selv vil ha dem, hevdes det: En forbeding av tilsvarende modell fra Yamarin blir det underforstått antydet.  
-  
+Denne båten er konstruert og laget av mannen bak konstruksjon og produksjon av Yamarin-båtene, finske Aimo Mustonen. Produksjonen av Yamarin er nå flagget ut til lavkostland mens AMT produseres ved de samme fabrikkene i Finland hvor Yamarin tidligere ble laget. AMT står for Advanced Marine Technology. Og AMT-båtene lages slik konstruktøren Aimo Mustonen selv vil ha dem, hevdes det: En forbeding av tilsvarende modell fra Yamarin blir det underforstått antydet.
+
 Dette er det best mulige utgangspunkt for en sammenliknende test av to båter i samme klasse. Kanskje de to beste bowriderne i denne prisklassen totalt sett. Her er to svært like konkurrenter som skal krige om markedsandeler i årene fremover.
 
 **Den lille forskjellen**  
-Detaljer på AMT 185BR sømfares for å finne den lille forskjellen som skiller de to båtene: Jo her er det bedre løsninger enn på Yamarin 58BR: Kalesja ligger pent og godt beskyttet under et deksel når den er nede på AMT 185BR fremfor å ligge åpent og flagre bak og utsatt for støtskader på baksete-kanten av Yamarin 58BR. Nettopp det mange savner på Yamarin 58BR. Yamarin-selgeren begrunner dette med den lille utgangsluka som er plassert mot akterenden. Men er man så bevegelseshemmet at man ikke kan stege over en slik liten kant, da har man ikke noe der å gjøre ombord i en slik båt vil mange hevde. I tillegg gir den lille luka på Yamarin 58BR dårligere sitteplass akter enn AMT 185BR byr på.  
-  
+Detaljer på AMT 185BR sømfares for å finne den lille forskjellen som skiller de to båtene: Jo her er det bedre løsninger enn på Yamarin 58BR: Kalesja ligger pent og godt beskyttet under et deksel når den er nede på AMT 185BR fremfor å ligge åpent og flagre bak og utsatt for støtskader på baksete-kanten av Yamarin 58BR. Nettopp det mange savner på Yamarin 58BR. Yamarin-selgeren begrunner dette med den lille utgangsluka som er plassert mot akterenden. Men er man så bevegelseshemmet at man ikke kan stege over en slik liten kant, da har man ikke noe der å gjøre ombord i en slik båt vil mange hevde. I tillegg gir den lille luka på Yamarin 58BR dårligere sitteplass akter enn AMT 185BR byr på.
+
 Og akterenden på AMT er virkelig mer moderne og spennende. En både penere og mer praktisk løsning ned mot badestigen enn Yamarin 58BR som nå har vært på markedet noen år under typebenevnelsen 5820.
 
 Sitteløsningen i baugen er også forskjellig: Yamarin 58BR har en sammenhengende u-benk - noe det ikke er beinplass til der. AMT 185BR har avgrenset dette til tre sitteplasser. En i hvert hjørne av trekanten. Denne forskjellen kan også ha sammenheng med at Yamarin 58BR er 23 cm lengre og 4 cm smalere enn AMT 158BR.
@@ -38,8 +38,8 @@ Miljøbeviste kjøpere velger bort teak på båten i dag. Både AMT 185BR og Yam
 
 Men det er i begge båtene mulig å tilpasse et teppe med dreneringskuler under slik man har på altangulv i land og således få en grei dørk selv ved mye bruk av båten. Dette har flere eiere av Yanmarin valgt fremfor teak på dørken.
 
-**Hvorfor har ingen av disse to produsentene kommet på å tilby løse tepper tilpasset dørken på båten festet med borrelås? Tepper som kan taes ut og rengjøres etter behov.**  
-  
+**Hvorfor har ingen av disse to produsentene kommet på å tilby løse tepper tilpasset dørken på båten festet med borrelås? Tepper som kan taes ut og rengjøres etter behov.**
+
 Dessuten krever teak merkbart mer oppussingsarbeid: En tur i båthavna en sommerdag viser med all mulig tydelighet at båter med teak svært ofte ikke får den nødvendige oppussing som skal til for at treverket skal holde seg pent. Teak som ikke er tatt vare på skjemmer båten i betydelig grad fremfor å pynte den. Teak krever utvilsomt betydelig mer vedlikehold av båteier.
 
 Samtidig blir det trolig fremover vanskeligere å selge videre bruktbåter med teak: Stadig flere kjøpere vil sky unna disse teak-båtene fordi det blir mer fokus på miljøspørsmål for hvert år som går.
@@ -49,8 +49,8 @@ Hva med den besværlige skrogstripa? På AMT 185BR er stripa på skroget grå og
 
 Og hvorfor vil jeg ha stripa bort? En sommer så jeg en ny Yamarin 58BR i båthavna, med en rekke skjemmende skader i den blå stripa. Flere av skadene var av en slik karakter at omlakkering må til for å fjerne skadene. Og båten var bare "vanlig brukt" i to måneder. Dette ble en tankevekker - for båten var ellers pent behandlet. Og ser man nøyere etter i havnene er det mange båteiere som sliter med å holde blå striper pene.
 
-Båtforhandlere opplyser at flere båteiere lakkerer om blåfargen ganske ofte i forbindelse med vårpussen og vinterlagring. Dette er en betydelig ekstrakostnad på grunn av en upraktisk motebølge. Og det gjelder ikke bare blått - det gjelder mange farger. Fagfolk hevder farget plastskrog i dag har langt bedre fargekvalitet enn på 80-tallet med hensyn på falming og holdbarhet. Og skader kan ofte rubbes helt bort. Men vi kommer likevel ikke bort i fra at fargede skrog og striper gir mer arbeid og vedlikeholdskostnad enn helt hvitt skrog.  
-  
+Båtforhandlere opplyser at flere båteiere lakkerer om blåfargen ganske ofte i forbindelse med vårpussen og vinterlagring. Dette er en betydelig ekstrakostnad på grunn av en upraktisk motebølge. Og det gjelder ikke bare blått - det gjelder mange farger. Fagfolk hevder farget plastskrog i dag har langt bedre fargekvalitet enn på 80-tallet med hensyn på falming og holdbarhet. Og skader kan ofte rubbes helt bort. Men vi kommer likevel ikke bort i fra at fargede skrog og striper gir mer arbeid og vedlikeholdskostnad enn helt hvitt skrog.
+
 **Konklusjonen er derfor at helt hvitt skrog er best - for å unngå merkostnader som f.eks. lakkeringsutgifter.**
 
 Yamarin leveres med primer, bunnstoff og sjøklar.  
@@ -80,3 +80,19 @@ Vår forbrukertest av [AMT 185BR.](http://www.helping.no/bow.3.htm) viser at Hon
 Det er i dette valget lagt stor vekt på en totalvurdering av båtene. At AMT 185BR kan bestilles med hvitt skrog uten den besværlige fargede stripa langs skrogsiden og de praktiske designmessig løsningene ombord som bl.a. kalesje-løsningen (som er inkludert i prisen) samt penere akterende gir plusspoeng.
 
 AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret toppresultatet. Konkurrenten Yamnarin 58BR er dyrere enn AMT. Begge alternativene er likeverdig gode.
+
+Tekniske data.
+
+**AMT 158BR ![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)![](http://www.helping.no/kule.jpg =12x12)  
+**Tekniske data:  
+Lengde 5,50 m  
+Bredde 2,24 m  
+Vekt 690 kg  
+Max motor 115 hk  
+Følgende fartsmålinger med Honda motor er oppgitt av produsent:  
+Med 90 hk 2 personer 34 knop  
+Med 90 hk 4 personer 32 knop  
+Med 115 hk 2 personer 36 knop  
+Med 115 hk 4 personer 34 knop
+
+Kalesje og hydraulisk styring er inkludert i prisen på AMT 185BR.
