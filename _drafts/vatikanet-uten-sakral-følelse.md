@@ -39,3 +39,6 @@ Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En famili
 
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz  
  - slik at Vatikanet kan tjene enda itt ekstra på å selge bilder i de vatikanske souvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
+
+En liten souvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens souvenirer til turister:  
+\- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
