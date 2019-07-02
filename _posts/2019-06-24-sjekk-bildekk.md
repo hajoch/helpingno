@@ -2,11 +2,16 @@
 layout: post
 date: 2019-06-24 12:37:59 +0200
 crop_image: true
-tags: []
+tags:
+- piggdekksesong
+- lufttrykk i dekk
+- dekk
+- sesong
+- bil
 title: Sjekk bildekk
 excerpt: 'Biltips før vinteren:'
-image: "/assets/images/bildekk.jpg"
-image_caption: 'Foto: Christoffer Jore Christensen'
+image: "/assets/images/mar.5.jpg"
+image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
