@@ -8,6 +8,8 @@ tags:
 - dekk
 - sesong
 - bil
+- sommerdekksesong
+- vinterbil
 title: Sjekk bildekk
 excerpt: 'Biltips før vinteren:'
 image: "/assets/images/mar.5.jpg"
