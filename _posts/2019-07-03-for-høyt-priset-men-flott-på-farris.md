@@ -20,9 +20,15 @@ publish_date:
 weight: 3
 
 ---
-Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken. 
+Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken.
 
-Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. De noe større rommene er flotte slik du forventer - men priset deretter. Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. Du må parkere på andre siden av veien hvor et parkeringsselskap har makta. 
+Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. De noe større rommene er flotte slik du forventer - men priset deretter. Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. Du må parkere på andre siden av veien hvor et parkeringsselskap har makta.
+
+Beliggenheten ved sjøen er helt spesiell: En flott sandstrand er en del av denne praktfulle beliggenheten. En fin promenade langs Larvik havn gjør beliggenheten ekstra fin. En kort biltur fra hotellet ligger vakre Stavern.
+
+Hotellet har aldersgrense på 16 år så hele familien kunne ikke besøke hotellet i 2009. Det ble derfor en helg for to.
+
+Vakker kunst, spennende design, funksjonelle løsninger og hyggelig betjening preger hotellet
 
 **Kjøkkenet**  
 Det mest utrolige med dette hotellet i 2009 var likevel at eierne med Peter Stordalen og Rimi-Hagen i spissen hadde ansatt folk på kjøkkenet som ikke kunne lage mat. Kjøkkenet på dette hotellet var den gang intet mindre enn en skandale. En Peppes Pizza like om neste hjørne var reddningen. Dette var første gang jeg har opplevd at et dårlig kjøkken ødelegger for et opphold som ellers ville ha vært helt topp: Feiring av bryllupsdag.
@@ -40,9 +46,9 @@ Da middagen skulle nytes i 2009 oppdaget vi at menyen kunne ikke velges, men var
 Frokosten i 2009 varer til kl. 11.00 på søndagen her. Da vi neste morgen ankom frokosten kl. 10.30 så koldtbordene ut som en plyndret slagmark. Her var nesten intet tilbake etter tidligere gjester og betjeningen hadde ikke tatt seg bryet med å få fylt opp for nye gjester. Og det var flere som kom til frokost på denne tiden. Vi måtte spørre etter det vi ønsket og vente en god stund på at det ble brakt frem. Og når vi endelig hadde fått det vi etterspurte til frokost og fikk satt oss til å spise så stengte serveringen.  
 Tottalt sto dette kjøkkenet til stryk i 2009. Vårt råd til hotelleier var klart: - Spark kjøkkensjefen.
 
-I 2016 var frokosten like bra som andre hoteller i denne klassen. Det er tydelig at kjøkkenet nå har fått nytt, godt kvalifisert personale. Gratulerer Farris bad.  
-  
-Nærheten til Oslo-området gir høyere priser her enn vanlig ellers på liknende hoteller i Norge. Og liten vilje til å justere priser til etterspørselen. Dette er ikke sympatisk. 
+I 2016 var frokosten like bra som andre hoteller i denne klassen. Det er tydelig at kjøkkenet nå har fått nytt, godt kvalifisert personale. Gratulerer Farris bad.
+
+Nærheten til Oslo-området gir høyere priser her enn vanlig ellers på liknende hoteller i Norge. Og liten vilje til å justere priser til etterspørselen. Dette er ikke sympatisk.
 
 Hotellet tjener også stort på at Kragerø spa-hotell har fått et dårlig rykte over lengre tid - og det er lite alternativer i nærheten. (Helping har testet Kragerø spa-hotell flere ganger og vil ikke engang omtale dette lengre.)
 
