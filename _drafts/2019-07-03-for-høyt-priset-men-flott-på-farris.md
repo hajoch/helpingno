@@ -44,7 +44,7 @@ I 2016 var frokosten like bra som andre hoteller i denne klassen. Det er tydelig
   
 Nærheten til Oslo-området gir høyere priser her enn vanlig ellers på liknende hoteller i Norge. Og liten vilje til å justere priser til etterspørselen. Dette er ikke sympatisk. 
 
-Hotellet tjener også stort på at Kragerø spa-hotell har fått et dårlig rykte over lengre tid - og det er lite alternativer i nærheten. Helping har testet Kragerø spa-hotell flere ganger og vil ikke engang omtale dette lengre.
+Hotellet tjener også stort på at Kragerø spa-hotell har fått et dårlig rykte over lengre tid - og det er lite alternativer i nærheten. (Helping har testet Kragerø spa-hotell flere ganger og vil ikke engang omtale dette lengre.)
 
 **Spa**  
 I sommersesongen er det fantastisk å ta på seg badetøy og ta en dukkert i saltvann på stranden like utenfor døra. Når det er kaldere er spatilbudet behagelig. Spa-avdelingen er innbydende med variert tilbud i romlige, flotte lokaler som også har utsikt over stranden fra gode liggestoler. Spesielt her er et lite basseng med vann fra Farriskilden.
