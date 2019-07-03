@@ -9,7 +9,7 @@ tags:
 title: 'Varmepumpe øker strømforbruket! '
 excerpt: 'Varmepumpene markedsføres med strømsparing. Overraskelsen var derfor stor
   da det viste seg at varmepumpa av typen Fujitsu Genaral Gulvmodell R-410A med utedel
-  AOHV12LAC økte det totale strøm-forbruket betydelig de to siste vintersesongene. '
+  AOHV12LAC øker det totale strømforbruket betydelig i vintersesongene. '
 image: "/assets/images/varmep.jpg"
 image_caption: Foto  Gunnar Christensen
 author: _authors/gunnar-christensen.md
