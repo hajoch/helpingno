@@ -6,7 +6,7 @@ tags:
 - Arendal
 - hotelltest
 title: På bryggekanten i Arendal
-excerpt: 'Forbrukertest: Tyholmen hotell Clarion , Arendal. Tyholmen hotell ligger
+excerpt: 'Forbrukertest: Tyholmen hotell Clarion, Arendal. Tyholmen hotell ligger
   på en kremtomt med utsyn over havnebassenget. I flere tiår år har dette hotellet
   hatt byens beste lokaler, kjøkken og service. I tillegg var hotellet et vakkert
   bygg helt til det tragiske tilbygget til høyre på bildet kom opp og skjemmet arkitekturen.'
