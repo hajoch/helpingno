@@ -1,15 +1,20 @@
 ---
 layout: post
-date: 2019-06-19 15:59:44 +0200
+date: 2019-06-19T13:59:44.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- debatt
+- psykisk helse
+- psykiatri
+- innlegg
 title: Psykiatrien i støpeskjeen igjen
 excerpt: 'Innlegg:
 
 '
 image: "/assets/images/april.02.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
