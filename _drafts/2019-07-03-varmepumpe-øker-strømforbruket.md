@@ -75,8 +75,6 @@ Nå er det solceller på taket som tegl og batteri i huset som vil sikre den mes
 * Forbrukertest: varmepumpe i enebolig
 * Kalitetstest på varmepumper
 
-\-
-
 Forbrukertest av varmepumpe type: Fujitsu Genaral Gulvmodell R-410A. Tekniske opplysninger: Utedel: AOHV12LAC  
 Effekt: kjøl 3,5(0,9-4.0)  
  varme 4,5(0,9-6.6)  
