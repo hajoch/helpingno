@@ -19,8 +19,6 @@ publish_date:
 weight: 
 
 ---
-  
-  
 Så kom den nye menyen inspirert fra USA og det gode kjøkken ved hotellet er beklageligvis historie. Maten er nå direkte dårlig. Få inn Helstrøm! Skal du ut på en bedre middag i Arendal så velg et annet sted.
 
 Hotellet er testet i en rekke år til familiebegivenheter som konfirmasjon, bryllup m.m. samt seminarer. Hotellet har i alle år levert med godt kjøkken og god service i trivelige lokaler på bryggekanten. Gjester som har overnattet har vært godt fornøyd med rom og frokost.
@@ -34,15 +32,15 @@ Sentrums nærhet virker også inn på parkerings-forholdene. Selv om hotellet ha
 Kommer du til Arendal for å oppleve en arkitektonisk Slørlandsidyll så kan du bli skuffet. For flere nybygg i sentrum skjemmer byens totalinntrykk: Som kulturhuset som likner en flyhangard på Gardermoen eller det massive Arena kjøpesenteret for å nevne noen. Søker du en Sørlandsby med en vakker idyllisk arkitektur - da må du til Risør.
 
 **Totalinntrykk**  
-Testet i tidsrommet fra 1982  
+Testet i 30 år.  
 Tiltalende hotell med god service og utmerket kjøkken fine lokaliteter på en fantastisk tomt på bryggekanten i Arendal sentrum.  
 **Rom**  
 Ikke testet med overnatting. Det taes derfor forbehold om endringer i rankingen når overnatting er prøvet.  
-**Omgivelser   
-**Et vel drevet hotell på ei sentral, men rolig tomt. i byens sentrum.  
-**Spisestedet   
-**Spisestedet er testet en rekke ganger i en periode på mer enn 30 år ved flere festlige anledninger som konfirmasjoner, jubileer og bryllup. I alle disse årene har kjøkkenet levert utmerket kokkekunst og servicen har alltid vært utmerket.
+**Omgivelser**  
+Et vel drevet hotell på ei sentral, men rolig tomt. i byens sentrum.  
+**Spisestedet**  
+Spisestedet er testet en rekke ganger i en periode på mer enn 30 år ved flere festlige anledninger som konfirmasjoner, jubileer og bryllup. I alle disse årene har kjøkkenet levert utmerket kokkekunst og servicen har alltid vært utmerket.
 
-Servicen er fremdeles utmerket, men kjøkkenet er en stor skuffelse. Maten heter nå Kitchen & Table og er elendig mat. Sjokkerende at eierne ikke oppdager dette og reverserer tabben. 
+Servicen er fremdeles utmerket, men kjøkkenet er en stor skuffelse. Maten heter nå Kitchen & Table og er elendig mat. Sjokkerende at eierne ikke oppdager dette og reverserer tabben.
 
 Nå kjører vi til Strand Hotell på Fevik for en bedre middag og feiring av merkedager.
