@@ -8,8 +8,7 @@ tags:
 - strøm til oppvarming
 title: 'Varmepumpe øker strømforbruket! '
 excerpt: 'Varmepumpene markedsføres med strømsparing. Overraskelsen var derfor stor
-  da det viste seg at varmepumpa av typen Fujitsu Genaral Gulvmodell R-410A med utedel
-  AOHV12LAC øker det totale strømforbruket betydelig i vintersesongene. '
+  da det viste seg at varmepumpa øker det totale strømforbruket betydelig i vintersesongene. '
 image: "/assets/images/varmep.jpg"
 image_caption: Foto  Gunnar Christensen
 author: _authors/gunnar-christensen.md
@@ -19,7 +18,8 @@ publish_date: 2019-07-03 00:00:00 +0200
 weight: 5
 
 ---
-**Resultat av bruk siden 2008:**
+**Resultat av bruk siden 2008:**  
+Fujitsu Genaral Gulvmodell R-410A med utedel AOHV12LAC
 
 * Økt strømforbruk og dermed ingen miljøgevinst
 * Liten reduksjon i vedfyring-forbruket
@@ -61,8 +61,7 @@ Besparelsene og miljøgevinst med varmepumpe kan man se lagt etter. Alt etter tr
 **Miljø**  
 Det er ingen miljøgevinst i å installere en varmepumpe. Du sparer ikke strøm. Slik prisene nå utvikler seg på strøm hadde det i denne tidsperioden vært mer økonomisk å gå over til oljefyring. OBS:  Oljefyring som kan gå på andre generasjons biodiesel som kommer på markedet i når vanlig fyringsolje fases ut. Som kjent er diesel og fyringsolje to navn på samme produkt. Derfor er bio-oljefyring et mer miljøvennlig alternativ. Fremtidens biodiesel lages av trevirke i Norge ikke palmeolje. Med oljefyring kan du fylle tanken når prisene er lavest. Med varmepumpe er du prisgitt kyniske, samarbeidende strømleverandører som tapper ned vannmagasinene på høsten for å tjene mer på strømmen til deg når du trenger den mest på vinteren. I tillegg har økt etterspørsel etter strøm styrket prispresset etter at elektriske biler, ferger og fly nå fases inn i markedet.
 
-**Strøm er blitt en mangelvare i perioder og prises deretter.  
-**Varmepumpa virker dårligere jo kaldere temperaturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere ute-temperatur.
+**Strøm er blitt en mangelvare i perioder og prises deretter.** Varmepumpa virker dårligere jo kaldere temperaturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere ute-temperatur.
 
 **Fremtid**  
 Slik prisene har vært på strøm i undersøkelsesperioden hadde det vært mer økonomisk å gå over til oljefyring (som fremover kan fyres med biodiesel ) , solcelle eller aller best jordvarme. Nå er det lys i tunnelen ettersom det fremover blir billigere å kjøpe batteri til hus: Disse kan lades når strømmen er billigst på døgnet - f.eks. om natten - slik at total strømutgift går ned. Dette vil trolig utkonkurrere dyr investering i solcellepanel.
