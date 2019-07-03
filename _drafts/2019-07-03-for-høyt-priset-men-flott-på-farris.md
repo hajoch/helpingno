@@ -9,7 +9,7 @@ tags:
 title: For høyt priset, men bedre mat nå på Farris.
 excerpt: |2
 
-  Kan du tenke deg noe bedre enn å sjekke inn på et rolig og flott hotell i strandkanten hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler, trafikk og folk, bare bølgene som slår mot stranden: Forbrukertest: Farris Bad spa hotell i Larvik: Flott hotell på stranden som blir dyrere og dyrere å bo på. Vi sammenlikner i denne testen to like besøk i 2009 og 2016.
+  Kan du tenke deg noe bedre enn å sjekke inn på et rolig og flott hotell i strandkanten hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler, trafikk og folk, bare bølgene som slår mot stranden: Forbrukertest: Farris Bad spa hotell i Larvik: Flott hotell på stranden som blir dyrere og dyrere å bo på. Vi sammenlikner i denne testen kun to like besøk i 2009 og 2016.
 image: "/assets/images/farris-bad2.jpg"
 image_caption: Foto Gunnar Christensen. Vakker skulptur i spa-avdelingen. Hotellet
   har mye flott kunst
@@ -22,13 +22,13 @@ weight: 3
 ---
 Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken.
 
+Beliggenheten ved sjøen er helt spesiell: En flott sandstrand er en del av denne praktfulle beliggenheten. En fin promenade langs Larvik havn gjør beliggenheten ekstra fin. En kort biltur fra hotellet ligger vakre Stavern.
+
 Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. Standard dobbeltrom her burde bygges om til ett enkeltrom. De noe større rommene er flotte slik du forventer - men priset deretter. Resepsjonen opplyste på forespørsel om hvorfor der ikke var mini-bar på rommene: "Vi har sluttet med det på grunn av stort tyveri fra mini-barene."  Dette var forbausende opplysninger som trekker ned. Har onkel Skrue overtatt hotellet? Hvem stjeler fra mini-barene? Det er første gang vi i helping-testen støter på et hotell i denne klassen uten mini bar. 
 
 Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. 
 
 Du må parkere på andre siden av veien hvor et parkeringsselskap har makta.
-
-Beliggenheten ved sjøen er helt spesiell: En flott sandstrand er en del av denne praktfulle beliggenheten. En fin promenade langs Larvik havn gjør beliggenheten ekstra fin. En kort biltur fra hotellet ligger vakre Stavern.
 
 Hotellet har aldersgrense på 16 år så hele familien kunne ikke besøke hotellet i 2009. Det ble derfor en helg for to.
 
