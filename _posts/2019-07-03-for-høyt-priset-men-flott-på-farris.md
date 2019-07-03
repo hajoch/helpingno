@@ -24,15 +24,13 @@ Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre 
 
 Beliggenheten ved sjøen er helt spesiell: En flott sandstrand er en del av denne praktfulle beliggenheten. En fin promenade langs Larvik havn gjør beliggenheten ekstra fin. En kort biltur fra hotellet ligger vakre Stavern.
 
-Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. Standard dobbeltrom her burde bygges om til ett enkeltrom. De noe større rommene er flotte slik du forventer - men priset deretter. Resepsjonen opplyste på forespørsel om hvorfor der ikke var mini-bar på rommene: "Vi har sluttet med det på grunn av stort tyveri fra mini-barene."  Dette var forbausende opplysninger som trekker ned. Har onkel Skrue overtatt hotellet? Hvem stjeler fra mini-barene? Det er første gang vi i helping-testen støter på et hotell i denne klassen uten mini bar. 
+Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. Standard dobbeltrom her burde bygges om til ett enkeltrom. De noe større rommene er flotte slik du forventer - men priset deretter. Resepsjonen opplyste på forespørsel om hvorfor der ikke var mini-bar på rommene: "Vi har sluttet med det på grunn av stort tyveri fra mini-barene."  Dette var forbausende opplysninger som trekker ned. Har onkel Skrue overtatt hotellet? Hvem stjeler fra mini-barene? Det er første gang vi i helping-testen støter på et hotell i denne klassen uten mini bar.
 
-Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. 
+Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. Vakker kunst, spennende design, funksjonelle løsninger og hyggelig betjening preger hotellet
 
 Du må parkere på andre siden av veien hvor et parkeringsselskap har makta.
 
 Hotellet har aldersgrense på 16 år så hele familien kunne ikke besøke hotellet i 2009. Det ble derfor en helg for to.
-
-Vakker kunst, spennende design, funksjonelle løsninger og hyggelig betjening preger hotellet
 
 **Kjøkkenet**  
 Det mest utrolige med dette hotellet i 2009 var likevel at eierne med Peter Stordalen og Rimi-Hagen i spissen hadde ansatt folk på kjøkkenet som ikke kunne lage mat. Kjøkkenet på dette hotellet var den gang intet mindre enn en skandale. En Peppes Pizza like om neste hjørne var reddningen. Dette var første gang jeg har opplevd at et dårlig kjøkken ødelegger for et opphold som ellers ville ha vært helt topp: Feiring av bryllupsdag.
@@ -42,7 +40,7 @@ Ved andre besøk i 2016 var kjøkkenet så bra som man kan forvente på et så f
 I 2016 feiret vi bryllupsdagen med en utmerket kamsjell til forrett, til hovedrett en rikelig, estetisk pyntet og aldeles utsøkt brosme. Desserten var en rett med rørte jordbær og et stykke kake. Servicen var utmerket og personalet gjorde absolutt "det lille ekstra" som man ønsker seg ved en slik anledning. Meget bra
 
 **"Tid for kjærlighet"**  
-Vi bestilte i 2009 en overnatting fra lørdag til søndag i september "med noe ekstra". Tilbudet het "tid for kjærlighet" til godt over tre tusenlapper for to og markedsføres som en "romantisk og tid for kropp og sjel". Oppholdet innbefatter bl.a. en halv flaske champis og frukt på rommet ved ankomst, spa-produkter og en tre retters middag på lørdagskvelden for to. Det var kun tre kleshengere på et dobbeltrom, men dette ble raskt rettet på. Godt lydisolert og gode senger. 
+Vi bestilte i 2009 en overnatting fra lørdag til søndag i september "med noe ekstra". Tilbudet het "tid for kjærlighet" til godt over tre tusenlapper for to og markedsføres som en "romantisk og tid for kropp og sjel". Oppholdet innbefatter bl.a. en halv flaske champis og frukt på rommet ved ankomst, spa-produkter og en tre retters middag på lørdagskvelden for to. Det var kun tre kleshengere på et dobbeltrom, men dette ble raskt rettet på. Godt lydisolert og gode senger.
 
 Da middagen skulle nytes i 2009 oppdaget vi at menyen kunne ikke velges, men var fastlagt av hotellet: Den såkalte forretten var en stor tallerken med et lite salatblad påstrødd små altfor stekte baconskiver som var både tørre og harde samt en spiseskje med halvstekt, uspiselig "kyllinglever". En lever som nok burde vært levert til sjekk hos Mattilsynet. Dette var tydeligvis et forsøk på minimalistisk mat-dekorasjon. Middagen var "kjøtt fra ei ku som hadde født to ganger" forklarte kelneren ivrig på svensk. Vi bestilte godt stekt kjøtt og fikk servert blodig, rått kjøtt som straks ble sendt tilbake til kjøkkenet igjen. Da en "godt stekt" porsjon endelig kom på bordet fant vi to små seige kjøttstykker på en stor tallerken "badet" i en hel spiseskje potetmos og et eggeglass med kokt gullerot iblandet kantarell i en sjysaus. Dessert var et eggeglass med Chreme Brulet. Etter denne middagen var vi nesten like sultne som da vi ankom spisesalen.
 
