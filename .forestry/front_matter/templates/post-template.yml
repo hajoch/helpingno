@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
