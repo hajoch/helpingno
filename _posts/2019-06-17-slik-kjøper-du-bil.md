@@ -18,7 +18,7 @@ weight: 5
 **Her er sjekklista før du kjøper:**
 
 **1. Sikkerhet.**  
-Sjekk kollisjonstester og sikkerhetsnivå på bilen du kjøper: [Biltest ](http://www.helping.no/bilsikkerhet.htm) Stadig flere bilkjøpere vedsetter kollisjons-sikkerhet både ved kjøp av ny og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs sikkerhetstest.
+Sjekk kollisjonstester og sikkerhetsnivå på bilen du kjøper. Stadig flere bilkjøpere vedsetter kollisjons-sikkerhet både ved kjøp av ny og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs sikkerhetstest.
 
 **2. Bilens farge:**  
 Bilens farge har betydning for sikkerheten og prisen på kaskoforsikringen. I England og flere andre land er røde og gule biler billigst å forsikre og de sorte og grå dyrest.  Dette systemet vil påvirke prisingen av forsikring fremover også i Norge.
