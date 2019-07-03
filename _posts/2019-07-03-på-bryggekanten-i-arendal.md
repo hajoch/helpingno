@@ -11,12 +11,12 @@ excerpt: 'Forbrukertest: Tyholmen hotell Clarion, Arendal. Tyholmen hotell ligge
   hatt byens beste lokaler, kjøkken og service. I tillegg var hotellet et vakkert
   bygg helt til det tragiske tilbygget til høyre på bildet kom opp og skjemmet arkitekturen.'
 image: "/assets/images/tyholmenhotell.jpg"
-image_caption: 'foto: Gunnar Christensen'
+image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 Så kom den nye menyen inspirert fra USA og det gode kjøkken ved hotellet er beklageligvis historie. Maten er nå direkte dårlig. Få inn Helstrøm! Skal du ut på en bedre middag i Arendal så velg et annet sted.
