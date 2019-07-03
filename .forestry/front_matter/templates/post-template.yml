@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
