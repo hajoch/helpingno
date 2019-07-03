@@ -61,7 +61,7 @@ Besparelsene og miljøgevinst med varmepumpe kan man se lagt etter. Etter tre se
 **Miljø**  
 Det er ingen miljøgevinst i å installere en varmepumpe. Du sparer ikke strøm. Slik prisene nå utvikler seg på strøm hadde det i denne tidsperioden vært mer økonomisk å gå over til oljefyring. OBS:  Oljefyring som kan gå på andre generasjons biodiesel som kommer på markedet i nær fremtid? Dette må jo være riktig siden regjeringen hevder det? Som kjent er diesel og fyringsolje to navn på samme produkt. Derfor er bio-oljefyring et mer miljøvennlig alternativ. Med oljefyring kan du fylle tanken når prisene er lavest. Med varmepumpe er du prisgitt kyniske strømleverandører som tapper ned vannmagasinene på høsten for å tjene mer på strømmen til deg når du trenger den mest på vinteren.
 
-**Strøm er blitt en mangelvare i perioder og prises deretter.  
+Strøm er blitt en mangelvare i perioder og prises deretter.**  
 **Varmepumpa virker dårligere jo kaldere tempraturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere utetempraturer.
 
 **Fremtid**  
