@@ -11,8 +11,8 @@ excerpt: |2
 
   Kan du tenke deg noe bedre enn å sjekke inn på et rolig og flott hotell i strandkanten hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler, trafikk og folk, bare bølgene som slår mot stranden: Forbrukertest: Farris Bad spa hotell i Larvik: Flott hotell på stranden som blir dyrere og dyrere å bo på. Vi sammenlikner i denne testen to like besøk i 2009 og 2016.
 image: "/assets/images/farris-bad2.jpg"
-image_caption: " Foto Gunnar Christensen. Vakker skulptur i spa-avdelingen. Hotellet
-  har mye flott kunst"
+image_caption: Foto Gunnar Christensen. Vakker skulptur i spa-avdelingen. Hotellet
+  har mye flott kunst
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
