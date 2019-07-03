@@ -22,7 +22,7 @@ weight: 3
 ---
 Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken. 
 
-Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. De noe større rommene er flotte slik du forventer. Du må parkere på andre siden av veien hvor et parkeringsselskap har makta. 
+Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. De noe større rommene er flotte slik du forventer. Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. Du må parkere på andre siden av veien hvor et parkeringsselskap har makta. 
 
 **Kjøkkenet**  
 Det mest utrolige med dette hotellet i 2009 var likevel at eierne med Peter Stordalen og Rimi-Hagen i spissen hadde ansatt folk på kjøkkenet som ikke kunne lage mat. Kjøkkenet på dette hotellet var den gang intet mindre enn en skandale. En Peppes Pizza like om neste hjørne var reddningen. Dette var første gang jeg har opplevd at et dårlig kjøkken ødelegger for et opphold som ellers ville ha vært helt topp: Feiring av bryllupsdag.
