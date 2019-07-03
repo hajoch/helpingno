@@ -6,7 +6,7 @@ tags:
 - hotell
 - hotelltest
 - spa
-title: For høyt priset, men flott på Farris.
+title: For høyt priset, men bedre mat nå på Farris.
 excerpt: |2
 
   Kan du tenke deg noe bedre enn å sjekke inn på et rolig og flott hotell i strandkanten hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler, trafikk og folk, bare bølgene som slår mot stranden: Forbrukertest: Farris Bad spa hotell i Larvik: Flott hotell på stranden som blir dyrere og dyrere å bo på. Vi sammenlikner i denne testen to like besøk i 2009 og 2016.
@@ -20,7 +20,9 @@ publish_date:
 weight: 3
 
 ---
-Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken.
+Og du er ved Larvik havn med strandpromenade som tar deg langs havnen til vakre gamle historiske bygninger og parkanlegg med monumenter og historie om både Tor Heyerdahl og Colin Acher ved den gamle kirken. 
+
+Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. DE noe større rommene er flotte slik du forventer.
 
 **Kjøkkenet**  
 Det mest utrolige med dette hotellet i 2009 var likevel at eierne med Peter Stordalen og Rimi-Hagen i spissen hadde ansatt folk på kjøkkenet som ikke kunne lage mat. Kjøkkenet på dette hotellet var den gang intet mindre enn en skandale. En Peppes Pizza like om neste hjørne var reddningen. Dette var første gang jeg har opplevd at et dårlig kjøkken ødelegger for et opphold som ellers ville ha vært helt topp: Feiring av bryllupsdag.
@@ -43,4 +45,4 @@ I 2016 var frokosten like bra som andre hoteller i denne klassen. Det er tydelig
 **Spa**  
 I sommersesongen er det fantastisk å ta på seg badetøy og ta en dukkert i saltvann på stranden like utenfor døra. Når det er kaldere er spatilbudet behagelig. Spa-avdelingen er innbydende med variert tilbud i romlige, flotte lokaler som også har utsikt over stranden fra gode liggestoler. Spesielt her er et lite basseng med vann fra Farriskilden.
 
-Hotellets nettside:[ www.farrisbad.no](http://www.farrisbad.no/) 
+Hotellets nettside:[ www.farrisbad.no](http://www.farrisbad.no/)
