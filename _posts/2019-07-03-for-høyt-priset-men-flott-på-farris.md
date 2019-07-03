@@ -40,7 +40,7 @@ Tottalt sto dette kjøkkenet til stryk i 2009. Vårt råd til hotelleier var kla
 
 I 2016 var frokosten like bra som andre hoteller i denne klassen. Det er tydelig at kjøkkenet nå har fått nytt, godt kvalifisert personale. Gratulerer Farris bad.
 
-Hotellets nettside:[ www.farrisbad.no](http://www.farrisbad.no/) .
-
-Spa  
+**Spa**  
 I sommersesongen er det fantastisk å ta på seg badetøy og ta en dukkert i saltvann på stranden like utenfor døra. Når det er kaldere er spatilbudet behagelig. Spa-avdelingen er innbydende med variert tilbud i romlige, flotte lokaler som også har utsikt over stranden fra gode liggestoler. Spesielt her er et lite basseng med vann fra Farriskilden.
+
+Hotellets nettside:[ www.farrisbad.no](http://www.farrisbad.no/) 
