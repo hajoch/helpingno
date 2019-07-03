@@ -77,11 +77,8 @@ Nå er det solceller på taket som tegl og batteri i huset som vil sikre den mes
 
 \-
 
-Forbrukertest av varmepumpe type: Fujitsu Genaral Gulvmodell R-410A.
-
-Tekniske opplysninger: Utedel: AOHV12LAC  
-Effekt:  
-kjøl 3,5(0,9-4.0)  
+Forbrukertest av varmepumpe type: Fujitsu Genaral Gulvmodell R-410A. Tekniske opplysninger: Utedel: AOHV12LAC  
+Effekt: kjøl 3,5(0,9-4.0)  
  varme 4,5(0,9-6.6)  
 Varme ved -7C: 3,60  
 Lydnivå:  
@@ -106,6 +103,5 @@ Mål innedel: H600mm, B740mm, D200mm, Vekt 14 kg
 Mål utedel: H540mm, B790mm,D290mm, Vekt 36 kg.  
 Mengde kuldemedie: 1050  
 Diameter kjøleledning (Væske/gass) 1/4" - 3,8"  
-Maks rørlengde 20 mm.
-
+Maks rørlengde 20 mm.  
 Pris ferdig montert i 2007 kr. 24.000,-
