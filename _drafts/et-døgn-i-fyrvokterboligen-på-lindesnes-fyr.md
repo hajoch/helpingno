@@ -26,6 +26,8 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 
 **En vakker orkesterplass ved havet.**
 
+**OBS: Siden er under utvikling flere bilder kommer**
+
 | --- |
 |  |
 
