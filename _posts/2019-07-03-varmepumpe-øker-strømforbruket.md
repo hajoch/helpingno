@@ -6,7 +6,7 @@ tags:
 - boligoppvarming
 - boligenergi
 - strøm til oppvarming
-title: 'Varmepumpe øker strømforbruket! '
+title: 'Varmepumpe øker strømforbruket '
 excerpt: 'Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen
   var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig
   i vintersesongene. '
