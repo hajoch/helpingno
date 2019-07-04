@@ -16,7 +16,7 @@ image: "/assets/images/Nidaros7.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/reise.md
+- _category/foto.md
 publish_date: 
 weight: 3
 
