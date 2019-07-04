@@ -16,7 +16,7 @@ tags:
 - lese for barn
 title: Aima - Spennende barnebok
 excerpt: "Aima er ei lita hulder med evner og egenskaper \nsom er mystiske og fremmede
-  for mange av oss"
+  for mange av oss."
 author: _authors/henning-j-grini.md
 weight: 10
 
@@ -24,13 +24,13 @@ weight: 10
 Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.  
 Tegner Berit Anfinsen, Forfatter[ ](http://www.helping.no/gunnar.htm)Gunnar Christensen:
 
-### Les den gratis nå!
+##### Les den gratis nå!
 
 Handlingen i barneboka Aima foregår i norsk natur. Hovedpersonen Aima er ei lita hulder. Som kjent knytter det seg fra gammel tid mye folketro, fantasi og forestillinger til Huldra hvilket har vart helt fram til vår tid.
 
 Slik sett er Aima tuftet på norsk eventyrtradisjon. I boka trekkes forestillingene om hvilke evner og egenskaper hovedpersonen Aima har noe lengre og annerledes enn det man tradisjonelt forbinder med Huldra. Aima er den sterke personen i boka, som Pippi Langstrømpe, men bruker innsikt og intuisjon som sin styrke på en mer smidig og diskret måte.
 
-### "Aimas Pappa"
+##### "Aimas Pappa"
 
 Jeg kan takke barna mine for "Aima", ler Gunnar Christensen, forfatteren av boka:" - Skal du ikke skrive noe for oss barn da, Pappa? Ikke bare kjedelige voksenbøker maste de". Jeg har jo lest utallige barnebøker som "god-natt-historier" på sengekanten for guttene mine, så det var kanskje ikke urealistisk å få til et slikt manus, tenkte jeg. Dermed tok jeg utfordringen.
 
