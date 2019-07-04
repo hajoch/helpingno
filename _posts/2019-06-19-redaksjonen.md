@@ -23,7 +23,7 @@ weight:
 Kontakt-informasjon  
 E-post redaksjonen: helping.red@gmail.com
 
-[**Gunnar Christensen**](http://www.helping.no/gunnar.htm)  
+[**Gunnar Christensen**]()  
 **Ansv.redaktør, styreformann og gründer**  
 Cand.philol - master/lektor, forfatter og journalist
 
