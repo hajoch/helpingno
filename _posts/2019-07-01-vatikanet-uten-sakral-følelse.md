@@ -37,10 +37,9 @@ De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. S
 
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
-Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz  
- - slik at Vatikanet kan tjene enda itt ekstra på å selge bilder i de vatikanske souvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
+Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
 
-En liten souvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
+En liten suvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
 
 Også gateselgernes utvalg utenfor preges av Peterskirken.
