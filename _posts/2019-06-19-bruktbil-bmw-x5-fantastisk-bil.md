@@ -28,4 +28,4 @@ Bremsene er lette å dosere, jevne og fine. Bilen er bygd for hard kjøring og b
 
 Setene er flotte elektriske komfortseter med minne som kan stilles inn på mange måter. Komfortable med god sidestøtte. Testbilen var en 7-seter, men bakerste setene er for små til voksne: Det er barneseter. Baksetesofaen er som om på en stasjonsvogn der de behageligste sitteplassene er på begge sider bak, men midtsetet kan endres til armstøtte.
 
-Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje verdens beste dieselmaskin. BMW var sent ute med dieselmaskiner, men da de først kom for omkring 15 år siden så ble motorene bedre enn dem Mercedes produserer. I dag er Mercedes dieselmotorer som tidligere var ansett som de beste, ikke på langt nær så gode som dem BMW nå produserer. BMW har denne tronen nå.
+Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje verdens beste dieselmaskin? BMW var sent ute med dieselmaskiner, men da de først kom for drøye 15 år siden så ble motorene bedre enn dem Mercedes produserer. I dag er Mercedes dieselmotorer som tidligere var ansett som de beste, ikke på langt nær så gode som dem BMW nå produserer. BMW har denne tronen nå.
