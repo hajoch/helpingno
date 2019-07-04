@@ -46,14 +46,10 @@ Og overraskelsen var stor da dette gikk svært så udramatisk. Jeg la farten på
 Etter ca. 5 timers tur kom vi inn i smult farvann innenfor Drøbak. Vi la oss i ca 40 knop for å kjenne farten. Det var en like stødig og sikker opplevelse.
 
 **Skvalpesjø**  
-Indre Oslofjord er vel kjent for betydelig skvalpesjø, ikke minst på flotte ettermiddager med solgangsbris og endeløst mange båter i mer eller mindre for høy fart. Også dette takler Yamarinen avbalansert og rolig - knapt merkbart.
-
-Der andre båteiere beklager seg over urolig skvalpesjø klarer denne båten sjøene uten ubehag ombord.
+Indre Oslofjord er vel kjent for betydelig skvalpesjø, ikke minst på flotte ettermiddager med solgangsbris og endeløst mange båter i mer eller mindre for høy fart. Også dette takler Yamarinen avbalansert og rolig - knapt merkbart. Der andre båteiere beklager seg over urolig skvalpesjø klarer denne båten sjøene uten ubehag ombord.
 
 **Motor**   
-En svært viktig del av båten er motoriseringen. 250 hk Yamaha er en 6 sylindret 4-takts maskin på 3,4 liter som imponerer tilsvarende.
-
-Den fører båten raskt og uanstrengt i plan, uten nevneverdig planingsterskel. Den er avdempet og stillegående, men gir samtidig en potent, kraftfull lyd ved pådrag.
+En svært viktig del av båten er motoriseringen. 250 hk Yamaha er en 6 sylindret 4-takts maskin på 3,4 liter som imponerer tilsvarende. Den fører båten raskt og uanstrengt i plan, uten nevneverdig planingsterskel. Den er avdempet og stillegående, men gir samtidig en potent, kraftfull lyd ved pådrag.
 
 **Konklusjon - båt og motor**  
 Dette er en båt for de som ønsker en velutstyrt familievennlig daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring, tube mv. Samtidig som du har muligheten for lengre turer utaskjærs - sportslige "offshoreturer" til Skagen el.l. - noe som kanskje helst appellerer til far i huset?
