@@ -2,7 +2,11 @@
 layout: post
 date: 2019-06-24 15:59:26 +0200
 crop_image: true
-tags: []
+tags:
+- foto
+- hobby
+- digital fotografering og filming
+- bilder
 title: Digitale bilder og film
 excerpt: Har du sikret bilder og filmer mot husbrann, pc-kollaps, usikre skyer, mobiltyveri
   og innbrudd?
@@ -11,17 +15,17 @@ image_caption: "Foto:Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 6
 
 ---
 **Digitalfoto: Ta sikkerhetskopi.**
 
-Digitalfoto har overtatt fotomarkedet. Dette betyr at vi ikke lengre har negativer "trygt "oppbevart i skuffen som vi kan hente fram nye kopier av når behovet er der. Nå lagres billedinformasjonen digitalt på en memory-brikke d.v.s. kameraets hukommelse. Eller på en såkalt "sky".
+Digitalfoto har overtatt fotomarkedet. Dette betyr at vi ikke lengre har negativer "trygt "oppbevart i skuffen som vi kan hente fram nye kopier av når behovet er der. Nå lagres bildelinformasjonen digitalt på en memory-brikke d.v.s. kameraets hukommelse. Eller på en såkalt "sky".
 
 Mange har mistet verdifulle minner i form av bilder som følge av dette systemet: For når vi overfører bildene fra digitalkameraet til PC'en blir ofte bildene på memory-brikken i kameraet slettet slik at vi får plass til nye bilder. Og om ikke PCen klarer å holde på de nye bildene så er du ille ute. Behold bildene på originalbrikken som en akstra packup og kjøp ny brikke i god tid før den gamle ikke har mer plass.
 
-Så ikke la datamaskinen din tømme brikken. Vær sikker på at du har bildene sikkert forvart på en CD eller ekstern HD eller på en sky om då stoler på skyens personvern. Flere lagringsalternativer i bruk er den beste sikkerhetskopi du kan ha med dette systemet. Spør deg også om du har sikret deg mot husbrann? Noen leier bankboks til bilder.
+Så ikke la datamaskinen din tømme brikken. Vær sikker på at du har bildene sikkert forvart på en CD eller ekstern HD eller på en sky om du stoler på skyens personvern. Flere lagring-alternativer i bruk er den beste sikkerhetskopi du kan ha med dette systemet. Spør deg også om du har sikret deg mot husbrann? Noen leier bankboks til bilder.
 
 Det kan være lurt å finne en mappe eller eske til å samle disse CD sikkerhetskopiene i så de er like sikkert forvart som de gamle negativene. Forutsatt at CDen er like holdbare som de gamle negativene.  
 Bruker du ekstern HD så ta gjerne kopi på to slike.
@@ -30,9 +34,9 @@ Og om uhellet er ute: Du har mistet bilder. Bildene er blitt slette fra memory-k
 
 Da er ikke alt håp ute. Det finnes firmaer som kan rekonstruere bilder fra en memory-brikke, men det er dyr fornøyelse. I vår redaksjon ble verdifulle bilder borte: PCen kan være lunefull og bildene hadde ikke rukket å komme til sikkerhetskopi fordi vi ikke ventet med å slette brikken før alt var vel på plass på CDen.
 
-Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få de savnede bildene. Vi ble da tilbudt å rekontruere HD en på PCen for kr. 9.000,-. Da sa vi stopp.
+Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få de savnede bildene. Vi ble da tilbudt å rekonstruere HD en på PCen for kr. 9.000,-. Da sa vi stopp.
 
-Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup for bildene dine. Vi garderer oss med å ha bildene på 3 PCer og to ekstrene HD nå. Backup i bankboksen.
+Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup for bildene dine. Vi garderer oss med å ha bildene på 3 PCer og to eksterne HD nå. Backup i bankboksen.
 
 **Digitalfilm:**  
 Brenn inn på DVD eller ekstern HD  
@@ -46,7 +50,7 @@ Har du Video 8, Video Hi 8 eller 8 mm smalfilm kan du lett havne i den situasjon
 
 På DVD eller HD blir videoene også mer tilgjengelig når du har lyst til å se gamle opptak. En DVD-plate rett i en DVD-spiller og fremvisningen er i gang.
 
-For mange blir privatopptakene mer verdifulle med årne. I tillegg blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
+For mange blir privatopptakene mer verdifulle med årene. I tillegg blir dine opptak bevart for nye slektledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
 
 **Digitalkamera:**  
 Minnebrikkene går ut på dato.  
@@ -54,7 +58,7 @@ Minnebrikker er en del av utstyret i digitalkameraene. De har forskjellig lagrin
 
 Vi får opplyst at disse minnebrikkene kan fylles og tømmes etter ønske og behov. Det du ikke får opplyst er at også slike minnebrikker kan bli slitne og dårlige eller gå ut på dato.
 
-Minnebrikkene kan sammeliknes med de oppladbare batteriene som også har en viss levetid der de kan lades opp og brukes et antall ganger, så er det plutselig slutt. Det gode råd her er derfor å ta sikkerhetskopier og skifte minnebrikke når du merker problemer.
+Minnebrikkene kan sammenliknes med de oppadbare batteriene som også har en viss levetid der de kan lades opp og brukes et antall ganger, så er det plutselig slutt. Det gode råd her er derfor å ta sikkerhetskopier og skifte minnebrikke når du merker problemer.
 
 Formater minnebrikkene etter at du har tømt dem. Ha alltid kopier av bildene dine på CD eller HD.
 
@@ -65,6 +69,6 @@ Nye kamera fremstilles som mye bedre enn de som kun er ett til to år eldre. Sli
 
 Realiteten er at brukere ikke kaster kameraet etter to års bruk, men baserer seg på å ha kameraet over flere år fordi kameraet som er innkjøpt dekker de behov bruker har.
 
-Viktig når man kjøper kamera er å forsikre seg om at optikken er bra. Det er objektivets kvaliteter som er og alltid har vært viktigst på et kamera. Megapiksler er også viktig å se til, men ikke så avgjørende som mange vil ha det til. De fleste nye kameraer i dag har mer en nok megapiksler tilstrekkelig for det fleste bruksområder.
+Viktig når man kjøper kamera er å forsikre seg om at optikken er bra. Det er objektivets kvaliteter som er og alltid har vært viktigst på et kamera. Mega-piksler er også viktig å se til, men ikke så avgjørende som mange vil ha det til. De fleste nye kameraer i dag har mer en nok mega-piksler tilstrekkelig for det fleste bruksområder.
 
-Poenget her er at du trenger ikke det nyeste av digitalkamera for å ta gode bilder. Hold kameraet rolig når du tar bildet. Det er viktigst for skarpheten. Tenk gjennom bildets komposisjon. Og alle de øvrige gode gamle reglene for å ta bilder. Så får du gode resultater. Les mer om å [ta bilder](http://www.helping.no/fototips.htm).
+Poenget her er at du trenger ikke det nyeste av digitalkamera for å ta gode bilder. Hold kameraet rolig når du tar bildet. Det er viktigst for skarpheten. Tenk gjennom bildets komposisjon. Og alle de øvrige gode gamle reglene for å ta bilder. Så får du gode resultater.
