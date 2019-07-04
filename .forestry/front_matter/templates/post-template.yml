@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
+- _posts/2019-06-20-fritidsparker.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
