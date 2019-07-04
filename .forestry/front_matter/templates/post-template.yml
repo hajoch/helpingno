@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-19-om-oss.md
