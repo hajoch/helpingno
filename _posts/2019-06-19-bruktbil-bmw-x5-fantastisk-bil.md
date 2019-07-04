@@ -8,7 +8,7 @@ tags:
 - 'BMW '
 - SUV
 title: 'BMW X5: Fantastisk bil'
-excerpt: 'Bruktbil: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje
+excerpt: 'Bruktbiltest: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje
   verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
 image_caption: Foto Ole T Moy
