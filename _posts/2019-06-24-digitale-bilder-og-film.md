@@ -23,7 +23,7 @@ weight: 6
 
 Digitalfoto har overtatt fotomarkedet. Dette betyr at vi ikke lengre har negativer "trygt "oppbevart i skuffen som vi kan hente fram nye kopier av når behovet er der. Nå lagres bildelinformasjonen digitalt på en memory-brikke d.v.s. kameraets hukommelse. Eller på en såkalt "sky".
 
-Mange har mistet verdifulle minner i form av bilder som følge av dette systemet: For når vi overfører bildene fra digitalkameraet til PC'en blir ofte bildene på memory-brikken i kameraet slettet slik at vi får plass til nye bilder. Og om ikke PCen klarer å holde på de nye bildene så er du ille ute. Behold bildene på originalbrikken som en akstra packup og kjøp ny brikke i god tid før den gamle ikke har mer plass.
+Mange har mistet verdifulle minner i form av bilder som følge av dette systemet: For når vi overfører bildene fra digitalkameraet til PC'en blir ofte bildene på memory-brikken i kameraet slettet slik at vi får plass til nye bilder. Og om ikke PCen klarer å holde på de nye bildene så er du ille ute. Behold bildene på originalbrikken som en ekstra back-up og kjøp ny brikke i god tid før den gamle ikke har mer plass.
 
 Så ikke la datamaskinen din tømme brikken. Vær sikker på at du har bildene sikkert forvart på en CD eller ekstern HD eller på en sky om du stoler på skyens personvern. Flere lagring-alternativer i bruk er den beste sikkerhetskopi du kan ha med dette systemet. Spør deg også om du har sikret deg mot husbrann? Noen leier bankboks til bilder.
 
@@ -40,7 +40,7 @@ Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup
 
 **Digitalfilm:**  
 Brenn inn på DVD eller ekstern HD  
-Videokamera i dag har oftest opptak direkte på en harddisk. Husk da sikkerhetskopiering av dine opptak. Har du digitalt videokamera såkalt DV med tape er det klokt å brenne disse opptakene over på DVD. Eller anndre digitale lagringsløsninger.
+Videokamera i dag har oftest opptak direkte på en harddisk. Husk da sikkerhetskopiering av dine opptak. Har du digitalt videokamera såkalt DV med tape er det klokt å brenne disse opptakene over på DVD. Eller andre digitale lagring-løsninger.
 
 Ta gjerne flere sikkerhetskopier av DVD/ekstern HD og kanskje oppbevare en kopi i en bankboks som en ekstra sikkerhet i tilfelle brann eller innbrudd?
 
