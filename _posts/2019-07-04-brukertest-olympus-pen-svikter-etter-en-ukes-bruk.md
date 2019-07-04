@@ -54,3 +54,13 @@ Der glapp Olymus gode rykte for oss: Dette var vårt første møte med den digit
 Mange velger kjente merker som bl.a. Olympus for å sikre seg kvalitetsvare: Olympus har som kjent levert en rekke gode modeller både av speilrefleks og kompaktkamera i en årrekke før den digitale revolusjonen. Olympus forbindes derfor med kvalitet. Hva er kvalitet? I markedsføring heter det at "kvalitet" er "det folk vil ha". Pålitelighet er naturligvis her et must. Alle forventer pålitelighet og god service i dette markedet i dag. Olympus er tydeligvis ikke hva det en gang var.
 
 Hvis dette kameraet er representativt for hybridkameraene så har speilrefleks intet å frykte. Vi ser dessuten at Olympus PEN ikke lengre er et kamera kjedene satser på. Dette kan være tegn på sviktende salg eller den generelle monopoliseringen av vareutvalg i butikkene. Kjedene satser nå tungt på Nikon, Canon og Sony og speilrefleks selger fremdeles med stadig lettere og mer brukervennlige modeller.
+
+**Netthandel hos Expert - nå Power**   
+Vi kjøpte Olympus-kameraet via annonse på finn.no hos Exspert-forhandleren i Sandnes. Det ble nå interessant å teste servicen hos Expert-kjeden. Jeg oppdaget straks at kjeden ikke fungerer som kjede. For Expert i Arendal ville ikke ta imot kameraet til annet enn service liksom enhver annen forhandler av fotoutstyr. Alle andre alternativer henvises til Sandnes. Det betyr dyr porto og lang venting.
+
+Etter at feilen oppsto på PEN, fryktet jeg naturlig nok dårlig kvalitet på Olympus og ville derfor nå benytte meg av angrefristloven og levere tilbake dette kameraet før angrefristen gikk ut på dato.
+
+**Feil eller useriøs?**  
+Kameraet ble derfor returnert til forhandler i Sandnes som opplyste meg på e-mail at det ikke var feil ved kameraet. Dette var underlig. Da kameraet ble forevist Expertforhandleren i Arendal ble det konstatert feil på kameraet og forhandleren der hadde samme oppfatning av feil på kameraet som jeg selv hadde. Hva har skjedd? Kan ristingen i pakkeposten tilbake til forhandler ha vært det som skulle til for at feilen rettet seg? Noe som hadde hengt seg opp og rettet seg igjen? Eller vil ikke forhandler innrømme feil, men lover likevel å returnere kjøpesummen? Spørsmålene blir stående ubesvart. Uansett hva som har skjedd med kameraet rent teknisk så er dette trist for Olympus som en gang var flotte kameraer.
+
+Kameraet ble bekreftet mottatt og salgssummen ble lovet returnert fra Expert-forhandleren i Sandnes, men det tok over fire uker med purring via finn.no sitt betalingssystem før pengene endelig kom i retur på konto. At det skal være behov for purring og klage via en tredjepart for å få returnert kjøpesummen er useriøst og for dårlig. Se opp for netthandel med dette firmaet: Power i Sandnes.
