@@ -11,7 +11,9 @@ tags:
 - Yamaha
 - daycruiser
 title: YAMARIN 76 DC med 250 hk Yamaha
-excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
+excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt familievennlig
+  daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
+  tube mv. '
 image: "/assets/images/ya33.jpg"
 image_caption: 'Foto GC : Yamarin 76 DC'
 categories:
@@ -20,9 +22,10 @@ publish_date:
 weight: 5
 
 ---
-**Fakta om YAMARIN 76 DC med Yamaha**
+**YAMARIN 76 DC med Yamaha.**
 
-Tekniske data testbåt:Lengde 7,52 mBredde 2,60 mVekt båt 1500 kgMax personer: 8Motorstyrke 150 - 300 hkVeil utsalgspris med 250 hk Yamaha V6 3,4 liter 4T.ca. kr. 700.000,-Vekt motor 280 kg.
+**Tekniske data testbåt:**   
+Lengde 7,52 m. Bredde 2,60 m. Vekt båt 1500 kg. Max personer: 8 Motorstyrke 150 - 300 hk. Veil utsalgspris med 250 hk Yamaha V6 3,4 liter 4T. ca. kr. 700.000,- i 2007. Vekt motor 280 kg.
 
 **Båten:**  
 Dessverre ble sommeren 2007 ikke det noen håpet, aller minst for nybakte båteiere med store forventninger til mange hyggestunder om bord. Lkevel, noen turer fikk vi - og båten ble vi godt kjent med i løpet av sommeren.
@@ -51,7 +54,7 @@ Etter ca. 5 timers tur kom vi inn i smult farvann innenfor Drøbak. Vi la oss i 
 **Skvalpesjø**  
 Indre Oslofjord er vel kjent for betydelig skvalpesjø, ikke minst på flotte ettermiddager med solgangsbris og endeløst mange båter i mer eller mindre for høy fart. Også dette takler Yamarinen avbalansert og rolig - knapt merkbart. Der andre båteiere beklager seg over urolig skvalpesjø klarer denne båten sjøene uten ubehag ombord.
 
-**Motor**   
+**Motor**  
 En svært viktig del av båten er motoriseringen. 250 hk Yamaha er en 6 sylindret 4-takts maskin på 3,4 liter som imponerer tilsvarende. Den fører båten raskt og uanstrengt i plan, uten nevneverdig planingsterskel. Den er avdempet og stillegående, men gir samtidig en potent, kraftfull lyd ved pådrag.
 
 **Konklusjon - båt og motor**  
