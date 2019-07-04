@@ -71,13 +71,13 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
-- _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
