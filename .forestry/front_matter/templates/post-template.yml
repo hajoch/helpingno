@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
@@ -175,7 +176,6 @@ pages:
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-20-bussduellen-oslo-sørlandet.md
-- _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-14-sesonger-med-pioner-8-barnas-favoritt.md
 - _posts/2019-06-20-3-sesonger-med-rana-plast-530.md
