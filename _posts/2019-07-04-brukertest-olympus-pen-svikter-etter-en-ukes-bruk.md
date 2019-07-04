@@ -55,7 +55,7 @@ Mange velger kjente merker som bl.a. Olympus for å sikre seg kvalitetsvare: Oly
 
 Hvis dette kameraet er representativt for hybridkameraene så har speilrefleks intet å frykte. Vi ser dessuten at Olympus PEN ikke lengre er et kamera kjedene satser på. Dette kan være tegn på sviktende salg eller den generelle monopoliseringen av vareutvalg i butikkene. Kjedene satser nå tungt på Nikon, Canon og Sony og speilrefleks selger fremdeles med stadig lettere og mer brukervennlige modeller.
 
-**Netthandel hos Expert - nå Power**   
+**Netthandel hos Expert - nå Power - dyrere enn over disk på grunn av store portoutgifter mm.**  
 Vi kjøpte Olympus-kameraet via annonse på finn.no hos Exspert-forhandleren i Sandnes. Det ble nå interessant å teste servicen hos Expert-kjeden. Jeg oppdaget straks at kjeden ikke fungerer som kjede. For Expert i Arendal ville ikke ta imot kameraet til annet enn service liksom enhver annen forhandler av fotoutstyr. Alle andre alternativer henvises til Sandnes. Det betyr dyr porto og lang venting.
 
 Etter at feilen oppsto på PEN, fryktet jeg naturlig nok dårlig kvalitet på Olympus og ville derfor nå benytte meg av angrefristloven og levere tilbake dette kameraet før angrefristen gikk ut på dato.
