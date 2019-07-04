@@ -8,7 +8,7 @@ tags:
 - båtliv
 - båttest
 title: YAMARIN 76 DC med 250 hk Yamaha
-excerpt: 'Forbrukertest - bruktbåt: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
+excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
 image: "/assets/images/ya33.jpg"
 image_caption: 'Foto GC : Yamarin 76 DC'
 categories:
