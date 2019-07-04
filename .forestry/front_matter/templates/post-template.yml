@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
@@ -82,7 +83,6 @@ pages:
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-07-01-roma-estetikkens-by.md
-- _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
