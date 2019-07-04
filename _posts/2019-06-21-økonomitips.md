@@ -2,7 +2,11 @@
 layout: post
 date: 2019-06-21 11:49:09 +0200
 crop_image: true
-tags: []
+tags:
+- økonomi
+- sparetips
+- investering
+- personlig økonomi
 title: Økonomitips
 excerpt: Gode råd i personlig økonomi
 image: "/assets/images/bruktbat.jpg"
@@ -10,21 +14,19 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/økonomi.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 7
 
 ---
 **Slik sparer du penger**  
-Sjekk om du har det rimeligste tilbud  
-innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)
+Sjekk om du har det rimeligste tilbud innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)
 
 Sjekk om du har rimeligst strømtilbud på:  
 [www.konkurransetilsynet.no](http://www.konkurransetilsynet.no/)
 
-Sjekk om du har det rimeligste  
-tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
+Sjekk om du har det rimeligste tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
 
-[Økonimi-tips](http://helping.no/oko.oko.htm)
+Økonomi-tips
 
 Slik fungerer økonomien: Ray Dalio forklare deg personlig  
 økonomi og samfunnsøkonomi enkelt og lettfattelig:  
@@ -37,14 +39,14 @@ Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det hetes
 Det er ofte små-sparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover  
 i tid er svaret nei.
 
-Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene er lave. Da er der ingen ofensiv markedsføring av aksjer og aksjefond. Da skriver pressen om store tap i aksjemarkedet og få privatkunder ønsker derfor å kjøpe. Småsparere selger sine aksjer og aksjefondsandeler med store tap.
+Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene er lave. Da er der ingen offensiv markedsføring av aksjer og aksjefond. Da skriver pressen om store tap i aksjemarkedet og få privatkunder ønsker derfor å kjøpe. Små-sparere selger sine aksjer og aksjefondsandeler med store tap.
 
 Det er da de profesjonelle aktørene går med tyngde inn i markedet med sine aksjeoppkjøp til lave kurser: For de vet at kursene vil gå opp senere og de har mye å tjene på å kjøpe. De vurderer tidspunktet nøye: Når er markedet på det laveste før oppgangen?
 
-**Låne billig til huskjøp av staten?**  
+**Låne billig til hus-kjøp av staten?**  
 Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
 
-**Ung huskjøper**  
+**Ung hus-kjøper**  
 Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
 [husbanken.no/lan/soke-startlan/](http://www.husbanken.no/lan/soke-startlan/)
 
