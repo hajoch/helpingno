@@ -1,9 +1,22 @@
 ---
 layout: post
-date: 2019-06-18 13:50:51 +0200
+date: 2019-06-18T11:50:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Afrika
+- Gambia
+- Kinta Kunte
+- slaveøya
+- slavehandel
+- tropeøy
+- Banjul
+- fangeøya
+- minnesmerke
+- historisk
+- turisme
+- Juffre
+- slaveskipshavn
 title: 'Blodigste minnesmerke: Slaveøya'
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
@@ -15,12 +28,13 @@ publish_date:
 weight: 4
 
 ---
-* James Island! Svakt stryrbord! Se opp for sandbanken!
+\-James Island!   
+Svakt stryrbord! Se opp for sandbanken!
 
 Den spanske kapteinen peker med sin store jungelkniv. Som en kaptein Sabeltann i det virkelige liv. Han tar et grådig jafs av den ferske melonen, kaster raskt skorpen over rekka og brøler beskjed til rormannen.
 
-\- Ci ci, kaptein, svarer et kullsort ansikt under vidbremmet hatt ved roret. **  
-\**Spenningen stiger ombord med tanken på å gå ned tauleideren som nå kastes ned skutesiden for å gå i de slitne, overfylte lettbåtene som frakter oss i land på øya.  
+\- Ci ci, kaptein, svarer et kullsort ansikt under vidbremmet hatt ved roret.  
+Spenningen stiger ombord med tanken på å gå ned tauleideren som nå kastes ned skutesiden for å gå i de slitne, overfylte lettbåtene som frakter oss i land på øya.  
 \- Redningsvester?  
 \- Hva er det madaammme?
 
