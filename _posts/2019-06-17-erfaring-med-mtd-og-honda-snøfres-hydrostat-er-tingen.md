@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2019-06-17 22:15:55 +0200
+date: 2019-06-17T20:15:55.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
 title: 'Erfaring med MTD og Honda snøfres: Hydrostat er tingen'
-excerpt: Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har sine
-  modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra de ulike
-  selgerne.
+excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
+  sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
+  de ulike selgerne: Det er stor forskjell på kvaliteten.'
 image: "/assets/images/mtd1.jpg"
 image_caption: ''
 categories:
@@ -39,19 +39,19 @@ En kanadisk snøfreser som ikke tåler kulde?
 **Begynnererfaring**  
 Dette er en typisk begynnererfaring. Man ser på pris og stoler for mye på selger. Spør heller andre eiere av freser når du treffer dem om vinteren. Be om anbefalinger på hvilket merke som menes best og erfaringene med egen freser ut i fra behovene til den enkelte bruker. Definer så ditt eget behov for snøfreser.
 
-Andre kjøp er en Honda  
+**Andre kjøp er en Honda**  
 En nabo hadde en gammel Honda freser fra begynnelsen av åttitallet. Han hjalp til når min MTD måtte på verksted tre ganger på en vinter. Det forundret meg at denne gamle freseren med syv hestekrefter kastet snøen flere meter opp i luften og gikk uten feil år etter år.
 
-Hydrostat er bedre  
+**Hydrostat er bedre**  
 Neste sesong bar det til Honda-forhandler: En Honda-freser på 8hk type 970 med snorstart, hydrostat med hjul kostet 29 tusen spenn, men jeg fikk en fjorårsmodell lite brukt for 22 spenn med kjetting og ett års garanti. Mer enn nok dyrt synes jeg: Omkring det dobbelte av hva jeg hadde gitt for MTDen i sin tid. Og MTD-en ville Honda-forhandleren ikke ta i innbytte. Den måtte selges gjennom annonse på nett.
 
 **Splinten ryker unødig ofte på Honda.**  
 Sesongen med Honda-freser ga både skuffelser og gleder. Her var det hydrostat noe som forklarer den mye høyere prisen. Dernest var det slutt på problemet med kastelengden. Den kaster lengre enn jeg trengte og tok i tillegg også våt snø, noe MTDen ikke klarte. Ulempen var imidlertid at splinten ryker betydelig oftere: Tre ganger på en sesong så langt: Og den innerste splinten var så utilgjengelig og vanskelig å nå med dårlig rygg at jeg måtte til verksted for å skifte den. Kun en råtten furukjepp skulle til - så røk den. Splintene på Honda virker unødig skjøre.
 
 Honda er nå testet i fem sesonger. Og den klarer jobben.  
-Den har slitestyrke bedre enn MTDen.
+Den har slitestyrke betydelig bedre enn MTDen.
 
-Men hvorfor har de fleste Honda-selgerne og reperatører selv skaffet seg Honda-snøfresere fra åttitallet? Disse gamle freserne har dårlig sikkerhet om freseren tetter seg.  
+Men hvorfor har de fleste Honda-selgerne og reparatører selv skaffet seg Honda-snøfresere fra åttitallet? Disse gamle freserne har dårlig sikkerhet om freseren tetter seg.  
 Er det som med plenklipperne til Honda at det er de gamle Honda-plenklipperne som er de beste?
 
 **Konklusjon**  
