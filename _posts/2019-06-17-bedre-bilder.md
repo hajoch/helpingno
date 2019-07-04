@@ -3,8 +3,12 @@ layout: post
 date: 2019-06-17T15:36:26.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: Bedre bilder
+tags:
+- foto
+- foto digital bilde
+- fototips
+- slik tar du bedre bilder
+title: Ta bedre bilder
 excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
   gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
@@ -13,7 +17,7 @@ image: "/assets/images/nov.14.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/foto.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 7
 
 ---
