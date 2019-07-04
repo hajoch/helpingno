@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
@@ -234,7 +235,6 @@ pages:
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-folkeaksjonen-mot-uønsket-telefonsalg.md
-- _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
 - _posts/2019-06-18-sorg-i-bøker.md
 - _posts/2019-06-18-prestasjonsangst.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md

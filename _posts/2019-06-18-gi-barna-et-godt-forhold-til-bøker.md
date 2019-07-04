@@ -1,20 +1,26 @@
 ---
 layout: post
-date: 2019-06-18 11:53:08 +0200
+date: 2019-06-18T09:53:08.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- barn
+- barn bøker lese
+- barnebøker
+- lese for barn
+- motivasjon til å lære å lese og skrive
+- samtalen
+- kosen
 title: Gi barna et godt  forhold til bøker
-excerpt: 'Opplev den nærhet og  fortrolighet som boka kan gi  '
+excerpt: 'Opplev den nærhet og  fortrolighet som boka kan gi.  '
 image: "/assets/images/gutt.jpg"
 image_caption: Illustrasjon Anne Bakke
 categories:
 - _category/boker.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 8
 
 ---
-
 Det er viktig å lese for barn i førskolealder. Slik lærer de å forstå poenget med å lære å lese og skrive når de begynner på skolen   
 \- i en mediatid der mye kommer til dem via TV, mobil, spill og film.
 
