@@ -34,7 +34,7 @@ Olympus PEN kommer også med innebygd blits. En "Gadgetliknende" sak som skvette
 Er dette kameraet like lett å bruke som et kompaktkamera? Når det gjelder innstillinger og valgmuligheter så vil mange kompaktkamerabruker kjenne seg igjen. Men klargjøring av zoomlinsa til bruk krever et ekstra grep med å trykke og vri objektivet på plass før bruk. Dette forhindrer en rask reaksjon. Jeg opplevde å få kameraet for sent i skuddklar posisjon ved flere anledninger på grunn av dette. Nå vil bruk over lengre tid gjøre dette til en rask rutine, men mer plundrete enn kompaktkameraet er det likevel. Når kameraet først er skuddklart så leverer det gode kvalitetsbilder.
 
 **Test skarphetsduell**  
-Vi testet hundre bilder tatt med [Nikon D3100](http://www.helping.no/nikon.htm) med standardobjektiv opp mot like mange bilder tatt med Olympus PEN hybridkameraet med standardobjektiv.
+Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv opp mot like mange bilder tatt med Olympus PEN hybridkameraet med standardobjektiv.
 
 Testen ble tatt ved å sette samme type SD-kortet fra de to kameraene direkte inn i en ny Phanasinic Plasma 42 tommers full HD-TV. Testet var en stor overraskelse. Vi kunne tydelig se at Nikons bilder var skarpere og klarere enn Olympus. Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er standard på Nikon D3100 i Norge så absolutt holder mål i test.
 
@@ -48,7 +48,7 @@ Før kameraet streiket hadde vi følelsen av et kvalitetskamera. Det hadde bl.a.
 
 Kameraet funket en uke så begynner problemet: Olympus PEN ville ikke autofokusere. Linsen låste seg plutselig i en bestemt posisjon og bare dirret ved forsøk på å ta bilder. Ulyden kommer også fra linsa. I tillegg får vi ikke tatt bilder på "Auto". Kun på manuell får vi trukket av på utløseren uten at kameraet fungerer som det skal på manuell. Feilen virker permanent. Det samme skjer hele tiden igjen og igjen selv etter mange forsøk på å slå av og starte på nytt.
 
-Der glapp Olymus gode rykte for oss: Dette var vårt første møte med den digitale Olympus. 
+Der glapp Olymus gode rykte for oss: Dette var vårt første møte med den digitale Olympus.
 
 **Kvalitet og konklusjon**  
 Mange velger kjente merker som bl.a. Olympus for å sikre seg kvalitetsvare: Olympus har som kjent levert en rekke gode modeller både av speilrefleks og kompaktkamera i en årrekke før den digitale revolusjonen. Olympus forbindes derfor med kvalitet. Hva er kvalitet? I markedsføring heter det at "kvalitet" er "det folk vil ha". Pålitelighet er naturligvis her et must. Alle forventer pålitelighet og god service i dette markedet i dag. Olympus er tydeligvis ikke hva det en gang var.
