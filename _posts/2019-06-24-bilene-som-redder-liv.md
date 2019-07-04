@@ -2,7 +2,10 @@
 layout: post
 date: 2019-06-24 12:22:35 +0200
 crop_image: true
-tags: []
+tags:
+- bil
+- kollisjonssikkerhet
+- biltest
 title: Bilene som redder liv
 excerpt: Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp av ny
   og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs
@@ -10,11 +13,11 @@ excerpt: Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp
   for bilvalget ditt. Forskjellen på de sikreste og de dårligste bilene kan bety liv
   eller død for deg om uhellet er ute i trafikken.
 image: "/assets/images/ncap.jpg"
-image_caption: ''
+image_caption: Foto NCAP
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 5
 
 ---
