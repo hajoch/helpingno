@@ -12,8 +12,8 @@ excerpt: |-
   Olympus PEN E-P1 gjør et fint førsteinntrykk. Hele familien liker kameraet og det gir alle sitt beste på "Auto" og fotointeresserte det lille ekstra på sine ekstrainnstillinger på andre programvalg.
   Vi fikk ikke prøvd kameraet på full HD-filming før det streiket.
   Olympus virket solid skrudd sammen og føles tung for størrelsen. Det borger vanligvis for solid metall og ikke mange spinkle plastløsninger. I tillegg tar kameraet gode bilder i dagslys og er brukervennlig.
-image: "/assets/images/granc.jpg"
-image_caption: 'Foto Gunnar Christensen: Grand Canaria med Olympus PEN'
+image: "/assets/images/olympus.jpg"
+image_caption: Foto Olympus PEN
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
