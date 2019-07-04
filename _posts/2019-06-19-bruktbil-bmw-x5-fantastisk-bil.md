@@ -3,12 +3,15 @@ layout: post
 date: 2019-06-19T08:04:26.000+00:00
 crop_image: true
 author: _authors/ole-t-moy.md
-tags: []
+tags:
+- bil
+- 'BMW '
+- SUV
 title: 'BMW X5: Fantastisk bil'
 excerpt: 'Bruktbil: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje
   verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
-image_caption: ''
+image_caption: Foto Ole T Moy
 categories:
 - _category/bil.md
 publish_date: 
@@ -26,6 +29,3 @@ Bremsene er lette å dosere, jevne og fine. Bilen er bygd for hard kjøring og b
 Setene er flotte elektriske komfortseter med minne som kan stilles inn på mange måter. Komfortable med god sidestøtte. Testbilen var en 7-seter, men bakerste setene er for små til voksne: Det er barneseter. Baksetesofaen er som om på en stasjonsvogn der de behageligste sitteplassene er på begge sider bak, men midtsetet kan endres til armstøtte.
 
 Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje verdens beste dieselmaskin. BMW var sent ute med dieselmaskiner, men da de først kom for omkring 15 år siden så ble motorene bedre enn dem Mercedes produserer. I dag er Mercedes dieselmotorer som tidligere var ansett som de beste, ikke på langt nær så gode som dem BMW nå produserer. BMW har denne tronen nå.
-
-Les også test:  
-[BMW 530 XD Touring](http://www.helping.no/bmw.htm)
