@@ -8,10 +8,10 @@ tags:
 - Trondheim
 title: Nidarosdomen Nordens største middelalderkirke
 excerpt: Nidarosdomen ble oppført der Olav den hellige ble gravlagt etter slaget på
-  Stiklestad.  I1814 ble det tatt inn i grunnloven at Nidarosdomen skulle være landets
-  kroningskirke. Dette er Norges opprinnelige erkebiskopkirke og Nordens største middelalderkirke
-  hele 102 meter lang, 50 meter bred og 21 meter høy under kipets hvelv. Skipet er
-  91 meter høyt.
+  Stiklestad. I 1814 ble det tatt inn i grunnloven at Nidarosdomen skulle være landets
+  kroningskirke. Dette er Norges opprinnelige erkebiskop-kirke og Nordens største
+  middelalderkirke hele 102 meter lang, 50 meter bred og 21 meter høy under skipets
+  hvelv. Skipet er 91 meter høyt.
 image: "/assets/images/Nidaros7.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
