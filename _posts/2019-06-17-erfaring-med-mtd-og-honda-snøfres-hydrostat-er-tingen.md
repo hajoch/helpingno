@@ -3,7 +3,9 @@ layout: post
 date: 2019-06-17T20:15:55.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- snøfreser
+- vinterutstyr
 title: 'Erfaring med MTD og Honda snøfres: Hydrostat er tingen'
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
