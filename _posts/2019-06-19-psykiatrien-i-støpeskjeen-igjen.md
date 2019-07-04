@@ -18,10 +18,10 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 1
+weight: 0
 
 ---
-Reiulv Steen, den gamle ulv, kritiserer i Dagsavisen den fjerde november 2007 Rådet for psykisk helse. Å gjøre dette er nesten som å utfordre hin Rådet for høg moral. Men han har rett og sikkert også støtte fra andre fagpersoner enn meg.
+Reiulv Steen, den gamle ulv, kritiserte i Dagsavisen den fjerde november 2007 Rådet for psykisk helse. Å gjøre dette er nesten som å utfordre hin Rådet for høg moral. Men han har rett og sikkert også støtte fra andre fagpersoner enn meg.
 
 Nå kommer det noen kroner til psykiatrien igjen. Og da har vi muligheten til å diskutere litt. Og kanskje endog tenke litt høyt. Vi må både ha flere innleggelsesmuligheter og flere til å hjelpe de psykisk syke som ikke trenger innleggelse. Og hallo det er oljelandet vi snakker om. Og det er restfamilier og en million enslige som er majoriteten i landet vårt. Familiestrukturen vår lider og kan ikke belastes med for mange terapeuter, men trenger avlasting.
 
