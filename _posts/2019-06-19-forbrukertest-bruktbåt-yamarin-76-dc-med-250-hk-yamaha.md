@@ -7,6 +7,9 @@ tags:
 - båt påhengsmotor
 - båtliv
 - båttest
+- Yanmarin
+- Yamaha
+- daycruiser
 title: YAMARIN 76 DC med 250 hk Yamaha
 excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt'
 image: "/assets/images/ya33.jpg"
