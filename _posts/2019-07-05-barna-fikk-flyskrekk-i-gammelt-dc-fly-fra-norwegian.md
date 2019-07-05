@@ -6,6 +6,7 @@ tags:
 - flyreise
 - Norwegian
 - familieferie til Roma
+- rutefly
 title: Barna fikk flyskrekk i gammelt DC-fly fra Norwegian.
 excerpt: Kun det sikreste alternativet er godt nok når hele familien skal til Roma
   i påsken - da prisene er på det høyeste. Norwegian markedsfører seg med nye fly,
@@ -15,7 +16,8 @@ excerpt: Kun det sikreste alternativet er godt nok når hele familien skal til R
 image: "/assets/images/flaggNO.gif"
 image_caption: ''
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/reise.md
 publish_date: 
 weight: 2
 
