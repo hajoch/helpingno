@@ -46,8 +46,7 @@ Da boka "Snåsamannen" kom i 2008 øynet mange trafikkskadde håp om hjelp fra J
 
 Gjerstad gjorde imidlertid unntak for profilerte idrettsfolk, politikere og andre samfunnstopper som fikk helseproblemer ifølge media. Mannen i gata derimot møtte et hemmelig telefonnummer og ei låst dør.
 
-Forståelig nok ønsket Gjerstad den gang å trappe ned sin virksomhet  
-som følge av høy alder, men denne måten å gjøre det på - å innføre et klasseskille i behandlingen - er ikke i samsvar med det Gjerstad mente han sto for i boken om han. Hvis det var slik at han hadde synske evner ville han trolig kunnet se for seg konsekvensene av boka for alle dem som ikke fikk hjelp?
+Forståelig nok ønsket Gjerstad den gang å trappe ned sin virksomhet som følge av høy alder, men denne måten å gjøre det på - å innføre et klasseskille i behandlingen - er ikke i samsvar med det Gjerstad mente han sto for i boken om han. Hvis det var slik at han hadde synske evner ville han trolig kunnet se for seg konsekvensene av boka for alle dem som ikke fikk hjelp?
 
 Når Gjerstad ikke ville peke ut andre behandlere med tilsvarende evner til å ta over etter hans virke, oppsto problemer for mennesker som trengte hjelp. Media har referert historier om mennesker som brøt sammen da Gjerstad ikke ville eller hadde krefter til å behandle dem.
 
@@ -56,13 +55,13 @@ Er det slik at kun få mennesker har denne spesielle evnen til å helbrede som J
 
 Mange gir seg ut for å kunne helbrede med healing, men det viser seg i praksis at få om noen har disse evnene. For en pasient med alvorlig sykdom eller kvestelser fortoner det seg umulig å vite kvaliteten i tilbudet før det er prøvet. Og da ryker pengene fort.
 
-Alvorlig syke har omkommet som følge av at de har takket nei til såkalt "skolemedisin" og satset fullt og helt på løfter om bedre behandling og bedre utsikter til å bli frisk hos en alternativ behandler.   
+Alvorlig syke har omkommet som følge av at de har takket nei til såkalt "skolemedisin" ved sykehusene våre  og satset fullt og helt på løfter om bedre behandling og bedre utsikter til å bli frisk hos en alternativ behandler.  
 Er dette etisk riktig behandling?
 
-Når man er syk og fortvilet er det vanskelig å se kvaliteten i tilbudene   
-som markedsføres: Hva er realitet og hva er plaseboeffekt opp i alle disse beretningen om healing? Ukepressen har i årevis presentert forskjellige alternative behandlere.........
+Når man er syk og fortvilet er det vanskelig å se kvaliteten i tilbudene  
+som markedsføres: Hva er realitet og hva er placeboeffekt opp i alle disse beretningen om healing? Ukepressen har i årevis presentert forskjellige alternative behandlere.........
 
-Å legge seg ned på en benk for å bli behandlet eller berørt på spesielle punkter på kroppen til avslappende lyd eller musikk kan gi et velbehag der og da, men det hjelper ofte ikke på mer enn å roe ned pulsen og slappe av som etter en god middagslur eller en meditasjon. Tilbake i hverdagen kan de fleste konkludere med at dette ikke virker på de egentlige plagene - uansett om det gjentaes flere ganger. Og så kommer behandlernes påstander om at det må enda mer behandling til før det virker. Da blir det dyrere og dyrere. Spør du meg: Har du prøvd dette selv? Ja, det har jeg.
+Å legge seg ned på en benk for å bli behandlet eller berørt på spesielle punkter på kroppen til avslappende lyd eller musikk kan gi et velbehag der og da, men det hjelper ofte ikke på mer enn å roe ned pulsen og slappe av som etter en god middagslur eller en meditasjon. Tilbake i hverdagen kan de fleste konkludere med at dette ikke virker på de egentlige plagene - uansett om det gjentas flere ganger. Og så kommer behandlernes påstander om at det må enda mer behandling til før det virker. Da blir det dyrere og dyrere. Spør du meg: Har du prøvd dette selv? Ja, det har jeg.
 
 **Hvor er helbrederne?**  
 Hvordan finner vi de virkelige helbrederne? Helping.no har siden starten i 2001 inviteret lesere til å bli med i jakten på de virkelige helbrederne. De som gjør en forskjell. Så langt har vi ikke fått et eneste tips: Da kommer spørsmålet: Virker healing eller er det svindel? Konklusjonen er oftest "svindel".
