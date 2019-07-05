@@ -8,7 +8,7 @@ tags:
 - investering
 - personlig økonomi
 title: Økonomitips
-excerpt: Gode råd i personlig økonomi
+excerpt: Gode råd i personlig økonomi.
 image: "/assets/images/bruktbat.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
@@ -26,10 +26,8 @@ Sjekk om du har rimeligst strømtilbud på:
 
 Sjekk om du har det rimeligste tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
 
-Økonomi-tips
-
-Slik fungerer økonomien: Ray Dalio forklare deg personlig  
-økonomi og samfunnsøkonomi enkelt og lettfattelig:  
+**Slik fungerer økonomien:**   
+Ray Dalio forklare deg personlig økonomi og samfunnsøkonomi enkelt og lettfattelig:  
 [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
 **Aksjekjøp?**  
