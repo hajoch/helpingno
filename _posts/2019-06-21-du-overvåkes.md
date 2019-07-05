@@ -2,7 +2,17 @@
 layout: post
 date: 2019-06-21 12:19:05 +0200
 crop_image: true
-tags: []
+tags:
+- gallup
+- overvåkning
+- storebror ser deg
+- datakriminalitet
+- etterretning
+- personvern
+- datasikkerhet
+- helseopplysninger
+- privatliv?
+- identitetstyveri
 title: Du overvåkes
 excerpt: Er vårt personvern gått tapt? Tenker du over at du blir overvåket hver dag
   i ditt dagligliv? På gatehjørner står kameraer og overvåker deg i gatene. Når du
@@ -22,14 +32,14 @@ Du overvåkes
 
 ![](http://helping.no/overvake.jpg =162x150)
 
-Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne.Hvem overvåker nasjonalt og internasjonalt?
+Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. Hvem overvåker nasjonalt og internasjonalt?
 
-(Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet) )
+Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet) 
 
-Kankje flere skaffer seg innsyn? Hackere er over hele systemet.  
+Kanskje flere skaffer seg innsyn? Hackere er over hele systemet.  
 Vi har intet sikkert vern mot overvåkerne i dag.
 
-Tilliten til Internett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til internettkommunikasjon blir borte?
+Tilliten til Internett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at Internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til Internett-kommunikasjon blir borte?
 
 **"Storebror ser deg"**  
 Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
@@ -56,7 +66,7 @@ offentligheten ikke har rett til å overvåke?
 Hva er mulig å verne seg imot?
 
 **E-resept**  
-Fastlegene sviktet pasientenes personvern da de i 2012 godtok e-reseptene:Godtar du elektronisk resept? Krev å få papirresept av personvernhensyn. Det er fortsatt mulig? Nei. Les innlegg i Tidsskrift for Den norske legeforening: "Svekket personvern med e-resept":  
+Fastlegene sviktet pasientenes personvern da de i 2012 godtok e-reseptene: Godtar du elektronisk resept? Krev å få papirresept av personvernhensyn. Det er fortsatt mulig? Nei. Les innlegg i Tidsskrift for Den norske legeforening: "Svekket personvern med e-resept":  
 [http://tidsskriftet.no/article/2926587/](http://tidsskriftet.no/article/2926587/ "http://tidsskriftet.no/article/2926587/")
 
 **På utenlandsreiser er sikkerhet viktig**  
@@ -77,12 +87,14 @@ Telefonhenvendelser sms og epost fra gallupinstituttene identifiserer seg i dag 
 
 Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvernproblem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
 
-\- Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?  
- - Kanskje ringer en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
+* Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?
 
-Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikkerhet, hackere og levereing av data videre?   
-  
+
+* Kanskje ringer en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
+
+Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikkerhet, hackere og levereing av data videre?
+
 Vi har blitt slappere med å verne om vårt privatliv nå.  
-Hvilke konsekvenser har det?  
-  
+Hvilke konsekvenser har det?
+
 Ikke å svare på slike galluphenvendelser fordi det ligger et personvernproblem i dette og du trenger ikke svare. Det er lov å si NEI..
