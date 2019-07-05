@@ -10,7 +10,7 @@ tags:
 - fritidsbolig
 - utleie av bolig
 - hytteleie
-title: 'Hytteinntekt: Slik leier du ut hytta'
+title: 'Hytteinntekt: Slik leier du ut hytta - husk radonmåling'
 excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En
   inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering
   av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.
@@ -33,8 +33,8 @@ Ta gode, skarpe bilder av hytta. Ikke bare ett bilde, men mange. Ikke knips vilt
 
 Er det ei fjellhyte så få fram naturen omkring og gjerne et vinterbilde siden mange leier fjellhytter om vinteren. Opplysninger om avstand til løyper og alpinanlegg kan legges inn i billedteksten eller beskrives mer utførlig i eget avsnitt. Er det bilvei til døren? Er veien til hytta fremkommelig med vanlig bil eller bare høy SUV? Her er billedtekstenm en fin anledning til å beskrive praktiske detaljer.
 
-Tar du bilder om sommeren så bruk gjerne ettermiddagslyset som gir varme og lunere lysforhold på bildet. Morgenlyset er skapere og har mer kontrast.  
-  
+Tar du bilder om sommeren så bruk gjerne ettermiddagslyset som gir varme og lunere lysforhold på bildet. Morgenlyset er skapere og har mer kontrast.
+
 **Ta bedre bilder med digitalkemera**
 
 Før du knipser inni hytta så sjekk at du har ryddet og rengjort slik at hytta fremstår som et innbydende leieobjekt på de bildene du tar. En blomst på bordet gir et godt inntrykk. Likeså stearinlys på peishyllen. Slike estetiske detaljer skaper stemning og gir et koselig inntrykk av hytta.
