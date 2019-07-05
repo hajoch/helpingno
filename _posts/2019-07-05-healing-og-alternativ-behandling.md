@@ -17,7 +17,7 @@ image_caption: |-
 author: _authors/gunnar-christensen.md
 categories:
 - _category/religion.md
-publish_date: 
+publish_date: 2019-07-05 00:00:00 +0200
 weight: 2
 
 ---
