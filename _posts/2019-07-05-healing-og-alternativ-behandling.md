@@ -67,3 +67,6 @@ som markedsføres: Hva er realitet og hva er placeboeffekt opp i alle disse bere
 Hvordan finner vi de virkelige helbrederne? Helping.no har siden starten i 2001 inviteret lesere til å bli med i jakten på de virkelige helbrederne. De som gjør en forskjell. Så langt har vi ikke fått et eneste tips: Da kommer spørsmålet: Virker healing eller er det svindel? Konklusjonen er oftest "svindel".
 
 De fleste alternative behandlere anbefaler deg også å kontakte lege for å sjekke helseplager. Kommer du til en alternativ behandler som anbefaler deg å droppe legebistand, såkalt "skolemedisin" og i stedet kun satse på alternativ behandling. Da er dette trolig en useriøs behandler og i verste fall svindel. Kontakt heller en lege eller gjerne flere leger om du trenger hjelp fra en medisinsk spesialist eller en second opinion på hva som feiler deg.
+
+**Leserinnlegg: Bønn virker ikke**  
+På "alternativmessa" i Oslo hadde en menighet tilbud om helbredelse ved bønn som "garantert ville hjelpe på alt" uansett om jeg trodde på det eller ei. Jeg hadde ikke mye tro på det det, men bestemte meg likevel for å teste om dette virkelig hadde effekt. Jeg hadde da ryggsmerter - altså svært målbare plager. Etter flere runder forbønn ble konklusjonen at dette absolutt ikke virker. Vennlig hilsen K.G.
