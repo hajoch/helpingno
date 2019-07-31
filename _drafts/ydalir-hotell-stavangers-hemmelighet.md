@@ -1,0 +1,36 @@
+---
+layout: post
+date: 2019-07-31 23:33:15 +0200
+crop_image: true
+tags:
+- Overnatting
+- Hoteller i Norge
+title: 'Ydalir hotell: Stavangers hemmelighet.'
+excerpt: Tenk deg et nytt hotell med flotte moderne, rimelige rom og topp service
+  plassert både grønt og landlig og sentralt på samme tid. Du sover uten å bli forstyrret
+  av lyd fra trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende
+  en liten busstur fra sentrum. De øvrige måltidene kan du bestille fra den restauranten
+  du vil som catering og spise i hotellets fellesrom eller på rommet som det passer
+  deg.
+image: "/assets/images/IMG_2816.JPG"
+image_caption: ''
+author: _authors/gunnar-christensen.md
+categories:
+- _category/hotell.md
+publish_date: 2019-07-31 00:00:00 +0200
+weight: 10
+
+---
+Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at der er plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite hotell.
+
+Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget der som samlet Norge til ett rike. Offisielt ble minnesmerke åpnet av kong Olav 5 i 1983.
+
+Hotellets navn Ydalir er fra vikingtidens mytologi, og så er område Ullandhaug der vikingeguden Ull bodde på nettopp Ydalir.
+
+Mange tror hotellet er kun for gjester og forelesere for universitetet her på Ullandhaug siden det ligger på Universitetsområdet i Stavanger. Hotellet er imidlertid åpent for alle. Hotellet presenterer seg slik: “Ydalir er et banebrytende samfunnsansvarlig hotell med luksuriøse rom og ansatte som elsker sitt arbeid. Hotellet setter standarden for Campushotell i Skandinavia”
+
+Like ved er botanisk hage, ville kaniner, rådyr og annet vilt lusker omkring i buskene og gir deg virkelig følelsen av å bo landlig. Hyppige bussavganger gir deg rask tilgang på sentrum, der den kjente matfestivalen gikk av stabelen i juli da hotellet ble testet.
+
+Du reiser uthvilt og fornøyd videre herfra.
+
+[http://www.ydalir.no/](http://www.ydalir.no/ "http://www.ydalir.no/")
