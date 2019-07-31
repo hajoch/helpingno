@@ -6,7 +6,7 @@ tags:
 - Overnatting
 - Hoteller i Norge
 title: 'Ydalir hotell: Stavangers hemmelighet.'
-excerpt: Tenk deg et nytt hotell med flotte moderne, rimelige rom og topp service
+excerpt: Tenk deg et nytt hotell med flotte, moderne, rimelige rom og topp service
   plassert både grønt og landlig og sentralt på samme tid. Du sover uten å bli forstyrret
   av lyd fra trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende
   en liten busstur fra sentrum. De øvrige måltidene kan du bestille fra den restauranten
