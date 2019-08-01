@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-16-Leasing.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
@@ -170,7 +171,6 @@ pages:
 - _posts/2019-06-18-småbarnsfamilien.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md
-- _posts/2019-06-16-Leasing.md
 - _posts/2019-06-18-natur-som-lykkepille.md
 - _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-Styrkeprøven.md
