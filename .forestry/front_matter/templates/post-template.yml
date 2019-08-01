@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-06-16-Leasing.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
+- _posts/2019-06-16-Leasing.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
