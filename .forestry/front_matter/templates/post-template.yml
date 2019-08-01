@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-22-båt-tips.md
 - _posts/2019-05-25-AIMA.markdown
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-16-Leasing.md
@@ -243,7 +244,6 @@ pages:
 - _posts/2019-06-24-volvo-544-b16.md
 - _posts/2019-06-23-jolla.md
 - _posts/2019-06-23-5-gode-søvnråd.md
-- _posts/2019-06-22-båt-tips.md
 - _posts/2019-06-22-bygg-et-miljøhus.md
 - _posts/2019-06-22-forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
 - _posts/2019-06-22-boligråd.md
