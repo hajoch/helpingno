@@ -43,7 +43,7 @@ Redaktør og gründer i www.helping.no.
   Universitetet i Bergen 1982.
 * "[Skandalebøkene i Ungdomsskolen](http://www.helping.no/skandalebokene.htm)",  
   Utgitt 2004  
-  **Utstolgt fra forlage**
+  Utsolgt fra forlaget
 
 **Utredninger:**  
 "Profilering av NVE. Om informasjonstjeneste og markedsføringstiltak."NVE Oslo 1983
