@@ -5,7 +5,7 @@ crop_image: true
 tags:
 - Overnatting
 - Hoteller i Norge
-title: 'Ydalir hotell: Stavangers hemmelighet.'
+title: 'Test: Ydalir hotell: Stavangers hemmelighet.'
 excerpt: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service plassert
   grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret av lyd fra
   trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende en
@@ -29,9 +29,11 @@ Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene 
 
 Hotellets navn Ydalir er fra vikingtidens mytologi, og så er område Ullandhaug der vikingeguden Ull bodde på nettopp Ydalir.
 
-Mange tror hotellet er kun for gjester og forelesere for universitetet her på Ullandhaug siden det ligger på Universitetsområdet i Stavanger. Hotellet er imidlertid åpent for alle og har fri parkering. Hotellet presenterer seg slik: “Ydalir er et banebrytende samfunnsansvarlig hotell med luksuriøse rom og ansatte som elsker sitt arbeid. Hotellet setter standarden for Campushotell i Skandinavia”
+Mange tror hotellet er kun for gjester og forelesere ved universitetet her på Ullandhaug siden det ligger på Universitetsområdet i Stavanger. Hotellet er imidlertid åpent for alle og har fri parkering. Hotellet presenterer seg slik: “Ydalir er et banebrytende samfunnsansvarlig hotell med luksuriøse rom og ansatte som elsker sitt arbeid. Hotellet setter standarden for Campushotell i Skandinavia”
 
-Like ved er botanisk hage, ville kaniner, rådyr og annet vilt lusker omkring i buskene og gir deg virkelig følelsen av å bo landlig. Hyppige bussavganger gir deg rask tilgang på sentrum, der den kjente matfestivalen gikk av stabelen i juli da hotellet ble testet.
+Like ved er botanisk hage, ville kaniner, rådyr og annet vilt lusker omkring i buskene og gir deg virkelig følelsen av å bo landlig. 
+
+Hyppige bussavganger gir deg rask tilgang på sentrum, der den kjente matfestivalen gikk av stabelen i juli da hotellet ble testet.
 
 Du reiser uthvilt og fornøyd videre herfra.
 
