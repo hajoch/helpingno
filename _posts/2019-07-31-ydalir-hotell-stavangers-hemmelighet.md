@@ -13,7 +13,9 @@ excerpt: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
   du vil som catering og spise i hotellets fellesrom eller på rommet som det passer
   deg.
 image: "/assets/images/IMG_2816.JPG"
-image_caption: Foto Gunnar Christensen. Ydalir hotell i Stavanger
+image_caption: |-
+  Hotell-test Ydalir hotell i Stavanger.
+  Foto: Gunnar Christensen.
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
