@@ -18,7 +18,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
 publish_date: 2019-07-31 00:00:00 +0200
-weight: 10
+weight: 1
 
 ---
 Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at der er plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite hotell.
