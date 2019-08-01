@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-05-25-AIMA.markdown
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-16-Leasing.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
@@ -215,7 +216,6 @@ pages:
 - _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-17-erfaring-med-mtd-og-honda-snøfres-hydrostat-er-tingen.md
 - _posts/2019-06-17-gro-helen-tørum-jeg-elsker-hemmeligheter.md
-- _posts/2019-05-25-AIMA.markdown
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-07-05-healing-og-alternativ-behandling.md
 - _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
