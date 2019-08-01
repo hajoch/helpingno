@@ -5,8 +5,8 @@ crop_image: true
 tags:
 - Overnatting
 - Hoteller i Norge
-title: 'Ydalir hotell: Stavangers hemmelighet.'
-excerpt: 'Test: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
+title: 'Ydalir hotell: Stavangers hemmelighet. Test'
+excerpt: 'Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
   plassert grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret
   av lyd fra trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende
   en liten busstur fra sentrum. '
