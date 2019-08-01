@@ -23,7 +23,7 @@ publish_date: 2019-07-31 00:00:00 +0200
 weight: 10
 
 ---
-Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at der er god plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite hotell.
+Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at der er god plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite og idyllisk hotell.
 
 Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget der som samlet Norge til ett rike. Offisielt ble minnesmerke åpnet av kong Olav 5 i 1983.
 
