@@ -6,12 +6,10 @@ tags:
 - Overnatting
 - Hoteller i Norge
 title: 'Test: Ydalir hotell: Stavangers hemmelighet.'
-excerpt: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service plassert
-  grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret av lyd fra
-  trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende en
-  liten busstur fra sentrum. De øvrige måltidene kan du bestille fra den restauranten
-  du vil som catering og spise i hotellets fellesrom eller på rommet som det passer
-  deg.
+excerpt: 'Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
+  plassert grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret
+  av lyd fra trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende
+  en liten busstur fra sentrum. '
 image: "/assets/images/IMG_2816.JPG"
 image_caption: |-
   Hotell-test Ydalir hotell i Stavanger.
@@ -23,6 +21,8 @@ publish_date: 2019-07-31 00:00:00 +0200
 weight: 10
 
 ---
+De øvrige måltidene kan du bestille fra den restauranten du vil som catering og spise i hotellets fellesrom eller på rommet som det passer deg.
+
 Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at der er god plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite og idyllisk hotell.
 
 Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget der som samlet Norge til ett rike. Offisielt ble minnesmerke åpnet av kong Olav 5 i 1983.
