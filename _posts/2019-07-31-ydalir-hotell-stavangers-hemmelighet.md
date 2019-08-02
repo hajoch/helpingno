@@ -25,7 +25,7 @@ De øvrige måltidene kan du bestille fra den restauranten du vil, som catering,
 
 Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er overrasket over at det er god plass til dem når de booker og hotellet får strålende tilbakemeldinger: Det er et relativt lite og idyllisk hotell.
 
-Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget som samlet Norge til ett rike. Offisielt ble minnesmerke åpnet av kong Olav 5 i 1983.
+Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget som samlet Norge til ett rike. Offisielt ble minnesmerket åpnet av kong Olav 5 i 1983.
 
 Hotellets navn Ydalir er fra vikingtidens mytologi og angir bostedet til vinter-og  jaktguden Ull. Ullandhaug er oppkalt etter nettopp denne guden.
 
