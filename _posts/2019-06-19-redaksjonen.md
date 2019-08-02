@@ -21,7 +21,7 @@ publish_date:
 weight: 
 
 ---
-Kontakt-informasjon:   
+Kontakt-informasjon:  
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com
