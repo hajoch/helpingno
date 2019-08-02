@@ -5,6 +5,8 @@ crop_image: false
 author: ''
 tags:
 - redaksjonen
+- medarbeidere
+- helpingteam
 title: Redaksjonen
 excerpt: |2+
 
