@@ -3,7 +3,8 @@ layout: post
 date: 2019-06-19T16:31:48.000+00:00
 crop_image: false
 author: ''
-tags: []
+tags:
+- redaksjonen
 title: Redaksjonen
 excerpt: |2+
 
@@ -13,12 +14,12 @@ excerpt: |2+
 
 image: "/assets/images/trille2.jpg"
 image_caption: |-
-  Foto Christoffer Jore Christensen.
+  Foto: Christoffer Jore Christensen.
   Helping-maskoten skogskatten "Trille".
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 
+weight: 9
 
 ---
 Kontakt-informasjon:  
@@ -27,7 +28,7 @@ Organisasjonsnr. 997604830
 E-post redaksjonen: helping.red@gmail.com
 
 **Gunnar Christensen**  
-Ansv.redaktør, styreformann og gründer  
+Ansv. redaktør, styreformann og gründer  
 Cand.philol - master/lektor, forfatter og journalist
 
 **Hallvard J. Christensen**  
@@ -54,10 +55,11 @@ Utdannet ved Hotellfag høyskolen, Stavanger.
 
 Tema og frilans-medarbeidere:  
 [  
-](http://www.helping.no/bat.ya.htm)**Ole T. Moy**  
+](http://www.helping.no/bat.ya.htm)**Ole Torbjørn Moy**  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
-Master i sam.pol. fra Universitet i Bergen og militærkaptein i infanteriet
+Master i sam.pol. fra Universitet i Bergen    
+Militærkaptein i infanteriet
 
 **Anne Bakke**  
 Tegner og fotograf.  
