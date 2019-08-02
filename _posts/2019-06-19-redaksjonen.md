@@ -5,7 +5,12 @@ crop_image: false
 author: ''
 tags: []
 title: Redaksjonen
-excerpt: "\nHelping-teamet presenter et bredt tilbud av gratis \nartikler og lesesstoff.\n\n\n"
+excerpt: |2+
+
+  Helping-teamet presenter et bredt tilbud av
+  artikler og lesesstoff.
+
+
 image: "/assets/images/trille2.jpg"
 image_caption: |-
   Foto Christoffer Jore Christensen.
