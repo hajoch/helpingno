@@ -5,11 +5,7 @@ crop_image: false
 author: ''
 tags: []
 title: Redaksjonen
-excerpt: |2+
-
-  Etablert i 21.04.2001
-  Organisasjonsnr. 997604830
-
+excerpt: "\nHelping-teamet presenter et bredt tilbud av gratis \nartikler og lesesstoff.\n\n\n"
 image: "/assets/images/trille2.jpg"
 image_caption: |-
   Foto Christoffer Jore Christensen.
@@ -20,7 +16,9 @@ publish_date:
 weight: 
 
 ---
-Kontakt-informasjon  
+Kontakt-informasjon:   
+Etablert i 21.04.2001  
+Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com
 
 [**Gunnar Christensen**](https://app.forestry.io/sites/afjoa9tu1jlglg/?#/pages/_authors-gunnar-christensen-md/ "Gunnar Christensen")  
