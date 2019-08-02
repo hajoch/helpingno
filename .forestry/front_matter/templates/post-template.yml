@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-08-01-flyskrekk-finnes-hjelp.md
 - _posts/2019-06-19-redaksjonen.md
+- _posts/2019-08-01-flyskrekk-finnes-hjelp.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-21-økonomitips.md
