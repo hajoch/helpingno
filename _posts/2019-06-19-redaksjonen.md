@@ -37,7 +37,7 @@ Cand.philol/master - lektor, forfatter og journalist
 Teknisk redaktør, styrenestleder  
 Master i Informasjonsteknologi og -tjenester  
 Utdannet ved NTNU i Trondheim  
-Senior analytiker
+Leder, Senior analytiker
 
 **Jens Christian J. Christensen**  
 Redaksjonssekretær  
