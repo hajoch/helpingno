@@ -26,7 +26,7 @@ Sjekk om du har rimeligst strømtilbud på:
 
 Sjekk om du har det rimeligste tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
 
-**Slik fungerer økonomien:**   
+**Slik fungerer økonomien:**  
 Ray Dalio forklare deg personlig økonomi og samfunnsøkonomi enkelt og lettfattelig:  
 [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
@@ -67,7 +67,6 @@ hvor du kan gjøre prissammenlikninger på leverandører av bredbånd.
 **Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
-[https://sol.no/forbruksl](https://sol.no/forbruksl "https://sol.no/forbruksl")[ån](https://sol.no/forbruksl%C3%A5n)  
 [https://www.seher.no/forbruksl](https://www.seher.no/forbruksl "https://www.seher.no/forbruksl")[ån](https://www.seher.no/forbruksl%C3%A5n)  
 [https://coinweb.no](https://coinweb.no "https://coinweb.no")  
 [https://billig-forbrukslån.no](https://xn--billig-forbruksln-orb.no/)
