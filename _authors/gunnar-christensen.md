@@ -4,7 +4,9 @@ title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
 
 ---
-i [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
+ [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
+
+[Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/?midToken=AQFdzOWMeaVi0g&trk=eml-email_accept_invite_single_01-header-35-profile&trkEmail=eml-email_accept_invite_single_01-header-35-profile-null-cgu7ze%7Ejyun9joy%7Ec9-null-neptune%2Fprofile%7Evanity%2Eview " linkedin")
 
 **Utdannelse**  
 Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http://www.helping.no/religioner.htm), [økonomi](http://www.helping.no/okonomi.htm) og [sosiologi](http://www.helping.no/farger.htm) fra universitetene i Oslo og Bergen
