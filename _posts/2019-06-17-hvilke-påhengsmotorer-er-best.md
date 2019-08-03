@@ -12,8 +12,7 @@ title: Hvilke påhengsmotorer er best?
 excerpt: '4-takt-teknologien har nå overtatt det meste av markedet for salg av nye
   påhengsmotorer. 2-takt-motorene er på vei ut i sin tradisjonelle versjon, og blir
   trolig fremover oppgradert eller mer eller mindre borte fra markedet for salg av
-  nye motorer. Samtidig vil båtmotorer fremover gjennomgå samme revolusjon mot el-motorer
-  som vi ser på bilparken. '
+  nye motorer. '
 image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
@@ -22,7 +21,7 @@ publish_date: 2019-08-03 00:00:00 +0200
 weight: 9
 
 ---
-Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-taktsmotorer med oljeblandet bensin. 4-taktsmotorene er imidlertid teknisk mer kompliserte enn 2-takterne og trenger derfor dyrere service.
+Samtidig vil båtmotorer fremover gjennomgå samme utviklingen mot lav-utslipp-motorer som vi ser på bilparken. Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-taktsmotorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-taktere og trenger derfor dyrere service.
 
 Påhengsmotorer er imidlertid bakpå når det gjelder el.motorer.  
 Her ligger bl.a. bilindustrien langt foran.
