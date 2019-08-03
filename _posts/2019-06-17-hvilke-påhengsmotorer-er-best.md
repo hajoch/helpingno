@@ -39,7 +39,7 @@ Det er i tillegg mye følelser og synsing om påhengsmotorer og mange kjøper mo
 **Japanske motorer**  
 **Honda:**  
 Honda har helt fra starten satset selvstendig på 4-takt-teknologi og var først ute med 4-takt påhengere. De har således lengst erfaring med å satse på de mer miljøvennlige 4-taktere. Enkelte modeller har tidligere vært dårlig teknisk, men Honda har i dag et brukbart rykte på de fleste av sine motorer.  
-OBS: Vi forbruker-testet 90hk Honda: [AMT/Honda](http://www.helping.no/bow.3.htm)
+OBS: Vi har forbruker-testet 90hk Honda på AMT.
 
 **Selva:**  
 Motoren er iflg. forhandler en italiensk motor skrudd sammen av yamaha-deler på 2-taktutgavene. På 4-taktere er det en yamaha-motor produsert i Japan og malt om med Selva Logo i Italia. Noen er skeptiske til produkter skrudd sammen i Italia - enten det er kjøleskap, biler eller båtmotorer: Bare tiden kan avgjøre om Selva er en japaner eller en typisk italiener.
