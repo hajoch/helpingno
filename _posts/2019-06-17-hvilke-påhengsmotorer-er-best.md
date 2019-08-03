@@ -21,7 +21,9 @@ publish_date: 2019-08-03 00:00:00 +0200
 weight: 9
 
 ---
-Samtidig vil båtmotorer fremover gjennomgå samme utviklingen mot lav-utslipp-motorer som vi ser på bilparken. Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-taktsmotorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-taktere og trenger derfor dyrere service.
+Samtidig vil båtmotorer fremover gjennomgå samme utviklingen mot lav-utslipp-motorer som vi ser på bilparken. 
+
+Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-taktsmotorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-taktere og trenger derfor dyrere service.
 
 Påhengsmotorer er imidlertid bakpå når det gjelder el.motorer.  
 Her ligger bl.a. bilindustrien langt foran.
