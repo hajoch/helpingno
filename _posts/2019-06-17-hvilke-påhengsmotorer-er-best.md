@@ -21,10 +21,9 @@ publish_date: 2019-08-03 00:00:00 +0200
 weight: 9
 
 ---
-Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-takt-motorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-taktere og trenger derfor dyrere service.
+Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-takt-motorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-takt og trenger derfor dyrere service.
 
-Påhengsmotorer er imidlertid bakpå når det gjelder el.motorer.  
-Her ligger bl.a. bilindustrien langt foran. Trolig vil båtmotorer fremover gjennomgå samme utviklingen mot lav-utslipp-motorer som vi ser på bilparken.
+Påhengsmotorer er imidlertid bakpå når det gjelder el. motorer. Her ligger bl.a. bilindustrien langt foran. Trolig vil båtmotorer fremover gjennomgå samme utviklingen mot lav-utslipp-motorer som vi ser på bilparken.
 
 **Ukurante**  
 Derfor kan man i dag betrakte de fleste eldre, brukte 2-taktmotorer på markedet som ukurante. De fleste modellene har et betydelig større bensinforbruk, må i tillegg iblandes 2-taktolje som koster mer enn bensinen pr. liter og de bråker/forurenser mer. Et tilleggspoeng i denne forbindelse er økende bensinpriser.
