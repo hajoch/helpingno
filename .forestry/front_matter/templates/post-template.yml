@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-19-redaksjonen.md
@@ -194,7 +195,6 @@ pages:
 - _posts/2019-06-17-møte-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya.md
 - _posts/2019-06-16-døden-og-livet-som-forandring.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
-- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
 - _posts/2019-06-17-sjøens-helter-krigsseilernes-kamp-bokanmeldelse-av-jon-michelet-bokserie.md
