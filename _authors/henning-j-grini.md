@@ -26,6 +26,8 @@ Daglig leder og forfatter i
 Egen hjemmeside med artikler og diverse:  
 [www.inspirasjonogideer.no](www.inspirasjonogideer.no)
 
+[www.countdown2contact.org](www.countdown2contact.org)
+
 **Forfatter av boken:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
 Utgitt engelsk versjon i 2017. ( Utgitt på norsk i 2016.)
