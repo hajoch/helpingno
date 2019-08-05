@@ -1,6 +1,6 @@
 ---
 layout: author
-title: Odd M. Lunde
+title: Odd Milton Lunde
 image: "/assets/images/authors/oddmlunde.jpg"
 
 ---
