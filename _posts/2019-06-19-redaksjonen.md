@@ -60,7 +60,7 @@ Tema og frilans-medarbeidere:
 ](http://www.helping.no/bat.ya.htm)**Ole Torbjørn Moy**  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
-Master i sam.pol. fra Universitet i Bergen    
+Master i sam.pol. fra Universitet i Bergen  
 Militærkaptein i infanteriet
 
 **Anne Bakke**  
@@ -68,7 +68,7 @@ Tegner og fotograf.
 Illustratør, forfatter og naturfotograf.  
 Utdannet lærer/adjunkt
 
-**Odd M. Lunde**  
+**Odd Milton** **Lunde**  
 Journalist  
 Fagområde helse og mental helse:  
 Utdannet Lege og psykiater
