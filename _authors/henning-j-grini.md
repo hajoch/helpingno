@@ -24,7 +24,7 @@ Daglig leder og forfatter i
 [ www.gaiainnovations.org](https://www.gaiainnovations.org/)
 
 Egen hjemmeside med artikler og diverse:  
-www.inspirasjonogideer.no
+[www.inspirasjonogideer.no]()
 
 **Forfatter av boken:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
