@@ -16,14 +16,11 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 * "Styrkeprøven" 1996
 * "Skandalebøkene i Ungdomsskolen" 2004
 * "Aima" 2006
-
 * **Presseomtaler Styrkeprøven 1996**  
   **- Godt komponert**  
   "Styrkeprøven er godt komponert og tar opp en viktig sak for alle dem som er trafikkskadd og har møtt muren. Boka gir et klart bilde av forsikringsselskapenes makt og evne til manipulering takket være deres tilgang til høyt kvalifiserte eksperter. Dette er den lille mann mot et overveldende apparat. Dette gir Styrkeprøven et samfunnsmessig perspektiv."
 
-  **ALBERT HENRIK MOHN**
-
-  **Bergen Arbeiderblad.**
+  **ALBERT HENRIK MOHN, Bergen Arbeiderblad.**
 
   **- Bok om tortur**  
   Dette er en bok om tortur i det norske helse- og rettsvesen. I Øst-Europa ble friske mennesker stemplet som syke; hos oss blir alvorlig nakkeskadde diagnostisert som friske! Begge deler er like ille.
@@ -46,13 +43,10 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
   **TIDSSKRIFT FOR DEN NORSKE LÆGEFORENING**
 
-    
   **Lettlest og spennande**  
   Styrkeprøven av Gunnar Christensen er ei bok som vedkjem dei fleste menneske i dagens samfunn. Dei fleste av oss betaler forsikringspremiar. Me kjøper oss ein form for tryggleik. Dei færraste veit kva dei i røynda har kjøpt. Boka fortel klart kva den står framfor som vel å ta kampen opp mot eit forsikringsselskap i ei erstatningssak. "Styrkeprøven" er lettlest og spennande."
 
-  **KNUT G. SOLBERG**
-
-  **SETESDØLEN**
+  **KNUT G. SOLBERG, SETESDØLEN**
 
   **"Årets julegave til alle trafikkskadde."**
 
@@ -60,9 +54,7 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
   Har du lest den, har du sett en virkelighet du ikke trodde fantes - med mindre du har opplevd den selv.
 
-  **REDAKTØR FRED B. NILSEN**
-
-  **TRAFIKKSKADDES MAGASIN**.
+  **REDAKTØR FRED B. NILSEN, TRAFIKKSKADDES MAGASIN**.
 * **Presseomtale "Skandalebøkene i Ungdomsskolen" 2004  
   Skjerp dere, lærere**!  
   I de siste årene har vi fått en rekke minoritetsgrupper i landet vårt. Pakistanere og vietnamesere er to av dem. Begge kommer fra sørlige breddegrader og er preget av religion og kultur temmelig forskjellig fra vår egen.
@@ -79,11 +71,7 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
   \- Skjerp dere lærere!"
 
-  **ALBERT HENRIK MOHN**
-
-  Morgenavisen.
-
-   
+  **ALBERT HENRIK MOHN, Morgenavisen.**
 
 **Yrkesbakgrunn**  
 Pedagogisk praksis som lærer i barne- og ungdomsskolen  
@@ -96,10 +84,10 @@ Redaktør og gründer i www.helping.no.
 
 * **Barnebok**_  
   ["Aima"](http://www.helping.no/aima.htm)  
-  Utgitt 2006
+  Ildsjelen Forlag (nedlagt) Utgitt 2006
 * **Roman**  
   "[Styrkeprøven](http://www.helping.no/presse.htm)"  
-  Utgitt 1996
+  Empress Forlag. (nedlagt) Utgitt 1996
 * **Faglitteratur**  
   "Ny-kolonialisme. De multinasjonale selskapers innflytelse på u-lands politikk og økonomi."  
   Agder Distriktshøyskole 1974.
@@ -112,8 +100,7 @@ Redaktør og gründer i www.helping.no.
   Religionshistorisk institutt  
   Universitetet i Bergen 1982.
 * "[Skandalebøkene i Ungdomsskolen](http://www.helping.no/skandalebokene.htm)",  
-  Utgitt 2004  
-  Utsolgt fra forlaget
+  Ildsjelen forlag (nedlagt) Utgitt 2004
 * **Utredninger:**  
   "Profilering av NVE. Om informasjonstjeneste og markedsføringstiltak."NVE Oslo 1983
 * **Små tekster/ Noveller**
