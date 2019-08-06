@@ -27,7 +27,7 @@ samt foreleser ved Norsk Folkeakademi.
 Redaktør og gründer i www.helping.no.
 
 * **Barnebok**_  
-  _["Aima"](http://www.helping.no/aima.htm)  
+  ["Aima"](http://www.helping.no/aima.htm)  
   Utgitt 2006
 * **Roman**  
   "[Styrkeprøven](http://www.helping.no/presse.htm)"  

@@ -14,10 +14,10 @@ fields:
   name: image
   label: Bilde
 pages:
+- _authors/gunnar-christensen.md
 - _authors/albert-henrik-mohn.md
 - _authors/henning-j-grini.md
 - _authors/odd-m-lunde.markdown
-- _authors/gunnar-christensen.md
 - _authors/ole-t-moy.md
 - _authors/ellen-marie-christensen.md
 - _authors/kari-rose-norheim.md
