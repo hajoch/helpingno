@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-18 16:58:42 +0200
+date: 2019-06-18T14:58:42.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
 tags: []
@@ -11,15 +11,14 @@ excerpt: Det å tørre å ta ordet og vise seg selv og meddele sine tanker er no
   både i skolesituasjoner, jobbsituasjoner og ved høytidlige anledninger, mener jeg
   at gjelder svært mange nordmenn. Ordet angst er mer det å legge på svøm den første
   gang. Taleangst er mer det å svømme over nye dyp (les mer under prestasjonsangst)
-image: "/assets/images/taleangst.jpg"
-image_caption: Foto Gunnar Christensen. Motiv fra Roma
+image: "/assets/images/trille1 (1).jpg"
+image_caption: 'Foto Gunnar Christensen. '
 categories:
 - _category/mental-helse.md
 publish_date: 
 weight: 2
 
 ---
-
 Taleangsten kan ha et personlighetsmessig grunnlag. Dette grunnlaget er skapt gjennom skamfølelse. I min generasjon var det ikke uvanlig at man så å si lærte å skamme seg. Utsagn som; "du skulle skamme deg" var ganske vanlig til langt utpå 70- tallet. Mange mennesker måler sin egen verdi i hva en tror eller får høre at andre ser og tenker om en.
 
 En oppvekst hvor det å la være å skamme seg eller å la være å vise at en skammer seg er en viktig del kan gi en unnvikende personlighetstype. Men den kan også gi en idealistsk og fullkommenhetssøkende person som igjen gir for mange krav til en selv. Eller det kan gi en person med lite selvtillitt med tendens til å gi opp og gi seg før en har virkelig prøvd.
