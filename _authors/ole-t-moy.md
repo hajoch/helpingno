@@ -1,6 +1,6 @@
 ---
 layout: author
-title: Ole T. Moy
+title: Ole Torbjørn Moy
 image: ''
 
 ---
