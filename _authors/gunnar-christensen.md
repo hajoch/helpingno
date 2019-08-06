@@ -4,7 +4,7 @@ title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
 
 ---
- [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
+[wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
 
 [Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/?midToken=AQFdzOWMeaVi0g&trk=eml-email_accept_invite_single_01-header-35-profile&trkEmail=eml-email_accept_invite_single_01-header-35-profile-null-cgu7ze%7Ejyun9joy%7Ec9-null-neptune%2Fprofile%7Evanity%2Eview " linkedin")
 
@@ -16,8 +16,13 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 * "Styrkeprøven" 1996
 * "Skandalebøkene i Ungdomsskolen" 2004
 * "Aima" 2006
+* **Presseomtaler Styrkeprøven**  
+  Godt komponert  
+  "Styrkeprøven er godt komponert og tar opp en viktig sak for alle dem som er trafikkskadd og har møtt muren. Boka gir et klart bilde av forsikringsselskapenes makt og evne til manipulering takket være deres tilgang til høyt kvalifiserte eksperter. Dette er den lille mann mot et overveldende apparat. Dette gir Styrkeprøven et samfunnsmessig perspektiv."
 
-  [Presseomtaler](http://www.helping.no/presse.htm)
+  **ALBERT HENRIK MOHN**
+
+  **Bergen Arbeiderblad.**
 
 **Yrkesbakgrunn**  
 Pedagogisk praksis som lærer i barne- og ungdomsskolen  
