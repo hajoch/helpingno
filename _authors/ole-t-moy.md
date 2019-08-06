@@ -2,7 +2,6 @@
 layout: author
 title: Ole Torbjørn Moy
 image: "/assets/images/oletmoy (2).jpg"
-published: false
 
 ---
 **Journalist og fotograf**   
