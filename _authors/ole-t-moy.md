@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Ole Torbjørn Moy
-image: "/assets/images/oletmoy.jpg"
+image: "/assets/images/oletmoy (2).jpg"
 
 ---
 **Journalist og fotograf**   
