@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-18T14:58:42.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- mental helse
+- psykologi
+- angst
+- komfortsoner
+- sjenanse
+- sjenert
+- blyg
 title: Taleangst
 excerpt: Det å tørre å ta ordet og vise seg selv og meddele sine tanker er nokså avgjørende
   for din utvikling. Det er også viktig i forhold til den bærende dialog i samfunnet.
