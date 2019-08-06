@@ -11,8 +11,7 @@ image: "/assets/images/authors/gc8.jpg"
 **Utdannelse**  
 Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http://www.helping.no/religioner.htm), [økonomi](http://www.helping.no/okonomi.htm) og [sosiologi](http://www.helping.no/farger.htm) fra universitetene i Oslo og Bergen
 
-**Utgitt bøkene:  
-**"Styrkeprøven" 1996, "Skandalebøkene i Ungdomsskolen" 2004, "Aima" 2006
+**Utgitt bøkene:** "Styrkeprøven" 1996, - "Skandalebøkene i Ungdomsskolen" 2004, - "Aima" 2006
 
 * **Presseomtaler Styrkeprøven 1996**  
   **- Godt komponert**  
