@@ -113,12 +113,9 @@ Redaktør og gründer i www.helping.no.
 * "[Skandalebøkene i Ungdomsskolen](http://www.helping.no/skandalebokene.htm)",  
   Utgitt 2004  
   Utsolgt fra forlaget
-
-**Utredninger:**  
-"Profilering av NVE. Om informasjonstjeneste og markedsføringstiltak."NVE Oslo 1983
-
-**Små tekster/ Noveller**
-
+* **Utredninger:**  
+  "Profilering av NVE. Om informasjonstjeneste og markedsføringstiltak."NVE Oslo 1983
+* **Små tekster/ Noveller**
 * [Nazima](http://www.helping.no/nazima.htm)  
   www.helping.no 2001
 * [Jolla](http://www.helping.no/jolla.htm)  
