@@ -19,7 +19,7 @@ excerpt: Det å tørre å ta ordet og vise seg selv og meddele sine tanker er no
   at gjelder svært mange nordmenn. Ordet angst er mer det å legge på svøm den første
   gang. Taleangst er mer det å svømme over nye dyp (les mer under prestasjonsangst)
 image: "/assets/images/trille1 (1).jpg"
-image_caption: 'Foto Christoffer Jore Christensen. '
+image_caption: 'Foto Christoffer J. Christensen. '
 categories:
 - _category/mental-helse.md
 publish_date: 
