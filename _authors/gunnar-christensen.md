@@ -54,8 +54,7 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
   **SETESDØLEN**
 
-  **"Årets julegave  
-  til alle trafikkskadde."**
+  **"Årets julegave til alle trafikkskadde."**
 
   "Styrkeprøven" er en autentisk og usminket skildring av et ungt liv som blir lagt i grus av en trafikkulykke. Boken bør bli obligatorisk lesning for pårørende, arbeidskolleger, behandlere, advokater og alle som har med trafikkskadde å gjøre. Skal du bare kjøpe en eneste julegave i år - kjøp "Styrkeprøven"!
 
