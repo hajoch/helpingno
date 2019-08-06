@@ -14,9 +14,9 @@ fields:
   name: image
   label: Bilde
 pages:
+- _authors/albert-henrik-mohn.md
 - _authors/ole-t-moy.md
 - _authors/gunnar-christensen.md
-- _authors/albert-henrik-mohn.md
 - _authors/henning-j-grini.md
 - _authors/odd-m-lunde.markdown
 - _authors/ellen-marie-christensen.md
