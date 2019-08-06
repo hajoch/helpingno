@@ -37,9 +37,7 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 
   Er så denne dokumentarromanen troverdig?Ja, utvilsomt. Forfatteren viser stor innsikt i hvordan livet blir for en alvorlig nakkeslengsskadet pasient. Boken burde være pensum for medisinstudenter. Den viser en iøynefallende og grotesk mangel på kunnskap om konsekvensene av alvorlig nakkeslengsskade. Slutten er likevel positiv fordi den skadde er en av de få i boken som beholder sin verdighet.
 
-  **LEGE SUNNIVA ASKELAND LAAKE,**
-
-  **TIDSSKRIFT FOR DEN NORSKE LÆGEFORENING**
+  **LEGE SUNNIVA ASKELAND LAAKE, TIDSSKRIFT FOR DEN NORSKE LÆGEFORENING**
 
   **Lettlest og spennande**  
   Styrkeprøven av Gunnar Christensen er ei bok som vedkjem dei fleste menneske i dagens samfunn. Dei fleste av oss betaler forsikringspremiar. Me kjøper oss ein form for tryggleik. Dei færraste veit kva dei i røynda har kjøpt. Boka fortel klart kva den står framfor som vel å ta kampen opp mot eit forsikringsselskap i ei erstatningssak. "Styrkeprøven" er lettlest og spennande."
