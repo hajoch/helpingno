@@ -16,6 +16,7 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
 * "Styrkeprøven" 1996
 * "Skandalebøkene i Ungdomsskolen" 2004
 * "Aima" 2006
+
 * **Presseomtaler Styrkeprøven 1996**  
   **- Godt komponert**  
   "Styrkeprøven er godt komponert og tar opp en viktig sak for alle dem som er trafikkskadd og har møtt muren. Boka gir et klart bilde av forsikringsselskapenes makt og evne til manipulering takket være deres tilgang til høyt kvalifiserte eksperter. Dette er den lille mann mot et overveldende apparat. Dette gir Styrkeprøven et samfunnsmessig perspektiv."
