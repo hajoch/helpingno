@@ -73,13 +73,11 @@ Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http:
   **ALBERT HENRIK MOHN, Morgenavisen.**
 
 **Yrkesbakgrunn**  
-Pedagogisk praksis som lærer i barne- og ungdomsskolen  
-samt foreleser ved Norsk Folkeakademi.
-
-**Pressebakgrunn** bl.a. fra VG, Morgenavisen m.fl..  
-Redaktør og gründer i www.helping.no.
-
-**Forfatterbakgrunn**
+\- **Pedagogisk praksis** som lærer i barne- og ungdomsskolen  
+samt foreleser ved Norsk Folkeakademi.  
+\- **Pressebakgrunn** bl.a. fra VG, Morgenavisen m.fl..  
+Redaktør og gründer i www.helping.no.  
+\- **Forfatterbakgrunn**
 
 * **Barnebok**_  
   ["Aima"](http://www.helping.no/aima.htm)  
@@ -110,7 +108,7 @@ Redaktør og gründer i www.helping.no.
 * Hva er Gud?[  
   ](http://www.helping.no/gud.html) www.helping.no 2017
 
-##### Hvorfor gratis bøker?
+##### **Hvorfor gratis bøker?**
 
 Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen ofte av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel.
 
