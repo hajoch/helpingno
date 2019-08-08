@@ -2,7 +2,6 @@
 layout: author
 title: Jens Christian Jore Christensen
 image: "/assets/images/JCJC.jpg"
-published: false
 
 ---
 Redaksjonssekretær  
