@@ -4,8 +4,7 @@ title: Hallvard J. Christensen
 image: ''
 
 ---
-  
 **Teknisk redaktør, styrenestleder**  
 Master i Informasjonsteknologi og -tjenester  
-Utdannet ved NTNU i Trondheim   
- Senior analytiker
+Utdannet ved NTNU i Trondheim  
+Leder
