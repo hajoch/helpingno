@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Christoffer Jore Christensen
-image: ''
+image: "/assets/images/CJC.jpg"
 
 ---
 Redaksjossekretær og fotograf.
