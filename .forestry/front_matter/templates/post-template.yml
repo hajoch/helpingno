@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-21-test-saab-9000-cse.md
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md
 - _posts/2019-06-18-taleangst.md
@@ -255,7 +256,6 @@ pages:
 - _posts/2019-06-21-lønner-det-seg-å-importere-båten-selv.md
 - _posts/2019-06-21-landeveispiratene.md
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md
-- _posts/2019-06-21-test-saab-9000-cse.md
 - _posts/2019-06-21-meditasjonskurs-1-meditasjon-med-pusteteknikk.md
 - _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
