@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-18 16:08:35 +0200
+date: 2019-06-18T14:08:35.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- India
+- Taj Mahal
+- Agra
+- Kronepalasset
+- Kanskje verdens vakreste byggverk?
+- Murmatz Mahal
+- Sjah Jahan
+- '1632'
 title: 'Taj Mahal: En indisk kjærlighetshistorie'
 excerpt: 'I det forbudte gravkammeret: Den klemmene, tunge og mørke stillheten kun
   opplyst av min lille lykt. Hvite marmorkister. Støvete stillhet nede i dette gravkammeret
@@ -22,7 +30,7 @@ publish_date:
 weight: 7
 
 ---
- Taj Mahal er et av verdens vakreste byggverk. |
+Taj Mahal er et av verdens vakreste byggverk. |
 
 To skikkelser styrter frem fra mørket, drar meg inn i en korridor hvor et stearinlys blafrer bak et tykt jerngitter. En stemme bak gitteret sier:
 
