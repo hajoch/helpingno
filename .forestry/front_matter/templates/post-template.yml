@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md
 - _posts/2019-06-18-taleangst.md
 - _posts/2019-06-19-redaksjonen.md
@@ -210,7 +211,6 @@ pages:
 - _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-16-buddhismens-fornyelse.md
 - _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
-- _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-06-18-disneyland-i-paris.md
 - _posts/2019-06-17-lise-lyseggen-om-klimakrisen-uten-indianernes-kunnskap-vil-menneskeheten-dø-ut.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
