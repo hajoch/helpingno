@@ -3,7 +3,13 @@ layout: post
 date: 2019-06-17T13:32:31.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- slanking
+- slanking helse
+- slankekurer
+- diett
+- ned i vekt
+- overvekt
 title: Slankekurer
 excerpt: 3 dagers-kuren og Stoffskifte-diett "oppskrift"
 image: "/assets/images/eple1.jpg"

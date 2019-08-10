@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-21-test-saab-9000-cse.md
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md
@@ -157,7 +158,6 @@ pages:
 - _posts/2019-06-18-jeg-jobbet-hos-mor-teresa-en-engel.md
 - _posts/2019-06-17-bedre-bilder.md
 - _posts/2019-06-17-farmors-middag-kjøttkaker-av.md
-- _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-18-konkurs-i-reiselivsbransjenkan-gi-deg-økonomisk-tap.md
 - _posts/2019-06-18-hva-er-gud.md
 - _posts/2019-06-17-kosebåt.md
