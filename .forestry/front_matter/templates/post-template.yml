@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-russebilen.md
 - _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
 - _posts/2019-06-25-første-klasses-hverdagssportsbil.md
@@ -244,7 +245,6 @@ pages:
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-24-taco-shells-fra-santa-maria-kostet-huseier-over-100-000.md
 - _posts/2019-06-24-håndbrekka.md
-- _posts/2019-06-24-russebilen.md
 - _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-06-24-volvo-544-b16.md
 - _posts/2019-06-23-jolla.md

@@ -2,7 +2,12 @@
 layout: post
 date: 2019-06-24 12:29:59 +0200
 crop_image: true
-tags: []
+tags:
+- Volkswagen Caravelle
+- diesrlbil
+- russebil
+- kassebil
+- biltest
 title: Russebilen
 excerpt: Dette er en av de mest populære russebilene for tiden. Her er en langtidstest
   som gir deg grundig kunnskap om bilen.
