@@ -2,7 +2,13 @@
 layout: post
 date: 2019-06-25 16:43:31 +0200
 crop_image: true
-tags: []
+tags:
+- bil
+- Mercedes
+- biltest
+- A-klasse
+- sportutgave
+- golfklassen
 title: Første-klasses hverdagssportsbil
 excerpt: 'Bruktbiltest: Mercedes Benz A-klasse AMG: Mercedes er mest kjent for sine
   mektige stasjonsvogner med store prislapper. Det tyske kvalitetsmerket har trådd
