@@ -2,7 +2,12 @@
 layout: post
 date: 2019-06-21 15:22:57 +0200
 crop_image: true
-tags: []
+tags:
+- Ford
+- Mustang
+- sportsbil
+- Biltest
+- bruktbiltest
 title: Guttedrømmen blir virkelighet
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
