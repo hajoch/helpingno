@@ -11,7 +11,7 @@ title: Russebilen
 excerpt: Dette er en av de mest populære russebilene for tiden. Her er en langtidstest
   som gir deg grundig kunnskap om bilen.
 image: "/assets/images/caravellen.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
