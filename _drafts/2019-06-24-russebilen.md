@@ -14,7 +14,7 @@ image: "/assets/images/caravellen.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
-- _category/leserinnlegg.md
+- _category/bil.md
 publish_date: 
 weight: 2
 
