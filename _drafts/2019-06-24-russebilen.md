@@ -4,7 +4,6 @@ date: 2019-06-24 12:29:59 +0200
 crop_image: true
 tags:
 - Volkswagen Caravelle
-- diesrlbil
 - russebil
 - kassebil
 - biltest
