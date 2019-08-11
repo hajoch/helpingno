@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-01-roma-estetikkens-by.md
 - _posts/2019-06-24-russebilen.md
 - _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
@@ -232,7 +233,6 @@ pages:
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-bowrider-guiden.md
-- _posts/2019-07-01-roma-estetikkens-by.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-17-bmi.md

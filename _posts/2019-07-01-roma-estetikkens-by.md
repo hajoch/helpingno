@@ -5,6 +5,7 @@ crop_image: true
 tags:
 - Romas gamle bydel
 - Italia
+- Roma
 title: 'Roma - Estetikkens by '
 excerpt: Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og
   betong i sentrum. Skjønnhet preger byens arkitektur og kunst. Innbyggerne er stolte
