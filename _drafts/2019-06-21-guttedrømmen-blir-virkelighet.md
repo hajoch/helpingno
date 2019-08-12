@@ -8,6 +8,7 @@ tags:
 - sportsbil
 - Biltest
 - bruktbiltest
+- amerikansk Ford
 title: Guttedrømmen blir virkelighet
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
