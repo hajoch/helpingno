@@ -71,9 +71,9 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-07-01-roma-estetikkens-by.md
 - _posts/2019-06-24-russebilen.md
-- _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
 - _posts/2019-06-25-første-klasses-hverdagssportsbil.md
 - _posts/2019-08-11-vw-passat-alltrack-i-strupen-på-volvo-xc70.md
