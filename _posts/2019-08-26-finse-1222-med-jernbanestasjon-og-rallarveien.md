@@ -39,6 +39,6 @@ Smør niste på hytta før du går. Her er det langt mellom spisemuligheter: Du 
 
 Som en kuriositet kan nevnes at "Star Wars" innspilling av filmen "Frostplaneten" ble spilt inn her en iskald periode i februar 1978 og fans fra hele verden valfarter til stedet for jubileum hvert år. Det opplyser Gregory A. Dupre som hadde ansvaret for filmopptakene på filmen her. Han hylles av fansen og har jobbet ivrig med autografskriving de gangene han har deltatt på jubileer her.
 
-Åpningstidene følger sesongen: Hotellet stenges om vinteren. Uvitende utlendinger som tror hotellet er åpent hele året tar en stor risiko ved å gå av toget her. Her er så værhardt at Finse er nærmest avfolket om vinteren. Kun folk til jernbanedriften er tilbake.
+Åpningstidene følger sesongen: Hotellet stenges om vinteren. Uvitende utlendinger som tror hotellet er åpent hele året tar en stor risiko ved å gå av toget her. Her er så værhardt at Finse er nærmest avfolket om vinteren. Kun folk til jernbanedriften.
 
 [https://finse1222.no/nb/](https://finse1222.no/nb/ "https://finse1222.no/nb/")
