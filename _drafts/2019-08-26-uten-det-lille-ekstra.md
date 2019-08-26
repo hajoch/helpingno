@@ -12,7 +12,7 @@ tags:
 title: Uten det lille ekstra.
 excerpt: Historiske hotell dr. Holms hotell, Geilo testes i en spesiell anledning.
   Flott billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August
-  med fint vær og dagstur med toget til Finse
+  med fint vær og dagstur med toget til Finse.
 image: "/assets/images/IMG_2929.JPG"
 image_caption: Bilde GC - fra modell presentasjonen av hotellet.
 author: _authors/gunnar-christensen.md
@@ -38,6 +38,6 @@ Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta 
 
 Både middagen og frokost manglet det lille ekstra som man forventer på et så flott hotell: Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten, servicen og hotellet som helhet.
 
-Spark direktøren! Dette flotte hotellet fortjener bedre.
+Spark direktøren! Send kjøkkensjefen på kurs hos James Martin. Dette flotte hotellet fortjener bedre.
 
 [https://www.drholms.no/](https://www.drholms.no/ "https://www.drholms.no/")
