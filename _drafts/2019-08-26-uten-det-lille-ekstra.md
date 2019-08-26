@@ -10,11 +10,12 @@ tags:
 - fjellhotell
 - vinterdestinasjon
 title: Uten det lille ekstra.
-excerpt: Historiske hotell dr. Holms hotell, Geilo testes i en spesiell anledning.
-  Flott billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August
-  med fint vær og dagstur med toget til Finse.
+excerpt: Historiske dr. Holms hotell, Geilo testes i en spesiell anledning. Flott
+  billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint
+  vær og flott dagstur med toget til Finse.
 image: "/assets/images/IMG_2929.JPG"
-image_caption: Bilde GC - fra modell presentasjonen av hotellet.
+image_caption: Bilde Gunnar Christensen - av modell- presentasjonen av hotellet som
+  ble bygget fra 1909 og utvidet flere ganger senere.
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
