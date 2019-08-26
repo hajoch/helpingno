@@ -14,7 +14,8 @@ excerpt: 'Dette historiske hotellet åpnet med Bergensbanen i 1909 og ble påbyg
   uten bilvei: Her ankommer du med jernbane, sykkel eller til fots. '
 image: "/assets/images/IMG_2908.JPG"
 image_caption: 'Foto Gunnar Christensen: Dette er utsikten fra spisesalen på Finse
-  1222 historiske hotell med Hardangerjøkulen i bakgrunnen. I fjellheimen over tregrensen.'
+  1222 historiske hotell med Hardangerjøkulen i bakgrunnen. I fjellheimen over tregrensen.
+  Trekk inn den deilige fjelluften og ny et kopp kaffe med vafler på her hotellet.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
