@@ -10,7 +10,7 @@ tags:
 - fjellhotell
 - vinterdestinasjon
 title: Uten det lille ekstra.
-excerpt: Historiske hotell Dr. Holms hotell, Geilo testes i en spesiell anledning.
+excerpt: Historiske hotell dr. Holms hotell, Geilo testes i en spesiell anledning.
   Flott billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August
   med fint vær og dagstur med toget til Finse
 image: "/assets/images/IMG_2929.JPG"
@@ -22,7 +22,7 @@ publish_date:
 weight: 4
 
 ---
-Det var en spesiell anledning som skulle feires da vi kjørte fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
+Det var en spesiell anledning som skulle feires da vi kjørte bil fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
 
 Rommet var standard og hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen i slutten av august godt kan krype ned på nullpunktet i løpet av kvelden....
 
