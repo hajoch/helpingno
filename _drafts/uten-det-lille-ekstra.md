@@ -24,7 +24,7 @@ weight: 4
 ---
 Det var en spesiell anledning som skulle feires da vi kjørte fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
 
-Rommet hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen nå i slutten av august godt kunne krype ned på nullpunktet på kvelden....
+Rommet hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen nå i slutten av august godt kunne krype ned på nullpunktet i løpet av kvelden....
 
 Flott rengjøringjobb hver dag fra rom-personalet. Kraftige rør med overspyling i tilfelle brann i taket: Betryggende i en flott gammel historisk trebygning med en fin ro, bortsett fra litt vel lytt fra nabo-værelser.
 
@@ -32,6 +32,6 @@ Selve anledningen skulle feires med en bedre middag på hotellet. En flott sal d
 
 Førsteinntrykket var et koldtbord omkranset av horder med kinesere og totalt kaos, utslitte kelnere og norske gjester som holdt seg på betryggende avstand i periferien av lokalet.
 
-Hver dag dundrer fire store busslaster kinesere med litauisk buss og sjåfør inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt annerledes enn japanske turister som er så høflige og hensynsfulle. 
+Hver dag dundrer fire store busslaster kinesere med Øst-Europeiske busser og sjåfører inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt motsatt japanske turister som er så høflige og hensynsfulle. 
 
-Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å rydde et bord vi var komfortabel med. 
+Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta bryet med å rydde et bord unna trafikken som vi var komfortabel med. Hjortefilet det mest eksklusive på menyen - intet mindre. Stekegrad medium og godt stekt. Da maten kom husket ikke kelneren hvilken tallerken som var hva av stekegrad og maten forsvant ut på kjøkkenet igjen og likeså de fløtegratinerte potetene som måtte varmes opp igjen.
