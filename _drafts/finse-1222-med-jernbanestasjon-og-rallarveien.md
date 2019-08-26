@@ -7,7 +7,7 @@ tags:
 - Bergensbanen
 - Finse
 - Rallarveien
-title: Finse 1222 med jernbanestasjon og Rallarveien
+title: Finse 1222 hotell på jernbanestasjon og Rallarveien
 excerpt: 'Historisk hotell åpnet med Bergensbanen i 1909 og påbygd med økende etterspørsel
   senere. Beliggende på Jernbanestasjonen av samme navn. Her kan du overnatte med
   enkel standard og godt kjøkken samt leie sykkel. Stor pågang selv uten bilvei: Har
