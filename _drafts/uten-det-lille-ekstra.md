@@ -28,4 +28,10 @@ Rommet hadde god, behagelig størrelse med fin utsikt over bygda i den ene retni
 
 Flott rengjøringjobb hver dag fra rom-personalet. Kraftige rør med overspyling i tilfelle brann i taket: Betryggende i en flott gammel historisk trebygning med en fin ro, bortsett fra litt vel lytt fra nabo-værelser.
 
-Selve anledningen skulle feires med en bedre middag på hotellet. En flott sal dekorert med mye vakker kunst på veggene
+Selve anledningen skulle feires med en bedre middag på hotellet. En flott sal dekorert med mye vakker kunst på veggene. 
+
+Førsteinntrykket var et koldtbord omkranset av horder med kinesere og totalt kaos, utslitte kelnere og norske gjester som holdt seg på betryggende avstand i periferien av lokalet.
+
+Hver dag dundrer fire store busslaster kinesere med litauisk buss og sjåfør inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt annerledes enn japanske turister som er så høflige og hensynsfulle. 
+
+Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å rydde et bord vi var komfortabel med. 
