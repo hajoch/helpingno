@@ -7,11 +7,11 @@ tags:
 - Bergensbanen
 - Finse
 - Rallarveien
-title: Finse 1222 hotell på jernbanestasjon og Rallarveien
+title: Finse 1222 hotell på jernbanestasjonen og Rallarveien
 excerpt: 'Dette historiske hotellet åpnet med Bergensbanen i 1909 og ble påbygd med
   økende etterspørsel senere. Beliggende på Jernbanestasjonen av samme navn. Her kan
   du overnatte med enkel standard og godt kjøkken samt leie sykkel. Stor pågang selv
-  uten bilvei: Har ankommer du med jernbane, sykkel eller til fots. '
+  uten bilvei: Her ankommer du med jernbane, sykkel eller til fots. '
 image: "/assets/images/IMG_2908.JPG"
 image_caption: 'Foto Gunnar Christensen: Dette er utsikten fra spisesalen på Finse
   1222 historiske hotell med Hardangerjøkulen i bakgrunnen. I fjellheimen over tregrensen.'
@@ -26,11 +26,13 @@ De fleste ankommer med tog. Mange for å sykle Rallarveien fra Finse til Flåm h
 
 Med årene har Rallarveien blitt oppgradert med grus så det er mulig for folk å sykle på egne, vanlige sykler. Også sykkel-utleiebedriftene gjør det bra og gir god service med ny-overhalte sykler for problemfri tur.   
 
-Populariteten har økt prisene både på hotell og sykkelleie og dette er nå god butikk og sesongen er hektisk og over lengre tid internasjonalt kjent. 
+Populariteten har økt prisene betydelig både på hotell og sykkelleie og dette er nå god butikk og sesongen er hektisk og over lengre tid internasjonalt kjent. For familier med flere barn kan en slik tur bli litt i dyreste laget.
 
 Turistforeningens hytte på Finse er et billigere tilbud med dertil enklere standard. 
 
-Naturopplevelse i høyfjellet er Finses hovedprodukt samt historikk så langt tilbake som jernbanens eksistens. Fjellvandring: Herfra kan du gå rundt Hardangerjøkulen til Vøringsfossen på den andre siden og en rekke andre populære turistløyper - eller gå langs Rallarveien. 
+Naturopplevelse i høyfjellet er Finses hovedprodukt samt historikk så langt tilbake som jernbanens eksistens.
+
+ Fjellvandring: Herfra kan du gå rundt Hardangerjøkulen til Vøringsfossen på den andre siden og en rekke andre populære turistløyper - eller gå langs Rallarveien. 
 
 Smør niste på hytta før du går. Her er det langt mellom spisemuligheter: Du er i høyfjellet. Nyt den fantastiske naturen - og er du heldig så nyter du naturen i oppholdsvær.
 
