@@ -39,6 +39,6 @@ Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta 
 
 Både middagen, desserten og frokost manglet det lille ekstra som man forventer på et så flott hotell: Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten, servicen og hotellet som helhet. Det siste man forventer på et hotell som profilerer seg med 4 stjerner.
 
-Spark direktøren! Send kjøkkensjefen på kurs hos James Martin. Dette flotte hotellet fortjener bedre.
+Spark direktøren! Send kjøkkensjefen på kurs hos James Martin. Dette flotte hotellet fortjener mye bedre.
 
 [https://www.drholms.no/](https://www.drholms.no/ "https://www.drholms.no/")
