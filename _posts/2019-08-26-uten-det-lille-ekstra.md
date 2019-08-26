@@ -34,10 +34,10 @@ Førsteinntrykket var et koldtbord omkranset av horder med kinesere og totalt ka
 
 Hver dag dundrer fire store busslaster kinesere med Øst-Europeiske busser og sjåfører inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt motsatt japanske turister som er høflige og hensynsfulle.
 
-Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta bryet med å rydde et bord unna trafikken - som vi var komfortabel med. Hjortefilet det mest eksklusive på menyen - intet mindre. Stekegrad medium og godt stekt. Da maten kom husket ikke kelneren hvilken tallerken som var hva av stekegrad og maten forsvant ut på kjøkkenet igjen og likeså de fløtegratinerte potetene som måtte varmes opp igjen. Da maten til slutt kom var den ene biffen seig, men da orket vi ikke flere runder.
+Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta bryet med å rydde et bord unna trafikken - som vi var komfortabel med. Hjortefilet det mest eksklusive på menyen - intet mindre. Stekegrad medium og godt stekt. Da maten kom husket ikke kelneren hvilken tallerken som var hva av stekegrad og maten forsvant ut på kjøkkenet igjen og likeså de fløtegratinerte potetene som måtte varmes opp igjen. Da maten til slutt kom var den ene biffen seig, men da orket vi ikke flere runder. Men kelneren burde oppdaget at det lå igjen kjøttstykker jeg hadde gitt opp å tygge - og tatt grep.
 
-Både middagen og frokost manglet det lille ekstra som man forventer på et så flott hotell. Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten, servicen og hotellet som helhet.
+Både middagen og frokost manglet det lille ekstra som man forventer på et så flott hotell: Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten, servicen og hotellet som helhet.
 
-Spark Direktøren! Dette flotte hotellet fortjener bedre.
+Spark direktøren! Dette flotte hotellet fortjener bedre.
 
 [https://www.drholms.no/](https://www.drholms.no/ "https://www.drholms.no/")
