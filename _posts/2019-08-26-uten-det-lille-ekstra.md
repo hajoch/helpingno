@@ -13,8 +13,8 @@ title: Uten det lille ekstra.
 excerpt: 'Test: Dr. Holms hotell, Geilo i spesiell anledning. . Flott billedkunst
   i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint vær og dagstur
   med toget til Finse'
-image: ''
-image_caption: Bilde fra presentasjonen av hotellet.
+image: "/assets/images/IMG_2929.JPG"
+image_caption: Bilde GC - fra modell presentasjonen av hotellet.
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
