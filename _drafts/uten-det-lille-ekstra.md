@@ -26,4 +26,6 @@ Det var en spesiell anledning som skulle feires da vi kjørte fra Arendal til Ge
 
 Rommet hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen nå i slutten av august godt kunne krype ned på nullpunktet på kvelden....
 
-Flott rengjøringjobb hver dag fra rompersonalet. Kraftige rør med overspyling i tilfelle brann i taket: Betryggende i en flott gammel historisk trebygning.
+Flott rengjøringjobb hver dag fra rom-personalet. Kraftige rør med overspyling i tilfelle brann i taket: Betryggende i en flott gammel historisk trebygning med en fin ro, bortsett fra litt vel lytt fra nabo-værelser.
+
+Selve anledningen skulle feires med en bedre middag på hotellet. En flott sal dekorert med mye vakker kunst på veggene
