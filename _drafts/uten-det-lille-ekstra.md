@@ -10,8 +10,9 @@ tags:
 - fjellhotell
 - vinterdestinasjon
 title: Uten det lille ekstra.
-excerpt: 'Test: Dr. Holms hotell, Geilo i spesiell anledning. August med fint vær
-  og dagstur med toget til Finse. Flott billedkunst gjør oppholdet til en fin kunstopplevelse.'
+excerpt: 'Test: Dr. Holms hotell, Geilo i spesiell anledning. . Flott billedkunst
+  i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint vær og dagstur
+  med toget til Finse'
 image: ''
 image_caption: ''
 author: _authors/gunnar-christensen.md
