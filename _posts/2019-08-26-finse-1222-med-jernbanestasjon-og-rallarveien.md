@@ -7,6 +7,7 @@ tags:
 - Bergensbanen
 - Finse
 - Rallarveien
+- historisk hotell
 title: Finse 1222 hotell på jernbanestasjonen og Rallarveien
 excerpt: 'Dette historiske hotellet åpnet med Bergensbanen i 1909 og ble påbygd med
   økende etterspørsel senere. Beliggende på Jernbanestasjonen av samme navn. Her kan
@@ -41,4 +42,4 @@ Som en kuriositet kan nevnes at "Star Wars" innspilling av filmen "Frostplaneten
 
 Åpningstidene følger sesongen: Hotellet stenges om vinteren. Uvitende utlendinger som tror hotellet er åpent hele året tar en stor risiko ved å gå av toget her. Her er så værhardt at Finse er nærmest avfolket om vinteren. Kun folk til jernbanedriften.
 
-[https://finse1222.no/nb/](https://finse1222.no/nb/ "https://finse1222.no/nb/")
+[https://finse1hoyell222.no/nb/](https://finse1222.no/nb/ "https://finse1222.no/nb/")
