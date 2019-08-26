@@ -13,7 +13,7 @@ title: Uten det lille ekstra.
 excerpt: 'Test: Dr. Holms hotell, Geilo i spesiell anledning. . Flott billedkunst
   i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint vær og dagstur
   med toget til Finse'
-image: "/assets/images/uv.html"
+image: ''
 image_caption: Bilde fra presentasjonen av hotellet.
 author: _authors/gunnar-christensen.md
 categories:
@@ -24,19 +24,19 @@ weight: 4
 ---
 Det var en spesiell anledning som skulle feires da vi kjørte fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
 
-Rommet hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen i slutten av august godt kunne krype ned på nullpunktet i løpet av kvelden....
+Rommet var standard og hadde god, behagelig størrelse med fin utsikt over bygda i den ene retningen og rett inn i en nabobygning i den andre. Flott å finne en kjøler på rommet til champisen. Det er ikke noen selvfølge i dag. Men badet var iskaldt? Fordi varmekablene var sommerstengt ifølge resepsjonen. Litt underlig når temperaturen i slutten av august godt kan krype ned på nullpunktet i løpet av kvelden....
 
 Flott rengjøringjobb hver dag fra rom-personalet. Kraftige rør med overspyling i tilfelle brann i taket: Betryggende i en flott gammel historisk trebygning med en fin ro, bortsett fra litt vel lytt fra nabo-værelser.
 
-Selve anledningen skulle feires med en bedre middag på hotellet. En flott sal dekorert med mye vakker kunst på veggene.
+Selve anledningen skulle feires med en bedre middag på hotellet: En flott sal dekorert med mye vakker kunst på veggene.
 
-Førsteinntrykket var et koldtbord omkranset av horder med kinesere og totalt kaos, utslitte kelnere og norske gjester som holdt seg på betryggende avstand i periferien av lokalet. Ingen normen våget seg til dette koldtbordet slik det så ut.
+Førsteinntrykket var et koldtbord omkranset av horder med kinesere og totalt kaos, utslitte kelnere og norske gjester som holdt seg på betryggende avstand i egen del av lokalet. Ingen normen våget seg til dette koldtbordet slik det så ut.
 
-Hver dag dundrer fire store busslaster kinesere med Øst-Europeiske busser og sjåfører inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt motsatt japanske turister som er så høflige og hensynsfulle.
+Hver dag dundrer fire store busslaster kinesere med Øst-Europeiske busser og sjåfører inn på hotellet og tar over. Resepsjonen advarer mot å stille til frokost mellom kl. 7.00 og 8.00 for da brøyter kineserne seg inn uten noen form for folkeskikk. Totalt motsatt japanske turister som er høflige og hensynsfulle.
 
-Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta bryet med å rydde et bord unna trafikken - som vi var komfortabel med. Hjortefilet det mest eksklusive på menyen - intet mindre. Stekegrad medium og godt stekt. Da maten kom husket ikke kelneren hvilken tallerken som var hva av stekegrad og maten forsvant ut på kjøkkenet igjen og likeså de fløtegratinerte potetene som måtte varmes opp igjen. Da maten kom var den ene biffen seig, men da orket vi ikke flere runder.
+Middagen vår: Etter litt diskusjon fikk vi overtalt en sliten kelner til å ta bryet med å rydde et bord unna trafikken - som vi var komfortabel med. Hjortefilet det mest eksklusive på menyen - intet mindre. Stekegrad medium og godt stekt. Da maten kom husket ikke kelneren hvilken tallerken som var hva av stekegrad og maten forsvant ut på kjøkkenet igjen og likeså de fløtegratinerte potetene som måtte varmes opp igjen. Da maten til slutt kom var den ene biffen seig, men da orket vi ikke flere runder.
 
-Både middagen og frokost manglet det lille ekstra som man forventer på et så flott hotell. Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten og servicen. 
+Både middagen og frokost manglet det lille ekstra som man forventer på et så flott hotell. Det lille ekstra som gjør at man kjører i 14 timer for å oppleve det. Dette var ikke gode råvarer og ikke godt laget til. Inntrykket vi sitter igjen med er at hotellet kjører en spinke og spare-linje som går ut over kvaliteten både på maten, servicen og hotellet som helhet.
 
 Spark Direktøren! Dette flotte hotellet fortjener bedre.
 
