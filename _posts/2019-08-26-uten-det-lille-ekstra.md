@@ -14,8 +14,8 @@ excerpt: Historiske dr. Holms hotell, Geilo testes i en spesiell anledning. Flot
   billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint
   vær og dagstur med toget til Finse.
 image: "/assets/images/IMG_2929.JPG"
-image_caption: Bilde Gunnar Christensen - av modell- presentasjonen av hotellet som
-  ble bygget fra 1909 og utvidet flere ganger senere.
+image_caption: 'Bilde Gunnar Christensen: Modell-presentasjonen av hotellet som ble
+  bygget fra 1909 og utvidet flere ganger senere.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/hotell.md
