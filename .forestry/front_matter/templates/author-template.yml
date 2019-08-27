@@ -14,8 +14,8 @@ fields:
   name: image
   label: Bilde
 pages:
-- _authors/gunnar-christensen.md
 - _authors/hallvard-j-christensen.md
+- _authors/gunnar-christensen.md
 - _authors/christoffer-jore-christensen.md
 - _authors/jens-christian-jore-christensen.md
 - _authors/leserinnlegg.md

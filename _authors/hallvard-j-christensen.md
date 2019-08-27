@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Hallvard J. Christensen
-image: ''
+image: "/assets/images/0.jpg"
 
 ---
 **Teknisk redaktør, styrenestleder**  
