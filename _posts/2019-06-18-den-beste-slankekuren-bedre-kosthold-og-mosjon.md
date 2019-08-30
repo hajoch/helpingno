@@ -14,7 +14,7 @@ tags:
 - stress
 - vegetarmat
 - vær god mot deg selv
-title: 'Den beste Slankekuren: Bedre kosthold og mosjon'
+title: 'Den beste slankekuren: Bedre kosthold og mosjon'
 excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankegevinst
   nemlig å forandre det ved din livsførsel som gir deg overvekten. Oftest er det bare
   mer fysisk aktivitet og sunnere kosthold som skal til. F. eks. å begrense mengdene
