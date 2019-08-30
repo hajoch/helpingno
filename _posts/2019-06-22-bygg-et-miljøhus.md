@@ -2,7 +2,17 @@
 layout: post
 date: 2019-06-22 17:36:26 +0200
 crop_image: true
-tags: []
+tags:
+- bolig
+- Bolig hjem hus leilighet
+- miljøhus
+- sunne hus
+- bygge hus
+- førevar-prinsipp i husbygging
+- isolasjon i hus
+- inneklima
+- byggematerialvalg
+- allergi
 title: Bygg et miljøhus
 excerpt: En sjønær, romslig tomt med byggetillatelse på Sørlandet var startskuddet
   for en del år tilbake.
@@ -11,8 +21,8 @@ image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 
-weight: 4
+publish_date: 2019-08-30 00:00:00 +0200
+weight: 5
 
 ---
 Planen var å sette opp et landsted etter et rimelig nøkternt budsjett, men med alle de kvaliteter som man forbinder med et sunt hus. Et laftehus er i utgangspunktet et sunt hus, men vi ville heller ha en bygning som passet inn i kystmiljøet - altså et lite, tradisjonelt skipperhus.
