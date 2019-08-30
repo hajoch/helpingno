@@ -17,7 +17,7 @@ title: Bygg et miljøhus
 excerpt: En sjønær, romslig tomt med byggetillatelse på Sørlandet var startskuddet
   for en del år tilbake.
 image: "/assets/images/juli.04.jpg"
-image_caption: Illustrasjonsfoto Gunnar Christensen
+image_caption: "Illustrasjonsfoto Gunnar Christensen. \nMotiv fra Merdø ved Arendal."
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
