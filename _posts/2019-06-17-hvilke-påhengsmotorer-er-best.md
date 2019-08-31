@@ -50,7 +50,7 @@ Suzuki påhengsmotorer har stort sett fått godt ry senere år. Mekanikere har r
 **Tohatsu:**  
 Tohatsus 2-taktmotor har vært driftssikre og populære blant dem som kjører race fordi de tradisjonelt yter litt mer enn det som står på dekselet, men de har derfor iflg. noen undersøkelser naturlig nok litt høyere drivstoff-forbruk enn mange av konkurrentene. Tohatsu har tradisjonelt hatt litt eldre, men solid teknologi på motorene. Tohatsu har likevel mange fornøyde kunder på grunn av driftssikkerhet og god yteevne.
 
-Tohatsu leverer nå i Norge også 4-taktsmotorer. Disse er moderne motorer på høyde med det beste på markedet.
+Tohatsu leverer nå i Norge også 4-taktmotorer. Disse er moderne motorer på høyde med det beste på markedet.
 
 **Yamaha:**  
 Siden Yamaha kom på det norske markedet sent på 1970-tallet har denne motoren stått sterkt. Salgstallene er mange år på rad best av alle. Bruktverdiene på Yamaha har også ligget høyt til tross for betydelig dyrere delepriser enn mange andre merker.
