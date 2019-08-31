@@ -24,7 +24,7 @@ excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankeg
 image: "/assets/images/trille4.jpg"
 image_caption: Foto Christoffer Jore Christensen. Helping-maskoten skogskatten "Trille".
 categories:
-- _category/helse.md
+- _category/slanking.md
 publish_date: 2019-08-30 00:00:00 +0200
 weight: 8
 
