@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md
+- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-19-om-oss.md
 - _posts/2019-06-22-bygg-et-miljøhus.md
 - _posts/2019-08-26-finse-1222-med-jernbanestasjon-og-rallarveien.md
