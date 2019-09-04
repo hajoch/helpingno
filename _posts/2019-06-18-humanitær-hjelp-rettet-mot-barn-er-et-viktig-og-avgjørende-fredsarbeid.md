@@ -33,7 +33,7 @@ Husk at det er en dårlig ide å sende penger ved å legge sedler i konvolutt: V
 
 Kontakt din bank eller ditt postkontor for å få råd om hvordan du skal gå frem når du sender penger til den du vil hjelpe. Be den du hjelper om å opprette en bankkonto og vær sikker på ID - den eneste rette måten å sende penger på.
 
-Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og få den bekreftet - på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottakers navn. Bankes navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.  
+Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og få den bekreftet - på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottakers navn. Bankens navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.  
 
 Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer. Som du ikke har kontroll over.
 
