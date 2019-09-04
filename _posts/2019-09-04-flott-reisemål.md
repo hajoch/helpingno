@@ -49,7 +49,7 @@ Køene ut og inn ved ankomst til Kiel fungerer bedre og bærer også her preg av
 Vi booket to lugarer firestjerners med sjølutsikt fra lugarene. Lugarene holder god standard med god plassutnyttelse: Behagelige, rolige og funksjonelle lugarer med smakfullt design. Godt lydisolert og gode senger. Samtidig gir denne standard lugar adgang til å spise frokost uten trengsel i akter-restauranten - en stor fordel verd pristillegg.
 
 **Priser i butikkene**  
-Souvenir-shoppene er ikke billigere enn i land. Tvert om. Klesbutikkene er heller ikke billige. Rederiet satser mer på kvalitet enn pris. Skal du kjøpe taxfree-kvoten med vin så lønner det seg prismessing å gjøre dette i Kiel fremfor ombord. Et tilbud her og der retter ikke opp dette.
+Souvenir-shopping er ikke billigere enn i land. Tvert om. Klesbutikkene er heller ikke billige. Rederiet satser mer på kvalitet enn pris. Skal du kjøpe taxfree-kvoten med vin så lønner det seg prismessing å gjøre dette i Kiel fremfor ombord. Et tilbud her og der retter ikke opp dette.
 
 **Spisestedene**  
 Spisestedene ombord har alle god, variert mat og utmerket service til greie priser. Vi testet akter-restauranten to dager og fikk fremragende service og utsøkt mat. Regelen er jo høyere klasse på restauranter dess bedre service -her som i land. Likeså testet vi pizza-restauranten i "gågata" to ganger: Her var maten bedre enn de fleste pizzasteder i land. 
