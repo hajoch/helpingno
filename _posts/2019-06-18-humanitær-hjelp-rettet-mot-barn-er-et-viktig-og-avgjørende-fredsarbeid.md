@@ -9,9 +9,9 @@ tags:
 - forbrukerinformasjon
 - barnehjem
 title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
-excerpt: Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
+excerpt: 'Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
-  måte - med hensyn på å hjelpe dem økonomisk.
+  måte - med hensyn på å hjelpe dem økonomisk. '
 image: "/assets/images/aleks.jpg"
 image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk til han
   døde for noen år tilbake. Han ble kjent bl.a. gjennom helping.no sine spalter .'
@@ -21,19 +21,19 @@ publish_date:
 weight: 2
 
 ---
-Eget hjelpeprogram?
+Eget hjelpeprogram? Du blir nesten alltid lurt.
 
-Men vær litt kritisk og undersøk flere kilder når du velger ut hvem du vil støtte.
+Men vær kritisk og undersøk flere kilder når du velger ut hvem du vil støtte. Slik verden utvikler seg er det også greit å få opplegget klarert av både banken din og PST slik at man ikke gjør dumheter eller blir lurt. 
 
-Det er fint å kunne holde en direkte kontakt med dem som får bistand fra deg. På den måten får du tilbakemelding på om hjelpen kommer frem og kan følge den utviklingen som du bidrar til å hjelpe frem.
+Det er fint å kunne holde en direkte kontakt med dem som får bistand fra deg. På den måten får du tilbakemelding på om hjelpen kommer frem og kan følge den utviklingen som du bidrar til å hjelpe frem. Om de er til å stole på, da: Jeg trodde mine penger gikk til utdannelse for datteren i huset hos en tibetansk flyktning-familie i India; Da jeg etter en stund forsto jeg var blitt lurt og pengene gikk til et forsøk på å innvandre til Norge fikk den hjelpen en bråstopp.
 
-Husk at det er en dårlig ide å sende penger ved å legge sedler i konvolutt: Vi har erfaringer med at dette blir stjålet før det når den du vil gi det til: Dette har skjedd oss både i India og Gambia. Kontakt din bank eller ditt postkontor for å få råd om hvordan du skal gå frem når du sender penger til den du vil hjelpe.
+Husk at det er en dårlig ide å sende penger ved å legge sedler i konvolutt: Vi har erfaringer med at dette blir stjålet før det når den du vil gi det til: Dette har skjedd oss både i India og Gambia. Kontakt din bank eller ditt postkontor for å få råd om hvordan du skal gå frem når du sender penger til den du vil hjelpe. Be den du hjelper om å opprette en bankkonto - den eneste rette måten å sende penger på.
 
-Bank og post vil anbefale deg å sikre deg riktig navn og adresse på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottaker. Bankes navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.
+Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og få den bekreftet - på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottaker. Bankes navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.  
 
-Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer.
+Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer. Som du ikke har kontroll over.
 
-Mange velger derfor å gå gjennom organisasjoner som formidler f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
+Mange velger derfor å gå gjennom organisasjoner som formidler hjelp f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
 
 **Den beste hjelpen?**
 
@@ -55,6 +55,6 @@ Lykke til med ditt hjelpeprosjekt.
 
 **Forbruker informasjon hjelper**
 
-Vi kan gjøre mye for bønder og arbeidere i utviklingsland ved å tenke igjennom hvilke varer vi kjøper i norske butikker.
+Vi kan gjøre mye for ærlige bønder og arbeidere i utviklingsland ved å tenke igjennom hvilke varer vi kjøper i norske butikker.
 
 Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan selge varer til oss på like vilkår. Dette er den beste utviklingshjelpen vi kan gi. Vær alltid bevist hva du kjøper: På den måten er du med på å skape et sunnere verdenssamfunn.
