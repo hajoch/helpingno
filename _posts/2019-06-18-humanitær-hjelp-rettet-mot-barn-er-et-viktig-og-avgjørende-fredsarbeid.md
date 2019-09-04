@@ -23,21 +23,27 @@ weight: 2
 ---
 Eget hjelpeprogram? Du blir nesten alltid lurt.
 
-Men vær kritisk og undersøk flere kilder når du velger ut hvem du vil støtte. Slik verden utvikler seg er det også greit å få opplegget klarert av både banken din og PST slik at man ikke gjør dumheter eller blir lurt. 
+Vær kritisk og undersøk flere kilder når du velger ut hvem du vil støtte. Slik verden utvikler seg er det også greit å få opplegget klarert av både banken din og PST slik at man ikke gjør dumheter eller blir lurt/svindlet. 
+
+Det tiltaler oss å ha en direkte kontakt med mottakeren når vi leser om hvor mye uhjelp fra Norge som har gått i korrupte lommer og ikke er fulgt opp så det kommer dit vi ønsker.
 
 Det er fint å kunne holde en direkte kontakt med dem som får bistand fra deg. På den måten får du tilbakemelding på om hjelpen kommer frem og kan følge den utviklingen som du bidrar til å hjelpe frem. Om de er til å stole på, da: Jeg trodde mine penger gikk til utdannelse for datteren i huset hos en tibetansk flyktning-familie i India; Da jeg etter en stund forsto jeg var blitt lurt og pengene gikk til et forsøk på å innvandre til Norge fikk den hjelpen en bråstopp.
 
-Husk at det er en dårlig ide å sende penger ved å legge sedler i konvolutt: Vi har erfaringer med at dette blir stjålet før det når den du vil gi det til: Dette har skjedd oss både i India og Gambia. Kontakt din bank eller ditt postkontor for å få råd om hvordan du skal gå frem når du sender penger til den du vil hjelpe. Be den du hjelper om å opprette en bankkonto - den eneste rette måten å sende penger på.
+Husk at det er en dårlig ide å sende penger ved å legge sedler i konvolutt: Vi har erfaringer med at dette blir stjålet før det når den du vil gi det til: Dette har skjedd oss både i India og Gambia. 
 
-Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og få den bekreftet - på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottaker. Bankes navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.  
+Kontakt din bank eller ditt postkontor for å få råd om hvordan du skal gå frem når du sender penger til den du vil hjelpe. Be den du hjelper om å opprette en bankkonto og vær sikker på ID - den eneste rette måten å sende penger på.
+
+Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og få den bekreftet - på den du skal gi penger til: Videre må det opprettes en bankkonto på din mottakers navn. Bankes navn. adresse og swift- eller bic-kode må du også ha. Ved å sende pengene på denne måten kan du kontrollere at det kommer fram samt at du har en klagemulighet gjennom din bank eller post hvis pengene ikke kommer til rett adresse.  
 
 Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer. Som du ikke har kontroll over.
+
+Min far hadde i årevis et lite hjelpeprosjekt i Gambia hvor han ferierte. Der hadde han valgt å hjelpe et SOS-barneby-barn og en taxisjåfør i landsbyen kalt Sambo - forøvrig den eneste taxien han turde sitte på med der. Hver gang han besøkte Gambia hadde han med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Da taxien etter endel år ikke kunne brukes lengre fikk han penger av min far til en bedre bruktbil. Det ble en meget stor gave med årene. Flere år senere ble jeg ringt opp av ei kvinne som ga seg ut for å representere familien til Sambo: Jeg ble utskjelt på det groveste. Jeg er glad min far ikke fikk oppleve denne grove utakknemligheten antakelig fra en radikalisert muslim.
 
 Mange velger derfor å gå gjennom organisasjoner som formidler hjelp f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
 
 **Den beste hjelpen?**
 
-Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.
+Den best utviklingshjelpen er trolig å kjøpe varer fra dem du vil gi din støtte til. Særlig i butikkene du daglig handler i. Det gir en form for positiv likeverdighet mellom deg og dem du vil hjelpe.
 
 Mange familier i utviklingsland har spennende håndverkstradisjoner som er salgbare i vårt land. Det kan være treskjærerkunst, søm, batikk eller praktiske redskaper.
 
@@ -49,7 +55,7 @@ Mange forbrukere er på jakt etter varer som ikke er på alle hyller som gaveart
 
 Selges mye varer blir det større sysselsetting der du får varene i fra: Flere i familien eller naboer til dem du vil hjelpe kan da bli med i produksjonen noe som øker hjelpens omfang.
 
-Kjøp kun inn litt til å begynne med til du ser hvor stor avsetning du får på varene. Selges det lite kan du prøve flere butikker, men sørg da for at dette ikke er butikker som ligger i nærheten av hverandre. Ingen butikkeier liker at de samme varene blir solgt rett over gata - og kanskje til en lavere pris.
+Kjøp kun inn litt til å begynne med til du ser hvor stor avsetning du får på varene. Selges det mye kan du prøve flere butikker, men sørg da for at dette ikke er butikker som ligger i nærheten av hverandre. Ingen butikkeier liker at de samme varene blir solgt rett over gata - og kanskje til en lavere pris.
 
 Lykke til med ditt hjelpeprosjekt.
 
@@ -57,4 +63,4 @@ Lykke til med ditt hjelpeprosjekt.
 
 Vi kan gjøre mye for ærlige bønder og arbeidere i utviklingsland ved å tenke igjennom hvilke varer vi kjøper i norske butikker.
 
-Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan selge varer til oss på like vilkår. Dette er den beste utviklingshjelpen vi kan gi. Vær alltid bevist hva du kjøper: På den måten er du med på å skape et sunnere verdenssamfunn.
+Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan selge varer til oss på like vilkår. Dette er den beste utviklingshjelpen vi kan gi. Vær alltid bevist hva du kjøper: På den måten er du med på å skape et bedre og sunnere verdenssamfunn.
