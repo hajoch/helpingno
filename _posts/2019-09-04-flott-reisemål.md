@@ -27,18 +27,20 @@ weight: 5
 Forbinder du Color Line med den overfylte danskebåten "Color Superspeed" i sommerhalvåret så er dette en helt annen opplevelse: Du er på en form for cruise. Ombord finnes et så variert tilbud at det skjeden føles overfylt der du er. Her er trim, spa, revy, casino, handlegate, badeland for barna og flere flotte spisesteder.
 
 **Høy standard**  
-Magic er et vakkert skip som var nytt i 2007. Det er behagelig å være ombord. Her finner du tiltalende design, vakre utsmykninger og god plass til alle. Disse kvalitetene sammen med god service gir god trivsel og hyggelig stemning ombord.
+Magic er et vakkert skip. Det var nytt i 2007 og det er behagelig å være ombord. Her finner du tiltalende design, vakre utsmykninger og god plass til alle. Disse kvalitetene sammen med god service gir god trivsel og hyggelig stemning ombord.
 
 **Sikkerhet**  
-Etter Costa Concordia-ulykken utenfor Italia og Scandinavian Star-ulykken innser mange hvor viktig det er å reise med et seriøst rederi der kvalitet og sikkerhet er vel ivaretatt. Her er høyt fokus på sikkerhet ombord, god merking av nødutganger og TV-undervisning av sikkerhetsrutiner. Her er den beste norske sjømanns-tradisjon tatt vel vare på. 
+Etter Costa Concordia-ulykken utenfor Italia og Scandinavian Star-ulykken innser mange hvor viktig det er å reise med et seriøst rederi der kvalitet og sikkerhet er vel ivaretatt. Her er høyt fokus på sikkerhet ombord, god merking av nødutganger og TV-undervisning av sikkerhetsrutiner. Her er den beste norske sjømanns-tradisjon tatt vel vare på. Om de beholder norske sjøfolk fremover, da.......
 
 **Alle aldersgrupper**  
 Ombord er alle aldersgrupper representert i "hovedgata". Eldre ektepar som søker en rolig overfart med utsikt på dekk, god restaurant-mat og komfort. Middelaldrene med spa, bar og servering på akter-restaurantene eller på sol-dekket i sommerhalvåret. Ungdommer i full fart på diskotekene, i handlegate, butikker og på treningsstudio. Barnefamilier med teaterforestillinger, pizza, badebasseng og leke med skips klovnene.
 
 **Totalinntrykk**  
-Vi testet først skipet Color Fantasy i oktober 2008 der vi feiret en 13-årsdag som restauranten ombord gjorde mye stas på - bedre enn restauranter på land. Deretter Color Magic i oktober 2013, osv. Det er med glede vi ser at kvaliteten fremdeles er på topp. Skipene er i topp vedlike-hold, servicen er god og kvaliteten på maten i restaurantene er som før: Color-line holder både stil og kvalitet på Kiel-fergen.
+Vi testet først skipet Color Fantasy i oktober 2008 der vi feiret en 13-årsdag som restauranten ombord gjorde mye stas på - bedre enn restauranter på land. Deretter Color Magic i oktober 2013, osv. Det er med glede vi ser at kvaliteten fremdeles er på topp. Skipene er har godt vedlike-hold, servicen er god og kvaliteten på maten i restaurantene er som før: Color-line holder fortsatt både stil og kvalitet på Kiel-fergen. 
 
 Reisen er et godt ferievalg som passer til mange anledninger og aldersgrupper. Vakker kunst, smakfullt design og funksjonelle løsninger preger dette komfortable skipet.
+
+Ankomsten er plagsom med køer og trengsel. En utfordring for eldre med sviktende funksjon og helse. Mange skal inn og kun 5. stjerners passasjerer går foran. Det burde være en bedre mer kundevennlig måte å gjøre dette på. Veldig god løsning for bilen som ikke skal med, men oppbevares i parkeringshuset.
 
 **Lugar**  
 Vi booket to lugarer firestjerners med sjølutsikt fra lugarene. Lugarene holder god standard med god plassutnyttelse: Behagelige, rolige og funksjonelle lugarer med smakfullt design. Godt lydisolert og gode senger.
