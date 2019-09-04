@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/flott-reisemål.md
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md
 - _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-19-om-oss.md
