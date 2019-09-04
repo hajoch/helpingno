@@ -16,8 +16,8 @@ excerpt: 'Test: Med skipene "Fantasy" og "Magic" har Color Line utviklet Oslo-Ki
   tilbud. Color line holder skipene godt ved like og gir deg en kvalitets-reise.'
 image: "/assets/images/magic.jpg"
 image_caption: 'En firestjerners lugar ombord er flott, stilig og behagelig. Samtidig
-  gir denne standard lugar adgang til å spise uten trengsel i akter-restauranten -
-  en stor fordel. Foto: Jens Chr. Jore Christensen'
+  gir denne standard lugar adgang til å spise frokost uten trengsel i akter-restauranten
+  - en stor fordel. Foto: Jens Chr. Jore Christensen'
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/båt.md
@@ -46,7 +46,7 @@ Ankomsten er plagsom med langdryg venting, køer og trengsel. En utfordring for 
 Køene ut og inn ved ankomst til Kiel fungerer bedre og bærer også her preg av hvor mange som egentlig er ombord - noe man ikke merker så godt til på overfarten.
 
 **Lugar**  
-Vi booket to lugarer firestjerners med sjølutsikt fra lugarene. Lugarene holder god standard med god plassutnyttelse: Behagelige, rolige og funksjonelle lugarer med smakfullt design. Godt lydisolert og gode senger.
+Vi booket to lugarer firestjerners med sjølutsikt fra lugarene. Lugarene holder god standard med god plassutnyttelse: Behagelige, rolige og funksjonelle lugarer med smakfullt design. Godt lydisolert og gode senger. Samtidig gir denne standard lugar adgang til å spise frokost uten trengsel i akter-restauranten - en stor fordel verd pristillegg.
 
 **Priser i butikkene**  
 Souvenir-shoppene er ikke billigere enn i land. Tvert om. Klesbutikkene er heller ikke billige. Rederiet satser mer på kvalitet enn pris. Skal du kjøpe taxfree-kvoten med vin så lønner det seg prismessing å gjøre dette i Kiel fremfor ombord. Et tilbud her og der retter ikke opp dette.
