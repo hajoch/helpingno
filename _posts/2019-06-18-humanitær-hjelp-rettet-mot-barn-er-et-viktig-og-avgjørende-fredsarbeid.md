@@ -13,15 +13,15 @@ tags:
 - handel med utviklingsland
 - eget hjelpeprosjekt
 title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
-excerpt: 'Besøker du utviklingsland kan det være en god ide å bli kjente med en familie
+excerpt: Besøker du utviklingsland kan det være en ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
-  måte - med hensyn på å hjelpe dem økonomisk. '
+  måte - med hensyn på å hjelpe dem økonomisk?
 image: "/assets/images/aleks.jpg"
 image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk til han
   døde for noen år tilbake. Han ble kjent bl.a. gjennom helping.no sine spalter .'
 categories:
 - _category/hjelpearbeid.md
-publish_date: 
+publish_date: 2019-09-04 00:00:00 +0200
 weight: 4
 
 ---
@@ -41,7 +41,7 @@ Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og 
 
 Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer. Som du ikke har kontroll over.
 
-Min far hadde i årevis et lite hjelpeprosjekt i Gambia hvor han ferierte. Der hadde han valgt å hjelpe et SOS-barneby-barn og en taxisjåfør i landsbyen kalt Sambo - forøvrig den eneste taxien han turde sitte på med der. Hver gang han besøkte Gambia hadde han med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Da taxien etter endel år ikke kunne brukes lengre fikk han penger av min far til en bedre bruktbil. Det ble en meget stor gave med årene. Flere år senere ble jeg ringt opp av ei kvinne som ga seg ut for å representere familien til Sambo: Jeg ble utskjelt på det groveste. Jeg er glad min far ikke fikk oppleve denne grove utakknemligheten antakelig fra en radikalisert muslim.
+Min far hadde i årevis et lite hjelpeprosjekt i Gambia hvor han ferierte. Der hadde han valgt å hjelpe et SOS-barneby-barn og en taxisjåfør kalt Sambo i landsbyen nær hotellet - forøvrig den eneste taxisjåføren han turde sitte på med der. Hver gang han besøkte Gambia hadde han med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Da taxien etter endel år ikke kunne brukes lengre fikk han penger av min far til en bedre bruktbil. Det ble en meget stor gave med årene. Flere år senere ble jeg ringt opp av ei kvinne som ga seg ut for å representere familien til Sambo: Jeg ble utskjelt på det groveste. Jeg er glad min far ikke fikk oppleve denne grove utakknemligheten antakelig fra en radikalisert muslim.
 
 Mange velger derfor å gå gjennom organisasjoner som formidler hjelp f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Frelsesarmeen.
 
@@ -53,9 +53,7 @@ Mange familier i utviklingsland har spennende håndverkstradisjoner som er salgb
 
 Varene du kjøper kan selges videre til butikker i Norge, de kan selges på vennetreff f.eks. ved å danne en hjelpeklubb på hjemstedet der varene spredes via et personlig nettverk. Eller du kan åpne en nettbutikk for å selge varene videre på Internett.
 
-Hvis du velger å selge varene videre gjennom butikker bør du sikre deg noe vareprøver som du så presenterer for innkjøpsansvarlig i de butikker du mener varen passer inn i. Mange produkter laget for hånd er godt egnet for gavebutikker.
-
-Mange forbrukere er på jakt etter varer som ikke er på alle hyller som gaveartikkel for eksempel til "en som har alt".
+Hvis du velger å selge varene videre gjennom butikker bør du sikre deg noe vareprøver som du så presenterer for innkjøpsansvarlig i de butikker du mener varen passer inn i. Mange produkter laget for hånd er godt egnet for gavebutikker. Mange forbrukere er på jakt etter varer som ikke er på alle hyller som gaveartikkel for eksempel til "en som har alt".
 
 Selges mye varer blir det større sysselsetting der du får varene i fra: Flere i familien eller naboer til dem du vil hjelpe kan da bli med i produksjonen noe som øker hjelpens omfang.
 
