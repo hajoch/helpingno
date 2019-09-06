@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-09-04-flott-reisemål.md
@@ -197,7 +198,6 @@ pages:
 - _posts/2019-06-17-motsetninger-innen-moderne-islam.md
 - _posts/2019-06-18-darjeeling-teens-by.md
 - _posts/2019-06-17-siosial-fobi.md
-- _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-17-sukkeravhengighet.md
 - _posts/2019-06-18-sorg-i-bøker.md
 - _posts/2019-06-17-depresjon.md

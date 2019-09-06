@@ -71,3 +71,6 @@ En kvinne fra Hawaii har etablert seg permanent i en annen hule. Hun har konvert
 
 Hawaii-nonnen hutrer litt, barbert på hodet med føttene i de enkle sandalene står hun der i nysnøen, trekker den mørkerøde nonnekappen godt om seg og innrømmer:  
 \- Jeg lengter litt til Hawaii når det er på det kaldeste, men blir her likevel. Selv etter flere besøk i hjemlandet er konklusjonen klar: Rewalsar-fjellene er mitt nye hjem. Den åndelige energien er sterk her og lamane ..........
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
