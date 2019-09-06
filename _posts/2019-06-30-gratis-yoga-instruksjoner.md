@@ -66,7 +66,7 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 12  
   Sett tommeltotten fra høyre hånd på venstre nesebor. Ta peke-fingeren og langfingeren på pannen mellom øynene. Puste inn til du har telt inni meg til 4. Lukk så nesebor med lillefingeren. Tell til 16. åpne høyre nesebor, tell til 8 - pust ut. Pust inn til 4. Veksle til venstre nesebor og gjør det samme. Bruk hele tiden høyre hånd. | Øvelse 12 |
 
-Ligg på ryggen med armene langs siden noen minutter etter hver øvelse - også etter øvelse 12. Etter lengre trening kan det knipes inn på hvilepausene: F.eks. første hvilepause etter øvelsene 1 til og med 5.Andre hvilepause etter øvelse 6 og 7. Tredje hvilepause etter øvelse 8 og 9. Fjernde hvilepause etter 10 og 11 - samt siste hvilk etter pusteøvelsen.
+Ligg på ryggen med armene langs siden noen minutter etter hver øvelse - også etter øvelse 12. Etter lengre trening kan det knipes inn på hvilepausene: F.eks. første hvilepause etter øvelsene 1 til og med 5. Andre hvilepause etter øvelse 6 og 7. Tredje hvilepause etter øvelse 8 og 9. Fjerde hvilepause etter 10 og 11 - samt siste hvilepause etter pusteøvelsen.
 
 Print ut øvelsene så har du en "jukselapp" slik at du husker dem når du er i gang med øvelsene. Det finnes en rekke kurstilbud i Yoga rundt om i landet om du ønsker videre øvelser i yoga.
 
