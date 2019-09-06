@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-19-bmw-530-xd-touring-2008-modell.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
@@ -236,7 +237,6 @@ pages:
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
-- _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-06-27-røros-historiske-hotell.md
