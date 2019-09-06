@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-bmw-530-xd-touring-2008-modell.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-tunisia-karthagos-ruiner-oliven-og-kameler.md
@@ -147,7 +148,6 @@ pages:
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-20-3-sesonger-med-rana-plast-530.md
 - _posts/2019-06-20-bussduellen-oslo-sørlandet.md
-- _posts/2019-06-19-bmw-530-xd-touring-2008-modell.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-20-rent-drikkevann.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-yamarin-76-dc-med-250-hk-yamaha.md
