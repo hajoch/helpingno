@@ -24,7 +24,7 @@ weight: 5
 
 ---
 **OBS!  
-Siden er under utarbeidelse og mangler illustrasjoner**
+Siden er under utarbeidelse og mangler illustrasjoner. Se komplett side på:** [http://www.helping.no/yoga.htm](http://www.helping.no/yoga.htm)
 
 I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
 
