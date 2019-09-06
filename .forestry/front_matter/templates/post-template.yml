@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
@@ -244,7 +245,6 @@ pages:
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-06-26-forbrukertest-forbrukertest-lindesnes-hav-hotell.md
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
-- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-24-taco-shells-fra-santa-maria-kostet-huseier-over-100-000.md

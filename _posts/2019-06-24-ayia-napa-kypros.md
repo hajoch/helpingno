@@ -61,3 +61,6 @@ På Kypros produseres flere gode terrasse-viner til litt i overkant av to kyprio
 \- Anthea - medium dry,  
 \- Olympus sweet red  
 Disse vinene selges ikke av AS Vinmonopolet i Norge.
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
