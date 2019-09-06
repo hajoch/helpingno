@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-reiseråd.md
 - _posts/2019-06-18-fargefestival-i-nepal.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-24-ayia-napa-kypros.md
@@ -169,7 +170,6 @@ pages:
 - _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-18-Ekteskapet.md
 - _posts/2019-06-16-leasing-eller-billån.md
-- _posts/2019-06-17-reiseråd.md
 - _posts/2019-06-18-jeg-jobbet-hos-mor-teresa-en-engel.md
 - _posts/2019-06-17-bedre-bilder.md
 - _posts/2019-06-17-farmors-middag-kjøttkaker-av.md
