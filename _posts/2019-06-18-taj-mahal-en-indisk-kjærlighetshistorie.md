@@ -89,3 +89,6 @@ Fargerike amerikanere traver rundt med sitt rituelle: "very nice" eller "we just
 Velkledde unge indere lurer omkring med sine glatte, drevne veltalenhet. De letter turistene for verdisaker - om dagen med scharme og knep - om natten med kniven:
 
 \-Welcome to India, Sir!
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
