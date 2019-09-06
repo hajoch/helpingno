@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-fargefestival-i-nepal.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
@@ -188,7 +189,6 @@ pages:
 - _posts/2019-06-17-sorgbearbeidelse.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-18-livingstone-i-presume.md
-- _posts/2019-06-18-fargefestival-i-nepal.md
 - _posts/2019-06-18-advokatbrevet.md
 - _posts/2019-06-18-småbarnsfamilien.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
