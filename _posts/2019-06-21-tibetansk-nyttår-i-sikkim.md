@@ -2,7 +2,18 @@
 layout: post
 date: 2019-06-21 14:39:07 +0200
 crop_image: true
-tags: []
+tags:
+- india
+- Karmapa
+- tibetansk buddhisme
+- Tibet
+- nyttår i Tibet
+- Rumtek
+- kloster
+- Gangtok
+- maskedans
+- smørfigur
+- religiøs tradisjon
 title: Tibetansk nyttår i Sikkim
 excerpt: Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre
   dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
@@ -17,7 +28,7 @@ publish_date:
 weight: 4
 
 ---
-Lamadans er den mest fargerike tradisjon i feiringen. 
+Lamadans er den mest fargerike tradisjon i feiringen.
 
 Hans Hellighet den 16 Karmapa er på det tibetansk-  
 buddhistiske klosteret Rumtek. Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
@@ -57,3 +68,6 @@ Nyttårsfeiringen er en anstrengende tid for lamaer og munker. De har derfor syv
 
 **Velstående**  
 Den tibetanske religiøse tradisjon blomstrer nå selv om håpet deres om å vende tilbake til et fritt Tibet fra eksilet i India blir mindre med årne. Legfolket er den økonomiske ryggraden i det tibetanske klosterliv over hele India - liksom skikk var i hjemlandet de flyktet fra på 1950-tallet. Etter at tibetansk buddhisme også har fått fotfeste i Vesten er en del av klostrene blitt relativt velstående. Utenlandske, tilreisende pilgrimmer på stedet bidrar med vesentlige beløp og bidrar dermed til å bevare denne spennende kulturen i indisk eksil.
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")

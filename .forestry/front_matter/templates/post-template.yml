@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md
 - _posts/2019-06-17-reiseråd.md
 - _posts/2019-06-18-fargefestival-i-nepal.md
@@ -127,7 +128,6 @@ pages:
 - _posts/2019-06-23-boktips.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-06-23-tvangsinnleggelse-av-rus-avhengige-kan-redde-flere-liv.md
-- _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-21-du-overvåkes.md
 - _posts/2019-06-21-forbrukertest-rondane-spa-høyfjellshotell-og-hytter-hotellet-nærmest-høyfjellet.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
