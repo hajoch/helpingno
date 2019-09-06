@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-09-04-flott-reisemål.md
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md
@@ -207,7 +208,6 @@ pages:
 - _posts/2019-06-18-norge-straffer-penger-på-bok-kjøp-eiendom.md
 - _posts/2019-06-17-møte-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya.md
 - _posts/2019-06-16-døden-og-livet-som-forandring.md
-- _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
 - _posts/2019-06-17-sjøens-helter-krigsseilernes-kamp-bokanmeldelse-av-jon-michelet-bokserie.md

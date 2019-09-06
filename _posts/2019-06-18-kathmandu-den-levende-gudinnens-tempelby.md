@@ -59,3 +59,6 @@ Plutselig ser jeg bort på min følgesvenn. Han står der likblek og svaier. Bli
 Like før hadde vi passert et annet Kalialter hvor en okse var ofret. Det blodige oksehodet lå foran alteret: Skåret løs fra den store kroppen som lå midt i gaten. Mennesker passerte rundt den store okseskrotten uten en mine.
 
 Dette er dagligliv i Kathmandu.....
+
+Les alltid UDs oppdaterte reiseråd før du [reiser](http://www.helping.no/reise.htm):  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
