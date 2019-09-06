@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-18 17:20:30 +0200
+date: 2019-06-18T15:20:30.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Tunis
+- Karthago
+- Tunisia
+- Afrika
+- MIddalhavet
+- badeferie
 title: Tunisia - Karthagos ruiner, oliven og kameler.
 excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet den
   romerske politikeren Marcus Porcius Cato hvert innlegg han hadde fra talerstolen
