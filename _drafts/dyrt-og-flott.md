@@ -11,7 +11,7 @@ tags:
 title: Dyrt og flott
 excerpt: 'Test: Kanskje det beste historiske hotell? Ullensvang hotell på Lofthus
   i vakre Hardanger. Et sted å kose seg.'
-image: ''
+image: "/assets/images/IMG_2985.JPG"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
