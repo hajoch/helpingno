@@ -11,6 +11,10 @@ tags:
 - datakriminalitet
 - kontobetingelser
 - digital betaling
+- risiko
+- bankkoder
+- botnet
+- virus
 title: Penger, bank og nett?
 excerpt: 'Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innbrudd
   på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det.
@@ -22,7 +26,7 @@ image_caption: |+
 
 categories:
 - _category/økonomi.md
-publish_date: 
+publish_date: 2019-09-29 00:00:00 +0200
 weight: 3
 
 ---
