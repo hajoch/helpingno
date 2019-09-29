@@ -2,7 +2,14 @@
 layout: post
 date: 2019-06-26 05:11:48 +0200
 crop_image: true
-tags: []
+tags:
+- bil
+- nakkesleng
+- bilsikkerhet
+- helse
+- NCAP
+- sikkerhetstest
+- sikkerhetstest på biler
 title: Best beskyttelse mot nakkesleng
 excerpt: NCAPs sikkerhetstest har konsentrert seg spesielt om nakkesleng-skader fordi
   dette er alvorlige og kostbare skader for den enkelte og for samfunnet. Her linkes
@@ -13,7 +20,7 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 
+publish_date: 2019-09-29 00:00:00 +0200
 weight: 3
 
 ---

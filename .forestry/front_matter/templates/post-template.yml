@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-best-beskyttelse-mot-nakkesleng.md
 - _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-06-20-14-sesonger-med-pioner-8-barnas-favoritt.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
@@ -131,7 +132,6 @@ pages:
 - _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-drømmeboken.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
-- _posts/2019-06-26-best-beskyttelse-mot-nakkesleng.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-24-film.md
 - _posts/2019-06-24-sjekk-bildekk.md
