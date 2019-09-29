@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-18 16:51:34 +0200
+date: 2019-06-18T14:51:34.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- mentalhygiene
+- psykologi
+- jurist
+- behandling
+- rettshjelp
+- advokat
+- advokatbrev
 title: Advokatbrevet
 excerpt: Hvem har ikke fått en avlang konvolutt med et stort og elegant firmanavn
   på? Det kan være fra advokatene Stærk & Stærk og Sønn. Det er ofte litt tykt og
@@ -18,7 +26,6 @@ publish_date:
 weight: 1
 
 ---
-
 Advokatbrevet kommer ofte før helga eller før en ferie. Dels er dette en del av taktikken sakførerne bruker. Men ofte er det slik at brevet blir diktert en torsdag kveld og sekretæren skriver det ut fredag morgen. Du må aldri åpne det før etter helga eller før ferien. 50 % av alle brev inneholder ting som du bare skal notere deg. Inntil du har åpnet det så kan du regne med at ditt brev er et slikt.
 
 Brevet bør åpnes sammen med en venn. Er du så ensom at du ikke har venner, så gjør det på en hyggelig kafé. Språkbruken er ofte slik at du blir redd. Ikke bry deg om det. Er det tidsfrister, så kan du også se det an. Hvis du ikke blir redd, så blir du kanskje sinna. Da må du ikke falle for fristelsen å skrive et sint brev og true med rettssak. Rettssak er nesten aldri bra for et menneskes mentale hygiene. Dessuten er det du som blir utfordret og du har rett til å forsvare deg på din manier.

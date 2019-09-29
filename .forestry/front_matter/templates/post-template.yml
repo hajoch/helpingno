@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-advokatbrevet.md
 - _posts/2019-06-19-nazima.md
 - _posts/2019-06-19-1-sesong-med-askeladden-16-en-god-sjøbåt.md
 - _posts/2019-06-19-penger-bank-og-nett.md
@@ -191,7 +192,6 @@ pages:
 - _posts/2019-06-17-sorgbearbeidelse.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-18-livingstone-i-presume.md
-- _posts/2019-06-18-advokatbrevet.md
 - _posts/2019-06-18-småbarnsfamilien.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md
