@@ -11,6 +11,9 @@ tags:
 - loven om tiltrekning
 - psykologi
 - universell lov
+- bøker
+- film
+- magnet
 title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode liv
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
