@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-nazima.md
 - _posts/2019-06-19-1-sesong-med-askeladden-16-en-god-sjøbåt.md
 - _posts/2019-06-19-penger-bank-og-nett.md
 - _posts/2019-06-21-vitser.md
@@ -164,7 +165,6 @@ pages:
 - _posts/2019-06-19-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-19-joller-er-praktiske.md
-- _posts/2019-06-19-nazima.md
 - _posts/2019-06-20-14-sesonger-med-pioner-8-barnas-favoritt.md
 - _posts/2019-06-19-test-nikon.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
