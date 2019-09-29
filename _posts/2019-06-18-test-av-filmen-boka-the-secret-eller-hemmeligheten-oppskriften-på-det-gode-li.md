@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-18T16:10:31.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Hemmeligheten
+- Tankekraft
+- tanker og følelser
+- The Secret
+- loven om tiltrekning
+- psykologi
+- universell lov
 title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode liv
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
