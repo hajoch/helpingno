@@ -6,6 +6,8 @@ tags:
 - veteranbil
 - veterantreff
 - Froland
+- biltreff
+- Froland
 title: " Vakre veteraner i Froland"
 excerpt: Veteranbiltreff i mai hvert år
 image: "/assets/images/veteran11.jpg"
