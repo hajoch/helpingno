@@ -20,7 +20,7 @@ excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør b
   Og den går på biltaket hvis du har lastebøyler. Pioner 8 har kommet i nyere modeller
   som alle er like sikre og godt egnet for barn.
 image: "/assets/images/pioner.8.1.jpg"
-image_caption: ''
+image_caption: 'Foto: Pioner'
 categories:
 - _category/båt.md
 publish_date: 2019-09-29 00:00:00 +0200
