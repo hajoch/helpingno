@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-penger-bank-og-nett.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
@@ -156,7 +157,6 @@ pages:
 - '_posts/2019-06-19-Brukttest: Hansvik 18 HT..md'
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
-- _posts/2019-06-19-penger-bank-og-nett.md
 - _posts/2019-06-19-pioner-13.md
 - _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
