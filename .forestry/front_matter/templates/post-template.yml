@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-18-advokatbrevet.md
 - _posts/2019-06-19-nazima.md
@@ -82,7 +83,6 @@ pages:
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-19-bmw-530-xd-touring-2008-modell.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
-- _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-18-tunisia-karthagos-ruiner-oliven-og-kameler.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-18-taj-mahal-en-indisk-kjærlighetshistorie.md

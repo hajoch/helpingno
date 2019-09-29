@@ -11,6 +11,13 @@ tags:
 - Katmandu
 - gudinne
 - severdighet
+- den levende guddinnen i Kathmandu
+- Kumari Ghar
+- Hanuman Dhoka
+- tigging
+- riter
+- blodoffer
+- Kali
 title: " Kathmandu i Nepal: Den levende gudinnens tempelby"
 excerpt: 'Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert
   i et vakkert, gammelt tempel ved Hanuman Dhoka.
