@@ -9,16 +9,21 @@ tags:
 - sikkerhet i båt
 - mykplastbåt
 - robåt
+- sjø
+- sjø båtliv
+- barn
+- mykplast
 title: '14 sesonger med Pioner 8: Barnas favoritt'
 excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør beherske
   på sjøen. Å utforske strandsonen i denne jolla er et eventyr for barna. Sjøstjerner
-  og krabber, fisk og sjell. Dette er en solid og trygg båt å slippe barna ut i. Og
-  den går på biltaket hvis du har lastebøyler.
+  og krabber, fisk og skjell. Dette er en solid og trygg båt å slippe barna ut i.
+  Og den går på biltaket hvis du har lastebøyler. Pioner 8 har kommet i nyere modeller
+  som alle er like sikre og godt egnet for barn.
 image: "/assets/images/pioner.8.1.jpg"
 image_caption: ''
 categories:
 - _category/båt.md
-publish_date: 
+publish_date: 2019-09-29 00:00:00 +0200
 weight: 3
 
 ---
