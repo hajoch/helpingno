@@ -3,7 +3,13 @@ layout: post
 date: 2019-06-19T12:47:26.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- båt
+- jolle
+- selvlens
+- påhengsmotor
+- roing
+- dobbeltskrog med selvlens
 title: DP425 med selvlens og innerliner
 excerpt: 'Forbrukertest: 14 fot, tar 5 personer, veier 200 kg, har pent design. Jolla
   kan ta opp til 30 hk motor med kort stamme og var mest prisgunstig ved vårt innkjøp
@@ -13,7 +19,7 @@ image: "/assets/images/jolle425.jpg"
 image_caption: Foto GC
 categories:
 - _category/båt.md
-publish_date: 
+publish_date: 2019-09-30 00:00:00 +0200
 weight: 4
 
 ---
@@ -22,7 +28,7 @@ Det er ukjent om båten finnes ny på markedet i dag - trolig er i så fall prod
 **Hvorfor denne jolla?**  
 Mange ønsker seg ny selvlensende jolle og har en kortstammet påhengsmotor liggende fra tidligere jolle uten selvlens. Da er DP425 et kurant valg fordi denne jolla er beregnet for påhengsmotorer med kort stamme. Dette i motsetning til de fleste innerlinerne på markedet som krever påhengsmotor med lang stamme.
 
-Videre er det viktig at båten kan leveres med hvitt skrog hvilket gjør at båtens gelcoat holder seg best - dermed unngår man omlakkeringsutgifter etter få sesonger (se [Jolle](http://helping.no/bat.j.htm) ).
+Videre er det viktig at båten kan leveres med hvitt skrog hvilket gjør at båtens gelcoat holder seg best - dermed unngår man omlakkeringsutgifter etter få sesonger.
 
 **Uten styrekonsoll**  
 DP425 kjøpes i versjon uten styrekonsoll. Det gir båten flere bruksområder: Den kan roes, noe som er viktig når det skal lystres krabber i fjæresteinene, ved motorhavari, når barna skal lære å ro og far trenger trim.
@@ -35,12 +41,12 @@ DP 425 kommer lett opp i plan med en 9,9/15 hk Yamaha, gjør bra fart og ligger 
 Større motor krever en båtfører-alder over 16 år. Derfor er jolla mest kurant med 9,9 også når du en gang selger den videre. Det er størst etterspørsel etter en selvlensende jolle med 9,9 hk. Men husk: Ikke bare motorstyrke, men også fart avgjør 16-årsgrensen.
 
 **God å ro**  
-At DP425 er relativt god å ro overrasket mest. For når man kjører den med påhengeren virker det som om båten har lavt fribord og da er det naturlig at årene går mot knærne. Det gjør de ikke. De fleste innerlinerbåter i denne klassen er mildt sagt håpeløse å ro ofte på grunn av relativt stor bredde. DP 425 glir lett i vannet ved åretakene og er derfor også en ypperlig trimbåt.   
-  
-En konsekvens av de gode roegenskapene er en relativt smal akterende. Det må man være klar over når motor skal kjøpes. Max 10 hk om båten ikke skal ligge for langt bakpå i båthavna.
+At DP425 er relativt god å ro overrasket mest. For når man kjører den med påhengeren virker det som om båten har lavt fribord og da er det naturlig at årene går mot knærne. Det gjør de ikke. De fleste innerlinerbåter i denne klassen er mildt sagt håpeløse å ro ofte på grunn av relativt stor bredde. DP 425 glir lett i vannet ved åretakene og er derfor også en ypperlig trim-båt.
+
+En konsekvens av de gode ro-egenskaper er en relativt smal akterende. Det må man være klar over når motor skal kjøpes. Max 10 hk om båten ikke skal ligge for langt bakpå i båt-havna.
 
 **Selvlensen virker utmerket.**  
-Sommeren 2007 hadde rekordstor nedbør på Sørlandet. Men uansett hvor mye det regnet denne sommeren, så lenset båten seg uproblematisk hele tiden. Utløpsrøret er godt dimmensjonert og virker utmerket. Når du går ombord skrur du igjen åpningen med en kran som er grei å komme til.
+Sommeren 2007 hadde rekordstor nedbør på Sørlandet. Men uansett hvor mye det regnet denne sommeren, så lenset båten seg uproblematisk hele tiden. Utløpsrøret er godt dimensjonert og virker utmerket. Når du går ombord skrur du igjen åpningen med en kran som er grei å komme til.
 
 **Tekniske data:**  
 Lengde 425 cm bredde 160 cm. Max motor 30 hk. Vekt 200 kg.  
