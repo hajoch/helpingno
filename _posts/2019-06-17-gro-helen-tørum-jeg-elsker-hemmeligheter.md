@@ -1,9 +1,19 @@
 ---
 layout: post
-date: 2019-06-17 19:37:20 +0200
+date: 2019-06-17T17:37:20.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- healing
+- lykke
+- klarsynt
+- åndelig utvikling
+- Gro Helen
+- medium
+- inkarnasjon
+- husrens
+- andre siden
+- døden
 title: 'Gro Helen Tørum: Jeg elsker hemmeligheter '
 excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
   , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
@@ -16,7 +26,6 @@ publish_date:
 weight: 5
 
 ---
-
 \- Hvordan definerer du begrepet lykke og hva vil du si er viktigst for lykken?  
 \- Jeg intervjuet en gang den tibetanske munken Tulku Lama Lobsang. Han sa at lykke er visdom. For meg ble dette en veiviser inn til forståelsen av at lykke for meg. Det er å se stadig større sammenhenger og å se at også det meningsløse har en mening. Når jeg mestrer aksept og tilstedeværelse, når gleden over å lykkes er større enn frykten for å mislykkes - da er jeg lykkelig!
 
