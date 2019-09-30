@@ -2,7 +2,12 @@
 layout: post
 date: 2019-06-26 20:04:31 +0200
 crop_image: true
-tags: []
+tags:
+- hotelltest
+- Hoteller i Norge
+- Hotell ned strandlinje
+- Trondheim
+- sentrumsnært
 title: Flott storhotell å trives i.
 excerpt: 'Clarion hotell og Conferansesenter i Trondheim: Hyggelig betjening i et
   stort, flott hotell i moderne, arkitektonisk design som skaper undring og stimulerer

@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-06-17-mobbing.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-dp425-med-selvlens-og-innerliner.md
 - _posts/2019-06-17-depresjon.md
@@ -245,7 +246,6 @@ pages:
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-17-bmi.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
-- _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-06-26-forbrukertest-forbrukertest-lindesnes-hav-hotell.md
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
 - _posts/2019-06-24-luksusstripen.md
