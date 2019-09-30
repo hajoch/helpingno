@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-gro-helen-tørum-jeg-elsker-hemmeligheter.md
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
@@ -265,7 +266,6 @@ pages:
 - _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
 - _posts/2019-06-17-hvordan-du-skal-komme-deg-ut-av-en-slik-mani-slanking-og-slankemani.md
-- _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-grønn-suppe.md
 - _posts/2019-06-18-blodigste-minnesmerke-slaveøya.md
 - _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
