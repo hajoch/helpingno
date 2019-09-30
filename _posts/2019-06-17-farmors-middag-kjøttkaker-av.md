@@ -1,9 +1,12 @@
 ---
 layout: post
-date: 2019-06-17 23:21:18 +0200
+date: 2019-06-17T21:21:18.000+00:00
 crop_image: true
 author: _authors/ellen-marie-christensen.md
-tags: []
+tags:
+- middag
+- kjøtt
+- tradisjonsmat i Norge
 title: Farmors Bankekjøtt
 excerpt: 'Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kvalitet
   uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge
@@ -16,7 +19,6 @@ publish_date:
 weight: 4
 
 ---
-  
 Bank kjøttet. Bruk f.eks. den uskarpe enden av en kjøkkenkniv hvis du ikke har et spesialredskap for bankingen. Bank kjøttet på begge sider før steking. Brun så kjøttet på begge sider i pannen.
 
 **Steking**  
