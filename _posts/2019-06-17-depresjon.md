@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-17 19:46:15 +0200
+date: 2019-06-17T17:46:15.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- helse
+- mentalhygiene
+- mental helse
+- teknikker som løfter deg
+- meditasjon
+- tanker og følelser
+- musikk
+- komedier
+- yogaøvelser
 title: Depresjon
 excerpt: Der er mange veier ut av depresjonen.Du kan selv gjøre mye.Her er noen råd
   som kanskje kan hjelpe deg?
@@ -11,7 +20,7 @@ image: "/assets/images/jan.2.jpg"
 image_caption: 'Foto: GC'
 categories:
 - _category/mental-helse.md
-publish_date: 
+publish_date: 2019-09-30 00:00:00 +0200
 weight: 5
 
 ---

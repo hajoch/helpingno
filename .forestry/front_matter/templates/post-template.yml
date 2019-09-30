@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-depresjon.md
 - _posts/2019-06-17-farmors-middag-kjøttkaker-av.md
 - _posts/2019-06-18-konkurs-i-reiselivsbransjenkan-gi-deg-økonomisk-tap.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
@@ -206,7 +207,6 @@ pages:
 - _posts/2019-06-17-siosial-fobi.md
 - _posts/2019-06-17-sukkeravhengighet.md
 - _posts/2019-06-18-sorg-i-bøker.md
-- _posts/2019-06-17-depresjon.md
 - _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-17-sufismen.md
 - _posts/2019-06-17-begrepene-lidelse-og-sjel-i-buddhismen.md
