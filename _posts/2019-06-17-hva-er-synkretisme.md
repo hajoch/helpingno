@@ -1,13 +1,18 @@
 ---
 layout: post
-date: 2019-06-17 18:41:20 +0200
+date: 2019-06-17T16:41:20.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- religion
+- religionsblanding
+- synkretisme
+- religionsvitenskap
+- religionshistorie
 title: Hva er synkretisme?
 excerpt: En oversikt over hovedtrekk ved synkretistiske religioner
 image: "/assets/images/IMG_0541.JPG"
-image_caption: ''
+image_caption: Motiv fra Hove, Tromøy, foto Gunnar Christensen
 categories:
 - _category/religion.md
 publish_date: 
