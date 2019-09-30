@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-18 10:24:09 +0200
+date: 2019-06-18T08:24:09.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- reiseråd
+- charterreiser
+- konkurs i reiseliv
+- forsikring
+- kjøpsloven
+- kredittkort
+- " pakketurer"
+- reisegarantifondet
+- HSH
 title: Konkurs i reiselivsbransjen kan gi deg økonomisk tap?
 excerpt: Feriereiser i nedgangstider betyr at du må passe på hvor du bestiller billetter.
   Problemet er at selskapet du bestiller feriereiser hos kan være konkurs når du skal
@@ -12,11 +21,10 @@ image: "/assets/images/roma1.jpg"
 image_caption: 'Foto Gunnar Christensen: Motiv fra Roma.'
 categories:
 - _category/reise.md
-publish_date: 
+publish_date: 2019-09-30 00:00:00 +0200
 weight: 6
 
 ---
-  
 Du kan også risikere å ikke komme hjem hvis selskapet går konkurs mens du er på feriereise. Det er derfor sikrest å satse på de store, kjente selskapene og holde deg unna de små ukjente selskapene.  
   
 Komponerer du reisen selv ved å velge flyruter og hoteller på nett bør du være ekstra forsiktig: Fly kan bli kansellert og flyttet til andre avgangstidspunkt eller avviklet. Flybransjen har nå tøffere tider.
