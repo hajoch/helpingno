@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-mobbing.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-dp425-med-selvlens-og-innerliner.md
 - _posts/2019-06-17-depresjon.md
 - _posts/2019-06-17-farmors-middag-kjøttkaker-av.md
@@ -188,7 +189,6 @@ pages:
 - _posts/2019-06-18-aggresjon-for-kvinner-og-menn.md
 - _posts/2019-06-17-alkoholisme.md
 - _posts/2019-06-18-mambo.md
-- _posts/2019-06-17-mobbing.md
 - _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/2019-06-17-gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi.md
 - _posts/2019-06-17-galdhøpiggen.md
