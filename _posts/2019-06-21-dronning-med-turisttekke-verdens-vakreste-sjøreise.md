@@ -3,7 +3,15 @@ layout: post
 date: 2019-06-21 10:11:38 +0200
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- sjø
+- skipsleia
+- Hurtigruten
+- skip
+- kysttrafikk
+- naturopplevelse
+- turistmagnet
+- livsnerven langs Norskekysten
 title: 'Dronning med turisttekke: Verdens vakreste sjøreise'
 excerpt: Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i de
   åtte nordligste fylkene er Hurtigruten en like naturlig del av kysten som Lofotveggen
