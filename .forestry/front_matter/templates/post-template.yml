@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-21-vitser.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-gro-helen-tørum-jeg-elsker-hemmeligheter.md
@@ -91,7 +92,6 @@ pages:
 - _posts/2019-06-19-nazima.md
 - _posts/2019-06-19-1-sesong-med-askeladden-16-en-god-sjøbåt.md
 - _posts/2019-06-19-penger-bank-og-nett.md
-- _posts/2019-06-21-vitser.md
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-06-18-humanitær-hjelp-rettet-mot-barn-er-et-viktig-og-avgjørende-fredsarbeid.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
