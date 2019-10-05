@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-17-blomkålsuppe.md
@@ -252,7 +253,6 @@ pages:
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-24-taco-shells-fra-santa-maria-kostet-huseier-over-100-000.md
-- _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-24-volvo-544-b16.md
 - _posts/2019-06-23-jolla.md
 - _posts/2019-06-23-5-gode-søvnråd.md
