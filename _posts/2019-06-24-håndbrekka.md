@@ -7,6 +7,8 @@ tags:
 - sikkerhet
 - håndbrekke
 - teknisk
+- ny håndbrekke dårligere
+- trykknappen som vikter?
 title: " Håndbrekka"
 excerpt: Moderne biler gjennomgår nå en håndbrekke-forvandling. Spaken mellom setene
   er på mange nye biler en knapp og den virker ikke alltid som den skal. Det er bl.a.
