@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-17-hva-er-synkretisme.md
@@ -85,7 +86,6 @@ pages:
 - _posts/2019-06-18-konkurs-i-reiselivsbransjenkan-gi-deg-økonomisk-tap.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-26-best-beskyttelse-mot-nakkesleng.md
-- _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-06-20-14-sesonger-med-pioner-8-barnas-favoritt.md
 - _posts/2019-06-18-kathmandu-den-levende-gudinnens-tempelby.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
