@@ -8,17 +8,19 @@ image: "/assets/images/authors/gc8.jpg"
 
 [Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/?midToken=AQFdzOWMeaVi0g&trk=eml-email_accept_invite_single_01-header-35-profile&trkEmail=eml-email_accept_invite_single_01-header-35-profile-null-cgu7ze%7Ejyun9joy%7Ec9-null-neptune%2Fprofile%7Evanity%2Eview " linkedin")
 
-Journalist, lektor, forfatter.   
+Journalist, lektor, forfatter.  
 Nå redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
 
-Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshistorie hovedfag, økonomi mellomfag og media-sosiologi mellomfag fra universitetene i Oslo og Bergen. Feltforskning i India og Nepal på tibetansk buddhisme i 1979.   
-Hovedfag-avhandling "[Fremmede religioner i ungdomsskolens lærebøker](http://www.helping.no/religioner2.htm)" ved Universitetet i Bergen 1981.   
+Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshistorie hovedfag, økonomi mellomfag og media-sosiologi mellomfag fra universitetene i Oslo og Bergen. Feltforskning i India og Nepal på tibetansk buddhisme i 1979.  
+Hovedfag-avhandling "[Fremmede religioner i ungdomsskolens lærebøker](http://www.helping.no/religioner2.htm)" ved Universitetet i Bergen 1981.  
 Avhandling i mediasosiologi: Tema [Farger i markedsføring,](http://www.helping.no/farger.htm) Universitetet i Oslo 1978.
 
 Utgitt bøkene: "Styrkeprøven" 1996, "Skandalebøkene i Ungdomsskolen" 2004, "Aima" 2006.
 
-Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015. Stillinger som lektor. Foreleser ved Norsk Folkeakademi. Frilansjournalist, foto, lay-out mm ved siden av studier samt faste stillinger etter studier. Bl.a. Lay-out-medarbeider i VG, Oslo. Vaktsjef i Morgenavisen, Bergen. Redaktør i Fiskets Gang, Fiskeridirektoratet i Bergen. Frilansreporter i NRK-radio Bergen, Informasjonskonsulent i NVE, Oslo.   
-  
+Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015. Stillinger som lektor. Foreleser ved Norsk Folkeakademi. Frilansjournalist, foto, lay-out mm ved siden av studier samt faste stillinger etter studier. Bl.a. Lay-out-medarbeider i VG, Oslo. Vaktsjef i Morgenavisen, Bergen. Redaktør i Fiskets Gang, Fiskeridirektoratet i Bergen. Frilansreporter i NRK-radio Bergen, Informasjonskonsulent i NVE, Oslo.
+
 Gift, 3 voksne sønner.
 
 [www.linkedin.com/in/gunnar-christensen-ba257b190/](http://www.linkedin.com/in/gunnar-christensen-ba257b190/)
+
+Foto: Jens Christian Jore Christensen
