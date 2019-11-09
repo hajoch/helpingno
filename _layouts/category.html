@@ -5,7 +5,7 @@ layout: default
 <div class="width-full">
     <h3><small>{{ page.title }}</small></h3>
 
-    {% assign posts = site.categories[page.path] %}
+    {% assign posts = site.categories[page.path] | sort:"weight" | reverse %}
     {% include component/posts-grid.html %}
 
 </div>
