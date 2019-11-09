@@ -85,7 +85,7 @@ END NOTE -->
           {% assign pagecategories = post.categories | join:',' %}
           {% assign categories = site.category | where: 'path', pagecategories | map: "title" | join: " " %}
 
-          <div data-category="{{ categories }}" data-readtime="{{ post.content | number_of_words }} data-date="{{ post.content | publish_date }}">
+          <div data-category="{{ categories }}" data-readtime="{{ post.content | number_of_words }}" data-date="{{ post.content | publish_date }}">
             {% include card-post.html %}
           </div>
         {% endfor %}
