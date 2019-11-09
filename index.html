@@ -29,7 +29,7 @@ END NOTE -->
           <div class="uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
           </div>
           <div class="uk-overlay uk-overlay-default uk-position-bottom">
-            <h1>{{ main.title }}</h1>
+            <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
             <p>{{ main.excerpt }}</p>
           </div>
         </div>
