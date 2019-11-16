@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 21:50:49 +0200
+date: 2019-06-24T19:50:49.000+00:00
 crop_image: true
 tags:
 - Grand Canaria
@@ -17,7 +17,7 @@ image: "/assets/images/grancana.jpg"
 image_caption: Foto Gunnar Christensen. Gran Canaria, hotell Hotel Lopesan Costa Meloneras.
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 3
 
