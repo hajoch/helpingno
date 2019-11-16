@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-film.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-24-ayia-napa-kypros.md
@@ -108,7 +109,6 @@ pages:
 - _posts/2019-06-23-boktips.md
 - _posts/2019-06-24-bilene-som-redder-liv.md
 - _posts/2019-06-24-sjekk-bildekk.md
-- _posts/2019-06-24-film.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-06-26-drømmeboken.md
