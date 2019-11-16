@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-31 23:33:15 +0200
+date: 2019-07-31T21:33:15.000+00:00
 crop_image: true
 tags:
 - Overnatting
@@ -16,8 +16,8 @@ image_caption: |-
   Foto: Gunnar Christensen.
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
-publish_date: 2019-07-31 00:00:00 +0200
+- _category/reise.md
+publish_date: 2019-07-30T22:00:00.000+00:00
 weight: 10
 
 ---
