@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-24-film.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-fritidsparker.md
@@ -263,7 +264,6 @@ pages:
 - _posts/2019-06-19-test-nikon.md
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
-- _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-20-rent-drikkevann.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
