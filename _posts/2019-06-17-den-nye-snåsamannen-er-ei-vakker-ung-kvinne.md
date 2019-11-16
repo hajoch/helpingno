@@ -16,7 +16,7 @@ excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert 
 image: "/assets/images/susanne.jpg"
 image_caption: 'Foto: Asbjørn Egir '
 categories:
-- _category/mental-helse.md
+- _category/helse.md
 publish_date: 
 weight: 5
 
