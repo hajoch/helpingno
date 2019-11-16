@@ -11,6 +11,9 @@ tags:
 - ",mentalhygiene"
 - selvinnsikt
 - balansere sinnet
+- harmoni  helse
+- åndelig utvikling
+- innsikt
 title: Meditasjonskurs 1. Meditasjon med pusteteknikk
 excerpt: Dette meditasjonskurset er enkelt og uten innviklede instruksjoner og ritualer.
   Vi kan kalle det å "finne roen" ved hjelp av pusten. Liknende teknikker brukes både
