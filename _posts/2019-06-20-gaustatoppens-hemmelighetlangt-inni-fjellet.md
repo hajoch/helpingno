@@ -17,9 +17,10 @@ tags:
 - tåke
 title: Gaustatoppens hemmelighet. Langt inni fjellet.....
 excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
-  i fjellet til den store attraksjonen.
+  i fjellet til den store attraksjonen. Fjellstua på toppen selger vafler. Utsikten?
+  Ofte tåke her.
 image: "/assets/images/gausta2.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
