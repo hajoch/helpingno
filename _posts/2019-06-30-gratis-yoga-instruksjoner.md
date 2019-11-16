@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-30 20:44:41 +0200
+date: 2019-06-30T18:44:41.000+00:00
 crop_image: true
 tags:
 - yoga
@@ -9,6 +9,10 @@ tags:
 - mentalteknikk
 - helse
 - pusteøvelser
+- fritid
+- meditasjon
+- mentalhygiene
+- sport
 title: Yoga-instruksjoner
 excerpt: |-
   Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
@@ -18,7 +22,7 @@ image: "/assets/images/y8.jpg"
 image_caption: Øvelse 8
 author: _authors/gunnar-christensen.md
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
 weight: 5
 
