@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
@@ -268,4 +269,3 @@ pages:
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-19-test-3-sesonger-med-polar-20-en-kosebåt.md
-- _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md

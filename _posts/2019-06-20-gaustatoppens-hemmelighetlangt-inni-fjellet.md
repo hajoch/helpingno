@@ -1,18 +1,29 @@
 ---
 layout: post
-date: 2019-06-20 12:43:04 +0200
+date: 2019-06-20T10:43:04.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Gaustadtoppen
+- fjellbane
+- kabelbane
+- turistattraksjon
+- opplevelser
+- turistattraksjon
+- sport
+- ski
+- fjellvandring
+- tidligere militæranlegg
+- tåke
 title: Gaustatoppens hemmelighet. Langt inni fjellet.....
 excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
   i fjellet til den store attraksjonen.
 image: "/assets/images/gausta2.jpg"
 image_caption: Foto GC
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Dovregubben ble viden kjent gjennom Henrik Ibsens "Per Gynt", men Gaustatoppen har ruget på sine hemmeligheter helt til de siste årene. Det som har vært militære hemmeligheter helt siden den ble bygget i 1959, åpnes opp for deg og meg på helårsbasis
