@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
@@ -133,7 +134,6 @@ pages:
 - _posts/2019-08-26-finse-1222-med-jernbanestasjon-og-rallarveien.md
 - _posts/2019-06-22-bygg-et-miljøhus.md
 - _posts/2019-09-04-flott-reisemål.md
-- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-09-27-dyrt-og-flott.md

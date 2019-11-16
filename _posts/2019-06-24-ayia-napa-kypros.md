@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 22:33:41 +0200
+date: 2019-06-24T20:33:41.000+00:00
 crop_image: true
 tags:
 - syden
@@ -9,6 +9,9 @@ tags:
 - Kypros
 - solferie
 - hotelltest
+- charter
+- Grecian Bay
+- Ayia Napa
 title: Ayia Napa, Kypros
 excerpt: 'Hotelltest: Panthea Garden. Soluke på Grecian Bay Hotellet bør heve den
   sanitære standarden. Her er dessuten langt å gå til sandstranden.'
@@ -17,7 +20,7 @@ image_caption: Foto Gunnar Christensen. Sandstranden. Grecian Bay med Ayia Napa 
   i bakgrunnen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 4
 
