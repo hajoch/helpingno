@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-03 15:32:43 +0200
+date: 2019-07-03T13:32:43.000+00:00
 crop_image: true
 tags:
 - Arendal
@@ -14,7 +14,7 @@ image: "/assets/images/tyholmenhotell.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 5
 

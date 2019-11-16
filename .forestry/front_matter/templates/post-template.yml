@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-08-26-finse-1222-med-jernbanestasjon-og-rallarveien.md
 - _posts/2019-06-26-forbrukertest-forbrukertest-lindesnes-hav-hotell.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
@@ -233,7 +234,6 @@ pages:
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
-- _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-07-05-healing-og-alternativ-behandling.md
 - _posts/0000-00-00-go-for-a-walk.markdown
