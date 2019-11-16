@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-08-26 11:23:31 +0200
+date: 2019-08-26T09:23:31.000+00:00
 crop_image: true
 tags:
 - hotell
@@ -18,8 +18,8 @@ image_caption: 'Bilde Gunnar Christensen: Modell-presentasjonen av hotellet som 
   bygget fra 1909 og utvidet flere ganger senere.'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
-publish_date: 2019-08-27 00:00:00 +0200
+- _category/reise.md
+publish_date: 2019-08-26T22:00:00.000+00:00
 weight: 4
 
 ---
