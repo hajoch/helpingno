@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 12:19:05 +0200
+date: 2019-06-21T10:19:05.000+00:00
 crop_image: true
 tags:
 - gallup
@@ -23,8 +23,8 @@ image: "/assets/images/overvake-1.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
-- _category/fritid.md
-publish_date: 2019-07-05 00:00:00 +0200
+- _category/foto.md
+publish_date: 
 weight: 3
 
 ---
