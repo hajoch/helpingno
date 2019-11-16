@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2019-06-19 22:35:24 +0200
+date: 2019-06-19T20:35:24.000+00:00
 crop_image: true
 author: _authors/christoffer-jore-christensen.md
-tags: []
+tags:
+- yrkesvalg
 title: 'Når du velger utdanning og yrke: Gå for det gøyeste!'
 excerpt: 'Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ikke
   vanskelig om du stiller deg selv et enkelt spørsmål: Hva er det aller gøyeste du
@@ -12,7 +13,7 @@ excerpt: 'Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ik
 image: "/assets/images/goyeste.jpg"
 image_caption: Foto Christoffer J. Christensen
 categories:
-- _category/leserinnlegg.md
+- _category/økonomi.md
 publish_date: 
 weight: 5
 
