@@ -1,8 +1,14 @@
 ---
 layout: post
-date: 2019-06-27 17:14:26 +0200
+date: 2019-06-27T15:14:26.000+00:00
 crop_image: true
-tags: []
+tags:
+- Hoteller i Norge
+- hotell
+- Fevik
+- strandhotell
+- historisk hotell
+- Sørlandet
 title: Strand historiske Hotell på sandstranden sentralt på Fevik
 excerpt: 'Test: Strand Hotell på Fevik er en Sørlandsperle både når det gjelder beliggenhet
   og akitektur. Her har selskapslokaler og kjøkkenet vært testet fra 1960-tallet og
@@ -12,12 +18,11 @@ image: "/assets/images/strandhotutsikt.jpg"
 image_caption: " Foto: Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 2
 
 ---
-
 **Historie**  
 Hotellet har lange tradisjoner og tilhører kjeden historieske hoteller. Helt siden 1937 har Strand Hotel, Fevik vært et attraktivt feriested i skjærgården. Hotellet har tiltrukket seg kjente gjester som forfatteren Roald Dahl: Han var stamgjest her i over 30 år, sammen med sin Oscar-belønnede kone Patricia Neal.
 

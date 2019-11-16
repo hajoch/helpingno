@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-21-forbrukertest-rondane-spa-høyfjellshotell-og-hytter-hotellet-nærmest-høyfjellet.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
@@ -129,7 +130,6 @@ pages:
 - _posts/2019-06-26-drømmeboken.md
 - _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-biltips.md
-- _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
