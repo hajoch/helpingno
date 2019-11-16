@@ -3,7 +3,13 @@ layout: post
 date: 2019-06-20T08:25:43.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- båt
+- båttest
+- båt påhengsmotor
+- ungdomsbåt
+- ungdomsbåt
+- drømmebåt
 title: Hurricane 370. Drømmebåten
 excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjorden:
   Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
