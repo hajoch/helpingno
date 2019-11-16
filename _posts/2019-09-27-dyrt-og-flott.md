@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-09-27 10:45:47 +0200
+date: 2019-09-27T08:45:47.000+00:00
 crop_image: true
 tags:
 - hotelltest
@@ -16,8 +16,8 @@ image_caption: Foto Gunnar Christensen, motiv fra Ullensvang historiske hotell v
   den vakre Hardangerfjorden.
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
-publish_date: 2019-09-27 00:00:00 +0200
+- _category/reise.md
+publish_date: 2019-09-26T22:00:00.000+00:00
 weight: 7
 
 ---
