@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2019-06-27 17:03:20 +0200
+date: 2019-06-27T15:03:20.000+00:00
 crop_image: true
-tags: []
+tags:
+- hotelltest
+- hotell
+- historisk hotell
+- Røros
+- bergstaden
 title: 'Røros historiske hotell '
 excerpt: 'Test: Meget bra hotell i landlige omgivelser med gangavstand til sentrale
   severdigheter i Røros. God service og rolig atmosfære med preg av høyfjellshotell.
@@ -12,7 +17,7 @@ image: "/assets/images/roroshotell.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 3
 

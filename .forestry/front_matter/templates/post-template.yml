@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-21-forbrukertest-rondane-spa-høyfjellshotell-og-hytter-hotellet-nærmest-høyfjellet.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
@@ -231,7 +232,6 @@ pages:
 - _posts/2019-06-17-sukkeravhengighet.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
-- _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
