@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-21-du-overvåkes.md
 - _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
@@ -182,7 +183,6 @@ pages:
 - _posts/2019-06-17-alkoholisme.md
 - _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-depresjon.md
-- _posts/2019-06-17-slankekurer.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-16-Leasing.md
 - '_posts/2019-06-19-Brukttest: Hansvik 18 HT..md'
