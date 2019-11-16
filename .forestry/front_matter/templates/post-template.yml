@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-09-27-dyrt-og-flott.md
@@ -148,7 +149,6 @@ pages:
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-26-best-beskyttelse-mot-nakkesleng.md
-- _posts/2019-06-26-flott-storhotell-å-trives-i.md
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md
 - _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-24-vakre-veteraner-i-froland.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-26 20:04:31 +0200
+date: 2019-06-26T18:04:31.000+00:00
 crop_image: true
 tags:
 - hotelltest
@@ -18,7 +18,7 @@ image: "/assets/images/clartrond.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 4
 
