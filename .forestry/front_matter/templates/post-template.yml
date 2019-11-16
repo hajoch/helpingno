@@ -71,12 +71,12 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-06-19-når-du-velger-utdanning-og-yrke-gå-for-det-gøyeste.md
 - _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-21-forbrukertest-rondane-spa-høyfjellshotell-og-hytter-hotellet-nærmest-høyfjellet.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
-- _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
