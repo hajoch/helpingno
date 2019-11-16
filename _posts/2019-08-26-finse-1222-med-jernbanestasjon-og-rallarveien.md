@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-08-26 15:47:44 +0200
+date: 2019-08-26T13:47:44.000+00:00
 crop_image: true
 tags:
 - Fjellhotell
@@ -19,8 +19,8 @@ image_caption: 'Dette er utsikten fra spisesalen på Finse 1222 historiske hotel
   rene luften og nyt en kopp kaffe med vafler på hotellet. Foto Gunnar Christensen '
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
-publish_date: 2019-08-27 00:00:00 +0200
+- _category/reise.md
+publish_date: 2019-08-26T22:00:00.000+00:00
 weight: 4
 
 ---
