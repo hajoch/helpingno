@@ -10,6 +10,10 @@ tags:
 - familieparker
 - fritidsaktivitet
 - feriealternativ
+- fritidsparker
+- barn
+- underholdning
+- opplevelser
 title: 'Fritidsparker '
 excerpt: Din guide til de beste fritids-og familieparkene i Skandinavia. Fritidsparkene
   i Norge, Danmark og Sverige. Det legges vekt på barnevennlighet, tilpasning for
@@ -17,8 +21,8 @@ excerpt: Din guide til de beste fritids-og familieparkene i Skandinavia. Fritids
 image: "/assets/images/nikondk1 (1).jpg"
 image_caption: Foto Gunnar Christensen motiv fra Skagen, Danmark
 categories:
-- _category/fritid.md
-publish_date: 2019-07-04 00:00:00 +0200
+- _category/reise.md
+publish_date: 
 weight: 7
 
 ---
