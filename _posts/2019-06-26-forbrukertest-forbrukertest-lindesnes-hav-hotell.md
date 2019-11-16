@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2019-06-26 19:32:22 +0200
+date: 2019-06-26T17:32:22.000+00:00
 crop_image: true
-tags: []
-title: Lindesnes Hav Hotell
+tags:
+- hotelltest
+- hotell
+- Lindesnes
+- hotell ved havet
+title: Lindesnes Hav Hotell - nær fyret
 excerpt: 'Forbrukertest: Flott beliggenhet nær Lindesnes Fyr med elendig frokost:
   Like ved Spangereide og kort vei fra Lindesnes fyr ligger dette moderne hotellet
   på ei brygge sammen med undersjøisk restaurant og med havet ut fjorden. Flott turområde
@@ -12,7 +16,7 @@ image: "/assets/images/lindhavhotell.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 5
 
