@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-bmi.md
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md
@@ -229,7 +230,6 @@ pages:
 - _posts/2019-06-17-sukkeravhengighet.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
-- _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md

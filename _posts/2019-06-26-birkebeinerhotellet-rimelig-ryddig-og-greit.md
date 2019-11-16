@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2019-06-26 20:16:08 +0200
+date: 2019-06-26T18:16:08.000+00:00
 crop_image: true
-tags: []
+tags:
+- hotell
+- hotelltest
+- forbrukertest
+- Lillehammer
 title: 'Birkebeinerhotellet: Rimelig, ryddig og greit.'
 excerpt: "Forbrukertest: Birkebeineren hotell & Apartement, LIllehammer. Like nedenfor
   OL-bakken ligger hotellet. Her er det enkelt, rimelig, rolig, ryddig og greit. Et
@@ -13,7 +17,7 @@ image: "/assets/images/birkebeiner.jpg"
 image_caption: 'Foto  : Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 2
 
