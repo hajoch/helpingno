@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-04 11:02:15 +0200
+date: 2019-07-04T09:02:15.000+00:00
 crop_image: true
 tags:
 - sjø
@@ -9,6 +9,12 @@ tags:
 - severdighet
 - sjøfartshistorie
 - skipsleia
+- havet
+- havkanten
+- kysten i syd
+- overnatting
+- historisk sted
+- turistattraksjon
 title: Et døgn i fyrvokterboligen på Lindesnes Fyr
 excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste med panoramautsikt
   over havet. Hyggelige og gjestfrie fyrvoktere ønsker deg velkommen, hjelper deg
@@ -17,9 +23,9 @@ image: "/assets/images/lind.10.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og internettforbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
@@ -28,29 +34,6 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 
 **OBS: Siden er under utvikling flere bilder kommer**
 
-| --- |
-|  |
+SE:
 
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
+[https://www.helping.no/lindesnes.htm](https://www.helping.no/lindesnes.htm)
