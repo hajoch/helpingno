@@ -1,5 +1,0 @@
----
-title: Hotell
-color: "#9B9B9B"
-
----
