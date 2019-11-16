@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-20 11:29:28 +0200
+date: 2019-06-20T09:29:28.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- rein
+- reinsdyr
+- 'fjellsport fjellvandring '
+- Galdhøpiggen
+- villrein
+- fritid
+- Jotunheimen
+- villmark
+- " høyfjell"
 title: Galdhøpiggens villreinstamme
 excerpt: |-
   Plutselig er de der.
@@ -13,7 +22,7 @@ excerpt: |-
 image: "/assets/images/villrein.jpg"
 image_caption: Foto Christoffer J. Christensen og Hallvard J. Christensen
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
 weight: 5
 

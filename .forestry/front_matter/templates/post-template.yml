@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
 - _posts/2019-06-21-meditasjonskurs-2-mantra-meditasjon.md
 - _posts/2019-06-21-meditasjonskurs-1-meditasjon-med-pusteteknikk.md
@@ -266,6 +267,5 @@ pages:
 - _posts/2019-06-20-rent-drikkevann.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
-- _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-19-test-3-sesonger-med-polar-20-en-kosebåt.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
