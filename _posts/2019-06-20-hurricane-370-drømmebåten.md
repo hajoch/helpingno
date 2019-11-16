@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-20 10:25:43 +0200
+date: 2019-06-20T08:25:43.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags: []
@@ -11,7 +11,7 @@ excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjo
 image: "/assets/images/hurric-370-a.jpg"
 image_caption: Foto GC. Flere bilder se Ungdomsbåt
 categories:
-- _category/leserinnlegg.md
+- _category/båt.md
 publish_date: 
 weight: 7
 

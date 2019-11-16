@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-06-19-når-du-velger-utdanning-og-yrke-gå-for-det-gøyeste.md
 - _posts/2019-06-27-strand-historiske-hotell-på-sandstranden-sentralt-på-fevik.md
@@ -266,6 +267,5 @@ pages:
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-20-rent-drikkevann.md
-- _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-19-test-3-sesonger-med-polar-20-en-kosebåt.md
