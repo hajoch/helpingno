@@ -14,7 +14,7 @@ excerpt: 'Forbrukertest: Like under tregrensen i Rondane ligger Rondane Spa med 
 image: "/assets/images/rondanespa.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 5
 
