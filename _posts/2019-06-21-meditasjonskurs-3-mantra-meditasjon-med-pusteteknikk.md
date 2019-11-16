@@ -3,7 +3,19 @@ layout: post
 date: 2019-06-21T06:33:16.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- meditasjon og helse
+- helse og harmoni
+- balanse i sinnet
+- avslappingsteknikk
+- avstressing
+- mental helse
+- pusteteknikker
+- selvinnsikt
+- helse
+- healing
+- åndelig øvelse
+- konsentrasjon og avstressing
 title: Meditasjonskurs 3. Mantra-meditasjon med pusteteknikk
 excerpt: Ønsker du å kombinere de to meditasjonsformene nevnt over kan du konsentrere
   deg om o-lyden ved innpust og m-lyden ved utpust. Dermed konsetrerer du deg om både
@@ -13,9 +25,9 @@ image_caption: |-
   Foto Gunnar Christensen. Illustrasjonsfoto.
   Mantra-meditasjon med pusteteknikk
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 **Mantra-meditasjon er bare en av mange måter å meditere på.**
