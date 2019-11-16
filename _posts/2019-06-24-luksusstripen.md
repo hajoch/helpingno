@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 4
 
 ---
 Las Meloneras er det mest eksklusive området du kan besøke på Gran Canaria og kalles "luksusstripen". Området ligger ved den kjente Maspalomas-stranden og er det beste du kan velge om du ønsker deg god standard uten å sprenge budsjettet på Grand Canaria. Her ligger flere store hoteller med fire og fem stjerner på plakaten. Området består hovedsakelig av nybygg som er vel tilrettelagt med butikker og restauranter.
