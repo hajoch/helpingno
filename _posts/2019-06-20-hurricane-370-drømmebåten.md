@@ -15,7 +15,7 @@ excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjo
   Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
   båt. Piratkopi kan være farlig "
 image: "/assets/images/hurric-370-a.jpg"
-image_caption: Foto GC. Flere bilder se Ungdomsbåt
+image_caption: Foto Gunnar Christensen. Flere bilder se https://www.helping.no/bat.ung.htm
 categories:
 - _category/båt.md
 publish_date: 
