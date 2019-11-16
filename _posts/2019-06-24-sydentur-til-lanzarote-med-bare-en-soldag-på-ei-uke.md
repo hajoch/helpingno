@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 22:09:16 +0200
+date: 2019-06-24T20:09:16.000+00:00
 crop_image: true
 tags:
 - Lanzarote
@@ -20,12 +20,12 @@ image: "/assets/images/lanza.jpg"
 image_caption: 'Foto: Jens Christian Jore Christensen. Utsikt fra hotellet.'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
-publish_date: 2019-10-05 00:00:00 +0200
+- _category/reise.md
+publish_date: 2019-10-04T22:00:00.000+00:00
 weight: 5
 
 ---
- Dårligere vær rammer nå alle Kanariøyene liksom mange andre steder i verden. Skal du være sikker på å kjenne sommersol på kroppen i vinterhalvåret må du velge andre reisemål.
+Dårligere vær rammer nå alle Kanariøyene liksom mange andre steder i verden. Skal du være sikker på å kjenne sommersol på kroppen i vinterhalvåret må du velge andre reisemål.
 
 **Reisemålet: Playa Blanca**  
 Playa Blanca var en liten ukjent fiskerlandsby da vi besøkte Lanzarote første gang i 1975. Med en leiebil fra Puerto del Carmen humpet vi på en smal, støvet landevei til Papagayostrendene som få kjente til den gang. I dag er veiene på øya betydelig bedre
