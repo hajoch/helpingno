@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-01 09:07:26 +0200
+date: 2019-07-01T07:07:26.000+00:00
 crop_image: true
 tags:
 - fjellovergang
@@ -14,7 +14,7 @@ image: "/assets/images/sogn1.jpg"
 image_caption: Foto Hallvard Jore Christensen og  Christoffer Jore Christensen
 author: _authors/hallvard-j-christensen.md
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
 weight: 3
 
@@ -22,6 +22,6 @@ weight: 3
 **OBS!  
 Denne siden er under  konstruksjon og mangler foreløpig en rekke bilder.**
 
-Foto-serie
+Foto-serie - [https://www.helping.no/sognefjellet.htm](https://www.helping.no/sognefjellet.htm "https://www.helping.no/sognefjellet.htm")
 
 Vakker biltur over fjellet.
