@@ -1,5 +1,5 @@
 ---
 title: Redaksjonen - om oss
-color: "#D0021B"
+color: "#9B9B9B"
 
 ---
