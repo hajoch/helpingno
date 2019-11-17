@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-06-19-når-du-velger-utdanning-og-yrke-gå-for-det-gøyeste.md
@@ -135,7 +136,6 @@ pages:
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
-- _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md

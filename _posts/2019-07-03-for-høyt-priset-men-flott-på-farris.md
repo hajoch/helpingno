@@ -1,11 +1,14 @@
 ---
 layout: post
-date: 2019-07-03 15:49:38 +0200
+date: 2019-07-03T13:49:38.000+00:00
 crop_image: true
 tags:
 - hotell
 - hotelltest
 - spa
+- Farris
+- Larvik
+- hotell ved sandstranden
 title: For høyt priset, men bedre mat nå på Farris.
 excerpt: |2
 
@@ -15,7 +18,7 @@ image_caption: Foto Gunnar Christensen. Vakker skulptur i spa-avdelingen. Hotell
   har mye flott kunst
 author: _authors/gunnar-christensen.md
 categories:
-- _category/hotell.md
+- _category/reise.md
 publish_date: 
 weight: 3
 
