@@ -17,31 +17,16 @@ excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk 
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
   Religioner i u-skolens lærebøker før Mønsterplanen
 image: "/assets/images/skandalestor.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
 publish_date: 
 weight: 9
 
 ---
-Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
-
-Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
-
-Last ned gratis bok:  
-**-** Klikk [her](http://www.helping.no/skandale.htm) om du ønsker en **printervennlig** utgave. (Her får du hele boken på en side.)
-
-\- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).) (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
-
-Papirutgave  
-Skandalebøkene i Ungdomsskolen  
-er også tilgjengelig i papirutgave!  
-Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
-118 sider. Forlaget er utsolgt.
 
 Presseomtale av:  
-**Albert Henrik Mohn,**  
-**Morgenavisen**
+**Albert Henrik Mohn**
 
 I de siste årene har vi fått en rekke minoritetsgrupper i  
 landet vårt. Pakistanere og vietnamesere er to av dem.
@@ -66,3 +51,20 @@ problemene under teppet. Det blokkerer veien til en bedret forståelse mellom no
 Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. Det er å håpe at den utløser en debatt om et viktig tema, og at de ansvarlige i undervisningssektoren tar imot utfordringen:
 
 \- Skjerp dere lærere!
+
+Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
+
+Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
+
+Last ned gratis bok:  
+**-** Klikk [her](http://www.helping.no/skandale.htm) om du ønsker en **printervennlig** utgave. (Her får du hele boken på en side.)
+
+\- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).) (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
+
+Papirutgave  
+Skandalebøkene i Ungdomsskolen  
+er også tilgjengelig i papirutgave!  
+Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
+118 sider. Forlaget er utsolgt.
+
+Linkalternativ  for nedlasting: [http://www.helping.no/skandalebokene.htm](http://www.helping.no/skandalebokene.htm "http://www.helping.no/skandalebokene.htm")

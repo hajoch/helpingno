@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
@@ -174,7 +175,6 @@ pages:
 - _posts/2019-06-19-joller-er-praktiske.md
 - _posts/2019-06-18-natur-som-lykkepille.md
 - _posts/2019-06-19-penger-bank-og-nett.md
-- _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
 - _posts/2019-06-17-bedre-bilder.md
 - _posts/2019-06-21-spar-penger-fem-sparetips.md
 - _posts/2019-06-21-eksotisk-vakker-men-uforutsigbar.md
