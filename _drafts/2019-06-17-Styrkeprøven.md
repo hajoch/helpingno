@@ -55,7 +55,7 @@ Mange dramatiske menneskeskjebner ba om hjelp og jeg ble selv mer og mer deprime
 
 Mange ringte for å gi støtte og ros.
 
-\**Slik opparbeide jeg ett nettverk av mennesker som hadde blitt utsatt for bilulykker og liknende historier som i Styrkeprøven. Ved hjelp av dette nettverket kunne jeg kople sammen trafikkskadde innen samme geografiske område som så støttet hverandre slik at jeg med tiden fikk mindre trykk på telefonen.
+Slik opparbeide jeg ett nettverk av mennesker som hadde blitt utsatt for bilulykker og liknende historier som i Styrkeprøven. Ved hjelp av dette nettverket kunne jeg kople sammen trafikkskadde innen samme geografiske område som så støttet hverandre slik at jeg med tiden fikk mindre trykk på telefonen.
 
 (Hvorfor kunne jeg ikke henvise trafikkskadde til fastlegen? Der var da liten tillit mellom relevant helsepersonell og trafikkskadde.På den tiden (1983 og utover) ble nakkesleng sett på som en psykisk diagnose og flere av spesialistene lot seg selge til forsikirngsselskapene ved å bagatellisere nakkesleng som psykisk eller innbilt lidelse. I boka er disse råtne legene kalt "Forsikringslegene". Trafikkskadde ble dermed avspist med ingen behandling, liten forståelse og ingen erstatning. Dette utdypes nærmere i boka.)
 
