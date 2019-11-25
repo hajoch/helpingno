@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/barne-fortelleing-den-gode-samtalen.md
 - _posts/2019-05-25-AIMA.markdown
 - _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
