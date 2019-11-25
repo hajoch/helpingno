@@ -28,7 +28,7 @@ Dette er gutteturen vi har gledet oss til lenge. Vi skal lande og sove på Gjess
 
 \- Hva er religion, pappa?   
 \- En veiledning på livet.   
-Vi ler. Tittan vet at pappa elsker spørsmål fra barna sine og gjør alt han kan for å forklare alt så lett som mulig.Samtidig kan han spøke med alt.   
+Vi ler. Tittan vet at pappa elsker spørsmål fra barna sine og gjør alt han kan for å forklare alt så lett som mulig. Samtidig kan han spøke med alt.   
 \- Nå tuller du pappa!  Det er jo påhengsmotoren vi trenger brukerveiledning til….   
 \- Ikke bare til den. Livet kan være mye vanskeligere å forstå enn påhengeren.   
 \- Hvordan da?   
