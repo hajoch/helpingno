@@ -13,7 +13,7 @@ title: 'Barne-fortelleing: Den gode samtalen'
 excerpt: Den gode samtalen mellom foreldre og barn en en av de viktigste tegn på et
   godt foreldre-barn-forhold. Det er viktig med slike samtaler for fordi det skaper
   trygghet, innsikt og refeksjoner for begge parter.
-image: "/assets/images/september1.jpg"
+image: "/assets/images/IMG_2753.JPG"
 image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
