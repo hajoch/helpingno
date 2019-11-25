@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
@@ -189,7 +190,6 @@ pages:
 - _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md
 - _posts/2019-06-17-alkoholisme.md
-- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-depresjon.md
 - _posts/2019-06-19-psykiatrien-i-støpeskjeen-igjen.md
 - _posts/2019-06-16-Leasing.md

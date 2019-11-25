@@ -102,8 +102,9 @@ Styrkeprøven av Gunnar Christensen er ei bok som vedkjem dei fleste menneske i 
 
 KNUT G. SOLBERG, SETESDØLEN
 
-  
 **Godt komponert**  
 "Styrkeprøven er godt komponert og tar opp en viktig sak for alle dem som er trafikkskadd og har møtt muren. Boka gir et klart bilde av forsikringsselskapenes makt og evne til manipulering takket være deres tilgang til høyt kvalifiserte eksperter. Dette er den lille mann mot et overveldende apparat. Dette gir Styrkeprøven et samfunnsmessig perspektiv."
 
 ALBERT HENRIK MOHN, Bergen Arbeiderblad.
+
+Link for nedlasting: [http://www.helping.no/styrkeproven.htm](http://www.helping.no/styrkeproven.htm "http://www.helping.no/styrkeproven.htm")
