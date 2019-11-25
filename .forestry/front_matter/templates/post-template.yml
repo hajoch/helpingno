@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-11-25-barne-fortelleing-den-gode-samtalen.md
 - _posts/2019-05-25-AIMA.markdown
@@ -99,7 +100,6 @@ pages:
 - _posts/2019-06-21-du-overvåkes.md
 - _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-24-film.md
-- _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md

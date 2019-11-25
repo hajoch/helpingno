@@ -69,8 +69,9 @@ jeg ikke.**
 
 Ute av tunellen ligger Turistforeningens hytte sløret i tåke som et spøkelsesslott en liten klatretur unna. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i tåka.
 
-Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
+Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
 
-**Linker**  
+**Linker  
+**Flere  bilder: [http://www.helping.no/gaustabanen.htm](http://www.helping.no/gaustabanen.htm)  
 **Slik får du kontakt med Gaustabanen:**  
 [www.gaustabanen.no](http://www.gaustabanen.no/)
