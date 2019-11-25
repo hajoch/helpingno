@@ -49,7 +49,7 @@ Slik ble Styrkeprøven til
 
 [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
-\**Da boka kom ut haglet det med telefonhenvendelser. Jeg måtte ta nettene til hjelp for å betjene alle trafikkskadde som ønsket kontakt. Det er ikke etisk forsvarlig å trekke ut telefonkontakten når de fleste som ringte meg vurderte å ta livet sitt.
+Da boka kom ut haglet det med telefonhenvendelser. Jeg måtte ta nettene til hjelp for å betjene alle trafikkskadde som ønsket kontakt. Det er ikke etisk forsvarlig å trekke ut telefonkontakten når de fleste som ringte meg vurderte å ta livet sitt.
 
 Mange dramatiske menneskeskjebner ba om hjelp og jeg ble selv mer og mer deprimert av alle tragediene som ble fortalt meg. Ofte var det kun behov for å lytte - å kunne snakke til en som forsto - andre ganger kunne det være dramatisk: Ei fraskildt, ung kvinne med små barn som nå ville hoppe fra 8 etg..
 
