@@ -76,19 +76,19 @@ Tittan tenker seg om før han svarer:
 \- En gammel mann med langt hvitt hår og skjegg med stokk oppe i himmelen som ser alt vi gjør og husker det….  
 \- Så når du tenker ordet “Gud” inni hodet ditt så ser du det bilde av Gud.  
 \- Ja.  
-\- Har du lagt merke til at tankene inni hodet ditt er bilder?   
- Tittan nikker.  
+\- Har du lagt merke til at tankene inni hodet ditt er bilder?  
+Tittan nikker.  
 \- Slik er det også med de mange millioner menneskene på kloden vår som også har tanker om hva Gud er. De har også mange forskjellige bilder i hodet av hva Gud er og ikke er. Noen tenker på Gud som en person slik som deg. Men det er også mange som ser for seg at Gud er for stor til å være bare en person.  
 \- Hva mener du?  
 \- Hvis Gud er f.eks. alt som finnes i verden…..  
 \- Men er det mulig?  
-\- Ja. Alt er mulig i tankene våre. Det er mulig å tenke seg at Gud er all den energien som gjør at alt finnes. At som alt gror i naturen, vinden, bølgene og stjernene. Det betyr at både oss alle på jordkloden og hele verdensrommet er en del av Gud. Altså at Gud er større enn noe annet som finnes og større enn vi mennesker kan forstå. Det er kanskje det som menes når noen sier at Gud er allmektig.  
+\- Ja. Alt er mulig i tankene våre. Det er mulig å tenke seg at Gud er all den energien som gjør at alt finnes. Alt som alt gror i naturen, vinden, bølgene og stjernene. Det betyr at både oss alle på jordkloden og hele verdensrommet er en del av Gud. Altså at Gud er større enn noe annet som finnes og større enn vi mennesker kan forstå. Det er kanskje det som menes når noen sier at Gud er allmektig.  
 \- Jeg forstår ikke at Gud kan være noe annet enn en super-person med kjempegod hukommelse.  
 \- Det er mange som tenker som deg. De føler at hvis de ikke kan se for seg Gud som en person, så er det vanskelig å forstå. Da er det best å tro på det man føler seg trygg på og forstår.  
 \- Betyr det noe for oss om Gud er en person eller en god kraft som gjør at vi eksisterer?  
 \- Ja. Fordi hvis du tror at Gud er en person som er langt unna deg, så kan du føle at det er lang avstand og vanskelig å få kontakt selv med god mobildekning.  
 Vi ler. Tittan bemerker:  
-\- Selv ikke de beste mobilselskaper har dekning langt opp i himmelen.   
+\- Selv ikke de beste mobilselskaper har dekning langt opp i himmelen.  
 \- Derfor kan det være godt å føle at Gud ikke er noe som er langt unna, men at vi mennesker er en del av Gud. Da har vi nærkontakt hele tiden - mellom Gud og oss selv på en måte - og vi kan sende våre tanker og ønsker om hjelp direkte online…..  
 Vi ler igjen. Tittan svarer:  
 \- Da trenger vi ikke en gang mobil.  
