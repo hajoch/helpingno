@@ -24,7 +24,6 @@ publish_date:
 weight: 9
 
 ---
-
 Presseomtale av:  
 **Albert Henrik Mohn**
 
@@ -52,7 +51,7 @@ Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. De
 
 \- Skjerp dere lærere!
 
-Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
+**Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.**
 
 Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
 
@@ -61,7 +60,7 @@ Last ned gratis bok:
 
 \- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).) (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
 
-Papirutgave  
+**Papirutgave**  
 Skandalebøkene i Ungdomsskolen  
 er også tilgjengelig i papirutgave!  
 Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
