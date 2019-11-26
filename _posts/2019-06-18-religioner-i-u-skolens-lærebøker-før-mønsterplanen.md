@@ -24,28 +24,17 @@ publish_date:
 weight: 9
 
 ---
-Presseomtale av:  
-**Albert Henrik Mohn**
+**Presseomtale av: Albert Henrik Mohn**
 
-I de siste årene har vi fått en rekke minoritetsgrupper i  
-landet vårt. Pakistanere og vietnamesere er to av dem.
+I de siste årene har vi fått en rekke minoritetsgrupper i landet vårt. Pakistanere og vietnamesere er to av dem. Begge kommer fra sørlige breddegrader og er preget av religion og kultur temmelig forskjellig fra vår egen. Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
 
-Begge kommer fra sørlige breddegrader og er preget  
-av religion og kultur temmelig forskjellig fra vår egen.
+Toleranse vokser ikke sjelden ut av forståelse. Med rette legges det derfor stor vekt på dette i Mønsterplanen for ungdomsskolen. Men oppfylles de gode forsettene?
 
-Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
-
-Toleranse vokser ikke sjelden ut av forståelse. Med  
-rette legges det derfor stor vekt på dette i Mønsterplanen  
-for ungdomsskolen. Men oppfylles de gode forsettene?
-
-Det er dette lektor Gunnar Christensen retter søkelyset mot i skriftet "Fremmede religioner i ungdomsskolens lærebøker".  
-Han foretar en kritisk analyse av de mest brukte lærebøkene i samfunnskunnskap og religion i ungdomsskolen og påviser en rekke uriktige informasjoner, utelatelser og misforståelser.
+Det er dette lektor Gunnar Christensen retter søkelyset mot i skriftet "Fremmede religioner i ungdomsskolens lærebøker". Han foretar en kritisk analyse av de mest brukte lærebøkene i samfunnskunnskap og religion i ungdomsskolen og påviser en rekke uriktige informasjoner, utelatelser og misforståelser.
 
 Det munner ut i følgende konklusjon: Lærebøkene i samfunnskunnskap beskriver de fremmede religionene på en dårlig måte?. En godt underbygd dom.
 
-Dette er et felt som det nå har vært vist altfor liten oppmerksomhet. Vi har en tendens til å feie disse  
-problemene under teppet. Det blokkerer veien til en bedret forståelse mellom nordmenn og innflytterne.
+Dette er et felt som det nå har vært vist altfor liten oppmerksomhet. Vi har en tendens til å feie disse problemene under teppet. Det blokkerer veien til en bedret forståelse mellom nordmenn og innflytterne.
 
 Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. Det er å håpe at den utløser en debatt om et viktig tema, og at de ansvarlige i undervisningssektoren tar imot utfordringen:
 
