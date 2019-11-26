@@ -9,6 +9,10 @@ tags:
 - far og sønn samtale
 - barnas spørsmål
 - novelle
+- religion
+- filosofi
+- tanker om Gud
+- guttetur
 title: 'Barn-voksen: "Den gode samtalen". Novelle'
 excerpt: Den gode samtalen mellom foreldre og barn er en av de viktigste tegn på et
   godt foreldre-barn-forhold. Det er viktig med slike samtaler fordi det skaper trygghet,
