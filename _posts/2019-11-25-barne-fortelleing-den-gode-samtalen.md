@@ -103,7 +103,7 @@ Vi ler igjen. Tittan svarer:
 \- Derfor trenger vi brukerveiledningene……  
 \- Ganske riktig lille venn. Du blir en klok mann når du blir voksen…..
 
-Vi har krøpet inn i soveposene og lukket glidelåsen i teltet. Satt på et lite nattlys på lykta så vi finner veien ut av teltet i mørket. om vi skal tisse.
+Vi har krøpet inn i soveposene og lukket glidelåsen i teltet. Satt på et lite nattlys på lykta så vi finner veien ut av teltet i mørket om vi skal tisse.
 
 Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i dreggfeste.
 
