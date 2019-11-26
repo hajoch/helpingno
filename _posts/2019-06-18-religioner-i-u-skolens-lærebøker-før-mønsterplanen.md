@@ -40,7 +40,7 @@ Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. De
 
 \- Skjerp dere lærere!
 
-**Redaksonen:**
+**Redaksjonen:**
 
 Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
 
