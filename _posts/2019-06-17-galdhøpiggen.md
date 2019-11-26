@@ -35,7 +35,7 @@ Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - ha
 
 Det var nedtur for både barn og voksne selv om været var strålende og det var mulig å kjøpe en Galdhøpiggen pins nede på Spiterstulen etterpå som plaster på såret.
 
- For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser. Turistforeningen har merket denne turen med 4 timers gange fra Spiterstulen på sine kart, men det er kun de sprekeste som klarer dette.
+For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser. Turistforeningen har merket denne turen med 4 timers gange fra Spiterstulen på sine kart, men det er kun de sprekeste som klarer dette.
 
 Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser og nistespising - og fremfor alt nyte den fine naturopplevelsen denne turen byr på. Best av alt så behøver man ikke klatreutstyr eller brevandring for å bestige Galdhøpiggen fra Spiterstulen. Men du må utstyre deg med varme og vindtette klær - og det er en del snø på veien.
 
@@ -69,7 +69,9 @@ Se også:
 
 \- og egne forsiktigshetsregler når du går på isbre.
 
-###### Fjellvettreglene
+Flere bilder: [https://www.helping.no/gald.htm](https://www.helping.no/gald.htm)
+
+###### **Fjellvettreglene**
 
 Værforholdene i fjellet endrer seg raskt og det er viktig å være forberedt på uvær. Uansett om du har lite erfaring med friluftsliv eller er en dreven fjellvandrer er det lurt å ha fjellvettreglene i bakhodet underveis.
 
