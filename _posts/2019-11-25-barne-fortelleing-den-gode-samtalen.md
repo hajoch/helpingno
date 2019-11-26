@@ -10,7 +10,7 @@ tags:
 - barnas spørsmål
 - novelle
 title: 'Barn-voksen: "Den gode samtalen". Novelle'
-excerpt: Den gode samtalen mellom foreldre og barn en en av de viktigste tegn på et
+excerpt: Den gode samtalen mellom foreldre og barn er en av de viktigste tegn på et
   godt foreldre-barn-forhold. Det er viktig med slike samtaler fordi det skaper trygghet,
   innsikt og refleksjoner for begge parter. Novelle.
 image: "/assets/images/IMG_2753.JPG"
