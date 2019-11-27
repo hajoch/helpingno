@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-03 11:41:49 +0200
+date: 2019-07-03T09:41:49.000+00:00
 crop_image: true
 tags:
 - naturfoto
@@ -17,26 +17,6 @@ weight: 2
 ---
 **Siden er under konstruksjon og flere bilder kommer senere**
 
-| --- |
-|  |
+Se alle bildene på:
 
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
-
-| --- |
-|  |
+[https://www.helping.no/ab.htm](https://www.helping.no/ab.htm)
