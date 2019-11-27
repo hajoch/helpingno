@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-slik-kjøper-du-bil.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-06-17-lise-lyseggen-om-klimakrisen-uten-indianernes-kunnskap-vil-menneskeheten-dø-ut.md
@@ -229,7 +230,6 @@ pages:
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-20-sommeren-1977-elvis-presley-og-volvo-amazon.md
 - _posts/2019-06-18-bahai.md
-- _posts/2019-06-17-slik-kjøper-du-bil.md
 - _posts/2019-06-17-Lisa Williams:.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
 - _posts/2019-06-17-kosebåt.md
