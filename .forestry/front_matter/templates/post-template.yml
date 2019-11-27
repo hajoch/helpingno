@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
@@ -141,7 +142,6 @@ pages:
 - _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-biltips.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
-- _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-01 19:40:55 +0200
+date: 2019-07-01T17:40:55.000+00:00
 crop_image: true
 tags:
 - sjø
@@ -79,13 +79,13 @@ Vår forbrukertest av [AMT 185BR.](http://www.helping.no/bow.3.htm) viser at Hon
 
 Det er i dette valget lagt stor vekt på en totalvurdering av båtene. At AMT 185BR kan bestilles med hvitt skrog uten den besværlige fargede stripa langs skrogsiden og de praktiske designmessig løsningene ombord som bl.a. kalesje-løsningen (som er inkludert i prisen) samt penere akterende gir plusspoeng.
 
-AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret toppresultatet. Konkurrenten Yamnarin 58BR er dyrere enn AMT. 
+AMT 185BR: Hadde motoren på testbåt virket som den skal, så ville AMT skåret toppresultatet. Konkurrenten Yamnarin 58BR er dyrere enn AMT.
 
 Konklusjonen må bli at drømmebåten er en AMT 185 BR med komfortstoler, hvitt skrog og 100 hk Yamaha 4-takt.
 
 Men ingen forhandlere vil levere en AMT med Yamaha, men vi fikk best handel og service på AMT hos Mysen Motorcenter på Mysen. Her fikk vi bestilt en AMT med helt hvitt skrog  
-og 90 hk Honda og den absolutt beste handelen på markedet da vi handlet.  
-  
+og 90 hk Honda og den absolutt beste handelen på markedet da vi handlet.
+
 Forhandlere for Yamarin var litt for selvsikre og lite villige til å kjøpsforhandle. Yamarin-forhandlerne i Arendal og Grimstad var direkte arrogante. Det var derfor lett å velge en AMT.
 
 Derfor ble det forbrukertest av AMT: Se [Forbrukertest](http://www.helping.no/bow.3.htm)
@@ -120,3 +120,6 @@ Med 115 hk 2 personer 37 knop
 Med 150 hk 2 personer 47 knop
 
 Kalesje og hydraulisk styring er ikke inkludert i prisen på Yamarin.
+
+Flere bilder:   
+[https://www.helping.no/bow.3.htm](https://www.helping.no/bow.3.htm)
