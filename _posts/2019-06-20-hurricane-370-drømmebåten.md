@@ -10,6 +10,8 @@ tags:
 - ungdomsbåt
 - ungdomsbåt
 - drømmebåt
+- Hurricane
+- Cyber 370
 title: Hurricane 370. Drømmebåten
 excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjorden:
   Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
@@ -29,9 +31,9 @@ Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som ra
 
 Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.
 
+Flere bilder på: [https://www.helping.no/bat.ung.htm](https://www.helping.no/bat.ung.htm)
+
 Utviklingen av Winrace racebåtene kan sees på linkene under:  
-[www.winraceboats.no](http://www.winraceboats.no/)  
-[www.winracepropellers.no](http://www.winracepropellers.no/)  
 [www.facebook.com/winracepropellers](http://www.facebook.com/winracepropellers)
 
 **Hva er forskjellen på Hurricane og Cyber?**  
@@ -54,9 +56,12 @@ Vi har i en periode på 8 sesonger testet versjonen av båten som heter Hurrican
 **To motorer**  
 To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha** 9,9 hk trimmet til 15. Begge motorene passer ypperlig på båten, men 9,9/15 hk får båten raskt i plan og det går greit med to lette personer i båten.
 
-**Yamaha  
-**Yamaha 9,9hk er en driftssikker og solid motor i 2-taktversjon. Mer populær enn Yamahas 4-takter hos de unge. Dette har sammenheng med at motoren kan trimmes til15 hk ved et mindre inngrep hos forhandler. På sjøen er det 16-årsgrense på båter over 10 hk. Og da er det viktig at det står 9,9 på dekselet og ikke 15. Derfor er 9,9 storselgeren, mens 15 hk som egentlig er samme motoren selger dårligere.
+**Yamaha**  
+Yamaha 9,9hk er en driftssikker og solid motor i 2-taktversjon. Mer populær enn Yamahas 4-takter hos de unge. Dette har sammenheng med at motoren kan trimmes til15 hk ved et mindre inngrep hos forhandler. På sjøen er det 16-årsgrense på båter over 10 hk. Og da er det viktig at det står 9,9 på dekselet og ikke 15. Derfor er 9,9 storselgeren, mens 15 hk som egentlig er samme motoren selger dårligere.
 
 Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at det på noen båter kan bli problemer med å tilte opp motoren med styrestaket på - men ikke på vår versjon. Men der er trangt. Videre er det litt plundrete å få plassert originaltanken til motoren i Hurricaneversjonen på en stødig måte under dekk ved motoren på grunn av båtens forsterkninger av skroget.
 
 Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha på en liten kalesje for å holde den tørr. Da blir båten tett og klarer seg gjennom regnvær uten problemer.
+
+Flere bilder:  
+[https://www.helping.no/bat.ung.htm](https://www.helping.no/bat.ung.htm "https://www.helping.no/bat.ung.htm")
