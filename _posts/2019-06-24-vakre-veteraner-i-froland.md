@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 12:18:47 +0200
+date: 2019-06-24T10:18:47.000+00:00
 crop_image: true
 tags:
 - veteranbil
@@ -28,4 +28,6 @@ Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsn
 
 Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et sikkert mai-tegn hvert år.
 
-Flere bilder kommer senere.
+Flere bilder:
+
+[https://www.helping.no/bilveteran.htm](https://www.helping.no/bilveteran.htm)
