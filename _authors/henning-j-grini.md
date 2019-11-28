@@ -28,8 +28,10 @@ Egen hjemmeside med artikler og diverse:
 
 [www.countdown2contact.org](www.countdown2contact.org)
 
-**Forfatter av boken:**  
+**Forfatter av bøkene:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
 Utgitt engelsk versjon i 2017. ( Utgitt på norsk i 2016.)
+
+"Vår nære fremtid" Utgitt 2019
 
 E-post: [hjgrini@gmail.com](mailto:hjgrini@online.no)
