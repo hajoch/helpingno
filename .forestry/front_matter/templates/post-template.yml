@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi.md
 - _posts/2019-06-18-aggresjon-for-kvinner-og-menn.md
 - _posts/2019-06-17-slik-kjøper-du-bil.md
 - _posts/2019-06-19-slik-tenker-en-ekte-indianer.md
@@ -258,7 +259,6 @@ pages:
 - _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
 - _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-sorgbearbeidelse.md
-- _posts/2019-06-17-gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi.md
 - _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/2019-06-18-mambo.md
 - _posts/2019-06-17-hva-er-blasfemi.md
