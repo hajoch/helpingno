@@ -9,6 +9,7 @@ tags:
 - kvinner og menn
 - adferd
 - rollemodeller
+- følelser
 title: Aggresjon for kvinner og menn
 excerpt: "Når ulven jakter, viser den ikke tegn på aggresjon. Den er intenst opptatt
   av det den holder på med. Jo. Skulle den komme i kamp med en av samme art, så flekker
