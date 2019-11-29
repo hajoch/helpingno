@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2019-06-23 15:30:53 +0200
+date: 2019-06-23T13:30:53.000+00:00
 crop_image: true
-tags: []
+tags:
+- sjø
+- seilskip
+- skoleskip
+- opplæring på sjøen
+- Sørlandet
 title: Seilskipet "Sørlandet"
 excerpt: '"Sørlandet" er et norsk seilskip. Skipet har tidligere vært brukt bl.a.
   til skoleskip, chartervirksomhet i sommerhalvåret mm.. '
@@ -16,6 +21,10 @@ weight: 1
 
 ---
 Sørlandet er tremastet fullrigger på 577 bruttotonn, 64 m lang, 9 m bred og største mastehøyde 34 m.
+
+Denne siden er under konstruksjon:   
+Flere bilder mm  
+[https://www.helping.no/sorlandet.htm](https://www.helping.no/sorlandet.htm)
 
 [://no.wikipedia.org/wiki/SS_%C2%ABS%C3%B8rlandet%C2%BB](https://no.wikipedia.org/wiki/SS_%C2%ABS%C3%B8rlandet%C2%BB "https://no.wikipedia.org/wiki/SS_%C2%ABS%C3%B8rlandet%C2%BB")
 
