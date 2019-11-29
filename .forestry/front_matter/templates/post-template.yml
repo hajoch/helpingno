@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-06-23-boktips.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi.md
@@ -149,7 +150,6 @@ pages:
 - _posts/2019-06-26-biltips.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
-- _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
 - _posts/2019-06-22-båt-tips.md

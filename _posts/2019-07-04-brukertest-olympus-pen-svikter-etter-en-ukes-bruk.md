@@ -1,12 +1,17 @@
 ---
 layout: post
-date: 2019-07-04 10:09:48 +0200
+date: 2019-07-04T08:09:48.000+00:00
 crop_image: true
 tags:
 - foto
 - foto digital bilde
 - kamera
 - forbrukertest
+- Olympus
+- kameraduell
+- filtertips
+- Olympus PEN
+- Retrokamera
 title: 'Brukertest: Olympus PEN: Svikter etter en ukes bruk!'
 excerpt: |-
   Olympus PEN E-P1 gjør et fint førsteinntrykk. Hele familien liker kameraet og det gir alle sitt beste på "Auto" og fotointeresserte det lille ekstra på sine ekstrainnstillinger på andre programvalg.
