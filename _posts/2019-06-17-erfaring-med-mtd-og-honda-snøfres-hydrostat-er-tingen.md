@@ -6,6 +6,7 @@ author: _authors/gunnar-christensen.md
 tags:
 - snøfreser
 - vinterutstyr
+- snømåking
 title: 'Erfaring med MTD og Honda snøfres: Hydrostat er tingen'
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
@@ -24,6 +25,8 @@ På forhånd hører du på råd hos forskjellige forhandlere og ser på priser o
 Jeg valgte derfor MTD. Jeg tenkte: "En kanadisk snøfres må jo kunne jobben. Canada har like mye snø som Norge. I Japan er det sikkert ikke store snøklatten"
 
 Og selgeren skrøt av hvor god snøfres MTDene er: "Alle er fornøyde og de holder i evigheter og åtte hestekrefter er mer en nok til å frese fram hus og garasje. Du sliter den ikke ut i din levertid."  
+Ettesnørydding
+
 Etterpå har jeg tenkt: Så jeg dårlig ut da jeg kjøpe freseren?
 
 Så står det en ny MTD-snøfres i garasjen. Deilig å strekke ledningen og trykke på knappen så starter den lett og greit. Og den får fort snø å bryne seg på. Men MTDen tar bare tørr snø - og det er mest våt snø på Sørlandskysten. Freseren funker på et vis de første fire sesongene, men jeg sliter med å få maskinen til å kaste snøen høyt nok når brøytekantene blir godt over meteren høye. Splinten ryker, men den lar seg skifte lett på en MTD.
