@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-06-23-boktips.md
 - _posts/2019-06-17-blomkålsuppe.md
@@ -126,7 +127,6 @@ pages:
 - _posts/2019-06-21-meditasjonskurs-introduksjon.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-06-17-grønn-suppe.md
-- _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
 - _posts/2019-06-21-landeveispiratene.md
 - _posts/2019-06-21-lønner-det-seg-å-importere-båten-selv.md
 - _posts/2019-06-21-gjøkuret-fra-schwartzwald.md
