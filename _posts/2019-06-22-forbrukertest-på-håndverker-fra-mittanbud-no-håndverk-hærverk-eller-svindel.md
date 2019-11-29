@@ -1,8 +1,14 @@
 ---
 layout: post
-date: 2019-06-22 15:54:37 +0200
+date: 2019-06-22T13:54:37.000+00:00
 crop_image: true
-tags: []
+tags:
+- svindel
+- håndverker
+- forbrukertvist
+- anbudstjeneste
+- håndverksslurv
+- ufaglært
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: |-
   Slik blir du svindlet på mittanbud.no som tiltrekker
@@ -19,10 +25,9 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 0
+weight: 
 
 ---
-  
 "Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse:  
 Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
 
