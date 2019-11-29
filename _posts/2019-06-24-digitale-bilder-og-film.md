@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 15:59:26 +0200
+date: 2019-06-24T13:59:26.000+00:00
 crop_image: true
 tags:
 - foto
@@ -15,7 +15,7 @@ image_caption: "Foto:Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 
 weight: 6
 
 ---
