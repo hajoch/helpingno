@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-05 11:55:49 +0200
+date: 2019-07-05T09:55:49.000+00:00
 crop_image: true
 tags:
 - flyreise
@@ -9,20 +9,19 @@ tags:
 - rutefly
 title: Barna fikk flyskrekk i gammelt DC-fly fra Norwegian.
 excerpt: Kun det sikreste alternativet er godt nok når hele familien skal til Roma
-  i påsken - da prisene er på det høyeste. Norwegian markedsfører seg med nye fly,
-  en smilende direktør og valget ble gjort. Nyere fly betyr mye for sikkerheten og
-  følelsen av trygghet i luften. Likeså direkte flygning fra Norge til destinasjonen
-  fremfor mellomlandinger.
+  i påsken - da prisene er på det høyeste. Norwegian markedsfører seg med nye fly
+  og valget ble gjort. Nyere fly betyr mye for sikkerheten og følelsen av trygghet
+  i luften. Likeså direkte flyging fra Norge til destinasjonen fremfor mellomlandinger.
 image: "/assets/images/flaggNO.gif"
 image_caption: Illustrasjonsbilde
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-07-05 00:00:00 +0200
+publish_date: 2019-07-04T22:00:00.000+00:00
 weight: 2
 
 ---
-Vi betalte den gang for reise i en Boeing 737, men fikk uten forvarsel et nedslitt gammelt DC-fly og bortkommet koffert på Roma-ferie.   
+Vi betalte den gang for reise i en ny Boeing 737, men fikk uten forvarsel et nedslitt gammelt DC 8 eller 9-fly. Og bortkommet koffert på Roma-ferie.  
 OBS! Dette var før Boeing Max 8 skandalen.
 
 **Gammelt nedslitt DC-fly**  
