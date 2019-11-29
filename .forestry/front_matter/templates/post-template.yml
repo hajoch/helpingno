@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-cao-dai-vietnams-nye-religion.md
 - _posts/2019-06-19-skal-du-selge-båten-din-på-nett-se-opp-for-svindlere.md
 - _posts/2019-07-04-brukertest-olympus-pen-svikter-etter-en-ukes-bruk.md
 - _posts/2019-06-23-boktips.md
@@ -263,7 +264,6 @@ pages:
 - _posts/2019-06-18-mambo.md
 - _posts/2019-06-17-hva-er-blasfemi.md
 - _posts/2019-06-18-hva-er-gud.md
-- _posts/2019-06-19-cao-dai-vietnams-nye-religion.md
 - _posts/2019-06-19-test-nikon.md
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
