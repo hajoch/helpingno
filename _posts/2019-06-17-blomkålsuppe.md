@@ -8,6 +8,9 @@ tags:
 - blomkål
 - vegetarmat slankekost
 - oppskrift på suppe
+- vegetarmat
+- alternativ middag
+- sunnt kosthold
 title: Blomkålsuppe - lett vegetarmiddag
 excerpt: Vegetarmat - sunt, billig og godt
 image: "/assets/images/blomk..jpg"
