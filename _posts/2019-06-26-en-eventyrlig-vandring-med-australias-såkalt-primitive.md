@@ -1,8 +1,17 @@
 ---
 layout: post
-date: 2019-06-26 08:24:10 +0200
+date: 2019-06-26T06:24:10.000+00:00
 crop_image: true
-tags: []
+tags:
+- bok
+- litteratur antropologi
+- litteratur
+- Australia
+- aborginere
+- sosialantropologi
+- urinnvåner
+- dokumentar
+- dokumentarroman bøker litteratur
 title: En eventyrlig vandring med Australias såkalt primitive
 excerpt: Morgan har skrevet en underlig bok. Romanen gir oss en unik og spennende
   mulighet til innlevelse i og forståelse av Australias undertrykte urbefolkning -

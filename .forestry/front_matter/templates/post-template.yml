@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-22-forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
 - _posts/2019-08-11-vw-passat-alltrack-i-strupen-på-volvo-xc70.md
 - _posts/2019-06-17-indre-uro.md
@@ -154,7 +155,6 @@ pages:
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-06-26-drømmeboken.md
-- _posts/2019-06-26-en-eventyrlig-vandring-med-australias-såkalt-primitive.md
 - _posts/2019-06-26-biltips.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
