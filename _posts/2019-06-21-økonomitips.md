@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 11:49:09 +0200
+date: 2019-06-21T09:49:09.000+00:00
 crop_image: true
 tags:
 - økonomi
@@ -8,13 +8,13 @@ tags:
 - investering
 - personlig økonomi
 title: Økonomitips
-excerpt: Gode råd i personlig økonomi.
+excerpt: Gode råd i personlig økonomi. Gi deg selv en trygg fremtid.
 image: "/assets/images/bruktbat.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/økonomi.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 7
 
 ---
