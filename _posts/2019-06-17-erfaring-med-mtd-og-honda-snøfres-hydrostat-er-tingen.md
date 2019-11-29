@@ -7,6 +7,10 @@ tags:
 - snøfreser
 - vinterutstyr
 - snømåking
+- forbrukertest
+- hydrostat
+- MTD
+- Honda
 title: 'Erfaring med MTD og Honda snøfres: Hydrostat er tingen'
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
@@ -42,7 +46,7 @@ En kanadisk snøfreser som ikke tåler kulde?
 Dette er en typisk begynnererfaring. Man ser på pris og stoler for mye på løgnaktige selger. Spør heller andre eiere av freser når du treffer dem om vinteren. Les forbrukererfaringer på nett. Be om anbefalinger på hvilket merke som menes best og erfaringene med egen freser ut i fra behovene til den enkelte bruker. Definer så ditt eget behov for snøfreser.
 
 **Andre kjøp er en Honda**  
-En nabo hadde en gammel Honda freser fra begynnelsen av åttitallet. Han hjalp til når min MTD måtte på verksted tre ganger på en vinter. Det forundret meg at denne gamle freseren med syv hestekrefter kastet snøen flere meter opp i luften og gikk uten feil år etter år.
+En nabo hadde en gammel Honda freser fra begynnelsen av åttitallet. Han hjalp til når min MTD måtte på verksted tre ganger på en vinter. Det forundret meg at en gamle freser fra 1980-tallet med syv hestekrefter kastet snøen flere meter opp i luften og gikk uten feil år etter år.
 
 **Hydrostat er bedre**  
 Neste sesong bar det til Honda-forhandler: En Honda-freser på 8 hk type 970 med snorstart, hydrostat med hjul kostet 29 tusen spenn, men jeg fikk en fjorårsmodell lite brukt for 22 spenn med kjetting og ett års garanti. Mer enn nok dyrt synes jeg: Omkring det dobbelte av hva jeg hadde gitt for MTDen i sin tid. Og MTD-en ville Honda-forhandleren ikke ta i innbytte. Den måtte selges gjennom annonse på nett.
@@ -57,8 +61,8 @@ Men hvorfor har de fleste Honda-selgerne og reparatører selv skaffet seg Honda-
 Er det som med plenklipperne til Honda at det er de gamle Honda-plenklipperne som er de beste?
 
 **Konklusjon**  
-Konklusjonen er at en freser med hydrostat er den mest solide og sterkeste, men dyreste freseren du kan kjøpe. Se ikke bare på antall hestekrefter. Der er flere gode merker på markedet som leverer maskiner med hydrostatsdrift. Dette sammen med at du må sikre deg tilgang på et pålitelig verksted som gir deg god rask og rimelig service når du trenger det.
+Konklusjonen er at en freser med hydrostat er den mest solide og sterkeste, men dyreste freser du kan kjøpe. Se ikke bare på antall hestekrefter. Der er flere gode merker på markedet som leverer maskiner med hydrostatsdrift. Dette sammen med at du må sikre deg tilgang på et pålitelig verksted som gir deg god rask og rimelig service når du trenger det.
 
-Viktigst av alt: Sjekk sikkerhetsutstyret på en freser. Finnes ikke gitter i utkastetrøret så styr unna. Mange har fått kuttet av seg hånda på fresere med dårlig sikkerhet som har tette seg. Dette er en farlig innretning hvis du ikke har lest bruksanvisningen nøye. Følg sikkerhetsreglene.
+Viktigst av alt: Sjekk sikkerhetsutstyret på en freser. Finnes ikke gitter i utkast-røret så styr unna. Mange har fått kuttet av seg hånda på fresere med dårlig sikkerhet som har tette seg. Dette er en farlig innretning hvis du ikke har lest bruksanvisningen nøye. Følg sikkerhetsreglene.
 
 Hondaforhandleren løy om hvor lettstartet den var. Flere vintere måtte jeg gi opp å få startet den fordi den ikke er lett å starte med snor. Når alderen kom på var den også for tung i bruk. Når du kjøper freser for flere år fremover ta den med elstart.
