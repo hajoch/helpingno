@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
@@ -195,7 +196,6 @@ pages:
 - _posts/2019-06-18-Ekteskapet.md
 - _posts/2019-06-17-søvn.md
 - _posts/2019-06-20-3-sesonger-med-rana-plast-530.md
-- _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-18-hytteinntekt-slik-leier-du-ut-hytta.md
 - _posts/2019-06-17-alkoholisme.md
 - _posts/2019-06-17-depresjon.md
