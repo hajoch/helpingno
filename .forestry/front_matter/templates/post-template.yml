@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
@@ -247,7 +248,6 @@ pages:
 - _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
-- _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-18-prestasjonsangst.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
