@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-05 12:49:15 +0200
+date: 2019-07-05T10:49:15.000+00:00
 crop_image: true
 tags:
 - healing
@@ -8,6 +8,11 @@ tags:
 - behandling
 - kvakksalvere
 - håndspåleggelse
+- alternativ behandling
+- alternativt
+- indisk religion
+- helbredelse
+- bønn
 title: Healing og alternativ behandling
 excerpt: Hva er "alternativt"? Er alternativ behandling svindel?
 image: "/assets/images/healing11.jpg"
@@ -17,7 +22,7 @@ image_caption: |-
 author: _authors/gunnar-christensen.md
 categories:
 - _category/religion.md
-publish_date: 2019-07-05 00:00:00 +0200
+publish_date: 2019-07-04T22:00:00.000+00:00
 weight: 2
 
 ---
