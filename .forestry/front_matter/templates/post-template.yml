@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-23-boktips.md
 - _posts/2019-06-17-blomkålsuppe.md
 - _posts/2019-06-17-gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi.md
 - _posts/2019-06-18-aggresjon-for-kvinner-og-menn.md
@@ -139,7 +140,6 @@ pages:
 - _posts/2019-06-20-står-ufo-religionen-bak-menneskekloning-ny-religion-med-økende-tilhengerskare.md
 - _posts/2019-06-23-tvangsinnleggelse-av-rus-avhengige-kan-redde-flere-liv.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
-- _posts/2019-06-23-boktips.md
 - _posts/2019-06-24-bilene-som-redder-liv.md
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
