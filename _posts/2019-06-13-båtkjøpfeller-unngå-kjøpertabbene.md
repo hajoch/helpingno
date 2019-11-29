@@ -26,9 +26,9 @@ categories:
 - _category/båt.md
 image: "/assets/images/juli.01[1].JPG"
 crop_image: true
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 
 weight: 3
-image_caption: 'foto: Gunnar Christensen'
+image_caption: "Gjessøya ved Hove utenfor  Arendal. \nfoto: Gunnar Christensen"
 
 ---
 Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i luften på båtmesser og i salgsannonser. Sommeruker på sjøen lokker med badeliv og fiske. Dette ligger i bakhodet når båtannonser pløyes.
