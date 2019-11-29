@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
@@ -170,7 +171,6 @@ pages:
 - _posts/2019-06-21-dronning-med-turisttekke-verdens-vakreste-sjøreise.md
 - _posts/2019-06-24-håndbrekka.md
 - _posts/2019-06-18-gi-barna-et-godt-forhold-til-bøker.md
-- _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-17-begrepene-lidelse-og-sjel-i-buddhismen.md
 - _posts/2019-06-21-kreftfremkallende-plastflasker.md
 - _posts/2019-06-18-disneyland-i-paris.md

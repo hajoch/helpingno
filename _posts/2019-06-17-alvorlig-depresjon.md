@@ -13,7 +13,7 @@ excerpt: 'Mange tenker på depresjon som symptomet tristhet eller senket stemnin
   Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et
   spørreskjema vi kaller MADRS. '
 image: "/assets/images/okt7.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
