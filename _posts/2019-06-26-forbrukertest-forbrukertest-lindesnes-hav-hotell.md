@@ -7,9 +7,9 @@ tags:
 - hotell
 - Lindesnes
 - hotell ved havet
-title: Lindesnes Hav Hotell - nær fyret
+title: Lindesnes Hav Hotell - på vei til Lindesnes fyr
 excerpt: 'Forbrukertest: Flott beliggenhet nær Lindesnes Fyr med elendig frokost:
-  Like ved Spangereide og kort vei fra Lindesnes fyr ligger dette moderne hotellet
+  Like ved Spangereid og kort vei fra Lindesnes fyr ligger dette moderne hotellet
   på ei brygge sammen med undersjøisk restaurant og med havet ut fjorden. Flott turområde
   både på land og lands kysten.'
 image: "/assets/images/lindhavhotell.jpg"
@@ -27,7 +27,7 @@ Her er spesial tilbud til turister med undersjøisk restaurant og først og frem
 
 Hotellet ligger for langt unna E18 til å tiltrekke seg mye gjennomgangstrafikk med lang, smal og svinget vei sammenfallende med veien til idylliske Lindesnes fyr.
 
-**Det triste med Lindesnes fyr nå er den stygge vindmølleparken som har ødelagt mye av den uberørte, landlige og visuelt vakre del av denne populære turistmagneten. At det er mulig!**
+**Det triste med Lindesnes fyr nå er den stygge vindmølleparken som har ødelagt mye av den uberørte, landlige og visuelt vakre del av denne populære turistmagneten. At det er mulig! Politikere ansvarlig for dette burde stilles for retten.**
 
 Utmerkede rom med god standard. Noen med utvendig adkomst fra adkomstgalei. Heisen var i uorden i hovedbygningen så vi fikk et flott rom i hotellfløy - som vanligvis blir mest brukt i sommersesongen - med utvendig adkomstgalleri og gange over et lite uteområde for å komme til resepsjon og hotellrestaurant. Lite komfortabelt i ruskevær denne helgen. Hyggelig betjening og greie priser.
 
