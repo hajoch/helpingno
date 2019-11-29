@@ -25,11 +25,13 @@ Vi betalte den gang for reise i en ny Boeing 737, men fikk uten forvarsel et ned
 OBS! Dette var før Boeing Max 8 skandalen.
 
 **Gammelt nedslitt DC-fly**  
-Skuffelsen var derfor stor da Norwegian satte inn et nedslitt, gammelt DC-fly merket "norwegian.se" hvor man tydelig kunne se "Fly Nordic" under et tynt lag ny maling. Svensk mannskap som ikke forsto norsk gjorde det ikke bedre. Et slikt fly er egnet til å utvikle flyskrekk.
+Skuffelsen var derfor stor da Norwegian satte inn et nedslitt, gammelt DC-fly merket "norwegian.se" hvor man tydelig kunne se "Fly Nordic" under et tynt lag ny maling. Svensk mannskap som ikke forsto norsk gjorde det ikke bedre. Et slikt fly er egnet til å utvikle flyskrekk - og det fikk vi. Det var just det vi ville forhindre ved å fly nettopp dette selskapet. 
 
-Flyselskapenes personalpolitikk er også viktig for flysikkerheten. Det er ikke underlig at 20 til 25 % av befolkningen har flyskrekk når vi får presseoppslag om at piloter sovner på jobb i luften på grunn av for lang arbeidstid. Når selv pilotene mener dette går på flysikkerheten løs, bør vi som forbrukere engasjere oss siden undersøkelsen gjelder piloter i SAS og Norwegian.
+I bakhodet har vi følgende oppslag fra mediene: Flyselskapenes personalpolitikk er også viktig for flysikkerheten. Det er ikke underlig at 20 til 25 % av befolkningen har flyskrekk når vi får presseoppslag om at piloter sovner på jobb i luften på grunn av for lang arbeidstid. Når selv pilotene mener dette går på flysikkerheten løs, bør vi som forbrukere engasjere oss siden undersøkelsen gjelder piloter i SAS og Norwegian.
 
-Flygernes arbeidsforhold og flysikkerhet har fått velfortjent stor mediaoppmerksomhet. Dette fordi opplysningene om trette piloter på jobb skremmer oss som reiser med fly. Med egne utsagn rokker pilotene nå ved vår forestillinger om flysikkerhet: Opplevelse av sikkerhet og følelse av trygghet på flyreiser er viktig. Hvem tør fly med en pilot som har vært på jobb i 12 timer? Liksom hvem tør bli operert av en kirurg som har være på jobb i 18 timer? Problemet er at vi ikke vet om dette når det skjer. Bør vi ha krav på å vite dette?
+Flygernes arbeidsforhold og flysikkerhet har fått velfortjent stor mediaoppmerksomhet. Dette fordi opplysningene om trette piloter på jobb skremmer oss som reiser med fly. 
+
+Med egne utsagn rokker pilotene nå ved vår forestillinger om flysikkerhet: Opplevelse av sikkerhet og følelse av trygghet på flyreiser er viktig. Hvem tør fly med en pilot som har vært på jobb i 12 timer? Liksom hvem tør bli operert av en kirurg som har være på jobb i 18 timer? Problemet er at vi ikke vet om dette når det skjer. Bør vi ha krav på å vite dette?
 
 **Koffert ble borte**  
 Så kom den neste skuffelsen. En koffert var blitt borte da vi kom til Roma. Og det var flere passasjerer på samme fly som manglet koffert.
