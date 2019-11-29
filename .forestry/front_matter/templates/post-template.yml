@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
@@ -258,7 +259,6 @@ pages:
 - _posts/2019-06-17-siosial-fobi.md
 - _posts/2019-06-17-motsetninger-innen-moderne-islam.md
 - _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
-- _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-sorgbearbeidelse.md
 - _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/2019-06-18-mambo.md
