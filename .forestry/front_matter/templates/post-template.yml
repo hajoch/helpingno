@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-08-11-vw-passat-alltrack-i-strupen-på-volvo-xc70.md
 - _posts/2019-06-17-indre-uro.md
 - _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-17-alvorlig-depresjon.md
@@ -160,7 +161,6 @@ pages:
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-06-22-båt-tips.md
 - _posts/2019-08-01-flyskrekk-finnes-hjelp.md
-- _posts/2019-08-11-vw-passat-alltrack-i-strupen-på-volvo-xc70.md
 - _posts/2019-06-25-første-klasses-hverdagssportsbil.md
 - _posts/2019-06-21-se-volkswagens-rustproblemer.md
 - _posts/2019-06-24-russebilen.md

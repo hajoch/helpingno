@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-08-11 15:00:06 +0200
+date: 2019-08-11T13:00:06.000+00:00
 crop_image: true
 tags:
 - bil
@@ -9,6 +9,8 @@ tags:
 - AlltrcK 2013
 - passat
 - bruktbil
+- stasjonsvogn
+- privatbil
 title: VW Passat Alltrack i strupen på Volvo XC70
 excerpt: 'Bruktbil fra 2013: Med Passat Alltrack er Volkswagen rett i strupen på Volvo
   XC 70 ved å prise seg langt under Volvos modeller. Passat Alltrack er hevet 3 cm
@@ -38,4 +40,4 @@ Testbilen har bl.a. innfellbart hengerfeste. Dette er en praktisk og god løsnin
 En knapp legger ned baksetet når du står i bagasjerommet: Praktisk og smart. Det er også panorama soltak med gardin som dekker det meste av takflaten. Parkering-sensorene foran er også ekstrautstyr liksom elektriske justeringer av førersetet mens det er manuell regulering av setet ved siden av.
 
 **Konklusjon.**  
-Alltrack vil trolig stjele mange kunder fra Volvo XC70 for dette er en like stor og god bil som Volvoen, men til en lavere pris.
+Alltrack stjele trolig mange kunder fra Volvo XC70 for dette er en like stor og bil som Volvoen, men til en lavere pris. Men Volvoen er bedre på bl.a. rust og slitestyrke.
