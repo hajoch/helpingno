@@ -120,6 +120,3 @@ Med 115 hk 2 personer 37 knop
 Med 150 hk 2 personer 47 knop
 
 Kalesje og hydraulisk styring er ikke inkludert i prisen på Yamarin.
-
-Flere bilder:   
-[https://www.helping.no/bow.3.htm](https://www.helping.no/bow.3.htm)
