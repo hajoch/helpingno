@@ -1,14 +1,20 @@
 ---
 layout: post
-date: 2019-06-26 05:26:51 +0200
+date: 2019-06-26T03:26:51.000+00:00
 crop_image: true
-tags: []
+tags:
+- bil
+- bobla
+- Volkswagen Boble
+- historie om Bobla
+- biltest
+- bruktbiltest
 title: 'Bruktbil: "Nye Bobla"?'
 excerpt: Når du vrir om tenningsnøkkelen i denne bilen forventer du en høylytt brøl
   fra den luftkjølte "boxer-motoren" bakerst. Det skjer ikke. I stedet starter en
   stillegående Golf-motor framme i "bagasjerommet". Du sitter nå behageligere og du
   har kjøreegenskapene og støydempingen til en Golf. Og du har 5 stjerner i Euro NCAPs
-  sikkerhetstest.
+  sikkerhetstest?
 image: "/assets/images/boble3.jpg"
 image_caption: Foto Christoffer Jore Christensen
 author: _authors/gunnar-christensen.md

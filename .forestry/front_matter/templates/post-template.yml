@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
 - _posts/2019-06-17-Lisa Williams:.md
@@ -171,7 +172,6 @@ pages:
 - _posts/2019-06-23-tvangsinnleggelse-av-rus-avhengige-kan-redde-flere-liv.md
 - _posts/2019-06-24-bilene-som-redder-liv.md
 - _posts/2019-06-24-sjekk-bildekk.md
-- _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-06-26-drømmeboken.md
 - _posts/2019-06-26-biltips.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
