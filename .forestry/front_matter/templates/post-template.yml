@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
@@ -260,7 +261,6 @@ pages:
 - _posts/2019-06-18-sorg-i-bøker.md
 - _posts/2019-06-17-siosial-fobi.md
 - _posts/2019-06-17-motsetninger-innen-moderne-islam.md
-- _posts/2019-06-17-delikat-oppskrift-hvitløksmarinerte-scampi.md
 - _posts/2019-06-17-sorgbearbeidelse.md
 - _posts/2019-06-17-farmors-kjøttkaker.md
 - _posts/2019-06-18-mambo.md
