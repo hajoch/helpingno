@@ -8,6 +8,8 @@ tags:
 - kjøreopplæring
 - sertifikat
 - øvelseskjøring
+- ny bak rattet
+- råd om kjøreopplæring
 title: Øvelseskjøring med bil - førerkortopplæring
 excerpt: '"Øvelse gjør mester" - sånn er det med alt, også øvelseskjøring. Den eneste
   måten å bli en trygg og god sjåfør på er å ha erfaring. Det er viktig å begynne

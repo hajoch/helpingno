@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-øvelseskjøring-med-bil-førerkortopplæring.md
 - _posts/2019-06-17-mobbing.md
 - _posts/2019-06-18-test-av-filmen-boka-the-secret-eller-hemmeligheten-oppskriften-på-det-gode-li.md
 - _posts/2019-06-17-erfaring-med-mtd-og-honda-snøfres-hydrostat-er-tingen.md
@@ -224,7 +225,6 @@ pages:
 - _posts/2019-06-18-livingstone-i-presume.md
 - _posts/2019-06-18-småbarnsfamilien.md
 - _posts/2019-06-17-sjøens-helter-krigsseilernes-kamp-bokanmeldelse-av-jon-michelet-bokserie.md
-- _posts/2019-06-18-øvelseskjøring-med-bil-førerkortopplæring.md
 - _posts/2019-06-18-jeg-jobbet-hos-mor-teresa-en-engel.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-19-om-oss.md
