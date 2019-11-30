@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-05-25-AIMA.markdown
 - _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
@@ -128,7 +129,6 @@ pages:
 - _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-11-25-barne-fortelleing-den-gode-samtalen.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
-- _posts/2019-05-25-AIMA.markdown
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
 - _posts/2019-06-19-når-du-velger-utdanning-og-yrke-gå-for-det-gøyeste.md
