@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-21-kreftfremkallende-plastflasker.md
 - _posts/2019-06-16-buddhismens-fornyelse.md
@@ -131,7 +132,6 @@ pages:
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-08-26-finse-1222-med-jernbanestasjon-og-rallarveien.md
-- _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-17-sukkeravhengighet-1.md
 - _posts/2019-06-17-bmi.md
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md

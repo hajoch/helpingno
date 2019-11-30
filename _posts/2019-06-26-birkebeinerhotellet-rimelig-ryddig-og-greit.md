@@ -7,6 +7,7 @@ tags:
 - hotelltest
 - forbrukertest
 - Lillehammer
+- overnatting
 title: 'Birkebeinerhotellet: Rimelig, ryddig og greit.'
 excerpt: "Forbrukertest: Birkebeineren hotell & Apartement, LIllehammer. Like nedenfor
   OL-bakken ligger hotellet. Her er det enkelt, rimelig, rolig, ryddig og greit. Et
