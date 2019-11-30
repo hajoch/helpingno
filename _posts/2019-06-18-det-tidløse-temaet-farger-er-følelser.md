@@ -1,9 +1,19 @@
 ---
 layout: post
-date: 2019-06-18 17:39:23 +0200
+date: 2019-06-18T15:39:23.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- farger
+- fargeforskning i markedsføring
+- fargepsykologi
+- sosiologi
+- dagligvarebransjen
+- forskning på farger
+- Urban Willumsen
+- økonomi
+- salg
+- markedsføring
 title: 'Det tidløse temaet: Farger er følelser'
 excerpt: 'Fargene taler direkte til vårt følelsesliv. Samspillet mellom kalde og varme
   farger skaper interessante effekter. Dette brukes i kunst, design, interiør og eksteriør
@@ -18,7 +28,6 @@ publish_date:
 weight: 3
 
 ---
-  
 Fargepsykologien er viktig også i markedsføring. Flere spesialister på området hevder dette. Markedsførere og produktutviklere benytter kunnskapen om farger i stigende grad.
 
 I hvilken grad norske markedsførere og produktutviklere er oppmerksomme på fargenes psykologiske betydning er undersøkt i en mellomfagsoppgave i massekommunikasjonssosiologi ved universitetet i Oslo.

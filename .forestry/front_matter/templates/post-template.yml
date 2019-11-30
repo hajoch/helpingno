@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-18-bahai.md
 - _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
@@ -250,7 +251,6 @@ pages:
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
-- _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-18-prestasjonsangst.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
