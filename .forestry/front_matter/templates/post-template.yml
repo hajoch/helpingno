@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-21-vitser.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-06-18-det-tidløse-temaet-farger-er-følelser.md
 - _posts/2019-06-18-bahai.md
@@ -131,7 +132,6 @@ pages:
 - _posts/2019-06-18-den-beste-slankekuren-bedre-kosthold-og-mosjon.md
 - _posts/2019-06-17-hvordan-du-skal-komme-deg-ut-av-en-slik-mani-slanking-og-slankemani.md
 - _posts/2019-06-17-slankekurer.md
-- _posts/2019-06-21-vitser.md
 - _posts/2019-06-21-du-overvåkes.md
 - _posts/2019-06-19-mobilråd-høy-sar-verdi-en-helsefarlige-versting.md
 - _posts/2019-06-24-film.md
