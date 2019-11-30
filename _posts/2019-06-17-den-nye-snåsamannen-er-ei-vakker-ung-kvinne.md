@@ -9,6 +9,10 @@ tags:
 - psykiske lielser
 - veiledning
 - behandling
+- snåsamannen
+- klarsynt
+- tanker
+- guider
 title: Den nye "Snåsamannen"  er ei vakker ung kvinne
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det

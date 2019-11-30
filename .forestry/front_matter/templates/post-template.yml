@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-17-hva-er-synkretisme.md
@@ -146,7 +147,6 @@ pages:
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
-- _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
