@@ -28,7 +28,7 @@ Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de d�
 
 Lisa Williams er samtidig bokaktuell med sin siste utgivelse: "Survival of the Soul". Boka beskriver hva som skjer med oss når vi dør og hvordan "den andre siden" fungerer. Spennende lesning som foreløpig ikke er kommet i norsk oversettelse.
 
-Private opplysninger  
+**Private opplysninger**  
 \- Showene dine formidler ofte svært private opplysninger til de personene som får kontakt med den andre siden. Føler du selv hvor denne balansegangen går?
 
 \- Jeg tror alltid at åndene gir meg akkurat det som trenger å bli formidlet. Jeg får vite alt som mottakeren kan tåle å høre. Disse åndene er personligheter. Jeg føler at mottakerne ønsker å høre det som formidles: En siste hilsen fra dem som er gått over til den andre siden. Mottakerne i salen er derfor glade for at denne informasjonen formidles.
@@ -37,12 +37,12 @@ Private opplysninger
 
 \- Ja, selv om det er slik så ønsker folk dette. De opplysningene som formidles er riktige for dem. I tillegg har mange tusen tilhørere i salen og på TV nytte av det som kommer frem. Det hjelper således ikke bare en person eller en familie, det hjelper mange. De menneskene som får formidlinger bryr seg ikke om å dele dette med mange.
 
-Sjeler i "virvelen"  
+**Sjeler i "virvelen"**  
 \- I flere TV programmer kontakter både du og andre medier sjeler som sitter fast i prosessen mellom vår verden og den andre siden av en eller annen grunn. Dette kan skremme mange. Hva skjer egentlig i sike situasjoner? Er det guidene som gjør feil?
 
 \- De gjør ingen feil. Det hele dreier seg om vårt eget valg som fører oss dit vi til enhver tid befinner oss. Velger vi å ikke passere over til den andre siden, men blir i en nærere kontakt med jorden, så er det vårt valg. Og det skjer. Det kan skje hvis den som dør ikke vil gi slipp på de nærmeste som han/hun er glad i og knytter seg til dem eller materielle ting i "virvelen" som jeg kaller stedet mellom det dennesidige og den andre siden. Det er mulig å bli i denne virvelen så lenge vi vil. Helt til vi forstår at vi må gå videre gjennom virvelen mot lyset på den andre siden og gjennomgå den videre prosessen som har så mye positivt å by på. Husk på at selv om vi har hjelpere med oss så er det vi selv som tar avgjørelsene også etter den såkalte døden.
 
-Kunnskapskilde  
+**Kunnskapskilde**  
 \- Hvorfor må vi leve i denne fysiske verden og gjennomgå våre livserfaringer når vi har all visdom og erfaring på den andre siden? Med andre ord hvilken mening har den åndelige kampen i livet?
 
 \- Vi må leve et spirituelt liv fordi vi har en jord, vi har en spirituell verden og et univers som vi er en del av. Vi er her for å vokse, lære, hjelpe jorden og ikke minst hjelpe hverandre - selv om dette ikke alltid skjer. Vi er her av en grunn. Det dreier seg om bevisst å være her: Læringsprosessen vår er at vi skal erfare og lagre i våre erfaringer i sjelen slik at vi bygger opp et erfaringsmateriale som blir med oss videre etter livet og videre. Vår sjel har en stor mengde kunnskap som vi har samlet gjennom flere liv og som er en stor og verdifull kunnskapskilde. Når vi lærer oss å få bedre tilgang til denne kunnskapen sjelen vår har så er vi mer på linje med vår høyere åndelige mål. Opplevelsen av liv og død er syklisk. Det hele minner mye om det som beskrives i de indiske religionene som "Samsara".
@@ -73,7 +73,7 @@ Den åndelige verden er beskrevet som et "hierarki" i boka for at vi intellektue
 
 \- Dette er noe jeg ikke har spurt den andre siden om fordi jeg ikke er opptatt av verdensrommett.
 
-Frykt  
+**Frykt**  
 \- Hva betyr det å ha irrasjonell frykt for noe, for eksempel frykt for å fly. Er det et forvarsel om at man skal dø i en flyulykke?
 
 \- Absolutt ikke. Dessuten er jo fly sikrere enn mange andre reisemåter. Det som kan være tilfelle er at du i tidligere liv kan ha vært utsatt for en flyulykke som har kostet deg livet. Dette har din sjel lagret sammen med alt annet som du har opplevd i tidligere liv og dette påvirker deg ubevist og gir deg irrasjonell frykt.
@@ -88,7 +88,7 @@ Frykt
 \- Å akseptere sitasjonen. Tilgi andre og forberede oss på det som skal komme. Da blir prosessen vår så mye lettere.
 
 **Livskontrakt**  
-**- Hvert menneske har en livskontrakt i dette livet ifølge boka di. Mange mennesker er ikke kjent med denne kontrakten. Hvordan kommer vi på sporet av den?**
+\- Hvert menneske har en livskontrakt i dette livet ifølge boka di. Mange mennesker er ikke kjent med denne kontrakten. Hvordan kommer vi på sporet av den?
 
 \- Denne kontrakten er en avtale du gjorde på den andre siden før du ble født. Den inneholder for eksempel hvilke mennesker som blir dine nærmeste, hva du skal lære etc. Denne kontrakten spesifiserer alt i dette livet ganske nøye. Men kontrakten er ikke helt spikret fast. Du kan forandre på den underveis bl.a. i drømmene dine når du møter dine kjære guider. Du kan si; "Jeg er ikke lykkelig med dette og ønsker å endre på det". Da får du tilbakemelding som for eksempel "Klart du kan endre på det." Dermed endres dette for deg. Poenget er imidlertid at du fremdeles må lære leksen som er i kontrakten. Det blir bare på en annen måte. Leksa kan være for eksempel "tilgivelse" eller "tillit".
 
@@ -106,4 +106,4 @@ I boka forteller du om den åndelige hovedguiden vår som snakker til oss med en
 
 Opptakeren er slått av. Det tar litt tid å summe seg etter dette intervjuet på takrestauranten av Grand Hotell i Oslo. Jeg føler meg litt omtåket, forvirret sammen med en behagelig ro. Gradvis blir jeg klar over trafikken nede på Karl Johan og klokkeverket i Rådhustårnet.
 
-\- Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det må være slik de føler det - alle dem som nå får "kontakt" på alle hennes show.
+Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det må være slik de føler det - alle dem som nå får "kontakt" på alle hennes show.
