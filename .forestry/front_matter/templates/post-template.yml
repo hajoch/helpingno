@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
 - _posts/2019-06-17-hva-er-synkretisme.md
 - _posts/2019-06-21-kreftfremkallende-plastflasker.md
@@ -196,7 +197,6 @@ pages:
 - _posts/2019-06-19-forbrukertest-bruktbåt-dp425-med-selvlens-og-innerliner.md
 - _posts/2019-06-17-sufismen.md
 - _posts/2019-06-18-darjeeling-teens-by.md
-- _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
 - _posts/2019-06-19-joller-er-praktiske.md
 - _posts/2019-06-18-natur-som-lykkepille.md
 - _posts/2019-06-19-penger-bank-og-nett.md
