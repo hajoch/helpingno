@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
+- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
