@@ -52,9 +52,8 @@ Lisa Williams er samtidig bokaktuell med sin siste utgivelse: "Survival of the S
 \- Vi må leve et spirituelt liv fordi vi har en jord, vi har en spirituell verden og et univers som vi er en del av. Vi er her for å vokse, lære, hjelpe jorden og ikke minst hjelpe hverandre - selv om dette ikke alltid skjer. Vi er her av en grunn. Det dreier seg om bevisst å være her: Læringsprosessen vår er at vi skal erfare og lagre i våre erfaringer i sjelen slik at vi bygger opp et erfaringsmateriale som blir med oss videre etter livet og videre. Vår sjel har en stor mengde kunnskap som vi har samlet gjennom flere liv og som er en stor og verdifull kunnskapskilde. Når vi lærer oss å få bedre tilgang til denne kunnskapen sjelen vår har så er vi mer på linje med vår høyere åndelige mål. Opplevelsen av liv og død er syklisk. Det hele minner mye om det som beskrives i de indiske religionene som "Samsara".
 
 **Livslinjen**  
-**- Hvorfor trenger vi denne sølvtråden i en ute av kroppen opplevelse?**
-
-\- Sølvtråden er vår livslinje. Hvis det blir brudd på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
+**- Hvorfor trenger vi denne sølvtråden i en ute av kroppen opplevelse?  
+**- Sølvtråden er vår livslinje. Hvis det blir brudd på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
 
 **Åndelig hierarki**  
 \- **Du beskriver i boka mange nivåer på den andre siden og et stort hierarki av funksjoner og åndelige veiledere. Er det mulig å gå seg vill her?**
@@ -72,10 +71,10 @@ Den åndelige verden er beskrevet som et "hierarki" i boka for at vi intellektue
 
 \- Du kan meditere og si til dine hjelpere at du ønsker å finne en sann healer som kan hjelpe deg. Da vil dine hjelpere på den andre siden bidra til at du kommer til din rette healer. Husk på at dine hjelpere er rundt deg hele tiden og oppfanger mer fra deg enn du gjør fra dem.
 
-Åndelighet i verdensrommet?  
+**Åndelighet i verdensrommet?**  
 \- I boka beskriver du den andre siden som en åndelig dimensjon tre fot fra vår egen. Dette betyr at den åndelige verden er svært nær oss og ikke langt ut i verdensrommet som mange tror. Hva er så i verdensrommet?
 
-\- Dette er noe jeg ikke har spurt den andre siden om fordi jeg ikke er opptatt av verdensrommett.
+\- Dette er noe jeg ikke har spurt den andre siden om fordi jeg ikke er opptatt av verdensrommet.
 
 **Frykt**  
 \- Hva betyr det å ha irrasjonell frykt for noe, for eksempel frykt for å fly. Er det et forvarsel om at man skal dø i en flyulykke?
