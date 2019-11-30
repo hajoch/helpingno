@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-19-forbrukertest-bruktbåt-yamarin-76-dc-med-250-hk-yamaha.md
 - _posts/2019-06-21-vitser.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
@@ -249,7 +250,6 @@ pages:
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/0000-00-00-go-for-a-walk.markdown
-- _posts/2019-06-17-hinduismens-mystikk.md
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-prestasjonsangst.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
