@@ -12,6 +12,10 @@ tags:
 - intervju
 - nærdøden
 - seanse
+- healing
+- ånder
+- åndelig kontakt
+- guider
 title: 'Lisa Williams: "Åndene gir meg akkurat det som trenger å bli formidlet"'
 excerpt: I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:-
   Jeg har en personlig beskjed til deg fra den andre siden.
@@ -104,6 +108,6 @@ I boka forteller du om den åndelige hovedguiden vår som snakker til oss med en
 **- Mange mennesker føler seg ubeskyttet. Hvordan oppnår vi kontakt og får hjelp fra guidene våre?**  
 \- Spør og du vil føle det.
 
-Opptakeren er slått av. Det tar litt tid å summe seg etter dette intervjuet på takrestauranten av Grand Hotell i Oslo. Jeg føler meg litt omtåket, forvirret sammen med en behagelig ro. Gradvis blir jeg klar over trafikken nede på Karl Johan og klokkeverket i Rådhustårnet.
+Opptakeren er slått av. Det tar litt tid å summe seg etter dette intervjuet på tak restauranten av Grand Hotell i Oslo. Jeg føler meg litt omtåket, forvirret sammen med en behagelig ro. Gradvis blir jeg klar over trafikken nede på Karl Johan og klokkeverket i Rådhustårnet.
 
 Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det må være slik de føler det - alle dem som nå får "kontakt" på alle hennes show.
