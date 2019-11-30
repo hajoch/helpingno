@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
@@ -135,7 +136,6 @@ pages:
 - _posts/2019-06-27-røros-historiske-hotell.md
 - _posts/2019-06-21-forbrukertest-rondane-spa-høyfjellshotell-og-hytter-hotellet-nærmest-høyfjellet.md
 - _posts/2019-06-26-flott-storhotell-å-trives-i.md
-- _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-07-03-på-bryggekanten-i-arendal.md
 - _posts/2019-08-26-finse-1222-med-jernbanestasjon-og-rallarveien.md

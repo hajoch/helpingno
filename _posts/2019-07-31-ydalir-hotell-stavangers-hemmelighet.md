@@ -5,6 +5,12 @@ crop_image: true
 tags:
 - Overnatting
 - Hoteller i Norge
+- Stavanger
+- kampushotell
+- Ullandhaug
+- Stavanger universitet
+- Ydalir
+- landlig og idyllisk hotell
 title: 'Ydalir hotell: Stavangers hemmelighet. Test'
 excerpt: 'Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
   plassert grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret
