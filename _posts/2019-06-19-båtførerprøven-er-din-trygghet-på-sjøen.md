@@ -1,23 +1,26 @@
 ---
 layout: post
-date: 2019-06-19 08:15:26 +0200
+date: 2019-06-19T06:15:26.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- båtlappen
+- båtførerprøven
+- obligatorisk båtopplæring
 title: Båtførerprøven er din trygghet på sjøen
 excerpt: Båtførerprøven kan du ta på vår- og høstsemester de fleste steder her i landet.
   Denne "båtlappen" gir ikke bare rabatt på båt-forsikringen. Viktigst er at du får
   en tryggere ferdsel på sjøen når du kan orientere deg etter et båtsportkart, kjenne
-  sjøens trafikkregler m.m..
+  sjøens staker, kjøreregler, vikeplikt, fart, ferdsel - kort sagt trafikkregler på
+  sjøen.
 image: "/assets/images/sb7.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
 weight: 5
 
 ---
-
 Obligatorisk båtførerbevis for fritidsbåter
 
 Det obligatoriske kravet til båtførerbevis gjelder båtførere som er født etter 1. januar 1980. Det er nødvendig med et slikt bevis for å føre fritidsbåter med lengde over 8 meter, fart over 10 knop eller med motorkraft større enn 25 hestekrefter.
