@@ -14,6 +14,7 @@ tags:
 - bøker
 - film
 - magnet
+- psykologi
 title: Boka "The Secret" eller "Hemmeligheten"   Oppskriften på det gode liv
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
@@ -25,7 +26,7 @@ image: "/assets/images/healing2.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date: 2019-09-29 00:00:00 +0200
+publish_date: 2019-09-28T22:00:00.000+00:00
 weight: 3
 
 ---
