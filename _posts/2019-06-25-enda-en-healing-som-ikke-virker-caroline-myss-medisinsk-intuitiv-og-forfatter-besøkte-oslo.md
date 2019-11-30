@@ -15,9 +15,7 @@ excerpt: Caroline Myss er den neste alternative kjendis som har kjøpt seg en gl
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg harde nesten ikke merket finanskrisene.
 image: "/assets/images/myss (1).jpg"
-image_caption: |2-
-
-  Foto GunnarC
+image_caption: "\nCaroline Myss inntar Oslo Kongressenter. \nFoto Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/mental-helse.md
