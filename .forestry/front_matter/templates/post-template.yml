@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
@@ -122,7 +123,6 @@ pages:
 - _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-11-25-barne-fortelleing-den-gode-samtalen.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
-- _posts/2019-06-17-Styrkeprøven.md
 - _posts/2019-05-25-AIMA.markdown
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md
 - _posts/2019-08-26-uten-det-lille-ekstra.md
