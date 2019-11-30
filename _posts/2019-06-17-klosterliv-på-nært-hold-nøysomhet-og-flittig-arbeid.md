@@ -14,6 +14,7 @@ tags:
 - Tamieosten
 - intervju med munken Paul
 - Gud i dagliglivet
+- Mont Blanc
 title: " Personlig intervju med broder Paul. Klosterliv på nært hold: Nøysomhet og
   flittig arbeid."
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
@@ -28,7 +29,7 @@ publish_date:
 weight: 7
 
 ---
-Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og medbrødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
+Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og brødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
 
 **Rekreasjon**  
 Mange nordmenn forestiller seg munker som alvorlige, andektige menn i upraktiske klær - bak lukkede dører, fjernt fra vår hverdag opptatt med bøker og bønn. Denne oppfatningen må revideres etter hvert som en blir mer kjent og fortrolig med klosterlivets mange sysler og funksjoner. Munkenes smittende gode humør og behagelige vesen gjør et besøk i Tamié til et hyggelig minne.
@@ -52,13 +53,14 @@ At munkene til daglig er opptatt av åndelig fordypning kan kanskje virke unytti
 
 Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, støyende by- og fabrikksentra turen gikk gjennom på vei til Alpene fra Norge. De tyske storbyene med støy og frustrasjon samt autobahner med en uendelighet av biler, fikk meg til å oppleve Tamié som en vakker oase av kjærlighet og menneskelighet.
 
-En overskridelse
+### **Intervju: Broder Paul: En overskridelse**
 
 **Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
 **_- Hvorfor jeg gikk i kloster?_**
 
-**Broder Paul retter ryggen: - Fordi Gud er den sterkeste. Hans kall er vanskelig å motstå. Et dypt ønske om noe absolutt har trukket meg til klosteret. En absolutthet som hver dag konkretiseres gjennom bønn, bibellesning og avkall på spesifikke menneskelige verdier. Eller rettere sagt en overskridelse.**
+**Broder Paul retter ryggen:  
+\- Fordi Gud er den sterkeste. Hans kall er vanskelig å motstå. Et dypt ønske om noe absolutt har trukket meg til klosteret. En absolutt het som hver dag konkretiseres gjennom bønn, bibellesning og avkall på spesifikke menneskelige verdier. Eller rettere sagt en overskridelse.**
 
 Jeg gikk i kloster fordi Jesus lever. Fordi han elsker oss med en kjærlighet som er sterkere enn de mest lidenskapelige menneskelige kjærlighetsformer. Jeg leser ofte apostelen Paulus: "Hvis Kristus ikke var oppstanden, så var vår tro forgjeves". Jesus er mer verd enn noen annen gave livet kan gi. De som elsker han vet det.
 
