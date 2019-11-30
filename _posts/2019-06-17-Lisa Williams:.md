@@ -28,9 +28,9 @@ publish_date:
 weight: 7
 
 ---
-Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de døde. Folk står i kø for å møte henne og populariteten bare øker i Norge.
+**Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de døde. Folk står i kø for å møte henne og populariteten bare øker i Norge.**
 
-Lisa Williams er samtidig bokaktuell med sin siste utgivelse: "Survival of the Soul". Boka beskriver hva som skjer med oss når vi dør og hvordan "den andre siden" fungerer. Spennende lesning som foreløpig ikke er kommet i norsk oversettelse.
+Lisa Williams siste bokutgivelse: "Survival of the Soul". Boka beskriver hva som skjer med oss når vi dør og hvordan "den andre siden" fungerer. Spennende lesning som ikke er kommet i norsk oversettelse.
 
 **Private opplysninger**  
 \- Showene dine formidler ofte svært private opplysninger til de personene som får kontakt med den andre siden. Føler du selv hvor denne balansegangen går?
