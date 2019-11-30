@@ -16,8 +16,8 @@ title: 'Lisa Williams: "Åndene gir meg akkurat det som trenger å bli formidlet
 excerpt: I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:-
   Jeg har en personlig beskjed til deg fra den andre siden.
 image: "/assets/images/lisawil.jpg"
-image_caption: 'Foto: Jens Christian Jore Christensen i intervju med helping.no av
-  Gunnar Christensen'
+image_caption: "Lisa Williams i intervju med Gunnar Christensen. \nFoto: Jens Christian
+  Jore Christensen"
 categories:
 - _category/religion.md
 publish_date: 
