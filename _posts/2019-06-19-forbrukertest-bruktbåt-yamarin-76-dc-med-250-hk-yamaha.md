@@ -10,6 +10,10 @@ tags:
 - Yanmarin
 - Yamaha
 - daycruiser
+- sjø
+- kyst
+- fritid
+- sommeraktivitet
 title: YAMARIN 76 DC med 250 hk Yamaha
 excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt familievennlig
   daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
