@@ -163,4 +163,9 @@ Menneskets endelige mål i Hindumystikken er å kjenne, elske og bli forenet med
 Artiklen har en religionsvitenskapelig tilnæring til temaene og gir deg bakgrunnsstoff til nyheter og aktuelle saker. Om du er interessert i å fordype deg i emnet religioner så har universitetene i Oslo og Bergen religions-vitenskapelig institutt hvor du kan få svar på dine spørsmål eller melde deg på studier i religionsvitenskap.
 
 **Film**  
-DVD-filmersom kan gi bedre innsikt i religionsvitenskapelige temaer:  "Kundun, Den storslagne historien om den 14 Dalai Lama"Filmen gir innsikt i Tibatansk buddhisme og den kinesiske okkupasjonen av Tibet og den dramatiske flikten til India. (Aldersgrense 11 år)  John Clese"Life of Brain"Gir innsikt i temaet blasfemi slik det ble tolket av den norske filmsensuren da filmen kom i 1979.Komedie. (Aldersgr. 11 år) "Gandhi - Han endret verden for alltid".En flott og storslagen skildring av Gandhis liv og hinduismens ikke-voldsidealer. (Tillat for alle.)  Keanu Reeves, Bridget Fona. Chris Isaak:"Little Buddha"/ "Lille Buddha".Denne spennende filmen gir en meget god innsikt i buddhismen. (Aldersgrense 10 år.)Reiser Hotell Fritid Foto Helse Religioner Oppdatert 4 - 2019©www.helping.no |
+Filmer som kan gi bedre innsikt i religionsvitenskapelige temaer:  
+
+* "Kundun, Den storslagne historien om den 14 Dalai Lama "Filmen gir innsikt i Tibatansk buddhisme og den kinesiske okkupasjonen av Tibet og den dramatiske flikten til India. (Aldersgrense 11 år)  
+* John Clese"Life of Brain" Gir innsikt i temaet blasfemi slik det ble tolket av den norske filmsensuren da filmen kom i 1979. Komedie. (Aldersgr. 11 år)
+* "Gandhi - Han endret verden for alltid". En flott og storslagen skildring av Gandhis liv og hinduismens ikke-voldsidealer. (Tillat for alle.)  
+* Keanu Reeves, Bridget Fona. Chris Isaak:"Little Buddha"/ "Lille Buddha".Denne spennende filmen gir en meget god innsikt i buddhismen. (Aldersgrense 10 år.) 
