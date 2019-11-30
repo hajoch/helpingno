@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-den-nye-snåsamannen-er-ei-vakker-ung-kvinne.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md
 - _posts/2019-06-26-birkebeinerhotellet-rimelig-ryddig-og-greit.md
@@ -252,7 +253,6 @@ pages:
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-prestasjonsangst.md
-- _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-17-hinduismens-fornyelse.md
 - _posts/2019-06-16-døden-og-livet-som-forandring.md
 - _posts/2019-06-18-norge-straffer-penger-på-bok-kjøp-eiendom.md

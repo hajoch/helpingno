@@ -1,15 +1,27 @@
 ---
 layout: post
-date: 2019-06-17 11:27:32 +0200
+date: 2019-06-17T09:27:32.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Klosterliv på nært hold: Nøysomhet og flittig arbeid'
+tags:
+- religion
+- religionshistorie
+- katolsk klostert
+- katolikk
+- Tamie
+- kristne samfunn
+- kloster
+- Tamieosten
+- intervju med munken Paul
+- Gud i dagliglivet
+title: 'Klosterliv på nært hold: Nøysomhet og flittig arbeid. Personlig intervju med
+  broder Poul.'
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
   sitt hjem. Det 800 år gamle klosteret er idyllisk plassert på en åskam i vakre naturomgivelser.
   Fra et fjellplatå like ved kan Mont Blanc skimtes i det fjerne - på godværsdager.
 image: "/assets/images/broderclaude.jpg"
-image_caption: 'Foto: Gunnar Christensen Broder Claude'
+image_caption: "Broder Claude er munk i klosteret Tamie i de franske alpene. \nFoto:
+  Gunnar Christensen "
 categories:
 - _category/religion.md
 publish_date: 
