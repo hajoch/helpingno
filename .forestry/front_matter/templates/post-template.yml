@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-19-båtførerprøven-er-din-trygghet-på-sjøen.md
 - _posts/2019-06-18-øvelseskjøring-med-bil-førerkortopplæring.md
 - _posts/2019-06-17-mobbing.md
@@ -266,7 +267,6 @@ pages:
 - _posts/2019-06-17-hva-er-blasfemi.md
 - _posts/2019-06-18-hva-er-gud.md
 - _posts/2019-06-19-test-nikon.md
-- _posts/2019-06-20-sjøkart-du-ikke-kan-stole-på.md
 - _posts/2019-06-20-rent-drikkevann.md
 - _posts/2019-06-19-turistproblemer-i-kathmandudalen.md
 - _posts/2019-06-19-test-3-sesonger-med-polar-20-en-kosebåt.md

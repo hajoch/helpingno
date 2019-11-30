@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-20 13:22:48 +0200
+date: 2019-06-20T11:22:48.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- båt
+- sjø
+- sjøkart
+- draft
+- kartplotter
+- utrygt farvann
+- sikker ferdsel i skjærgården
+- Noreca
 title: Sjøkart du ikke kan stole på?
 excerpt: 'Hvem har ikke opplevd grunner som ikke står på sjøkartet: En farlig situasjon
   særlig i høy fart. Fremdeles er ikke alle grunner langs norskekysten på plass i
@@ -11,7 +19,7 @@ excerpt: 'Hvem har ikke opplevd grunner som ikke står på sjøkartet: En farlig
   Dette innrømmer Noreca som står for kartregistrering - og de tilføyer at trafikkert
   farvann prioriteres først i dette arbeidet.'
 image: "/assets/images/b08.3.jpg"
-image_caption: Foto GC
+image_caption: Motiv fra Nidelven i Arendal. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
