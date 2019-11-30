@@ -25,8 +25,9 @@ title: Buddhismens fornyelse
 excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, samt
   Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
 image: "/assets/images/stupanepal.jpg"
-image_caption: 'Foto fra Nepal. Buddhisme: Swoyambhu like utenfor Kathamnduer verdens
-  største Stupa. Her møtes tibetanske buddhister og turister.'
+image_caption: 'Foto fra stupa i Nepal. Buddhisme: Swoyambhu like utenfor Kathamndu
+  og er verdens største Stupa. Her møtes tibetanske buddhister og turister. Foto Gunnar
+  Christensen'
 categories:
 - _category/religion.md
 publish_date: 
