@@ -45,6 +45,8 @@ Hurricane 370 er nå blitt en kostbar båt i nyanskaffelse og bruktbåter av den
 
 Vi treffer stadig på ungdom over 16 som er så glad i denne båten at de beholder den, men skifter til større motor - som 20 - 25 hk - straks aldersgrensen på 16 er passert.
 
+![](https://www.helping.no/h370-kabin.jpg)
+
 **Advarsel!**  
 Når du søker etter brukt Hurricane og Cyber på finn.no eller andre annonseorganer er det lett å bli lurt. Mange konstruksjoner bruker disse navnene for å markedsføre båten sin uten at den er i nærheten av å være ekte vare. De bare likner på en ekte Hurricane.
 
