@@ -46,6 +46,8 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 
 ![](https://www.helping.no/lind.20.jpg)
 
-**Flere bilder:**
+**Flere bilder:** [https://www.helping.no/lindesnes.htm](https://www.helping.no/lindesnes.htm)
 
-[https://www.helping.no/lindesnes.htm](https://www.helping.no/lindesnes.htm)
+**Link**  
+ Lindesnes Fyr:  
+[http://www.lindesnesfyr.no](http://www.lindesnesfyr.no "http://www.lindesnesfyr.no")
