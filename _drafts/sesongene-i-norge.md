@@ -60,3 +60,25 @@ weight:
 ![](http://www.helping.no/aug91.jpg)
 
 September
+
+![](http://www.helping.no/larvik.jpg)
+
+![](http://www.helping.no/bar.jpg)
+
+Oktober
+
+![](http://www.helping.no/okt6.jpg)
+
+![](http://www.helping.no/oct091.jpg)
+
+November
+
+![](http://www.helping.no/now.5.jpg)
+
+![](http://www.helping.no/nov.18.JPG)
+
+Desember
+
+![](http://www.helping.no/des.9.JPG)
+
+![](http://www.helping.no/des.1.JPG)
