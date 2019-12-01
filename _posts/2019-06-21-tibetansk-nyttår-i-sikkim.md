@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 14:39:07 +0200
+date: 2019-06-21T12:39:07.000+00:00
 crop_image: true
 tags:
 - india
@@ -30,12 +30,16 @@ weight: 4
 ---
 Lamadans er den mest fargerike tradisjon i feiringen.
 
+![](https://www.helping.no/karmapa.jpg)
+
 Hans Hellighet den 16 Karmapa er på det tibetansk-  
 buddhistiske klosteret Rumtek. Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
 
 Det mest ettertraktede stedet å feire det tibetanske nyttår er kanskje i Hans Hellighet Kamapas kloster Rumtek. Rumtek-klosteret er i Sikkim. En liten, men meget militarisert delstat i India på grensen mot Tibet, klemt mellom Nepal og Buthan.
 
 Klosteret ligger i fjellsiden på over to tusen meters høyde med utsikt over en dyp dal til byen Gangtok, tidligere kongedømme Sikkims gamle hovedstad.
+
+![](https://www.helping.no/sikkim.jpg)
 
 **Lamadanser**  
 Årets høydepunkt på Rumtek er nyttårsfeiringen. Feiringen samler legfolk fra fjern og nær til de fargerike lamadansene. Lamaer og munker blåser i små hornliknende instrumenter med vakre dekorasjoner i sølv og gull. De fineste draktene danses frem - med vakre broderier og brokader. Mest uøyenfallende er alle maskene - hver med sin symbolske betydning.
