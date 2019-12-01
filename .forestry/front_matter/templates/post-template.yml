@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/sesongene-i-norge.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-06-18-mystikk-i-himalayafjellene-klosteret-i-rewalsar.md
