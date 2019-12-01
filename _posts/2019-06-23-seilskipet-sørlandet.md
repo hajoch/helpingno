@@ -22,7 +22,7 @@ weight: 1
 ---
 Sørlandet er tremastet fullrigger på 577 bruttotonn, 64 m lang, 9 m bred og største mastehøyde 34 m.
 
-Denne siden er under konstruksjon:   
+![](http://www.helping.no/seilskute.jpg)  
 Flere bilder mm  
 [https://www.helping.no/sorlandet.htm](https://www.helping.no/sorlandet.htm)
 
