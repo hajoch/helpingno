@@ -19,10 +19,9 @@ publish_date:
 weight: 3
 
 ---
-**OBS!  
-Denne siden er under  konstruksjon og mangler foreløpig en rekke bilder.**
+![](https://www.helping.no/sogn12.jpg)
 
-Foto-serie - [https://www.helping.no/sognefjellet.htm](https://www.helping.no/sognefjellet.htm "https://www.helping.no/sognefjellet.htm")
+![](https://www.helping.no/sogn5.jpg)
 
 Vakker biltur over fjellet.
 
