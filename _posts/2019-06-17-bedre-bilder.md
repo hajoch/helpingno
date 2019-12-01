@@ -8,6 +8,10 @@ tags:
 - foto digital bilde
 - fototips
 - slik tar du bedre bilder
+- komponer bilde
+- fotografering
+- bevare minner
+- kunsten å fotografere
 title: Ta bedre bilder
 excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
