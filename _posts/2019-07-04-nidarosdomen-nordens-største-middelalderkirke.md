@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-04 11:15:26 +0200
+date: 2019-07-04T09:15:26.000+00:00
 crop_image: true
 tags:
 - kirke
@@ -21,4 +21,4 @@ publish_date:
 weight: 3
 
 ---
-**OBS: Under bearbeidelse flere bilder kommer.**
+![](https://www.helping.no/Nidaros3.jpg)
