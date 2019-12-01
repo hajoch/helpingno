@@ -26,6 +26,8 @@ weight: 7
 ---
 Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20 knop og ligger fint i sjøen med liten planings-terskel. Den er behagelig, trygg og stødig å kjøre med denne motoren på grunn av god bredde bak og solid v-bunn. Sjøene tar den uten å gi sprut inn i båten. Men prøver du å kjøre raskt inn i en krapp hekksjø kan den ta inn vann over dekk.
 
+![](https://www.helping.no/hurricane15.jpg)
+
 **Winrace, Hurricane eller Cyber**  
 Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som racebåt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.
 
