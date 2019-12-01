@@ -8,6 +8,10 @@ tags:
 - båt påhengsmotor
 - bowrider
 - familiebåt
+- fritidsbåt
+- plastbåt
+- AMT
+- Honda
 title: Bowrider AMT 185BR med 90 hk Honda
 excerpt: "Forbrukertest i 6 sesonger: Da AMT-båtene kom på markedet ble de markedsført
   som \"bedre enn du forventer\". Da var det spennende å se om dette holder mål på
