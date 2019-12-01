@@ -50,6 +50,8 @@ Om morgenen er man ofte litt stivere i kroppen enn senere på dagen. Det er like
 
 Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mellom hver øvelse finner du en fin ro. Etter øvelsene føler du deg i bedre form. Man blir ikke sliten av yoga-øvelser - snarere mer uthvilt.
 
+![](https://www.helping.no/y1.jpg)
+
 * Øvelse 1  
   Sitt i skredderstilling. Legg håndflatene på hodet og trykk lett på skallen. Gjør dette punkt for punkt nedover nakken, skuldrene og til hjertet. | Øvelse 1
 * Øvelse 2  
