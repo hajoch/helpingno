@@ -33,4 +33,30 @@ weight:
 
 **April**
 
+![](http://www.helping.no/songebekken.jpg)
+
 ![](http://www.helping.no/april.04.jpg)
+
+**Mai**
+
+![](http://www.helping.no/may4.jpg)![](http://www.helping.no/may6.jpg)
+
+**Juni**
+
+![](http://www.helping.no/jun.02.jpg)
+
+![](http://www.helping.no/tjerngc.jpg)
+
+**Juli**
+
+![](http://www.helping.no/b08.2.jpg)
+
+![](http://www.helping.no/juli.03.JPG)
+
+**August**
+
+![](http://www.helping.no/fo.la.gc.jpg)
+
+![](http://www.helping.no/aug91.jpg)
+
+September
