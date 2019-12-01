@@ -6,6 +6,11 @@ tags:
 - Peterskirken
 - Vatikanstaten
 - katilikker
+- katolsk kirke
+- kristendommen
+- pavekirke
+- Roma
+- Vatikanstaten
 title: Vatikanet - Uten sakral følelse
 excerpt: "Vatikanstaten var det jeg så mest frem til i Roma: Minner fra en sakral
   og fin stemning med messe i vakre Notre Dame-katedralen i Paris før brannen, og
