@@ -25,3 +25,5 @@ Denne siden er under  konstruksjon og mangler foreløpig en rekke bilder.**
 Foto-serie - [https://www.helping.no/sognefjellet.htm](https://www.helping.no/sognefjellet.htm "https://www.helping.no/sognefjellet.htm")
 
 Vakker biltur over fjellet.
+
+![](https://www.helping.no/sogn2.jpg)

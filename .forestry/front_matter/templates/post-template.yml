@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
@@ -149,7 +150,6 @@ pages:
 - _posts/2019-06-24-film.md
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-24-ayia-napa-kypros.md
-- _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
