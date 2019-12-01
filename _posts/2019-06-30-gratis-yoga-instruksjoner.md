@@ -53,9 +53,13 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 ![](https://www.helping.no/y1.jpg)
 
 * Øvelse 1  
-  Sitt i skredderstilling. Legg håndflatene på hodet og trykk lett på skallen. Gjør dette punkt for punkt nedover nakken, skuldrene og til hjertet. | Øvelse 1
+  Sitt i skredderstilling. Legg håndflatene på hodet og trykk lett på skallen. Gjør dette punkt for punkt nedover nakken, skuldrene og til hjertet. 
+
+  ![](https://www.helping.no/y2.jpg)
 * Øvelse 2  
-  Sitt i skredderstilling. Begynn med venstre hånd. Trykk lett med høyre hånd på venstre hånd punkt for punkt. Begynn med håndflaten og følg armen opp til skulderen og til hjertet. Skift deretter til høyre hånd og gjør det samme på den andre siden. | Øvelse 2 |
+  Sitt i skredderstilling. Begynn med venstre hånd. Trykk lett med høyre hånd på venstre hånd punkt for punkt. Begynn med håndflaten og følg armen opp til skulderen og til hjertet. Skift deretter til høyre hånd og gjør det samme på den andre siden. 
+
+  ![](https://www.helping.no/y3.jpg)
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet. | Øvelse 3 |
 * Øvelse 4  
