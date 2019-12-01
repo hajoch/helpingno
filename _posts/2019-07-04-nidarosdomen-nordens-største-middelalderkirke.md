@@ -6,6 +6,7 @@ tags:
 - kirke
 - Nidarosdomen
 - Trondheim
+- middalalderkirke
 title: Nidarosdomen Nordens største middelalderkirke
 excerpt: Nidarosdomen ble oppført der Olav den hellige ble gravlagt etter slaget på
   Stiklestad. I 1814 ble det tatt inn i grunnloven at Nidarosdomen skulle være landets
@@ -13,7 +14,7 @@ excerpt: Nidarosdomen ble oppført der Olav den hellige ble gravlagt etter slage
   middelalderkirke hele 102 meter lang, 50 meter bred og 21 meter høy under skipets
   hvelv. Skipet er 91 meter høyt.
 image: "/assets/images/Nidaros7.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Nidarosdomen i Trondheim. Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
