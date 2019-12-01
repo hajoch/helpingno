@@ -6,6 +6,10 @@ tags:
 - fjellovergang
 - naturopplevelse
 - bilferie
+- Jotunheimen
+- høyfjellet
+- turistattraksjon
+- foto digital bilde
 title: 'Nord-Europas høyeste fjellovergang 1434 moh: Fotoserie.  Sognefjellsvegen    '
 excerpt: |-
   Kanskje verdens vakreste fjellovergang? Dette er riksvei 55 mellom Lom og Gaupne hele 108 km lang og en populær turistvei som stadig flere vil
