@@ -4,6 +4,12 @@ date: 2019-07-03T09:41:49.000+00:00
 crop_image: true
 tags:
 - naturfoto
+- Bygland
+- Setesdalen
+- Anne Bakke
+- foto digital bilde
+- naturfotograf
+- årstidene
 title: Setesdal-naturens årstider i bilder
 excerpt: Naturfotograf Anne Bakke følger årstidene i Setesdalen ved Byglandsfjorden.
 image: "/assets/images/ab2011.2.jpg"
