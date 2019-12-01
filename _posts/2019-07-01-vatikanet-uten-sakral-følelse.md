@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-07-01 09:49:40 +0200
+date: 2019-07-01T07:49:40.000+00:00
 crop_image: true
 tags:
 - Peterskirken
@@ -21,8 +21,7 @@ publish_date:
 weight: 2
 
 ---
-**OBS!  
-Siden er under konstruksjon og mangler flere bilder.**
+![](https://www.helping.no/vat9.jpg)
 
 Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Peterplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 

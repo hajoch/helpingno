@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
 - _posts/2019-06-17-galdhøpiggen.md
@@ -250,7 +251,6 @@ pages:
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-07-01-bowrider-guiden.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
-- _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/0000-00-00-go-for-a-walk.markdown
 - _posts/2019-06-18-sioux-indianerne-trenger-hjelp.md
 - _posts/2019-06-18-prestasjonsangst.md
