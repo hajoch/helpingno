@@ -19,7 +19,7 @@ publish_date:
 weight: 3
 
 ---
-![](https://www.helping.no/sogn12.jpg)
+![](https://www.helping.no/sogn3.jpg)![](https://www.helping.no/sogn12.jpg)
 
 ![](https://www.helping.no/sogn5.jpg)
 
