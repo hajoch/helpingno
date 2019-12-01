@@ -22,7 +22,9 @@ weight: 4
 ---
 Naturen er forskjellig avhengig av hvor du er på planeten vår. Vi bringer bilder fra den norske naturen. Hver måned skildres naturen i bilder så du kan se hvordan naturen skifter fra sesong til sesong. Å ta vare på vår vakre natur her og nå er å ta vare på oss selv nå - og i fremtiden. Dette er vår eneste mulighet til å overleve på denne kloden - den eneste kloden vi har.
 
-Vi har alle et ansvar for å forhindre og begrense forurensning på Jorden og bevare klodens helse ved å bevare regnskog m.m.. Forurensning som gir klimaforandringer og ekstremvær kan i sin ytterste konsekvens true vår eksistens. Vi kan ikke leve uten naturen.**Januar**
+Vi har alle et ansvar for å forhindre og begrense forurensning på Jorden og bevare klodens helse ved å bevare regnskog m.m.. Forurensning som gir klimaforandringer og ekstremvær kan i sin ytterste konsekvens true vår eksistens. Vi kan ikke leve uten naturen.
+
+**Januar**
 
 ![](http://www.helping.no/nov.15.JPG)
 
