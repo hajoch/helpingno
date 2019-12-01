@@ -18,3 +18,9 @@ weight:
 ![](http://www.helping.no/nov.15.JPG)
 
 ![](http://www.helping.no/jan.2.jpg)
+
+**Februar**
+
+![](http://www.helping.no/feb.5.jpg)
+
+![](http://www.helping.no/feb.4.jpg)
