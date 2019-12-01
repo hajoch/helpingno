@@ -17,7 +17,7 @@ image: "/assets/images/nov.14.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/foto.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 7
 
 ---
@@ -31,6 +31,8 @@ Kameraene på markedet har forskjellig kvalitet. Les derfor nøye testene av kam
 **Lagring av bilder**  
 Husk å lagre bildene flere steder og ikke bare på brikken: En ekstern HD er fin til dette. Eller på en trygg sky i den grad dette er trygt. Brenn også sikkerhetskopi på DVD eller CD: Et godt tips er å leie en bankboks til sikkerhetskopier i fall husbrann. Bildene er verdifulle, og mer verdifulle blir de med tiden, særlig familiebilder.
 
+![](https://www.helping.no/mars.jpg)
+
 **Hold kameraet rolig eller bruk stativ**  
 Særlig digitalkameraene er små og lette å legge i lommen. Derfor blir det flere anledninger til å bruke kameraet. Men "i farten" er det lett å ta "hastverksbilder" d.v.s. bilder som ofte blir uskarpe fordi du ikke holder kameraet rolig nok. Jo dårligere belysning det er når du knipser dess viktigere er det å holde kameraet stødig. Støtt deg gjerne mot en påle eller mur om du ikke kan sette kameraet fra deg. Har du med stativ blir bildene ofte skarpe og fine.
 
@@ -39,6 +41,8 @@ En klassisk feil ved personfotografering er å ta et skritt bakover før bildet 
 
 **Landskap og dybdevirkning**  
 Landskapsfotografering blir ofte bedre om du finner en forgrunn. Det kan være en figur, et tre eller noe annet som gir det todimensjonale bildet en tredimensjonal effekt. Som en rekke med telefonstolper langs en vei. Trær langs en elv der du ser at trærne blir mindre jo lengre borte de befinner seg på bildet. Forgrunnen kan også være slik at bildet rammes inne av f.eks. to trær med landskapet du avbilder mellom disse. Tåke kan også gi en slik dybdeeffekt i bildet.
+
+![](https://www.helping.no/toru.002.jpg)
 
 **Motlys**  
 Motlys kan gi mange spennende effekter i bildet - enten du tar portrett eller landskapsbilder. Sørg da for å skru av blitsen slik at du får utnyttet disse effektene fult ut. Eller ta i bruk blitsen for å kompensere for skygger som blir for mørke nær kameraet.
