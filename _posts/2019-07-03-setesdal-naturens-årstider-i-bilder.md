@@ -15,6 +15,8 @@ publish_date:
 weight: 2
 
 ---
+![](https://www.helping.no/ab.1007.jpg)
+
 ![](https://www.helping.no/ab3.jpg)
 
 ![](https://www.helping.no/ab12.jpg)
