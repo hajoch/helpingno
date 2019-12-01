@@ -47,6 +47,8 @@ Klosteret ligger i fjellsiden på over to tusen meters høyde med utsikt over en
 På gårdsplassen foran klosteret dundrer de store trommene etterfulgt av trompeter i forskjellige lokale varianter. Lamadansene er i gang.  
 Gårdsplassen foran klosteret er omkranset av en ett etasjes bygning som danner en kvaderatisk ramme om området. Taket over dette kvaderatiske bygget er flatt og fungerer som publikumstribune mens lamaer og munker danser på plassen. Lamaer er munker som har nådd litt lengre på den åndelige rangstigen.
 
+![](https://www.helping.no/barnemunker.jpg)
+
 **Som tordenvær**  
 På en varanda ved inngangen til klostertempelst sitter orkesteret med trommer, fløyter, symballer og de særpregede radongene - et flere meter langt sammenleggbart blåseinstrument av metall oftest kunstferdig dekorert i sølv. Musikken er monoton og fremmedartet. Trompeter og radonger kommer inn med ujevne mellomrom mens de store trommene - som minner om tordenvær - dundrer sakte og taktfast.
 
