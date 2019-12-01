@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
@@ -126,7 +127,6 @@ pages:
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-24-vakre-veteraner-i-froland.md
 - _posts/2019-06-18-religioner-i-u-skolens-lærebøker-før-mønsterplanen.md
-- _posts/2019-06-17-galdhøpiggen.md
 - _posts/2019-11-25-barne-fortelleing-den-gode-samtalen.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
 - _posts/2019-07-03-for-høyt-priset-men-flott-på-farris.md

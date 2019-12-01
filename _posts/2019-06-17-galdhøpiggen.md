@@ -71,6 +71,8 @@ Se også:
 
 Flere bilder: [https://www.helping.no/gald.htm](https://www.helping.no/gald.htm)
 
+![](https://www.helping.no/ga.2.gc.jpg)
+
 ###### **Fjellvettreglene**
 
 Værforholdene i fjellet endrer seg raskt og det er viktig å være forberedt på uvær. Uansett om du har lite erfaring med friluftsliv eller er en dreven fjellvandrer er det lurt å ha fjellvettreglene i bakhodet underveis.
