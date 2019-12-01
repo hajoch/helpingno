@@ -82,3 +82,5 @@ det burde vært fra første dag.
 
 Flere bilder:  
 [https://www.helping.no/bow.3.htm](https://www.helping.no/bow.3.htm "https://www.helping.no/bow.3.htm")
+
+![](https://www.helping.no/amt.9.JPG)
