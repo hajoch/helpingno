@@ -17,7 +17,7 @@ image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
-publish_date: 2019-08-03 00:00:00 +0200
+publish_date: 2019-08-02T22:00:00.000+00:00
 weight: 9
 
 ---
@@ -33,6 +33,8 @@ Det kan være vanskelig å orientere seg i markedet av påhengsmotorer. Når vi 
 
 **Følelser**  
 Det er i tillegg mye følelser og synsing om påhengsmotorer og mange kjøper motorer ut i fra hvilke tidligere erfaringer de har med motorene. At emnet påhengsmotor engasjerer og er følelsesladd har vi i helping.no merket på flere tilbakemelding fra leserne våre. Aldri har et enkelt tema på helping.no fått så mange tilbakemeldinger som temaet "påhengsmotorer".
+
+![](https://www.helping.no/nikon2.jpg)
 
 **Vi håper imidlertid følgende oversikt kan være til hjelp.**
 
