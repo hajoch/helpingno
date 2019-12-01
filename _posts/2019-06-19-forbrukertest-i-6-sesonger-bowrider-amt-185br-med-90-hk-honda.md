@@ -41,6 +41,8 @@ Hondas 90 hk hadde da blitt den mest moderne motorteknologien-VTEC. Motoren har 
 
 Denne 90-hk 4-T-motoren var på kjøpstidspunktet 2007 den mest moderne trailer med hensyn til ytelse i forhold til forbruk og utslipp. Motoren var 26% lettere enn konkurrenters 4-taktsmotorer med et nytt forgassystem som gir mindre drivstoff og utslipp.
 
+![](https://www.helping.no/amt.10..JPG)
+
 **Andre motorvalg på denne båten**
 
 * Styr fra 115 hk Honda som er for tung på hekken i 185BR.  
