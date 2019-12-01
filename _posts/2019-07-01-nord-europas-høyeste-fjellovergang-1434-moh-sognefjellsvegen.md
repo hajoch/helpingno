@@ -19,7 +19,7 @@ publish_date:
 weight: 3
 
 ---
-![](https://www.helping.no/sogn11.jpg)![](https://www.helping.no/sogn13.jpg)![](https://www.helping.no/sogn15.jpg)![](https://www.helping.no/sogn6.jpg)![](https://www.helping.no/sogn3.jpg)![](https://www.helping.no/sogn12.jpg)
+![](https://www.helping.no/sogn10.jpg)![](https://www.helping.no/sogn8.jpg)![](https://www.helping.no/sogn11.jpg)![](https://www.helping.no/sogn13.jpg)![](https://www.helping.no/sogn15.jpg)![](https://www.helping.no/sogn6.jpg)![](https://www.helping.no/sogn3.jpg)![](https://www.helping.no/sogn12.jpg)
 
 ![](https://www.helping.no/sogn5.jpg)
 
