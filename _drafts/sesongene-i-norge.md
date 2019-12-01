@@ -2,15 +2,22 @@
 layout: post
 date: 2019-12-01 20:23:48 +0100
 crop_image: true
-tags: []
-title: Sesongene i Norge
-excerpt: ''
+tags:
+- foto
+- natur
+- naturopplevelser
+- rekreasjon
+title: Sesongene i Norge. FOTO
+excerpt: Den vakre naturen har alltid vært vår beste rekreasjonskilde og slik vil
+  det alltid være. Så gå ut - se, lukt og føl naturen som gir oss energi på alle tenkelige
+  positive måter.
 image: "/assets/images/vann.5.gc-1.jpg"
-image_caption: ''
-author: ''
-categories: []
-publish_date: 
-weight: 
+image_caption: Foto Gunnar Christensen
+author: _authors/gunnar-christensen.md
+categories:
+- _category/foto.md
+publish_date: 2019-12-01 00:00:00 +0100
+weight: 4
 
 ---
 **Januar**
@@ -59,25 +66,25 @@ weight:
 
 ![](http://www.helping.no/aug91.jpg)
 
-September
+**September**
 
 ![](http://www.helping.no/larvik.jpg)
 
 ![](http://www.helping.no/bar.jpg)
 
-Oktober
+**Oktober**
 
 ![](http://www.helping.no/okt6.jpg)
 
 ![](http://www.helping.no/oct091.jpg)
 
-November
+**November**
 
 ![](http://www.helping.no/now.5.jpg)
 
 ![](http://www.helping.no/nov.18.JPG)
 
-Desember
+**Desember**
 
 ![](http://www.helping.no/des.9.JPG)
 
