@@ -17,9 +17,9 @@ weight: 2
 ---
 **Siden er under konstruksjon og flere bilder kommer senere**
 
-Se alle bildene på:
+Se alle bildene på: [https://www.helping.no/ab.htm](https://www.helping.no/ab.htm)
 
-[https://www.helping.no/ab.htm](https://www.helping.no/ab.htm)
+![](https://www.helping.no/grendi2.jpg)
 
 ![](https://www.helping.no/ab2011.0.jpg)
 
