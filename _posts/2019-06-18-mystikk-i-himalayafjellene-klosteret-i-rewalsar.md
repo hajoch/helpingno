@@ -61,6 +61,8 @@ Fjell-landskapet glitret i sol fra nysnø da pilegrimene begynte den bratte opps
 
 En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.
 
+![](https://www.helping.no/rewalsar.jpg)
+
 Det berømte fotavtrykket i fjellet er like ved: Etter sagnet skal Guru Rinpoche ha sparket ifra på dette stedet i fjellet...... Fotavtrykket teller omkring 40 cm i lengde fra tåspiss til hel.
 
 En kø av pilegrimer ønsker å kjenne energistrømmene i fortavtrykket....
