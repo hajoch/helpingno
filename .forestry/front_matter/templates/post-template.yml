@@ -71,9 +71,9 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-17-bedre-bilder.md
 - _posts/2019-06-19-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md
-- _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-07-04-nidarosdomen-nordens-største-middelalderkirke.md
 - _posts/2019-07-01-nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen.md
