@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
@@ -118,7 +119,6 @@ pages:
 - _posts/2019-06-17-hva-er-åndelig-utvikling-og-oppvåkning.md
 - _posts/2019-06-17-alvorlig-depresjon.md
 - _posts/2019-06-18-psykiske-reaksjoner-ved-allergi.md
-- _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
 - _posts/2019-06-26-forbrukertest-forbrukertest-lindesnes-hav-hotell.md

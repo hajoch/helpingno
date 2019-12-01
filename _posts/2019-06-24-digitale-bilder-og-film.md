@@ -38,6 +38,8 @@ Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få 
 
 Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup for bildene dine. Vi garderer oss med å ha bildene på 3 PCer og to eksterne HD nå. Backup i bankboksen.
 
+![](https://www.helping.no/des.5.JPG)
+
 **Digitalfilm:**  
 Brenn inn på DVD eller ekstern HD  
 Videokamera i dag har oftest opptak direkte på en harddisk. Husk da sikkerhetskopiering av dine opptak. Har du digitalt videokamera såkalt DV med tape er det klokt å brenne disse opptakene over på DVD. Eller andre digitale lagring-løsninger.
