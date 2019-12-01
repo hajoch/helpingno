@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 15:22:57 +0200
+date: 2019-06-21T13:22:57.000+00:00
 crop_image: true
 tags:
 - Ford
@@ -27,6 +27,8 @@ Mustangen er en bil med en stolt og lang historie få andre bilmodeller kan konk
 Bilen har fått sitt navn etter en amerikansk hestetype. Denne hestetypen er et viltlevende dyr som er kraftig bygd, men elegant og utholdende. "Mustang" kommer fra meksikansk og betyr vill. Ford har dermed funnet det perfekte navnet til den legendariske muskelbilen sin, ettersom bilen også omtales slik.
 
 Når du kjører rundt i denne bilen øker selvtilliten. Overalt møter man vinkende, gispende og jublende glade mennesker som elsker bilen din. Mustangen vekker utrolig oppmerksomhet med sine klassiske fartsstriper, sitt herlige design og brummende V8'er, spesielt på norske veier som ellers er fylt opp med kjedelige stasjonsvogner og flerbruksbiler ikledd mørke farger.
+
+![](https://www.helping.no/mustang3.jpg)
 
 _Mustangens interiør er av gammelt design og bringer deg tiår tilbake i tid. Det er enkelt, men veldig smakfullt og lekkert. Dette retro-interiøret gir følelsen av at dette er en gammel bil, men på en god måte._
 
