@@ -37,6 +37,8 @@ En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter innover 
 Konduktøren er en dreven gubbe i gamet - just passert pensjonsalder, men "still going..." Mens kablene trekker jevnt oppover forteller han ivrig om banens historie:  
 \- Det kostet 14 millioner kroner å bygge denne banen i 1959 og det er Norges lengste taubane bygd etter samme prinsipp som Fløybanen i Bergen bortsett fra at her går hele løpet dypt inni fjellet. Og betydelig lengre spenn, naturligvis.
 
+![](https://www.helping.no/gausta9.jpg)
+
 Kabelbanen skal ta oss 1040 meter oppover inni fjellet i en 40 graders vinkel..
 
 Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel.
@@ -47,7 +49,9 @@ Det er 85% funktighet i lufta på grunn av vannet som renner under oss.
 \- Det går en fjellbekk under oss. Det er smeltevann fra permafrost og nedbør på toppen. Reneste vann du kan få. Det samles opp i en tank nederst ved inngangen og pumpes opp som vannforsyning til boenheter og turisthytta på toppen.
 
 * Det dugger fælt på linsa?  
-  \- Ikke rart for her er det 85% funktighet i lufta på grunn av vannet som renner under oss.
+  \- Ikke rart for her er det 85% fuktighet i lufta på grunn av vannet som renner under oss.
+
+  ![](https://www.helping.no/gausta7.jpg)
 
 Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".
 
