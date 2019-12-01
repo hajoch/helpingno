@@ -32,6 +32,8 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 
 **En vakker orkesterplass ved havet.**
 
+![](https://www.helping.no/lind.04.jpg)
+
 ![](https://www.helping.no/lind.25.jpg)
 
 ![](https://www.helping.no/lind.07.jpg)
