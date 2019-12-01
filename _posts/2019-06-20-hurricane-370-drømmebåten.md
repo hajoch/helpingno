@@ -57,6 +57,8 @@ Lar du deg lure til å kjøpe en piratkopi kan du få ubehagelige overraskelser 
 **Testet i 8 sesonger**  
 Vi har i en periode på 8 sesonger testet versjonen av båten som heter Hurricane 370. Skroget har blå metallakk med gult dekk. Gult er en signalfarge som er godt synlig på fjorden og gir derfor god sikkerhet: Du blir sett. Mørke farger på denne båten er derfor ikke så lurt.
 
+![](https://www.helping.no/hurricane-5.jpg)
+
 **To motorer**  
 To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha** 9,9 hk trimmet til 15. Begge motorene passer ypperlig på båten, men 9,9/15 hk får båten raskt i plan og det går greit med to lette personer i båten.
 
