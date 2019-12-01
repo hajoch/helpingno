@@ -8,9 +8,9 @@ tags:
 - naturopplevelser
 - rekreasjon
 title: Sesongene i Norge. FOTO
-excerpt: Den vakre naturen har alltid vært vår beste rekreasjonskilde og slik vil
+excerpt: 'Den vakre naturen har alltid vært vår beste rekreasjonskilde og slik vil
   det alltid være. Så gå ut - se, lukt og føl naturen som gir oss energi på alle tenkelige
-  positive måter.
+  positive måter. '
 image: "/assets/images/vann.5.gc-1.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
@@ -20,7 +20,9 @@ publish_date: 2019-12-01 00:00:00 +0100
 weight: 4
 
 ---
-**Januar**
+Naturen er forskjellig avhengig av hvor du er på planeten vår. Vi bringer bilder fra den norske naturen. Hver måned skildres naturen i bilder så du kan se hvordan naturen skifter fra sesong til sesong. Å ta vare på vår vakre natur her og nå er å ta vare på oss selv nå - og i fremtiden. Dette er vår eneste mulighet til å overleve på denne kloden - den eneste kloden vi har. 
+
+ Vi har alle et ansvar for å forhindre og begrense forurensning på Jorden og bevare klodens helse ved å bevare regnskog m.m.. Forurensning som gir klimaforandringer og ekstremvær kan i sin ytterste konsekvens true vår eksistens. Vi kan ikke leve uten naturen.**Januar**
 
 ![](http://www.helping.no/nov.15.JPG)
 
