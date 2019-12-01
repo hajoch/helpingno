@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
@@ -160,7 +161,6 @@ pages:
 - _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
 - _posts/2019-06-24-luksusstripen.md
-- _posts/2019-06-20-galdhøpiggens-villreinstamme.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
 - _posts/2019-06-21-meditasjonskurs-2-mantra-meditasjon.md
 - _posts/2019-06-21-meditasjonskurs-1-meditasjon-med-pusteteknikk.md
