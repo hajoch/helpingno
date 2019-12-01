@@ -71,10 +71,10 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-07-03-setesdal-naturens-årstider-i-bilder.md
 - _posts/2019-05-25-AIMA.markdown
 - _posts/2019-06-17-Styrkeprøven.md
-- _posts/2019-07-31-ydalir-hotell-stavangers-hemmelighet.md
 - _posts/2019-06-26-bruktbil-av-nye-bobla.md
 - _posts/2019-07-01-bowrider-duell-amt-185br-mot-yamarin-58br.md
 - _posts/2019-06-25-enda-en-healing-som-ikke-virker-caroline-myss-medisinsk-intuitiv-og-forfatter-besøkte-oslo.md
