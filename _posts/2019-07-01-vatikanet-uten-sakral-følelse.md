@@ -29,6 +29,8 @@ Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet
 
 Innerst i kirken er en messe i gang. Unge, sortdressende sikkerhetsvakter stopper meg: "Not for tourists". Bare italiensktalende slipper inn til messen i Petererskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
 
+![](https://www.helping.no/vat.jpg)
+
 **Peterskirken:**  
 Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp fra den indre kuppelen - til toppen av den utvendige kuppelen. Her er Romas fineste utsikt. Peterskirken tar ikke inngangsbillett.
 
