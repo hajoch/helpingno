@@ -79,6 +79,8 @@ Ute av tunellen ligger Turistforeningens hytte sløret i tåke som et spøkelses
 
 Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
 
+![](https://www.helping.no/gausta4.jpg)
+
 **Linker**  
 Flere  bilder: [http://www.helping.no/gaustabanen.htm](http://www.helping.no/gaustabanen.htm)  
 Slik får du kontakt med Gaustabanen:  
