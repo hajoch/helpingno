@@ -15,6 +15,8 @@ publish_date:
 weight: 2
 
 ---
+![](https://www.helping.no/ab2012.jpg)
+
 ![](https://www.helping.no/ab2011.jpg)
 
 ![](https://www.helping.no/grendi2.jpg)
