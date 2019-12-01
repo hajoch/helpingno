@@ -53,6 +53,8 @@ At munkene til daglig er opptatt av åndelig fordypning kan kanskje virke unytti
 
 Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, støyende by- og fabrikksentra turen gikk gjennom på vei til Alpene fra Norge. De tyske storbyene med støy og frustrasjon samt autobahner med en uendelighet av biler, fikk meg til å oppleve Tamié som en vakker oase av kjærlighet og menneskelighet.
 
+![](https://www.helping.no/tamie1.jpg)
+
 ### **Intervju: Broder Paul: En overskridelse**
 
 **Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
