@@ -21,4 +21,6 @@ Se alle bildene på:
 
 [https://www.helping.no/ab.htm](https://www.helping.no/ab.htm)
 
+![](https://www.helping.no/ab2011.0.jpg)
+
 ![](https://www.helping.no/grendi.jpg)
