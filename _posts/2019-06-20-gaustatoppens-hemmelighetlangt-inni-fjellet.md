@@ -70,6 +70,8 @@ En tunell fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
 
 Ute av tunellen ligger Turist-foreningens hytte sløret i tåke som et spøkelsesslott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
 
+![](https://www.helping.no/gausta8.jpg)
+
 **Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. Den vakre utsikten fikk  
 jeg ikke.**
 
