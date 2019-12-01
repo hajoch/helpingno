@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
 - _posts/2019-06-17-bedre-bilder.md
@@ -178,7 +179,6 @@ pages:
 - _posts/2019-06-24-sjekk-bildekk.md
 - _posts/2019-06-26-drømmeboken.md
 - _posts/2019-06-26-biltips.md
-- _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-03-varmepumpe-øker-strømforbruket.md
 - _posts/2019-06-22-båt-tips.md
 - _posts/2019-08-01-flyskrekk-finnes-hjelp.md

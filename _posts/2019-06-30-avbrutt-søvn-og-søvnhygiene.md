@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-30 12:27:20 +0200
+date: 2019-06-30T10:27:20.000+00:00
 crop_image: true
 tags:
 - søvn
@@ -8,6 +8,9 @@ tags:
 - søvnråd
 - søvnhygiene
 - gode råd om søvn
+- helse
+- mental helse
+- sov godt
 title: Avbrutt søvn og søvnhygiene
 excerpt: Forebyggende tiltak for å forbedre søvnen kaller vi søvnhygene. Hvis du er
   våken og opplagt på dagtid og sover mellom seks og ni timer, så skal du ikke bekymre
