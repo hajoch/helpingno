@@ -31,3 +31,5 @@ Flere bilder mm
 Seilskipet Sørlandet er finansiert av skipsreder O. A. T Skjelbred og bygget ved Høivolds Mek. Verksted i Kristiansand og sjøsatt som skoleskip i 1927. Sørlandet har nå motor produsert i 1958, og er renovert flere ganger etter krigen.
 
 Link: [http://www.youtube.com/watch?v=v6DZIvMZWzQ](http://www.youtube.com/watch?v=v6DZIvMZWzQ "http://www.youtube.com/watch?v=v6DZIvMZWzQ")
+
+![](http://www.helping.no/sorlandet4.jpg)
