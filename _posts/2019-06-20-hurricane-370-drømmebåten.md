@@ -71,3 +71,5 @@ Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha
 
 Flere bilder:  
 [https://www.helping.no/bat.ung.htm](https://www.helping.no/bat.ung.htm "https://www.helping.no/bat.ung.htm")
+
+![](https://www.helping.no/hurricsne22.jpg)
