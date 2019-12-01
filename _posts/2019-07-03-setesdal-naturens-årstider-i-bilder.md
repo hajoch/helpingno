@@ -15,9 +15,7 @@ publish_date:
 weight: 2
 
 ---
-**Siden er under konstruksjon og flere bilder kommer senere**
-
-Se alle bildene på: [https://www.helping.no/ab.htm](https://www.helping.no/ab.htm)
+![](https://www.helping.no/ab2011.jpg)
 
 ![](https://www.helping.no/grendi2.jpg)
 
