@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-møte-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya.md
 - _posts/2019-06-18-benares.md
 - _posts/2019-06-17-grønn-suppe.md
 - _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
@@ -247,7 +248,6 @@ pages:
 - _posts/2019-06-20-sommeren-1977-elvis-presley-og-volvo-amazon.md
 - _posts/2019-06-17-lisa-williams-døden-er-den-mest-intime-opplevelsen-du-noen-gang-kan-erfare.md
 - _posts/2019-06-17-kosebåt.md
-- _posts/2019-06-17-møte-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya.md
 - _posts/2019-06-17-sukkeravhengighet.md
 - _posts/2019-06-17-ta-kontakt-med-politivakta-ufarlig-stalking.md
 - _posts/2019-07-01-bowrider-guiden.md

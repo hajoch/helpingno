@@ -14,7 +14,7 @@ tags:
 - nestekjærlighet
 - brorskap
 - voldsbølgen
-title: 'Møte med H.H. Dalai Lama: En pilgrim i Bodh Gaya'
+title: 'H.H. Dalai Lama: En pilgrim i Bodh Gaya'
 excerpt: |-
   En reise til Bodh Gaya, India med audiens hos Hans Hellighet
   den 14 Dalai Lama i det lokale tibetanskbuddhistiske klosteret.
@@ -49,8 +49,9 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 
 **Audiens**
 
-Mahabodhitempelet i Bodh Gaya, Bihar hvor  
-H H Dalai Lama deltok i seremonier.
+![](http://www.helping.no/mahaboditemple.jpg)
+
+Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier.
 
 Dalai Lama gir audiensen for de europeiske pilegrimene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilegrimene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
 
