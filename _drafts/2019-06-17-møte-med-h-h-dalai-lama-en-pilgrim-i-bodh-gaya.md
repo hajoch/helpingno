@@ -14,10 +14,9 @@ tags:
 - nestekjærlighet
 - brorskap
 - voldsbølgen
-title: 'H.H. Dalai Lama: En pilgrim i Bodh Gaya'
-excerpt: |-
-  En reise til Bodh Gaya, India med audiens hos Hans Hellighet
-  den 14 Dalai Lama i det lokale tibetanskbuddhistiske klosteret.
+title: 'Dalai Lama: En pilgrim i Bodh Gaya'
+excerpt: En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai
+  Lama i det lokale tibetansk-buddhistiske klosteret.
 image: "/assets/images/dalailama.jpg"
 image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
@@ -51,7 +50,7 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 
 ![](http://www.helping.no/mahaboditemple.jpg)
 
-Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier.
+Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier. Foto Gunnar Christensen.
 
 Dalai Lama gir audiensen for de europeiske pilegrimene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilegrimene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
 
@@ -79,7 +78,7 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
 
 **Linker om Dalai Lama:  
- Slik ser han ut i 2018.**
+Slik ser han ut i 2018.**
 
 ![](http://www.helping.no/dalailama8.jpg)[  
 www.facebook.com/DalaiLama](http://www.facebook.com/DalaiLama)
