@@ -13,7 +13,8 @@ excerpt: Foto
 image: "/assets/images/skagen5.jpg"
 image_caption: Foto Gunnar Chtristensen
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/foto.md
 publish_date: 
 weight: 3
 
