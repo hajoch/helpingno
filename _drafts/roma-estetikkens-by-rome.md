@@ -43,6 +43,10 @@ Eldre bebyggelse like ved Forum Romanum.
 
 Bar i Roma
 
+![](http://www.helping.no/rom7.jpg)
+
+Den Spanske trappen ved Pazza Spagna.
+
 ![](http://www.helping.no/rom3.jpg)
 
 Denne vakre fontenen finner du i bunnen av Den Spanske Trappen ved Pazza Spagna.
