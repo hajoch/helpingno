@@ -77,3 +77,19 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 \- Tålmodighet og forståelse for menneskers manglende visdom og brorskap, svarer Dalai Lama.
 
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
+
+**Linker om Dalai Lama:  
+ Slik ser han ut i 2018.**
+
+![](http://www.helping.no/dalailama8.jpg)[  
+www.facebook.com/DalaiLama](http://www.facebook.com/DalaiLama)
+
+[no.wikipedia.org/wiki/Dalai_Lama](http://no.wikipedia.org/wiki/Dalai_Lama)
+
+**Film:**  
+[www.roadtopeacefilm.com/](http://www.roadtopeacefilm.com/)
+
+**Litteratur**  
+\- "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
+
+\- "Arbeid og lykke", H.H. Dalai Lama/Howard C. Cutler, Damm 2004
