@@ -4,7 +4,8 @@ date: 2019-12-02 12:24:06 +0100
 crop_image: true
 tags:
 - foto
-title: Roma - Estetikkens by - Rome
+- foto
+title: 'Roma - Estetikkens by '
 excerpt: " Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
   Selv gateselgere tar et nei for et nei.\n\n"
 image: "/assets/images/rom4.jpg"
@@ -44,8 +45,6 @@ Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem.Piazza Nav
 
 Eldre bebyggelse like ved Forum Romanum.
 
-Eldre bebyggelse like ved Forum Romanum.
-
 ![](http://www.helping.no/roma6.jpg)
 
 Bar i Roma
@@ -55,8 +54,6 @@ Bar i Roma
 Den Spanske trappen ved Pazza Spagna.
 
 ![](http://www.helping.no/rom3.jpg)
-
-Motiv fra Colosseum. Imponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
 
 ![](http://www.helping.no/roma3.jpg)
 
@@ -80,7 +77,7 @@ På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter a
 
 ![](http://www.helping.no/roma4.jpg)
 
-Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og souvernirer til turister.
+Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og suvenirer til turister.
 
 ![](http://www.helping.no/taleangst.jpg)
 
