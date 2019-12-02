@@ -22,3 +22,5 @@ weight:
 ![](http://www.helping.no/gjende9.jpg)
 
 ![](http://www.helping.no/gjende5.jpg)
+
+![](http://www.helping.no/gjende1.jpg)
