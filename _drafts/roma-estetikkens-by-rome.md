@@ -2,16 +2,20 @@
 layout: post
 date: 2019-12-02 12:24:06 +0100
 crop_image: true
-tags: []
+tags:
+- Roma
+- Italia
 title: Roma - Estetikkens by - Rome
 excerpt: " Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
   Selv gateselgere tar et nei for et nei.\n\n"
-image: ''
-image_caption: ''
-author: ''
-categories: []
+image: "/assets/images/rom4.jpg"
+image_caption: Pantheon tempelet ble bygget 118 - 125 e.kr. av keiser Hadrian. Foto
+  Gunnar Christensen
+author: _authors/gunnar-christensen.md
+categories:
+- _category/foto.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og betong i sentrum. Skjønnhet preger byens arkitektur og kunst. Innbyggerne er stolte av byen og med rette.
@@ -29,4 +33,20 @@ Mange turister har klaget på disse "krigerne" og det er blitt en del presseomta
 
 ![](http://www.helping.no/rom2.jpg)
 
-Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem
+Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem.
+
+![](http://www.helping.no/rom5.jpg)
+
+Eldre bebyggelse like ved Forum Romanum.
+
+![](http://www.helping.no/roma6.jpg)
+
+Bar i Roma
+
+![](http://www.helping.no/rom3.jpg)
+
+Denne vakre fontenen finner du i bunnen av Den Spanske Trappen ved Pazza Spagna.
+
+![](http://www.helping.no/roma9.jpg)
+
+Motiv fra Colosseum. Imponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
