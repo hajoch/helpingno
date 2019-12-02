@@ -50,3 +50,23 @@ Denne vakre fontenen finner du i bunnen av Den Spanske Trappen ved Pazza Spagna.
 ![](http://www.helping.no/roma9.jpg)
 
 Motiv fra Colosseum. Imponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
+
+![](http://www.helping.no/roma3.jpg)
+
+Severdighetene er mange og populære. Travle små gater med turister, lokalfolk, mopeder og biler på gamle brostein og historisk grunn. Trevifontenene.
+
+![](http://www.helping.no/roma8.jpg)
+
+Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme. Selv gateselgere tar et nei for et nei
+
+![](http://www.helping.no/roma1.jpg)
+
+Man føler seg trygg i denne byen. Ordensmakten gjør jobben sin her.
+
+![](http://www.helping.no/dabaffetto.jpg)
+
+Ekte italiensk pizza får du i Roma på restauranten. Da Baffetto
+
+![](http://www.helping.no/dabaffetto2.jpg)
+
+På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene. [www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
