@@ -16,7 +16,7 @@ tags:
 - voldsbølgen
 title: 'Dalai Lama: En pilgrim i Bodh Gaya'
 excerpt: "- Viktigere enn å tro på gjenfødsel eller Gud, er å praktisere brorskap
-  og nestekjærlighet, å hjelpe andre vesener - mennesker og dyr. \n\nEn reise til
+  og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. \n\nEn reise til
   Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske
   klosteret."
 image: "/assets/images/dalailama.jpg"
