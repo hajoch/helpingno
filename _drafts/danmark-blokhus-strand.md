@@ -28,6 +28,8 @@ weight: 3
 
 ![](http://www.helping.no/dkb3.jpg)
 
+![](http://www.helping.no/dkb9.jpg)
+
 ![](http://www.helping.no/dkb7.jpg)
 
 ![](http://www.helping.no/dkb8.jpg)
