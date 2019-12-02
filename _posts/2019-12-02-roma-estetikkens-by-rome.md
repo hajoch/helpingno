@@ -39,8 +39,6 @@ Mange turister har klaget på disse "krigerne" og det er blitt en del presseomta
 
 Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem
 
-Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem.Piazza Navone: På Piazza Navone finner du en av Italias beste iskremPiazza Navone: På Piazza Navone finner du en av Italias beste iskrem
-
 ![](http://www.helping.no/rom5.jpg)
 
 Eldre bebyggelse like ved Forum Romanum.
