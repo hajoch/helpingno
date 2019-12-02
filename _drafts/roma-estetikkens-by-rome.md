@@ -24,6 +24,10 @@ Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og betong
 
 Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro.
 
+![](http://www.helping.no/roma9.jpg)
+
+Motiv fra ColosseumImponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
+
 ![](http://www.helping.no/romaguider.jpg)
 
 Se opp for guidene kledd i drakter som romerske gladiatorer. Disse er frekke, arrogante og lopper deg for penger. Dette er ulikt romerne forøverig som er hyggelige med utmerket service overfor alle turister.
@@ -48,10 +52,6 @@ Bar i Roma
 Den Spanske trappen ved Pazza Spagna.
 
 ![](http://www.helping.no/rom3.jpg)
-
-Denne vakre fontenen finner du i bunnen av Den Spanske Trappen ved Pazza Spagna.
-
-![](http://www.helping.no/roma9.jpg)
 
 Motiv fra Colosseum. Imponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
 
