@@ -7,7 +7,7 @@ tags:
 title: Svanesjøen - Grasiøs kjærlighet
 excerpt: FOTO
 image: "/assets/images/svane1-1.jpg"
-image_caption: ''
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
