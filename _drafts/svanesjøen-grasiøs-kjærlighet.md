@@ -12,7 +12,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 ![](http://www.helping.no/svane2.jpg)
