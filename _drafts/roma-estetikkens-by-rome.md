@@ -45,6 +45,8 @@ Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem.Piazza Nav
 
 Eldre bebyggelse like ved Forum Romanum.
 
+Eldre bebyggelse like ved Forum Romanum.
+
 ![](http://www.helping.no/roma6.jpg)
 
 Bar i Roma
