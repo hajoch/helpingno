@@ -28,6 +28,12 @@ Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsn
 
 Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et sikkert mai-tegn hvert år.
 
-Flere bilder:
+![](http://www.helping.no/veteran14.jpg)
 
-[https://www.helping.no/bilveteran.htm](https://www.helping.no/bilveteran.htm)
+![](http://www.helping.no/veteran7.jpg)
+
+![](http://www.helping.no/veteran12.jpg)
+
+![](http://www.helping.no/veteran23.jpg)
+
+![](http://www.helping.no/veteran17.jpg)
