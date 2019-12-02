@@ -14,11 +14,11 @@ tags:
 - nestekjærlighet
 - brorskap
 - voldsbølgen
-title: 'Dalai Lama: En pilgrim i Bodh Gaya'
-excerpt: "- Viktigere enn å tro på gjenfødsel eller Gud, er å praktisere brorskap
-  og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. \n\nEn reise til
-  Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske
-  klosteret."
+title: 'Dalai Lama: En pilgrim i Bodh Gaya. '
+excerpt: |-
+  - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
+
+  En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske klosteret.
 image: "/assets/images/dalailama.jpg"
 image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
@@ -80,7 +80,7 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
 
   
-**Slik ser han ut i 2018.**
+**Slik ser han ut i 2019 - 40 år og en Nobels fredspris senere.**
 
 ![](http://www.helping.no/dalailama8.jpg)[  
 ](http://www.facebook.com/DalaiLama)**Linker om Dalai Lama:**
