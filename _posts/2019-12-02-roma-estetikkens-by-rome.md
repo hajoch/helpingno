@@ -3,8 +3,7 @@ layout: post
 date: 2019-12-02 12:24:06 +0100
 crop_image: true
 tags:
-- Roma
-- Italia
+- foto
 title: Roma - Estetikkens by - Rome
 excerpt: " Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
   Selv gateselgere tar et nei for et nei.\n\n"
@@ -78,3 +77,7 @@ Ekte italiensk pizza får du i Roma på restauranten. Da Baffetto
 ![](http://www.helping.no/dabaffetto2.jpg)
 
 På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene. [www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
+
+![](http://www.helping.no/roma4.jpg)
+
+Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og souvernirer til turister.
