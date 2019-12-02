@@ -55,7 +55,7 @@ Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, stø
 
 ![](https://www.helping.no/tamie1.jpg)
 
-### **Intervju: Broder Paul: En overskridelse**
+### Intervju: Broder Paul: En overskridelse
 
 **Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
