@@ -13,7 +13,7 @@ excerpt: |-
 
   Orkesterplass ved havet på Danmarks vestkyst.
   Bilferie på stranden.
-image: "/assets/images/dkb1.jpg"
+image: "/assets/images/dkb5.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
