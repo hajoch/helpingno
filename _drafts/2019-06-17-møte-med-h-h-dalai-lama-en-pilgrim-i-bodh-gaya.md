@@ -15,8 +15,10 @@ tags:
 - brorskap
 - voldsbølgen
 title: 'Dalai Lama: En pilgrim i Bodh Gaya'
-excerpt: En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai
-  Lama i det lokale tibetansk-buddhistiske klosteret.
+excerpt: "- Viktigere enn å tro på gjenfødsel eller Gud, er å praktisere brorskap
+  og nestekjærlighet, å hjelpe andre vesener - mennesker og dyr. \n\nEn reise til
+  Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske
+  klosteret."
 image: "/assets/images/dalailama.jpg"
 image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
