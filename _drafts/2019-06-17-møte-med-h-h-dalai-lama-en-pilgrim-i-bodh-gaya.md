@@ -86,9 +86,6 @@ www.facebook.com/DalaiLama](http://www.facebook.com/DalaiLama)
 
 [no.wikipedia.org/wiki/Dalai_Lama](http://no.wikipedia.org/wiki/Dalai_Lama)
 
-**Film:**  
-[www.roadtopeacefilm.com/](http://www.roadtopeacefilm.com/)
-
 **Litteratur**  
 \- "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
 
