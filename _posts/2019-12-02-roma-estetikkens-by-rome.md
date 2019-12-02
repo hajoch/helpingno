@@ -81,3 +81,7 @@ På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter a
 ![](http://www.helping.no/roma4.jpg)
 
 Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og souvernirer til turister.
+
+![](http://www.helping.no/taleangst.jpg)
+
+Best klima har Roma i april og mai. I juli og august er byen for varm.
