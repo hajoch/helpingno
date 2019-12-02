@@ -37,3 +37,7 @@ Parkplassen fylles fort og veiene gjennom Froland preges av vakre veteraner. Et 
 ![](http://www.helping.no/veteran23.jpg)
 
 ![](http://www.helping.no/veteran17.jpg)
+
+![](http://www.helping.no/veteran19.jpg)
+
+![](http://www.helping.no/veteran18.jpg)
