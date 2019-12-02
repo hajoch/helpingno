@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-12-01-sesongene-i-norge.md
 - _posts/2019-06-23-seilskipet-sørlandet.md
 - _posts/2019-06-20-gaustatoppens-hemmelighetlangt-inni-fjellet.md
@@ -80,7 +81,6 @@ pages:
 - _posts/2019-06-24-digitale-bilder-og-film.md
 - _posts/2019-06-21-tibetansk-nyttår-i-sikkim.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
-- _posts/2019-06-17-klosterliv-på-nært-hold-nøysomhet-og-flittig-arbeid.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-06-17-hvilke-påhengsmotorer-er-best.md
