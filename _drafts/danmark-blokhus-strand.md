@@ -33,3 +33,5 @@ weight: 3
 ![](http://www.helping.no/dkb8.jpg)
 
 ![](http://www.helping.no/mobbing.jpg)
+
+![](http://www.helping.no/dkb12.jpg)
