@@ -10,7 +10,7 @@ tags:
 - Nikon
 title: Skagen i Danmark
 excerpt: Foto
-image: "/assets/images/nikondk1-1.jpg"
+image: "/assets/images/skagen5.jpg"
 image_caption: Foto Gunnar Chtristensen
 author: _authors/gunnar-christensen.md
 categories: []
@@ -33,3 +33,5 @@ weight: 3
 ![](http://www.helping.no/skagen8.jpg)
 
 ![](http://www.helping.no/nokondk2.jpg)
+
+![](http://www.helping.no/nikondk1.jpg)
