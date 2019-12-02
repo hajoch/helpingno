@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/skagen-i-danmark.md
 - _posts/2019-12-02-svanesjøen-grasiøs-kjærlighet.md
 - _posts/2019-12-02-roma-estetikkens-by-rome.md
 - _posts/2019-12-02-gjendevann.md
