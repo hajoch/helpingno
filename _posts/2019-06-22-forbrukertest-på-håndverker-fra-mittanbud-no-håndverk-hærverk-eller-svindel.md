@@ -57,6 +57,8 @@ Underveis i arbeidet ble glaserte, kostbare og uerstattelige gamle hollandske te
 
 Og det ble levert takrenner uten alt utstyr som skal på plass for slike takrenner. En puteboks ble brukt som arbeidsbenk og ramponert.
 
+![](http://www.helping.no/pipe22.jpg)
+
 **Ulyd i pipa - sikkerhetsrisiko**  
 Da ulyden kom i pipa ved neste vindblåst, innså jeg at dette ikke var levert slik det skal være - og nøytrale utenforstående med kunnskap om håndverk ble spurt om å kommentere jobben.
 
