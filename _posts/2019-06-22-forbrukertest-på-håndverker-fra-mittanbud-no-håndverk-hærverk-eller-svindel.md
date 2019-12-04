@@ -78,6 +78,8 @@ Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkern
 
 Det er senior Walter Marino Fredriksen som foretar kundekontakten og jeg har så langt antatt at det er han som står bak firmaet. I samtaler med dem virket det imidlertid som om de ikke ønsker at det skal bli kjent at de begge jobber og det kan derfor tenkes at en av dem eller begge er NAV-brukere.
 
+![](http://www.helping.no/pipe2.jpg)
+
 **Ingen dokumentasjon på yrkesopplæring**  
 Jeg ba om at den av disse to som er yrkesaktiv fremlegger dokumentasjon på handverksmessig opplæring i faget ? takrenner og pipebeslag. Hvis det viser seg at ingen av disse har opplæring i faget er dette meget alvorlig. Da er dette svindel. Og mittanbud.no er medansvarlig.
 
