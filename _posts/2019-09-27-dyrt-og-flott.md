@@ -11,7 +11,7 @@ tags:
 title: Dyrt og flott
 excerpt: 'Test: Kanskje det beste historiske hotell? Ullensvang hotell på Lofthus
   i vakre Hardanger. Et sted å kose seg.'
-image: "/assets/images/IMG_2985.JPG"
+image: "/assets/images/IMG_2988 (1).JPG"
 image_caption: Foto Gunnar Christensen, motiv fra Ullensvang historiske hotell ved
   den vakre Hardangerfjorden.
 author: _authors/gunnar-christensen.md
@@ -34,3 +34,5 @@ Alle måltider var av god kvalitet. Flott frokost og middager hvor det hele tide
 Flott parkanlegg langs sjøen med sandstrand, båter til utleie og basseng både ute og inne. En meditativ opplevelse der du alltid finner en usjenert sittegruppe både ute og inne i rolige, vakre omgivelser. Et hotell med god stemning.
 
 Her kan mange andre hoteller i Norge finne inspirasjon til å gjøre en bedre jobb.
+
+![](https://hajoch.github.io/helpingno/assets/images/IMG_2985.JPG)
