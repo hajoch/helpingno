@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-22-boligråd.md
 - _posts/2019-06-22-forbrukertest-på-håndverker-fra-mittanbud-no-håndverk-hærverk-eller-svindel.md
 - _posts/2019-07-01-seilskipet-gotheborg-verdens-største.md
 - _posts/2019-12-02-danmark-blokhus-strand.md
@@ -180,7 +181,6 @@ pages:
 - _posts/2019-06-21-lønner-det-seg-å-importere-båten-selv.md
 - _posts/2019-06-21-gjøkuret-fra-schwartzwald.md
 - _posts/2019-06-21-langtids-bruktbil-test-ford-focus-stv.md
-- _posts/2019-06-22-boligråd.md
 - _posts/2019-06-23-5-gode-søvnråd.md
 - _posts/2019-06-23-jolla.md
 - _posts/2019-06-24-volvo-544-b16.md
