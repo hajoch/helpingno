@@ -39,6 +39,8 @@ Etter at jobben er "ferdig" siger en av platene på pipa med ca. 10 cm og lager 
 
 Hele pipebeslaget må rives og erstattes med et arbeid utført av en pålitelig fagmann. Walter Marino Fredriksen hadde flere anledninger til å gjøre dette på en kvalitativt god måte, men det klarte han ikke - og resultatet er et ubrukelig og utrygt pipebeslag med åpenbare feil og mangler.
 
+![](http://www.helping.no/pipe1.jpg)
+
 Den lange yrkeserfaringen Walter Marino Fredriksern skrøt av før han fikk jobben viser seg nå i praksis å være blank løgn.
 
 **Anbudstjeneste på nett**  
