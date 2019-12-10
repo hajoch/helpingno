@@ -12,11 +12,11 @@ tags:
 - Gunnar Christensen
 - analyse av lærebøker
 - fremmede religioner
-title: 'Bokomtale: Skandalebøkene i ungdomsskolen'
+title: Skandalebøkene i ungdomsskolen
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
-  Religioner i u-skolens lærebøker før Mønsterplanen
-image: "/assets/images/skandalestor.jpg"
+  Religioner i u-skolens lærebøker før Mønsterplanen. Bokomtale.
+image: "/assets/images/VOC022.WAV"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
@@ -41,8 +41,6 @@ Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. De
 \- Skjerp dere lærere!
 
 **Redaksjonen:**
-
-[Download File]( "Download File")
 
 Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
 
