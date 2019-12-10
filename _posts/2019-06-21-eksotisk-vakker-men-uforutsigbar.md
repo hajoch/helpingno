@@ -23,6 +23,8 @@ weight: 1
 **Fiskerne deler broderlig**  
 Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har slitt for på Sri Lanka. Fisken fordeles på den glitrende stranden under palmene: Noe til fiskernes familier, naboer og resten til markedene i byen. Nye fiskeredskaper effektiviserer og utkonkurrerer disse enkle garnredskapene, men fiskerne deler broderlig så alle får.
 
+Bilde: Morgen ved stranden. Foto Gunnar Christensen
+
 ![](http://www.helping.no/srilankabat.jpg)
 
 Markedene er eksotiske: Her tilbyes alt hva landet kan oppdrive av frukter, fisk skalldyr, edelstener, te vakre batikkplagg og bilder samt mange slag håndverksarbeider. Landets import er på et minimum og innførte varer er dyre og vanskelige å få tak i. Mange finere stoffer er rimelige for europeere, og en skredder syr gjerne en dress på dagen ­eller en vakker sari, stedets kvinneplagg, for en utrolig lav sum.
@@ -30,11 +32,14 @@ Markedene er eksotiske: Her tilbyes alt hva landet kan oppdrive av frukter, fisk
 **Turisme**  
 De første skandinaviske pakketurene til Sri Lanka kom rundt 1970. Tamil-konflikten nord i landet har dempet utviklingen i turismen i betydelig grad.
 
-Tross beliggenheten 69 grader nord for ekvator, og med vintertemperatur som norsk sommer på det varmeste er Sri Lanka et fremragende reisemål forbading og solskinn. Men solen er for sterk for solbad hele dagen på norsk hud. Havet har strie strømmer som gjør bading farlig enkelte steder. Innsjøene har krokodiller. Få hoteller har svømmebasseng, så turistene er henviste til de vakre glitrende sannstrendene. Ved hotellene bevoktes disse av badevakter som bestemmer når det er trygt å bade. Uerfarne turister bør ikke svømme på dypere vann enn sin egen høyde fra bunnen og ikke når bølgene er høye. Sri Lanka ligger i et havområde hvor de farligste haiene finnes, men verken turister eller fiskere har sett noen, påståes det. Det antaes derfor at de farlige haiene ikke går så nær inn på kysten at det får konsekvenser for bading langs stranden.
+Tross beliggenheten 69 grader nord for ekvator, og med vintertemperatur som norsk sommer på det varmeste er Sri Lanka et fremragende reisemål forbading og solskinn. Men solen er for sterk for solbad hele dagen på norsk hud. Havet har strie strømmer som gjør bading farlig enkelte steder. Innsjøene har krokodiller. Få hoteller har svømmebasseng, så turistene er henviste til de vakre glitrende sandstrendene. Ved hotellene bevoktes disse av badevakter som bestemmer når det er trygt å bade. Uerfarne turister bør ikke svømme på dypere vann enn sin egen høyde fra bunnen og ikke når bølgene er høye. Sri Lanka ligger i et havområde hvor de farligste haiene finnes, men verken turister eller fiskere har sett noen, påståes det. Det antaes derfor at de farlige haiene ikke går så nær inn på kysten at det får konsekvenser for bading langs stranden.
 
 De lokale rettene ris og karri er vanligvis ikke krydret for norske ganer, men dette finnes også i mildere varianter. Lokal mat sammen med deilig, frisk frukt og ferske skalldyr anbefales. Sri Lanka er berømt for sin te. Det er populært å kjøpe med seg te kjøpt på de lokale plantasjer i høylandet.
 
 Mest populært å kjøpe med seg fra Sri Lanka er foruten te, dansemasker og vakker batikk. De vakre verdenskjente edelsteinene finnes i rike mengder til rimeligere priser enn de fleste andre steder. Edelsteinene slipes for hånd på flere lokale sliperier. Men vær på vakt for lureri: Det kreves god kunnskap for ikke å bli lurt på prisen...
+
+Bilde: Elefanten gjør traktoren overflødig ved dette sagbruket.  
+Foto [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
 ![](http://www.helping.no/elefant.jpg)
 
@@ -49,7 +54,7 @@ Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til 
 
 **Tradisjonelle fiskebåt på Negombo-stranden**
 
-Stupaen er den helligste del av et buddhisttempel på Sri Lanka  
+BIlde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka  
 Foto [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
 ![](http://www.helping.no/stupa.jpg)
