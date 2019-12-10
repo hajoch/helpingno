@@ -34,6 +34,8 @@ Playa Blanca var en liten ukjent fiskerlandsby da vi besøkte Lanzarote første 
 
 Nå er Playa Blanca blitt betydelig større med et velutviklet tilbud av hoteller og handelsnæring samt et betydelig antall restauranter. Fra Playa Blanca går ferge til Fuerteventuras forblåste nordkyst.
 
+![](http://www.helping.no/lanz.jpg)
+
 **Været kan ødelegge mye for en sydentur ment som "solferie**".  
 Vi ankom og kjørte leiebil fra flyplassen til hotellet i vekslende øsregn og sol. Videre var det skyet med regnbyger og iskald vind andre dagen. Tredje dagen var det så kaldt at vi måtte bruke norske vinterklær under besøk på vulkanområdet Timanfaya, landsbymarkedet Teguize, kamelridning i nasjonalparken og den grønne lagunen i El Golfo. Deretter fortsatte skyet vær fremdeles med en isende vind resten av oppholdet med unntak av den nest siste dagen som var en kjærkommen, men kjølig solskinnsdag: Denne solskinnsdagen tilbrakte vi på den ytterste Papagayostranden. Der var en lun lagune som var fin å svømme i med ly for den kalde vinden. Her var også en liten restaurant på høyden over stranden.
 
