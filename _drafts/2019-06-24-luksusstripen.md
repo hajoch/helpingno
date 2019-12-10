@@ -14,7 +14,9 @@ title: '"Luksusstripen"'
 excerpt: 'Forbrukertest: Las Meloneras er det mest eksklusive området du kan besøke
   på Gran Canaria og kalles "luksusstripen".'
 image: "/assets/images/grancana.jpg"
-image_caption: Foto Gunnar Christensen. Gran Canaria, hotell Hotel Lopesan Costa Meloneras.
+image_caption: |-
+  ran Canaria, hotell Hotel Lopesan Costa Meloneras.
+  Foto Gunnar Christensen. G
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
