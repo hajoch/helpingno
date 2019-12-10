@@ -45,6 +45,8 @@ Oppholdet på hotellet ble kjøpt med frokost og middag hvilket betyr at disse m
 
 Dette er et hotell du bør booke direkte ikke via et fordyrende mellomledd som Star Tour m.fl. som i tillegg ikke er ryddig nok til å gi deg rett informasjon.
 
+![](http://www.helping.no/gra.jpg)
+
 Hotellet er svært populært hos engelske og tyske turister og der finnes en rekke positive gjestekommentarer på hotellet på Internett. Dette hotellet får du lyst til å besøke igjen
 
 **Råd: Dropp charterselskapene**  
