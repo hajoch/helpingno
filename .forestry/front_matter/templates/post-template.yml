@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-21-eksotisk-vakker-men-uforutsigbar.md
 - _posts/2019-09-27-dyrt-og-flott.md
 - _posts/2019-07-05-barna-fikk-flyskrekk-i-gammelt-dc-fly-fra-norwegian.md
@@ -173,7 +174,6 @@ pages:
 - _posts/2019-06-20-fritidsparker.md
 - _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
-- _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-21-meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk.md
 - _posts/2019-06-21-meditasjonskurs-2-mantra-meditasjon.md
 - _posts/2019-06-21-meditasjonskurs-1-meditasjon-med-pusteteknikk.md

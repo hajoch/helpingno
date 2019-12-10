@@ -28,6 +28,8 @@ På hotell Hotel Lopesan Costa Meloneras, et stort og flott firestjernes hotell 
 
 Samtidig memoreres tidligere charterreise til øya desember 1989 med Apollo. Se "TIDLIGERE TEST: Grand Canaria"
 
+![](http://www.helping.no/granc.jpg)
+
 Las Meloneras er et hotellsentra med flott strandpromenade langs havet. Her ligger de beste hotellene på rad og naturligvis med tilstrekkelig med butikker innimellom.
 
 Maspalomasstranden like ved Meloneras er så stor at du alltid finner deg en usjenert grop i de store sand-dynene som nærmest er å betrakte som en ørken med strandlinje mot havet. Det er en fin fottur å gå fra Las Meloneras til Ingles på den andre siden av stranden. Standen patruljeres av lokalt politi og badevakter for badegjestenes sikkerhet. I tillegg kan det kjøpes forfriskninger på små barer langs stranden. Dette er en fantastisk stor og flott sandstrand med finkornet sand. Badetemperaturen i april var meget behagelig.
