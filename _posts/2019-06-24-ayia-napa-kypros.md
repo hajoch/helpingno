@@ -43,6 +43,8 @@ Varme soldager under hele oppholdet.
 
 **Panthea Garden/Village**
 
+![](http://www.helping.no/kyp.3.JPG)
+
 Panthea Garden/Village består av to etasjes bygninger med leiligheter i enkel standard tilrettelagt for barnefamilier med bassenger og hageanlegg. Hotellet bærer preg av å være litt slitent og ikke så godt vedlikeholdt særlig på bad og toalett.
 
 Toalettet kan ikke ta toalettpapir slik at dette må legges i en pedalbøtte ved siden av toalettet: Dette gir stank i over 37 graders varme og er upraktisk for familier med små barn: Gjester opplyses at det kan bli erstatningskrav mot dem dersom det blir tette toaletter. Dette er vanlig toalettsystem på Kypros ble det opplyst. Leilighetene har ikke TV og oppvaskmaskin, men lite kjøleskap og to kokeplater.
