@@ -16,7 +16,7 @@ title: Skandalebøkene i ungdomsskolen
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
   Religioner i u-skolens lærebøker før Mønsterplanen. Bokomtale.
-image: "/assets/images/VOC022.WAV"
+image: "/assets/images/skandalestor-1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
