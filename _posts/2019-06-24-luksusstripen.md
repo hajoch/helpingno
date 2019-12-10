@@ -36,6 +36,8 @@ Maspalomasstranden like ved Meloneras er så stor at du alltid finner deg en usj
 
 Været betyr mye for en chartertur ment som "solferie". I ukeperioden 20. til og med 28. april hadde vi tre varme soldager med lett skydekke og en regnværsdag på avreisedagen. De øvrige dagene var overskyet oppholdsvær. Grand Canaria, Lanzarote og ellers på Kanariøyene er det ustabilt om vinteren. Du er derfor aldri garantert å få fint vær som på denne turen her i vinterhalvåret.
 
+![](http://www.helping.no/grancan.jpg)
+
 **Hotel Lopesan Costa Meloneras**  
 Hotel Lopesan Costa Meloneras er et flott og stort hotell. Hotellet har fin atmosfære og beliggenhet med flott utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for hav-utsikt vil du nyte en flott utsikt vel verd ekstra slanter.
 
