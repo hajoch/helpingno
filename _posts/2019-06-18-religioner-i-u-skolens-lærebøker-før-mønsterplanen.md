@@ -58,6 +58,11 @@ Utgitt første gang oktober 2004 på Ildsjelen Forlag,
 
 Linkalternativ  for nedlasting: [http://www.helping.no/skandalebokene.htm](http://www.helping.no/skandalebokene.htm "http://www.helping.no/skandalebokene.htm")
 
+**Du kan låne "Skandalebøkene i ungdomsskolen"**  
+på ditt lokale bibliotek ved å oppi bokas data: "Skandalebøkene i ungdomsskolen", Forfatter: Gunnar Christensen  
+ISBN 82-996312-7-0. ildsjelen forlag  
+2 opplag 2005
+
 **HIstorikk**  
 "Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte." er konklusjonen i denne boka.
 
