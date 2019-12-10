@@ -49,6 +49,11 @@ Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til 
 
 **Tradisjonelle fiskebåt på Negombo-stranden**
 
+Stupaen er den helligste del av et buddhisttempel på Sri Lanka  
+Foto [Gunnar Christensen](http://www.helping.no/gunnar.htm)
+
+![](http://www.helping.no/stupa.jpg)
+
 **Religion**  
 Fire verdensreligioner er representert på Sri Lanka. Hinduene som holder til i nord ? bedre kjent som tamiler dekker omkring tjue prosent, muslimer og kristne står for omkring åtte prosent og resten domineres av den eldste tradisjonen innen buddhismen, Theravada.
 
