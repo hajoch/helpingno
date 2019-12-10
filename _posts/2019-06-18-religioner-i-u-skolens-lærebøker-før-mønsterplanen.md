@@ -42,6 +42,8 @@ Christensens avhandling er ord i rette tid. Den fortjener en stor leserkrets. De
 
 **Redaksjonen:**
 
+[NRK intervju med Gunnar Christensen da boka kom ut: ]()
+
 Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra forlaget og ble deretter lagt ut for gratis nedlasting på Internett Her er et stort antall eksemplarer lastet ned.
 
 Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
