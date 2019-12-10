@@ -29,6 +29,8 @@ Beliggenheten ved sjøen er helt spesiell: En flott sandstrand er en del av denn
 
 Sjekk nøye hvilken rom-standard du bestiller: De billigste er direkte trange og lite komfortable for to. Standard dobbeltrom her burde bygges om til ett enkeltrom. De noe større rommene er flotte slik du forventer - men priset deretter. Resepsjonen opplyste på forespørsel om hvorfor der ikke var mini-bar på rommene: "Vi har sluttet med det på grunn av stort tyveri fra mini-barene."  Dette var forbausende opplysninger som trekker ned. Har onkel Skrue overtatt hotellet? Hvem stjeler fra mini-barene? Det er første gang vi i helping-testen støter på et hotell i denne klassen uten mini bar.
 
+![](http://www.helping.no/farrisbad-1.jpg)
+
 Store flotte korridorer med trygg brannsikkerhet. Fine sittegrupper og åpnet og flott i resepsjons-området. Vakker kunst, spennende design, funksjonelle løsninger og hyggelig betjening preger hotellet
 
 Du må parkere på andre siden av veien hvor et parkeringsselskap har makta.
