@@ -39,12 +39,14 @@ Vi ankom og kjørte leiebil fra flyplassen til hotellet i vekslende øsregn og s
 
 Været både på Lanzarote og ellers på Kanariøyene er ustabilt om vinteren - du er aldri er garantert å få fint vær her i vinterhalvåret. Været på Lanzarote er med andre ord betydelig dårligere enn det som opplyses i reklamen.
 
+![](http://www.helping.no/lanzarot.jpg)
+
 **Hotellet: Hotell Iberostar Papagayo**  
 Oppholdet på Hotell Iberostar Papagayo ble kjøpt med "all inclusive" hvilket betyr at alle måltider er inkludert i prisen. Et nyere fire-stjernes hotell med utsikt til de berømte Papagayostrendene ved landsbyen Playa Blanca på sydkysten. Hotellet er bedre enn andre fire-stjernershoteller vi har testet.
 
 Kan du tenke deg noe bedre enn å sjekke inn på et rolig hotell i vakre og landlige omgivelser ved sjøen hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler og trafikk, ingen støyende diskotek og andre støykilder. Bare bølgene som slår mot stranden under klippene; Når du skal sove - og når du våkner om morgenen.
 
-Hotellet har fin atmosfære og beliggenhet med utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Fersk fisk på grillen rett fra havet levert fra havna samme morgen. 
+Hotellet har fin atmosfære og beliggenhet med utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Fersk fisk på grillen rett fra havet levert fra havna samme morgen.
 
 Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for havutsikt vil du nyte en flott utsikt vel verd ekstra slanter. Her er også en svært liten spaa-avdeling og muligheter for å spille tennis. Et eget sted for naturister på taket ble det opplyst i resepsjonen.
 
