@@ -71,8 +71,8 @@ fields:
   default: []
   label: Emneknagger
 pages:
-- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-24-sydentur-til-lanzarote-med-bare-en-soldag-på-ei-uke.md
+- _posts/2019-06-24-ayia-napa-kypros.md
 - _posts/2019-06-24-luksusstripen.md
 - _posts/2019-06-21-eksotisk-vakker-men-uforutsigbar.md
 - _posts/2019-09-27-dyrt-og-flott.md
