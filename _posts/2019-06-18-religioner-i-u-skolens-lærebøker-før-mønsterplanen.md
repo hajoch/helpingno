@@ -57,3 +57,21 @@ Utgitt første gang oktober 2004 på Ildsjelen Forlag,
 118 sider. Forlaget er utsolgt.
 
 Linkalternativ  for nedlasting: [http://www.helping.no/skandalebokene.htm](http://www.helping.no/skandalebokene.htm "http://www.helping.no/skandalebokene.htm")
+
+**HIstorikk**  
+"Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte." er konklusjonen i denne boka.
+
+Denne boken ble til som en hovedfag-avhandling i religionshistorie ved Universitetet i Bergen i 1982. Da avhandlingen ble kjent vakte den oppsikt. Kronikker om innholdet i avhandlingen ble publisert i Aftenposten, Bergens Tidende, Stavanger Aftenblad m.fl.. Den ble imidlertid ikke gitt ut som  
+bok den gang.
+
+Da forlaget Ildsjelen ønsket å gi ut manuskriptet i 2004 hadde boken først og fremst historisk interesse fordi ungdomsskolen hadde fått en nye generasjon lærebøker. Forlaget trykket derfor opp et begrenset antall kopier før lanseringen og baserte seg på en avtale med trykkeriet om å trykke opp flere bøker etter behov. Dette fordi man ikke vurderte boka som en storselger, men en viktig bok for fagpersoner innen undervisning.
+
+Da boka kom ut ble den bredt omtalt både i aviser og i NRK-P1. Dette førte til en langt større etterspørsel enn forlaget beregnet. Forlaget gikk tom for bøker i løpet av kort tid og hadde ikke tid og kapasitet til å trykke opp flere. Det ble derfor besluttet å legge boka ut som gratis e-bok for nedlasting både på forlagets sider og på helping.no.
+
+Forfatteren prioriterte å bli lest av flest mulig fremfor å få inntekter av boka og forlaget mente en aktuell, gratis nettbok vil være god reklame for forlaget.
+
+NRK-antydet i intervjuet med forfatteren at boka ble utgitt på et alternativt forlag og at dette var en bok preget av alternative synspunkter. Dette er feil og avslører at NRK-journalisten ikke hadde lest boka. Boka er først og fremst tuftet på forskning og faglige religionsvitenskapelige kriterier.
+
+Virkeligheten i Norge er ikke slik at forfattere kan velge og vrake blant forlag: Man tar det forlaget som er villig til å gi ut boka.
+
+Forfatteren Gunnar Christensen er takknemlig for at er lite forlag som den gang het Ildsjelen ville ta på seg å gi ut boka selv om den ikke er en alternativ bok.
