@@ -46,6 +46,12 @@ Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i
 
 ![](https://www.helping.no/lind.07.jpg)
 
+![](http://www.helping.no/lind.17.jpg)
+
+![](http://www.helping.no/lind.14.jpg)
+
+![](http://www.helping.no/lind.31.jpg)
+
 ![](https://www.helping.no/lind.02.jpg)
 
 ![](https://www.helping.no/lind.01.jpg)
@@ -61,6 +67,8 @@ Et velstelt og godt vedlikeholdt anlegg.
 
 ![](https://www.helping.no/lind.26.jpg)
 
+![](http://www.helping.no/lind.30.jpg)
+
 ![](https://www.helping.no/lind.20.jpg)
 
 ![](http://www.helping.no/lind.16.jpg)
@@ -74,6 +82,10 @@ Naturstier i området gir muligheter til trim og naturopplevelser.
 ![](http://www.helping.no/lind.23.jpg)
 
 I dårlig vær anbefales imidlertid å se opp for høye bølger langs naturstien kalt "kyststien"
+
+![](http://www.helping.no/lind.11.jpg)
+
+Nytt anlegg med fjellhall har filmfremvisning og fyrmuseum.
 
 **Link**  
 Lindesnes Fyr:  
