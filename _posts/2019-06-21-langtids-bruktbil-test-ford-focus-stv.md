@@ -54,8 +54,8 @@ iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
 Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
-Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
-
+Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.  
+  
 **Brukt Ford Focus 2013: Bedre enn forventet  
   
 **![](https://www.helping.no/focus1.jpg)
