@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-06-17-erfaring-med-mtd-og-honda-snøfres-hydrostat-er-tingen.md
 - _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-12-02-svanesjøen-grasiøs-kjærlighet.md
 - _posts/2019-06-21-test-saab-9000-cse.md
@@ -142,7 +143,6 @@ pages:
 - _posts/2019-06-16-leasing-eller-billån.md
 - _posts/2019-06-17-grønn-suppe.md
 - _posts/2019-06-17-gro-helen-tørum-jeg-elsker-hemmeligheter.md
-- _posts/2019-06-17-erfaring-med-mtd-og-honda-snøfres-hydrostat-er-tingen.md
 - _posts/2019-06-16-buddhismens-fornyelse.md
 - _posts/2019-06-30-gratis-yoga-instruksjoner.md
 - _posts/2019-06-19-bruktbil-bmw-x5-fantastisk-bil.md

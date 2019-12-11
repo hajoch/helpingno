@@ -48,6 +48,8 @@ Dette er en typisk begynnererfaring. Man ser på pris og stoler for mye på løg
 **Andre kjøp er en Honda**  
 En nabo hadde en gammel Honda freser fra begynnelsen av åttitallet. Han hjalp til når min MTD måtte på verksted tre ganger på en vinter. Det forundret meg at en gamle freser fra 1980-tallet med syv hestekrefter kastet snøen flere meter opp i luften og gikk uten feil år etter år.
 
+![](http://www.helping.no/honda970.jpg)
+
 **Hydrostat er bedre**  
 Neste sesong bar det til Honda-forhandler: En Honda-freser på 8 hk type 970 med snorstart, hydrostat med hjul kostet 29 tusen spenn, men jeg fikk en fjorårsmodell lite brukt for 22 spenn med kjetting og ett års garanti. Mer enn nok dyrt synes jeg: Omkring det dobbelte av hva jeg hadde gitt for MTDen i sin tid. Og MTD-en ville Honda-forhandleren ikke ta i innbytte. Den måtte selges gjennom annonse på nett.
 
@@ -55,7 +57,7 @@ Neste sesong bar det til Honda-forhandler: En Honda-freser på 8 hk type 970 med
 Sesongen med Honda-freser ga både skuffelser og gleder. Her var det hydrostat noe som forklarer den mye høyere prisen. Dernest var det slutt på problemet med kastelengden. Den kaster lengre enn jeg trengte og tok i tillegg også våt snø, noe MTDen ikke klarte. Ulempen var imidlertid at splinten ryker betydelig oftere: Tre ganger på en sesong: Og den innerste splinten var så utilgjengelig og vanskelig å nå med dårlig rygg at jeg måtte til verksted for å skifte den. Kun en råtten furukjepp skulle til - så røk den. Splintene på Honda virker unødig skjøre.
 
 Honda er nå testet i 8 sesonger. Og den klarer jobben.  
-Den har slitestyrke betydelig bedre enn MTDen. 
+Den har slitestyrke betydelig bedre enn MTDen.
 
 Men hvorfor har de fleste Honda-selgerne og reparatører selv skaffet seg Honda-snøfresere fra åttitallet? Disse gamle freserne har dårlig sikkerhet om freseren tetter seg.  
 Er det som med plenklipperne til Honda at det er de gamle Honda-plenklipperne som er de beste?
