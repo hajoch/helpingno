@@ -63,7 +63,9 @@ Et velstelt og godt vedlikeholdt anlegg.
 
 ![](https://www.helping.no/lind.20.jpg)
 
-**Flere bilder:** [https://www.helping.no/lindesnes.htm](https://www.helping.no/lindesnes.htm)
+![](http://www.helping.no/lind.16.jpg)
+
+Tåkeluren er fremdeles in takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
 
 **Link**  
 Lindesnes Fyr:  
