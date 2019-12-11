@@ -28,6 +28,8 @@ publish_date:
 weight: 7
 
 ---
+![](http://www.helping.no/lind.13.jpg)
+
 Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og internettforbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
 
 **En vakker orkesterplass ved havet.**
@@ -49,5 +51,5 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 **Flere bilder:** [https://www.helping.no/lindesnes.htm](https://www.helping.no/lindesnes.htm)
 
 **Link**  
- Lindesnes Fyr:  
+Lindesnes Fyr:  
 [http://www.lindesnesfyr.no](http://www.lindesnesfyr.no "http://www.lindesnesfyr.no")
