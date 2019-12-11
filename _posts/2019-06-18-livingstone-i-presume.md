@@ -10,7 +10,7 @@ tags:
 - safari
 title: '"Livingstone, I presume"'
 excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lille
-  afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (60)
+  afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (70)
   - han kalles bare det - slått seg ned med sitt turisttilbud sammen med to voksne
   sønner: Krokodiller, slanger og sjeldne fugler fores og passes på bak dertil egnede
   murer og bur.'
@@ -22,7 +22,7 @@ publish_date:
 weight: 1
 
 ---
-Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia. |
+Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia. 
 
 Villy tilbyr spennende safari på Gambiaflodens frodige sideelver med lange, flat-bunnede båter drevet av påhengsmotor og lokalkjente innfødte ombord. I tillegg støver Villys jeep-safari seg gjennom buskaset for dem som har god rygg og orker klore seg fast bak på jeepen. Enkle overnattingsmuligheter tilbys turistene. Leiren har ingen air-codition i hyttene. Her er varmt og stillestående luft. Turister som ikke tåler høye innlands-temperaturer frarådes å ta denne turen.
 
