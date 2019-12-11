@@ -17,7 +17,7 @@ image: "/assets/images/gutt.jpg"
 image_caption: Illustrasjon Anne Bakke
 categories:
 - _category/boker.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 8
 
 ---
@@ -26,6 +26,8 @@ Det er viktig å lese for barn i førskolealder. Slik lærer de å forstå poeng
 Boka har kvaliteter som TV og film mangler. Nyt en fortrolig kosestunden med barna - med ei god bok i sofakroken eller som "godnatt-historie". Opplev den nærhet og fortrolighet som boka kan gi.
 
 Denne personlige kontakten er avgjørende viktig for forholdet mellom deg og barnet ditt. Ikke en gang imellom: Gjør det til en rutine som barna gleder seg til og som blir en trygg omgivelse for den gode samtalen og spørsmålene som ikke slipper ut i den daglige rutinen. Har du ikke tid? Er tidsklemme for plagsom? Vil du heller se på TV og la barnet lese en bok selv? Det er ikke det samme.....
+
+![](http://www.helping.no/tuvagif.gif)
 
 Dette er poenget med at helping.no nå frigir en barneboka "Aima" til deg som har omsorg for barnas oppvekst og velvære. Kanskje det kan inspirere deg til å lese flere barnebøker?
 

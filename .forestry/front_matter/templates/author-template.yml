@@ -14,15 +14,15 @@ fields:
   name: image
   label: Bilde
 pages:
-- _authors/henning-j-grini.md
-- _authors/albert-henrik-mohn.md
-- _authors/gunnar-christensen.md
-- _authors/ole-t-moy.md
-- _authors/hallvard-j-christensen.md
-- _authors/christoffer-jore-christensen.md
 - _authors/jens-christian-jore-christensen.md
+- _authors/albert-henrik-mohn.md
+- _authors/hallvard-j-christensen.md
+- _authors/anne-bakke.md
+- _authors/gunnar-christensen.md
+- _authors/henning-j-grini.md
+- _authors/kari-rose-norheim.md
+- _authors/christoffer-jore-christensen.md
+- _authors/ole-t-moy.md
 - _authors/leserinnlegg.md
 - _authors/odd-m-lunde.markdown
 - _authors/ellen-marie-christensen.md
-- _authors/kari-rose-norheim.md
-- _authors/anne-bakke.md
