@@ -91,7 +91,5 @@ _- **Hvordan opplever du Gud i dagliglivet som munk?**_
 
 \- Det går ikke på samme måte med kristendommen som med et forretningsforetagende eller en teknisk industri. Vi har et trosansvar å bringe. Dette ansvaret er ikke å leve utenfor. Vi må personlig gi Guds fremtid en tro. Dette er troens paradoks. Troen forlanger alltid et personlig svar. Kirkens fremtid er i oss. Vi må ikke lete etter den utenfor oss i statistikker eller i religionsstudier. Der er en usedvanlig fornyelse i de forskjellige kirkesamfunn. Jeg har derfor stor tro på "Guds regjering" i fremtiden. Dessuten. Enhet mellom de forskjellige kristne samfunn: Altfor lenge har det i kirkesamfunnene vært uenighet og brudd. Verden venter at kristne skal ha enhet og fred. Skal vi klare dette for vår verden, eller skal disse ordene fortsatt være foreldede klisjeer? Jeg mener: Enheten er kirkens sak riktig nok. Men, kirken er ikke et aksjeselskap. I den utstrekning vi kan skape enhet i oss selv og rundt oss, er vi selv tegn på verdenssamfunnet.
 
-[**Linker**](http://www.helping.no/linker.htm)
-
 Det franske klosteret Tamié:  
 [http://www.abbaye-tamie.com](http://www.abbaye-tamie.com "http://www.abbaye-tamie.com")
