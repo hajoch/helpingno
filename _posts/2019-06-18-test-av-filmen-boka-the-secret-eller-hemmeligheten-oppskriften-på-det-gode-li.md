@@ -26,7 +26,7 @@ image: "/assets/images/healing2.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date: 2019-09-28T22:00:00.000+00:00
+publish_date: 2019-12-11 18:05:48 +0100
 weight: 3
 
 ---
@@ -92,7 +92,7 @@ For eksempel ved å sette deg ned i en stol i rolige omgivelser, lukke øynene o
 
 "The Secret, Extended Edition" finnes på nettstedet [http://thesecret.tv](http://thesecret.tv "http://thesecret.tv")
 
-**Gratis bøker:**  
+**Bøker:**  
 Kildene til "The Secret"  
 Inspirasjonskildene til boka og filmen "The Secret" ble utgitt i bok-form alt i 1910 og 1916:
 
@@ -103,13 +103,10 @@ Inspirasjonskildene til boka og filmen "The Secret" ble utgitt i bok-form alt i 
 Dette er utmerkede bøker til fordypning om emnet.  
 Haanels bok ble først utgitt som brevkurs i 1912 og ut-kom som bok først i 1916. Loven om tiltrekning er m.a.o. ikke ny kunnskap.
 
-Bøkene kan lastes ned gratis som e-bok på:  
-[http://www.thesecret.tv/](http://www.thesecret.tv/ "http://www.thesecret.tv/")[secret-treasures-ebooks.html](http://www.thesecret.tv/secret-treasures-ebooks.html)
-
 **Secret-bøker på norsk.**  
 I norsk oversettelse finnes nå bl.a. to bøker som gir lettfattelig og grei innsikt i "Hemmeligheten":  
 \- Michael Losier "Loven om tiltrekning" utgitt på forlaget Lille Måne.  
 \- Esther & Jerry Hicks: "Likt tiltrekker likt", Cappelen Damm 2008.
 
 **Spennede vitenskapsmann. Dr. Fred Alan Wolf**  
-har en doktorgrad i fysikk og er kjent for en rekke bokutgivelser om kvante-fysikk. Wolf er faktisk tilgjengelig på e-post: Wolfs nettside er: [www.fredalanwolf.com/](http://www.fredalanwolf.com/)
+har en doktorgrad i fysikk, har deltatt i "Hemmeligheten" og er kjent for en rekke bokutgivelser om kvante-fysikk. Wolf er faktisk tilgjengelig på e-post: Wolfs nettside er: [www.fredalanwolf.com/](http://www.fredalanwolf.com/)
