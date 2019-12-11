@@ -15,8 +15,8 @@ tags:
 - intervju med munken Paul
 - Gud i dagliglivet
 - Mont Blanc
-title: " Personlig intervju med broder Paul. Klosterliv på nært hold: Nøysomhet og
-  flittig arbeid."
+title: " Klosterliv på nært hold: Nøysomhet og flittig arbeid. Intervju med broder
+  Paul."
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
   sitt hjem. Det 800 år gamle klosteret er idyllisk plassert på en åskam i vakre naturomgivelser.
   Fra et fjellplatå like ved kan Mont Blanc skimtes i det fjerne - på godværsdager.
