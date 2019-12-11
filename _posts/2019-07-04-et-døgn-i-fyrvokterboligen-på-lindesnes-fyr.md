@@ -67,6 +67,14 @@ Et velstelt og godt vedlikeholdt anlegg.
 
 Tåkeluren er fremdeles in takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
 
+![](http://www.helping.no/lind.24.jpg)
+
+Naturstier i området gir muligheter til trim og naturopplevelser.
+
+![](http://www.helping.no/lind.23.jpg)
+
+I dårlig vær anbefales imidlertid å se opp for høye bølger langs naturstien kalt "kyststien"
+
 **Link**  
 Lindesnes Fyr:  
 [http://www.lindesnesfyr.no](http://www.lindesnesfyr.no "http://www.lindesnesfyr.no")
