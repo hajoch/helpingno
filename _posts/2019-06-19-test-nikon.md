@@ -58,6 +58,8 @@ Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er 
 **Valg av kameratype**  
 Mange lurer på dette valget: Hybrid kamera eller et nytt lett speilrefleks i samme prisklasse. Sammenlikning av Nikon 3100 opp mot Olympus PEN levner ingen tvil: Nikon 3100 er best på kvalitet og brukervennlighet. Det er fristende å legge til "mest for pengene" etter som Olympus-kameraet fikk teknisker problemer under testen på helping.no.
 
+![](http://www.helping.no/skagen.jpg)
+
 **Filtertips**  
 Har du brukt speilreflekskamera i flere tiår så ligger det i ryggmargen at du ikke tar i bruk et nytt objektiv før du har fått på et filter. Skylight eller helst UV. Det er den beste objektivforsikring du kan få.
 
