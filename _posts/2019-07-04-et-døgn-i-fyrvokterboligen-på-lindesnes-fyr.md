@@ -30,7 +30,10 @@ weight: 7
 ---
 ![](http://www.helping.no/lind.13.jpg)
 
-Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og internettforbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
+Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og Internett-forbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
+
+Mange er ikke klar over at det er mulig å leie en leilighet i fyrvokter-boligen.  
+Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyret og naturen der hele døgnet i storm og stille fint sommervær. Gjestfrie og hyggelige fyrvoktere sørger da for at du får mer ut av et opphold ved fyret enn dags-besøkende.
 
 **En vakker orkesterplass ved havet.**
 
@@ -43,6 +46,10 @@ Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkk
 ![](https://www.helping.no/lind.02.jpg)
 
 ![](https://www.helping.no/lind.01.jpg)
+
+Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig halogenpære.
+
+![](http://www.helping.no/lind.27.jpg)
 
 ![](https://www.helping.no/lind.26.jpg)
 

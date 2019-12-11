@@ -71,6 +71,7 @@ fields:
   default: []
   label: Emneknagger
 pages:
+- _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-12-02-svanesjøen-grasiøs-kjærlighet.md
 - _posts/2019-06-21-test-saab-9000-cse.md
 - _posts/2019-06-19-redaksjonen.md
@@ -167,7 +168,6 @@ pages:
 - _posts/2019-07-01-vatikanet-uten-sakral-følelse.md
 - _posts/2019-06-19-forbrukertest-i-6-sesonger-bowrider-amt-185br-med-90-hk-honda.md
 - _posts/2019-06-17-bedre-bilder.md
-- _posts/2019-07-04-et-døgn-i-fyrvokterboligen-på-lindesnes-fyr.md
 - _posts/2019-06-30-avbrutt-søvn-og-søvnhygiene.md
 - _posts/2019-06-21-guttedrømmen-blir-virkelighet.md
 - _posts/2019-06-20-hurricane-370-drømmebåten.md
