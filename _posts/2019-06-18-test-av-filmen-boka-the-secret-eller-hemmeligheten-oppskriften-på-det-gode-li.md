@@ -58,18 +58,18 @@ Siden loven om tiltrekning virker kontinuerlig er det viktig å bli klar over hv
 
 **Den magiske Takknemlighetsteknikken**
 
+![](http://www.helping.no/stein.jpg)
+
 Gå til stranden eller et annet sted hvor du finner en fin liten stein. Plukk den opp og ha den i lomma fremover. Hver gang du ser på, berører eller tar ut denne steinen av lomma - f.eks. hver kveld - så tenk på noe du er takknemlig for. Det kan være noe positivt du har, noe positivt du har opplevd eller hva som helst som du er takknemlig for og som du gjerne skulle hatt mer av.
 
 Ikke bare tenk på det du er takknemlig for:  
 Føl og kjenn på deg denne takknemligheten og se det for deg.
 
-Denne øvelsen øker din positivitet omkring livet ditt. Når du tenker flere positive tanker trer gradvis det negative mer og mer tilbake. Fordi positive tanker og følelser tiltrekker flere positive opplevelser. Det er loven om tiltrekning som virker slik at man tiltrekker mer av det man sender sin tanke- og følelsesenergi til.
+Denne øvelsen øker din positivitet omkring livet ditt. Når du tenker flere positive tanker trer gradvis det negative mer og mer tilbake. Fordi positive tanker og følelser tiltrekker flere positive opplevelser. Det er loven om tiltrekning som virker slik at man tiltrekker mer av det man sender sin tanke- og følelse-energi til.
 
 Tankene våre har sterkere betydning og påvirkning for våre liv enn vi ofte er klar over. Tanker som går på takknemlighet er ekstra sterke på en positiv måte.
 
-Praktiser dette fra nå.  
-Ikke vent til det passer seg å prøve det om en dag,  
-om en måned eller om ett år. Gjør det NÅ.
+Praktiser dette fra nå. Ikke vent til det passer seg å prøve det om en dag, om en måned eller om ett år. Gjør det NÅ.
 
 Tenker du etter så finner du mye du kan være takknemlig for.  
 Tenk og føl på det du er takknemlig for så ofte du kan.
@@ -94,12 +94,12 @@ For eksempel ved å sette deg ned i en stol i rolige omgivelser, lukke øynene o
 
 **Gratis bøker:**  
 Kildene til "The Secret"  
- Inspirasjonskildene til boka og filmen "The Secret" ble utgitt i bok-form alt i 1910 og 1916:
+Inspirasjonskildene til boka og filmen "The Secret" ble utgitt i bok-form alt i 1910 og 1916:
 
 \- "The Science Of Getting Rich" av Wallace D. Wattles.
 
-\- "The Master Key System" av Charles F. Haanel.  
-  
+\- "The Master Key System" av Charles F. Haanel.
+
 Dette er utmerkede bøker til fordypning om emnet.  
 Haanels bok ble først utgitt som brevkurs i 1912 og ut-kom som bok først i 1916. Loven om tiltrekning er m.a.o. ikke ny kunnskap.
 
