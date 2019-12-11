@@ -54,6 +54,8 @@ Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i
 
 ![](https://www.helping.no/lind.02.jpg)
 
+![](http://www.helping.no/lind.03.jpg)
+
 ![](https://www.helping.no/lind.01.jpg)
 
 Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig halogenpære.
@@ -90,3 +92,6 @@ Nytt anlegg med fjellhall har filmfremvisning og fyrmuseum.
 **Link**  
 Lindesnes Fyr:  
 [http://www.lindesnesfyr.no](http://www.lindesnesfyr.no "http://www.lindesnesfyr.no")
+
+**©**  
+Kopiering av materiale fra www.helping.no til bruk annet sted må avtales med redaksjonen.
