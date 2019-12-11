@@ -56,7 +56,7 @@ Mange vil kanskje reagere på at de nå må anstrenge seg på å kontrollere tan
 
 Siden loven om tiltrekning virker kontinuerlig er det viktig å bli klar over hva som har manifestert seg i ditt liv til nå og hva du fremover kan gjøre for å bedre ditt liv. Siden loven om tiltrekning er like treffsikker som loven om tyngdekraften, er det av stor betydning for deg å bli klar over den for å kunne bedre din virkelighet. Dette innebærer ikke at du skal styre tankene, men at du skal øke din bevissthet omkring hva du har ditt hovedfokus på i ditt videre liv.
 
-**Den magiske Takknemlighetsteknikken**
+**Den magiske Takknemlighet-teknikken**
 
 ![](http://www.helping.no/stein.jpg)
 
