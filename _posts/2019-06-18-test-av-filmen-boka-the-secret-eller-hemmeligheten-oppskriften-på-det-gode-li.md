@@ -15,7 +15,7 @@ tags:
 - film
 - magnet
 - psykologi
-title: The Secret" eller "Hemmeligheten"   Oppskriften på det gode liv
+title: '"Hemmeligheten"   Oppskriften på det gode liv'
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
