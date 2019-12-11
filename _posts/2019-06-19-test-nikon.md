@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-19 21:08:03 +0200
+date: 2019-06-19T19:08:03.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- foto
+- Kamara
+- speilrefleks
+- digital
+- digitalt kamera
+- systemkamera
 title: 'Test: Nikon digitalt speilrefleks'
 excerpt: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for langtidstest.
   Mange av bildene våre er tatt med disse testkameraene. Et ypperlig kamera sett i
@@ -69,6 +75,8 @@ De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i 
 På spørsmål til Nikon Norge om en modellorientering svarer  
 "Marketing Coordinator" Eva Gullerud slik:  
 \- Akkurat hvorfor vi har brukt de ulike modelltallene, har jeg ikke noe godt svar på. Men jeg vet vi har "gått tom" for tall fra 40-90 serien, og vi har måttet begynne med 1000 og oppover istedenfor."
+
+![](http://www.helping.no/nikon4.jpg)
 
 **Oversikt over de tidligste digitale Nikon speilrefleks-modellene;**
 
