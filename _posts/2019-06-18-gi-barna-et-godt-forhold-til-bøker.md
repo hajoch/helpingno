@@ -14,7 +14,7 @@ tags:
 title: Gi barna et godt  forhold til bøker
 excerpt: 'Opplev den nærhet og fortrolighet som boka kan gi.  '
 image: "/assets/images/gutt.jpg"
-image_caption: Illustrasjon Anne Bakke
+image_caption: Illustrasjoner Anne Bakke
 categories:
 - _category/boker.md
 publish_date: 2019-07-03T22:00:00.000+00:00
