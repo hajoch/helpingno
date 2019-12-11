@@ -41,6 +41,9 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 
 ![](https://www.helping.no/lind.25.jpg)
 
+Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i  
+1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.
+
 ![](https://www.helping.no/lind.07.jpg)
 
 ![](https://www.helping.no/lind.02.jpg)
@@ -50,6 +53,11 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig halogenpære.
 
 ![](http://www.helping.no/lind.27.jpg)
+
+![](http://www.helping.no/lind.28.jpg)
+
+Fyrvokterne (her Kjell Olsen) er sentrale personer på fyret.  
+Et velstelt og godt vedlikeholdt anlegg.
 
 ![](https://www.helping.no/lind.26.jpg)
 
