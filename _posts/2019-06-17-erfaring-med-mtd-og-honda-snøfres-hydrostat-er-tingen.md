@@ -11,7 +11,7 @@ tags:
 - hydrostat
 - MTD
 - Honda
-title: 'Erfaring med MTD og Honda snøfres: Hydrostat er tingen'
+title: 'Hydrostat er tingen: Erfaring med MTD og Honda snøfres: '
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
   de ulike selgerne: Det er stor forskjell på kvaliteten.'
