@@ -1,9 +1,14 @@
 ---
 layout: post
-date: 2019-06-21 15:10:07 +0200
+date: 2019-06-21T13:10:07.000+00:00
 crop_image: true
-tags: []
-title: 'Langtids bruktbil test: Ford Focus stv.:'
+tags:
+- bil
+- Ford
+- Ford Focus
+- biltest
+- lantidstest
+title: 'Ford Focus stv.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
@@ -19,7 +24,7 @@ weight: 3
 ---
 Elendige seter og handsfree som ikke virker om du har iphone.
 
-Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping. 
+Ford taper seg mest i verdi?Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping.
 
 Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
@@ -51,7 +56,9 @@ Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
-**Brukt Ford Focus 2013: Bedre enn forventet**
+**Brukt Ford Focus 2013: Bedre enn forventet  
+  
+**![](https://www.helping.no/focus1.jpg)
 
 Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)  
 Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
