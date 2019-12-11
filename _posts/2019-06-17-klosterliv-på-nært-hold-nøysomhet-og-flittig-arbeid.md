@@ -31,6 +31,8 @@ weight: 7
 ---
 Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og brødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
 
+![](https://www.helping.no/frankrikelite.jpg)
+
 **Rekreasjon**  
 Mange nordmenn forestiller seg munker som alvorlige, andektige menn i upraktiske klær - bak lukkede dører, fjernt fra vår hverdag opptatt med bøker og bønn. Denne oppfatningen må revideres etter hvert som en blir mer kjent og fortrolig med klosterlivets mange sysler og funksjoner. Munkenes smittende gode humør og behagelige vesen gjør et besøk i Tamié til et hyggelig minne.
 
@@ -56,8 +58,6 @@ Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, stø
 ![](https://www.helping.no/tamie1.jpg)
 
 ### Intervju: Broder Paul: En overskridelse
-
-**Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
 
 **_- Hvorfor jeg gikk i kloster?_**
 
