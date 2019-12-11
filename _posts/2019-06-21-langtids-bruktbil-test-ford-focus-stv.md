@@ -85,6 +85,6 @@ Ford er generelt flinke med design. Designet er flott på Focus. Designspråket 
 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos Focus - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste hos:  
 [http://www.euroncap.com/results/ford/focus/2012/430.aspx](http://www.euroncap.com/results/ford/focus/2012/430.aspx "http://www.euroncap.com/results/ford/focus/2012/430.aspx"). Dette er åpenbart en trygg og komfortabel bil å kjøre i. I tillegg virker den solid og "godt skrudd sammen". Forghåpentlig fortsetter dette også etter at Ford flytter produksjonen i Europa til Spania?
 
-Det er i tillegg slitestyrken og servicen på bilen som totalt gir fornøyde kunder når denne modellen av Focus fanges opp av kunde-tilfredshetsstatistikken. De fleste statistikker på kundetilfredshet viser at Ford har et forbedringspotensial her - sjekk [helping.no/bestebilene.htm](http://www.helping.no/bestebilene.htm)
+Det er i tillegg slitestyrken og servicen på bilen som totalt gir fornøyde kunder når denne modellen av Focus fanges opp av kunde-tilfredshetsstatistikken. De fleste statistikker på kundetilfredshet viser at Ford har et forbedringspotensial her.
 
 Bestselgeren Ford Focus bør være på lista når du jakter på bil i Golfklassen. Her er det mye nybil og kjøreglede for pengene. Det er trygt å kjøpe nytt med 5 års nybilgaranti på bilen hvis din lokale forhandler er kjent for god service.
