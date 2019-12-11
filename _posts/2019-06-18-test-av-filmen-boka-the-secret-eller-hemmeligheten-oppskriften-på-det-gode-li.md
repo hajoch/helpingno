@@ -21,7 +21,8 @@ excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer 
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
   ikke - men fordi filmen og boka gir en lett-fattelig og god innsikt i tankenes og
   følelsenes betydning for våre liv. Her får du flere gode ideer om hvorledes du kan
-  påvirke ditt dagligliv og din fremtid. Men forteller "The Secret" hele sannheten?'
+  påvirke ditt dagligliv og din fremtid. Men forteller "The Secret" hele sannheten?
+  Bokanmeldelse.'
 image: "/assets/images/healing2.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
