@@ -21,26 +21,24 @@ image: "/assets/images/ask.16.jpg"
 image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
-publish_date: 2019-09-29 00:00:00 +0200
+publish_date: 
 weight: 8
 
 ---
-Askeladden 16 m. 25 hk Yamaha
-
-Fakta om Askeladden 16-4400 |Tekniske data testbåt:Lengde 4,94 mBredde 1.95 mVekt 340 kg | Max last: personer 8Max motor 40 hk kort stamme Denne båten hadde en enkel 25 hk Yamaha med 2 cyl uten autolobe.Veritas/CE-godkjent |
+**Askeladden 16 m. 25 hk Yamaha**
 
 Du ser mange av dem på fjorden. Mange av dem med orange dekk. Senere fikk de penere farger. De er ikke direkte vakre for å si det forsiktig, men grunnen til at det finnes så mange av dem er først og fremst sjøegenskapene: Romlige, praktiske, solide og enkle. Lite arbeid med dem vår og høst:. Trykkspyle, pakke inn for vinteren og bunnsmøre på våren, så er sesongen i gang på ny.
 
-Båten finnes også som åpen forblåst jolle og som hardtopp-modell. Men dette er en for liten båt til hardtopp. Her slår du hodet i taket hele tiden, så styr unna HT'en selv om den gir bedre ly for vinden enn kalesja i motvind.
+Båten finnes også som åpen forblåst jolle og som hardtopp-modell. Men dette er en for liten båt til hardtopp. Her slår du hodet i taket hele tiden, så styr unna HT'en selv om den gir bedre ly for vinden enn kalesje i motvind.
 
-Fabrikken har nå gitt opp denne modellen til fordel for mer moderne og betydelig dyrere og mer linjelekrere modeller. Det er ikke sikkert det var smart. En enkel og nøysom båt som denne har sin kjøperkrets. Dette båtkonseptet burde blitt videreutviklet.
+Fabrikken har nå gitt opp denne modellen til fordel for mer moderne og betydelig dyrere og mer linje-lekrere modeller. Det er ikke sikkert det var smart. En enkel og nøysom båt som denne har sin kjøperkrets. Dette båtkonseptet burde blitt videreutviklet.
 
 Ved de nye Askeladden-båtene ser vi at de ofte priser seg langt over like gode utenlandske båtmerker. Og samarbeidet med Mercury må i høy grad betegnes som en tabbe. Mange norske båteiere liker ikke Mercury, for de har for mange dårlige motorer på samvittigheten - og det har mange fått erfare.
 
 Motor:  
 **Yamaha 25 hk 2-takt og 2 cylinder**:
 
-Yamaha 25 hk. 2- takt 2 cylinder. Bland totaktsolja i bensinen selv på denne. En enkel, men driftssikker motor. Den rister og bråker, men sviver greit. Dog tørst som totaktere flest.
+Yamaha 25 hk. 2- takt 2 cylinder. Bland totakt-olja i bensinen selv på denne. En enkel, men driftssikker motor. Den rister og bråker, men sviver greit. Dog tørst som to-taktere flest.
 
 Jeg hadde problemer med giret på denne. En relativt dyr operasjon måtte til om den skulle skifte gir uten knurring og knaking. Dette er en vanlig feil, ja nærmest en svakhet på denne motoren.
 
@@ -48,7 +46,8 @@ Yamaha får problemer med tidens tann som de fleste andre motorer og da er deler
 
 På eldre motorer ryker det noe når det minst passer - og alle verkstedene er fullbooket når du trenger hjelp under høy solfaktor. Knytt deg da til en båtforhandler du kan få god service av med gammel påhenger. Det kan lønne seg. Det er når du har gammel sliten båtmotor du skal blinke deg ut den beste og rimeligste servicen på hjemstedet - der hvor du kjøper din neste motor.
 
-**Tekniske data testbåt:** Fakta om Askeladden 16-4400  
+**Tekniske data testbåt:**   
+Fakta om Askeladden 16-4400  
 Lengde 4,94 m  
 Bredde 1.95 m  
 Vekt 340 kg
