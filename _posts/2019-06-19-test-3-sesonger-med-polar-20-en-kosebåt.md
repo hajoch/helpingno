@@ -10,7 +10,7 @@ tags:
 - plastbåt
 - dagsturbåt
 - Polar 20
-title: 'En kosebåt. 3 sesonger med Polar 20. '
+title: 'Kose-båt. 3 sesonger med Polar 20. '
 excerpt: 'Hvem husker ikke barneårene med besteforeldres skjerm-skjekte i furu med
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:
   Test.'
