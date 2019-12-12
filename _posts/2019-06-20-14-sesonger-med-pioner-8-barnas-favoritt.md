@@ -13,7 +13,7 @@ tags:
 - sjø båtliv
 - barn
 - mykplast
-title: '14 sesonger med Pioner 8: Barnas favoritt'
+title: " Barnas favoritt: 14 sesonger med Pioner 8"
 excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør beherske
   på sjøen. Å utforske strandsonen i denne jolla er et eventyr for barna. Sjøstjerner
   og krabber, fisk og skjell. Dette er en solid og trygg båt å slippe barna ut i.
@@ -23,11 +23,11 @@ image: "/assets/images/pioner.8.1.jpg"
 image_caption: 'Foto: Pioner'
 categories:
 - _category/båt.md
-publish_date: 2019-09-29 00:00:00 +0200
+publish_date: 
 weight: 3
 
 ---
-**Båt:** 
+**Båt:**
 
 Jolla har en utrolig god flyteevne og er det sikreste i denne størrelsen du kan slippe barna ut på sjøen i.
 
@@ -39,7 +39,7 @@ I utgangspunktet ble båten kjøpt inn med en 3,3 hk Johnson. Denne motoren star
 
 Som rojolle er Pioner 8 et funn: To barn går lett i båten uten at den blir baktung. Er bana små, går også tre ombord uten problemer. To voksne er det verre med. Det blir i trangeste laget og jolla blir lett baktung. En voksen alene kan oppleve flotte trimturer i denne båten. Og så er den lett og fin å dra opp på stranden.
 
-Båten er nå videreutviklet til nyere modelleler med mer moderne linjer.
+Båten er nå videreutviklet til nyere modeller med mer moderne linjer og litt større motor.
 
 **Fakta om Pioner 8** Tekniske data testbåt:  
 Lengde 2,45 m  
