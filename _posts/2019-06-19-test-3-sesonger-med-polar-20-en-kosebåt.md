@@ -1,12 +1,19 @@
 ---
 layout: post
-date: 2019-06-19 14:52:51 +0200
+date: 2019-06-19T12:52:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Test 3 sesonger med Polar 20: En kosebåt'
-excerpt: 'Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu med
-  liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:'
+tags:
+- båt
+- sjekte
+- fritidsbåt
+- plastbåt
+- dagsturbåt
+- Polar 20
+title: 'En kosebåt. 3 sesonger med Polar 20. '
+excerpt: 'Hvem husker ikke barneårene med besteforeldres skjerm-skjekte i furu med
+  liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:
+  Test.'
 image: "/assets/images/polar.20_hvit.jpg"
 image_caption: ''
 categories:
