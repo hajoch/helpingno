@@ -12,14 +12,14 @@ fields:
     required: false
     color_format: Hex
 pages:
-- _category/båt.md
-- _category/helse.md
-- _category/religion.md
-- _category/reise.md
-- _category/bolig.md
-- _category/hjelpearbeid.md
-- _category/foto.md
-- _category/mat.md
-- _category/økonomi.md
 - _category/bil.md
+- _category/bolig.md
+- _category/båt.md
+- _category/foto.md
+- _category/helse.md
+- _category/hjelpearbeid.md
+- _category/mat.md
 - _category/redaksjonen-om-oss.md
+- _category/reise.md
+- _category/religion.md
+- _category/økonomi.md
