@@ -32,7 +32,7 @@ weight: 7
 
 Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og Internett-forbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
 
-Mange er ikke klar over at det er mulig å leie en leilighet i fyrvokter-boligen.  
+Mange er ikke klar over at det er mulig å leie en leilighet i fyrvokter-boligen. Link: [https://www.lindesnesshop.no/fyrferie/](https://www.lindesnesshop.no/fyrferie/ "https://www.lindesnesshop.no/fyrferie/")  
 Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyret og naturen der hele døgnet i storm og stille fint sommervær. Gjestfrie og hyggelige fyrvoktere sørger da for at du får mer ut av et opphold ved fyret enn dags-besøkende.
 
 **En vakker orkesterplass ved havet.**
