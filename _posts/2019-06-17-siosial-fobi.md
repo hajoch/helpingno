@@ -1,9 +1,16 @@
 ---
 layout: post
-date: 2019-06-17 21:34:10 +0200
+date: 2019-06-17T19:34:10.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- mental helse
+- redsel
+- angst
+- angst mental helse
+- terapi
+- visualisering
 title: Sosial fobi
 excerpt: Så mange som en av sju personer utvikler en sjenanse som alltid er til stede
   (unnvikende personlighetsforstyrrelse) eller en redsel av angststyrke for andre
@@ -13,14 +20,13 @@ excerpt: Så mange som en av sju personer utvikler en sjenanse som alltid er til
   men kan debutere i form av et brak (panikkanfall). Kanskje er dette den største
   sykdommen i Norge?
 image: "/assets/images/sosialfobi.jpg"
-image_caption: Foto; GC
+image_caption: Motiv fra seilskipet Gøteborg. Foto; Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
 weight: 6
 
 ---
-
 Når redaktøren har valgt en kanon som bilde på angst har det minst to grunner. Først kan den som har sosial fobi oppfatte andre like skremmende som kanoner. Enda verre er at den som har angst er innadvendt og kanskje blir oppfattet av andre som overlegen og endog farlig. Bare se deg selv i et speil når du har angst, du ser ofte ut som en tordensky. Til sist kan man bli som en løs kanon på dekk hvis du lar alle hemninger gå og plaprer løs for å overdøve din egen angst.
 
 **Her er noen råd:**  
