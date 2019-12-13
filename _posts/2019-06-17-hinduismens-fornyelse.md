@@ -1,17 +1,32 @@
 ---
 layout: post
-date: 2019-06-17 10:57:05 +0200
+date: 2019-06-17T08:57:05.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- 'Mahatma Gandhi '
+- religion
+- religionshistorie
+- Rama-Krishna
+- 'Bhagavad Gita '
+- indisk religion
+- kulturkollisjon
+- nasjonalisme i India
+- kastesystemet
+- Karma-yoga
+- Ahimsa
+- ikke.vold
+- etikk
+- Upanishadene
+- koloni
+- Britisk koloni
 title: Hinduismens fornyelse
-excerpt: "Mahatma Gandhi tok avstand fra tanken om velferd til alle og pekte på idealet
-  \"etisk riktig\". De \"moderne\" hinduer på grasrotplanet fulgte Gandhis eksempel
-  og brukte Bhagavad \nGita som etisk guide."
+excerpt: Mahatma Gandhi tok avstand fra tanken om velferd til alle og pekte på idealet
+  "etisk riktig". De "moderne" hinduer på grasrotplanet fulgte Gandhis eksempel og
+  brukte Bhagavad Gita som etisk guide.
 image: "/assets/images/tempel.jpg"
-image_caption: |-
-  Foto Gunnar Christensen, motiv fra Nepal. Tempelet Pasupati utenfor Kathmandu
-  der likbrenning finner sted.
+image_caption: Foto Gunnar Christensen, motiv fra Nepal. Tempelet Pasupati utenfor
+  Kathmandu der likbrenning finner sted.
 categories:
 - _category/religion.md
 publish_date: 
