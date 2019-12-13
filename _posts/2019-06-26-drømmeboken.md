@@ -1,8 +1,14 @@
 ---
 layout: post
-date: 2019-06-26 06:24:06 +0200
+date: 2019-06-26T04:24:06.000+00:00
 crop_image: true
-tags: []
+tags:
+- bok
+- litterator
+- drømmer
+- Carl Gustav Jung
+- psykologi
+- drømmetydning
 title: Drømmeboken.
 excerpt: '"Drømmenes hemmelige språk. En illustrert veiviser til det ubevisste"av
   David Fontana oversatt av Sølvi Bryde, illustrert av Peter Malone. Gyldendal Norsk
@@ -16,7 +22,6 @@ publish_date:
 weight: 4
 
 ---
-
 Vi drømmer hver natt, selvom vi ikke alltid husker hva vi har drømt. Når vi våkner etter en god natts søvn har vi drømt flere drømmer. I disse drømmene ligger kimen til vår egen selvutvikling og selvforståelse, hevder Fontana som er professor i psykologi og har produsert flere bøker om dette emnet.
 
 Til alle tider har mennesket interessert seg for drømmetydning. Interessen for bøker om drømmetydning er nå stigende og flere bøker er på markedet om dette tema.
