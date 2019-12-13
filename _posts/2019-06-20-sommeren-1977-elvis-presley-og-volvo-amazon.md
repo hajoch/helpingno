@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-20T19:54:00.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- bil
+- Volvo
+- Amazon
+- B20
+- Elvis Presley
+- veteranbil
+- biltur
 title: 'Sommeren 1977: Elvis Presley og Volvo Amazon. Test veteranbil.'
 excerpt: "- Grattis med ny bil! Studiekompisen lar blikket gli over interiøret gjennom
   bilvinduet. Jeg svarer: - Ikke helt ny, men ny nok for en fattig student. Hopp inn!
@@ -52,4 +59,4 @@ Hjemme i Oslo klapper vi Amazonen på panseret etter feilfri langtur. Det eneste
 **Volvo Amazon** 121,  
 2-dørs med B20 motor på 82 hk/DIN (90 hk/SAE), manuell girkasse.
 
-Produksjonen varte i 14 år, fra 1956 til 1970. I løpet av denne perioden ble det produsert ca. 670 000 biler.
+Produksjonen varte i 14 år, fra 1956 til 1970. I løpet av denne perioden ble det produsert ca. 670 000 biler.Elvis
