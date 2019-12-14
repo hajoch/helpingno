@@ -1,14 +1,26 @@
 ---
 layout: post
-date: 2019-06-17 14:53:17 +0200
+date: 2019-06-17T12:53:17.000+00:00
 crop_image: true
 author: _authors/kari-rose-norheim.md
-tags: []
+tags:
+- helse
+- mental helse
+- sorg
+- sorg. depresjon
+- psykologi
+- kriseteori
+- sjokkfase
+- ensomhet
+- positiv
+- negativ
+- reparasjonsfase
+- reaksjon
 title: Sorgbearbeidelse
 excerpt: "Det som kjennetegner og definerer sorg fra andre \npsykologiske tilstander
   er at det er etterreaksjonen \npå en situasjon som har medført uønsket tap."
 image: "/assets/images/natur1.jpg"
-image_caption: 'Foto: Gunnar Christensen'
+image_caption: 'Illustrasjon foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
@@ -44,6 +56,6 @@ Nyorienteringsfase. Tidsperspektiv måneder/år. Kjennetegnes først og fremst v
 **Livet kan gå videre**  
 Alle disse fasene bør gjennomleves for at sorgprosessen skal bli psykologisk helbredende etter tapsopplevelsen, så livet kan gå videre. Forsering og fortrengning av følelser, tanker og hendelser fører fort til fastlåst sorg, psykiske og fysiske problemer i etterkant eller senere i livet. Søvnproblemer og konsentrasjonsproblemer osv er vanlig ved sorg, uten at det er noe unormalt ved det. Lurer du på noe: Ta kontakt med legen din eller andre du har tillit til, som kan hjelpe deg eventuelt å sortere tanker og følelser, om nødvendig. Hvis ikke du trenger medisinsk hjelp er venner fine å ha. Nøl ikke med å kontakte andre mennesker. Ellers er det godt å flytte oppmerksomheten til andre ting, eller hyggelige ting. Det er alltid godt med en pause "time out" når livet er vanskelig.
 
-For litt inspirasjon, ideer eller forslag til konstruktive gjøremål for litt problemfritt område, "[Depresjon](http://www.helping.no/dep.htm)" og bøker om ["Sorg"](http://www.helping.no/sorg.htm) på helping.no
+For litt inspirasjon, ideer eller forslag til konstruktive gjøremål for litt problemfritt område, "Depresjon" og bøker om "Sorg" på helping.no
 
 De fleste kommuner har også sorggrupper i forskjellig regi. Dette er ofte selvhjelpsgrupper med veiledning av fagpersoner etter behov. I disse gruppene treffer man personer i lignende situasjon og kan utveksle tanker og følelser med dem, eller høre andres opplevelser knyttet til sorgen deres. Gjennom gjenkjennelsen dette medfører kan for eksempel ensomheten og tomheten dempes og finne et mest mulig positivt utløp.
