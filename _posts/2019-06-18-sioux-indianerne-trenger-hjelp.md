@@ -3,7 +3,17 @@ layout: post
 date: 2019-06-18T09:19:06.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- hjelpearbeid humanitært
+- indianere
+- indianerstammer
+- Sioux
+- Sør Dakota
+- USA
+- Stanley
+- medisinmann
+- Buddy
+- Lise Lyeseggen
 title: Sioux-indianerne  trenger hjelp!
 excerpt: Intervju med Lise Lyseggen
 image: "/assets/images/Rituell Powowdans .jpg"
