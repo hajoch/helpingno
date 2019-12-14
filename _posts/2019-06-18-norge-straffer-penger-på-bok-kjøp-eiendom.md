@@ -18,12 +18,13 @@ tags:
 - sparepenger
 - indeks
 - avgifter
+- markedsverdi
 title: 'Norge straffer penger på bok: Kjøp eiendom'
 excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystemet
   mot deg. Renten belastes skattetrekk som inntekt. Så kommer formueskatten og skatt
   på renter.
 image: "/assets/images/eiendom.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Illustrasjon foto Gunnar Christensen
 categories:
 - _category/økonomi.md
 publish_date: 
