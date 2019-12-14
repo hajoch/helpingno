@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-20 13:28:18 +0200
+date: 2019-06-20T11:28:18.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- vann
+- drikkevann
+- plastemballasje
+- kildevann
+- forbrukermakt
+- vannkvalitet
+- kommunale rør
+- vannforsymimh
 title: Rent drikkevann
 excerpt: Rent vann er en forutsetning for god helse. Mange vannverk rundt om i landet
   har for dårlig standard og har fått påtale fra Mattilsynet. Rent vann er det beste
