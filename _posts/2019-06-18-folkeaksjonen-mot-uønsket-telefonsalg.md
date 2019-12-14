@@ -12,7 +12,7 @@ title: Folkeaksjonen mot uønsket telefonsalg.
 excerpt: Denne type henvendelser øker nå i et slikt omfang at mange oppfatter dette
   som ren telefonterror.
 image: "/assets/images/telefon.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Telefon fra 1950 og 60 årne. Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
