@@ -14,7 +14,7 @@ title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønnsgrupper i samfunnet:'
 image: "/assets/images/trommer.jpg"
-image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. |Postkort
+image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. Postkort
   kjøpt i Nepal
 categories:
 - _category/reise.md
