@@ -11,7 +11,6 @@ tags:
 - forbrukermakt
 - vannkvalitet
 - kommunale rør
-- vannforsymimh
 title: Rent drikkevann
 excerpt: Rent vann er en forutsetning for god helse. Mange vannverk rundt om i landet
   har for dårlig standard og har fått påtale fra Mattilsynet. Rent vann er det beste
