@@ -4,7 +4,11 @@ date: 2019-12-02 12:24:06 +0100
 crop_image: true
 tags:
 - foto
-- foto
+- Roma
+- Italia
+- turistattraksjon
+- historie
+- estetikk
 title: 'Roma - Estetikkens by '
 excerpt: " Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
   Selv gateselgere tar et nei for et nei.\n\n"
@@ -20,7 +24,7 @@ weight: 5
 ---
 Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og betong i sentrum. Skjønnhet preger byens arkitektur og kunst. Innbyggerne er stolte av byen og med rette.
 
-![](http://www.helping.no/rom1.jpg)
+T![](http://www.helping.no/rom1.jpg)
 
 Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro.
 
