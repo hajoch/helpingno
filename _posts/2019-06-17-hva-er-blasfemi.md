@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-17 11:39:19 +0200
+date: 2019-06-17T09:39:19.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- religion
+- religionshistorie
+- blasfemi
+- kristendom
+- tolking
+- filosofi
+- straff for blasfemi
+- Life of Brain
+- Gud
 title: Hva er blasfemi?
 excerpt: Da komediefilmen "Life of Brian" av Monty Phyton-gruppen med John Cleese
   ble lansert i 1979, ble den straks erklært blasfemisk av den norske filmsensuren
