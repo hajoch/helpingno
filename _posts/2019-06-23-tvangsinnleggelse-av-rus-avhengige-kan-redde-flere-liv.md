@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2019-06-23 14:50:31 +0200
+date: 2019-06-23T12:50:31.000+00:00
 crop_image: true
-tags: []
+tags:
+- helse
+- psykisk lidelse
+- mental helse
+- rus
+- rusavhengighet
 title: Tvangsinnleggelse av rus-avhengige kan redde flere liv
 excerpt: 'Innlegg om rus:'
 image: "/assets/images/trille7.jpg"
