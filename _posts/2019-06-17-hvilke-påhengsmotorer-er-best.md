@@ -8,6 +8,23 @@ tags:
 - påhengsmotorer
 - båtliv
 - drivstoff i båt
+- båt
+- motorbåt
+- daycruiser
+- sjekte
+- seejeep
+- cabincruiser
+- Evinrude
+- Johnson
+- Suzuki
+- Yamaha
+- Gale
+- Honda
+- Selva
+- Tohatsu
+- Mariner
+- Mercury
+- Force
 title: Hvilke påhengsmotorer er best?
 excerpt: '4-takt-teknologien har nå overtatt det meste av markedet for salg av nye
   påhengsmotorer. 2-takt-motorene er på vei ut i sin tradisjonelle versjon, og blir
@@ -17,7 +34,7 @@ image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
-publish_date: 2019-08-02T22:00:00.000+00:00
+publish_date: 
 weight: 9
 
 ---
