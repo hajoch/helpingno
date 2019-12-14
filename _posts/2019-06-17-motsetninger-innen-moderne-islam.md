@@ -20,7 +20,7 @@ excerpt: Selv om den senere utviklingen innen den islamske verden er inspirert a
   den vestlige verden, så står flere muslimske grupper i et motsetningsforhold til
   den vestlige verden.
 image: "/assets/images/tajmahal2.jpg"
-image_caption: Taj Mahal i Agra i India. Postkort kjøpt på stedet.
+image_caption: Taj Mahal i Agra i India. Postkort kjøpt på stedet p.g.a fotoforbud.
 categories:
 - _category/religion.md
 publish_date: 
