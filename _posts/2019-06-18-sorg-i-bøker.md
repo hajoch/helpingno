@@ -1,12 +1,19 @@
 ---
 layout: post
-date: 2019-06-18 12:12:15 +0200
+date: 2019-06-18T10:12:15.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- bøker
+- sorg
+- Elisabeth Kubler-Ross
+- Sogyal Rinpoche
+- Tibetanske boken om døden
+- Dalai Lama
+- Howard C. Cutler
 title: Sorg i bøker
-excerpt: "Sorg kan være en del av depresjon. \nDer er mange typer sorg: \nNår man
-  mister en av sine kjære er et eksempel."
+excerpt: 'Sorg kan være en del av depresjon. Der er mange typer sorg: Når man mister
+  en av sine kjære er et eksempel.'
 image: "/assets/images/now.5.jpg"
 image_caption: 'Sorg kan være en del av depresjon. Der er mange typer sorg : Når man
   mister en av sine kjære er et eksempel. Foto: Gunnar Christensen'
@@ -16,7 +23,6 @@ publish_date:
 weight: 5
 
 ---
-
 **Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:**
 
 * Elisabeth Kübler-Ross: "Døden er livsviktig  
