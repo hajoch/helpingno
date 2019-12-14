@@ -1,14 +1,21 @@
 ---
 layout: post
-date: 2019-06-19 20:42:03 +0200
+date: 2019-06-19T18:42:03.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: Turistproblemer i Kathmandudalen
+tags:
+- Nepal
+- Kathmandu
+- Hanuman Dhoka
+- turister
+- tigging
+- hindusamfunn
+title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønnsgrupper i samfunnet:'
 image: "/assets/images/trommer.jpg"
-image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. |
+image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. |Postkort
+  kjøpt i Nepal
 categories:
 - _category/reise.md
 publish_date: 
