@@ -1,9 +1,16 @@
 ---
 layout: post
-date: 2019-06-20 10:11:11 +0200
+date: 2019-06-20T08:11:11.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- relogion
+- UFO
+- UFO-religion
+- menneskekloning
+- flygende tallerken
+- frelseskikkelse
+- synkretisme
 title: Står UFO-religionen bak menneskekloning? Ny religion med økende tilhengerskare
 excerpt: |-
   Kloning av menneskebarn i USA og Nederland har tidligere vært i medias søkelys og fokus settes derfor på sekter innen UFO- religionen.
@@ -17,7 +24,6 @@ publish_date:
 weight: 1
 
 ---
-
 Hvis en atomkrig skulle ødelegge vår klode, vil vesener fra andre kloder komme oss til hjelp i sine "flygende tallerkener ". Dette hevder tilhengere av "UFO-religionen " som har stor framgang i USA og Europa:
 
 Vesener fra andre planeter er høyere utviklet enn oss og sender oss budskap og åpenbaringer i tillegg til å framtre som frelsesskikkelser. Det er den tyske religions- kirkehistorikeren Ernst Benz som beskriver UFO-religionen i sin bok: "Neue Religionen". UFO-religionen har hatt en betydelig vekst særlig i USA de siste 40 år, men røttene til denne religionen er langt eldre, mener han.
