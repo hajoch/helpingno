@@ -1,13 +1,21 @@
 ---
 layout: post
-date: 2019-06-21 11:12:41 +0200
+date: 2019-06-21T09:12:41.000+00:00
 crop_image: true
-tags: []
+tags:
+- båt
+- sjø
+- båtimport
+- Byliner
+- AMT
+- regnskogtre
+- USA
+- Sverige
 title: Lønner det seg å  importere båten selv?
 excerpt: Kjøpe båt i Sverige? Importere båt fra USA? Importer AMT fra Finland? Ikke
   kjøp båt med regnskog treverk.
 image: "/assets/images/batimport.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
