@@ -1,22 +1,24 @@
 ---
 layout: post
-date: 2019-06-17 23:27:11 +0200
+date: 2019-06-17T21:27:11.000+00:00
 crop_image: true
 author: _authors/ellen-marie-christensen.md
-tags: []
+tags:
+- mat
+- middag
+- tradisjonell norsk mat
 title: Farmors kjøttkaker
 excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt.
   I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage
   kjøttkaker med eller uten hvitløk eller vanlig løk.'
 image: "/assets/images/middag.1 (1).jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/mat.md
 publish_date: 
 weight: 3
 
 ---
-
 Følgende ingredienser må til:  
 Kjøttdeig ca. 500gram til 9 kjøttkaker  
 Stekeolje f.eks. solsikkeolje eller margarin  
