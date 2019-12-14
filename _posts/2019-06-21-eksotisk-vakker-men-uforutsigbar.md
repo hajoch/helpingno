@@ -3,8 +3,23 @@ layout: post
 date: 2019-06-21T07:28:59.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: Eksotisk, vakker men uforutsigbar
+tags:
+- Sri Lanka
+- Asia
+- asiatisk religion
+- Buddhisme
+- turisme
+- reise
+- reiseråd
+- 'Anuradhapadura '
+- Negombo
+- stupa
+- religion
+- risikovurdering
+- terror
+- Bodhi-tre
+- reinkarnasjon
+title: Eksotisk, vakker, men uforutsigbar
 excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten utenfor
   Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle, spinkle
   småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød i et farlig
@@ -23,7 +38,7 @@ weight: 1
 **Fiskerne deler broderlig**  
 Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har slitt for på Sri Lanka. Fisken fordeles på den glitrende stranden under palmene: Noe til fiskernes familier, naboer og resten til markedene i byen. Nye fiskeredskaper effektiviserer og utkonkurrerer disse enkle garnredskapene, men fiskerne deler broderlig så alle får.
 
-Bilde: Morgen ved stranden. Foto Gunnar Christensen
+Bilde: Morgen ved stranden. 
 
 ![](http://www.helping.no/srilankabat.jpg)
 
@@ -38,8 +53,7 @@ De lokale rettene ris og karri er vanligvis ikke krydret for norske ganer, men d
 
 Mest populært å kjøpe med seg fra Sri Lanka er foruten te, dansemasker og vakker batikk. De vakre verdenskjente edelsteinene finnes i rike mengder til rimeligere priser enn de fleste andre steder. Edelsteinene slipes for hånd på flere lokale sliperier. Men vær på vakt for lureri: Det kreves god kunnskap for ikke å bli lurt på prisen...
 
-Bilde: Elefanten gjør traktoren overflødig ved dette sagbruket.  
-Foto [Gunnar Christensen](http://www.helping.no/gunnar.htm)
+Bilde: Elefanten gjør traktoren overflødig ved dette sagbruket.
 
 ![](http://www.helping.no/elefant.jpg)
 
@@ -54,8 +68,7 @@ Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til 
 
 **Tradisjonelle fiskebåt på Negombo-stranden**
 
-BIlde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka  
-Foto [Gunnar Christensen](http://www.helping.no/gunnar.htm)
+BIlde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka
 
 ![](http://www.helping.no/stupa.jpg)
 
