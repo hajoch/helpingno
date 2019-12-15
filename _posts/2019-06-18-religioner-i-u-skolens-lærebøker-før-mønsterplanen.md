@@ -71,7 +71,7 @@ bok den gang.
 
 Da forlaget Ildsjelen ønsket å gi ut manuskriptet i 2004 hadde boken først og fremst historisk interesse fordi ungdomsskolen hadde fått en nye generasjon lærebøker. Forlaget trykket derfor opp et begrenset antall kopier før lanseringen og baserte seg på en avtale med trykkeriet om å trykke opp flere bøker etter behov. Dette fordi man ikke vurderte boka som en storselger, men en viktig bok for fagpersoner innen undervisning.
 
-Da boka kom ut ble den bredt omtalt både i aviser og i NRK-P1. Dette førte til en langt større etterspørsel enn forlaget beregnet. Forlaget gikk tom for bøker i løpet av kort tid og hadde ikke tid og kapasitet til å trykke opp flere. Det ble derfor besluttet å legge boka ut som gratis e-bok for nedlasting både på forlagets sider og på helping.no.
+Da boka kom ut ble den bredt omtalt både i aviser og i [Download File]( "Download File") NRK P1. Dette førte til en langt større etterspørsel enn forlaget beregnet. Forlaget gikk tom for bøker i løpet av kort tid og hadde ikke tid og kapasitet til å trykke opp flere. Det ble derfor besluttet å legge boka ut som gratis e-bok for nedlasting både på forlagets sider og på helping.no.
 
 Forfatteren prioriterte å bli lest av flest mulig fremfor å få inntekter av boka og forlaget mente en aktuell, gratis nettbok vil være god reklame for forlaget.
 
