@@ -69,7 +69,7 @@ Natten senker seg over Tendaba Camp. Jungelens lyder bærer gjennom natten og st
 Villy har sansen for bergersvingerne i selskapet og skåler uhemmet. Stemningen er høy. Bordet bogner av Gambias eksotiske frukter og juicer samt Villys jaktbytter. Dette blandet med mat tilpasset turistenes matvaner. Villy forteller de mest ut-rolige jakthistorier. Etterpå blunker han skøyeraktig til meg:  
 \- Dom vil høra det her forbannede vrøvlet. Det er en del av underholdningen min. Det hjelper dem til at beholde myten om junglene og det mystiske, eksotiske Afrika.
 
-#### Taxiturist i Gambia
+#### **Taxiturist i Gambia**
 
 \- No, Sir. Den døra kan ikke åpnes. Jeg har surret den med ståltråd. Vær vennlig å stig inn på den andre siden.
 
