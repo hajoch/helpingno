@@ -86,7 +86,7 @@ Fra ruinen etter et tårn på øyas høyeste punkt skimtes fastlandet på begge 
 På den nordlige elvebredden skimtes i soldisen Kunta Kintes hjemby Juffure om-kranset av duvende, høyreiste palmeskog. Hans slekt lever der fremdeles.  
 Kunta fikk aldri se Juffure igjen.
 
-**Høvdingen har bare ei kone i Kunta Kintes by**
+#### **Høvdingen har bare ei kone i Kunta Kintes by**
 
 \- Du bestilte drosje, Sir?
 
