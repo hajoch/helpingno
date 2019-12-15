@@ -8,6 +8,9 @@ tags:
 - Afrika
 - jungel
 - safari
+- merkedsplass
+- solferie
+- turisme
 title: '"Livingstone, I presume"'
 excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lille
   afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (70)
@@ -55,7 +58,7 @@ Safarijeepene humper inn gårdsplassen på Tendaba. Et komisk syn. De velkledde 
 **Fjernt og mystisk**  
 Natten senker seg over Tendaba Camp. Jungelens lyder bærer gjennom natten og stilner gradvis. Underlig å ligge i en av Villys små hytter og lytte til jungelens lyder beskyttet under moskitonettet. Tankene går til Standley og Livingstone, jungelboka og tilsvarende bøker fra guttedagene da Afrika var noe fjernt og mystisk. Heten dirrer inni den lille gjestehytta. Moskitoene surrer hissig og blodtørstig rundt i rommet. Svetten renner. Heten føles som kveletak. Jeg tar likevel sjansen på å legge meg i ei av Villys hengekøyer i palmehagen resten av nat-ten. Luften står stille. Natten er klam. Fremmede lukter. Fremmede lyder.....
 
-\- Livingstone, I presume, smiler guiden neste morgen. Hun peker meg fra hen-gekøya til frokostbordet. Der romsterer Villy rundt minst like ubarbert og halvfull som kvelden før.
+\- Livingstone, I presume, smiler guiden neste morgen. Hun peker meg fra hengekøya til frokostbordet. Der romsterer Villy rundt minst like ubarbert og halvfull som kvelden før.
 
 \- Skal det være en drink?
 
@@ -64,7 +67,7 @@ Natten senker seg over Tendaba Camp. Jungelens lyder bærer gjennom natten og st
 \- Nordmenn! Det er enten eller med dere? Skål och vælkomna til bords mina damar och herrar...
 
 Villy har sansen for bergersvingerne i selskapet og skåler uhemmet. Stemningen er høy. Bordet bogner av Gambias eksotiske frukter og juicer samt Villys jaktbytter. Dette blandet med mat tilpasset turistenes matvaner. Villy forteller de mest ut-rolige jakthistorier. Etterpå blunker han skøyeraktig til meg:  
-\- Dom vil høra det her forbannede vrøvlet. Det er en del av underhåldningen min. Det hjelper dem til at beholde myten om junglene og det mystiske, eksotiske Afrika.
+\- Dom vil høra det her forbannede vrøvlet. Det er en del av underholdningen min. Det hjelper dem til at beholde myten om junglene og det mystiske, eksotiske Afrika.
 
 #### Taxiturist i Gambia
 
