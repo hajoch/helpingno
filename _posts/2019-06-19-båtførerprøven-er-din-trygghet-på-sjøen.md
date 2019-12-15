@@ -7,6 +7,13 @@ tags:
 - båtlappen
 - båtførerprøven
 - obligatorisk båtopplæring
+- sjø båtliv
+- ferdsel på sjøen
+- sjøens kjøreregler
+- Sjøfartsdirektoratet
+- småbåter
+- fritidsbåter
+- regler til sjøs
 title: Båtførerprøven er din trygghet på sjøen
 excerpt: Båtførerprøven kan du ta på vår- og høstsemester de fleste steder her i landet.
   Denne "båtlappen" gir ikke bare rabatt på båt-forsikringen. Viktigst er at du får
