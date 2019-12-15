@@ -27,7 +27,9 @@ Det obligatoriske kravet til båtførerbevis gjelder båtførere som er født et
 
 . Personer som har tatt båtførerprøven tidligere, slipper å ta prøven på nytt. Det stilles ikke krav til å gjennomføre kurs før prøven avlegges.
 
-Om små joller og mindreårige på sjøen
+Om små joller og mindreårige på sjøen.
+
+![](http://www.helping.no/fun3.jpg)
 
 Sjøfartsdirektoratet svare slik på vårt spørsmål om småjoller og mindreårige  
 etter at båtførerprøven er innført:  
