@@ -56,6 +56,8 @@ Aircondition i leiligheten må du betale ekstra for om dagen, men ikke om natten
 
 På bildene og i presentasjonen ser det ut som om sandstranden er like ved hotellet, men det viser seg på stedet at det er ca. 1 km. å gå til nærmeste sandstrand på en strandpromenade langs sjøen.
 
+![](http://www.helping.no/cha.jpg)
+
 Hotellet er registrert som et hotell med 4 stjerner: Da forventes en langt bedre standard enn dette.
 
 Feilinformasjon og slurv trekker ned opplevelsen. Vi nevner bl.a.:  
