@@ -94,6 +94,6 @@ Hyl og skrik ljomer i gaten. Jeg snur meg tidsnok til å se en bil i stor fart m
 \- No good driver!
 
 **Barnebyen**  
-SOS-barnebyen er uvanlig velstelt og trivelig. Liksom en liten velorganisert oase i landskapet med hvite murhus. Denne internasjonale organisasjonen med sveitsisk opprinnelse er vel etablert i Gambia. Hvert lite hus har to leiligheter med ren vannforsyning og enkle kokemuligheter. Fra hver leilighet smiler en matmor med livlige ungeflokker omkring seg. Små gyldenbrune føtter tripper nysgjerrig mot besøkende. Foreldreløse barn i alder fra babyer til tenåringer får her det best mulige utgangspunkt i lek og skole. Mange turister besøker barnebyen og fjerna-dopterer ett barn eller flere.
+SOS-barnebyen er uvanlig velstelt og trivelig. Liksom en liten velorganisert oase i landskapet med hvite murhus. Denne internasjonale organisasjonen med sveitsisk opprinnelse er vel etablert i Gambia. Hvert lite hus har to leiligheter med ren vannforsyning og enkle kokemuligheter. Fra hver leilighet smiler en matmor med livlige ungeflokker omkring seg. Små gyldenbrune føtter tripper nysgjerrig mot besøkende. Foreldreløse barn i alder fra babyer til tenåringer får her det best mulige utgangspunkt i lek og skole. Mange turister besøker barnebyen og fjerna-adopterer ett barn eller flere.
 
 \- En fin og direkte form for u-hjelp, bekrefter en fornøyd norsk adoptivfar og peker smilende ut "sitt" barn i flokken, før han forsvinner inn i ei drosje tilbake til hotellet.
