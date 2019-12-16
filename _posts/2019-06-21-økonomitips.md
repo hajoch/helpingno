@@ -31,11 +31,9 @@ Ray Dalio forklare deg personlig økonomi og samfunnsøkonomi enkelt og lettfatt
 [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
 **Aksjekjøp?**  
-Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i  
-å kjøpe og aksjekursene er høye.
+Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i å kjøpe og aksjekursene er høye.
 
-Det er ofte små-sparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover  
-i tid er svaret nei.
+Det er ofte små-sparerne som da kaster seg inn i markedet som følge av pågående markedsføring. Men er det rett tidspunkt å kjøpe aksjer og aksjeandeler når prisene er høye og kurvene har i lengre tid peket oppover? Ser du bakover i tid er svaret nei.
 
 Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene er lave. Da er der ingen offensiv markedsføring av aksjer og aksjefond. Da skriver pressen om store tap i aksjemarkedet og få privatkunder ønsker derfor å kjøpe. Små-sparere selger sine aksjer og aksjefondsandeler med store tap.
 
