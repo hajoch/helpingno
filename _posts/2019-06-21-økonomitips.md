@@ -68,7 +68,6 @@ hvor du kan gjøre prissammenlikninger på leverandører av bredbånd.
 **Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
-[https://coinweb.no](https://coinweb.no "https://coinweb.no")  
-[https://billig-forbrukslån.no](https://xn--billig-forbruksln-orb.no/)
+[https://coinweb.no](https://coinweb.no "https://coinweb.no")
 
 ***
