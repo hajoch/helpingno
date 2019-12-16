@@ -21,14 +21,12 @@ weight: 7
 **Slik sparer du penger**  
 Sjekk om du har det rimeligste tilbud innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)
 
-Sjekk om du har rimeligst strømtilbud på:  
-[www.konkurransetilsynet.no](http://www.konkurransetilsynet.no/)
+Sjekk om du har rimeligst strømtilbud på: [www.konkurransetilsynet.no](http://www.konkurransetilsynet.no/)
 
 Sjekk om du har det rimeligste tele- og mobil-tilbudet på: [www.telepriser.no](http://www.telepriser.no/)
 
 **Slik fungerer økonomien:**  
-Ray Dalio forklare deg personlig økonomi og samfunnsøkonomi enkelt og lettfattelig:  
-[http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
+Ray Dalio forklare deg personlig økonomi og samfunnsøkonomi enkelt og lettfattelig: [http://youtu.be/PHe0bXAIuk0](http://youtu.be/PHe0bXAIuk0 "http://youtu.be/PHe0bXAIuk0")
 
 **Aksjekjøp?**  
 Når skal du kjøpe aksjer? Når aksjer og aksjefond markedsføres på det heteste er mange interesserte i å kjøpe og aksjekursene er høye.
