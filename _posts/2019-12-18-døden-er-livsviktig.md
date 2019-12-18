@@ -13,7 +13,7 @@ tags:
 title: Døden er livsviktig
 excerpt: Boken er en samling foredrag av lege og psykiater Elisabeth Kübler-Ross.
 image: "/assets/images/IMG_2808-1.JPG"
-image_caption: "Illustrasjonsfoto \"Sverd i fjell\" fra Stavenger \nGunnar Christensen"
+image_caption: "Illustrasjon \"Sverd i fjell\" fra Stavanger. \nFoto Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
