@@ -14,7 +14,8 @@ excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 199
 image: "/assets/images/siv.jpg"
 image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/boker.md
 publish_date: 
 weight: 5
 
