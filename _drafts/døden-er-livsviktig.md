@@ -8,6 +8,8 @@ tags:
 - Elisabeth Kubler Ross
 - døden
 - dødsangst
+- psykologi
+- medisin
 title: Døden er livsviktig
 excerpt: Boken er en samling foredrag av lege og psykiater Elisabeth Kübler-Ross.
 image: "/assets/images/IMG_2808-1.JPG"
