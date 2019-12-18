@@ -51,8 +51,8 @@ Vi ventet lenge i tempelets bakgård. Endelig viser Gudinnen seg på en balkong 
 
 ![](http://www.helping.no/tempel.jpg)
 
-Foto Gunnar Christensen: Tempelet Pasupati utenfor Kathmandu  
-der likbrenning finner sted.
+_Foto Gunnar Christensen: Tempelet Pasupati utenfor Kathmandu  
+der likbrenning finner sted._
 
 I hjertet av gamlebyen Kathmandu ruver Hanuman Dhoka det gamle, kongelige palasset omgitt av karakteristiske templer en betydningsfull kulturskatt av internasjonal klasse, bygd i treverk. Blant tempelbygningene finnes vakre dekorasjoner erotisk kunst. Kunstferdig skåret ut i tre dekorert med farger.
 
