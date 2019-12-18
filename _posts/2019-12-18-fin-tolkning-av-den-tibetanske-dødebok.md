@@ -23,10 +23,14 @@ publish_date:
 weight: 5
 
 ---
-Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har de fleste glemt dette skattekammer av en bok for dem som ønsker større innsikt i og kunnskap om dødens mysterier. 
+Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har de fleste glemt dette skattekammer av en bok for dem som ønsker større innsikt i og kunnskap om dødens mysterier.
 
 I denne boka tolker Sogyal Rinpoche "Den Tibetanske Dødebok" og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen innsiktsfulle skriftlige kilder som gir kunnskap om dødens mysterier.
 
 Dalai Lama skriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man skal hjelpe de døende og de døde."
 
 Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
+
+Tips om hvor denne boka finnes:   
+Biblioteket og bruktbutikker. Kanskje den finnes på et buddhist-senter? Den finnes på engelsk og kan bestilles fra utenlandske bokshopper.  
+www.helping.no har sluttet å selge bøker så vi har lager av den.
