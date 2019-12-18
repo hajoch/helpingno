@@ -10,8 +10,8 @@ excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 199
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
   skattkammer av kunnskap om døden fra en mer enn 2500 år gammel tradisjon innen Tibetansk
   religion.'
-image: ''
-image_caption: ''
+image: "/assets/images/siv.jpg"
+image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
