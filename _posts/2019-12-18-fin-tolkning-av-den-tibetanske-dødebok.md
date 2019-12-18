@@ -6,6 +6,8 @@ tags:
 - bok
 - tibetanske dødeboken
 - Buddhisme
+- litteratur
+- visdom
 title: 'Fin tolkning av Den Tibetanske Dødebok:'
 excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 1996.
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
