@@ -33,4 +33,4 @@ Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker
 
 **Tips om hvor denne boka finnes:**   
 Biblioteket og bruktbutikker. Kanskje den finnes på et buddhist-senter? Den finnes på engelsk og kan bestilles fra utenlandske bokshopper.  
-www.helping.no har sluttet å selge bøker så vi har lager av den.
+www.helping.no har sluttet å selge bøker så vi har ikke lager av den.
