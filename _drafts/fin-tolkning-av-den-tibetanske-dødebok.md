@@ -8,7 +8,8 @@ tags:
 title: 'Fin tolkning av Den Tibetanske Dødebok:'
 excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 1996.
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
-  skattkammer av kunnskap om døden fra en mer enn 2500 år gammel tradisjon.'
+  skattkammer av kunnskap om døden fra en mer enn 2500 år gammel tradisjon innen Tibetansk
+  religion.'
 image: ''
 image_caption: ''
 author: _authors/gunnar-christensen.md
@@ -17,9 +18,10 @@ publish_date:
 weight: 5
 
 ---
+Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har de fleste glemt dette skattekammer av en bok for dem som ønsker større innsikt i og kunnskap om dødens mysterier. 
 
-Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har de fleste glemt dette skattekammer av en bok for dem som ønsker større innsikt i og kunnskap om dødens mysterier. I denne boka tolker Sogyal Rinpoche "Den Tibetanske Dødebok" og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen innsiktsfulle skriftelige kilder som gir kunnskap om dødens mysterier.
+I denne boka tolker Sogyal Rinpoche "Den Tibetanske Dødebok" og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen innsiktsfulle skriftlige kilder som gir kunnskap om dødens mysterier.
 
-Dalai Lama sikriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man skal hjelpe de døende og de døde."
+Dalai Lama skriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man skal hjelpe de døende og de døde."
 
-Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapitel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
+Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
