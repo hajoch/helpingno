@@ -12,8 +12,8 @@ tags:
 title: 'Fin tolkning av Den Tibetanske Dødebok:'
 excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 1996.
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
-  skattkammer av kunnskap om døden fra en mer enn 2500 år gammel tradisjon innen Tibetansk
-  religion.'
+  skattkammer av kunnskap om livet og døden fra en mer enn 2500 år gammel tradisjon
+  innen Tibetansk religion.'
 image: "/assets/images/siv.jpg"
 image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/gunnar-christensen.md
