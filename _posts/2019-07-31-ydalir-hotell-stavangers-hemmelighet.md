@@ -33,6 +33,8 @@ Flere utlendinger enn nordmenn ser ut til å ha funnet denne idyllen. Og de er o
 
 Fra øverste etasje har du utsikt til Hafrsfjord der de tre gigantiske sverdene står plantet til minne om slaget som samlet Norge til ett rike. Offisielt ble minnesmerket åpnet av kong Olav 5 i 1983.
 
+![](/assets/images/IMG_2808-1.JPG)
+
 Hotellets navn Ydalir er fra vikingtidens mytologi og angir bostedet til vinter-og  jaktguden Ull. Ullandhaug er oppkalt etter nettopp denne guden.
 
 Mange tror hotellet er kun for gjester og forelesere ved Universitetet her på Ullandhaug siden det ligger på Universitetsområdet i Stavanger. Hotellet er imidlertid åpent for alle og har fri parkering. Hotellet presenterer seg slik: “Ydalir er et banebrytende samfunnsansvarlig hotell med luksuriøse rom og ansatte som elsker sitt arbeid. Hotellet setter standarden for Campushotell i Skandinavia”
