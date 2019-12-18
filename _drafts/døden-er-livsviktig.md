@@ -13,7 +13,8 @@ excerpt: Boken er en samling foredrag av lege og psykiater Elisabeth Kübler-Ros
 image: "/assets/images/IMG_2808-1.JPG"
 image_caption: "Illustrasjonsfoto \"Sverd i fjell\" fra Stavenger \nGunnar Christensen"
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/boker.md
 publish_date: 
 weight: 3
 
