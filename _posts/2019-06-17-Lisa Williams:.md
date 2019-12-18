@@ -52,8 +52,8 @@ Lisa Williams siste bokutgivelse: "Survival of the Soul". Boka beskriver hva som
 \- Vi må leve et spirituelt liv fordi vi har en jord, vi har en spirituell verden og et univers som vi er en del av. Vi er her for å vokse, lære, hjelpe jorden og ikke minst hjelpe hverandre - selv om dette ikke alltid skjer. Vi er her av en grunn. Det dreier seg om bevisst å være her: Læringsprosessen vår er at vi skal erfare og lagre i våre erfaringer i sjelen slik at vi bygger opp et erfaringsmateriale som blir med oss videre etter livet og videre. Vår sjel har en stor mengde kunnskap som vi har samlet gjennom flere liv og som er en stor og verdifull kunnskapskilde. Når vi lærer oss å få bedre tilgang til denne kunnskapen sjelen vår har så er vi mer på linje med vår høyere åndelige mål. Opplevelsen av liv og død er syklisk. Det hele minner mye om det som beskrives i de indiske religionene som "Samsara".
 
 **Livslinjen**  
-**- Hvorfor trenger vi denne sølvtråden i en ute av kroppen opplevelse?  
-**- Sølvtråden er vår livslinje. Hvis det blir brudd på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
+\**- Hvorfor trenger vi denne sølvtråden i en ute av kroppen opplevelse?  
+\**- Sølvtråden er vår livslinje. Hvis det blir brudd på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
 
 **Åndelig hierarki**  
 \- **Du beskriver i boka mange nivåer på den andre siden og et stort hierarki av funksjoner og åndelige veiledere. Er det mulig å gå seg vill her?**
@@ -110,3 +110,9 @@ I boka forteller du om den åndelige hovedguiden vår som snakker til oss med en
 Opptakeren er slått av. Det tar litt tid å summe seg etter dette intervjuet på tak restauranten av Grand Hotell i Oslo. Jeg føler meg litt omtåket, forvirret sammen med en behagelig ro. Gradvis blir jeg klar over trafikken nede på Karl Johan og klokkeverket i Rådhustårnet.
 
 Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det må være slik de føler det - alle dem som nå får "kontakt" på alle hennes show.
+
+**Bok av Lisa Williams:**  
+**"Livet blant de døde". Cappelen Damm AS**  
+ **2009, 254 sider og senere utgaver..**
+
+Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en skjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større vikrlighet enn den bevisthen vi opererer med i våre liv. Det er ikke mulig å tro at alt er sllutt med døden etter et møte med henne.
