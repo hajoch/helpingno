@@ -8,8 +8,8 @@ tags:
 - Felleskatalogen
 title: Titt legen i kortene
 excerpt: 'Nå kan du selv sjekke bivirkninger av medisinene '
-image: "/assets/images/helseaksj.jpg"
-image_caption: Motiv fra Skagen. Foto Gunnar Christensen
+image: "/assets/images/IMG_2754.JPG"
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
