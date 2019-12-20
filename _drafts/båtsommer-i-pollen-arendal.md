@@ -18,3 +18,6 @@ publish_date:
 weight: 4
 
 ---
+![](https://www.helping.no/sob5.jpg)
+
+![](https://www.helping.no/batmesse37.jpg)
