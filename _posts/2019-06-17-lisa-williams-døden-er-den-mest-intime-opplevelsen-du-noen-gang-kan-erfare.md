@@ -76,6 +76,6 @@ Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "
 
 Bok av [**Lisa Williams**](http://helping.no/lisawilliams.htm)**:**  
 **"Livet blant de døde". Cappelen Damm AS**  
- **2009, 254 sider og senere utgaver..**
+**2009, 254 sider og senere utgaver..**
 
 Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en sjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der er et liv etter døden og at vi er del av en større virkelighet enn den bevisstheten vi opererer med i våre liv. Det er ikke mulig å tro at alt er slutt med døden etter et møte med henne.
