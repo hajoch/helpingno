@@ -21,7 +21,7 @@ image: "/assets/images/sob6.jpg"
 image_caption: Foto Christoffer Jore Christensen
 author: _authors/christoffer-jore-christensen.md
 categories:
-- _category/foto.md
+- _category/båt.md
 publish_date: 
 weight: 4
 
