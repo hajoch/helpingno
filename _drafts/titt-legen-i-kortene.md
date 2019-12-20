@@ -8,7 +8,7 @@ tags:
 - Felleskatalogen
 title: Titt legen i kortene
 excerpt: Nå kan du selv sjekke hva bivirkninger medisinene di
-image: ''
+image: "/assets/images/helseaksj.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
