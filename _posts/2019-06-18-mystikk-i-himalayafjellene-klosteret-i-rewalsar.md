@@ -63,6 +63,8 @@ En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk la
 
 ![](https://www.helping.no/rewalsar.jpg)
 
+_Foto Gunnar Christensen, redigert av Henning Jon Grini._
+
 Det berømte fotavtrykket i fjellet er like ved: Etter sagnet skal Guru Rinpoche ha sparket ifra på dette stedet i fjellet...... Fotavtrykket teller omkring 40 cm i lengde fra tåspiss til hel.
 
 En kø av pilegrimer ønsker å kjenne energistrømmene i fortavtrykket....
