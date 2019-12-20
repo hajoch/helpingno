@@ -7,7 +7,7 @@ tags:
 - medisiner
 - Felleskatalogen
 title: Titt legen i kortene
-excerpt: 'Nå kan du selv sjekke hva bivirkninger medisinene '
+excerpt: 'Nå kan du selv sjekke bivirkninger av medisinene '
 image: "/assets/images/helseaksj.jpg"
 image_caption: Motiv fra Skagen. Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
