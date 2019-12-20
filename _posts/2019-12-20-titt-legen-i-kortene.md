@@ -6,6 +6,8 @@ tags:
 - helse
 - medisiner
 - Felleskatalogen
+- bivirkninger
+- lege
 title: Titt legen i kortene
 excerpt: 'Nå kan du selv sjekke bivirkninger av medisinene '
 image: "/assets/images/IMG_2754.JPG"
