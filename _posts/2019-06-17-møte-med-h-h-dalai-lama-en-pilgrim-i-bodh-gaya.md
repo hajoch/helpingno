@@ -52,7 +52,7 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 
 ![](http://www.helping.no/mahaboditemple.jpg)
 
-Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier. Foto Gunnar Christensen.
+_Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier. Foto Gunnar Christensen. Redigert av Henning Jon Grini._
 
 Dalai Lama gir audiensen for de europeiske pilegrimene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilegrimene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
 
@@ -79,7 +79,6 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
 
-  
 **Slik ser han ut i 2019 - 40 år og en Nobels fredspris senere.**
 
 ![](http://www.helping.no/dalailama8.jpg)[  
