@@ -12,6 +12,8 @@ tags:
 - Arendal
 - Pollen
 - sesong
+- sommeridyll
+- sommerbyen
 title: Båtsommer i Pollen, Arendal
 excerpt: 'Sommeren er båtsesong og mange samles i Pollen under utstillinger og fellesferie
   for å se og bli sett. '
