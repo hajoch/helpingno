@@ -17,7 +17,7 @@ image_caption: Pantheon tempelet ble bygget 118 - 125 e.kr. av keiser Hadrian. F
   Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 5
 
