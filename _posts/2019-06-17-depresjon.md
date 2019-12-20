@@ -17,10 +17,10 @@ title: Depresjon
 excerpt: Der er mange veier ut av depresjonen.Du kan selv gjøre mye.Her er noen råd
   som kanskje kan hjelpe deg?
 image: "/assets/images/jan.2.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
-publish_date: 2019-09-30 00:00:00 +0200
+publish_date: 
 weight: 5
 
 ---
@@ -65,7 +65,7 @@ En god øvelse å gjøre hver dag er så enkel: Sett deg ned et rolig sted. Lukk
 
 En annen øvelse er å starte dagen med å tenke gjennom alt du har å være takknemlig for. Når du står opp og gjør de daglige forberedelser til dagen som å dusje, børste tennene etc. så tenk og føl på alt som er positivt for deg i livet ditt. Start således hver ny dag med å tenke på noe du er takknemlig for. Takknemlighet fjerner depresjon og skaper positivitet.
 
-Tenker du etter så finner du mye du kan være takknemlig for. Tenk på det du er takknemlig for så ofte du kan. Eller skriv ned noe du er takknemlig for hver dag i en dagbok. Eller legg en ting i lommen - for eksempel en liten stein: Hver gang du tar i steinen så tenk på noe du er takknemlig for. Ikke bare husk på det du er takknemlig for: Føl på deg denne takknemligheten - se det for deg. Dette øker din positivitet omkring livet ditt, du tenker flere og flere positive tanker og gradvis blir depresjonen borte. 
+Tenker du etter så finner du mye du kan være takknemlig for. Tenk på det du er takknemlig for så ofte du kan. Eller skriv ned noe du er takknemlig for hver dag i en dagbok. Eller legg en ting i lommen - for eksempel en liten stein: Hver gang du tar i steinen så tenk på noe du er takknemlig for. Ikke bare husk på det du er takknemlig for: Føl på deg denne takknemligheten - se det for deg. Dette øker din positivitet omkring livet ditt, du tenker flere og flere positive tanker og gradvis blir depresjonen borte.
 
 **Skrive:**  
 Skriv ned dine tanker. Etterpå kan du brenne det du har skrevet eller la det ligge i en skuff til senere. Poenget er å skrive ned problemene. Dette kan være en form for avreagering eller å legge problemer fra seg.
@@ -81,6 +81,8 @@ En norsk undersøkelse ved Universitetet i Oslo viser at depresjon er vanligere 
 Ikke tro at piller eller rus kan hjelpe deg. Rus gjør alt så mye verre.
 
 **Søk nærhet - ta kontakt:**
+
+![](http://www.helping.no/februar1.jpg)
 
 Depresjon fører ofte til at du isolerer deg fordi du ikke har overskudd til å være sosial. Likevel . Ikke isoler deg. Kontakt med andre mennesker er viktig for å komme ut av depresjonen. Søk de vennene som du opplever som mest positive. Ikke snakk bare om depresjon med dem, men mest om positive temaer.
 
