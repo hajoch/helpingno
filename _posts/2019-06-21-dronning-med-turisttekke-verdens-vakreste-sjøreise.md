@@ -46,3 +46,5 @@ I sommersesongen ansetter rederiene reiseledere. Ofte er dette studenter med god
 I turistsesongen fra mai og ut september gjør hurtigrutene oftest små "avstikkere" så turistene får se Trollfjorden, hullet i Torghatten, fuglefjellet Sværholdtklubben, De syv Søstre, Peter Dasskirken med flere. Stadig passeres naturlandskaper som i sommersol eller midnattssol fortoner seg som en eventyrlig naturopplevelse.
 
 De fleste turistene kommer fra USA, Canada, Storbritannia, Tyskland og Frankrike. Australiere, italienere, sveitsere, svensker og nordmenn er i mindretall blant rundreisepassasjerene. Nordmenn flest fra Syd-Norge valfarter til "Syden" og ikke til disse nordligste naturherlighetene som utenlandske turister står i kø for å oppleve. Etter NRK 2 sitt innslag om hurtigruten i 2011 er det øket interesse for denne fantastiske sjøreisen.
+
+![](http://www.helping.no/bergen2.jpg)
