@@ -6,11 +6,17 @@ tags:
 - sjø
 - båt
 - båtliv
+- utstilling
+- sommeraktivitet
+- Sørlandet
+- Arendal
+- Pollen
+- sesong
 title: Båtsommer i Pollen, Arendal
 excerpt: 'Sommeren er båtsesong og mange samles i Pollen under utstillinger og fellesferie
   for å se og bli sett. '
 image: "/assets/images/sob6.jpg"
-image_caption: ''
+image_caption: Foto Christoffer Jore Christensen
 author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/foto.md
