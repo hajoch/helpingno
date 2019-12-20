@@ -9,7 +9,7 @@ tags:
 title: Titt legen i kortene
 excerpt: Nå kan du selv sjekke hva bivirkninger medisinene di
 image: "/assets/images/helseaksj.jpg"
-image_caption: ''
+image_caption: Motiv fra Skagen. Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
