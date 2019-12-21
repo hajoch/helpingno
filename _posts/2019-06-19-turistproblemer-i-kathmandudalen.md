@@ -10,6 +10,8 @@ tags:
 - turister
 - tigging
 - hindusamfunn
+- kulturskatter
+- verdensarv
 title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønnsgrupper i samfunnet:'
@@ -26,11 +28,19 @@ Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer temp
 
 Kathmandudalen i Nepal er et kulturelt skattekammer hvor mange såkalte "pakketurister" får svært knapp tid på seg til å oppleve de fantastiske byggverkene og det yrende folkelivet i dalens tre byer: Kathamandu, Patan og Bhadgaon.
 
+![](http://www.helping.no/templene.jpg)
+
+_Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. Foto Gunnar Christensen_
+
 Mange turister kommer til de severdige stedene i grupper med reiseleder: Får knapp tid til å utforske området etter guidens oppramsing. Så neste. Rundt dem kryr tiggere, selgere, skopussere. Fattige mennesker. De har lært at turistene kommer og reiser raskt og at de derfor ikke lærer seg prisene i dette samfunnet.
 
 Tilbudene fra alle kanter kan virke gode etter våre vestlige beregninger og verdiskalaer. Men etter nepalsk målestokk kan de være flere hundre prosent over. Så betales det forlangende ofte uvitende om prutningsmonn. Salg og kjøps forhandlinger er vanlig her, men historie i mange sammenhenger i Norge på detaljplan.
 
 Pytt, om en blir litt lurt i en handel, så betraktes det helst som uhjelp. Da har ingen tatt skade av det! Når vi derimot vet at flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn lavtlønnsgrupper i samfunnet, begynner imidlertid gavmildheten å få uante konsekvenser. Det lønner seg å tigge i Kathmandu og tigging øker derfor i omfang. Barn blir fort grepet av tigging og skolegang og andre viktige sysler må vike. Det er derfor betenkelig å gi barn som tigger.
+
+.![](http://www.helping.no/skatter.jpg)
+
+_Foto Gunnar Christensen. Vakre detaljer fra dekorasjonene i tempelbyen Kathmandu._
 
 Tiggere har sin naturlige plass i et hindusamfunn og fungerer som del av dette også uten turistene: Selv hinduer med små inntekter gir til tiggere fordi dette gir giveren en velsignelse i følge hindutroen.
 
