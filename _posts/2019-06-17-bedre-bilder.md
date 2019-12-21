@@ -21,7 +21,7 @@ image: "/assets/images/nov.14.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/foto.md
-publish_date: 2019-07-03T22:00:00.000+00:00
+publish_date: 
 weight: 7
 
 ---
@@ -82,4 +82,4 @@ deg gode ideer. Men glem ikke å være på vakt: Det perfekte motiv kan plutseli
 Ingen har noen gang klaget over for mange bilder av barna da de var små. Ingen har noen gang klaget over for mange bilder av besteforeldre som er gått bort. Ingen har noen gang klaget over for mange bilder fra turen til Paris, London o.s.v..
 
 Bilder er en verdifull minneskatt som alle setter pris på. En dokumentasjon av tiden som er gått. En ressurs til glede og ettertanke. Ta heller for mange enn for få bilder. Digitalkameraet gir sjenerøse muligheter til å  
-ta mange bilder uten store kostnader. Lagrings-brikkene blir stadig bedre og lagrer stadig mer.
+ta mange bilder uten store kostnader. Lagring-brikkene blir stadig bedre og lagrer stadig mer.
