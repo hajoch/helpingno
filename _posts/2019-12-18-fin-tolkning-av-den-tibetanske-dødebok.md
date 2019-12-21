@@ -27,10 +27,14 @@ Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har d
 
 I denne boka tolker Sogyal Rinpoche "Den Tibetanske Dødebok" og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen innsiktsfulle skriftlige kilder som gir kunnskap om dødens mysterier.
 
+![](http://www.helping.no/stupanepal.jpg)
+
+_Foto Gunnar Christensen: Swoyambhu like utenfor Kathamndu i Nepal er verdens største Stupa. Her møtes tibetanske buddhister og turister._
+
 Dalai Lama skriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man skal hjelpe de døende og de døde."
 
 Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
 
-**Tips om hvor denne boka finnes:**   
+**Tips om hvor denne boka finnes:**  
 Biblioteket og bruktbutikker. Kanskje den finnes på et buddhist-senter? Den finnes på engelsk og kan bestilles fra utenlandske bokshopper.  
 www.helping.no har sluttet å selge bøker så vi har ikke lager av den.
