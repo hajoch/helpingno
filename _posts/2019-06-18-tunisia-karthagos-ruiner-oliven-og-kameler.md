@@ -10,6 +10,11 @@ tags:
 - Afrika
 - MIddalhavet
 - badeferie
+- strand og sol ferier
+- Tunisia
+- olivenlunder
+- magedans
+- marked
 title: Tunisia - Karthagos ruiner, oliven og kameler.
 excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet den
   romerske politikeren Marcus Porcius Cato hvert innlegg han hadde fra talerstolen
