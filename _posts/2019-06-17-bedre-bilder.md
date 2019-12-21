@@ -73,6 +73,8 @@ Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? 
 
 Da kan det være bra å ha med mer enn ansiktet på hovedpersonen. For eksempel bakeren med bakerlue og et brød eller den første skoledagen i klasserommet eller sammen med læreren.
 
+![](https://www.helping.no/skog.jpg)
+
 Mulighetene er mange. God planlegging kan gi  
 deg gode ideer. Men glem ikke å være på vakt: Det perfekte motiv kan plutselig være der.
 
