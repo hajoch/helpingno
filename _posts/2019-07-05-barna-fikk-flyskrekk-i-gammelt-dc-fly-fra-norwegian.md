@@ -7,6 +7,8 @@ tags:
 - Norwegian
 - familieferie til Roma
 - rutefly
+- DC8
+- Boeing 737
 title: Barna fikk flyskrekk i gammelt DC-fly fra Norwegian.
 excerpt: Kun det sikreste alternativet er godt nok når hele familien skal til Roma
   i påsken - da prisene er på det høyeste. Norwegian markedsfører seg med nye fly
@@ -17,11 +19,13 @@ image_caption: Illustrasjonsbilde
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-07-04T22:00:00.000+00:00
+publish_date: 
 weight: 2
 
 ---
-Vi betalte den gang for reise i en ny Boeing 737, men fikk uten forvarsel et nedslitt gammelt DC 8 eller 9-fly. Og bortkommet koffert på Roma-ferie.  
+Vi betalte den gang for reise i en ny Boeing 737, men fikk uten forvarsel et nedslitt gammelt DC 8 fly. (DC-8 fløy første gang 1958 og ble produsert til 1972.)
+
+Og bortkommet koffert på Roma-ferie.  
 OBS! Dette var før Boeing Max 8 skandalen.
 
 **Gammelt nedslitt DC-fly**  
