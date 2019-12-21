@@ -44,6 +44,10 @@ Få kan kjøpe seg vestens ting, men fristelsene er der og økt kriminalitet er 
 
 Poppmusikken har kommet til Kathmandu. Vestens poppmusikk markedsføres og spilles i kafeer og andre offentlige steder. Den gamle lokale folkemusikken bryr ungdommen seg ikke om.
 
+![](http://www.helping.no/patannepal.jpg)
+
+_Foto Gunnar Christensen: Durbar Square i Patan har mange turstmagneter._
+
 Den stolte og vakre byggekulturen i Kathmandudalen har oftest ingen verdi for den jevne nepaleres annet enn at den bidrar til å skaffe stedet turister. Unntak fra dette er hindutempler som er i bruk og ofte uten adgang for turister. Nepal har ikke midler til å redde de mange vakre bygningene med utallige treutskjæringer.
 
 Landet er fastlåst i et sosialt system som tillater en enorm klasseforskjell. Få rike og utallige fattige på det laveste eksistensminimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge byggekulturen mener mange. Dog det ser smått ut med begge deler.
