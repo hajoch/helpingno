@@ -12,6 +12,8 @@ tags:
 - fotografering
 - bevare minner
 - kunsten å fotografere
+- motivet
+- se etter detaljer
 title: Ta bedre bilder
 excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
