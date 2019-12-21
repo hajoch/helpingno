@@ -123,3 +123,5 @@ Husk å sjekke om båten/motoren du kjøper er registrert på den som selger den
 Vær våken og ta deg god tid når du kjøper båt. Spør selger om historikk på båten, tidligere skader og reparasjoner m.m.. Ta gjerne med deg en du kjenner som kan mer om båt enn deg og som i tillegg kan være vitne til handelen.
 
 Ha en god båtsesong.
+
+![](http://www.helping.no/juli.03.JPG)
