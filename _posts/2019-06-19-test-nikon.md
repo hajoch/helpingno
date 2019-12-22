@@ -10,10 +10,10 @@ tags:
 - digital
 - digitalt kamera
 - systemkamera
-title: 'Test: Nikon digitalt speilrefleks'
-excerpt: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for langtidstest.
+title: Nikon digitalt speilrefleks
+excerpt: 'Test: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for langtidstest.
   Mange av bildene våre er tatt med disse testkameraene. Et ypperlig kamera sett i
-  forhold til prisen.
+  forhold til prisen.'
 image: "/assets/images/nikondk1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
@@ -73,6 +73,8 @@ kr. 399,-. Dette er en uhørt høy pris på en så enkel konstruksjon - nærmest
 Vi har valgt en gummisolblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilbake ved vidvinkelfotografering. Kamara med fast brennvidde har ofte solblendere av metall. Det fulgte med matallsolblender i prisen på Nikkor 18-105 f.3,5-4,5 - objektivet.. I likhet med filteret beskytter solblendere linsen mot støtskader og gir i mange situasjoner bedre bilder.
 
 **Helping hjelper deg med Nikon-modellene**
+
+![](https://www.helping.no/nikond3100.jpg)
 
 De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine. Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.
 
