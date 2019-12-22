@@ -23,8 +23,8 @@ publish_date:
 weight: 8
 
 ---
-###### Kjøpe båt i Sverige?  
-  
+###### Kjøpe båt i Sverige?
+
 Båtkjøp i Sverige kan lønne seg. Flere har beregnet prisgevisnt på egen import av ny båt fra utlandet: Sjekk derfor prisene i Sverige - kanskje du kan oppfylle båtdrømmen billigere enn du trodde?
 
 Når du kjøper ny båt i Sverige får du refundert den svenske momsen, men må betale norsk moms og hk-avgift på den norske grensen.
@@ -51,7 +51,8 @@ Ofte får du båthenger med på kjøpet i USA. Kjøper du båt sammen med andre 
 
 Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
 
-##### Tips fra leser:  
+##### Tips fra leser:
+
 Importer AMT fra Finland
 
 Hei,  
@@ -59,6 +60,8 @@ jeg ser at du er misfornøyd med at det ikke går an å kjøpe AMT uten motor. D
 Med vennlig hilsen T. W.
 
 Link AMT: [http://www.amt-veneet.fi/index.php?l=en](http://www.amt-veneet.fi/index.php?l=en "http://www.amt-veneet.fi/index.php?l=en")
+
+![](https://www.helping.no/b08.2.jpg)
 
 **Ikke kjøp båt med treverk fra fredet regnskog!**  
 Vi kjenner alle til at regnskogen i Sør-Amerika er avgjørende viktig for jordklodens helsetilstand: Denne grønne lungen ved Amazonas renser store mengder forurenset luft og hele klodens helsetilstand er avhengig av denne såkalte fotosyntesen i dette store skogområdet. Skogen er vårt eneste vern mot forurensningen som alt er sluppet ut: Mer forurensning fører til flere naturkatastrofer og ekstremvær.
