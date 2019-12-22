@@ -13,7 +13,7 @@ tags:
 title: Nikon digitalt speilrefleks
 excerpt: 'Test: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for langtidstest.
   Mange av bildene våre er tatt med disse testkameraene. Et ypperlig kamera sett i
-  forhold til prisen.'
+  forhold til vekt og pris.'
 image: "/assets/images/nikondk1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
