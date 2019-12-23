@@ -30,6 +30,8 @@ weight: 2
 
 Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Peterplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 
+![](http://www.helping.no/vati2.jpg)
+
 Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet inn i verdens mest berømte kirke. Køene er enorme både utenfor og inne i Peterskirken.
 
 Innerst i kirken er en messe i gang. Unge, sortdressende sikkerhetsvakter stopper meg: "Not for tourists". Bare italiensktalende slipper inn til messen i Petererskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
