@@ -26,6 +26,8 @@ weight: 9
 ---
 **Presseomtale av: Albert Henrik Mohn**
 
+![](http://www.helping.no/6.jpg)
+
 I de siste årene har vi fått en rekke minoritetsgrupper i landet vårt. Pakistanere og vietnamesere er to av dem. Begge kommer fra sørlige breddegrader og er preget av religion og kultur temmelig forskjellig fra vår egen. Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
 
 Toleranse vokser ikke sjelden ut av forståelse. Med rette legges det derfor stor vekt på dette i Mønsterplanen for ungdomsskolen. Men oppfylles de gode forsettene?
