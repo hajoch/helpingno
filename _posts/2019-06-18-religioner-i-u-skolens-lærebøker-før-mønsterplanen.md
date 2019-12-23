@@ -46,6 +46,8 @@ Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra
 
 Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
 
+![](http://www.helping.no/skandalestor.jpg)
+
 **Last ned gratis bok:**  
 **-** Klikk [her](http://www.helping.no/skandale.htm) om du ønsker en **printervennlig** utgave. (Her får du hele boken på en side.)
 
