@@ -41,6 +41,8 @@ Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp f
 
 De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. Som å vandre i et populært og vakkert museum. Peterskirken tar ikke inngangsbillett.
 
+![](http://www.helping.no/peterspl.jpg)
+
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
