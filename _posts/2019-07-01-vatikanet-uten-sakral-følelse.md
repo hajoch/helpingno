@@ -56,10 +56,12 @@ Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatik
 En liten suvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
 
-Også gateselgernes utvalg utenfor preges av Peterskirken.
-
-Vatikanstaten preges nå av en positiv oppmerksomhet verden over. Også fra miljøer som vanligvis ikke er opptatt av Vatikanet eller paven. Pave Frans fikk en drømmestart på sin gjerning som pave i den katolske kirke. Han blir av mange regnet som den mest folkekjære paven på lenge og blir hyllet for sitt engasjement bl.a. for fattige. Han har også satt i gang reformer innad i Vatikanet, noe som har gjort han upopulær blant noen av dem som i lang tid har nytt godt av de ekstreme godene.  Men også han har måttet slite med anklager om overgrep av vatikanets prester og andre geistlige i kirken.
-
 ![](https://www.helping.no/vati2.jpg)
 
+Detalj fra inni Peterskirken
+
 ![](http://www.helping.no/vat7.jpg)
+
+Også gateselgernes utvalg preges av Peterskirken.
+
+![](http://www.helping.no/roma4.jpg)
