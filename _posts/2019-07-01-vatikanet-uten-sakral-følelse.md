@@ -30,7 +30,7 @@ weight: 2
 
 Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Peterplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 
-Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet inn i verdens mest berømte kirke. Køene er enorne både utenfor og inne i Peterskirken.
+Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet inn i verdens mest berømte kirke. Køene er enorme både utenfor og inne i Peterskirken.
 
 Innerst i kirken er en messe i gang. Unge, sortdressende sikkerhetsvakter stopper meg: "Not for tourists". Bare italiensktalende slipper inn til messen i Petererskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
 
@@ -46,6 +46,8 @@ De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. S
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shoppene: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
+
+![](http://www.helping.no/vat2.jpg)
 
 En liten suvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
