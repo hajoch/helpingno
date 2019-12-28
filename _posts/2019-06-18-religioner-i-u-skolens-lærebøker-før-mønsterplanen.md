@@ -86,4 +86,4 @@ Virkeligheten i Norge er ikke slik at forfattere kan velge og vrake blant forlag
 Forfatteren Gunnar Christensen er takknemlig for at er lite forlag som den gang het Ildsjelen ville ta på seg å gi ut boka selv om den ikke er en alternativ bok.
 
 **Hvorfor gratis bøker?**  
-Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel. Forfatteren vil helst bli lest så lenge som mulig etter utgivelsen. De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med småforlag. Dette systemet gjør at du går glipp av mange flotte bøker.
+Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel. Forfatteren vil helst bli lest så lenge som mulig etter utgivelsen. De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med små forlag. Dette systemet gjør at du går glipp av mange flotte bøker.
