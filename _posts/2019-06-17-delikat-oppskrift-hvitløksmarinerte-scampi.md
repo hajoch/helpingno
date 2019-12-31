@@ -11,7 +11,7 @@ tags:
 - middag
 - lett måltid
 - delikatesse
-title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
+title: Hvitløksmarinerte SCAMPI
 excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smaker
   utmerket inntil. Hvitløksbrød er også godt, og kanskje en flaske rødvin?
 image: "/assets/images/scampi2.jpg"
