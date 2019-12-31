@@ -13,12 +13,12 @@ tags:
 - klarsynt
 - tanker
 - guider
-title: Den nye "Snåsamannen"  er ei vakker ung kvinne
+title: 'Den nye "Snåsamannen" '
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
   ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
-image: "/assets/images/susanne.jpg"
-image_caption: 'Foto: Asbjørn Egir '
+image: "/assets/images/Sunnamed (2).png"
+image_caption: 'Foto: privat'
 categories:
 - _category/helse.md
 publish_date: 
