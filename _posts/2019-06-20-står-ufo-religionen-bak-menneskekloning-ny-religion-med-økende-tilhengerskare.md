@@ -11,10 +11,10 @@ tags:
 - flygende tallerken
 - frelseskikkelse
 - synkretisme
-title: Står UFO-religionen bak menneskekloning? Ny religion med økende tilhengerskare
+title: 'Står UFO-religionen bak menneskekloning? '
 excerpt: |-
   Kloning av menneskebarn i USA og Nederland har tidligere vært i medias søkelys og fokus settes derfor på sekter innen UFO- religionen.
-
+  Ny religion med økende tilhengerskare.
   Hva er UFO-religionen og hva er denne religionens trosgrunnlag?
 image: "/assets/images/ufo (1).jpg"
 image_caption: Illustrasjon
