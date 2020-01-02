@@ -6,7 +6,7 @@ tags: []
 title: Annonse på helping.no.
 excerpt: Ønsker du annonse hos oss - ta kontakt
 image: "/assets/images/Basse (3).jpg"
-image_caption: Helping-maskoten Basse tror du vil annonsere på nye helping.no. Et
+image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Et
   nettsted som har vært på nett siden 2001 og som skiftet design 1. januar 2020. Foto
   Jens Christian Jore Christensen
 author: ''
