@@ -112,4 +112,4 @@ Det dukker stadig opp nye bøker om yoga. Listen er ikke oppdatert på den store
 
 * Boken "De fem tibetanske riter" er en spennende bok om de Yogaøvelsen som har vært brukt i århundrer i Tibetanske klostre og som mange mener er selve "Ungdoms-kilden".
 
-NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.
+**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
