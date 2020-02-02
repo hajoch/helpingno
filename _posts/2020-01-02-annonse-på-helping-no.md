@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-02 18:56:28 +0100
+date: 2020-01-02T17:56:28.000+00:00
 crop_image: true
 tags: []
 title: Annonse på helping.no.
@@ -16,11 +16,12 @@ publish_date:
 weight: 5
 
 ---
-
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
 og begrenser antallet annonser slik at det ikke dominerer sidene våre.
 
 Helping.no har lesere først og fremst der hvor nordmenn bor som i Norge, Skandinavia, Nord Amerika og Syd-Europa. Vi har også internasjonalt besøk.
+
+NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er opp og fungerer.
 
 Kontakt oss: E-post redaksjonen:  
 [helping.red@gmail.com](mailto:helping.red@gmail.com)
