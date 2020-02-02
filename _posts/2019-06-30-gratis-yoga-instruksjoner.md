@@ -63,13 +63,13 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 ![](https://www.helping.no/y4.jpg)
 
 * Øvelse 4  
-  Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster langsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen.   
-    
+  Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster langsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen.
+
   ![](https://www.helping.no/y5.jpg)
 * Øvelse 5  
-  Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben.  
-    
-   ![](https://www.helping.no/y6.jpg)
+  Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben.
+
+  ![](https://www.helping.no/y6.jpg)
 * Øvelse 6  
   Denne øvelsen kalles plogstilling - øvelsene 6 går over i 7: Ligg flatt på ryggen med hendene langs kroppen og håndflatene ned. Løft bena opp i loddrett stilling som vises på figuren over. Støtt så hendene mot hoftene slik figuren viser. Hold bena rett ved ikke å bøye knærne. Bli i denne stillingen noen minutter - og gå så over i øvelse 7.
 
@@ -80,13 +80,13 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
   Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.![](https://www.helping.no/y9.jpg)
 * Øvelse 9  
   Ligg på magen med armene langs siden.Knytt hendene og press dem mot gulvet. Løft deretter bena opp fra gulvet. Husk å rette knærne som vist på figuren. Bli i stillingen noen minutter og la deretter bena synke til gulvet. Hvil på siden etter øvelsen.  
-   ![](https://www.helping.no/y10.jpg)
+  ![](https://www.helping.no/y10.jpg)
 * Øvelse 10  
   Ta utgangspunkt i sittestilling. Strekk ut det høyre benet og bøy det venstre over det høyre. Legg høyre arm støttet mot høyre ben som vist på figuren og strekk venstre arm i en bue fra frontposisjon og bakover mens du følger armens posisjon med blikket som vist på figuren. Kjenn at det gir en fin strekk i ryggen. Bli i posisjonen noen minutter og kom like langsomt tilbake til utgangspunktet. Skift side.  
-   ![](https://www.helping.no/y11.jpg)
+  ![](https://www.helping.no/y11.jpg)
 * Øvelse 11  
   Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.  
-   ![](https://www.helping.no/y12.jpg)
+  ![](https://www.helping.no/y12.jpg)
 * Øvelse 12  
   Sett tommeltotten fra høyre hånd på venstre nesebor. Ta peke-fingeren og langfingeren på pannen mellom øynene. Puste inn til du har telt inni meg til 4. Lukk så nesebor med lillefingeren. Tell til 16. åpne høyre nesebor, tell til 8 - pust ut. Pust inn til 4. Veksle til venstre nesebor og gjør det samme. Bruk hele tiden høyre hånd.
 
