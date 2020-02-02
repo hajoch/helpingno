@@ -50,17 +50,16 @@ Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bok
 
 ![](http://www.helping.no/skandalestor.jpg)
 
-**Last ned gratis bok:**  
-**-** Klikk [her](http://www.helping.no/skandale.htm) om du ønsker en **printervennlig** utgave. (Her får du hele boken på en side.)
+**Last ned gratis bok:   
+(OBS: Funksjonen er midlertidig ute av drift)**
 
-\- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).) (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
+\- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)   
+(PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
 
 **Papirutgave**  
 Skandalebøkene i Ungdomsskolen er også tilgjengelig i papirutgave!  
 Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
 118 sider. Forlaget er utsolgt.
-
-Linkalternativ  for nedlasting: [http://www.helping.no/skandalebokene.htm](http://www.helping.no/skandalebokene.htm "http://www.helping.no/skandalebokene.htm")
 
 **Du kan låne "Skandalebøkene i ungdomsskolen"**  
 på ditt lokale bibliotek ved å oppi bokas data: "Skandalebøkene i ungdomsskolen", Forfatter: Gunnar Christensen  
@@ -70,8 +69,7 @@ ISBN 82-996312-7-0. ildsjelen forlag
 **HIstorikk**  
 "Lærebøkene som kom etter Mønsterplanen i 1974 beskriver de fremmede religionene på en skandaløst dårlig måte." er konklusjonen i denne boka.
 
-Denne boken ble til som en hovedfag-avhandling i religionshistorie ved Universitetet i Bergen i 1982. Da avhandlingen ble kjent vakte den oppsikt. Kronikker om innholdet i avhandlingen ble publisert i Aftenposten, Bergens Tidende, Stavanger Aftenblad m.fl.. Den ble imidlertid ikke gitt ut som  
-bok den gang.
+Denne boken ble til som en hovedfag-avhandling i religionshistorie ved Universitetet i Bergen i 1982. Da avhandlingen ble kjent vakte den oppsikt. Kronikker om innholdet i avhandlingen ble publisert i Aftenposten, Bergens Tidende, Stavanger Aftenblad m.fl.. Den ble imidlertid ikke gitt ut som bok den gang.
 
 Da forlaget Ildsjelen ønsket å gi ut manuskriptet i 2004 hadde boken først og fremst historisk interesse fordi ungdomsskolen hadde fått en nye generasjon lærebøker. Forlaget trykket derfor opp et begrenset antall kopier før lanseringen og baserte seg på en avtale med trykkeriet om å trykke opp flere bøker etter behov. Dette fordi man ikke vurderte boka som en storselger, men en viktig bok for fagpersoner innen undervisning.
 
