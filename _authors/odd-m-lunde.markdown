@@ -17,7 +17,5 @@ Div. sommerjobber og 1. semester som miljøterapeut på Psyk. Akuttavd. Asslegev
 **Privat:**  
 Gift og 3 voksne barn og 2 katter. Friluftsliv, hytte, reiser, akrylmaling og moderat trening er fritidsinteresser.
 
-![](http://www.helping.no/odd.jpg)
-
 NB:  
 Psykiater Odd M. Lunde svarer ikke på spørsmål da det blir behandling.
