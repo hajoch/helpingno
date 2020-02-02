@@ -1,6 +1,6 @@
 ---
 layout: author
-title: Hallvard J. Christensen
+title: Hallvard Jore Christensen
 image: "/assets/images/0.jpg"
 
 ---
