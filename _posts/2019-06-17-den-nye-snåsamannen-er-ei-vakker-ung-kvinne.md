@@ -25,13 +25,13 @@ publish_date:
 weight: 5
 
 ---
-Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne foretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
+Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
 
-Deretter befinner jeg meg på et stort kontor med sort behandlingsbenk, bokhylle og kontorutstyr. Her er intet som minner om alternativ behandling: Modernistisk kunst på veggene. En stor grønn plante i en krok. Kun en liten grønn plante ved vinduet. Ingen røkelse i luften. Ingen bilder av guruer. Ingen musikk til behandlingen.  
+Deretter befinner jeg meg på et stort kontor med sort behandlings benk, bokhylle og kontorutstyr. Her er intet som minner om alternativ behandling: Modernistisk kunst på veggene. En stor grønn plante i en krok. Kun en liten grønn plante ved vinduet. Ingen røkelse i luften. Ingen bilder av guruer. Ingen musikk til behandlingen.  
 Susanne er blid, uformell og snakker fort og lett om behandlingen.
 
 **Klarsynt healer**  
-På sin nettside [www.healersusanne.com](http://www.healersusanne.com/) presenterer hun seg slik: "Jeg er klarsynt healer, og har en naturlig evne til å formidle budskaper og overføre energi som kan fremme en persons vekst og helbredelsesprosess. Som healer kan jeg bidra til å fjerne blokkeringer og ubalanser slik at man kan bli mer i balanse, og dermed mer sunn og vital. Jeg kan hjelpe deg med å øke selvtilfriskningsprosessen og komme på bølgelengde med livskraften i deg selv og universet."
+På sin nettside [www.healersusanne.com](http://www.healersusanne.com/) presenterer hun seg slik: "Jeg er klarsynt healer, og har en naturlig evne til å formidle buskaper og overføre energi som kan fremme en persons vekst og helbredelsesprosess. Som healer kan jeg bidra til å fjerne blokkeringer og ubalanser slik at man kan bli mer i balanse, og dermed mer sunn og vital. Jeg kan hjelpe deg med å øke selvtilfriskningsprosessen og komme på bølgelengde med livskraften i deg selv og universet."
 
 **Tankens kraft er uhyre sterk**  
 Mange mener Susanne nå er en av de viktigste arvtakerne etter "Snåsamannen": Det viser pågangen til behandling hos henne. En pågang som har eksplodert etter at hun ble kjent bl.a. gjennom et intervju i ukebladet Hjemmet.  
@@ -76,7 +76,7 @@ Behandlingen er i gang. Jeg sitter på benken. Hun berører ryggen:
 \- Lukk øynene!  
 Fornemmelsen av energier strømmer på. Nå samtaler hun med guidene sine. Igjen og igjen kommanderer hun dem til å reparere og bedøve forskjellige steder i kroppen. Etter hver kommando knipser hun. Det blir mange knips.  
 Deretter må jeg ligge på ryggen. Øynene mine må fortsatt være lukket.  
-Jeg føler meg behaglig avslappet.  
+Jeg føler meg behagelig avslappet.  
 Plutselig merker jeg hendene hennes et sted over hodet. Hendene hennes lukter som om de er smurt med en form for balsam: Hun sier etterpå at hendene er nyvaskende og denne balsamen kommer ut av hendene hennes på underlig, uforklarlig vis under behandlingen.  
 Deretter over på magen i liggende stilling på benken.  
 Hun fortsetter å tilkalle de beste reparatørene blant guidene og ber dem ta tak i og reparere her og der. Knipser og knipser.
@@ -120,7 +120,7 @@ Susanne peker på vannglasset hun serverte meg ved ankomst;
 \- Ja. Det har jeg.
 
 * Er det begrenset hvor mange pasienter du har kapasitet til å ta hver dag og er kraften like sterk på slutten av dagen som på morgenen?  
-  \- Dagsformen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
+  \- Dags-formen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
 
 **Hva er koden?**  
 \- Der er mange forestillinger omkring det å være healer og veldig mange som gir seg ut for å være healere kanskje på sviktende grunnlag. Mange som prøver healing opplever derfor at healing ikke virker, andre det motsatte. Tror du at dette er noe som er medfødt eller tror du healing kan læres?  
@@ -140,8 +140,8 @@ Susanne serverer mer vann og kaffe. De vakre blå øynene fokuserer igjen på me
 \- Jeg var godt voksen da jeg oppdaget evnene mine, så det har aldri vært nødvendig med noe stimulans der. Heldigvis har jeg en fantastisk familie som er støttende uansett. Min mor er nok mer åpen for det "alternative" enn min far, men begge har vist enorm støtte. Bare det at de stilte opp på "Migrapolis" i NRK-TV sier noe om hvor tøffe de er. I tillegg har jeg en søster og en lillebror som også har vist meg enorm støtte. Det betyr langt i fra at healing er et tema det prates mye om, tvert i mot. Det synes jeg er svært positivt. Det er viktig å ha mennesker rundt seg hvor jeg bare kan være Susanne.
 
 **Australia**  
-\- Hvorfor valgte du først en karriere i næringslivet og hvilken utdannelse tok du?  
-\- Jeg har udannelse fra International Business på Brisbane i Australia og markedskommunikasjon fra BI i Trondheim. Jeg har også tatt noen fag ved Universitetet i Trondheim. Jeg har alltid vært opptatt av å få en god utdannelse, og ønsket meg en karrière hvor jeg kunne utvikle meg til å bli et bevisst selvstendig menneske. Forretningslivet fascinerte meg tidlig, og jeg hadde en fantastisk morfar som var skipsreder. Han var en enorm inspirasjonskilde, og lenge ønsket jeg å gå i hans fotspor. Dette var nok barndoms-drømmen.
+\- Hvorfor valgte du først en karrière i næringslivet og hvilken utdannelse tok du?  
+\- Jeg har utdannelse fra International Business på Brisbane i Australia og markedskommunikasjon fra BI i Trondheim. Jeg har også tatt noen fag ved Universitetet i Trondheim. Jeg har alltid vært opptatt av å få en god utdannelse, og ønsket meg en karrière hvor jeg kunne utvikle meg til å bli et bevisst selvstendig menneske. Forretningslivet fascinerte meg tidlig, og jeg hadde en fantastisk morfar som var skipsreder. Han var en enorm inspirasjonskilde, og lenge ønsket jeg å gå i hans fotspor. Dette var nok barndoms-drømmen.
 
 * Hvilke råd vil du gi til foreldre som oppdager at barnet deres har slike spesielle evner som du har?  
   \- Jeg er ingen ekspert, men var det jeg som havnet i den situasjonen ville jeg ikke oppmuntret til noe som helst. La dem være vanlige barn så lenge som mulig. Det hjelper dem å holde bakkekontakten. Jeg er selv glad for at dette var en verden som jeg kunne oppdaget helt selv. Selvfølgelig skal man vise støtte om barnet opplever noe utenom det vanlige, men jeg synes det er viktig å ikke fokusere for mye på det i tidlig alder. Lytting er det aller viktigste. La aldri barn føle at det de sier er dumt eller uvanlig. Har barnet spørsmål det er vanskelig å svare på, er det ingen problem å si akkurat det. At man ikke er sikker, men at det ikke gjør noe som helst. Man trenger ikke å forstå alt som foregår.
