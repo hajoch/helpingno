@@ -40,7 +40,7 @@ Mange mener Susanne nå er en av de viktigste arvtakerne etter "Snåsamannen": D
 \- Lader du batteriene med hjelp av meditasjon?  
 \- Jeg er verdens mest utålmodige person. Meditasjon passer bare ikke for meg. Jeg gjør ting på en mer "effektiv måte". Tankens kraft er uhyre sterk, og mestrer man det trenger man ikke mange sekundene.  
 \- Hvordan bruker du "tankekraften"?  
-\- På samme måte som i "[The Secret](http://www.helping.no/secret.htm)".
+\- På samme måte som i "The Secret".
 
 **Informasjonen bare kommer**  
 \- Hvordan fanger du opp informasjon om en pasient straks vedkommende kommer inn døra og hva oppdager du ettersom behandlingen pågår?  
