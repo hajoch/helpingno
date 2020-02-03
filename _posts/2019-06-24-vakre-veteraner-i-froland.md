@@ -24,8 +24,6 @@ publish_date:
 weight: 1
 
 ---
-
-  
 ![](http://www.helping.no/veteran14.jpg)
 
 ![](http://www.helping.no/veteran7.jpg)
@@ -41,3 +39,5 @@ weight: 1
 ![](http://www.helping.no/veteran18.jpg)
 
 ![](http://www.helping.no/veteran10.jpg)
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
