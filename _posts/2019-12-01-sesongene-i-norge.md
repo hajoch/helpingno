@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-01 20:23:48 +0100
+date: 2019-12-01T19:23:48.000+00:00
 crop_image: true
 tags:
 - foto
@@ -16,7 +16,7 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date: 2019-12-01 00:00:00 +0100
+publish_date: 2019-11-30T23:00:00.000+00:00
 weight: 4
 
 ---
@@ -95,3 +95,5 @@ Vi har alle et ansvar for å forhindre og begrense forurensning på Jorden og be
 ![](http://www.helping.no/des.9.JPG)
 
 ![](http://www.helping.no/des.1.JPG)
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
