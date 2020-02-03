@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-02 12:11:24 +0100
+date: 2019-12-02T11:11:24.000+00:00
 crop_image: true
 tags:
 - foto
@@ -33,3 +33,5 @@ weight: 3
 ![](http://www.helping.no/gjende5.jpg)
 
 ![](http://www.helping.no/gjende1.jpg)
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
