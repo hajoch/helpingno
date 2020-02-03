@@ -65,3 +65,5 @@ Detalj fra inni Peterskirken
 Også gateselgernes utvalg preges av Peterskirken.
 
 ![](http://www.helping.no/roma4.jpg)
+
+(OBS: Beklager. Vi har nylig skiftet design og alt er ennå ikke på plass, men det kommer)
