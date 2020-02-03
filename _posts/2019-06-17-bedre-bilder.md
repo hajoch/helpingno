@@ -82,3 +82,5 @@ Mulighetene er mange. God planlegging kan gi deg gode ideer. Men glem ikke å v�
 Ingen har noen gang klaget over for mange bilder av barna da de var små. Ingen har noen gang klaget over for mange bilder av besteforeldre som er gått bort. Ingen har noen gang klaget over for mange bilder fra turen til Paris, London o.s.v..
 
 Bilder er en verdifull minneskatt som alle setter pris på. En dokumentasjon av tiden som er gått. En ressurs til glede og ettertanke. Ta heller for mange enn for få bilder. Digitalkameraet gir generøse muligheter til å ta mange bilder uten store kostnader. Lagring-brikkene blir stadig bedre og lagrer stadig mer.
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
