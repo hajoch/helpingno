@@ -38,3 +38,5 @@ weight: 2
 ![](https://www.helping.no/ab2011.0.jpg)
 
 ![](https://www.helping.no/grendi.jpg)
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
