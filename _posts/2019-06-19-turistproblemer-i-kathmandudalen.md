@@ -67,3 +67,5 @@ Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk pri
 De pengene vi "legger igjen" i landet til betaling for varer og tjenester har tilsynelatende større konsekvens for uland enn iland. Det er derfor av betydning at vi tenker over hvordan vi kan "legge igjen" pengene våre i dette landet på en måte som er både vertslandet og oss selv til gode:
 
 Titt litt i tiggerbollen for å se hva er vanlig å gi en tigger. Ha med mye småmynter så det som gies til tiggere kan fordeles på flere. Forhør priser flere steder før større kjøp, men vær ikke gjerrig: Ofte ligger stort arbeid og godt håndverk bak tingene som er til salgs i Nepal.
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
