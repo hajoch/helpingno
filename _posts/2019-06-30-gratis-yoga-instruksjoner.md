@@ -80,7 +80,7 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
   Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.![](https://www.helping.no/y9.jpg)
 * Øvelse 9  
   Ligg på magen med armene langs siden.Knytt hendene og press dem mot gulvet. Løft deretter bena opp fra gulvet. Husk å rette knærne som vist på figuren. Bli i stillingen noen minutter og la deretter bena synke til gulvet. Hvil på siden etter øvelsen.  
-  ![](https://www.helping.no/y10.jpg)
+  ![](/assets/images/y10.jpg)
 * Øvelse 10  
   Ta utgangspunkt i sittestilling. Strekk ut det høyre benet og bøy det venstre over det høyre. Legg høyre arm støttet mot høyre ben som vist på figuren og strekk venstre arm i en bue fra frontposisjon og bakover mens du følger armens posisjon med blikket som vist på figuren. Kjenn at det gir en fin strekk i ryggen. Bli i posisjonen noen minutter og kom like langsomt tilbake til utgangspunktet. Skift side.  
   ![](https://www.helping.no/y11.jpg)
