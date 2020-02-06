@@ -32,7 +32,7 @@ publish_date:
 weight: 5
 
 ---
-I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
+![](/assets/images/y12.jpg)I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
 
 Her følger noen enkle øvelser til daglig bruk som de fleste kan gjøre på egen hånd:  
 Begynn med å legge et ullteppe eller annen form for underlag på gulvet. Sørg for at du får ro mens du gjør øvelsene. Legg deg ned på teppet på ryggen med armene langs siden og ligg der til du kjenner at du har roet pulsen ned og er klar for første øvelse.
@@ -87,6 +87,8 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 11  
   Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.  
   ![](https://www.helping.no/y12.jpg)
+
+  ![](/assets/images/y12.jpg)
 * Øvelse 12  
   Sett tommeltotten fra høyre hånd på venstre nesebor. Ta peke-fingeren og langfingeren på pannen mellom øynene. Puste inn til du har telt inni meg til 4. Lukk så nesebor med lillefingeren. Tell til 16. åpne høyre nesebor, tell til 8 - pust ut. Pust inn til 4. Veksle til venstre nesebor og gjør det samme. Bruk hele tiden høyre hånd.
 
