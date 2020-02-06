@@ -34,7 +34,7 @@ Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale føle
 
 Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet inn i verdens mest berømte kirke. Køene er enorme både utenfor og inne i Peterskirken.
 
-Innerst i kirken er en messe i gang. Unge, sortdressende sikkerhetsvakter stopper meg: "Not for tourists". Bare italiensktalende slipper inn til messen i Peterskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
+Innerst i kirken er en messe i gang. Unge sikkerhetsvakter i sort dress stopper meg: "Not for tourists". Bare italiensk-talende slipper inn til messen i Peterskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
 
 ![](https://www.helping.no/vat.jpg)
 
