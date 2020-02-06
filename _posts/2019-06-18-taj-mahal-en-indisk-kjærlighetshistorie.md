@@ -73,7 +73,7 @@ Den klemmene stillheten i gravkammeret avbrytes av subbende skritt som et fjernt
 **Valfartssted**  
 Jeg krabber opp og ut. I måneskinnet streifer en og annen turist eller pilgrim omkring i den behagelige nattetemperaturen. Dette er muslimenes valfartssted: Et vakkert minne om Islams storhetstid i India.
 
-Jeg sklir tilbake til de tre vaktene rundt oljelampen, leverer beskytterne tilbake og tusler ned i parkanlegget og ut i landsbyen: På leting etter overnatting i en sykkelrikshaw med en lokaltkkjent mann ved pedalene. Fem dekorerte kameler ruver i gatene med staselig ryttere. Bjeller markerer de veldige dyrenes majestetiske skritt gjennom landsbyen som er i ferd med å gå til ro.
+Jeg sklir tilbake til de tre vaktene rundt oljelampen, leverer beskytterne tilbake og tusler ned i parkanlegget og ut i landsbyen: På leting etter overnatting i en sykkelrikshaw med en lokalkjent mann ved pedalene. Fem dekorerte kameler ruver i gatene med staselig ryttere. Bjeller markerer de veldige dyrenes majestetiske skritt gjennom landsbyen som er i ferd med å gå til ro.
 
 Å ferdes i India om natten er å friste til ran, overfall og drap. Det haster å finne et krypinn. Helst ikke i friluft av redsel for slanger eller annet dødelig utøy. Jeg ender i en gammel buss hvor sovepose og liggeunderlag rulles ut over to dobbelseter med ryggsekken imellom. Verdisaker puttes i soveposen med kamera og filmer. En lommekniv er klar til selvforsvar.
 
