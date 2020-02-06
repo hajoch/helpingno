@@ -12,6 +12,8 @@ tags:
 - charter
 - charterreise
 - snyteri
+- Kanariøyene
+- vulkanøy
 title: " Sydentur til Lanzarote med bare en soldag på ei uke"
 excerpt: 'Forbrukertest: Hotell Iberostar Papagayo Lanzarote. Lanzarote er ikke hva
   det en gang var etter tre besøk. I alle fall ikke når det gjelder været på Playa
