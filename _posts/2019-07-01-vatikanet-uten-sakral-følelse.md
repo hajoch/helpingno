@@ -54,7 +54,7 @@ Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatik
 ![](http://www.helping.no/vat2.jpg)
 
 En liten suvenir shop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
-\- They are blessed, smiler en asiatisk nonne bak disken og rekker over to hals-hengende krusefixer til tre euro stykket. Peterskirken har flere populære suvenir-shopper.
+\- They are blessed, smiler en asiatisk nonne bak disken og rekker over to hals-hengende cruse fixer til tre euro stykket. Peterskirken har flere populære suvenir-shopper.
 
 ![](https://www.helping.no/vati2.jpg)
 
