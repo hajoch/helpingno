@@ -77,7 +77,9 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 7  
   Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](https://www.helping.no/y8.jpg)
 * Øvelse 8  
-  Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.![](https://www.helping.no/y9.jpg)
+  Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.
+
+  ![](/assets/images/y9.jpg)
 * Øvelse 9  
   Ligg på magen med armene langs siden.Knytt hendene og press dem mot gulvet. Løft deretter bena opp fra gulvet. Husk å rette knærne som vist på figuren. Bli i stillingen noen minutter og la deretter bena synke til gulvet. Hvil på siden etter øvelsen.  
   ![](/assets/images/y10.jpg)
@@ -86,8 +88,7 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
     
   ![](/assets/images/y11.jpg)
 * Øvelse 11  
-  Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.  
-  ![](https://www.helping.no/y12.jpg)
+  Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.
 
   ![](/assets/images/y12.jpg)
 * Øvelse 12  
