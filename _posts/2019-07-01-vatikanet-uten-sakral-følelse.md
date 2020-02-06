@@ -28,7 +28,7 @@ weight: 2
 ---
 ![](https://www.helping.no/vat9.jpg)
 
-Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Peterplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
+Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Petersplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 
 ![](http://www.helping.no/vati2.jpg)
 
@@ -53,7 +53,7 @@ Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatik
 
 ![](http://www.helping.no/vat2.jpg)
 
-En liten suvenirshop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
+En liten suvenir shop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to halshengdende krusefixer til tre euro stykket. Peterskirken har flere populære souvenier-shopper.
 
 ![](https://www.helping.no/vati2.jpg)
