@@ -83,7 +83,8 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
   ![](/assets/images/y10.jpg)
 * Øvelse 10  
   Ta utgangspunkt i sittestilling. Strekk ut det høyre benet og bøy det venstre over det høyre. Legg høyre arm støttet mot høyre ben som vist på figuren og strekk venstre arm i en bue fra frontposisjon og bakover mens du følger armens posisjon med blikket som vist på figuren. Kjenn at det gir en fin strekk i ryggen. Bli i posisjonen noen minutter og kom like langsomt tilbake til utgangspunktet. Skift side.  
-  ![](https://www.helping.no/y11.jpg)
+    
+  ![](/assets/images/y11.jpg)
 * Øvelse 11  
   Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.  
   ![](https://www.helping.no/y12.jpg)
