@@ -43,9 +43,9 @@ Etter en heldags busstur på overfylte indiske Tata-busser var målet nådd midn
 **Kontrast**  
 Taj Mahals mektige stillhet er en annen verden - en enorm kontrast til Indias mas i alle byer, tettsteder og landeveier med et usystematisk virvar hvor tilfeldighetenes lover råder og herjer.
 
-Ved trappeoppgangen i enden av bassenget satt tre vakter rundt en oljelampe huket over en haug fillete, sokkeliknende "beskyttere" alle gjester måtte leie hvis de ikke ville ta av seg skoene.
+Ved trappeoppgangen i enden av bassenget satt tre vakter rundt en oljelampe huket over en haug fillete, sokkliknende "beskyttere" alle gjester måtte leie hvis de ikke ville ta av seg skoene.
 
-La gå. Frem med en Rupée´ og på med beskytterne. Så opp marmortrappen til platået med en minaret i hvert hjørne og med palasset i sentrum, inn hovedinngangen, gjennom to bueganger til Taj Mahals hjerte.
+La gå. Frem med en Rupee´ og på med beskytterne. Så opp marmortrappen til platået med en minaret i hvert hjørne og med palasset i sentrum, inn hovedinngangen, gjennom to bueganger til Taj Mahals hjerte.
 
 Det store rommet i mosaikk av marmor og edelsteiner tar det meste av palasset. Lyset fra lommelykten tett opp til mosaikken gir det klareste bilde av prakten. Steinene gir gjenskinn i alt fra rødt og grønt til hvitt og sort. Ikke underlig det tok 18 år å bygge praktverket fra 1632.
 
