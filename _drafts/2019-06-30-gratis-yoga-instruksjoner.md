@@ -56,7 +56,7 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 2  
   Sitt i skredderstilling. Begynn med venstre hånd. Trykk lett med høyre hånd på venstre hånd punkt for punkt. Begynn med håndflaten og følg armen opp til skulderen og til hjertet. Skift deretter til høyre hånd og gjør det samme på den andre siden.
 
-  ![](https://www.helping.no/y3.jpg)
+  ![](https://www.helping.no/y3.jpg)![](/assets/images/y3.jpg)
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet.
 
@@ -116,4 +116,4 @@ Det dukker stadig opp nye bøker om yoga. Listen er ikke oppdatert på den store
 
 * Boken "De fem tibetanske riter" er en spennende bok om de Yogaøvelsen som har vært brukt i århundrer i Tibetanske klostre og som mange mener er selve "Ungdoms-kilden".
 
-**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
+**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.![](/assets/images/y3.jpg)**
