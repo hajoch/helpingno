@@ -32,7 +32,7 @@ publish_date:
 weight: 5
 
 ---
-![](/assets/images/y12.jpg)I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
+I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
 
 Her følger noen enkle øvelser til daglig bruk som de fleste kan gjøre på egen hånd:  
 Begynn med å legge et ullteppe eller annen form for underlag på gulvet. Sørg for at du får ro mens du gjør øvelsene. Legg deg ned på teppet på ryggen med armene langs siden og ligg der til du kjenner at du har roet pulsen ned og er klar for første øvelse.
@@ -84,8 +84,8 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
   Ligg på magen med armene langs siden.Knytt hendene og press dem mot gulvet. Løft deretter bena opp fra gulvet. Husk å rette knærne som vist på figuren. Bli i stillingen noen minutter og la deretter bena synke til gulvet. Hvil på siden etter øvelsen.  
   ![](/assets/images/y10.jpg)
 * Øvelse 10  
-  Ta utgangspunkt i sittestilling. Strekk ut det høyre benet og bøy det venstre over det høyre. Legg høyre arm støttet mot høyre ben som vist på figuren og strekk venstre arm i en bue fra frontposisjon og bakover mens du følger armens posisjon med blikket som vist på figuren. Kjenn at det gir en fin strekk i ryggen. Bli i posisjonen noen minutter og kom like langsomt tilbake til utgangspunktet. Skift side.  
-    
+  Ta utgangspunkt i sittestilling. Strekk ut det høyre benet og bøy det venstre over det høyre. Legg høyre arm støttet mot høyre ben som vist på figuren og strekk venstre arm i en bue fra frontposisjon og bakover mens du følger armens posisjon med blikket som vist på figuren. Kjenn at det gir en fin strekk i ryggen. Bli i posisjonen noen minutter og kom like langsomt tilbake til utgangspunktet. Skift side.
+
   ![](/assets/images/y11.jpg)
 * Øvelse 11  
   Hold bena strake. Ikke bøy knærne. Gjør øvelsen langsomt. Begynn med å bøye haken inn mot brystet. Bød deretter nakken framover, så øvre del av ryggen, hele ryggen og strekk armene mot føttene som vist på figuren. Bli i denne stillingen noen minutter. Kjenn hvor fin strekk du får på leggene. Klarer du å nå finger-tuppene i gulvet er det bra. Etter noen minutter retter du deg opp like langsomt som du bøyde ned.
@@ -116,4 +116,4 @@ Det dukker stadig opp nye bøker om yoga. Listen er ikke oppdatert på den store
 
 * Boken "De fem tibetanske riter" er en spennende bok om de Yogaøvelsen som har vært brukt i århundrer i Tibetanske klostre og som mange mener er selve "Ungdoms-kilden".
 
-**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.![](/assets/images/y3.jpg)**
+**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
