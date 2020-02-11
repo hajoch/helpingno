@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-20 13:08:22 +0100
+date: 2019-12-20T12:08:22.000+00:00
 crop_image: true
 tags:
 - sjø
@@ -53,3 +53,5 @@ weight: 4
 ![](https://www.helping.no/sb2.jpg)
 
 ![](https://www.helping.no/sob2.jpg)
+
+**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
