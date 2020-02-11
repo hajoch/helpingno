@@ -54,4 +54,4 @@ weight: 4
 
 ![](https://www.helping.no/sob2.jpg)
 
-**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
+**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer. Her mangler flere bilder.**
