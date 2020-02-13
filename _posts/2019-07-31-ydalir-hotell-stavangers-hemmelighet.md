@@ -24,7 +24,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 2019-07-30T22:00:00.000+00:00
-weight: 10
+weight: 9
 
 ---
 De øvrige måltidene kan du bestille fra den restauranten du vil, som catering, og spise i hotellets fellesrom eller på rommet som det passer deg.
