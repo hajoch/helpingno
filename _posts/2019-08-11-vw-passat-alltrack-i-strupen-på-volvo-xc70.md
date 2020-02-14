@@ -13,9 +13,9 @@ tags:
 - privatbil
 title: VW Passat Alltrack i strupen på Volvo XC70
 excerpt: 'Bruktbil fra 2013: Med Passat Alltrack er Volkswagen rett i strupen på Volvo
-  XC 70 ved å prise seg langt under Volvos modeller. Passat Alltrack er hevet 3 cm
-  i forhold til en standard modell. Visuelt virker det som om bilen er hevet mer -
-  kanskje på grunn av de designmessige off-road- effektene som denne modellen har
+  XC 70 ved å ny-prise seg langt under Volvos modeller. Passat Alltrack er hevet 3
+  cm i forhold til en standard modell. Visuelt virker det som om bilen er hevet mer
+  - kanskje på grunn av de designmessige off-road- effektene som denne modellen har
   fått.'
 image: "/assets/images/alltrack.jpg"
 image_caption: 'Foto og test: Christoffer Jore Christensen'
