@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-02 13:18:55 +0100
+date: 2019-12-02T12:18:55.000+00:00
 crop_image: true
 tags:
 - Skagen
@@ -36,3 +36,5 @@ weight: 3
 ![](http://www.helping.no/nokondk2.jpg)
 
 ![](http://www.helping.no/nikondk1.jpg)
+
+**Beklager teknisk feil. Flere bilder kommer ikke opp.**
