@@ -13,7 +13,7 @@ END NOTE -->
 
 <!-- LIQUID ASSIGNMENTS -->
 
-{% assign posts = site.posts | sort | reverse %}
+{% assign posts = site.posts | sort:"weight" | reverse %}
 
 <!-- -->
 

@@ -13,8 +13,8 @@ categories:
 - _category/helse.md
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
-publish_date: 
-weight: '5'
+publish_date:
+weight: 5
 tags:
 - Mental Helse
 - Stress
