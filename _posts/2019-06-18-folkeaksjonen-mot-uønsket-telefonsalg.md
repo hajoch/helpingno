@@ -1,14 +1,18 @@
 ---
 layout: post
-date: 2019-06-18 11:44:49 +0200
+date: 2019-06-18T09:44:49.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- folkeaksjon
+- telefonsalg
+- reklame
+- reservasjon mot telesalg
 title: Folkeaksjonen mot uønsket telefonsalg.
 excerpt: Denne type henvendelser øker nå i et slikt omfang at mange oppfatter dette
   som ren telefonterror.
 image: "/assets/images/telefon.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Telefon fra 1950 og 60 årne. Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 

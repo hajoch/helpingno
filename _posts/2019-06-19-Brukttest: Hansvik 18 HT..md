@@ -1,13 +1,18 @@
 ---
 layout: post
-date: 2019-06-19 13:52:22 +0200
+date: 2019-06-19T11:52:22.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Bruktbåttest: Hansvik 18 HT med 40 hk Yamaha:'
-excerpt: Dette er en båt med god plass. Den er lettdrevet og gjør god fart med relativt
-  små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig og trenger
-  en opprusting som nybåt i salg i dag.
+tags:
+- sjø
+- båt
+- dagsturbåt
+- Hansvik
+- Yamaha
+title: Hansvik 18 HT
+excerpt: 'Bruktbåttest: Dette er en båt med god plass. Den er lettdrevet og gjør god
+  fart med relativt små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig
+  og trenger en opprusting som nybåt i salg i dag.'
 image: "/assets/images/hansvik.18.jpg"
 image_caption: Hansvik 18 HT. Foto Hansvik
 categories:
@@ -16,10 +21,9 @@ publish_date:
 weight: 3
 
 ---
-5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter
+**5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter**
 
-**Fakta om Hansvik 18 HT**
-
+Fakta om Hansvik 18 HT  
 Tekniske data testbåt:  
 Lengde 5,50 m  
 Bredde 2,12 m  
@@ -28,7 +32,7 @@ Vekt 430 kg
 Max last:10 personer  
 Max motor 50 hk lang stamme Veritas/CE-godkjent
 
-Båt:  
+**Båt:**  
 Er du lei seajeepens våte og forblåste tilværelse vil du raskt sette pris på den store tett kabinen med salong som kan gjøres om til soveplass. Her vil barna trives - lunt og godt etter timer i badevannet. Du kan tåle en regnskur ombord i denne båten uten å måtte flykte i land. Som bruktbåt er Hansvik 18HT en populær båt. Her får du mye plass og en god sjøbåt for pengene.
 
 Tidligere hadde jeg en Polar 20, og skiftet til denne fordi barna ville ha en båt med mer fart og like god komfort. Faktisk er det nesten like god plass i denne båten som i polarsnekka. I tillegg er det tett og lunt med hardtoppen når det blåser og barna er kalde etter en hel dag med bading på stranda.

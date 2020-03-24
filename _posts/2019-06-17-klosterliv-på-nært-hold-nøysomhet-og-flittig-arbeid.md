@@ -1,22 +1,37 @@
 ---
 layout: post
-date: 2019-06-17 11:27:32 +0200
+date: 2019-06-17T09:27:32.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Klosterliv på nært hold: Nøysomhet og flittig arbeid'
+tags:
+- religion
+- religionshistorie
+- katolsk klostert
+- katolikk
+- Tamie
+- kristne samfunn
+- kloster
+- Tamieosten
+- intervju med munken Paul
+- Gud i dagliglivet
+- Mont Blanc
+title: " Klosterliv på nært hold: Nøysomhet og flittig arbeid. Intervju med broder
+  Paul."
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
   sitt hjem. Det 800 år gamle klosteret er idyllisk plassert på en åskam i vakre naturomgivelser.
   Fra et fjellplatå like ved kan Mont Blanc skimtes i det fjerne - på godværsdager.
 image: "/assets/images/broderclaude.jpg"
-image_caption: 'Foto: Gunnar Christensen Broder Claude'
+image_caption: "Broder Claude er munk i klosteret Tamie i de franske alpene. \nFoto:
+  Gunnar Christensen "
 categories:
 - _category/religion.md
 publish_date: 
 weight: 7
 
 ---
-Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og medbrødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
+Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og brødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
+
+![](https://www.helping.no/frankrikelite.jpg)
 
 **Rekreasjon**  
 Mange nordmenn forestiller seg munker som alvorlige, andektige menn i upraktiske klær - bak lukkede dører, fjernt fra vår hverdag opptatt med bøker og bønn. Denne oppfatningen må revideres etter hvert som en blir mer kjent og fortrolig med klosterlivets mange sysler og funksjoner. Munkenes smittende gode humør og behagelige vesen gjør et besøk i Tamié til et hyggelig minne.
@@ -30,6 +45,8 @@ Maten serveres hovedsakelig fra eget bruk. De store runde brødene bakes i klos-
 
 Gjestene har oftest flere motiver for klosterbesøket enn rekreasjon og magens ve og vel. Stillheten i den avstressende klosteratmosfæren gir fred i sinnet og mulighet for religiøs fordypning. Lang erfaring med kristen meditasjon og bønn er munkenes form for ekspertise. Dette gir gjestene trygghet. Den som vil ta opp personlige eller religiøse spørsmål og problemer møter alltid åpenhet og forståelse på Tamié.
 
+![](http://www.helping.no/munker.jpg)
+
 **Spesiell akustikk**  
 Den enkle steinbygde klosterkirken i Tamié er midtpunktet syv ganger daglig. Munkene står opp klokken tre om morgenen og en halv time senere synger og ber de i kirken. I løpet av dagen følger flere gudstjenester frem til like før munkene går til sengs klokken 20. Gjestene behøver ikke følge denne dagsrytmen, men det er av og til fristende å gjøre det fordi gudstjenestene deres er vakre. Orgel, harpe, mannskor og de spesielle akustiske forholdene i kirken, gjør at korsangen deres i skjønnhet overgår alt jeg tidligere har opplevd i noen kirke.
 
@@ -40,13 +57,14 @@ At munkene til daglig er opptatt av åndelig fordypning kan kanskje virke unytti
 
 Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, støyende by- og fabrikksentra turen gikk gjennom på vei til Alpene fra Norge. De tyske storbyene med støy og frustrasjon samt autobahner med en uendelighet av biler, fikk meg til å oppleve Tamié som en vakker oase av kjærlighet og menneskelighet.
 
-En overskridelse
+![](https://www.helping.no/tamie1.jpg)
 
-**Av** [**Gunnar Christensen**](http://www.helping.no/gunnar.htm)
+### Intervju: Broder Paul: En overskridelse
 
 **_- Hvorfor jeg gikk i kloster?_**
 
-**Broder Paul retter ryggen: - Fordi Gud er den sterkeste. Hans kall er vanskelig å motstå. Et dypt ønske om noe absolutt har trukket meg til klosteret. En absolutthet som hver dag konkretiseres gjennom bønn, bibellesning og avkall på spesifikke menneskelige verdier. Eller rettere sagt en overskridelse.**
+**Broder Paul retter ryggen:  
+\- Fordi Gud er den sterkeste. Hans kall er vanskelig å motstå. Et dypt ønske om noe absolutt har trukket meg til klosteret. En absolutt het som hver dag konkretiseres gjennom bønn, bibellesning og avkall på spesifikke menneskelige verdier. Eller rettere sagt en overskridelse.**
 
 Jeg gikk i kloster fordi Jesus lever. Fordi han elsker oss med en kjærlighet som er sterkere enn de mest lidenskapelige menneskelige kjærlighetsformer. Jeg leser ofte apostelen Paulus: "Hvis Kristus ikke var oppstanden, så var vår tro forgjeves". Jesus er mer verd enn noen annen gave livet kan gi. De som elsker han vet det.
 
@@ -74,3 +92,6 @@ _- **Hvordan opplever du Gud i dagliglivet som munk?**_
 **_- Hvilken fremtid har kristendommen i den vestlige verden?_**
 
 \- Det går ikke på samme måte med kristendommen som med et forretningsforetagende eller en teknisk industri. Vi har et trosansvar å bringe. Dette ansvaret er ikke å leve utenfor. Vi må personlig gi Guds fremtid en tro. Dette er troens paradoks. Troen forlanger alltid et personlig svar. Kirkens fremtid er i oss. Vi må ikke lete etter den utenfor oss i statistikker eller i religionsstudier. Der er en usedvanlig fornyelse i de forskjellige kirkesamfunn. Jeg har derfor stor tro på "Guds regjering" i fremtiden. Dessuten. Enhet mellom de forskjellige kristne samfunn: Altfor lenge har det i kirkesamfunnene vært uenighet og brudd. Verden venter at kristne skal ha enhet og fred. Skal vi klare dette for vår verden, eller skal disse ordene fortsatt være foreldede klisjeer? Jeg mener: Enheten er kirkens sak riktig nok. Men, kirken er ikke et aksjeselskap. I den utstrekning vi kan skape enhet i oss selv og rundt oss, er vi selv tegn på verdenssamfunnet.
+
+Det franske klosteret Tamié:  
+[http://www.abbaye-tamie.com](http://www.abbaye-tamie.com "http://www.abbaye-tamie.com")

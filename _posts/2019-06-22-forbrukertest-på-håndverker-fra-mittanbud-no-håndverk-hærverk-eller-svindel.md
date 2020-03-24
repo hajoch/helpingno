@@ -1,8 +1,14 @@
 ---
 layout: post
-date: 2019-06-22 15:54:37 +0200
+date: 2019-06-22T13:54:37.000+00:00
 crop_image: true
-tags: []
+tags:
+- svindel
+- håndverker
+- forbrukertvist
+- anbudstjeneste
+- håndverksslurv
+- ufaglært
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: |-
   Slik blir du svindlet på mittanbud.no som tiltrekker
@@ -19,10 +25,9 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 0
+weight: 
 
 ---
-  
 "Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse:  
 Pipebeslaget var en sikkerhetsrisiko og det falt fra hverandre i uvær.
 
@@ -33,6 +38,8 @@ Det er nå gjort, men Fredriksen ønsker ikke å gjøre opp for seg og saken gå
 Etter at jobben er "ferdig" siger en av platene på pipa med ca. 10 cm og lager en glippe for fukt-inntrengning øverst på pipa. "Garantien" til "Maling og Håndverktjeneste" fra Skien er intet verd. Walter Marino Fredriksen har ikke en gang tatt seg bryet med å feste platene skikkelig. Dette er en sikkerhetsrisiko. Slurv og dårlig håndverk preger arbeidet hans.
 
 Hele pipebeslaget må rives og erstattes med et arbeid utført av en pålitelig fagmann. Walter Marino Fredriksen hadde flere anledninger til å gjøre dette på en kvalitativt god måte, men det klarte han ikke - og resultatet er et ubrukelig og utrygt pipebeslag med åpenbare feil og mangler.
+
+![](http://www.helping.no/pipe1.jpg)
 
 Den lange yrkeserfaringen Walter Marino Fredriksern skrøt av før han fikk jobben viser seg nå i praksis å være blank løgn.
 
@@ -52,6 +59,8 @@ Underveis i arbeidet ble glaserte, kostbare og uerstattelige gamle hollandske te
 
 Og det ble levert takrenner uten alt utstyr som skal på plass for slike takrenner. En puteboks ble brukt som arbeidsbenk og ramponert.
 
+![](http://www.helping.no/pipe22.jpg)
+
 **Ulyd i pipa - sikkerhetsrisiko**  
 Da ulyden kom i pipa ved neste vindblåst, innså jeg at dette ikke var levert slik det skal være - og nøytrale utenforstående med kunnskap om håndverk ble spurt om å kommentere jobben.
 
@@ -70,6 +79,8 @@ Da jeg varslet at dette ble en sak for Forbrukerrådet, truet håndverkeren meg 
 Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkerne? som står bak firmaet MALING OG HÅNDVERKTJENESTE Org. nummer 998 479 452 og som utførte arbeidet hos meg og som etter denne saken er nedlagt og avviklet. Både far og sønn presenterte seg med samme navn - Walter O. Fredriksen. Dette firmaet står i sønnens navn, men det er faren altså Walter Marino Fredriksen som gjør jobben..
 
 Det er senior Walter Marino Fredriksen som foretar kundekontakten og jeg har så langt antatt at det er han som står bak firmaet. I samtaler med dem virket det imidlertid som om de ikke ønsker at det skal bli kjent at de begge jobber og det kan derfor tenkes at en av dem eller begge er NAV-brukere.
+
+![](http://www.helping.no/pipe2.jpg)
 
 **Ingen dokumentasjon på yrkesopplæring**  
 Jeg ba om at den av disse to som er yrkesaktiv fremlegger dokumentasjon på handverksmessig opplæring i faget ? takrenner og pipebeslag. Hvis det viser seg at ingen av disse har opplæring i faget er dette meget alvorlig. Da er dette svindel. Og mittanbud.no er medansvarlig.

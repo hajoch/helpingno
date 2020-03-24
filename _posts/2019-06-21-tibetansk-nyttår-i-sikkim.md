@@ -1,8 +1,19 @@
 ---
 layout: post
-date: 2019-06-21 14:39:07 +0200
+date: 2019-06-21T12:39:07.000+00:00
 crop_image: true
-tags: []
+tags:
+- india
+- Karmapa
+- tibetansk buddhisme
+- Tibet
+- nyttår i Tibet
+- Rumtek
+- kloster
+- Gangtok
+- maskedans
+- smørfigur
+- religiøs tradisjon
 title: Tibetansk nyttår i Sikkim
 excerpt: Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre
   dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
@@ -17,7 +28,9 @@ publish_date:
 weight: 4
 
 ---
-Lamadans er den mest fargerike tradisjon i feiringen. 
+Lamadans er den mest fargerike tradisjon i feiringen.
+
+![](https://www.helping.no/karmapa.jpg)
 
 Hans Hellighet den 16 Karmapa er på det tibetansk-  
 buddhistiske klosteret Rumtek. Det tibetanske nyttåret begynner 27 februar, men feiringen begynner alt tre dager før. Da danser munker og lamaer i fagerike kostymer med symbolsk betydning.
@@ -26,11 +39,15 @@ Det mest ettertraktede stedet å feire det tibetanske nyttår er kanskje i Hans 
 
 Klosteret ligger i fjellsiden på over to tusen meters høyde med utsikt over en dyp dal til byen Gangtok, tidligere kongedømme Sikkims gamle hovedstad.
 
+![](https://www.helping.no/sikkim.jpg)
+
 **Lamadanser**  
 Årets høydepunkt på Rumtek er nyttårsfeiringen. Feiringen samler legfolk fra fjern og nær til de fargerike lamadansene. Lamaer og munker blåser i små hornliknende instrumenter med vakre dekorasjoner i sølv og gull. De fineste draktene danses frem - med vakre broderier og brokader. Mest uøyenfallende er alle maskene - hver med sin symbolske betydning.
 
 På gårdsplassen foran klosteret dundrer de store trommene etterfulgt av trompeter i forskjellige lokale varianter. Lamadansene er i gang.  
 Gårdsplassen foran klosteret er omkranset av en ett etasjes bygning som danner en kvaderatisk ramme om området. Taket over dette kvaderatiske bygget er flatt og fungerer som publikumstribune mens lamaer og munker danser på plassen. Lamaer er munker som har nådd litt lengre på den åndelige rangstigen.
+
+![](https://www.helping.no/barnemunker.jpg)
 
 **Som tordenvær**  
 På en varanda ved inngangen til klostertempelst sitter orkesteret med trommer, fløyter, symballer og de særpregede radongene - et flere meter langt sammenleggbart blåseinstrument av metall oftest kunstferdig dekorert i sølv. Musikken er monoton og fremmedartet. Trompeter og radonger kommer inn med ujevne mellomrom mens de store trommene - som minner om tordenvær - dundrer sakte og taktfast.
@@ -57,3 +74,6 @@ Nyttårsfeiringen er en anstrengende tid for lamaer og munker. De har derfor syv
 
 **Velstående**  
 Den tibetanske religiøse tradisjon blomstrer nå selv om håpet deres om å vende tilbake til et fritt Tibet fra eksilet i India blir mindre med årne. Legfolket er den økonomiske ryggraden i det tibetanske klosterliv over hele India - liksom skikk var i hjemlandet de flyktet fra på 1950-tallet. Etter at tibetansk buddhisme også har fått fotfeste i Vesten er en del av klostrene blitt relativt velstående. Utenlandske, tilreisende pilgrimmer på stedet bidrar med vesentlige beløp og bidrar dermed til å bevare denne spennende kulturen i indisk eksil.
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")

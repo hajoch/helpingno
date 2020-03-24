@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2019-06-19 10:37:53 +0200
+date: 2019-06-19T08:37:53.000+00:00
 crop_image: true
 author: _authors/leserinnlegg.md
-tags: []
+tags:
+- båt
+- 'båtsvindel '
+- fremgangsmåte for svindlere
+- ' "Nigeriasvindel"'
 title: Skal du selge båten din på nett? Se opp for svindlere!
 excerpt: Innlegg
 image: "/assets/images/batsalg.jpg"
@@ -14,7 +18,6 @@ publish_date:
 weight: 1
 
 ---
-
 **Leserinnlegg av Hans Olsen**
 
 Du forestiller deg ikke en gang muligheten når du legger inn båtannonsen din på nett, men straks du får en sms som svar på annonsen så bør du være på vakt mot svindel.

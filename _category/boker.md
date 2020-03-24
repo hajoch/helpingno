@@ -1,5 +1,6 @@
 ---
-title: Bøker
+title: Litteratur
 icon: file-text
-color: '#404BFB'
+color: "#404BFB"
+
 ---

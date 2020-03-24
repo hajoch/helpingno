@@ -1,10 +1,19 @@
 ---
 layout: post
-date: 2019-06-17 19:53:28 +0200
+date: 2019-06-17T17:53:28.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: Student i Oslo:Boligjakten
+tags:
+- student
+- studentbolig
+- boligjakt
+- bolifmarkedet
+- leilighet
+- boformer
+- leiekontrakt
+- forsikring
+- legater
+title: 'Student i Oslo: Boligjakten'
 excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordring.
   Da begynner jakten på et sted å bo. For første gang skal du bo "borte". Brutalt
   nok har du ikke fartstid nok til å få deg et krypinn på SiO/Samskipnadens subsidierte
@@ -12,7 +21,7 @@ excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordri
   Det er for mange studenter som trenger et sted å bo nå. Utenlandsstudentene priorieteres
   foran deg. Behovet for studentboliger er større enn noen gang tidligere.
 image: "/assets/images/stud.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
@@ -49,3 +58,6 @@ Husk på at det du har med deg på hybelen har en verdi. Du har en gang kjøpt k
 Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du bestemmer deg. Enkelte medlemskap eller arbeidsforhold kan gi rabatt hos noen forsikringsselskaper. Hvis du ikke melder flytting til studiested i folkeregisteret kan du i noen tilfeller være dekket under dine foreldrenes innboforsikring. Dette sjekker du før noe annet.
 
 Lykke til med boligjakten.
+
+**Studentøkonomi - Legater:**  
+[www.legatsiden.no/](http://www.legatsiden.no/)

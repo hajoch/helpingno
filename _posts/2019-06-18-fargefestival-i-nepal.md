@@ -1,9 +1,16 @@
 ---
 layout: post
-date: 2019-06-18 17:12:31 +0200
+date: 2019-06-18T15:12:31.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Nepal
+- festival
+- fargefestival
+- Holi-fastival
+- hinduisme
+- Kathmandu
+- Holika
 title: Fargefestival i Nepal
 excerpt: Mange legender knytter seg til denne feiringen. En av dem går ut på fortellingen
   om gudeparet Rada og Krishna og den guddommelige kjærligheten mellom dem.
@@ -38,3 +45,6 @@ Mange legender knytter seg til denne feiringen. En av dem går ut på fortelling
 En annen og mer populær fortelling bak Holifestivalen er feiringen av drapet på den kvinnelige demonen Holika. Ifølge legenden ble Holikas bror, demonkongen Hiranykasipu sint på sin sønn Prahlad da han dyrkest Vishnu som den høyeste guden og beordret han brent levende. Holika, som var immun mot ilden, ledet nevøen inn i flammene. Da grep Vishnu inn og Prahlad kom uskadd fra det mens Holika ble brent til aske.
 
 Det er vanlig å tenne bål ved Holifestifeiringene for å symbolisere brenningen av Holika og ødeleggelsen av det onde. Mest fremtredende er likevel at glade folkegrupper, oftest ungdom, løper rundt i gatene og kaster farget vann på hverandre.
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")

@@ -1,18 +1,29 @@
 ---
 layout: post
-date: 2019-06-17 10:29:21 +0200
+date: 2019-06-17T08:29:21.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Møte med H.H. Dalai Lama: En pilgrim i Bodh Gaya'
+tags:
+- tibetansk religion
+- buddhisme
+- tibetansk kultur
+- lamatradisjon
+- nobelprisvinner
+- audiens
+- Buddha
+- nestekjærlighet
+- brorskap
+- voldsbølgen
+title: 'Dalai Lama: En pilgrim i Bodh Gaya. '
 excerpt: |-
-  En reise til Bodh Gaya, India med audiens hos Hans Hellighet
-  den 14 Dalai Lama i det lokale tibetanskbuddhistiske klosteret.
+  - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
+
+  En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske klosteret.
 image: "/assets/images/dalailama.jpg"
-image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilgrimmer
-  i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klosterne for
-  å samle stoff til sin master/hovedoppgave i religionsvitenskap. Han møter Dalai
-  Lama i det tibetanske tempelet  i Bodh Gaya i 1979.
+image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
+  pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
+  klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap. Han
+  møter Dalai Lama i det tibetanske tempelet  i Bodh Gaya i 1979.
 categories:
 - _category/religion.md
 publish_date: 
@@ -39,8 +50,9 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 
 **Audiens**
 
-Mahabodhitempelet i Bodh Gaya, Bihar hvor  
-H H Dalai Lama deltok i seremonier.
+![](http://www.helping.no/mahaboditemple.jpg)
+
+_Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier. Foto Gunnar Christensen. Redigert av Henning Jon Grini._
 
 Dalai Lama gir audiensen for de europeiske pilegrimene på kort varsel tredje dagen. Han er en travel mann med tettpakket program hvor han ferdes. Det er en æresbevisning å få en slik audiens, noe pilegrimene demonstrerte ved å pynte seg. De venter i den fargerike storsalen som vanligvis benyttes til religiøse seremonier: Tempelet har usedvanlig vakre veggmalerier. I friske fager skildres det buddhistiske mahayana-budskapet som særpreger tibetansk buddhisme: Forskjellige sider ved Buddha, beskrivelse av de karmiske lover om årsak og virkning i verden - og forskjellige sider ved menneskesinnet.
 
@@ -66,3 +78,17 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 \- Tålmodighet og forståelse for menneskers manglende visdom og brorskap, svarer Dalai Lama.
 
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
+
+**Slik ser han ut i 2019 - 40 år og en Nobels fredspris senere.**
+
+![](http://www.helping.no/dalailama8.jpg)[  
+](http://www.facebook.com/DalaiLama)**Linker om Dalai Lama:**
+
+[www.facebook.com/DalaiLama](http://www.facebook.com/DalaiLama)
+
+[no.wikipedia.org/wiki/Dalai_Lama](http://no.wikipedia.org/wiki/Dalai_Lama)
+
+**Litteratur**  
+\- "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
+
+\- "Arbeid og lykke", H.H. Dalai Lama/Howard C. Cutler, Damm 2004

@@ -3,7 +3,16 @@ layout: post
 date: 2019-06-17T17:11:40.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- spiritisme
+- religion
+- tro
+- døden
+- nærdøden
+- intervju
+- bok
+- snakke med de døde
+- seanse
 title: 'Lisa Williams: Døden er den mest intime opplevelsen du noen gang kan erfare.'
 excerpt: Dette sier Lisa Williams som møter meg "back-stage" i Oslo Konserthus like
   før hun skal på scenen i et hastig intervju skviset på tid. Jeg innser at hun kun
@@ -67,6 +76,6 @@ Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "
 
 Bok av [**Lisa Williams**](http://helping.no/lisawilliams.htm)**:**  
 **"Livet blant de døde". Cappelen Damm AS**  
- **2009, 254 sider og senere utgaver..**
+**2009, 254 sider og senere utgaver..**
 
 Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en sjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der er et liv etter døden og at vi er del av en større virkelighet enn den bevisstheten vi opererer med i våre liv. Det er ikke mulig å tro at alt er slutt med døden etter et møte med henne.

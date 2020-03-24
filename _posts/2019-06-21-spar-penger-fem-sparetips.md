@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-21T07:38:21.000+00:00
 crop_image: true
 author: _authors/leserinnlegg.md
-tags: []
+tags:
+- økonomi
+- personlig økonomi
+- spar penger
+- gjeld
+- kontanter
+- vaskemiddel
+- resirkulering av ting
 title: 'Spar penger: Fem sparetips'
 excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av måneden.
   Og det mangler ikke på tips i media og på nettet. Men det avgjørende for å lykkes
@@ -11,7 +18,7 @@ excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av 
   tre kan bidra til mer enn bare økonomien. Følger du tips 3-5, kan du også gjøre
   noe for helsen og for miljøet. Så her kan du både spare og bli et noe bedre menneske.
 image: "/assets/images/skagen3.jpg"
-image_caption: 'Foto: Gunnar Christensen'
+image_caption: 'Illustrasjon. Foto: Gunnar Christensen'
 categories:
 - _category/økonomi.md
 publish_date: 

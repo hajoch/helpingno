@@ -1,10 +1,15 @@
 ---
 layout: post
-date: 2019-06-20 13:12:45 +0200
+date: 2019-06-20T11:12:45.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: 3 sesonger med Rana Plast 530 med 40 hk Yamaha
+tags:
+- sjø
+- båtliv
+- båt påhengsmotor
+- båttest
+- skjærgård
+title: Rana Plast 530 - testet i 3 sesonger
 excerpt: Dette er en båt med god plass, men med svært enkel innredning. For enkel
   innredning vil mange mene. Mye mer kunne gjøres ut av dette konseptet. Du har følelsen
   av at fabrikanten har tatt en åpen båt og ettermontert dekk, vinduer og noe bedre

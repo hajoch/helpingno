@@ -2,8 +2,22 @@
 layout: post
 date: 2019-06-18T15:03:56.000+00:00
 crop_image: true
-author: ''
-tags: []
+author: _authors/gunnar-christensen.md
+tags:
+- " religion"
+- tro
+- hinduisme
+- Nepal
+- Katmandu
+- gudinne
+- severdighet
+- den levende guddinnen i Kathmandu
+- Kumari Ghar
+- Hanuman Dhoka
+- tigging
+- riter
+- blodoffer
+- Kali
 title: " Kathmandu i Nepal: Den levende gudinnens tempelby"
 excerpt: 'Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert
   i et vakkert, gammelt tempel ved Hanuman Dhoka.
@@ -34,6 +48,11 @@ Også av egen familie?
 Ja. De fleste tidligere gudinner har havnet som horer i India. Men, hysj om dette når vi er der inne...
 
 Vi ventet lenge i tempelets bakgård. Endelig viser Gudinnen seg på en balkong etasjen over oss. Hun betrakter meg taust med undrende blikk: Som et barn betrakter et fremmed dyr i en dyrehage. Iført rød genser som den lange mørke hårmanken hvilte på. Hun er ikke sminket og pyntet liksom på de offesielle bildene. Hennes vakre ansiktstrekk kommer bedre frem uten sminken. Dette bortskjemte, lille pikebarnet innesperret i tempelet, er omgitt av og prisgitt eldgamle hindutradisjoner og skikker....
+
+![](http://www.helping.no/tempel.jpg)
+
+_Foto Gunnar Christensen: Tempelet Pasupati utenfor Kathmandu  
+der likbrenning finner sted._
 
 I hjertet av gamlebyen Kathmandu ruver Hanuman Dhoka det gamle, kongelige palasset omgitt av karakteristiske templer en betydningsfull kulturskatt av internasjonal klasse, bygd i treverk. Blant tempelbygningene finnes vakre dekorasjoner erotisk kunst. Kunstferdig skåret ut i tre dekorert med farger.
 

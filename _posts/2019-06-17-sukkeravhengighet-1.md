@@ -3,7 +3,12 @@ layout: post
 date: 2019-06-17T13:08:14.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- sukkeravhengighet
+- hjelp mot sukkeravhengighet
+- slanking
+- overvekt
 title: Sukkeravhengighet
 excerpt: En avhengighet er noe du ofte trenger litt hjelp til komme ut av.
 image: "/assets/images/kake-1.jpg"

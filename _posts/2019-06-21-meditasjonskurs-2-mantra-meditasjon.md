@@ -3,18 +3,29 @@ layout: post
 date: 2019-06-21T06:30:35.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- meditasjon
+- åndelig innsikt
+- beroligende øvelse
+- mentalhygiene
+- mantra
+- helse
+- fritid
+- mental balense
+- selvinnsikt
+- åndelig øvelse
+- harmoni
+- harmoni  helse
 title: Meditasjonskurs 2.  Mantra-meditasjon
 excerpt: Mantra-meditasjon er bare en av mange måter å meditere på.
 image: "/assets/images/oct.09.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
-
 ![](http://www.helping.no/kule.jpg =12x12) Du kan gjøre disse øvelsen hjemme eller ute i naturen. Du kan meditere i ti minutter eller en halv time alt etter hva som passer deg best. Kanskje 20 min?
 
 ![](http://www.helping.no/kule.jpg =12x12) Du kan sitte i stillhet. Eller du kan ha på dempet klassisk musikk eller naturlyder (f.eks. regn som faller, bølger på stranden, bekk som sildrer etc.) som virker rolig og harmoniserende på deg. Velg det som passe deg best. Til å begynne med anbefales å sitte i stillhet. Når du blir mer trent kan du meditere på bussen, toget, flyet eller hvor som helst du ønsker.

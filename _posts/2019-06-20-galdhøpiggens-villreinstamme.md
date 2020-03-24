@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-20 11:29:28 +0200
+date: 2019-06-20T09:29:28.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- rein
+- reinsdyr
+- 'fjellsport fjellvandring '
+- Galdhøpiggen
+- villrein
+- fritid
+- Jotunheimen
+- villmark
+- " høyfjell"
 title: Galdhøpiggens villreinstamme
 excerpt: |-
   Plutselig er de der.
@@ -13,7 +22,7 @@ excerpt: |-
 image: "/assets/images/villrein.jpg"
 image_caption: Foto Christoffer J. Christensen og Hallvard J. Christensen
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
 weight: 5
 
@@ -21,6 +30,8 @@ weight: 5
 Villreinflokken beveger seg raskt og smidig. Gråbrun, strihåret pels, også pels mellom klauvene og på mulen. Flotte gevir. De lever i Jotunheimen på snaufjellet ved Galdhøpiggen. De er sky og vanskelig å komme inn på.
 
 En lav, gryntende eller snøftende lyd kommer fra flokken såkalt, garting.
+
+![](https://www.helping.no/villreinx.jpg)
 
 Kameralyd.  
 Frihåndsopptak.
@@ -34,6 +45,8 @@ Villreinen lever i flokk og kan bli opp til 18 år gamle. Reinen har et nomadisk
 Kroppslengde inntil 220 cm, boghøyde inntil 125 cm. Totalvekt for en reinsbukk kan være opp til 270 kg. Hundyret såkalt Simla er betydelig mindre.
 
 Sommerbeitet ser karrig ut her oppe på snaufjellet. Men dette er en nøysom art. Om vinteren består 40-80 % prosent av maten av lav fra bakken og trær. Resten består av tørt gress og buskevekster. Om sommeren spiser reinen urter, gress, dvergbusker og noe lav.
+
+![](https://www.helping.no/villrein3.jpg)
 
 Villreinen finnes i Nordlige deler av Europa, Asia, Nord-Amerika, Svalbard og Grønland. Tamrein er satt ut både på Sør-Georgia og Island. I Norge har vi villrein (Rangifer tarandus tarandus) kun i de sørlige fjellområdene våre fra Sør Trøndelag og sørover. I tillegg til villreinen på fastlandet har vi også Svalbardrein (Rangifer tarandus platyrhynchus) på Svalbard. Tamreindrift drives i dag i store deler av Nord-Norge helt sør til deler av Oppland og Hedmark.
 

@@ -1,22 +1,27 @@
 ---
 layout: post
-date: 2019-06-19 15:59:44 +0200
+date: 2019-06-19T13:59:44.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- debatt
+- psykisk helse
+- psykiatri
+- innlegg
 title: Psykiatrien i støpeskjeen igjen
 excerpt: 'Innlegg:
 
 '
 image: "/assets/images/april.02.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 1
+weight: 0
 
 ---
-Reiulv Steen, den gamle ulv, kritiserer i Dagsavisen den fjerde november 2007 Rådet for psykisk helse. Å gjøre dette er nesten som å utfordre hin Rådet for høg moral. Men han har rett og sikkert også støtte fra andre fagpersoner enn meg.
+Reiulv Steen, den gamle ulv, kritiserte i Dagsavisen den fjerde november 2007 Rådet for psykisk helse. Å gjøre dette er nesten som å utfordre hin Rådet for høg moral. Men han har rett og sikkert også støtte fra andre fagpersoner enn meg.
 
 Nå kommer det noen kroner til psykiatrien igjen. Og da har vi muligheten til å diskutere litt. Og kanskje endog tenke litt høyt. Vi må både ha flere innleggelsesmuligheter og flere til å hjelpe de psykisk syke som ikke trenger innleggelse. Og hallo det er oljelandet vi snakker om. Og det er restfamilier og en million enslige som er majoriteten i landet vårt. Familiestrukturen vår lider og kan ikke belastes med for mange terapeuter, men trenger avlasting.
 

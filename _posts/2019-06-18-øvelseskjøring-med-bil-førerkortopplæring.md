@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-18 17:48:10 +0200
+date: 2019-06-18T15:48:10.000+00:00
 crop_image: true
 author: _authors/christoffer-jore-christensen.md
-tags: []
+tags:
+- bil
+- kjøreopplæring
+- sertifikat
+- øvelseskjøring
+- ny bak rattet
+- råd om kjøreopplæring
 title: Øvelseskjøring med bil - førerkortopplæring
 excerpt: '"Øvelse gjør mester" - sånn er det med alt, også øvelseskjøring. Den eneste
   måten å bli en trygg og god sjåfør på er å ha erfaring. Det er viktig å begynne

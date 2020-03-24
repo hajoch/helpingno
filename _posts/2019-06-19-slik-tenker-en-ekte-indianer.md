@@ -1,9 +1,21 @@
 ---
 layout: post
-date: 2019-06-19 20:22:11 +0200
+date: 2019-06-19T18:22:11.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- indianere
+- hjelpearbeid humanitært indianere
+- Pine Ridge
+- 'Sioux soul '
+- tanker
+- naturopplevelser
+- siouxindianere
+- jobbdiskriminering
+- matrasjoner
+- Dakota
+- indianerreservat
+- indianerstammer
 title: Slik tenker en ekte indianer
 excerpt: "Intervju med LiseLyseggen: \n- Noen sioux indianere blir fremdeles oppdradd
   til høy kunnskap om naturen. De kan se på et tre om det blir regn. De kan også se
@@ -22,7 +34,7 @@ weight: 6
 ---
 Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Indianernes verdifulle kunnskap om naturen kan nå dø ut.
 
-Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er nå.
+Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er
 
 Dette mener Lise Lyseggen som har over 40 års erfaring som hjelpearbeider hos Sioux-indianerne og er leder av Sioux Soul Foundation. Hun har i 40 år vært anerkjent som en av dem og har de siste 15 årene vært "medisinmann" i stammen som holder til i Pine Ridge, Sør-Dakota, USA.
 
@@ -74,10 +86,7 @@ Det er gjennom medisinmannen jeg har kommet langt med å nå frem og få tillit 
 Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjentar:  
 \- Som naturfolk har indianerne en unik kunnskap og harmoni med naturen. Når indianerne tar noe fra naturen - f.eks. hogger et tre - da planter de et nytt tre for hvert tre de hogger. Tanken er at neste generasjon også trenger trær. Slik vil ressursene alltid være der. Vi forstår lite av naturen sammenliknet med dem. Her er avgjørende kunnskap som kan være viktig for vår sivilisasjons overlevelse.
 
-  
-Lise Lyseggens nettsider:
-
-**Sioux-hjelpen:**  
+Lise Lyseggens nettsider: **Sioux-hjelpen:**  
 Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
 [siouxsoul.no](http://siouxsoul.no/)
 

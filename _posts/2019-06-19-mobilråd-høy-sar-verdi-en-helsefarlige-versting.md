@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2019-06-19 21:35:58 +0200
+date: 2019-06-19T19:35:58.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- mobiltelefon
+- SAR-verdi
+- helse
+- strålingsfare fra mobiltelefon?
 title: 'Mobilråd: Høy SAR-verdi en helsefarlige versting '
 excerpt: Verstingene på mobilstråling i mobiltelefon-markedet er telefoner med høy
   SAR-verdi. Høy SAR-verdi har telefoner som kan skade din helse. Legg merke til at
@@ -11,11 +15,13 @@ excerpt: Verstingene på mobilstråling i mobiltelefon-markedet er telefoner med
   Du må slite litt for å finne strålingsverdiene på telefonene du er interessert i
   for disse opplysningene markedsføres ikke. Hvorfor?
 image: "/assets/images/sok810i.jpg"
-image_caption: ''
+image_caption: |-
+  Gamle mobiler hadde høy SAR-stråling. Er det fortsatt slik?
+   Foto Christoffer Jore Christensen
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Mange velger kjente merker for for å sikre seg kvalitetsvare: Slik er det ikke når du kjøper mobiltelefoner. Hver enkelt modell må sjekkes for seg ut i fra en gunstig eller ugunstig SAR-verdi Dette bør være en tankevekker for oss som forbrukere at mange kjente produsenter fremdeles produserer de fleste av sine mobiler med for høy SAR-verdi. Dette i seg selv er en grunn til å sjekke kjøpet nøye.

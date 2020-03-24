@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="width-full">
-  <div uk-grid>
-    <div class="uk-width-expand@m">
-      <h3><small>{{ page.title }}</small></h3>
+    <h3><small>{{ page.title }}</small></h3>
+    {% assign posts = site.categories[page.path] | sort | reverse %}
+    {% include component/posts-grid.html %}
 
         <div>
         {% assign posts = site.categories[page.path] %}

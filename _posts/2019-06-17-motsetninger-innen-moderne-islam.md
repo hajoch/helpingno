@@ -1,15 +1,26 @@
 ---
 layout: post
-date: 2019-06-17 11:53:41 +0200
+date: 2019-06-17T09:53:41.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- religion
+- Sharia
+- Khaliafa
+- Islam
+- Gud
+- Muhammed
+- Mulk
+- Ayatollah
+- Mudjahehedin
+- sekter
+- Koranen
 title: Motsetninger innen moderne Islam
 excerpt: Selv om den senere utviklingen innen den islamske verden er inspirert av
   den vestlige verden, så står flere muslimske grupper i et motsetningsforhold til
   den vestlige verden.
 image: "/assets/images/tajmahal2.jpg"
-image_caption: Taj Mahal
+image_caption: Taj Mahal i Agra i India. Postkort kjøpt på stedet p.g.a fotoforbud.
 categories:
 - _category/religion.md
 publish_date: 

@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Jens Christian Jore Christensen
-image: ''
+image: "/assets/images/JCJC.jpg"
 
 ---
 Redaksjonssekretær  

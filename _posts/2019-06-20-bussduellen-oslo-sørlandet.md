@@ -1,16 +1,22 @@
 ---
 layout: post
-date: 2019-06-20 11:44:33 +0200
+date: 2019-06-20T09:44:33.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- bussreise
+- transport
+- Sørlandet
+- reise
+- reiseråd
 title: 'Bussduellen: Oslo-Sørlandet'
-excerpt: '"Underdog" skåret best, men nå har nye Nettbuss oppgradert bussene.'
+excerpt: '"Underdog" skåret best, men nå har nye Nettbuss oppgradert bussene med store
+  investeringer.'
 image: "/assets/images/buss.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
-publish_date: 
+publish_date: 2019-07-04 00:00:00 +0200
 weight: 3
 
 ---

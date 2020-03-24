@@ -1,15 +1,22 @@
 ---
 layout: post
-date: 2019-06-21 14:48:25 +0200
+date: 2019-06-21T12:48:25.000+00:00
 crop_image: true
-tags: []
+tags:
+- ur
+- gjøkur
+- Swartzwald
+- Tyskland
+- Lindau
+- Sveits
+- urmaker
 title: Gjøkuret fra "Schwartzwald"
 excerpt: Lindau heter en liten kystby med havn mot vakre Bodensee, en innsjø med grense
   mot Syd-Tyskland. I den gamle bydelen nær havneanløpet for rutebåtene ligger en
   liten hjørnebutikk med utstillingsvinduene proppfulle av gjøkur i alle størrelser
   og varianter.
 image: "/assets/images/joke.ty.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md

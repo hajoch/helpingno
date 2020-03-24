@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-19 13:41:20 +0200
+date: 2019-06-19T11:41:20.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- båt
+- jolle
+- båtliv
+- småbåt
+- idyll på NIdelv i Arendal
+- kvalitetsmerking av båt
+- sikkerhetsmerking av båt
+- CE-merke
+- selvlens
 title: Joller er praktiske
 excerpt: Mange velger jolla som sin første båt. Den er lett å ta med seg på en henger
   på ferie eller på hytta - og kan lagres i hagen eller på en parkeringsplass. Dette
@@ -11,15 +20,14 @@ excerpt: Mange velger jolla som sin første båt. Den er lett å ta med seg på 
   i en båt. Størrelsen er lett å håndtere for barn under 16 år og den kan drives og
   kjøres i plan med motorer som barn kan betjene på en sikker og lovlig måte. Men
   det er en åpen båt som egner seg best i godt vær.
-image: "/assets/images/juli.01.jpg"
-image_caption: Foto GC
+image: "/assets/images/b08.1.jpg"
+image_caption: Motiv fra Nidelv i Arendal. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
 weight: 4
 
 ---
-
 I byer og tettsteder kan det være både dyrt og vanskelig å skaffe seg en båtplass. Da er ei jolle med påhengsmotor på en båthenger en både rimelig og praktisk form for båtliv. Jolla kommer til i små viker og andre steder hvor større båter ikke når inn. Med liten båt kan du utforske strandsoner og få nærkontakt med sjøen: Strekk ut hånden og du kjenner vanntemperaturen.
 
 **Lei av å øse**  

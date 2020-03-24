@@ -3,11 +3,21 @@ layout: post
 date: 2019-06-21T07:54:57.000+00:00
 crop_image: true
 author: _authors/leserinnlegg.md
-tags: []
+tags:
+- helse
+- mat
+- mat vegetarmat
+- kosthold
+- vitamin A
+- Vitamin C
+- øyesykdommer
+- omega 3
+- omega 6 fettsyrer
+- råd om kosthold
 title: Kosthold for godt syn
 excerpt: Kan du få bedre syn av å spise sunt? Hva slag mat er bra for øynene dine?
-image: "/assets/images/skulptur.jpg"
-image_caption: ''
+image: "/assets/images/skagen.jpg"
+image_caption: Foto Gunnar Christensen, fra Skagen, Danmark
 categories:
 - _category/mat.md
 publish_date: 

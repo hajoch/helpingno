@@ -3,7 +3,17 @@ layout: post
 date: 2019-06-17T08:11:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- religion
+- buddhisme
+- 'tro livssyn '
+- religionsvitenskap
+- religionshistorie
+- lidelse
+- anatman
+- Nirvana
+- åndelig
+- livstørst
 title: Begrepene "lidelse" og "sjel" i Buddhismen
 excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
   dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse

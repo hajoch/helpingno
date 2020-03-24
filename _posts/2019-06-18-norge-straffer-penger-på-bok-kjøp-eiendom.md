@@ -1,15 +1,30 @@
 ---
 layout: post
-date: 2019-06-18 17:29:41 +0200
+date: 2019-06-18T15:29:41.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- økonomi
+- økonomi utleie investering
+- skatt
+- formue
+- bank
+- selvangivelse
+- Inflasjon
+- bankinnskudd
+- formueskatt
+- Bolig hjem hus leilighet
+- investering
+- sparepenger
+- indeks
+- avgifter
+- markedsverdi
 title: 'Norge straffer penger på bok: Kjøp eiendom'
 excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystemet
   mot deg. Renten belastes skattetrekk som inntekt. Så kommer formueskatten og skatt
   på renter.
 image: "/assets/images/eiendom.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Illustrasjon foto Gunnar Christensen
 categories:
 - _category/økonomi.md
 publish_date: 

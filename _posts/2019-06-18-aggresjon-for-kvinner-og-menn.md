@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-18 11:05:14 +0200
+date: 2019-06-18T09:05:14.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- ekteskap
+- aggresjon
+- kvinner og menn
+- adferd
+- rollemodeller
+- følelser
 title: Aggresjon for kvinner og menn
 excerpt: "Når ulven jakter, viser den ikke tegn på aggresjon. Den er intenst opptatt
   av det den holder på med. Jo. Skulle den komme i kamp med en av samme art, så flekker
@@ -11,14 +17,13 @@ excerpt: "Når ulven jakter, viser den ikke tegn på aggresjon. Den er intenst o
   også. Når han jakter på parkeringsplass eller et par sko så er han ikke sinna. Bare
   dypt konsentrert om det ofte farefulle som skal skje.\n\n"
 image: "/assets/images/roma2.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Foto Gunnar Christensen. Motiv fra Roma
 categories:
 - _category/mental-helse.md
 publish_date: 
 weight: 5
 
 ---
-
 Og han er ofte fornøyd med det første skopar han får tak i.   
 Stornøyd er han ikke.
 

@@ -1,9 +1,22 @@
 ---
 layout: post
-date: 2019-06-18 13:50:51 +0200
+date: 2019-06-18T11:50:51.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Afrika
+- Gambia
+- Kinta Kunte
+- slaveøya
+- slavehandel
+- tropeøy
+- Banjul
+- fangeøya
+- minnesmerke
+- historisk
+- turisme
+- Juffre
+- slaveskipshavn
 title: 'Blodigste minnesmerke: Slaveøya'
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
@@ -15,12 +28,13 @@ publish_date:
 weight: 4
 
 ---
-* James Island! Svakt stryrbord! Se opp for sandbanken!
+\-James Island!  
+Svakt stryrbord! Se opp for sandbanken!
 
 Den spanske kapteinen peker med sin store jungelkniv. Som en kaptein Sabeltann i det virkelige liv. Han tar et grådig jafs av den ferske melonen, kaster raskt skorpen over rekka og brøler beskjed til rormannen.
 
-\- Ci ci, kaptein, svarer et kullsort ansikt under vidbremmet hatt ved roret. **  
-\**Spenningen stiger ombord med tanken på å gå ned tauleideren som nå kastes ned skutesiden for å gå i de slitne, overfylte lettbåtene som frakter oss i land på øya.  
+\- Ci ci, kaptein, svarer et kullsort ansikt under vidbremmet hatt ved roret.  
+Spenningen stiger ombord med tanken på å gå ned tauleideren som nå kastes ned skutesiden for å gå i de slitne, overfylte lettbåtene som frakter oss i land på øya.  
 \- Redningsvester?  
 \- Hva er det madaammme?
 
@@ -71,3 +85,26 @@ Fra ruinen etter et tårn på øyas høyeste punkt skimtes fastlandet på begge 
 
 På den nordlige elvebredden skimtes i soldisen Kunta Kintes hjemby Juffure om-kranset av duvende, høyreiste palmeskog. Hans slekt lever der fremdeles.  
 Kunta fikk aldri se Juffure igjen.
+
+#### **Høvdingen har bare ei kone i Kunta Kintes by**
+
+\- Du bestilte drosje, Sir?
+
+Drosjesjåføren står forlegen bak meg med mine av unnskyldning for å trenger seg på. Dagens tur er bestilt til Juffure. Her levde Kunta Kinte, kjent fra romanen "Røtter" før han ble tatt til fange og ført til slaveri i USA. Kuntas slekt bor fremdeles i byen. Den har fått turistenes oppmerksomhet etter at Alex Haley publiserte boka om **Kunta.**
+
+\- Dette er mandinkastammens landsby. Sjåføren sleper trofast min blytunge fotobag. Små barn kommer barbent løpende. Holder oss innsmigrende i hånden mens de tigger og praktiserer engelsk:
+
+\- Hallo! How are you?
+
+Juffure likner de fleste mandinkabopeler i Gambia. Lave hytter med palmebladstak, bambus og bølgeblikk. Kvinner og barn er i full aktivitet rundt hyttene. Menene er samlet under et stort tre i landsbyen på fritida. Her sitter Kora-spilleren. Han er dagens avis. På sitt 21 strengers instrument - som betjenes som ei harpe - synger og spiller han nyhetene i Juffure. De monotone, melankolske tonene fra Kora toner ut gjennom høyttaleren med innebygd forsterker plassert ved siden. Kora-spilleren har lange tradisjonelle røtter i landsbyen. Han er også landsbyens historiebok ettersom disse skrifløse kulturene ikke har sin historie nedskrevet i bøker. Koraspilleren er dessuten høvdingens skald. Den staslige klesdrakten understreker hans høye status.
+
+**Radikal høvding**  
+\- Det er skikk å håndhilse på høvdingen!
+
+Sjåføren peker mot den gamle mannen utenfor høvdingeboligen:
+
+\- Høvdingen er radikal. Han har "bare" ei kone. Etter gammel afrikansk og muslimsk skikk skal en høvding ha fire koner.
+
+Koraspilleren viser "Kunta Kintas hjem". Her bor fremdeles Kuntas slekt. Ei sammenkrøpet, gammel kone sitter i ly av et palmebladstak. Den gamle er Kuntas nærmeste levende slektledd. Hun er svakelig og lite interessert i turister. Det har blitt mange. Boka "Røtter" har gitt byen turistenes interesse. Det har de lært å utnytte. Selgerne fotfølger turister:
+
+\- Special price for you, Sir! Bare hundre dalasi!

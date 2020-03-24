@@ -3,13 +3,24 @@ layout: post
 date: 2019-06-21T06:40:50.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- helse
+- mentalhygiene
+- mental teknikk
+- meditasjon
+- helseøvelse
+- pusteteknikker
+- mantra
+- beroligende øvelse
+- mental balanse
+- harmoniserende øvelser
+- balansert sinn
 title: Meditasjonskurs introduksjon
 excerpt: 'Kurs i Meditasjon. Mange av de mest fremgangsrike menneskene i vår tid mediterer:'
 image: "/assets/images/nov.14 (1).jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
 weight: 5
 

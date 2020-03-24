@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-03T20:05:21.000+00:00
 author: _authors/odd-m-lunde.markdown
-title: Visualisering
+title: 'Visualisering. Søvn og avspenningsteknikker:'
 excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fysisk
   og psykisk velvære. Teknikken bygger på den evnen vi mennesker har til å se, for
   eksempel et saftig eple for oss. Uten at det ligger et eple foran oss, klarer vi
@@ -10,14 +10,18 @@ excerpt: Kanskje visualisering er den mest effektive teknikken til å oppnå fys
   Vi kan skrelle det, vi kan skjære en båt av eplet og kjenne smaken, vi kan se hvordan
   små dråper med fruktsaft følger knivens linje i skjæret.
 categories:
-- _category/mental-helse.md
+- _category/helse.md
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
 publish_date: 
-weight: 4
+weight: '5'
 tags:
 - Mental Helse
 - Stress
+- helse
+- avslapping
+- mentalhygiene
+image_caption: Foto Gunnar Christensen
 
 ---
 Både avspenningstrening og kondisjonstrening er utmerkede ting for å forbedre søvn. Men for eksempel en enkel visualiseringsteknikk som 3-2-1-teknikken er mer effekt. Du ser for deg et 3-tall. Det kan ligge oppe til venstre, oppe til høyre, det kan være stort eller lite. Når du har sett det, puster du inn gjennom nesen og ut gjennom munnen. Følg rytmen i pusten ca. 12 ganger i minuttet. Du gjentar dette tre ganger med 3-tall, tre ganger med 2-tall og tre ganger med 1-tall. Du er da ganske avslappet og kan gi slipp og sovne.

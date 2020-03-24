@@ -1,9 +1,13 @@
 ---
 layout: post
-date: 2019-06-17 21:50:08 +0200
+date: 2019-06-17T19:50:08.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- psykologi
+- stalking
+- sosialpsykologi
+- plagsom adferd
 title: 'Ta kontakt med politivakta:  Ufarlig stalking'
 excerpt: Du som opplever deg som et offer for en eller noen som forfølger deg, ta
   kontakt med politivakta og spør hva du skal gjøre. Er du redd eller bare litt engstelig,
@@ -11,7 +15,7 @@ excerpt: Du som opplever deg som et offer for en eller noen som forfølger deg, 
   har nemlig opplevd svært ubehagelig press i jobbsammenheng. Og de vil kunne vurdere
   situasjonen og det du bør gjøre.
 image: "/assets/images/hoveskog.jpg"
-image_caption: Foto GC
+image_caption: Illustrasjon. Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 

@@ -17,7 +17,7 @@ title: Helping
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Det hjelpsomme nettstedet
-baseurl: "/helpingno" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hajoch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title
 include: ['_pages']

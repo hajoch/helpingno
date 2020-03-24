@@ -1,9 +1,15 @@
 ---
 layout: post
-date: 2019-06-19 22:42:07 +0200
+date: 2019-06-19T20:42:07.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- religionshistorie
+- " religion"
+- Vietnam
+- Cau Dai
+- synkretisme
+- asiatisk religion
 title: 'Cao Dai: Vietnams nye religion'
 excerpt: 'De to viktigste religiøse elementer i Cao Dai er først forfedrekulten som
   har dype tradisjoner i denne del av verden. Dernest den vitenskapelige spiritismen,

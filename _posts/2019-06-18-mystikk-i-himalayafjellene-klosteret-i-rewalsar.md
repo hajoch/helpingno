@@ -2,16 +2,29 @@
 layout: post
 date: 2019-06-18T19:57:19.000+00:00
 crop_image: true
-author: ''
-tags: []
+author: _authors/gunnar-christensen.md
+tags:
+- religion
+- tro
+- kloster
+- himalaya
+- india
+- buddhisme
+- pilegrimmer
+- tibetansk buddhisme
+- tibetans kultur
+- smørte
+- puja
+- gumpa
+- bønnehjul
 title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
 excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
   barn. Alle med de karakteristiske barberte hodene."
 image: "/assets/images/rewalsar4.jpg"
-image_caption: Artikkelforfatteren ved den mystiske innsjøen i Rewalsar. Han reiste
-  i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette for å
-  få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin master/hovedoppgave
-  i religionsvitenskap.
+image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsar.
+  Han reiste i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette
+  for å få innpass i de tibetanske miljøene og klostrene for å samle stoff til sin
+  master/hovedoppgave i religionsvitenskap.
 categories:
 - _category/reise.md
 publish_date: 
@@ -48,6 +61,10 @@ Fjell-landskapet glitret i sol fra nysnø da pilegrimene begynte den bratte opps
 
 En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.
 
+![](https://www.helping.no/rewalsar.jpg)
+
+_Foto Gunnar Christensen, redigert av Henning Jon Grini._
+
 Det berømte fotavtrykket i fjellet er like ved: Etter sagnet skal Guru Rinpoche ha sparket ifra på dette stedet i fjellet...... Fotavtrykket teller omkring 40 cm i lengde fra tåspiss til hel.
 
 En kø av pilegrimer ønsker å kjenne energistrømmene i fortavtrykket....
@@ -58,3 +75,6 @@ En kvinne fra Hawaii har etablert seg permanent i en annen hule. Hun har konvert
 
 Hawaii-nonnen hutrer litt, barbert på hodet med føttene i de enkle sandalene står hun der i nysnøen, trekker den mørkerøde nonnekappen godt om seg og innrømmer:  
 \- Jeg lengter litt til Hawaii når det er på det kaldeste, men blir her likevel. Selv etter flere besøk i hjemlandet er konklusjonen klar: Rewalsar-fjellene er mitt nye hjem. Den åndelige energien er sterk her og lamane ..........
+
+Les alltid UDs oppdaterte reiseråd før du reiser:  
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")

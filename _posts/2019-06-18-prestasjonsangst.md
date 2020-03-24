@@ -1,9 +1,18 @@
 ---
 layout: post
-date: 2019-06-18 12:19:42 +0200
+date: 2019-06-18T10:19:42.000+00:00
 crop_image: true
 author: _authors/odd-m-lunde.markdown
-tags: []
+tags:
+- helse
+- mental helse
+- angst
+- angst mental helse
+- Prestasjonsangst
+- alvorlig depresjon
+- sosial fobi
+- rødmeangst
+- eksamensangst
 title: Prestasjonsangst
 excerpt: 'Hvis du frykter eller er redd for noe så vet du hva du er redd for. Men
   når redselen er uspesifik så kaller vi det angst. '
@@ -15,7 +24,6 @@ publish_date:
 weight: 5
 
 ---
-
 Ordet angst kommer av det latinske ordet strangulare: Kvele. Og nettopp dette beskriver hva som skjer i kroppen når vi får noe eller mye angst. Vi kan få en fornemmelse av å bli kvelt og da tenker vi at vi skal dø. Og, hjelp, da får vi mer angst og vi fjerner oss fra den situasjonen som den uspesifike frykten oppstod i. Og fra det øyeblikket vi fjerner oss, så kan unngåelsesatferd bli en del av livet vårt.
 
 Sosial fobi, rødmeangst, eksamensangst og forskjellige former for redsel for det å opptre foran mennesker er i bunn og grunn det samme. Det å dra kortet i en liten kassakø kan for mange folk være like vanskelig som å holde en tale for klassen eller hele skolen. Det dreier seg om redsel for å dumme seg ut foran andre folk. Det kommer av en miljømessig eller endog arvet sjenanse. Dette er gjerne paret med en eller noen pinlige og eller skamfulle opplevelser. F. eks du har lest høyt i klassen og de (som er like flaue som deg) har ledd av deg. Er du så av de ca 50 % av oss som har lett for å rødme, vips så tar rødmeangsten bolig i ditt sinn

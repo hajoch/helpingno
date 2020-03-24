@@ -23,7 +23,7 @@ layout: default
         "author": "{{ post.author | xml_escape }}",
         "tags": "{{ post.tags | xml_escape }}",
         "categories": "{{ post.categories | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+        "content": {{ post.content | strip_html | strip_newlines | slice: 0, 150 | jsonify }},
         "url": "{{ post.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}

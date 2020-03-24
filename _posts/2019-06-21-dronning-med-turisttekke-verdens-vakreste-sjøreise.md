@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-21 10:11:38 +0200
+date: 2019-06-21T08:11:38.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- sjø
+- skipsleia
+- Hurtigruten
+- skip
+- kysttrafikk
+- naturopplevelse
+- turistmagnet
+- livsnerven langs Norskekysten
 title: 'Dronning med turisttekke: Verdens vakreste sjøreise'
 excerpt: Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i de
   åtte nordligste fylkene er Hurtigruten en like naturlig del av kysten som Lofotveggen
@@ -19,7 +27,9 @@ weight: 4
 ---
 Hele året seiler et skip daglig nordover og sørover fra hvert anløp langs den 2000 km lange kyststripen. Trolig verdens vakreste naturlandskap i fint vær. Dyktige sjøfolk fører skipene innenskjærs - en av verdens vanskeligste skipsleier særlig i hardt vintervær.
 
-Turistskipene langs kysten er fremmedlegemer i de nordiske farvann. Hurtigruten derimot er hverdagen - selve livsnerven for en halv million mennesker langs kysten av Nord-Norge og Finnmark. Den er det sikreste og mest pålitelige kommunikasjonsmiddel uansett vær for mange småsamfunn.
+![](http://www.helping.no/hurtigruten%20trollfj.jpg)
+
+Turistskipene langs kysten er fremmedlegemer i de nordiske farvann. Hurtigruten derimot er hverdagen - selve livsnerven for en halv million mennesker langs kysten av Nord-Norge og Finnmark. Den er det sikreste og mest pålitelige kommunikasjonsmiddel uansett vær for mange små samfunn.
 
 Turistene opplever en nærkontakt med kysten og befolkninger som andre turisttilbud ikke gir.
 
@@ -35,4 +45,6 @@ I sommersesongen ansetter rederiene reiseledere. Ofte er dette studenter med god
 
 I turistsesongen fra mai og ut september gjør hurtigrutene oftest små "avstikkere" så turistene får se Trollfjorden, hullet i Torghatten, fuglefjellet Sværholdtklubben, De syv Søstre, Peter Dasskirken med flere. Stadig passeres naturlandskaper som i sommersol eller midnattssol fortoner seg som en eventyrlig naturopplevelse.
 
-De fleste turistene kommer fra USA, Canada, Storbritannia, Tyskland og Frankrike. Australienere, italienere, sveitsere, svensker og nordmenn er i mindretall blant rundreisepassasjerene. Nordmenn flest fra Syd-Norge valfarter til "Syden" og ikke til disse nordligste naturherlighetene som utenlandske turister står i kø for å oppleve. Etter NRK2s innslag om hurtigruten i 2011 er det øket interesse for denne fantstiske sjøreisen.
+De fleste turistene kommer fra USA, Canada, Storbritannia, Tyskland og Frankrike. Australiere, italienere, sveitsere, svensker og nordmenn er i mindretall blant rundreisepassasjerene. Nordmenn flest fra Syd-Norge valfarter til "Syden" og ikke til disse nordligste naturherlighetene som utenlandske turister står i kø for å oppleve. Etter NRK 2 sitt innslag om hurtigruten i 2011 er det øket interesse for denne fantastiske sjøreisen.
+
+![](http://www.helping.no/bergen2.jpg)

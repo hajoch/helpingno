@@ -1,11 +1,18 @@
 ---
 layout: post
-date: 2019-06-17 21:58:23 +0200
+date: 2019-06-17T19:58:23.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- bil
+- hybrid
+- gassdrift
+- elbil
+- metangass
+- propangass
+- hydrogenbilen
 title: 'Gass, el, hybrid, bensin eller diesel? Hva er mest miljøvennlig energi? '
-excerpt: 'Du behøver ikke investere i en ny hybridbi eller elbil for å kjøre billig
+excerpt: 'Du behøver ikke investere i en ny hybridbil eller el-bil for å kjøre billig
   og miljøvennlig: Bil med bensinmotor kan bygges om til gassdrift . På gass kjører
   du for omkring halvparten av hva bensin koster.'
 image: "/assets/images/hydrogenbil.jpg"

@@ -3,7 +3,17 @@ layout: post
 date: 2019-06-21T06:25:42.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- helse
+- meditason
+- pusteøvelser
+- beroligende teknikker
+- ",mentalhygiene"
+- selvinnsikt
+- balansere sinnet
+- harmoni  helse
+- åndelig utvikling
+- innsikt
 title: Meditasjonskurs 1. Meditasjon med pusteteknikk
 excerpt: Dette meditasjonskurset er enkelt og uten innviklede instruksjoner og ritualer.
   Vi kan kalle det å "finne roen" ved hjelp av pusten. Liknende teknikker brukes både
@@ -11,9 +21,9 @@ excerpt: Dette meditasjonskurset er enkelt og uten innviklede instruksjoner og r
 image: "/assets/images/oct.08.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/fritid.md
+- _category/helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Denne form for meditasjon har en fin innvirkning på både kropp og sinn. Pusten er selve livsrytmen din. Pusten er livet.....

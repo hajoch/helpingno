@@ -2,8 +2,15 @@
 layout: post
 date: 2019-06-18T07:30:07.000+00:00
 crop_image: true
-author: ''
-tags: []
+author: _authors/odd-m-lunde.markdown
+tags:
+- ekteskap
+- samliv
+- ekteskapsproblemer
+- kjærlighet
+- vennskap
+- forelskelse
+- den gode samtalen
 title: Ekteskapet
 excerpt: Det inngås mer enn 25 tusen ekteskap i året her i Norge. I løpet av året
   er det også mer enn 10 tusen skilsmisser. Hvor mange samboerskap som starter og
@@ -20,6 +27,8 @@ weight: 7
 
 ---
 Hvis vi sier at det er fire faser i et samliv. Forelskelse. Dialog. Vennskap og så kjærlighet. Disse fasene trenger ikke å komme etter hverandre eller ha en bestemt styrke. Alle fasene er viktige, men kjærlighet betinger at vi har manuvrert oss gjennom de første tre fasene. Og at vi har en trygghet for at vi kommer gjennom de tre fasene igjen og igjen. Fasene er bare ment som en modell å tenke etter.
+
+![](http://www.helping.no/ekte2.jpg)
 
 Mange velfungerende ekteskap gjerne med barn, går i stykker pga for mye vennskap. Eller mer bestemt man blir i vennskapsfasen og fester sammen med venner fredag etter fredag. En solid fest etter en kraftig og stresset arbeidsuke koster mye av helgen. Altså blir det for lite tid til den gode samtalen og forelskede følelser får ikke tid til å få tak i kroppene våre.
 

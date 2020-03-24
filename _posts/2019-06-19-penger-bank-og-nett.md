@@ -1,19 +1,32 @@
 ---
 layout: post
-date: 2019-06-19 15:30:25 +0200
+date: 2019-06-19T13:30:25.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- økonomi
+- sikkerhet på nett
+- infisert pc
+- nettbank
+- datakriminalitet
+- kontobetingelser
+- digital betaling
+- risiko
+- bankkoder
+- botnet
+- virus
 title: Penger, bank og nett?
 excerpt: 'Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innbrudd
   på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det.
   Trusselbildet endrer seg stadig.'
 image: "/assets/images/katt.jpg"
-image_caption: "Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan
-  hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.\n\n"
+image_caption: |+
+  Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.
+  Helping-maskoten skogskatten "Trille".
+
 categories:
 - _category/økonomi.md
-publish_date: 
+publish_date: 2019-09-29 00:00:00 +0200
 weight: 3
 
 ---
@@ -29,8 +42,7 @@ Bankene er fremdeles ivrige etter å forsvare nettbankbruk som sikkert nok overf
 
 Kontroller derfor din konto nøye: Ser du uregelmessigheter så ta kontakt med banken så raskt som mulig og be om en forklaring.
 
-Gå over til brevgiro ved betalings-tjenester mens du venter  
-på bedre systemer enn nettbanker er i dag?
+Gå over til brevgiro ved betalings-tjenester mens du venter på bedre systemer enn nettbanker er i dag?
 
 Ved bruk av mobiltelefoner på nettbank øker mulighetene for feiltasting. Kanskje fordi du har mer rundt deg som distraherer deg?
 

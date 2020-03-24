@@ -3,7 +3,14 @@ layout: post
 date: 2019-06-21T06:48:37.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- helse
+- vann
+- kjøpevann
+- vannkvalitet
+- plastflasker
+- vannrenser
+- EU-forskning
 title: Kreftfremkallende plastflasker
 excerpt: EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann
   avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan

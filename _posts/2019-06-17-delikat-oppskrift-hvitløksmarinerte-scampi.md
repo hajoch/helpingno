@@ -3,8 +3,15 @@ layout: post
 date: 2019-06-17T14:01:24.000+00:00
 crop_image: true
 author: _authors/jens-christian-jore-christensen.md
-tags: []
-title: 'Delikat oppskrift:  Hvitløksmarinerte SCAMPI'
+tags:
+- mat sjømat
+- 'mat '
+- oppskrift
+- scampi
+- middag
+- lett måltid
+- delikatesse
+title: Hvitløksmarinerte SCAMPI
 excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smaker
   utmerket inntil. Hvitløksbrød er også godt, og kanskje en flaske rødvin?
 image: "/assets/images/scampi2.jpg"

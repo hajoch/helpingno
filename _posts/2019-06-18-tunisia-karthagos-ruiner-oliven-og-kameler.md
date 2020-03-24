@@ -1,9 +1,20 @@
 ---
 layout: post
-date: 2019-06-18 17:20:30 +0200
+date: 2019-06-18T15:20:30.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- Tunis
+- Karthago
+- Tunisia
+- Afrika
+- MIddalhavet
+- badeferie
+- strand og sol ferier
+- Tunisia
+- olivenlunder
+- magedans
+- marked
 title: Tunisia - Karthagos ruiner, oliven og kameler.
 excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet den
   romerske politikeren Marcus Porcius Cato hvert innlegg han hadde fra talerstolen
@@ -29,6 +40,8 @@ Det er likevel det å vandre på ruinhaugene av Karthago som tiltrekker. Foresti
 
 Nå er her stille...
 
+![](http://www.helping.no/tunis1.jpg)
+
 Olivenlundene. Gamle trær, plantet med respekt og presisjon i lik avstand til hverandre i alle retninger så langt øye kan se kilometer etter kilometer langs støvete og humpete landeveier. De eldste trærne påståes å være to tusen år gamle.
 
 Oliven høstes i store mengder og eksporteres hvilket gir kjærkommen inntekt til et fattig folk.
@@ -38,6 +51,8 @@ Bord med puter og puffer som sitteplass.
 \- Prøv peppermyntete, Sir! Det er best mot tørsten.
 
 Imamen roper fra sprakende høyttalere i Moskeen. Bønnetid.
+
+![](http://www.helping.no/tunis2.jpg)
 
 Markeder med bruksting til kjøkken og jordbruk.  
 Araberfesser med dusk. Stedets mest brukte hodeplagg for far og sønn  
@@ -93,5 +108,8 @@ Jeg ser inn i to ivrige øyne.
 
 Dette er ingen spøk. Mannen mener alvor. Og om han får ett håndtrykk nå så er det en handel og den er beskyttet av landets lover.
 
-OBS: Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo")[  
-_tunisia/id2414832/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_tunisia/id2414832/)
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**

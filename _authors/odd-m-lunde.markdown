@@ -1,6 +1,6 @@
 ---
 layout: author
-title: Odd M. Lunde
+title: Odd Milton Lunde
 image: "/assets/images/authors/oddmlunde.jpg"
 
 ---
@@ -17,6 +17,5 @@ Div. sommerjobber og 1. semester som miljøterapeut på Psyk. Akuttavd. Asslegev
 **Privat:**  
 Gift og 3 voksne barn og 2 katter. Friluftsliv, hytte, reiser, akrylmaling og moderat trening er fritidsinteresser.
 
-  
 NB:  
- Psykiater Odd M. Lunde svarer ikke på spørsmål da det blir behandling.
+Psykiater Odd M. Lunde svarer ikke på spørsmål da det blir behandling.

@@ -1,8 +1,18 @@
 ---
 layout: post
-date: 2019-06-21 10:39:45 +0200
+date: 2019-06-21T08:39:45.000+00:00
 crop_image: true
-tags: []
+tags:
+- bil
+- bilverksted i Tyskland
+- pirater
+- ADAC
+- NAF
+- clutch
+- Tyskland
+- BMW
+- Saab
+- tyske priser
 title: Landeveispiratene
 excerpt: 'De fleste norske bilister tror tyske bilverksteder er betydelig billigere
   enn norske. Det er derfor nå på tide at sannheten kommer frem: Sannheten om de skyhøye,

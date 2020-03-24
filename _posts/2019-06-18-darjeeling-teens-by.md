@@ -1,9 +1,17 @@
 ---
 layout: post
-date: 2019-06-18 22:18:50 +0200
+date: 2019-06-18T20:18:50.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
+tags:
+- india
+- te
+- dyrking av te
+- eksotisk by i India
+- smalsporet jernbane fra 1881
+- Ghoom Jernbanestasjon på 2438 m.o.h.
+- Eden
+- Indias Sveits
 title: Darjeeling:Teens by
 excerpt: |-
   En natt klokken fire: Det dundrer på døren.

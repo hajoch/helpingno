@@ -1,6 +1,6 @@
 ---
 layout: author
 title: Leserinnlegg
-image: ''
+image: "/assets/images/trille6.jpg"
 
 ---

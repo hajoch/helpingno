@@ -3,17 +3,22 @@ layout: post
 date: 2019-06-21T08:03:25.000+00:00
 crop_image: false
 author: _authors/gunnar-christensen.md
-tags: []
-title: 'Forbrukertest: Rondane Spa Høyfjellshotell og Hytter nærmest høyfjellet'
-excerpt: Like under tregrensen i Rondane ligger Rondane Spa med vakker utsikt mot
-  høyfjellet. En bygningsmasse som har stått der en stund og som derfor ikke er helt
-  ny, men velholdt og fungerer greit og gir deg muligheter for flotte naturopplevelser
-  både til fots og faktisk også på sykkel helt inn til Rondevassbu. Flere fjelltopper
-  over to tusen meters ved Rondevassbu har høyde som innbyr til spreke naturopplevelser.
+tags:
+- hotelltest
+- hotell
+- Rondane
+- spahotell
+title: Rondane Spa Høyfjellshotell og Hytter nærmest høyfjellet
+excerpt: 'Forbrukertest: Like under tregrensen i Rondane ligger Rondane Spa med vakker
+  utsikt mot høyfjellet. En bygningsmasse som har stått der en stund og som derfor
+  ikke er helt ny, men velholdt og fungerer greit og gir deg muligheter for flotte
+  naturopplevelser både til fots og faktisk også på sykkel helt inn til Rondevassbu.
+  Flere fjelltopper over to tusen meters ved Rondevassbu har høyde som innbyr til
+  spreke naturopplevelser.'
 image: "/assets/images/rondanespa.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/fritid.md
+- _category/reise.md
 publish_date: 
 weight: 5
 

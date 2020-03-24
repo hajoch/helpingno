@@ -4,77 +4,23 @@ title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
 
 ---
-i [wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
+[wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
 
-**Utdannelse**  
-Utdannet Lektor basert på cand.philol. /master-grad med fagene [religion](http://www.helping.no/religioner.htm), [økonomi](http://www.helping.no/okonomi.htm) og [sosiologi](http://www.helping.no/farger.htm) fra universitetene i Oslo og Bergen
+[Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/?midToken=AQFdzOWMeaVi0g&trk=eml-email_accept_invite_single_01-header-35-profile&trkEmail=eml-email_accept_invite_single_01-header-35-profile-null-cgu7ze%7Ejyun9joy%7Ec9-null-neptune%2Fprofile%7Evanity%2Eview " linkedin")
 
-**Utgitt bøkene:**
+Journalist, lektor, forfatter.  
+Nå redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
 
-* "Styrkeprøven" 1996
-* "Skandalebøkene i Ungdomsskolen" 2004
-* "Aima" 2006
+Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshistorie hovedfag, økonomi mellomfag og media-sosiologi mellomfag fra universitetene i Oslo og Bergen. Feltforskning i India og Nepal på tibetansk buddhisme i 1979.  
+Hovedfag-avhandling "Fremmede religioner i ungdomsskolens lærebøker" ved Universitetet i Bergen 1981.  
+Avhandling i media-sosiologi: Tema Farger i markedsføring, Universitetet i Oslo 1978.
 
-  [Presseomtaler](http://www.helping.no/presse.htm)
+Utgitt bøkene: "Styrkeprøven" 1996, "Skandalebøkene i Ungdomsskolen" 2004, "Aima" 2006.
 
-**Yrkesbakgrunn**  
-Pedagogisk praksis som lærer i barne- og ungdomsskolen  
-samt foreleser ved Norsk Folkeakademi.
+Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015. Stillinger som lektor. Foreleser ved Norsk Folkeakademi. Frilansjournalist, foto, lay-out mm ved siden av studier samt faste stillinger etter studier. Bl.a. Lay-out-medarbeider i VG, Oslo. Vaktsjef i Morgenavisen, Bergen. Redaktør i Fiskets Gang, Fiskeridirektoratet i Bergen. Frilans reporter i NRK-radio Bergen, Informasjonskonsulent i NVE, Oslo.
 
-**Pressebakgrunn** bl.a. fra VG, Morgenavisen m.fl..  
-Redaktør og gründer i www.helping.no.
+Gift, 3 voksne sønner.
 
-\**Barnebok  
-\**["Aima"](http://www.helping.no/aima.htm)  
-Utgitt 2006
+[www.linkedin.com/in/gunnar-christensen-ba257b190/](http://www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
-**Roman**  
-"[Styrkeprøven](http://www.helping.no/presse.htm)"  
-Utgitt 1996
-
-**Faglitteratur**  
-"Ny-kolonialisme. De multinasjonale selskapers innflytelse på u-lands politikk og økonomi."  
-Agder Distriktshøyskole 1974.
-
-"[Farger i markedsføring](http://www.helping.no/farger.htm)"  
-Institutt for sosiologi,  
-Universitetet i Oslo 1978.
-
-"Fremmede religioner i Ungdomsskolen."  
-Kristiansand Lærerhøgskole 1978.
-
-"[Fremmede religioner i ungdomsskolens lærebøker](http://www.helping.no/religioner2.htm)".  
-Religionshistorisk institutt  
-Universitetet i Bergen 1982.
-
-"[Skandalebøkene i Ungdomsskolen](http://www.helping.no/skandalebokene.htm)",  
-Utgitt 2004  
-**Utsolgt fra forlaget**
-
-**Utredninger:**  
-"Profilering av NVE.  
-Om informasjonstjeneste og markedsføringstiltak."  
-NVE Oslo 1983
-
-**Små tekster/ Noveller**
-
-* [Nazima](http://www.helping.no/nazima.htm)  
-  www.helping.no 2001
-* [Jolla](http://www.helping.no/jolla.htm)  
-  www.helping.no 2002
-* [Hva er Gud?  
-  ](http://www.helping.no/gud.html) www.helping.no 2017
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
-
-### Hvorfor gratis bøker?
-
-Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen ofte av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel.
-
-Forfattere vil helst bli lest så lenge som mulig etter utgivelsen.
-
-De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av forlagenes rettigheter. Slik er det ikke alltid med noen småforlag.
-
-Dette systemet gjør at du går glipp av mange flotte bøker.
-
-**![](http://www.helping.no/gul2.jpg =150x5)**
+Foto: Jens Christian Jore Christensen

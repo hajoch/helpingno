@@ -1,14 +1,23 @@
 ---
 layout: post
-date: 2019-06-19 20:42:03 +0200
+date: 2019-06-19T18:42:03.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
-tags: []
-title: Turistproblemer i Kathmandudalen
+tags:
+- Nepal
+- Kathmandu
+- Hanuman Dhoka
+- turister
+- tigging
+- hindusamfunn
+- kulturskatter
+- verdensarv
+title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønnsgrupper i samfunnet:'
 image: "/assets/images/trommer.jpg"
-image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. |
+image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. Postkort
+  kjøpt i Nepal
 categories:
 - _category/reise.md
 publish_date: 
@@ -19,11 +28,19 @@ Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer temp
 
 Kathmandudalen i Nepal er et kulturelt skattekammer hvor mange såkalte "pakketurister" får svært knapp tid på seg til å oppleve de fantastiske byggverkene og det yrende folkelivet i dalens tre byer: Kathamandu, Patan og Bhadgaon.
 
+![](http://www.helping.no/templene.jpg)
+
+_Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. Foto Gunnar Christensen_
+
 Mange turister kommer til de severdige stedene i grupper med reiseleder: Får knapp tid til å utforske området etter guidens oppramsing. Så neste. Rundt dem kryr tiggere, selgere, skopussere. Fattige mennesker. De har lært at turistene kommer og reiser raskt og at de derfor ikke lærer seg prisene i dette samfunnet.
 
 Tilbudene fra alle kanter kan virke gode etter våre vestlige beregninger og verdiskalaer. Men etter nepalsk målestokk kan de være flere hundre prosent over. Så betales det forlangende ofte uvitende om prutningsmonn. Salg og kjøps forhandlinger er vanlig her, men historie i mange sammenhenger i Norge på detaljplan.
 
 Pytt, om en blir litt lurt i en handel, så betraktes det helst som uhjelp. Da har ingen tatt skade av det! Når vi derimot vet at flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn lavtlønnsgrupper i samfunnet, begynner imidlertid gavmildheten å få uante konsekvenser. Det lønner seg å tigge i Kathmandu og tigging øker derfor i omfang. Barn blir fort grepet av tigging og skolegang og andre viktige sysler må vike. Det er derfor betenkelig å gi barn som tigger.
+
+.![](http://www.helping.no/skatter.jpg)
+
+_Foto Gunnar Christensen. Vakre detaljer fra dekorasjonene i tempelbyen Kathmandu._
 
 Tiggere har sin naturlige plass i et hindusamfunn og fungerer som del av dette også uten turistene: Selv hinduer med små inntekter gir til tiggere fordi dette gir giveren en velsignelse i følge hindutroen.
 
@@ -37,6 +54,10 @@ Få kan kjøpe seg vestens ting, men fristelsene er der og økt kriminalitet er 
 
 Poppmusikken har kommet til Kathmandu. Vestens poppmusikk markedsføres og spilles i kafeer og andre offentlige steder. Den gamle lokale folkemusikken bryr ungdommen seg ikke om.
 
+![](http://www.helping.no/patannepal.jpg)
+
+_Foto Gunnar Christensen: Durbar Square i Patan har mange turstmagneter._
+
 Den stolte og vakre byggekulturen i Kathmandudalen har oftest ingen verdi for den jevne nepaleres annet enn at den bidrar til å skaffe stedet turister. Unntak fra dette er hindutempler som er i bruk og ofte uten adgang for turister. Nepal har ikke midler til å redde de mange vakre bygningene med utallige treutskjæringer.
 
 Landet er fastlåst i et sosialt system som tillater en enorm klasseforskjell. Få rike og utallige fattige på det laveste eksistensminimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge byggekulturen mener mange. Dog det ser smått ut med begge deler.
@@ -46,3 +67,5 @@ Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk pri
 De pengene vi "legger igjen" i landet til betaling for varer og tjenester har tilsynelatende større konsekvens for uland enn iland. Det er derfor av betydning at vi tenker over hvordan vi kan "legge igjen" pengene våre i dette landet på en måte som er både vertslandet og oss selv til gode:
 
 Titt litt i tiggerbollen for å se hva er vanlig å gi en tigger. Ha med mye småmynter så det som gies til tiggere kan fordeles på flere. Forhør priser flere steder før større kjøp, men vær ikke gjerrig: Ofte ligger stort arbeid og godt håndverk bak tingene som er til salgs i Nepal.
+
+**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**

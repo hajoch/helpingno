@@ -1,8 +1,14 @@
 ---
 layout: post
-date: 2019-06-21 15:22:57 +0200
+date: 2019-06-21T13:22:57.000+00:00
 crop_image: true
-tags: []
+tags:
+- Ford
+- Mustang
+- sportsbil
+- Biltest
+- bruktbiltest
+- amerikansk Ford
 title: Guttedrømmen blir virkelighet
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
@@ -22,6 +28,8 @@ Bilen har fått sitt navn etter en amerikansk hestetype. Denne hestetypen er et 
 
 Når du kjører rundt i denne bilen øker selvtilliten. Overalt møter man vinkende, gispende og jublende glade mennesker som elsker bilen din. Mustangen vekker utrolig oppmerksomhet med sine klassiske fartsstriper, sitt herlige design og brummende V8'er, spesielt på norske veier som ellers er fylt opp med kjedelige stasjonsvogner og flerbruksbiler ikledd mørke farger.
 
+![](https://www.helping.no/mustang3.jpg)
+
 _Mustangens interiør er av gammelt design og bringer deg tiår tilbake i tid. Det er enkelt, men veldig smakfullt og lekkert. Dette retro-interiøret gir følelsen av at dette er en gammel bil, men på en god måte._
 
 Ford Mustangen er en legendarisk muskelbil produsert i USA som først kom ut i 1964. Bilen var billig, sporty og ungdommelig, og ble umiddelbart en hit. Denne første generasjonen Mustang er den mest kjente og elskede. De påfølgende generasjonene var også flotte biler og Mustangens salgstall og popularitet bestod. Selv de, etter min mening, skamfulle 80 - og 90-talls Mustangene i tredje og fjerde generasjon solgte godt. Jeg mener at disse modellene er et mørkt kapittel i den ellers imponerende Mustang historien, men heldigvis nå i femte generasjon Mustang, bringer Ford tilbake de herlige design-linjene vi kjenner så godt fra Mustangens barndom. Utseende er blitt røffere og kraftigere siden den gang, men man ser enkelt at de gode gamle linjene er tilbake.
@@ -36,4 +44,4 @@ Når du så vrir om nøklen brummer umiddelbart 425 ville mustang hester som er 
 
 Det tar i likhet med mange andre biler litt tid å bli helt komfortabel med Mustangen. Blant annet er bilens girspak er hardt å gire med, spesielt i den første prøveturen på grunn ulikheten fra en vanlig personbil, men om litt føles også denne perfekt ut. Det er først etter man er kommet over ulikhetene fra vanlige biler og frykten for å skade en slik dyr og kraftfull bil at man virkelig kan nyte Mustangen. Nyte den brutale og eksplosive akselerasjon, den høylytte herlige amerikanske åttesylindrede motorduren og rett og slett hele følelsen ved å kjøre bilen. Etter å ha kjørt denne bilen sitter jeg igjen med en øresus og en opplevelse som har brent seg inn i minnet mitt for evig tid.
 
-_Mustangen er en bil som skiller seg ut fra mengden._
+Mustangen er en bil som skiller seg ut fra mengden.
