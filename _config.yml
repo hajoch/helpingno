@@ -37,6 +37,8 @@ collections:
     title: Category
     output: true
     permalink: /category/:title
+  card:
+    title: Card
 
 defaults:
   -

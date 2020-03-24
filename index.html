@@ -29,7 +29,7 @@ END NOTE -->
           <div class="uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
           </div>
           <div class="uk-overlay uk-overlay-default uk-position-bottom">
-            <h1>{{ main.title }}</h1>
+            <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
             <p>{{ main.excerpt }}</p>
           </div>
         </div>
@@ -79,14 +79,14 @@ END NOTE -->
             <span uk-filter-control="sort: data-readtime; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: arrow-up"></a></span>
         </div>
       </div>
-      <div class="js-filter uk-child-width-1-2@s uk-child-width-1-3@m" uk-grid="masonry: true">
+      <div class="js-filter uk-child-width-1-2@s uk-child-width-1-3@m" uk-grid="masonry: true" uk-grid uk-scrollspy="cls: uk-animation-scale-up uk-animation-fast; target: .uk-card;">
         {% assign filterposts = posts | slice: 4, 1000 %}
         {% for post in filterposts %}
           {% assign pagecategories = post.categories | join:',' %}
           {% assign categories = site.category | where: 'path', pagecategories | map: "title" | join: " " %}
 
           <div data-category="{{ categories }}" data-readtime="{{ post.content | number_of_words }}">
-            {% include card-post.html %}
+            {% include card-post.html post=post %}
           </div>
         {% endfor %}
       </div>

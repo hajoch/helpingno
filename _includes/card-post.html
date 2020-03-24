@@ -1,22 +1,22 @@
     <div>
-      <a href="{{ post.url | prepend: site.baseurl }}" class="uk-link-toggle">
+      <a href="{{ include.post.url | prepend: site.baseurl }}" class="uk-link-toggle">
         <div class="uk-card uk-card-default uk-box-shadow-hover-small">
-            {% if post.image %}
+            {% if include.post.image %}
             <div class="uk-card-media-top">
               <div class="image-fill small-height">
-                <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" data-src="{{ post.image | prepend: site.baseurl }}" alt="" uk-img>
+                <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" data-src="{{ include.post.image | prepend: site.baseurl }}" alt="" uk-img>
               </div>
             </div>
             {% endif %}
             <div class="uk-card-body uk-padding-small">
                 <h3 class="uk-card-title uk-margin-remove">
-                  <a class="uk-link-heading" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  <a class="uk-link-heading" href="{{ include.post.url | prepend: site.baseurl }}">{{ include.post.title }}</a>
                 </h3>
                 <div class="ingress uk-divider">
-                  {% if post.excerpt != '' %}
-                    <p>{{ post.excerpt | truncate: 200 }}</p>
+                  {% if include.post.excerpt != '' %}
+                    <p>{{ include.post.excerpt | truncate: 200 }}</p>
                   {% else %}
-                    <p>{{ post.content | truncate: 200 }}</p>
+                    <p>{{ include.post.content | truncate: 200 }}</p>
                   {% endif %}
                 </div>
                 {% include base/post-categories.html %}
