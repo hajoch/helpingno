@@ -18,7 +18,7 @@ image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date: 
+publish_date:
 weight: 3
 
 ---

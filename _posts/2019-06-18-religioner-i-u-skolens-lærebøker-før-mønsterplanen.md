@@ -20,7 +20,7 @@ image: "/assets/images/skandalestor-1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date: 
+publish_date:
 weight: 9
 
 ---
@@ -53,7 +53,7 @@ Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bok
 **Last ned gratis bok:   
 (OBS: Funksjonen er midlertidig ute av drift)**
 
-\- Last ned hele boken i [**pdf format**](http://www.helping.no/skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)   
+\- Last ned hele boken i [**pdf format**](http://www.helping.no/assets\docs\skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)   
 (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
 
 **Papirutgave**  
@@ -82,6 +82,8 @@ NRK-antydet i intervjuet med forfatteren at boka ble utgitt på et alternativt f
 Virkeligheten i Norge er ikke slik at forfattere kan velge og vrake blant forlag: Man tar det forlaget som er villig til å gi ut boka.
 
 Forfatteren Gunnar Christensen er takknemlig for at er lite forlag som den gang het Ildsjelen ville ta på seg å gi ut boka selv om den ikke er en alternativ bok.
+
+{% include media/audioplayer.html src="assets/audio/VOC022.mp3" %}
 
 **Hvorfor gratis bøker?**  
 Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel. Forfatteren vil helst bli lest så lenge som mulig etter utgivelsen. De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med små forlag. Dette systemet gjør at du går glipp av mange flotte bøker.
