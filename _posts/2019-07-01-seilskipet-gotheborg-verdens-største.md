@@ -32,3 +32,5 @@ Byggingen av skipet startet i 1995 og den første seilas var med ferdig bygget s
 ![](http://www.helping.no/got7.jpg)
 
 ![](http://www.helping.no/got2.jpg)
+
+**Vi beklager tekniske problemer med bilder. Feilen rettes så raskt vi kan.**
