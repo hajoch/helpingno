@@ -20,7 +20,7 @@ image: "/assets/images/skandalestor-1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date:
+publish_date: 
 weight: 9
 
 ---
@@ -50,10 +50,9 @@ Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bok
 
 ![](http://www.helping.no/skandalestor.jpg)
 
-**Last ned gratis bok:   
-(OBS: Funksjonen er midlertidig ute av drift)**
+**Last ned gratis bok:**
 
-\- Last ned hele boken i [**pdf format**](http://www.helping.no/assets\docs\skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)   
+\- Last ned hele boken i [**pdf format**](http://www.helping.no/assets\\docs\\skandalebokene.pdf)**.** Høyreklikk på linken over og trykk lagre mål som i menyen som dukker opp. Størrelse: 0,98 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)  
 (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
 
 **Papirutgave**  
