@@ -111,5 +111,3 @@ Vi har krøpet inn i soveposene og lukket glidelåsen i teltet. Satt på et lite
 Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i dreggfeste.
 
 Tittans øyelokk blir tyngre og tyngre og søvnen siger på.
-
-![](http://www.helping.no/dove.gif)
