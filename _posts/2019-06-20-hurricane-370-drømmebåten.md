@@ -69,7 +69,4 @@ Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at de
 
 Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha på en liten kalesje for å holde den tørr. Da blir båten tett og klarer seg gjennom regnvær uten problemer.
 
-Flere bilder:  
-[https://www.helping.no/bat.ung.htm](https://www.helping.no/bat.ung.htm "https://www.helping.no/bat.ung.htm")
-
 ![](https://www.helping.no/hurricsne22.jpg)
