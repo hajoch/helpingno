@@ -39,7 +39,7 @@ publish_date:
 weight: 10
 
 ---
-Slik ble Styrkeprøven til
+**Slik ble Styrkeprøven til**
 
 "DEN LILLE MANNS KAMP"  
 \- Hvordan takle livet etter en trafikkskade?
