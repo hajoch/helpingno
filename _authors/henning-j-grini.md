@@ -12,13 +12,13 @@ Henning er utdannet ved Norsk Hotellhøgskole og har yrkespraksis fra hotellnær
 
 Leder for Alternativt Forum i Arendal i flere år.
 
-Har designet flere websteder og har allsidig og kreativ dataerfaring.
+Har designet flere web-steder og har allsidig og kreativ dataerfaring.
 
 Redaktør, designer og daglig leder av magasinet Ildsjelen med tidsskrift, nettsted og forlag i 15 år med ansvar for utgivelse av en rekke bøker og nettbutikk.
 
 Arrangør av en rekke foredrag med internasjonalt kjente personer samt egne foredrag.
 
-Typograf / lay-out-medarbeider i dagsavisen Arendals Tidende
+Typograf / layout-medarbeider i dagsavisen Arendals Tidende
 
 Daglig leder og forfatter i  
 [ www.gaiainnovations.org](https://www.gaiainnovations.org/)
