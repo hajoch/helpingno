@@ -20,20 +20,20 @@ image: "/assets/images/hurric-370-a.jpg"
 image_caption: Foto Gunnar Christensen. Flere bilder se https://www.helping.no/bat.ung.htm
 categories:
 - _category/båt.md
-publish_date: 
+publish_date:
 weight: 7
 
 ---
 Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20 knop og ligger fint i sjøen med liten planings-terskel. Den er behagelig, trygg og stødig å kjøre med denne motoren på grunn av god bredde bak og solid v-bunn. Sjøene tar den uten å gi sprut inn i båten. Men prøver du å kjøre raskt inn i en krapp hekksjø kan den ta inn vann over dekk.
 
-![](https://wwww.helping.no/assets/images/hurricane15.jpg)
+![](/assets/images/hurricane15.jpg)
 
 **Winrace, Hurricane eller Cyber**  
 Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som racebåt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.
 
 Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.
 
-![](https://wwww.helping.no/assets/images/hurricane8.jpg)
+![](/assets/images/hurricane8.jpg)
 
 Utviklingen av Winrace racebåtene kan sees på linkene under:  
 [www.facebook.com/winracepropellers](http://www.facebook.com/winracepropellers)
@@ -45,7 +45,7 @@ Hurricane 370 er nå blitt en kostbar båt i nyanskaffelse og bruktbåter av den
 
 Vi treffer stadig på ungdom over 16 som er så glad i denne båten at de beholder den, men skifter til større motor - som 20 - 25 hk - straks aldersgrensen på 16 er passert.
 
-![](https://wwww.helping.no/assets/images/h370-kabin.jpg)
+![](/assets/images/h370-kabin.jpg)
 
 **Advarsel!**  
 Når du søker etter brukt Hurricane og Cyber på finn.no eller andre annonseorganer er det lett å bli lurt. Mange konstruksjoner bruker disse navnene for å markedsføre båten sin uten at den er i nærheten av å være ekte vare. De bare likner på en ekte Hurricane.
@@ -57,7 +57,7 @@ Lar du deg lure til å kjøpe en piratkopi kan du få ubehagelige overraskelser 
 **Testet i 8 sesonger**  
 Vi har i en periode på 8 sesonger testet versjonen av båten som heter Hurricane 370. Skroget har blå metallakk med gult dekk. Gult er en signalfarge som er godt synlig på fjorden og gir derfor god sikkerhet: Du blir sett. Mørke farger på denne båten er derfor ikke så lurt.
 
-![](https://wwww.helping.no/assets/images/hurricane-5.jpg)
+![](/assets/images/hurricane-5.jpg)
 
 **To motorer**  
 To motorer er med i testen. Først en **Tohatsu** 8 hk senere en **Yamaha** 9,9 hk trimmet til 15. Begge motorene passer ypperlig på båten, men 9,9/15 hk får båten raskt i plan og det går greit med to lette personer i båten.
@@ -69,7 +69,4 @@ Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at de
 
 Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha på en liten kalesje for å holde den tørr. Da blir båten tett og klarer seg gjennom regnvær uten problemer.
 
-Flere bilder:  
-[https://www.helping.no/bat.ung.htm](https://www.helping.no/bat.ung.htm "https://www.helping.no/bat.ung.htm")
-
-![](https://wwww.helping.no/assets/images/hurricsne22.jpg)
+![](assets/images/hurricsne22.jpg)

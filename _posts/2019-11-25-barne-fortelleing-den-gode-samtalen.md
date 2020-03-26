@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-25 18:45:34 +0100
+date: 2019-11-25T17:45:34.000+00:00
 crop_image: true
 tags:
 - barnabok
@@ -16,7 +16,7 @@ tags:
 - Gunnar Christensen
 - Galtesund
 - Gjessøya
-title: 'Barn-voksen: "Den gode samtalen". Novelle'
+title: '"Den gode samtalen". Novelle for barn og voksne'
 excerpt: Den gode samtalen mellom foreldre og barn er en av de viktigste tegn på et
   godt foreldre-barn-forhold. Det er viktig med slike samtaler fordi det skaper trygghet,
   innsikt og refleksjoner for begge parter. Novelle.
@@ -25,8 +25,8 @@ image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
-publish_date: 2019-11-25 00:00:00 +0100
-weight: 9
+publish_date: 2020-03-25 00:00:00 +0100
+weight: 10
 
 ---
 Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Capsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
@@ -108,7 +108,7 @@ Vi ler igjen. Tittan svarer:
 
 Vi har krøpet inn i soveposene og lukket glidelåsen i teltet. Satt på et lite nattlys på lykta så vi finner veien ut av teltet i mørket om vi skal tisse.
 
-Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i dreggfeste.
+Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i dregg-feste.
 
 Tittans øyelokk blir tyngre og tyngre og søvnen siger på.
 

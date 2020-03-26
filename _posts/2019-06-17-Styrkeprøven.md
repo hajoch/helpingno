@@ -39,7 +39,7 @@ publish_date:
 weight: 10
 
 ---
-Slik ble Styrkeprøven til
+**Slik ble Styrkeprøven til**
 
 "DEN LILLE MANNS KAMP"  
 \- Hvordan takle livet etter en trafikkskade?
@@ -110,5 +110,3 @@ ALBERT HENRIK MOHN, Bergen Arbeiderblad.
 **Link for nedlasting:**
 
 Last ned hele boken i [**pdf format**](http://www.helping.no/assets/docs/styrkeproven.pdf)**.** Høyreklikk på linken over og trykk **lagre mål som** i menyen som dukker opp. Størrelse: 1,43 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**

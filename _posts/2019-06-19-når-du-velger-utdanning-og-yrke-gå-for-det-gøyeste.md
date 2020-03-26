@@ -5,6 +5,11 @@ crop_image: true
 author: _authors/christoffer-jore-christensen.md
 tags:
 - yrkesvalg
+- hva liker du best å gjøre?
+- yrke
+- utdanning
+- skolegang
+- jobb
 title: 'Når du velger utdanning og yrke: Gå for det gøyeste!'
 excerpt: 'Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ikke
   vanskelig om du stiller deg selv et enkelt spørsmål: Hva er det aller gøyeste du

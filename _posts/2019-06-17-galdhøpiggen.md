@@ -63,13 +63,11 @@ om du har med små barn eller besteforeldre på turen.
 Viktigst på turen er den vakre naturopplevelsen  
 \- særlig om du er heldig med været.  
 Se også:  
-[Gjende](http://helping.no/gjende.htm) Jotunheimens perle ved Besseggen
+ Jotunheimens perle ved Besseggen
 
-[Sognefjellsvegen ](http://helping.no/sognefjellet.htm)Nord-Europas høyeste fjellovergang 1434 moh
+Nord-Europas høyeste fjellovergang 1434 moh
 
-\- og egne forsiktigshetsregler når du går på isbre.
-
-Flere bilder: [https://www.helping.no/gald.htm](https://www.helping.no/gald.htm)
+\- og egne forsiktighetsregler når du går på isbre.
 
 ![](https://wwww.helping.no/assets/images/ga.2.gc.jpg)
 
