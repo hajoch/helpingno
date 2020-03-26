@@ -22,7 +22,7 @@ weight: 1
 ---
 Sørlandet er tremastet fullrigger på 577 bruttotonn, 64 m lang, 9 m bred og største mastehøyde 34 m.
 
-![](http://www.helping.no/seilskute.jpg)  
+![](/assets/images/seilskute.jpg)  
 Flere bilder mm  
 [https://www.helping.no/sorlandet.htm](https://www.helping.no/sorlandet.htm)
 
@@ -32,4 +32,4 @@ Seilskipet Sørlandet er finansiert av skipsreder O. A. T Skjelbred og bygget ve
 
 Link: [http://www.youtube.com/watch?v=v6DZIvMZWzQ](http://www.youtube.com/watch?v=v6DZIvMZWzQ "http://www.youtube.com/watch?v=v6DZIvMZWzQ")
 
-![](http://www.helping.no/sorlandet4.jpg)
+![](/assets/images/sorlandet4.jpg)

@@ -22,7 +22,7 @@ publish_date:
 weight: 5
 
 ---
-**![](http://helping.no/polar.20_hvit.jpg =472x185)**
+**![](https://wwww.helping.no/assets/images/polar.20_hvit.jpg =472x185)**
 
 Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjermesjektenes scharme fra trebåtens storhetstid før plastbåtene kom på markedet.
 

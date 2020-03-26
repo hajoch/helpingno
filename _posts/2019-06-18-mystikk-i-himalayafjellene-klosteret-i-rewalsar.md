@@ -27,7 +27,7 @@ image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsa
   master/hovedoppgave i religionsvitenskap.
 categories:
 - _category/reise.md
-publish_date: 
+publish_date:
 weight: 3
 
 ---
@@ -61,7 +61,7 @@ Fjell-landskapet glitret i sol fra nysnø da pilegrimene begynte den bratte opps
 
 En smilende rinposhe tar imot pilegrimene i sin spartanske fjellhule. Legfolk lager smørte - godt blandet med smør og sukker etter gammel oppskrift.
 
-![](https://www.helping.no/rewalsar.jpg)
+![](https://wwww.helping.no/assets/images/rewalsar.jpg)
 
 _Foto Gunnar Christensen, redigert av Henning Jon Grini._
 

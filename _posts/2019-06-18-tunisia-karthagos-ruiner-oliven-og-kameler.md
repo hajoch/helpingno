@@ -40,7 +40,7 @@ Det er likevel det å vandre på ruinhaugene av Karthago som tiltrekker. Foresti
 
 Nå er her stille...
 
-![](http://www.helping.no/tunis1.jpg)
+![](/assets/images/tunis1.jpg)
 
 Olivenlundene. Gamle trær, plantet med respekt og presisjon i lik avstand til hverandre i alle retninger så langt øye kan se kilometer etter kilometer langs støvete og humpete landeveier. De eldste trærne påståes å være to tusen år gamle.
 
@@ -52,7 +52,7 @@ Bord med puter og puffer som sitteplass.
 
 Imamen roper fra sprakende høyttalere i Moskeen. Bønnetid.
 
-![](http://www.helping.no/tunis2.jpg)
+![](/assets/images/tunis2.jpg)
 
 Markeder med bruksting til kjøkken og jordbruk.  
 Araberfesser med dusk. Stedets mest brukte hodeplagg for far og sønn  
@@ -79,7 +79,7 @@ Selgere smiler lurt i den grå barten, tørker svetten av pannen og vinker meg f
 \- Du spøker.  
 \- Tro hva du vil.
 
-![](http://www.helping.no/tunis3.jpg)
+![](/assets/images/tunis3.jpg)
 
 **Store til tider forblåste sandstrender er viktigste turistmål.**
 

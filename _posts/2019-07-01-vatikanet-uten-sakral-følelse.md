@@ -26,44 +26,44 @@ publish_date:
 weight: 2
 
 ---
-![](https://www.helping.no/vat9.jpg)
+![](https://wwww.helping.no/assets/images/vat9.jpg)
 
 Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Petersplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 
-![](http://www.helping.no/vati2.jpg)
+![](/assets/images/vati2.jpg)
 
 Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet inn i verdens mest berømte kirke. Køene er enorme både utenfor og inne i Peterskirken.
 
 Innerst i kirken er en messe i gang. Unge sikkerhetsvakter i sort dress stopper meg: "Not for tourists". Bare italiensk-talende slipper inn til messen i Peterskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
 
-![](https://www.helping.no/vat.jpg)
+![](https://wwww.helping.no/assets/images/vat.jpg)
 
 **Peterskirken:**  
 Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp fra den indre kuppelen - til toppen av den utvendige kuppelen. Her er Romas fineste utsikt. Peterskirken tar ikke inngangsbillett.
 
 De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. Som å vandre i et populært og vakkert museum. Peterskirken tar ikke inngangsbillett.
 
-![](http://www.helping.no/peterspl.jpg)
+![](/assets/images/peterspl.jpg)
 
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
-![](http://www.helping.no/vat4.jpg)
+![](/assets/images/vat4.jpg)
 
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shops: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
 
-![](http://www.helping.no/vat2.jpg)
+![](/assets/images/vat2.jpg)
 
 En liten suvenir shop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to hals-hengende cruse fixer til tre euro stykket. Peterskirken har flere populære suvenir-shopper.
 
-![](https://www.helping.no/vati2.jpg)
+![](https://wwww.helping.no/assets/images/vati2.jpg)
 
 Detalj fra inni Peterskirken
 
-![](http://www.helping.no/vat7.jpg)
+![](/assets/images/vat7.jpg)
 
 Også gateselgernes utvalg preges av Peterskirken.
 
-![](http://www.helping.no/roma4.jpg)
+![](/assets/images/roma4.jpg)
 
 **(OBS: Beklager. Vi har nylig skiftet design og alt er ennå ikke på plass, bl.a. flere bilder, men det kommer)**

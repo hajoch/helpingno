@@ -25,13 +25,13 @@ image_caption: "Broder Claude er munk i klosteret Tamie i de franske alpene. \nF
   Gunnar Christensen "
 categories:
 - _category/religion.md
-publish_date: 
+publish_date:
 weight: 7
 
 ---
 Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og brødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
 
-![](https://www.helping.no/frankrikelite.jpg)
+![](https://wwww.helping.no/assets/images/frankrikelite.jpg)
 
 **Rekreasjon**  
 Mange nordmenn forestiller seg munker som alvorlige, andektige menn i upraktiske klær - bak lukkede dører, fjernt fra vår hverdag opptatt med bøker og bønn. Denne oppfatningen må revideres etter hvert som en blir mer kjent og fortrolig med klosterlivets mange sysler og funksjoner. Munkenes smittende gode humør og behagelige vesen gjør et besøk i Tamié til et hyggelig minne.
@@ -45,7 +45,7 @@ Maten serveres hovedsakelig fra eget bruk. De store runde brødene bakes i klos-
 
 Gjestene har oftest flere motiver for klosterbesøket enn rekreasjon og magens ve og vel. Stillheten i den avstressende klosteratmosfæren gir fred i sinnet og mulighet for religiøs fordypning. Lang erfaring med kristen meditasjon og bønn er munkenes form for ekspertise. Dette gir gjestene trygghet. Den som vil ta opp personlige eller religiøse spørsmål og problemer møter alltid åpenhet og forståelse på Tamié.
 
-![](http://www.helping.no/munker.jpg)
+![](/assets/images/munker.jpg)
 
 **Spesiell akustikk**  
 Den enkle steinbygde klosterkirken i Tamié er midtpunktet syv ganger daglig. Munkene står opp klokken tre om morgenen og en halv time senere synger og ber de i kirken. I løpet av dagen følger flere gudstjenester frem til like før munkene går til sengs klokken 20. Gjestene behøver ikke følge denne dagsrytmen, men det er av og til fristende å gjøre det fordi gudstjenestene deres er vakre. Orgel, harpe, mannskor og de spesielle akustiske forholdene i kirken, gjør at korsangen deres i skjønnhet overgår alt jeg tidligere har opplevd i noen kirke.
@@ -57,7 +57,7 @@ At munkene til daglig er opptatt av åndelig fordypning kan kanskje virke unytti
 
 Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, støyende by- og fabrikksentra turen gikk gjennom på vei til Alpene fra Norge. De tyske storbyene med støy og frustrasjon samt autobahner med en uendelighet av biler, fikk meg til å oppleve Tamié som en vakker oase av kjærlighet og menneskelighet.
 
-![](https://www.helping.no/tamie1.jpg)
+![](https://wwww.helping.no/assets/images/tamie1.jpg)
 
 ### Intervju: Broder Paul: En overskridelse
 

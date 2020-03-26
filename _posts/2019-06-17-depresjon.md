@@ -82,7 +82,7 @@ Ikke tro at piller eller rus kan hjelpe deg. Rus gjør alt så mye verre.
 
 **Søk nærhet - ta kontakt:**
 
-![](http://www.helping.no/februar1.jpg)
+![](/assets/images/februar1.jpg)
 
 Depresjon fører ofte til at du isolerer deg fordi du ikke har overskudd til å være sosial. Likevel . Ikke isoler deg. Kontakt med andre mennesker er viktig for å komme ut av depresjonen. Søk de vennene som du opplever som mest positive. Ikke snakk bare om depresjon med dem, men mest om positive temaer.
 

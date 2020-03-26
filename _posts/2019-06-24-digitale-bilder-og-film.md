@@ -38,7 +38,7 @@ Vi sendte inn memory-brikken til rekonstruksjon, men lykkes likevel ikke å få 
 
 Det er dyrt å slurve med å ta sikkerhetskopier. Kjøp en ekstern HD til backup for bildene dine. Vi garderer oss med å ha bildene på 3 PCer og to eksterne HD nå. Backup i bankboksen.
 
-![](https://www.helping.no/des.5.JPG)
+![](https://wwww.helping.no/assets/images/des.5.JPG)
 
 **Digitalfilm:**  
 Brenn inn på DVD eller ekstern HD  

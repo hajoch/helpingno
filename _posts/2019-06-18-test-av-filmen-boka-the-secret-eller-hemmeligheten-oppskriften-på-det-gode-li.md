@@ -59,7 +59,7 @@ Siden loven om tiltrekning virker kontinuerlig er det viktig å bli klar over hv
 
 **Den magiske Takknemlighet-teknikken**
 
-![](http://www.helping.no/stein.jpg)
+![](/assets/images/stein.jpg)
 
 Gå til stranden eller et annet sted hvor du finner en fin liten stein. Plukk den opp og ha den i lomma fremover. Hver gang du ser på, berører eller tar ut denne steinen av lomma - f.eks. hver kveld - så tenk på noe du er takknemlig for. Det kan være noe positivt du har, noe positivt du har opplevd eller hva som helst som du er takknemlig for og som du gjerne skulle hatt mer av.
 

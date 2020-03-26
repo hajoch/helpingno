@@ -48,7 +48,7 @@ Dette er en typisk begynnererfaring. Man ser på pris og stoler for mye på løg
 **Andre kjøp er en Honda**  
 En nabo hadde en gammel Honda freser fra begynnelsen av åttitallet. Han hjalp til når min MTD måtte på verksted tre ganger på en vinter. Det forundret meg at en gamle freser fra 1980-tallet med syv hestekrefter kastet snøen flere meter opp i luften og gikk uten feil år etter år.
 
-![](http://www.helping.no/honda970.jpg)
+![](/assets/images/honda970.jpg)
 
 **Hydrostat er bedre**  
 Neste sesong bar det til Honda-forhandler: En Honda-freser på 8 hk type 970 med snorstart, hydrostat med hjul kostet 29 tusen spenn, men jeg fikk en fjorårsmodell lite brukt for 22 spenn med kjetting og ett års garanti. Mer enn nok dyrt synes jeg: Omkring det dobbelte av hva jeg hadde gitt for MTDen i sin tid. Og MTD-en ville Honda-forhandleren ikke ta i innbytte. Den måtte selges gjennom annonse på nett.

@@ -32,7 +32,7 @@ Mange bedrifter har innført noe de kaller for avspasering. En kjempeordning til
 
 Men så må du daglig ta inn natur daglig en ganger tre. Du må innom en park eller se litt på sjøen eller lukt i en fjellvegg som på kontoret mitt. Du må åpne vinduet ditt og trekke pusten og lukte på verden utenfor ditt slott eller hytte. Kan du gå til jobben trenger du bare en kort kveldstur for å oppleve katter og småfugler i nabolaget ditt. En bokfink kurerer gruff med et pip. Tre slike øyeblikk eller halvtimer daglig må du unne deg.
 
-![](http://www.helping.no/helselogo.jpg)
+![](/assets/images/helselogo.jpg)
 
 Du må se, høre, føle vinden, lukte og smake på naturen. Den er ikke som den andre lykkepillen som legen setter deg på. Du skal sette deg på naturen og. Men helst for å ta deg et eple og noen hasselnøtter. Eller du finner bær eller sopp som steinaldermennesket før deg.
 

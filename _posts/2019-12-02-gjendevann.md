@@ -22,16 +22,16 @@ publish_date:
 weight: 3
 
 ---
-![](http://www.helping.no/gjende3.jpg)
+![](/assets/images/gjende3.jpg)
 
-![](http://www.helping.no/gjende2.jpg)
+![](/assets/images/gjende2.jpg)
 
-![](http://www.helping.no/gjende8.jpg)
+![](/assets/images/gjende8.jpg)
 
-![](http://www.helping.no/gjende9.jpg)
+![](/assets/images/gjende9.jpg)
 
-![](http://www.helping.no/gjende5.jpg)
+![](/assets/images/gjende5.jpg)
 
-![](http://www.helping.no/gjende1.jpg)
+![](/assets/images/gjende1.jpg)
 
 **( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**

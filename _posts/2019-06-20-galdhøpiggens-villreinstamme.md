@@ -23,7 +23,7 @@ image: "/assets/images/villrein.jpg"
 image_caption: Foto Christoffer J. Christensen og Hallvard J. Christensen
 categories:
 - _category/reise.md
-publish_date: 
+publish_date:
 weight: 5
 
 ---
@@ -31,7 +31,7 @@ Villreinflokken beveger seg raskt og smidig. Gråbrun, strihåret pels, også pe
 
 En lav, gryntende eller snøftende lyd kommer fra flokken såkalt, garting.
 
-![](https://www.helping.no/villreinx.jpg)
+![](https://wwww.helping.no/assets/images/villreinx.jpg)
 
 Kameralyd.  
 Frihåndsopptak.
@@ -46,7 +46,7 @@ Kroppslengde inntil 220 cm, boghøyde inntil 125 cm. Totalvekt for en reinsbukk 
 
 Sommerbeitet ser karrig ut her oppe på snaufjellet. Men dette er en nøysom art. Om vinteren består 40-80 % prosent av maten av lav fra bakken og trær. Resten består av tørt gress og buskevekster. Om sommeren spiser reinen urter, gress, dvergbusker og noe lav.
 
-![](https://www.helping.no/villrein3.jpg)
+![](https://wwww.helping.no/assets/images/villrein3.jpg)
 
 Villreinen finnes i Nordlige deler av Europa, Asia, Nord-Amerika, Svalbard og Grønland. Tamrein er satt ut både på Sør-Georgia og Island. I Norge har vi villrein (Rangifer tarandus tarandus) kun i de sørlige fjellområdene våre fra Sør Trøndelag og sørover. I tillegg til villreinen på fastlandet har vi også Svalbardrein (Rangifer tarandus platyrhynchus) på Svalbard. Tamreindrift drives i dag i store deler av Nord-Norge helt sør til deler av Oppland og Hedmark.
 

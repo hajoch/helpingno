@@ -18,7 +18,7 @@ image: "/assets/images/nikondk1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/foto.md
-publish_date: 
+publish_date:
 weight: 3
 
 ---
@@ -32,7 +32,7 @@ Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pres
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
-![](http://www.helping.no/nokondk2.jpg)
+![](/assets/images/nokondk2.jpg)
 
 **Førsteinntrykket**  
 Førsteinntrykket av dette kameraet er posistivt. Faktisk veier ikke denne Nikon D 3100 mer enn mange hybridkameraer. Faktisk føles det lettere enn hybrid-kameraet [Olympus](http://www.helping.no/olympus.htm) PEN med Nikkor 18-55 f. 3,5-5,6. Nikon 3100 ligger godt i hånden og er lett å bruke. Familien liker det umiddelbart og synes det er gøy å ta bilder med det.
@@ -58,7 +58,7 @@ Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er 
 **Valg av kameratype**  
 Mange lurer på dette valget: Hybrid kamera eller et nytt lett speilrefleks i samme prisklasse. Sammenlikning av Nikon 3100 opp mot Olympus PEN levner ingen tvil: Nikon 3100 er best på kvalitet og brukervennlighet. Det er fristende å legge til "mest for pengene" etter som Olympus-kameraet fikk teknisker problemer under testen på helping.no.
 
-![](http://www.helping.no/skagen.jpg)
+![](/assets/images/skagen.jpg)
 
 **Filtertips**  
 Har du brukt speilreflekskamera i flere tiår så ligger det i ryggmargen at du ikke tar i bruk et nytt objektiv før du har fått på et filter. Skylight eller helst UV. Det er den beste objektivforsikring du kan få.
@@ -74,7 +74,7 @@ Vi har valgt en gummisolblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilb
 
 **Helping hjelper deg med Nikon-modellene**
 
-![](https://www.helping.no/nikond3100.jpg)
+![](https://wwww.helping.no/assets/images/nikond3100.jpg)
 
 De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine. Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.
 
@@ -82,7 +82,7 @@ På spørsmål til Nikon Norge om en modellorientering svarer
 "Marketing Coordinator" Eva Gullerud slik:  
 \- Akkurat hvorfor vi har brukt de ulike modelltallene, har jeg ikke noe godt svar på. Men jeg vet vi har "gått tom" for tall fra 40-90 serien, og vi har måttet begynne med 1000 og oppover istedenfor."
 
-![](http://www.helping.no/nikon4.jpg)
+![](/assets/images/nikon4.jpg)
 
 **Oversikt over de tidligste digitale Nikon speilrefleks-modellene;**
 

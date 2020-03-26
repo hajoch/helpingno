@@ -29,7 +29,7 @@ weight: 2
 **Nye kart**  
 Det er ikke så enkelt at hver båteier kan rapportere grunner og så er det på plass i kartet. Grunnen må måles og registreres med avansert måleinstrumenter før det kan nedtegnes. Og oppdatering skjer fortløpende, men mye gjenstår. Dette betyr i praksis at det er viktig å ha nye kart i båten når du er i ukjent farvann. Og om du har det nyeste papirkartet er du fremdeles ikke sikker på at dette viser alt.
 
-![](http://www.helping.no/mai.02.jpg)
+![](/assets/images/mai.02.jpg)
 
 Elektronisk måleutstyr - kartplotteren - gir heller ikke optimal trygghet for de samme kartene med feil ligger også der. I tillegg kan det skje tekniske feil med dette utstyret. 
 

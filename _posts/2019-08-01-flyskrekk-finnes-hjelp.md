@@ -30,7 +30,7 @@ I den andre delen får man i doser litt og litt informasjon om hvordan et fly er
 
 Øvelse i teknikkene og innsikt i hvordan ting foregår har en svært positiv effekt på dem som er nervøse for starten og slutten på sin ferietur. De balanserer hverandre godt og man føler seg tryggere under flyvningen enn man gjorde før man hørte på "På vei til fly-glede"-CD'ene slik jeg opplevde det.
 
-![](http://www.helping.no/reiserad.jpg)
+![](/assets/images/reiserad.jpg)
 
 **Forbrukertest:**  
 "På vei til fly-glede":  

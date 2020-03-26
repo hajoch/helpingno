@@ -61,7 +61,7 @@ Med vennlig hilsen T. W.
 
 Link AMT: [http://www.amt-veneet.fi/index.php?l=en](http://www.amt-veneet.fi/index.php?l=en "http://www.amt-veneet.fi/index.php?l=en")
 
-![](https://www.helping.no/b08.2.jpg)
+![](https://wwww.helping.no/assets/images/b08.2.jpg)
 
 **Ikke kjøp båt med treverk fra fredet regnskog!**  
 Vi kjenner alle til at regnskogen i Sør-Amerika er avgjørende viktig for jordklodens helsetilstand: Denne grønne lungen ved Amazonas renser store mengder forurenset luft og hele klodens helsetilstand er avhengig av denne såkalte fotosyntesen i dette store skogområdet. Skogen er vårt eneste vern mot forurensningen som alt er sluppet ut: Mer forurensning fører til flere naturkatastrofer og ekstremvær.

@@ -22,7 +22,7 @@ weight: 1
 ---
 Perioder og hendelser som får oss til å gi slipp på tidligere overførte eller selvvalgte ideer om oss selv og verden på mange plan. Stort sett i sammenheng med at vi tilegner oss nye. Hvor vi da beveger oss videre som et annet menneske. Livet er forandring og døden er for de fleste den mest uoversiktlige forandringen vi kjenner. Livet i vårt vestlige samfunn kjennetegnes ved stor frihet og mange valgmuligheter. Vi har mye selvstendig kontroll og mange påvirkningsmuligheter. Døden innebærer den absolutte eksistensielle mangel på kontroll.
 
-![](http://www.helping.no/karidvd2.jpg)
+![](/assets/images/karidvd2.jpg)
 
 Jeg vil her presentere noen tanker om og rundt dette temaet død og liv. Mitt utgangspunkt for å skrive om dette er en nær-døden-opplevelse jeg hadde som helt ung. Etterpå har jeg studert nærmest talt alle retningene som finnes om livet og døden, religioner, menneskesyn, virkelighetsoppfatninger, personlighetspsykologi, transpersonlig psykologi og opplevelser, meditasjon, synskhet, healing og andre alternativmedisinske metoder, filosofiske systemer og sykepleie.
 

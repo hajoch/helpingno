@@ -33,7 +33,7 @@ Turistbyen Ayia Napa har høyt aktivitetsnivå i turist-sesongen med flere sands
 Muligheter for flere vann-sportsaktiviteter og billeie.  
 Kypros har venstrekjøring liksom i England. De fleste som arbeider i turistnæringen behersker engelsk.
 
-![](http://www.helping.no/kyp.1.jpg)
+![](/assets/images/kyp.1.jpg)
 
 Deler av byen bl.a. ved klostertorvet og stranden Nissi Beach har stort innslag av ungdom. Det kan virke som om reiseselskapene støttet av pressen markedsfører Ayia Napa som en ungdommenes festby, men byen har tilbud til alle aldere.
 
@@ -45,7 +45,7 @@ Varme soldager under hele oppholdet.
 
 **Panthea Garden/Village**
 
-![](http://www.helping.no/kyp.3.JPG)
+![](/assets/images/kyp.3.JPG)
 
 Panthea Garden/Village består av to etasjes bygninger med leiligheter i enkel standard tilrettelagt for barnefamilier med bassenger og hageanlegg. Hotellet bærer preg av å være litt slitent og ikke så godt vedlikeholdt særlig på bad og toalett.
 
@@ -56,7 +56,7 @@ Aircondition i leiligheten må du betale ekstra for om dagen, men ikke om natten
 
 På bildene og i presentasjonen ser det ut som om sandstranden er like ved hotellet, men det viser seg på stedet at det er ca. 1 km. å gå til nærmeste sandstrand på en strandpromenade langs sjøen.
 
-![](http://www.helping.no/cha.jpg)
+![](/assets/images/cha.jpg)
 
 Hotellet er registrert som et hotell med 4 stjerner: Da forventes en langt bedre standard enn dette.
 

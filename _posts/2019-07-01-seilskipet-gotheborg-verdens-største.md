@@ -21,14 +21,14 @@ weight: 3
 ---
 Byggingen av skipet startet i 1995 og den første seilas var med ferdig bygget skip i 2006.
 
-![](http://www.helping.no/got8.jpg)
+![](/assets/images/got8.jpg)
 
-![](http://www.helping.no/got5.jpg)
+![](/assets/images/got5.jpg)
 
-![](http://www.helping.no/got3.jpg)
+![](/assets/images/got3.jpg)
 
-![](http://www.helping.no/got9.jpg)
+![](/assets/images/got9.jpg)
 
-![](http://www.helping.no/got7.jpg)
+![](/assets/images/got7.jpg)
 
-![](http://www.helping.no/got2.jpg)
+![](/assets/images/got2.jpg)

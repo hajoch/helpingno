@@ -112,4 +112,4 @@ Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i
 
 Tittans øyelokk blir tyngre og tyngre og søvnen siger på.
 
-![](http://www.helping.no/dove.gif)
+![](/assets/images/dove.gif)

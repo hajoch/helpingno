@@ -69,7 +69,7 @@ Først nå slipper jeg hemmeligheten mens jeg lever.
 
 #### Presseomtale
 
-![](http://www.helping.no/6.jpg)
+![](/assets/images/6.jpg)
 
 **"Årets julegave til alle trafikkskadde.**
 

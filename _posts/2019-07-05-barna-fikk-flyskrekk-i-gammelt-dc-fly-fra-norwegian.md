@@ -33,7 +33,7 @@ Skuffelsen var derfor stor da Norwegian satte inn et nedslitt, gammelt DC-fly me
 
 I bakhodet har vi følgende oppslag fra mediene: Flyselskapenes personalpolitikk er også viktig for flysikkerheten. Det er ikke underlig at 20 til 25 % av befolkningen har flyskrekk når vi får presseoppslag om at piloter sovner på jobb i luften på grunn av for lang arbeidstid. Når selv pilotene mener dette går på flysikkerheten løs, bør vi som forbrukere engasjere oss siden undersøkelsen gjelder piloter i SAS og Norwegian.
 
-![](http://www.helping.no/norwegian.jpg)
+![](/assets/images/norwegian.jpg)
 
 Flygernes arbeidsforhold og flysikkerhet har fått velfortjent stor mediaoppmerksomhet. Dette fordi opplysningene om trette piloter på jobb skremmer oss som reiser med fly.
 

@@ -28,7 +28,7 @@ weight: 10
 ---
 Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
 
-![](http://www.helping.no/6.jpg)
+![](/assets/images/6.jpg)
 
 **_Tegner Berit Anfinsen, Forfatter Gunnar Christensen:_**
 
@@ -38,7 +38,7 @@ Handlingen i barneboka Aima foregår i norsk natur. Hovedpersonen Aima er ei lit
 
 Slik sett er Aima tuftet på norsk eventyrtradisjon. I boka trekkes forestillingene om hvilke evner og egenskaper hovedpersonen Aima har noe lengre og annerledes enn det man tradisjonelt forbinder med Huldra. Aima er den sterke personen i boka, som Pippi Langstrømpe, men bruker innsikt og intuisjon som sin styrke på en mer smidig og diskret måte.
 
-![](http://www.helping.no/aima.jpg)
+![](/assets/images/aima.jpg)
 
 ##### "Aimas Pappa"
 

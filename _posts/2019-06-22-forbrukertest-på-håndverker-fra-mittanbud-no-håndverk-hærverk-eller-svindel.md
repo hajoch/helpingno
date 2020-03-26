@@ -39,7 +39,7 @@ Etter at jobben er "ferdig" siger en av platene på pipa med ca. 10 cm og lager 
 
 Hele pipebeslaget må rives og erstattes med et arbeid utført av en pålitelig fagmann. Walter Marino Fredriksen hadde flere anledninger til å gjøre dette på en kvalitativt god måte, men det klarte han ikke - og resultatet er et ubrukelig og utrygt pipebeslag med åpenbare feil og mangler.
 
-![](http://www.helping.no/pipe1.jpg)
+![](/assets/images/pipe1.jpg)
 
 Den lange yrkeserfaringen Walter Marino Fredriksern skrøt av før han fikk jobben viser seg nå i praksis å være blank løgn.
 
@@ -59,7 +59,7 @@ Underveis i arbeidet ble glaserte, kostbare og uerstattelige gamle hollandske te
 
 Og det ble levert takrenner uten alt utstyr som skal på plass for slike takrenner. En puteboks ble brukt som arbeidsbenk og ramponert.
 
-![](http://www.helping.no/pipe22.jpg)
+![](/assets/images/pipe22.jpg)
 
 **Ulyd i pipa - sikkerhetsrisiko**  
 Da ulyden kom i pipa ved neste vindblåst, innså jeg at dette ikke var levert slik det skal være - og nøytrale utenforstående med kunnskap om håndverk ble spurt om å kommentere jobben.
@@ -80,7 +80,7 @@ Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkern
 
 Det er senior Walter Marino Fredriksen som foretar kundekontakten og jeg har så langt antatt at det er han som står bak firmaet. I samtaler med dem virket det imidlertid som om de ikke ønsker at det skal bli kjent at de begge jobber og det kan derfor tenkes at en av dem eller begge er NAV-brukere.
 
-![](http://www.helping.no/pipe2.jpg)
+![](/assets/images/pipe2.jpg)
 
 **Ingen dokumentasjon på yrkesopplæring**  
 Jeg ba om at den av disse to som er yrkesaktiv fremlegger dokumentasjon på handverksmessig opplæring i faget ? takrenner og pipebeslag. Hvis det viser seg at ingen av disse har opplæring i faget er dette meget alvorlig. Da er dette svindel. Og mittanbud.no er medansvarlig.

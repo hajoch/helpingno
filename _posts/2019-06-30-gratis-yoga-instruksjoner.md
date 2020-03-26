@@ -47,35 +47,35 @@ Om morgenen er man ofte litt stivere i kroppen enn senere på dagen. Det er like
 
 Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mellom hver øvelse finner du en fin ro. Etter øvelsene føler du deg i bedre form. Man blir ikke sliten av yoga-øvelser - snarere mer uthvilt.
 
-![](https://www.helping.no/y1.jpg)
+![](https://wwww.helping.no/assets/images/y1.jpg)
 
 * Øvelse 1  
   Sitt i skredderstilling. Legg håndflatene på hodet og trykk lett på skallen. Gjør dette punkt for punkt nedover nakken, skuldrene og til hjertet.
 
-  ![](https://www.helping.no/y2.jpg)
+  ![](https://wwww.helping.no/assets/images/y2.jpg)
 * Øvelse 2  
   Sitt i skredderstilling. Begynn med venstre hånd. Trykk lett med høyre hånd på venstre hånd punkt for punkt. Begynn med håndflaten og følg armen opp til skulderen og til hjertet. Skift deretter til høyre hånd og gjør det samme på den andre siden.
 
-  ![](https://www.helping.no/y3.jpg)![](/assets/images/y3.jpg)
+  ![](https://wwww.helping.no/assets/images/y3.jpg)![](/assets/images/y3.jpg)
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet.
 
-![](https://www.helping.no/y4.jpg)
+![](https://wwww.helping.no/assets/images/y4.jpg)
 
 * Øvelse 4  
   Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster langsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen.
 
-  ![](https://www.helping.no/y5.jpg)
+  ![](https://wwww.helping.no/assets/images/y5.jpg)
 * Øvelse 5  
   Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben.
 
-  ![](https://www.helping.no/y6.jpg)
+  ![](https://wwww.helping.no/assets/images/y6.jpg)
 * Øvelse 6  
   Denne øvelsen kalles plogstilling - øvelsene 6 går over i 7: Ligg flatt på ryggen med hendene langs kroppen og håndflatene ned. Løft bena opp i loddrett stilling som vises på figuren over. Støtt så hendene mot hoftene slik figuren viser. Hold bena rett ved ikke å bøye knærne. Bli i denne stillingen noen minutter - og gå så over i øvelse 7.
 
-  ![](https://www.helping.no/y7.jpg)
+  ![](https://wwww.helping.no/assets/images/y7.jpg)
 * Øvelse 7  
-  Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](https://www.helping.no/y8.jpg)
+  Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](https://wwww.helping.no/assets/images/y8.jpg)
 * Øvelse 8  
   Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.
 

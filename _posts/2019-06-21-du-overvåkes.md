@@ -30,7 +30,7 @@ weight: 3
 ---
 Du overvåkes
 
-![](http://helping.no/overvake.jpg =162x150)
+![](https://wwww.helping.no/assets/images/overvake.jpg =162x150)
 
 Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. Hvem overvåker nasjonalt og internasjonalt?
 

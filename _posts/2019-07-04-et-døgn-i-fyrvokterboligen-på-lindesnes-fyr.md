@@ -28,7 +28,7 @@ publish_date:
 weight: 7
 
 ---
-![](http://www.helping.no/lind.13.jpg)
+![](/assets/images/lind.13.jpg)
 
 Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og Internett-forbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
 
@@ -37,55 +37,55 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 
 **En vakker orkesterplass ved havet.**
 
-![](https://www.helping.no/lind.04.jpg)
+![](https://wwww.helping.no/assets/images/lind.04.jpg)
 
-![](https://www.helping.no/lind.25.jpg)
+![](https://wwww.helping.no/assets/images/lind.25.jpg)
 
 Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i  
 1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.
 
-![](https://www.helping.no/lind.07.jpg)
+![](https://wwww.helping.no/assets/images/lind.07.jpg)
 
-![](http://www.helping.no/lind.17.jpg)
+![](/assets/images/lind.17.jpg)
 
-![](http://www.helping.no/lind.14.jpg)
+![](/assets/images/lind.14.jpg)
 
-![](http://www.helping.no/lind.31.jpg)
+![](/assets/images/lind.31.jpg)
 
-![](https://www.helping.no/lind.02.jpg)
+![](https://wwww.helping.no/assets/images/lind.02.jpg)
 
-![](http://www.helping.no/lind.03.jpg)
+![](/assets/images/lind.03.jpg)
 
-![](https://www.helping.no/lind.01.jpg)
+![](https://wwww.helping.no/assets/images/lind.01.jpg)
 
 Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig halogenpære.
 
-![](http://www.helping.no/lind.27.jpg)
+![](/assets/images/lind.27.jpg)
 
-![](http://www.helping.no/lind.28.jpg)
+![](/assets/images/lind.28.jpg)
 
 Fyrvokterne (her Kjell Olsen) er sentrale personer på fyret.  
 Et velstelt og godt vedlikeholdt anlegg.
 
-![](https://www.helping.no/lind.26.jpg)
+![](https://wwww.helping.no/assets/images/lind.26.jpg)
 
-![](http://www.helping.no/lind.30.jpg)
+![](/assets/images/lind.30.jpg)
 
-![](https://www.helping.no/lind.20.jpg)
+![](https://wwww.helping.no/assets/images/lind.20.jpg)
 
-![](http://www.helping.no/lind.16.jpg)
+![](/assets/images/lind.16.jpg)
 
 Tåkeluren er fremdeles in takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
 
-![](http://www.helping.no/lind.24.jpg)
+![](/assets/images/lind.24.jpg)
 
 Naturstier i området gir muligheter til trim og naturopplevelser.
 
-![](http://www.helping.no/lind.23.jpg)
+![](/assets/images/lind.23.jpg)
 
 I dårlig vær anbefales imidlertid å se opp for høye bølger langs naturstien kalt "kyststien"
 
-![](http://www.helping.no/lind.11.jpg)
+![](/assets/images/lind.11.jpg)
 
 Nytt anlegg med fjellhall har filmfremvisning og fyrmuseum.
 

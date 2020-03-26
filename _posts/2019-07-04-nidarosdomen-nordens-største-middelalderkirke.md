@@ -24,7 +24,7 @@ publish_date:
 weight: 3
 
 ---
-![](https://www.helping.no/Nidaros1.jpg)![](https://www.helping.no/Nidaros.jpg)![](https://www.helping.no/Nidaros8.jpg)![](https://www.helping.no/Nidaros6.jpg)![](https://www.helping.no/Nidaros5.jpg)![](https://www.helping.no/Nidaros2.jpg)![](https://www.helping.no/Nidaros3.jpg)![](https://www.helping.no/Nidaros4.jpg)
+![](https://wwww.helping.no/assets/images/Nidaros1.jpg)![](https://wwww.helping.no/assets/images/Nidaros.jpg)![](https://wwww.helping.no/assets/images/Nidaros8.jpg)![](https://wwww.helping.no/assets/images/Nidaros6.jpg)![](https://wwww.helping.no/assets/images/Nidaros5.jpg)![](https://wwww.helping.no/assets/images/Nidaros2.jpg)![](https://wwww.helping.no/assets/images/Nidaros3.jpg)![](https://wwww.helping.no/assets/images/Nidaros4.jpg)
 
 Link:
 

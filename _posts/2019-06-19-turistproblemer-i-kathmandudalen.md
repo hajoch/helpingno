@@ -28,7 +28,7 @@ Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer temp
 
 Kathmandudalen i Nepal er et kulturelt skattekammer hvor mange såkalte "pakketurister" får svært knapp tid på seg til å oppleve de fantastiske byggverkene og det yrende folkelivet i dalens tre byer: Kathamandu, Patan og Bhadgaon.
 
-![](http://www.helping.no/templene.jpg)
+![](/assets/images/templene.jpg)
 
 _Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. Foto Gunnar Christensen_
 
@@ -38,7 +38,7 @@ Tilbudene fra alle kanter kan virke gode etter våre vestlige beregninger og ver
 
 Pytt, om en blir litt lurt i en handel, så betraktes det helst som uhjelp. Da har ingen tatt skade av det! Når vi derimot vet at flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn lavtlønnsgrupper i samfunnet, begynner imidlertid gavmildheten å få uante konsekvenser. Det lønner seg å tigge i Kathmandu og tigging øker derfor i omfang. Barn blir fort grepet av tigging og skolegang og andre viktige sysler må vike. Det er derfor betenkelig å gi barn som tigger.
 
-.![](http://www.helping.no/skatter.jpg)
+.![](/assets/images/skatter.jpg)
 
 _Foto Gunnar Christensen. Vakre detaljer fra dekorasjonene i tempelbyen Kathmandu._
 
@@ -54,7 +54,7 @@ Få kan kjøpe seg vestens ting, men fristelsene er der og økt kriminalitet er 
 
 Poppmusikken har kommet til Kathmandu. Vestens poppmusikk markedsføres og spilles i kafeer og andre offentlige steder. Den gamle lokale folkemusikken bryr ungdommen seg ikke om.
 
-![](http://www.helping.no/patannepal.jpg)
+![](/assets/images/patannepal.jpg)
 
 _Foto Gunnar Christensen: Durbar Square i Patan har mange turstmagneter._
 

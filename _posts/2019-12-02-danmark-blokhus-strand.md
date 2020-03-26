@@ -22,18 +22,18 @@ publish_date:
 weight: 3
 
 ---
-![](http://www.helping.no/dkb11.jpg)
+![](/assets/images/dkb11.jpg)
 
-![](http://www.helping.no/dkb4.jpg)
+![](/assets/images/dkb4.jpg)
 
-![](http://www.helping.no/dkb3.jpg)
+![](/assets/images/dkb3.jpg)
 
-![](http://www.helping.no/dkb9.jpg)
+![](/assets/images/dkb9.jpg)
 
-![](http://www.helping.no/dkb7.jpg)
+![](/assets/images/dkb7.jpg)
 
-![](http://www.helping.no/dkb8.jpg)
+![](/assets/images/dkb8.jpg)
 
-![](http://www.helping.no/mobbing.jpg)
+![](/assets/images/mobbing.jpg)
 
-![](http://www.helping.no/dkb12.jpg)
+![](/assets/images/dkb12.jpg)

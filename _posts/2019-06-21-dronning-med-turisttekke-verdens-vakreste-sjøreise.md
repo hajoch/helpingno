@@ -27,7 +27,7 @@ weight: 4
 ---
 Hele året seiler et skip daglig nordover og sørover fra hvert anløp langs den 2000 km lange kyststripen. Trolig verdens vakreste naturlandskap i fint vær. Dyktige sjøfolk fører skipene innenskjærs - en av verdens vanskeligste skipsleier særlig i hardt vintervær.
 
-![](http://www.helping.no/hurtigruten%20trollfj.jpg)
+![](/assets/images/hurtigruten%20trollfj.jpg)
 
 Turistskipene langs kysten er fremmedlegemer i de nordiske farvann. Hurtigruten derimot er hverdagen - selve livsnerven for en halv million mennesker langs kysten av Nord-Norge og Finnmark. Den er det sikreste og mest pålitelige kommunikasjonsmiddel uansett vær for mange små samfunn.
 
@@ -47,4 +47,4 @@ I turistsesongen fra mai og ut september gjør hurtigrutene oftest små "avstikk
 
 De fleste turistene kommer fra USA, Canada, Storbritannia, Tyskland og Frankrike. Australiere, italienere, sveitsere, svensker og nordmenn er i mindretall blant rundreisepassasjerene. Nordmenn flest fra Syd-Norge valfarter til "Syden" og ikke til disse nordligste naturherlighetene som utenlandske turister står i kø for å oppleve. Etter NRK 2 sitt innslag om hurtigruten i 2011 er det øket interesse for denne fantastiske sjøreisen.
 
-![](http://www.helping.no/bergen2.jpg)
+![](/assets/images/bergen2.jpg)

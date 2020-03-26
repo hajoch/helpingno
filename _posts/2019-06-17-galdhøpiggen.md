@@ -23,7 +23,7 @@ image: "/assets/images/ga.jo.gc.jpg"
 image_caption: 'Foto: Gunnar Christensen: Toppen av Galdhøpiggen på 2469 meters høyde.'
 categories:
 - _category/reise.md
-publish_date: 
+publish_date:
 weight: 9
 
 ---
@@ -71,30 +71,30 @@ Se også:
 
 Flere bilder: [https://www.helping.no/gald.htm](https://www.helping.no/gald.htm)
 
-![](https://www.helping.no/ga.2.gc.jpg)
+![](https://wwww.helping.no/assets/images/ga.2.gc.jpg)
 
 ###### **Fjellvettreglene**
 
 Værforholdene i fjellet endrer seg raskt og det er viktig å være forberedt på uvær. Uansett om du har lite erfaring med friluftsliv eller er en dreven fjellvandrer er det lurt å ha fjellvettreglene i bakhodet underveis.
 
-![](http://helping.no/kule.jpg =12x12) Legg ikke ut på langtur uten trening.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Legg ikke ut på langtur uten trening.
 
-![](http://helping.no/kule.jpg =12x12) Meld fra hvor du går.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Meld fra hvor du går.
 
-![](http://helping.no/kule.jpg =12x12) Vis respekt for været og værmeldingen.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Vis respekt for været og værmeldingen.
 
-![](http://helping.no/kule.jpg =12x12) Lytt til erfarne fjellfolk.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Lytt til erfarne fjellfolk.
 
-![](http://helping.no/kule.jpg =12x12) Vær rustet mot uvær og kulde selv på korte turer.  
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Vær rustet mot uvær og kulde selv på korte turer.  
 Ta alltid med ryggsekk og det utstyret som fjellet krever.
 
-![](http://helping.no/kule.jpg =12x12) Bruk kart og kompass.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Bruk kart og kompass.
 
-![](http://helping.no/kule.jpg =12x12) Gå ikke alene.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Gå ikke alene.
 
-![](http://helping.no/kule.jpg =12x12) Vend i tide. Det er ingen skam å snu.
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Vend i tide. Det er ingen skam å snu.
 
-![](http://helping.no/kule.jpg =12x12) Spar på kreftene og grav deg inn i snøen om nødvendig.  
+![](https://wwww.helping.no/assets/images/kule.jpg =12x12) Spar på kreftene og grav deg inn i snøen om nødvendig.  
 Hvordan du graver deg ned:  
 [http://www.vg.no/reise/artikkel.php?artid=103417](http://www.vg.no/reise/artikkel.php?artid=103417 "http://www.vg.no/reise/artikkel.php?artid=103417")
 

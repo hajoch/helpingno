@@ -23,7 +23,7 @@ image: "/assets/images/amt.8.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
-publish_date: 
+publish_date:
 weight: 8
 
 ---
@@ -45,7 +45,7 @@ Hondas 90 hk hadde da blitt den mest moderne motorteknologien-VTEC. Motoren har 
 
 Denne 90-hk 4-T-motoren var på kjøpstidspunktet 2007 den mest moderne trailer med hensyn til ytelse i forhold til forbruk og utslipp. Motoren var 26% lettere enn konkurrenters 4-taktsmotorer med et nytt forgassystem som gir mindre drivstoff og utslipp.
 
-![](https://www.helping.no/amt.10..JPG)
+![](https://wwww.helping.no/assets/images/amt.10..JPG)
 
 **Andre motorvalg på denne båten**
 
@@ -87,4 +87,4 @@ det burde vært fra første dag.
 Flere bilder:  
 [https://www.helping.no/bow.3.htm](https://www.helping.no/bow.3.htm "https://www.helping.no/bow.3.htm")
 
-![](https://www.helping.no/amt.9.JPG)
+![](https://wwww.helping.no/assets/images/amt.9.JPG)

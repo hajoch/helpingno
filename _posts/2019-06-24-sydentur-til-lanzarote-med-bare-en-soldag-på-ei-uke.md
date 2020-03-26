@@ -36,14 +36,14 @@ Playa Blanca var en liten ukjent fiskerlandsby da vi besøkte Lanzarote første 
 
 Nå er Playa Blanca blitt betydelig større med et velutviklet tilbud av hoteller og handelsnæring samt et betydelig antall restauranter. Fra Playa Blanca går ferge til Fuerteventuras forblåste nordkyst.
 
-![](http://www.helping.no/lanz.jpg)
+![](/assets/images/lanz.jpg)
 
 **Været kan ødelegge mye for en sydentur ment som "solferie**".  
 Vi ankom og kjørte leiebil fra flyplassen til hotellet i vekslende øsregn og sol. Videre var det skyet med regnbyger og iskald vind andre dagen. Tredje dagen var det så kaldt at vi måtte bruke norske vinterklær under besøk på vulkanområdet Timanfaya, landsbymarkedet Teguize, kamelridning i nasjonalparken og den grønne lagunen i El Golfo. Deretter fortsatte skyet vær fremdeles med en isende vind resten av oppholdet med unntak av den nest siste dagen som var en kjærkommen, men kjølig solskinnsdag: Denne solskinnsdagen tilbrakte vi på den ytterste Papagayostranden. Der var en lun lagune som var fin å svømme i med ly for den kalde vinden. Her var også en liten restaurant på høyden over stranden.
 
 Været både på Lanzarote og ellers på Kanariøyene er ustabilt om vinteren - du er aldri er garantert å få fint vær her i vinterhalvåret. Været på Lanzarote er med andre ord betydelig dårligere enn det som opplyses i reklamen.
 
-![](http://www.helping.no/lanzarot.jpg)
+![](/assets/images/lanzarot.jpg)
 
 **Hotellet: Hotell Iberostar Papagayo**  
 Oppholdet på Hotell Iberostar Papagayo ble kjøpt med "all inclusive" hvilket betyr at alle måltider er inkludert i prisen. Et nyere fire-stjernes hotell med utsikt til de berømte Papagayostrendene ved landsbyen Playa Blanca på sydkysten. Hotellet er bedre enn andre fire-stjernershoteller vi har testet.

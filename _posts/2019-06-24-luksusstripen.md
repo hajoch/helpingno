@@ -30,7 +30,7 @@ På hotell Hotel Lopesan Costa Meloneras, et stort og flott firestjernes hotell 
 
 Samtidig memoreres tidligere charterreise til øya desember 1989 med Apollo. Se "TIDLIGERE TEST: Grand Canaria"
 
-![](http://www.helping.no/granc.jpg)
+![](/assets/images/granc.jpg)
 
 Las Meloneras er et hotellsentra med flott strandpromenade langs havet. Her ligger de beste hotellene på rad og naturligvis med tilstrekkelig med butikker innimellom.
 
@@ -38,7 +38,7 @@ Maspalomasstranden like ved Meloneras er så stor at du alltid finner deg en usj
 
 Været betyr mye for en chartertur ment som "solferie". I ukeperioden 20. til og med 28. april hadde vi tre varme soldager med lett skydekke og en regnværsdag på avreisedagen. De øvrige dagene var overskyet oppholdsvær. Grand Canaria, Lanzarote og ellers på Kanariøyene er det ustabilt om vinteren. Du er derfor aldri garantert å få fint vær som på denne turen her i vinterhalvåret.
 
-![](http://www.helping.no/grancan.jpg)
+![](/assets/images/grancan.jpg)
 
 **Hotel Lopesan Costa Meloneras**  
 Hotel Lopesan Costa Meloneras er et flott og stort hotell. Hotellet har fin atmosfære og beliggenhet med flott utsikt over sjøen. Servicen på hotellet er helt topp. Likeså maten som er variert og med rikholdig mengde og utvalg. Renholdet både på rommet og ellers på hotellet er helt i toppklasse og rommene er fine og med flott bad. Betaler du ekstra for hav-utsikt vil du nyte en flott utsikt vel verd ekstra slanter.
@@ -47,7 +47,7 @@ Oppholdet på hotellet ble kjøpt med frokost og middag hvilket betyr at disse m
 
 Dette er et hotell du bør booke direkte ikke via et fordyrende mellomledd som Star Tour m.fl. som i tillegg ikke er ryddig nok til å gi deg rett informasjon.
 
-![](http://www.helping.no/gra.jpg)
+![](/assets/images/gra.jpg)
 
 Hotellet er svært populært hos engelske og tyske turister og der finnes en rekke positive gjestekommentarer på hotellet på Internett. Dette hotellet får du lyst til å besøke igjen
 

@@ -24,20 +24,20 @@ publish_date:
 weight: 1
 
 ---
-![](http://www.helping.no/veteran14.jpg)
+![](/assets/images/veteran14.jpg)
 
-![](http://www.helping.no/veteran7.jpg)
+![](/assets/images/veteran7.jpg)
 
-![](http://www.helping.no/veteran12.jpg)
+![](/assets/images/veteran12.jpg)
 
-![](http://www.helping.no/veteran23.jpg)
+![](/assets/images/veteran23.jpg)
 
-![](http://www.helping.no/veteran17.jpg)
+![](/assets/images/veteran17.jpg)
 
-![](http://www.helping.no/veteran19.jpg)
+![](/assets/images/veteran19.jpg)
 
-![](http://www.helping.no/veteran18.jpg)
+![](/assets/images/veteran18.jpg)
 
-![](http://www.helping.no/veteran10.jpg)
+![](/assets/images/veteran10.jpg)
 
 **( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**

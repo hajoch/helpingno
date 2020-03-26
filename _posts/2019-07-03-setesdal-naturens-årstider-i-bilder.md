@@ -21,23 +21,23 @@ publish_date:
 weight: 2
 
 ---
-![](https://www.helping.no/ab4.jpg)
+![](https://wwww.helping.no/assets/images/ab4.jpg)
 
-![](https://www.helping.no/ab.1007.jpg)
+![](https://wwww.helping.no/assets/images/ab.1007.jpg)
 
-![](https://www.helping.no/ab3.jpg)
+![](https://wwww.helping.no/assets/images/ab3.jpg)
 
-![](https://www.helping.no/ab12.jpg)
+![](https://wwww.helping.no/assets/images/ab12.jpg)
 
-![](https://www.helping.no/ab2012.jpg)
+![](https://wwww.helping.no/assets/images/ab2012.jpg)
 
-![](https://www.helping.no/ab2011.jpg)
+![](https://wwww.helping.no/assets/images/ab2011.jpg)
 
-![](https://www.helping.no/grendi2.jpg)
+![](https://wwww.helping.no/assets/images/grendi2.jpg)
 
-![](https://www.helping.no/ab2011.0.jpg)
+![](https://wwww.helping.no/assets/images/ab2011.0.jpg)
 
-![](https://www.helping.no/grendi.jpg)
+![](https://wwww.helping.no/assets/images/grendi.jpg)
 
 **( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
 

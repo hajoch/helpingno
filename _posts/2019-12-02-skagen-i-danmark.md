@@ -19,22 +19,22 @@ publish_date:
 weight: 3
 
 ---
-![](http://www.helping.no/skagen.jpg)
+![](/assets/images/skagen.jpg)
 
-![](http://www.helping.no/skagen3.jpg)
+![](/assets/images/skagen3.jpg)
 
-![](http://www.helping.no/skagen4.jpg)
+![](/assets/images/skagen4.jpg)
 
-![](http://www.helping.no/skagen2.jpg)
+![](/assets/images/skagen2.jpg)
 
-![](http://www.helping.no/skagen1.jpg)
+![](/assets/images/skagen1.jpg)
 
-![](http://www.helping.no/skagen7.jpg)
+![](/assets/images/skagen7.jpg)
 
-![](http://www.helping.no/skagen8.jpg)
+![](/assets/images/skagen8.jpg)
 
-![](http://www.helping.no/nokondk2.jpg)
+![](/assets/images/nokondk2.jpg)
 
-![](http://www.helping.no/nikondk1.jpg)
+![](/assets/images/nikondk1.jpg)
 
 **Beklager teknisk feil. Flere bilder kommer ikke opp.**

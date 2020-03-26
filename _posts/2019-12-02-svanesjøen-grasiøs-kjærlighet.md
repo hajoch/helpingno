@@ -15,12 +15,12 @@ publish_date:
 weight: 3
 
 ---
-![](http://www.helping.no/svane2.jpg)
+![](/assets/images/svane2.jpg)
 
-![](http://www.helping.no/svane3.jpg)
+![](/assets/images/svane3.jpg)
 
-![](http://www.helping.no/svane8.jpg)
+![](/assets/images/svane8.jpg)
 
-![](http://www.helping.no/svane1.jpg)
+![](/assets/images/svane1.jpg)
 
 **Beklager. Vi mangler flere bilder på grunn av teknisk feil.**

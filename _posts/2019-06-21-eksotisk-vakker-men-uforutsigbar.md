@@ -40,7 +40,7 @@ Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har s
 
 Bilde: Morgen ved stranden. 
 
-![](http://www.helping.no/srilankabat.jpg)
+![](/assets/images/srilankabat.jpg)
 
 Markedene er eksotiske: Her tilbyes alt hva landet kan oppdrive av frukter, fisk skalldyr, edelstener, te vakre batikkplagg og bilder samt mange slag håndverksarbeider. Landets import er på et minimum og innførte varer er dyre og vanskelige å få tak i. Mange finere stoffer er rimelige for europeere, og en skredder syr gjerne en dress på dagen ­eller en vakker sari, stedets kvinneplagg, for en utrolig lav sum.
 
@@ -55,7 +55,7 @@ Mest populært å kjøpe med seg fra Sri Lanka er foruten te, dansemasker og vak
 
 Bilde: Elefanten gjør traktoren overflødig ved dette sagbruket.
 
-![](http://www.helping.no/elefant.jpg)
+![](/assets/images/elefant.jpg)
 
 **Severdigheter**  
 Arkeologisk interessert har mange godbiter på denne øya. Her fantes ved vår tidsregnings begynnelse millionbyer og avanserte vanningsanlegg som fremdeles er i bruk og byadministrasjoner som talte over tusen mennesker. Men trø varsom i graset ? her er mange giftslanger.
@@ -70,7 +70,7 @@ Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til 
 
 BIlde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka
 
-![](http://www.helping.no/stupa.jpg)
+![](/assets/images/stupa.jpg)
 
 **Religion**  
 Fire verdensreligioner er representert på Sri Lanka. Hinduene som holder til i nord ? bedre kjent som tamiler dekker omkring tjue prosent, muslimer og kristne står for omkring åtte prosent og resten domineres av den eldste tradisjonen innen buddhismen, Theravada.

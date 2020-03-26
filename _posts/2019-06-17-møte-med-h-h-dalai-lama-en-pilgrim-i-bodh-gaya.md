@@ -50,7 +50,7 @@ Seremoniene foregår utenfor tempelet, og alle har ansiktet vendt mot treet og t
 
 **Audiens**
 
-![](http://www.helping.no/mahaboditemple.jpg)
+![](/assets/images/mahaboditemple.jpg)
 
 _Mahabodhitempelet i Bodh Gaya, Bihar hvor H H Dalai Lama deltok i seremonier. Foto Gunnar Christensen. Redigert av Henning Jon Grini._
 
@@ -81,7 +81,7 @@ Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenføds
 
 **Slik ser han ut i 2019 - 40 år og en Nobels fredspris senere.**
 
-![](http://www.helping.no/dalailama8.jpg)[  
+![](/assets/images/dalailama8.jpg)[  
 ](http://www.facebook.com/DalaiLama)**Linker om Dalai Lama:**
 
 [www.facebook.com/DalaiLama](http://www.facebook.com/DalaiLama)

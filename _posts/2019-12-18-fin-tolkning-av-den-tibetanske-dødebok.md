@@ -27,7 +27,7 @@ Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har d
 
 I denne boka tolker Sogyal Rinpoche "Den Tibetanske Dødebok" og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen innsiktsfulle skriftlige kilder som gir kunnskap om dødens mysterier.
 
-![](http://www.helping.no/stupanepal.jpg)
+![](/assets/images/stupanepal.jpg)
 
 _Foto Gunnar Christensen: Swoyambhu like utenfor Kathamndu i Nepal er verdens største Stupa. Her møtes tibetanske buddhister og turister._
 

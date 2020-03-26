@@ -26,7 +26,7 @@ weight: 9
 ---
 **Presseomtale av: Albert Henrik Mohn**
 
-![](http://www.helping.no/6.jpg)
+![](/assets/images/6.jpg)
 
 I de siste årene har vi fått en rekke minoritetsgrupper i landet vårt. Pakistanere og vietnamesere er to av dem. Begge kommer fra sørlige breddegrader og er preget av religion og kultur temmelig forskjellig fra vår egen. Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
 
@@ -48,7 +48,7 @@ Etter at "Skandalebøkene i ungdomsskolen" av Gunnar Christensen var utsolgt fra
 
 Gunnar Christensen:  "Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen din. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for mange hyggelige tilbakemeldinger på boka.
 
-![](http://www.helping.no/skandalestor.jpg)
+![](/assets/images/skandalestor.jpg)
 
 **Last ned gratis bok:   
 (OBS: Funksjonen er midlertidig ute av drift)**
