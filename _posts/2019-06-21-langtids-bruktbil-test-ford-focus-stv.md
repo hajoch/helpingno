@@ -45,6 +45,8 @@ Korsryggstøtte avgjorde Da vi valgte Focus sto det mellon Peugeot 308SW og Ford
 **Genialt drivstoff-inntak.**  
 Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep dieselpistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
 
+Forbruket er på nivå med en Toyota Prius hybrid som pendler mellom Arendal og Kristiansand. 
+
 **Seter til besvær**  
 Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats tidligere dårlige seter som ikke tålte slitasje. Stoffsetet på førersiden hadde sømfeil ved levering og så derfor velbrukt ut ved første møte med bilen. Dette ble på garantien skiftet ut med nytt stoff, men etter denne jobben er det likevel bretter og førersetet ser ut som om bilen er gammel og velbrukt. Irriterende på en nye bil.
 
