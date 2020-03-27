@@ -66,9 +66,12 @@ Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så
 
 En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivnings-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil. 
+Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil.   
+  
+Bare små biler som Fiesta og Puma kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.
 
-**Ford Focus 2013: Bedre enn forventet**
+**TILBAKEBLIKK:  
+Ford Focus 2013: Bedre enn forventet**
 
 \**![](https://wwww.helping.no/assets/images/focus1.jpg)
 
