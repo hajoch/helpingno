@@ -18,7 +18,7 @@ image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 
+publish_date: 2020-03-27 00:00:00 +0100
 weight: 3
 
 ---
