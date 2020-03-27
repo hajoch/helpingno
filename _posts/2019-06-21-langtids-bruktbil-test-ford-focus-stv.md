@@ -51,14 +51,20 @@ Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats 
 Etter siste garantireparasjon oppdages at setestoffet ikke var festet skikkelig etter første garantireparasjon og derfor krøllet seg. Dette burde vært ordnet hos merkeforhandler ved klargjøring av bilen som ny til kunde. Fremdeles er der bretter på setet slik at setet ser mer velbrukt ut enn det egentlig er.  
 En av utlånsbilene var en demo combi av samme modell Focus. Også denne hadde et førersete som så temmelig slitent ut. Antakelig må en derfor tro at setene er et problem på denne Focus. Ved en anledning fikk jeg en Volvo som utlånsbil. Så mye bedre seter av overlegen kvalitet .......
 
-På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimmensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne bilen med å levere et førersete med leketøyskvalitet er ubegripelig.
+På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne flotte bilen med å levere forerseter med leketøyskvalitet er ubegripelig.
 
-På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finnar ut av. De påstår det er produksjonesfeil på Iphoneer, men når bare Ford har problemer med  
-iphone er det i praksis Ford som ikke er kompetente nok på dette.
+På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finner ut av. De påstår det er produksjonesfeil på Iphoneer, men når bare Ford har problemer med Iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
 Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
+
+**5 år.**  
+Passerte 70.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Det var på høy tid for fabrikkens antirustutrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt. 
+
+En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivnings-kostnaden pr. år være kr. 32.000,-. + restverdi på bilen.
+
+Det er fordi nye Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg ikke bytter i nyere bil. 
 
 **Ford Focus 2013: Bedre enn forventet**
 
