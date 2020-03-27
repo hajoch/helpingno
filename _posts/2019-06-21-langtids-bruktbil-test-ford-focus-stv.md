@@ -62,13 +62,13 @@ Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
 **5 år.**  
-70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirustutrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt. 
+70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt. 
 
 En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivnings-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
 Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil.   
   
-Bare små biler som Fiesta og Puma kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.
+Bare små biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.
 
 **TILBAKEBLIKK:  
 Ford Focus 2013: Bedre enn forventet**
