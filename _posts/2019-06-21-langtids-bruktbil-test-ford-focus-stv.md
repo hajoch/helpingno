@@ -12,7 +12,7 @@ title: 'Ford Focus stv.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
-  Ford Focus er handbrekka: Denne håndbrekka er ikke lengre på nye Focus 2018. '
+  Ford Focus er handbrekka: Denne håndbrekka er ikke lengre på nye Focus. '
 image: "/assets/images/focus155.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
@@ -22,7 +22,7 @@ publish_date:
 weight: 3
 
 ---
-Elendige seter og handsfree som ikke virker om du har iphone.
+Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.
 
 Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping.
 
@@ -34,7 +34,7 @@ Utstyrsmodell Titanium innebærer en ubetydelig "korsryggstøtte" på førersete
 
 Easy fuel systemet til Ford forhindrer at du fyller feil drivstoff på bilen. Men sensorer bak og speil som bretter seg inn ved parkering må betales ekstra for.
 
-Denne utgaven har også ekstrautstyr som sikkerhetsnett for å beskytte mot løs bagasje ved brå oppbremsing, hengerfeste og gummimatter. Men Focus kan ikke leveres med annet enn sorte stoffseter: Trist farge som gir visuelt inntrykk av at bilen er mindre enn den egentlig er. Men setene er ikke behagelige. Det merker du hvis du setter deg inn i en Volvo. Beklageligvis kan du ikke montere Volvoseter i denne bilen.
+Denne utgaven har også ekstrautstyr som sikkerhetsnett for å beskytte mot løs bagasje ved brå oppbremsing, hengerfeste og gummimatter. Men Focus Titanium kan ikke leveres med annet enn sorte stoffseter: Trist farge som gir visuelt inntrykk av at bilen er mindre enn den egentlig er. Men setene er ikke behagelige. Det merker du hvis du setter deg inn i en Volvo. Beklageligvis kan du ikke montere Volvoseter i denne bilen.
 
 Ford Focus som leveres til Norge produseres ved Fords fabrikk i Tyskland. De fleste andre europeiske Forder som Mondeo, S-Max m.fl. produseres som kjent på Fords fabrikkanlegg i Spania. Jeg opplever det for usikkert å kjøpe en bil som er produsert i Spania.
 
@@ -56,8 +56,8 @@ iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
 Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
-Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.   
-  
+Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
+
 **Ford Focus 2013: Bedre enn forventet**
 
 \**![](https://wwww.helping.no/assets/images/focus1.jpg)
