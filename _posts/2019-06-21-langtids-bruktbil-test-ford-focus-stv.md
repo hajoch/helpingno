@@ -45,7 +45,7 @@ Korsryggstøtte avgjorde Da vi valgte Focus sto det mellon Peugeot 308SW og Ford
 **Genialt drivstoff-inntak.**  
 Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep dieselpistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
 
-Bensin-forbruket er på nivå med en Toyota Prius hybrid som pendler mellom Arendal og Kristiansand. 
+Bensin-forbruket er på nivå med en Toyota Prius hybrid som pendler mellom Arendal og Kristiansand.
 
 **Seter til besvær**  
 Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats tidligere dårlige seter som ikke tålte slitasje. Stoffsetet på førersiden hadde sømfeil ved levering og så derfor velbrukt ut ved første møte med bilen. Dette ble på garantien skiftet ut med nytt stoff, men etter denne jobben er det likevel bretter og førersetet ser ut som om bilen er gammel og velbrukt. Irriterende på en nye bil.
@@ -53,21 +53,24 @@ Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats 
 Etter siste garantireparasjon oppdages at setestoffet ikke var festet skikkelig etter første garantireparasjon og derfor krøllet seg. Dette burde vært ordnet hos merkeforhandler ved klargjøring av bilen som ny til kunde. Fremdeles er der bretter på setet slik at setet ser mer velbrukt ut enn det egentlig er.  
 En av utlånsbilene var en demo combi av samme modell Focus. Også denne hadde et førersete som så temmelig slitent ut. Antakelig må en derfor tro at setene er et problem på denne Focus. Ved en anledning fikk jeg en Volvo som utlånsbil. Så mye bedre seter av overlegen kvalitet .......
 
+**Skifte seter**  
+Jeg prøvde å få satt inn Volvo-seter eller andre mer behagelige seter på forseter hos et firma som bygger om biler til forskjellige formål. Det var mulig å sette inn bedre seter, men det ville redusere bilens sikkerhet fordi side-airbager i setene ikke kunne koples til Fords system. Så blir vi hengende med Fords elendige seter: Med verk i ryggen holder man seg lettere våker på langturer.
+
 På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne flotte bilen med å levere forerseter med leketøyskvalitet er ubegripelig.
 
-På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finner ut av. De påstår det er produksjonesfeil på Iphoneer, men når bare Ford har problemer med Iphone er det i praksis Ford som ikke er kompetente nok på dette.
+På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finner ut av. De påstår det er produksjonsfeil på Iphone, men når bare Ford har problemer med Iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
 Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
 **5 år.**  
-70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt. 
+70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt.
 
 En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivnings-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil.   
-  
+Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil.
+
 Bare små biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.
 
 **TILBAKEBLIKK:  
