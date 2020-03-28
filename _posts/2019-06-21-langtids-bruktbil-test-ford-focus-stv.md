@@ -71,7 +71,7 @@ Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så
 
 En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivning-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning. Les [energi]( "https://helping.no/gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi")
+Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning.
 
 Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil. Mindre utvalg gir lavere salg.
 
