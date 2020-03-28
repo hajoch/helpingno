@@ -22,9 +22,11 @@ publish_date: 2020-03-27 00:00:00 +0100
 weight: 3
 
 ---
-Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.
+**Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.**
 
-Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene. Bilen testes og oppdateres fortløpende på helping.
+Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.   
+  
+Bilen testes og oppdateres fortløpende på helping.
 
 ![](https://wwww.helping.no/assets/images/focus155.jpg)
 
@@ -53,7 +55,7 @@ Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats 
 Etter siste garantireparasjon oppdages at setestoffet ikke var festet skikkelig etter første garantireparasjon og derfor krøllet seg. Dette burde vært ordnet hos merkeforhandler ved klargjøring av bilen som ny til kunde. Fremdeles er der bretter på setet slik at setet ser mer velbrukt ut enn det egentlig er.  
 En av utlånsbilene var en demo combi av samme modell Focus. Også denne hadde et førersete som så temmelig slitent ut. Antakelig må en derfor tro at setene er et problem på denne Focus. Ved en anledning fikk jeg en Volvo som utlånsbil. Så mye bedre seter av overlegen kvalitet .......
 
-**Skifte seter**  
+**Skifte seter?**  
 Jeg prøvde å få satt inn Volvo-seter eller andre mer behagelige seter på forseter hos et firma som bygger om biler til forskjellige formål. Det var mulig å sette inn bedre seter, men det ville redusere bilens sikkerhet fordi side-airbager i setene ikke kunne koples til Fords system. Så blir vi hengende med Fords elendige seter: Med verk i ryggen holder man seg lettere våker på langturer.
 
 På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne flotte bilen med å levere forerseter med leketøyskvalitet er ubegripelig.
@@ -67,11 +69,14 @@ Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så
 **5 år.**  
 70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt.
 
-En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivnings-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
+En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivning-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil.
+Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning. 
 
-Bare små biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.
+Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil. Mindre utvalg gir lavere salg.
+
+Bare små Ford biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.   
+Neste bil blir av den grunn ikke en Ford.
 
 **TILBAKEBLIKK:  
 Ford Focus 2013: Bedre enn forventet**
