@@ -96,9 +96,6 @@ Denne demobilen har utstyrsnivået "Titanum", manuell 6-trinns girkasse, el. fø
 Man må også opp i øverste utstyrsnivå - altså "ST" for å få Xenonlys - som er så viktig for bedring av sikten og sikkerheten. Og DAB-radioen - som om få år er standard på eteren - er ekstrautstyr i denne årgangen, mens det er standard på VW [Golf](http://www.helping.no/golf7.htm). Sover "utstyrssnekkeren" hos Ford? Likeså bagasjebeskytter bak baksetet og forsetet bl.a. på stasjonsvogna er ekstrautstyr - også dette er viktig sikkerhetsutstyr som kan forhindre personskader i en bil. Kanskje må utstyrspakkene justeres litt på Ford  
 Focus fremover? Og det har skjedd DAB-radioen er på plass.
 
-Bildørbeskytterne er en fin løsning hos Focus: Den forhindrer skade på  
-bilen ved siden av i parkeringshuset.
-
 **Design**  
 Ford er generelt flinke med design. Designet er flott på Focus. Designspråket gir uttrykk for kraft og estetikk både utvendig og innvendig.
 
