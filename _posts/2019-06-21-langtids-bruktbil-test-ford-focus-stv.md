@@ -24,8 +24,8 @@ weight: 3
 ---
 **Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.**
 
-Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.   
-  
+Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.
+
 Bilen testes og oppdateres fortløpende på helping.
 
 ![](https://wwww.helping.no/assets/images/focus155.jpg)
@@ -71,11 +71,11 @@ Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så
 
 En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivning-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning. 
+Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning. Les [energi]( "https://helping.no/gass-el-hybrid-bensin-eller-diesel-hva-er-mest-miljøvennlig-energi")
 
 Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil. Mindre utvalg gir lavere salg.
 
-Bare små Ford biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.   
+Bare små Ford biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.  
 Neste bil blir av den grunn ikke en Ford.
 
 **TILBAKEBLIKK:  
