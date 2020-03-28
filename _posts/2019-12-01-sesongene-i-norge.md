@@ -95,5 +95,3 @@ Vi har alle et ansvar for å forhindre og begrense forurensning på Jorden og be
 ![](/assets/images/des.9.JPG)
 
 ![](/assets/images/des.1.JPG)
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
