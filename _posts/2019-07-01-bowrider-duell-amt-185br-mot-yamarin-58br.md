@@ -7,6 +7,10 @@ tags:
 - båt påhengsmotor
 - båt
 - bowrider
+- dagsturbåt
+- Yanmarin
+- AMT
+- Honda
 title: 'Bowrider-duell: AMT 185BR mot Yamarin 58BR'
 excerpt: |-
   Test: Når AMT-båtene markedsføres med at de er bedre enn du forventer, da er det umulig for en båtkjøper å gå forbi. Først tror man AMT 158BR er et plagiat - en lavkostlandkopi av Yamarin 58BR. Men så viser det seg nesten heller å være helt motsatt.
@@ -92,7 +96,7 @@ Derfor ble det forbrukertest av AMT på helping.no.
 
 **Tekniske data**.
 
-AMT 158BR  
+AMT 158 BR  
 Tekniske data:  
 Lengde 5,50 m  
 Bredde 2,24 m  
