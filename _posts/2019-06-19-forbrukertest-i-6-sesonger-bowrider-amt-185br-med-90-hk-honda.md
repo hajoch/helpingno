@@ -23,7 +23,7 @@ image: "/assets/images/amt.8.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
-publish_date:
+publish_date: 
 weight: 8
 
 ---
@@ -83,8 +83,5 @@ Tekniske problemer med motoren første sesong har ført til at båten og motoren
 
 Er AMT 185BR med 90 hk Honda "bedre enn jeg forventer" slik den første markedsføringen av båten hevder? - Nei. Mannen forventer en problemløs motor og god service når man kjøper ny båt. Hund. Fra sesongen 2009 ble motoren friskmeldet og fungerte utmerket. Slik  
 det burde vært fra første dag.
-
-Flere bilder:  
-[https://www.helping.no/bow.3.htm](https://www.helping.no/bow.3.htm "https://www.helping.no/bow.3.htm")
 
 ![](https://wwww.helping.no/assets/images/amt.9.JPG)
