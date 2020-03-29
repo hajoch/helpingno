@@ -83,5 +83,3 @@ Tekniske problemer med motoren første sesong har ført til at båten og motoren
 
 Er AMT 185BR med 90 hk Honda "bedre enn jeg forventer" slik den første markedsføringen av båten hevder? - Nei. Mannen forventer en problemløs motor og god service når man kjøper ny båt. Hund. Fra sesongen 2009 ble motoren friskmeldet og fungerte utmerket. Slik  
 det burde vært fra første dag.
-
-![](https://wwww.helping.no/assets/images/amt.9.JPG)
