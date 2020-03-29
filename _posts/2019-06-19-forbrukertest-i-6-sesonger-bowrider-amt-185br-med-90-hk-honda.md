@@ -81,5 +81,5 @@ For en familiebåt er dirvstoff-økonomi, lite motorstøy og miljøvennlig uthen
 
 Tekniske problemer med motoren første sesong har ført til at båten og motoren nå samlet skårer 4 soltegn i vår test. Dette er en tragisk på en fin båt. Videre er det en tragisk på denne båten, kun tilgjengelig med Honda-motor: Forbrukere bør kunne velge påhengsmotoren på en båt. Det er heller ikke mulig å bestille en båt uten motor i Norge for å sette et nytt motormerke på båten. Da må du kjøpe den i Finland (se tips fra leser på samme side)
 
-Er AMT 185BR med 90 hk Honda "bedre enn jeg forventer" slik den første markedsføringen av båten hevder? - Nei. Mannen forventer en problemløs motor og god service når man kjøper ny båt. Hund. Fra sesongen 2009 ble motoren friskmeldet og fungerte utmerket. Slik  
+Er AMT 185 BR med 90 hk Honda "bedre enn jeg forventer" slik den første markedsføringen av båten hevder? - Nei. Mannen forventer en problemløs motor og god service når man kjøper ny båt. Hund. Fra sesongen 2009 ble motoren friskmeldet og fungerte utmerket. Slik  
 det burde vært fra første dag.
