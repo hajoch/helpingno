@@ -7,7 +7,7 @@ tags:
 - båt påhengsmotor
 - båt
 - bowrider
-title: Bowrider-duell AMT 185BR mot Yamarin 58BR
+title: 'Bowrider-duell: AMT 185BR mot Yamarin 58BR'
 excerpt: |-
   Test: Når AMT-båtene markedsføres med at de er bedre enn du forventer, da er det umulig for en båtkjøper å gå forbi. Først tror man AMT 158BR er et plagiat - en lavkostlandkopi av Yamarin 58BR. Men så viser det seg nesten heller å være helt motsatt.
 
@@ -63,9 +63,9 @@ Yamarin 58BR har en pen blåfarge på sine stoler og setetrekk. AMT 185BR har en
 
 **Motorer**  
 Begge båtene er utstyrt med fire-takts påhengsmotorer. Honda som leverer motorer til AMT har lengst erfaring med produksjon av firetakts motorer av alle påhengs-motorer på markedet og disse motorene har gjort det bra i test. Men når vi kjøper inn og tester denne båten ny for sesongen 2007 har vi problemer med motoren.  
-Se: Forbrukertest bowrider 3: [AMT 185BR.](http://www.helping.no/bow.3.htm)
+Se vår forbrukertest bowrider AMT 185BR.
 
-Yamarin er utstyrt med Yamaha for som du sikkert vet er Yamaha eier av båtmerket Yamarin. Yamaha er populær i markedet og kjent for å være gode og driftssikre. Dette er bekreftet av vår båttester Ole T. Moy som tester [Yamarin 76DC.](http://www.helping.no/bat.ya.htm)
+Yamarin er utstyrt med Yamaha for som du sikkert vet er Yamaha eier av båtmerket Yamarin. Yamaha er populær i markedet og kjent for å være gode og driftssikre. Dette er bekreftet av vår båttester Ole T. Moy som tester Yamarin 76 DC.
 
 På grunn av vektforskjellen på 50 kg har Yamarin max motorstyrke på 150 hk mens AMT 185BR som er lettere og litt mindre har 115 hk. At AMT 185BR er litt mindre og lettere gir også utslag på prisen: AMT 185BR kommer mer prisgunstig ut.
 
@@ -75,7 +75,7 @@ Når Hondas nye motorteknologi nå markedsføres som "miljømotor" har dette sam
 **Konklusjon**  
 De er begge stødige, velrenomerte og gode alternativ for en familiebåt til dagsturer på fjorden. Yamarin 58BR har god annenhåndsverdi på grunn av god kvalitet på både båt og motor. AMT er nyere på markedet, men har samme designer og kvalitet som Yamarin.
 
-Vår forbrukertest av [AMT 185BR.](http://www.helping.no/bow.3.htm) viser at Honda har problemer med noen av de nye motorene sine. Dette trekker ned  for AMT som kun leveres med Honda. Det kan hevdes av vi ikke har testet Yamarinen tilsvarende. Det er rett, men vi har som nevnt over teste Yamahas 250 hk 4T denne sesongen på annen båt og dette er en feilfri motor hele første sesong mens Honda har slitt med tekniske problemer første sesongen. Yamaha er muligens derfor mest driftsikker av disse to.
+Vår forbrukertest av AMT 185 BR. viser at Honda har problemer med noen av de nye motorene sine. Dette trekker ned  for AMT som kun leveres med Honda. Det kan hevdes av vi ikke har testet Yamarinen tilsvarende. Det er rett, men vi har som nevnt over teste Yamahas 250 hk 4T denne sesongen på annen båt og dette er en feilfri motor hele første sesong mens Honda har slitt med tekniske problemer første sesongen. Yamaha er muligens derfor mest driftsikker av disse to.
 
 Det er i dette valget lagt stor vekt på en totalvurdering av båtene. At AMT 185BR kan bestilles med hvitt skrog uten den besværlige fargede stripa langs skrogsiden og de praktiske designmessig løsningene ombord som bl.a. kalesje-løsningen (som er inkludert i prisen) samt penere akterende gir plusspoeng.
 
@@ -88,7 +88,7 @@ og 90 hk Honda og den absolutt beste handelen på markedet da vi handlet.
 
 Forhandlere for Yamarin var litt for selvsikre og lite villige til å kjøpsforhandle. Yamarin-forhandlerne i Arendal og Grimstad var direkte arrogante. Det var derfor lett å velge en AMT.
 
-Derfor ble det forbrukertest av AMT: Se [Forbrukertest](http://www.helping.no/bow.3.htm)
+Derfor ble det forbrukertest av AMT på helping.no.
 
 **Tekniske data**.
 
