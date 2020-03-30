@@ -15,6 +15,13 @@ tags:
 - fjellvandring
 - tidligere militæranlegg
 - tåke
+- fritid
+- fjell
+- utsikt
+- militæranlegg fra den kalde krigen
+- militære hemmeligheter
+- Norges lengste taubane
+- Cognac
 title: Gaustatoppens hemmelighet. Langt inni fjellet.....
 excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
   i fjellet til den store attraksjonen. Fjellstua på toppen selger vafler. Utsikten?
@@ -31,8 +38,8 @@ Dovregubben ble viden kjent gjennom Henrik Ibsens "Per Gynt", men Gaustatoppen h
 
 Gaustatoppen er det eneste fjell i Norge som har en slik spennende og mystisk bane inni fjellet. Om ikke det militære har enda flere slike hemmelige prosjekter på samvittigheten, da.
 
-\- Ta plass, platform på venstre side.  
-En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter innover i fjellet til den store attraksjonen. Ekkoet av jernhjul mot skinner går innover i tunellen. Så hyler bremsene, døren går opp og der står kabelbanen som skal ta meg 1040 meter oppover inni fjellet i en 40 graders vinkel..
+\- Ta plass, plattform på venstre side.  
+En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter innover i fjellet til den store attraksjonen. Ekkoet av jernhjul mot skinner går innover i tunnelen. Så hyler bremsene, døren går opp og der står kabelbanen som skal ta meg 1040 meter oppover inni fjellet i en 40 graders vinkel..
 
 Konduktøren er en dreven gubbe i gamet - just passert pensjonsalder, men "still going..." Mens kablene trekker jevnt oppover forteller han ivrig om banens historie:  
 \- Det kostet 14 millioner kroner å bygge denne banen i 1959 og det er Norges lengste taubane bygd etter samme prinsipp som Fløybanen i Bergen bortsett fra at her går hele løpet dypt inni fjellet. Og betydelig lengre spenn, naturligvis.
@@ -64,11 +71,11 @@ neonlys på toppen.
 
 En trapp fører opp til maskinrommet bak en glassvegg. Her skimtes et solid maskineri og en maskinist bak spakene.
 
-Ved gangveien ut står Congnac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte congnac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.
+Ved gangveien ut står Cognac-tønner - for Gaustadtoppen er ikke snauere enn at det også lages ekte Cognac her. Smaksprøver kan antakelig nytes i Turistforeningens hytte om du ikke har bil som venter nede ved parkeringsplassen.
 
-En tunell fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
+En tunnel fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
 
-Ute av tunellen ligger Turist-foreningens hytte sløret i tåke som et spøkelsesslott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
+Ute av tunnelen ligger Turist-foreningens hytte sløret i tåke som et spøkelses-slott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
 
 ![](https://wwww.helping.no/assets/images/gausta8.jpg)
 
