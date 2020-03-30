@@ -7,6 +7,29 @@ tags:
 - Helse
 - Døden
 - Religion
+- tro
+- helse
+- mystikk
+- nær-døden
+- åndelig utvikling
+- dødsangst
+- visualisere
+- ubevisst skade
+- Teosofi
+- Bahai
+- Sufi
+- Gnostiker
+- imam
+- Dante
+- Zoroastrisme
+- healing
+- monoteister
+- Taoisme
+- Yin-Yan
+- følelser
+- samfunn
+- synskhet
+- filosofi
 title: Døden og livet som forandring
 excerpt: 'Døden er slik jeg har opplevd det ikke annet enn en kvalitativ stor forandring
   i form. Hvor vi gir slipp på den fysiske kroppen. Vi opplever slik jeg ser det mange
@@ -21,8 +44,6 @@ weight: 1
 
 ---
 Perioder og hendelser som får oss til å gi slipp på tidligere overførte eller selvvalgte ideer om oss selv og verden på mange plan. Stort sett i sammenheng med at vi tilegner oss nye. Hvor vi da beveger oss videre som et annet menneske. Livet er forandring og døden er for de fleste den mest uoversiktlige forandringen vi kjenner. Livet i vårt vestlige samfunn kjennetegnes ved stor frihet og mange valgmuligheter. Vi har mye selvstendig kontroll og mange påvirkningsmuligheter. Døden innebærer den absolutte eksistensielle mangel på kontroll.
-
-![](/assets/images/karidvd2.jpg)
 
 Jeg vil her presentere noen tanker om og rundt dette temaet død og liv. Mitt utgangspunkt for å skrive om dette er en nær-døden-opplevelse jeg hadde som helt ung. Etterpå har jeg studert nærmest talt alle retningene som finnes om livet og døden, religioner, menneskesyn, virkelighetsoppfatninger, personlighetspsykologi, transpersonlig psykologi og opplevelser, meditasjon, synskhet, healing og andre alternativmedisinske metoder, filosofiske systemer og sykepleie.
 
@@ -41,10 +62,10 @@ Sykdom som liten død kan mennesker som aldri har hatt noe verre enn forkjølels
 
 En dødsrisiko motiverer de fleste til å tenke om igjen. Det er også den sterkeste motivasjonen som fører til ny handling. Sykdom kjennetegnes av fysisk - følelsesmessig- mental eller åndelig smerte, hvor de fleste er enige om at flere av disse nivåene reagerer med hverandre. Dette er kalt psykosomatiske eller fysisk- psykiske sammenhenger. Årsaker og dermed forklaringer og løsninger kan vi være uenige om, men noen sykdommer er symptommessig mer fysiske og andre er symptommessig mer følelsesorientert/mentale/åndelige og dermed psykiske i sitt uttrykk. Det som er generelt med sykdom er at den/de forteller at noe er galt. Kroppen har bare noen få måter i hovedsak å fortelle at noe er galt på og det er gjennom nervesystemets forskjellige smertetilstander og negative følelser, igjen fysisk, følelsesmessig, mentalt eller åndelig. Når noe blir veldig galt dør man fysisk eller begynner å dø psykisk. Begynner man å dø psykisk medfører det ofte at det fysiske følger på. Noen går til den ytterlighet og begå akutt selvmord og andre finner løsninger som drar ut i tid, fordi smerten ved å leve blir for stor. Livet har blitt verre enn usikkerheten døden medfører. Og noen har et livssyn som kanskje gjør det lettere å velge døden. Uansett, all sykdom er sånn sett et varsel om å stoppe opp og tenke over hva man holder på med. Dette for å korrigere før vondt går til verre. Før det er - eller kan være for sent. Man slutter dermed, på en for mange ubehagelig måte, å ta livet for gitt. Et annet hyggelig resultat for mange, er at de opplever å ha fått livet i gave på nytt.
 
-**Religion og trossystemers oppfatning av døden**  
+**Religion og tro-systemers oppfatning av døden**  
 Mennesker har mange forskjellige oppfatninger av livet og døden. Det spenner fra at når kroppen dør så er det ingen ting tilbake (Ateisme), til at det er mye igjen og mange veier både videre og tilbake. Som Ateist har man da etter min mening god grunn til å være litt nervøs. Fordi ingen har vel lyst til bare "å forsvinne". Jeg er redd de vil bli overrasket.
 
-Den andre hovedretningen er at man legger fra seg en form (kroppen) for å leve videre i en ny. Omtrent som en sommerfugl som skifter form fra puppe til ferdig fri sommerfugl. Hamskiftet kan kanskje oppleves som ubehagelig, men resultatet oppleves antagelig som bedre enn utgangspunktet. Innen den sistnevnte oppfatningen har man alle de største religionene. Religion er definert som menneskenes forhold til overmenneskelige makter og krefter. Alle de religiøse forestillingene er veldig forskjellige fra trossystem til trossystem. De fleste av oss kjenner til hovedpunktene der.
+Den andre hovedretningen er at man legger fra seg en form (kroppen) for å leve videre i en ny. Omtrent som en sommerfugl som skifter form fra puppe til ferdig fri sommerfugl. Hamskiftet kan kanskje oppleves som ubehagelig, men resultatet oppleves antagelig som bedre enn utgangspunktet. Innen den sistnevnte oppfatningen har man alle de største religionene. Religion er definert som menneskenes forhold til overmenneskelige makter og krefter. Alle de religiøse forestillingene er veldig forskjellige fra tro-system til tro-system. De fleste av oss kjenner til hovedpunktene der.
 
 **Dualitet går igjen i alle trossystemer.**  
 Hinduene og Buddhistene kan ende opp som passive fatalister i dette liv, ytre sett, fordi de setter sin lit til det neste. Bare de ikke gjør for mye negativt i dette liv kommer de til - eller nærmere - Nirvana, som er deres himmel. Lever de et egoistisk liv hvor de påfører andre unødvendig smerte og skade må de oppleve dette selv senere. De kan da få et vanskeligere liv neste gang. (Reinkarnasjon) Til slutt er de ferdig utlært på menneskeplanet, noe som kun er et tidsspørsmål. Her er enkeltmenneskets innsats avgjørende gjennom fri vilje og utvikling av indre dyder. Disse religionene er tuftet på bevissthet og energi. En annen ingrediens er tjeneste for å gjøre opp for tidligere bevisste og ubevisst negative handlinger. (Karma) Østens religioner er mest "innadrettet". Taoismen med yin og yang som motsatte poler er også buddhist inspirert. Her drives livet og alt fremover igjennom gjensidig balanse og utvikling illustrert med Yin/ Yang symbolet. Sykdom og for tidlig død viser ubalanse i levemåte, kosthold og tenkning. Den kinesiske medisin er et innfløkt system. Men etter døden skifter de også form og blir til ånder.En interessant ting med kinesiske leger er at tidligere fikk de ikke betaling hvis folk ble syke, fordi da hadde de ikke gjort jobben sin.
@@ -79,22 +100,22 @@ Angående døden og som med dødsangst, så kan man også ende opp med livsangst
 
 Alt som er, er her og nå. Det er nå du lever. Det er nå du kan fortsette som du alltid har gjort, eller gjøre noe nytt. Tenke noe nytt. Undersøke andre muligheter. Det er nå du har muligheter til å se hva du bruker energien på. Hvilke verdier du lever livet ditt etter. Er du ansvarlig overfor deg selv, dine nærmeste, miljøet, jorden. Er du med på å gjøre ting verre eller bedre for alle. Å bare flyte med eller å leve bevisst er et valg.
 
-Å leve mest mulig bevisst er gjentagende valg på mange plan i evig forandring og utvikling. Mange mennesker tenker på i går eller i morgen. De lever i fortid eller fremtid. Men det er kun nå som er. Det gjelder både angående valg i vårt private liv og om man tenker på å ta mer kollektivt ansvar. Den gang da og engang når, blir til nå. Her ligger også nøkkelen til å rydde i sin fortid gjennom å forandre sin nåtid og dermed sin fremtid.
+Å leve mest mulig bevisst er gjentakende valg på mange plan i evig forandring og utvikling. Mange mennesker tenker på i går eller i morgen. De lever i fortid eller fremtid. Men det er kun nå som er. Det gjelder både angående valg i vårt private liv og om man tenker på å ta mer kollektivt ansvar. Den gang da og engang når, blir til nå. Her ligger også nøkkelen til å rydde i sin fortid gjennom å forandre sin nåtid og dermed sin fremtid.
 
-Jeg skriver dette fordi ved å forstå dette blir det mulig å rette opp konsekvenser av tidligere negative handlinger. Fordi vi er alle på vei fra noe til noe og i den prosessen kan vi hjelpe hverandre videre. Ved å forstå hva man har bidratt negativt til kan man gjennom å bruke kreftene sine annerledes dempe og snu følgene individuelt og eventuelt utviklingenkollektivt. Man bruker sin viten om hva som er galt til å bidra tilløsninger.
+Jeg skriver dette fordi ved å forstå dette blir det mulig å rette opp konsekvenser av tidligere negative handlinger. Fordi vi er alle på vei fra noe til noe og i den prosessen kan vi hjelpe hverandre videre. Ved å forstå hva man har bidratt negativt til kan man gjennom å bruke kreftene sine annerledes dempe og snu følgene individuelt og eventuelt utviklingen kollektivt. Man bruker sin viten om hva som er galt til å bidra til løsninger.
 
 **Det er aldri for sent.**  
 **3 forskjellige måter å ta ansvar for tidligere handlinger på.**  
 Slik jeg har oppfattet det er det i hovedsak 3 forskjellige måter eller nivåer å respondere på angående tidligere handlinger. De tre måtene korresponderer med forskjellige bevissthetsnivåer. Jeg utdyper ikke dette her, men handlinger innebærer også ord, tanker og følelser. Alle impulser som noen gang har oppstått, blitt satt ut i livet eller blitt undertrykt.
 
-1\. Gjennomleve konsekvensene av tidligere avgjørelser. Og muligens skape nye lignende. En re-aktiv ubevisst måte og være i live på. Ikke noe galt i dette hvis det man opplever er det man ønsker. Og det heller ikke går ut over andre. Den tregeste måten. Men er det der i mot ikke lystbetont og livet mest handler om å holde ut og å prøve og ikke tenke/ føle, er det på tide å forandre strategi. Også om man kun er opptatt av å karre mest mulig til seg selv, av forskjellige motivasjoner. Her er man mest opptatt av sitt eget og sin egen tilfredsstillelse i snever forstand.
+1\. Gjennomleve konsekvensene av tidligere avgjørelser. Og muligens skape nye lignende. En re-aktiv ubevisst måte og være i live på. Ikke noe galt i dette hvis det man opplever er det man ønsker. Og det heller ikke går ut over andre. Den tregeste måten. Men er det der i mot ikke lystbetont og livet mest handler om å holde ut og å prøve og ikke tenke/ føle, er det på tide å forandre strategi. Også om man kun er opptatt av å kare mest mulig til seg selv, av forskjellige motivasjoner. Her er man mest opptatt av sitt eget og sin egen tilfredsstillelse i snever forstand.
 
 2\. Hjelpe seg selv og andre gjennom tjeneste. Dette krever at man klarer å rette blikket litt utenfor sin egen nesetipp. Her kommer nestekjærlighetsbudskapet inn og den gylne regel for mentale, følelsesmessig og praktiske konsekvenser. Ved å erkjenne og vedstå seg tidligere handlinger blir man tilgitt. Og man må tilgi seg selv. Man begynner å rydde opp i tidligere handlinger på en bevisst måte ved å holde fokus på hva man best kan bidra med i enhver situasjon. Også i den forstand at man tar hensyn til seg selv ved å sette bevisste grenser for andre mennesker. Balanse. Trenger ikke forstå ting dypere enn humanistisk.
 
 3\. Be og forstå kombinert med de andre to. Her begynner man bevisst å samarbeide med den åndelige dimensjon. Man begynner å kjenne sin plass i den store sammenhengen. Samtidig som man vet det er hjelp å få. Praktisk bruk av læresetninger som, be og du skal få, be og du vil bli hørt osv. Man går sterkt inn for å forandre seg ved bønn, meditasjon og andre former for selvutviklende eller sjels integrerende metoder.
 
 **Bevissthet - Frihet og Ansvar. Individuelt og kollektivt**  
-Hvis det fra Guds side var meningen vi alle skulle oppføre oss som helgener fra den dagen vi ble født så ville vi blitt laget slik. Og det er vi ikke. Men vi kan tilegne oss disse egenskapene hvis vi vil. Akkurat som vi gjennomgår modningsprosesser med mer viten og bevissthet om sammenhenger og konsekvenser fra barndom til alderdom, på det individuelleplan, gjennomgår vi kollektivt læring om sammenhenger og kulturelt ansvar også nå globalt. Både fra individuelt perspektiv og kollektivt var verden annerledes i år 1906, enn som den er i år 2006 og vil være helt annerledes i år 2106. Mange kan føle på samvittigheten store problemstillinger som de individuelt ikke kan ta ansvar for. De som er identifisert med tidligere samfunnsformer føler seg truet. De opplever at verden er gal i betydning ikke gjenkjennelig. At dårlig moral og oppløsning er dominerende. Jeg tenker her spesielt på eldre mennesker som levde opp i helt andre kontekster enn vi ser nå. En hver generasjon har sine utfordringer de skal løse. Mange gamle i dag gjennomlevde krigen og bygget opp landet etterpå. Det var deres bragd. Generasjonen etter brøt normer og skapte mer individuelt armsving. Spesielt for kvinnene.
+Hvis det fra Guds side var meningen vi alle skulle oppføre oss som helgener fra den dagen vi ble født så ville vi blitt laget slik. Og det er vi ikke. Men vi kan tilegne oss disse egenskapene hvis vi vil. Akkurat som vi gjennomgår modnings-prosesser med mer viten og bevissthet om sammenhenger og konsekvenser fra barndom til alderdom, på det individuelle plan, gjennomgår vi kollektivt læring om sammenhenger og kulturelt ansvar også nå globalt. Både fra individuelt perspektiv og kollektivt var verden annerledes i år 1906, enn som den er i år 2006 og vil være helt annerledes i år 2106. Mange kan føle på samvittigheten store problemstillinger som de individuelt ikke kan ta ansvar for. De som er identifisert med tidligere samfunnsformer føler seg truet. De opplever at verden er gal i betydning ikke gjenkjennelig. At dårlig moral og oppløsning er dominerende. Jeg tenker her spesielt på eldre mennesker som levde opp i helt andre kontekster enn vi ser nå. En hver generasjon har sine utfordringer de skal løse. Mange gamle i dag gjennomlevde krigen og bygget opp landet etterpå. Det var deres bragd. Generasjonen etter brøt normer og skapte mer individuelt armsving. Spesielt for kvinnene.
 
 Nå kommer miljøutfordringer, kulturelt samarbeid globalt og religionenes gjensidige toleranse. For å løse globale problemer og etablere fred. Orden og kaos er begge nødvendig for fornyelse. Men vi vil ikke ha kaos bare orden. Akkurat som vi ikke vil ha død bare liv. Vi er i en ny global bevissthetsmessig fødsel. Da må vi forlate eller dø fra gamle identifikasjoner og væremåter, kontrollmekanismer osv. imens nye kommer til. Dette er tydelig i utenrikspolitikken og i vurderinger av trusselbilder. Det er ikke dommedag i betydning jordens undergang. Men et verdensbilde og en virkelighetsoppfatning i så stor og fort forandring at mange ikke henger med.
 
