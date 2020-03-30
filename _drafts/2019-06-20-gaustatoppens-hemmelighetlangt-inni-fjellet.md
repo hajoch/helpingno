@@ -83,3 +83,5 @@ Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. For den
 
 **Linker**  
 Slik får du kontakt med Gaustabanen:  [www.gaustabanen.no](http://www.gaustabanen.no/)
+
+**Beklager teknisk feil gjør at ikke alle bildene kommer opp på denne siden.**
