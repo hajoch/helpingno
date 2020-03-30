@@ -13,7 +13,7 @@ categories:
 - _category/helse.md
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
-publish_date:
+publish_date: 
 weight: 5
 tags:
 - Mental Helse
@@ -21,6 +21,13 @@ tags:
 - helse
 - avslapping
 - mentalhygiene
+- Søvn
+- søvnteknikker
+- bedre søvn
+- 3-2-1-teknikken
+- visualisering
+- innsoving
+- søvnterapi
 image_caption: Foto Gunnar Christensen
 
 ---
