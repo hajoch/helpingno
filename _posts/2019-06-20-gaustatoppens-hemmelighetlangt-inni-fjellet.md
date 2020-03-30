@@ -82,6 +82,4 @@ Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. For den
 ![](https://wwww.helping.no/assets/images/gausta4.jpg)
 
 **Linker**  
-Flere  bilder: [http://www.helping.no/gaustabanen.htm](http://www.helping.no/gaustabanen.htm)  
-Slik får du kontakt med Gaustabanen:  
-[www.gaustabanen.no](http://www.gaustabanen.no/)
+Slik får du kontakt med Gaustabanen:  [www.gaustabanen.no](http://www.gaustabanen.no/)
