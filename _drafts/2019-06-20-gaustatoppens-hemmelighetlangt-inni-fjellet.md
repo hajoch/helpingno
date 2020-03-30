@@ -80,8 +80,7 @@ Ute av tunnelen ligger Turist-foreningens hytte sløret i tåke som et spøkelse
 
 ![](https://wwww.helping.no/assets/images/gausta8.jpg)
 
-**Gaustatoppen ville ikke gi fra seg alle hememlighetene sine denne dagen. Den vakre utsikten fikk  
-jeg ikke.**
+**Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. Den vakre utsikten fikk jeg ikke.**
 
 Ute av tunnelen ligger Turistforeningens hytte sløret i tåke som et spøkelses-slott en liten klatretur unna. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i tåka.
 
