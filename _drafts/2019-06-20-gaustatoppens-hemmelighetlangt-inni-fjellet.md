@@ -27,7 +27,8 @@ excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter
   i fjellet til den store attraksjonen. Fjellstua på toppen selger vafler. Utsikten?
   Ofte tåke her.
 image: "/assets/images/gausta2.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: Og der står kabelbanen som skal ta meg 1040 meter oppover inni fjellet
+  i en 40 graders vinkel. Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
