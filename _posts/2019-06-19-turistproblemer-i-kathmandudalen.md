@@ -12,6 +12,10 @@ tags:
 - hindusamfunn
 - kulturskatter
 - verdensarv
+- tempel
+- hindutempel
+- Patan
+- Bhadgaon
 title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønnsgrupper i samfunnet:'
