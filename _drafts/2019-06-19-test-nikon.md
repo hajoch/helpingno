@@ -44,12 +44,12 @@ Den innebygde blitzen skvetter for raskt opp uten at det er en virkelig mot-lys-
 Første gang jeg kjører batteriet tomt har jeg supermotivet i sikte; Batterilogoen viser nemlig ikke tom søyle så jeg tror det er mer å gå på. Dette er begynner-tabbe med dette kameraet: Ikke stol på batterimåleren. Lad batteriet i god tid før søylen nærmer seg 1/4 restenergi i indikatorsøylen.
 
 **Skarphet**  
-Testetbilder på innstilling "auto" gir middels gode bilder med brukbar skarphet. Skarphet bedre enn kompaktkameraene. Men ikke "Nikon-skarphet" som jeg kjenner fra tidligere: Den ekstraordinære skarpheten uteblir. Skarpheten som jeg husker fra mitt gamle Nikon-utstyr før den digitale revolusjonen.
+Testet bilder på innstilling "auto" gir middels gode bilder med brukbar skarphet. Skarphet bedre enn kompaktkameraene. Men ikke "Nikon-skarphet" som jeg kjenner fra tidligere: Den ekstraordinære skarpheten uteblir. Skarpheten som jeg husker fra mitt gamle Nikon-utstyr før den digitale revolusjonen.
 
 Og nærbildet? De blå blomstene (bildet) har jo ikke "Nikon skarphet" med objektivet Nikkor 18-55 f. 3,5-5,6. Men godt nok for den "vanlige mann i gata". Jeg undrer: Er det virkelig slik at dette kameraet er Nikons bestselger med dette objektivet? Forskjellig markeder kan ha ulike objektiver i pakketilbudet.
 
 **Test skarphetsduell**  
-Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv Nikkor 18-55 f. 3,5-5,6 opp mot like mange bilder tatt med [Olympus](http://www.helping.no/olympus.htm) PEN-hybridkameraet med standardobjektiv som vi samtidig tester på helping.no.
+Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv Nikkor 18-55 f. 3,5-5,6 opp mot like mange bilder tatt med Olympus PEN-hybridkameraet med standardobjektiv som vi samtidig tester på helping.no.
 
 Testen ble tatt ved å sette samme type SD-kortet fra de to kameraene direkte inn i en ny Panasonic Plasma 42 tommers full HD-TV. Testen var en stor overraskelse. Vi kan tydelig se at Nikons bilder er skarpere, har bedre farge-gjengivelse og er klarere med Nikkor 18-55 f. 3,5-5,6 enn Olympus.
 
