@@ -22,13 +22,13 @@ publish_date:
 weight: 3
 
 ---
-Nikons bestselgene digitale speilrefleks-kamarahus heter nå Nikon D3600. Vil du spare to tusen så kjøp heller modell D3400. Den kommer også med et mer kompakt 18-55 m.m. standardobjektiv enn det vi tester her.
+Nikons bestselgere digitale speilrefleks-kamarahus heter nå Nikon D3600. Vil du spare to tusen så kjøp heller modell D3400. Den kommer også med et mer kompakt 18-55 m.m. standardobjektiv enn det vi tester her.
 
 **Test pakketilbud**  
 Fotopressen har klaget på zoom-objektivet som følger med i denne "pakken" (Nikkor 18-55 f. 3,5-5,6) og hevdet at dette kamerahuset fortjener et bedre objektiv. I denne testen anser vi imidlertid objektiv og kamerahus som en enhet. Dette fordi dette markedsføres som et samlet pakketilbud til "folk flest" i Norge. Det eneste vi ekstra monterer på utstyret er skylight/UV-filter og en solblender. I tillegg tester vi Nikkor 18-105 f.3,5-4,5 med original solblender som tilleggsutstyr.
 
 **Nikon sa NEI**  
-Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pressedemoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.
+Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut presse-demoer til helping.no. Slikt sårer en gammel pressemann som i yngre år jobbet i VG, NRK m.fl. og kjøpte eget frilans Nikon-utstyr for hundre tusen spenn. En stor sum på den tid.
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
