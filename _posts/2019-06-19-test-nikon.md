@@ -18,7 +18,7 @@ image: "/assets/images/nikondk1.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/foto.md
-publish_date:
+publish_date: 
 weight: 3
 
 ---
@@ -35,13 +35,13 @@ I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører inn
 ![](/assets/images/nokondk2.jpg)
 
 **Førsteinntrykket**  
-Førsteinntrykket av dette kameraet er posistivt. Faktisk veier ikke denne Nikon D 3100 mer enn mange hybridkameraer. Faktisk føles det lettere enn hybrid-kameraet [Olympus](http://www.helping.no/olympus.htm) PEN med Nikkor 18-55 f. 3,5-5,6. Nikon 3100 ligger godt i hånden og er lett å bruke. Familien liker det umiddelbart og synes det er gøy å ta bilder med det.
+Førsteinntrykket av dette kameraet er positivt. Faktisk veier ikke denne Nikon D 3100 mer enn mange hybridkameraer. Faktisk føles det lettere enn hybrid-kameraet Olympus PEN med Nikkor 18-55 f. 3,5-5,6. Nikon 3100 ligger godt i hånden og er lett å bruke. Familien liker det umiddelbart og synes det er gøy å ta bilder med det.
 
 Med på Nikon 3100-handelen følger også et lite fotokurs en helg for dem som bor sentralt i landets største byer.
 
-Den innebygde blitzen skvetter for raskt opp uten at det er en virkelig motlyssituasjon. Det irriterer.
+Den innebygde blitzen skvetter for raskt opp uten at det er en virkelig mot-lys-situasjon. Det irriterer.
 
-Første gang jeg kjører batteriet tomt har jeg supermotivet i sikte; Batterilogoen viser nemlig ikke tom søyle så jeg tror det er mer å gå på. Dette er begynner-tabbe med dette kameraet: Ikke stol på batterimåleren. Lad batteriet i god tid før søylen nærner seg 1/4 restenergi i indikatorsøylen.
+Første gang jeg kjører batteriet tomt har jeg supermotivet i sikte; Batterilogoen viser nemlig ikke tom søyle så jeg tror det er mer å gå på. Dette er begynner-tabbe med dette kameraet: Ikke stol på batterimåleren. Lad batteriet i god tid før søylen nærmer seg 1/4 restenergi i indikatorsøylen.
 
 **Skarphet**  
 Testetbilder på innstilling "auto" gir middels gode bilder med brukbar skarphet. Skarphet bedre enn kompaktkameraene. Men ikke "Nikon-skarphet" som jeg kjenner fra tidligere: Den ekstraordinære skarpheten uteblir. Skarpheten som jeg husker fra mitt gamle Nikon-utstyr før den digitale revolusjonen.
@@ -49,28 +49,28 @@ Testetbilder på innstilling "auto" gir middels gode bilder med brukbar skarphet
 Og nærbildet? De blå blomstene (bildet) har jo ikke "Nikon skarphet" med objektivet Nikkor 18-55 f. 3,5-5,6. Men godt nok for den "vanlige mann i gata". Jeg undrer: Er det virkelig slik at dette kameraet er Nikons bestselger med dette objektivet? Forskjellig markeder kan ha ulike objektiver i pakketilbudet.
 
 **Test skarphetsduell**  
-Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv Nikkor 18-55 f. 3,5-5,6 opp mot like mange bilder tatt med [Olympus](http://www.helping.no/olympus.htm) PENhybridkameraet med standardobjektiv som vi samtidig tester på helping.no.
+Vi testet hundre bilder tatt med Nikon D3100 med standardobjektiv Nikkor 18-55 f. 3,5-5,6 opp mot like mange bilder tatt med [Olympus](http://www.helping.no/olympus.htm) PEN-hybridkameraet med standardobjektiv som vi samtidig tester på helping.no.
 
-Testen ble tatt ved å sette samme type SD-kortet fra de to kameraene direkte inn i en ny Phanasinic Plasma 42 tommers full HD-TV. Testen var en stor overraskelse. Vi kan tydelig se at Nikons bilder er skarpere, har bedre fargegjengivelse og er klarere med Nikkor 18-55 f. 3,5-5,6 enn Olympus.
+Testen ble tatt ved å sette samme type SD-kortet fra de to kameraene direkte inn i en ny Panasonic Plasma 42 tommers full HD-TV. Testen var en stor overraskelse. Vi kan tydelig se at Nikons bilder er skarpere, har bedre farge-gjengivelse og er klarere med Nikkor 18-55 f. 3,5-5,6 enn Olympus.
 
-Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er standard på Nikon D3100 i Norge så absolutt holder mål i test sammeliknet med en av konkurrentene.
+Dette viser med all mulig tydelighet at det kritiserte Nikkor-objektivet som er standard på Nikon D3100 i Norge så absolutt holder mål i test sammenliknet med en av konkurrentene.
 
 **Valg av kameratype**  
-Mange lurer på dette valget: Hybrid kamera eller et nytt lett speilrefleks i samme prisklasse. Sammenlikning av Nikon 3100 opp mot Olympus PEN levner ingen tvil: Nikon 3100 er best på kvalitet og brukervennlighet. Det er fristende å legge til "mest for pengene" etter som Olympus-kameraet fikk teknisker problemer under testen på helping.no.
+Mange lurer på dette valget: Hybrid kamera eller et nytt lett speilrefleks i samme prisklasse. Sammenlikning av Nikon 3100 opp mot Olympus PEN levner ingen tvil: Nikon 3100 er best på kvalitet og brukervennlighet. Det er fristende å legge til "mest for pengene" etter som Olympus-kameraet fikk tekniske problemer under testen på helping.no.
 
 ![](/assets/images/skagen.jpg)
 
 **Filtertips**  
 Har du brukt speilreflekskamera i flere tiår så ligger det i ryggmargen at du ikke tar i bruk et nytt objektiv før du har fått på et filter. Skylight eller helst UV. Det er den beste objektivforsikring du kan få.
 
-Om du får ei ripe i linsa ved et uhell så skifter du bare filteret så er linsa uskadd. Tar du i bruk linsa uten filter og du får en skade så er det nesten bare å kaste hele det dyrebare objektivet om du da ikke har forsikret deg. Men forsikring har egenandeler som koster deg mer enn et filter. Filteret til Nikkor 18-55 f. 3,5-5,6 er på 52mm. En kurant filterstørrelse.
+Om du får ei ripe i linsa ved et uhell så skifter du bare filteret så er linsa uskadd. Tar du i bruk linsa uten filter og du får en skade så er det nesten bare å kaste hele det dyrebare objektivet om du da ikke har forsikret deg. Men forsikring har egenandeler som koster deg mer enn et filter. Filteret til Nikkor 18-55 f. 3,5-5,6 er på 52 mm. En kurant filterstørrelse.
 
 **Prisforskjell på UV-filter**  
-Sjekk prisene før du kjøper filteret. På Nikkor 18-105 f.3,5-4,5 objektivet som trengte 62mm UV-filter var prisforskjellene store. Hos Expert kostet filteret  
-kr. 399,-. Dette er en uhørt høy pris på en så enkel konstruksjon - nærmest kompaktkamerapris. Hos Chlas Ohlson derimot kostet det samme UV-filteret kun kr. 199,-. Flere nettsalg hadde liknende priser, men her kommer fraktillegget opp i en like høy pris som filetet.
+Sjekk prisene før du kjøper filteret. På Nikkor 18-105 f.3,5-4,5 objektivet som trengte 62 mm UV-filter var prisforskjellene store. Hos Expert kostet filteret  
+kr. 399,-. Dette er en uhørt høy pris på en så enkel konstruksjon - nærmest kompaktkamerapris. Hos Chlas Ohlson derimot kostet det samme UV-filteret kun kr. 199,-. Flere nettsalg hadde liknende priser, men her kommer frakt-tillegget opp i en like høy pris som filteret.
 
 **Solblender**  
-Vi har valgt en gummisolblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilbake ved vidvinkelfotografering. Kamara med fast brennvidde har ofte solblendere av metall. Det fulgte med matallsolblender i prisen på Nikkor 18-105 f.3,5-4,5 - objektivet.. I likhet med filteret beskytter solblendere linsen mot støtskader og gir i mange situasjoner bedre bilder.
+Vi har valgt en gummi-solblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes tilbake ved vid-vinkel-fotografering. Kamara med fast brennvidde har ofte solblendere av metall. Det fulgte med metall-sol-blender i prisen på Nikkor 18-105 f.3,5-4,5 - objektivet.. I likhet med filteret beskytter sol-blendere linsen mot støtskader og gir i mange situasjoner bedre bilder.
 
 **Helping hjelper deg med Nikon-modellene**
 
