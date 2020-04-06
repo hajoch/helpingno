@@ -1,6 +1,6 @@
 <div class="uk-flex uk-flex-center uk-margin-small">
 <ul class="uk-iconnav">
-    <li><a uk-tooltip="Bokmerk" href="javascript:alert('Denne funksjonen kommer siden')" uk-icon="icon: bookmark"></a></li>
+    <li><a uk-tooltip="Bokmerk" href="javascript:bookmarkme()" uk-icon="icon: bookmark"></a></li>
     <li><a uk-tooltip="Del" href="#modal-center" uk-icon="icon: social" uk-toggle></a></li>
     <li><a uk-tooltip="Print" href="javascript:window.print()" uk-icon="icon: print"></a></li>
 </ul>
@@ -10,13 +10,12 @@
         <button class="uk-modal-close-outside" type="button" uk-close></button>
         <div class="uk-flex uk-flex-center uk-margin-small">
           <ul class="uk-iconnav">
-            <p>2</p>
-            <li><a uk-tooltip="Del på Facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" uk-icon="icon: facebook"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
-            <li><a uk-tooltip="Del på Twitter" href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}" uk-icon="icon: twitter"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
-            <li><a uk-tooltip="Del på LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.url }}" uk-icon="icon: linkedin"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
-            <li><a uk-tooltip="Del på Google+" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" uk-icon="icon: google-plus"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
-            <li><a uk-tooltip="Del på Reddit" href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" uk-icon="icon: reddit"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
-            <li><span id="copyBtn" class="uk-icon-button" onclick="copyUrl()" uk-tooltip="Kopier link" uk-icon="icon: link" ></span></li>
+            <li><a uk-tooltip="Del på Facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" uk-icon="icon: facebook" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Twitter" href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}" uk-icon="icon: twitter" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.url }}" uk-icon="icon: linkedin" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Google+" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" uk-icon="icon: google-plus" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Reddit" href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" uk-icon="icon: reddit" rel="nofollow" target="_blank"></a></li>
+            <li><a id="copyBtn" href="javascript:copyUrl()" uk-tooltip="Kopier link" uk-icon="icon: link" ></a></li>
           </ul>
         </div>
     </div>
