@@ -53,5 +53,5 @@ Brunfargen er en skikkelig nedtur på denne flotte Bobla. Etter å ha sett en ga
 **Boblevits:  
 **To eldre damer var på tur sammen i hver sin "nye" Boble på 1960-tallet. Plutselig fikk den ene motorstopp. Begge damene åpnet panseret framme på bilen som stoppet og eieren ropte forbauset:  
 \- Ikke rart denne har problemer. Her er jo ingen motor!  
-Den andre dama gikk til sin bil å åpnet bagasjerommet sitt der det var en motor og ropte tilbake:  
+Den andre dama gikk til sin bil og åpnet bagasjerommet sitt der det var en motor og ropte tilbake:  
 \- Denne bilen har to motorer du kan få en av meg!
