@@ -7,8 +7,8 @@ image: "/assets/images/kari.jpg"
 * Utdannet sykepleier, frilans-medarbeider i helping.no.
 * Kari Rose Norheim driver også praksis innen alternativ medisin. Personlig og åndelig utvikling , Kurs, Meditasjoner, Temakvelder, behandlinger. Hun gir healing, personlig veiledning omkring dødsangst, livsveiledning m.m.
 
-[http://www.facebook.com/](http://www.facebook.com/ "http://www.facebook.com/")[kari.rosenorheim?fref=pb](http://www.facebook.com/kari.rosenorheim?fref=pb)
+[https://www.facebook.com/](https://www.facebook.com/ "https://www.facebook.com/")[kari.rosenorheim?fref=pb](http://www.facebook.com/kari.rosenorheim?fref=pb)
 
-![](http://www.helping.no/karidvd2.jpg)
+![](/assets/images/karidvd2.jpg)
 
-Bilde: Henning Jon Grini i forlaget Ildsjelens intervju med Kari Rose Nordheim om hennes nær-døden-opplevelse. 
+Bilde: Henning Jon Grini i forlaget Ildsjelens intervju med Kari Rose Nordheim om hennes nær-døden-opplevelse.
