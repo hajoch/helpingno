@@ -15,7 +15,7 @@ tags:
 - kosebåt
 - Volvo Penta
 - dieselbåt
-title: 'Kose-båt. 3 sesonger med Polar 20. '
+title: 'Kosebåt. 3 sesonger med Polar 20. '
 excerpt: 'Hvem husker ikke barneårene med besteforeldres skjerm-skjekte i furu med
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:
   Test.'
@@ -59,7 +59,7 @@ Båten veier ikke mer enn at den godt kan transporteres på en mellomstor båthe
 Lengde 6,2 meter bredde 2,25 dybde 70 cm, vekt 850 kg, Volvo 18 hk diesel med 3 sylindere gir en fart på 10 knop, drivstofftank tar 40 liter, 10 sitteplasser, standard båt har kalesje, badetrapp, lanterner, flagg med feste, fenderfeste, manuell lensepumpe og puter til alle seter.
 
 **Kjøp Polar 20 med hvitt skrog**  
-Kjøper du ny Polar 20 så anbefales hvitt skrog uten striper. Det er mest vedlikeholdsfritt. Blåfarget skrog og striper i forskjellige farger gir besværlig vedlikehold.
+Kjøper du ny Polar 20 så anbefales hvitt skrog uten striper. Det er mest vedlikeholdsfritt. Blåfarget skrog og striper i forskjellige farger gir besværlig vedlikehold. Riper kan lett gi ekstrautgifter til omlakkering etter en stund. Unødvendig når båten er penest og mest praktisk i hvitt uten stripe.
 
 Unngå også ekstrautstyr av treverk. Treverket er kun fint den første sesongen og vil siden være en byrde for deg. Jo mindre treverk det er i båten des mer lettstelt er den. I tillegg kan mye av dette treverket være fra de truede regnskogene og båten kan fort bli ukurant versjon etter som det blir stadig mer fokus på miljøfaktorer nå fremover.
 
@@ -67,3 +67,5 @@ Unngå også ekstrautstyr av treverk. Treverket er kun fint den første sesongen
 **Dette er en båt som kan passe bra med en elektrisk motor. Nå lanseres derfor Polar 20 med en miljøvennlig elektrisk motor. Dette betyr mindre motorstøy og derfor en behageligere tilværelse ombord i båten. Men hvorfor er nyheten fremdeles dyrere enn den samme båten med dieselmotor? 
 
 Som kjent er produksjonen av Polar flyttet fra Norge til Polen. Men dette har ikke ført til rimeligere båter så langt. Heller tvert om. Derfor er bruktmarkedet interessant sålenge båten er i god stand.
+
+Når du kjøper bruktbåt: Sjekk heftelser på båten, vær nøye med å sjekke skroget - også under vann, få en motorkyndig til å se på motoren. Prøv båten i sjøen.
