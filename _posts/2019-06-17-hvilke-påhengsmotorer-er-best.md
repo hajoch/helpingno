@@ -34,8 +34,8 @@ image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
-publish_date:
-weight: 10
+publish_date: 
+weight: 8
 
 ---
 Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-takt-motorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-takt og trenger derfor dyrere service.
