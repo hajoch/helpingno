@@ -3,7 +3,7 @@ layout: post
 categories:
 - _category/boker.md
 date: 2019-06-03T20:09:41.000+00:00
-publish_date: 
+publish_date:
 image: "/assets/images/aima5.jpg"
 image_caption: Tegninger av Berit Anfinsen
 crop_image: true
