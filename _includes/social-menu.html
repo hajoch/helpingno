@@ -5,23 +5,18 @@
     <li><a uk-tooltip="Print" href="javascript:window.print()" uk-icon="icon: print"></a></li>
 </ul>
 </div>
-
-{% assign encoded_url = post.url | prepend: site.url | url_encode %}
-{% assign encoded_title = post.title | url_encode %}
-
-{% assign url_facebook = 'https://facebook.com/sharer/sharer.php?u=' | append: encoded_url %}
-{% assign url_twitter = 'https://twitter.com/intent/tweet/?text=' | append: encoded_title | append: '&amp;url' | append: encoded_url %}
-
 <div id="modal-center" class="uk-flex-top" uk-modal>
     <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
         <button class="uk-modal-close-outside" type="button" uk-close></button>
         <div class="uk-flex uk-flex-center uk-margin-small">
           <ul class="uk-iconnav">
-            <li><a uk-tooltip="Del på Facebook" href="#" uk-icon="icon: facebook"></a></li>
-            <li><a uk-tooltip="Del på Twitter" href="#" uk-icon="icon: twitter"></a></li>
-            <li><a uk-tooltip="Del på LinkedIn" href="#" uk-icon="icon: linkedin"></a></li>
-            <li><a uk-tooltip="Del på Google+" href="#" uk-icon="icon: google-plus"></a></li>
-            <li><a uk-tooltip="Kopier link" href="#" uk-icon="icon: link"></a></li>
+            <p>2</p>
+            <li><a uk-tooltip="Del på Facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" uk-icon="icon: facebook"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Twitter" href="https://twitter.com/intent/tweet/?text={{ page.title }}&url={{ site.url }}{{ page.url }}" uk-icon="icon: twitter"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.excerpt }}&source={{ site.url }}" uk-icon="icon: linkedin"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Google+" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" uk-icon="icon: google-plus"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
+            <li><a uk-tooltip="Del på Reddit" href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" uk-icon="icon: reddit"  class="uk-icon-button" rel="nofollow" target="_blank"></a></li>
+            <li><span id="copyBtn" class="uk-icon-button" onclick="copyUrl()" uk-tooltip="Kopier link" uk-icon="icon: link" ></span></li>
           </ul>
         </div>
     </div>

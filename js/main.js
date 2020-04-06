@@ -35,3 +35,11 @@ window.onload = () => {
   }
   */
 };
+function copyUrl(){
+    var dummy = document.createElement('input');
+    document.body.appendChild(dummy);
+    dummy.value = window.location.href;
+    dummy.select();
+    document.execCommand('copy');
+    document.body.removeChild(dummy);
+};
