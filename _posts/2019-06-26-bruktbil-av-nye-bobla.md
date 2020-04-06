@@ -50,8 +50,8 @@ Bobla har liten beinplass bak, men til gjengjeld takhøyde til personer opp til 
 **Gi meg en rød eller gul Boble!**  
 Brunfargen er en skikkelig nedtur på denne flotte Bobla. Etter å ha sett en gammel brosjyrens flotte og glade gul, rød og blåmetall-farger fatter jeg ikke at man kunne bestille en så tragisk, trist og mørk brunfarge som jeg ikke en gang vil ha på plentraktoren.
 
-**Boblevits:  
-**To eldre damer var på tur sammen i hver sin "nye" Boble på 1960-tallet. Plutselig fikk den ene motorstopp. Begge damene åpnet panseret framme på bilen som stoppet og eieren ropte forbauset:  
+**Boblevits:**  
+To eldre damer var på tur sammen i hver sin "nye" Boble på 1960-tallet. Plutselig fikk den ene motorstopp. Begge damene åpnet panseret framme på bilen som stoppet og eieren ropte forbauset:  
 \- Ikke rart denne har problemer. Her er jo ingen motor!  
 Den andre dama gikk til sin bil og åpnet bagasjerommet sitt der det var en motor og ropte tilbake:  
 \- Denne bilen har to motorer du kan få en av meg!
