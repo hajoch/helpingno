@@ -43,16 +43,15 @@ publish_date:
 weight: 7
 
 ---
-Vi tester bowrider med påhengsmotor i størrelsen mellom 16 - 19 fot på kvalitet, praktiske løsninger, design mm.
+Vi tester bowrider med påhengsmotor i størrelsen mellom 16 - 19 fot på kvalitet, praktiske løsninger, design mm.. Guiden er beregnet på bruktbåt-markedet.
 
 **Testvnnere:**  
 **AMT 185 BR**  
-Gunstig pris - mest for pengene. Forbrukertestet: AMT 185 BR med 90 HK Honda modell 2007 er en vellykket konstruksjon som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog.  
-Kalesjen, hydraulisk styring, dregg og fendere er inkludert i prisen. AMT testes mot Yamarin 58 BR
+Gunstig nypris - mest for pengene for denne årgangen da den var ny. Forbrukertestet: AMT 185 BR med 90 HK Honda modell 2007 er en vellykket konstruksjon som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog. Kalesjen, hydraulisk styring, dregg og fendere er inkludert i prisen. AMT ble testet mot mot Yamarin 58 BR og de andre på listen:
 
 **Yamarin 58 BR**  
 Båten er testet på sjøen med 100 hk Yamaha: To voksne og to barn ombord. Båten ligger fint og stabilt i sjøen og er lett å manøvrere. Virker solid skrudd sammen. Behagelig båt i sjø og støysvak motor.  
-God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen er faktisk så høy at det ofte lønner seg å kjøpe ny båt fremfor brukt: Prisforskjellen er liten.  
+God plass for sin lengde, stabil, pent design og kjent i markedet hvilket gir god annenhåndspris. Annenhåndsprisen var faktisk på et tidspunkt så høy at det ofte lønnet seg å kjøpe ny båt fremfor brukt: Prisforskjellen var liten. Nå er trolig bruktprisene justert etter lavere etterspørsel.  
 Det trekker ned at båten er kostbar sett i forhold til de øvrige båtene i klassen.
 
 **Andre bowridere**  
