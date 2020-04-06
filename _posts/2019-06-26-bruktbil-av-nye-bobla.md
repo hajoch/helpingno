@@ -48,7 +48,7 @@ Dette er blitt til en linjelekker liten sportsbil - med en eim av nostalgi. Fakt
 Bobla har liten beinplass bak, men til gjengjeld takhøyde til personer opp til 1,80 m i lengde og bredde til to voksne i baksetet. Dette blir en meget populær konebil og en drømmebil for mange ungdommer.
 
 **Gi meg en rød eller gul Boble!**  
-Brunfargen er en skikkelig nedtur på denne flotte Bobla. Etter å ha sett en gammel brosjyrens flotte og glade gul, rød og blåmetall-farger fatter jeg ikke at man kunne bestille en så tragisk, trist og mørk brunfarge som jeg ikke en gang vil ha på plentraktoren.
+Brunfargen er en skikkelig nedtur på denne flotte Bobla. Etter å ha sett en gammel brosjyrens flotte og glade gul, rød og blå-metall-farger fatter jeg ikke at man kunne bestille en så tragisk, trist og mørk brunfarge som jeg ikke en gang vil ha på plentraktoren.
 
 **Boblevits:**  
 To eldre damer var på tur sammen i hver sin Boble på 1960-tallet. Plutselig fikk den ene motorstopp. Begge damene åpnet panseret framme på bilen som stoppet og eieren ropte forbauset:  
