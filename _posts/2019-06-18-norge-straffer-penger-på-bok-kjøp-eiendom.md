@@ -19,7 +19,7 @@ tags:
 - indeks
 - avgifter
 - markedsverdi
-title: 'Norge straffer penger på bok: Kjøp eiendom'
+title: 'Norge straffer penger på bok: Kjøp egen eiendom'
 excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystemet
   mot deg. Renten belastes skattetrekk som inntekt. Så kommer formueskatten og skatt
   på renter.
@@ -51,6 +51,8 @@ fremfor å ha dem i banken hvis det er en kilde til ekstraskatt og du ikke treng
 Før du kjøper  
 Følg med på i utviklingen i eiendomsmarkedet over lengre tid før du handler så du kjenner markedet prismessing. Tenk langsiktig. Om du kun trenger boligen i kort tid er det kanskje billigere å leie? Blir du boende der i mange år er det tryggest å eie - selveier - ikke kjøp borettslag for det er boligmarkedets B-vare. Samtidig kan du spare i boligen ved å oppgradere den og øke verdien.
 
-Søk råd hos fagfolk om boligens tekniske tilstand og undersøk boligen nøye på forhånd: Ha med fagfolk til å vurdere boligens tekniske tilstand på visningen. Kontakt f.eks. en byggmester du har tillit til. Vurder avstand til støy, forurensning og høyspentledninger/trafoer i boligens nærmiljø. Da er du sikrere på at det endelige kjøpet er den rette investeringen for deg.
+Søk råd hos fagfolk om boligens tekniske tilstand og undersøk boligen nøye på forhånd: Ha med fagfolk til å vurdere boligens tekniske tilstand på visningen. Kontakt f.eks. en byggmester du har tillit til. 
+
+Vurder boligens avstand til støy, forurensning, radonmåling og høyspentledninger/trafoer i boligens nærmiljø. Da er du sikrere på at det endelige kjøpet er den rette investeringen for deg.
 
 Sjekk også kommunale avgifter og skatten på bolig i den kommunen der du vurderer å kjøpe bolig.
