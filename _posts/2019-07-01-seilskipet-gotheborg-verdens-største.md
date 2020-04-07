@@ -7,15 +7,19 @@ tags:
 - østindiafarer
 - sjø
 - Kopi av 1800-tallsskip
+- et flytende museum
+- verdens største i sitt slag.
+- vakkert seilskip
 title: Seilskipet Gotheborg verdens største
-excerpt: 'Seilskipet Gotheborg er en svenskeid seilende kopi av 1800-talls Øst-indiafarer
-  og er verdens største selende treskip i bruk. '
+excerpt: Seilskipet Gotheborg er en svenskeid seilende kopi av 1800-talls Øst-indiafarer
+  og er verdens største seilende treskip i bruk. Et levende, detaljrikt museum med
+  gammelt, godt skips-håndverk og glemte skatter.
 image: "/assets/images/got1.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
-publish_date:
+publish_date: 
 weight: 3
 
 ---
