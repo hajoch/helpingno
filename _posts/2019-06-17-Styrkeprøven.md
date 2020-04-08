@@ -27,10 +27,10 @@ tags:
 - pasient
 - skadeerstatning
 title: Styrkeprøven. "DEN LILLE MANNS KAMP"- Hvordan takle livet etter en trafikkskade?
-excerpt: |-
-  Etter at Styrkeprøven ble utsolgt i bokhandelen ble den lagt ut for gratis nedlasting på helping.no. Mange eksemplarer er lastet ned.
-
-  Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for de mange tilbakemeldinger på at boka hjelper trafikkskadde.
+excerpt: 'Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen. Som
+  forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for de mange tilbakemeldinger
+  på at boka hjelper trafikkskadde. Etter at Styrkeprøven ble utsolgt i bokhandelen
+  ble den lagt ut for gratis nedlasting på helping.no. '
 image: "/assets/images/styrke.jpg"
 image_caption: Boka "Styrkeprøven"
 categories:
