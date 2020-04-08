@@ -14,6 +14,9 @@ tags:
 - helse
 - vekt
 - kosthold
+- stoffskifte
+- oppskrift
+- 3 dagers kuren
 title: Slankekurer
 excerpt: 3 dagers-kuren og Stoffskifte-diett "oppskrift"
 image: "/assets/images/eple1.jpg"
@@ -61,7 +64,7 @@ Denne dietten skal brukes i 3 dager av gangen, på de 3 dagene vil man tape opp 
 
 **Denne dietten varer i 13 dager, og er derfor hard, men effektiv. Dietten går ut på å endre ditt stoffskifte, hvilket medfører at du etter 13 dager kan spise normalt uten å legge på deg i de neste 2 år. Det er altså ikke en tradisjonell "sultekur", og virker derfor også etter diettens opphør.**
 
-Hvis kuren følges slavisk, vil man tape alt overflødig kroppsfett ( 7 - 20kg.). Kuren skal følges i 13 dager, hverken mer eller mindre. Men som nevnt skal den følges slavisk. Hvis man under kuren drikker en øl/vin eller spiser slikkerier eller tyggegummi, eller spiser ekstra mat SÅ AVBRYT KUREN STRAKS, idet virkningen er bortfalt. Kuren kan IKKE gjenopptas før etter 1/2 år. Hvis man er kommet bare til den 6.te dagen, kan kuren gjennopptas etter 3 måneder. Hvis kuren er fulgt til punkt og prikke i alle 13 dagene, må den under ingen omstendigheter gjennopptas før det er gått 2 år.
+Hvis kuren følges slavisk, vil man tape alt overflødig kropps-fett ( 7 - 20kg.). Kuren skal følges i 13 dager, hverken mer eller mindre. Men som nevnt skal den følges slavisk. Hvis man under kuren drikker en øl/vin eller spiser slikkerier eller tyggegummi, eller spiser ekstra mat SÅ AVBRYT KUREN STRAKS, idet virkningen er bortfalt. Kuren kan IKKE gjenopptas før etter 1/2 år. Hvis man er kommet bare til den 6.te dagen, kan kuren gjennopptas etter 3 måneder. Hvis kuren er fulgt til punkt og prikke i alle 13 dagene, må den under ingen omstendigheter gjennopptas før det er gått 2 år.
 
 Blir du sulten underveis, drikk minst 2 liter vann pr. dag. NB: Husk å drikke mye vann, minst 2 liter pr. dag. Kaffe må IKKE erstattes med te, og bruk sukker som anført. Dietten skal følges til punkt og prikke 13 dager, hverken mer eller mindre.  
 Kuren påståes å være laget av det Danske Rikshospitalet, men dette er trolig tvilsomt. Vi anbefaler at kurene brukes i samarbeid med lege.
@@ -80,12 +83,12 @@ Kuren påståes å være laget av det Danske Rikshospitalet, men dette er trolig
 
 **Dag 3**  
 **Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
-**Lunsj:** 2 hardkokte egg +1/2 boks bogskinke + salat  
+**Lunsj:** 2 hardkokte egg +1/2 boks bog-skinke + salat  
 **Middag:** Kokt selleri + 1 tomat + 1 frukt
 
 **Dag 4:**  
 **Frokost:** Kaffe og sukker som dag 1 + en skv. ristet brød  
-**Lunsj:** 2 dl. usukret juice eller 1 boks fruktcoctail + 1,25 dl. yoghurt naturell  
+**Lunsj:** 2 dl. usukret juice eller 1 boks fruktcocktail + 1,25 dl. yoghurt naturell  
 **Middag:** 1 hardkokt egg + 1 reven gulerot + 1/2 beger cottage cheese
 
 **Dag 5:**  
