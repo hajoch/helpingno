@@ -26,7 +26,7 @@ tags:
 - korrupsjon
 - pasient
 - skadeerstatning
-title: Styrkeprøven
+title: Styrkeprøven. "DEN LILLE MANNS KAMP"- Hvordan takle livet etter en trafikkskade?
 excerpt: |-
   Etter at Styrkeprøven ble utsolgt i bokhandelen ble den lagt ut for gratis nedlasting på helping.no. Mange eksemplarer er lastet ned.
 
@@ -35,7 +35,7 @@ image: "/assets/images/styrke.jpg"
 image_caption: Boka "Styrkeprøven"
 categories:
 - _category/boker.md
-publish_date:
+publish_date: 
 weight: 10
 
 ---
