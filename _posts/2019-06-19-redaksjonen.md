@@ -39,7 +39,7 @@ Master i Informasjonsteknologi og -tjenester
 Utdannet ved NTNU i Trondheim  
 Leder, Senior analytiker
 
-**Jens Christian J. Christensen**  
+[**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
 Master i matematisk finans og internasjonal aktuar.  
 Utdannet ved Universitetet i Oslo  
