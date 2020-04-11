@@ -45,7 +45,7 @@ Master i matematisk finans og internasjonal aktuar.
 Utdannet ved Universitetet i Oslo  
 Avdelingsleder for analyse
 
-**Christoffer J. Christensen**  
+[**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjossekretær og fotograf  
 Student ved universitetet i Stavanger
 
