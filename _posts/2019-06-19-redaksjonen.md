@@ -63,12 +63,12 @@ Selvstendig næringsdrivende
 Master i sam.pol. fra Universitet i Bergen  
 Militærkaptein i infanteriet
 
-**Anne Bakke**  
+[**Anne Bakke**](https://helping.no/author/anne-bakke)  
 Tegner og fotograf.  
 Illustratør, forfatter og naturfotograf.  
 Utdannet lærer/adjunkt
 
-**Odd Milton** **Lunde**  
+[**Odd Milton** **Lunde**]()  
 Journalist  
 Fagområde helse og mental helse:  
 Utdannet Lege og psykiater
