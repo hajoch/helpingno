@@ -7,7 +7,7 @@ title: Annonse på helping.no.
 excerpt: Ønsker du annonse hos oss - ta kontakt
 image: "/assets/images/Basse (3).jpg"
 image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Nettstedet
-  har vært på Internett siden 2001. VI skiftet sist design 1. januar 2020. Foto Jens
+  har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. Foto Jens
   Christian Jore Christensen
 author: ''
 categories:
