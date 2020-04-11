@@ -73,7 +73,7 @@ Journalist
 Fagområde helse og mental helse:  
 Utdannet Lege og psykiater
 
-**Kari Rose Norheim**  
+[**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
 Utdannet Sykepleier
 
