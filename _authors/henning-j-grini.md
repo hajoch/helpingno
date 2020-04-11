@@ -23,11 +23,6 @@ Typograf / layout-medarbeider i dagsavisen Arendals Tidende
 Daglig leder og forfatter i  
 [ www.gaiainnovations.org](https://www.gaiainnovations.org/)
 
-Egen hjemmeside med artikler og diverse:  
-[www.inspirasjonogideer.no](www.inspirasjonogideer.no)
-
-[www.countdown2contact.org](www.countdown2contact.org)
-
 **Forfatter av bøkene:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
 Utgitt engelsk versjon i 2017. ( Utgitt på norsk i 2016.)
