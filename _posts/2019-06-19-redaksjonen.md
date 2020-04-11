@@ -77,6 +77,6 @@ Utdannet Lege og psykiater
 Journalist  
 Utdannet Sykepleier
 
-**Walter Kraus**  
+[**Walter Kraus**](slutt ropes der inne)  
 Konsulent på tema miljøhus og mobiltelefon  
 Forfatter, geobiolog og selvstendig næringsdrivende
