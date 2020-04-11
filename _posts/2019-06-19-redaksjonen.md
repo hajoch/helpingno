@@ -33,7 +33,7 @@ E-post redaksjonen: helping.red@gmail.com
 Ansv. redaktør, styreformann og gründer  
 Cand.philol/master - lektor, forfatter og journalist
 
-**Hallvard J. Christensen**  
+[**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Teknisk redaktør, styrenestleder  
 Master i Informasjonsteknologi og -tjenester  
 Utdannet ved NTNU i Trondheim  
