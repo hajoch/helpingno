@@ -57,7 +57,7 @@ Utdannet ved Hotellfag høyskolen, Stavanger.
 
 Tema og frilans-medarbeidere:  
 [  
-](http://www.helping.no/bat.ya.htm)**Ole Torbjørn Moy**  
+](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
 Master i sam.pol. fra Universitet i Bergen  
