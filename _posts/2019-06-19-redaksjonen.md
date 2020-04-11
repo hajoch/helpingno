@@ -29,7 +29,7 @@ Etablert i 21.04.2001
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com
 
-**Gunnar Christensen**  
+[**Gunnar Christensen**](https://app.forestry.io/sites/afjoa9tu1jlglg/#/pages/_authors-gunnar-christensen-md/)  
 Ansv. redaktør, styreformann og gründer  
 Cand.philol/master - lektor, forfatter og journalist
 
