@@ -49,7 +49,7 @@ Avdelingsleder for analyse
 Redaksjossekretær og fotograf  
 Student ved universitetet i Stavanger
 
-**Henning Jon Grini**  
+[**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
 Forfatter, foreleser og grunder  
