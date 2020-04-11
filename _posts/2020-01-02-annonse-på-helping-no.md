@@ -21,8 +21,6 @@ og begrenser antallet annonser slik at det ikke dominerer sidene våre.
 
 Helping.no har lesere først og fremst der hvor nordmenn bor som i Norge, Skandinavia, Nord Amerika og Syd-Europa. Vi har også internasjonalt besøk.
 
-NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er opp og fungerer.
-
 Kontakt oss: E-post redaksjonen:  
 [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
@@ -31,7 +29,7 @@ Kontakt oss: E-post redaksjonen:
 Foreløpig har vi konsentrert annonsene til linker nederst på hver side.   
 (Andre plasseringer kan vi diskutere.)  
   
-Slik som denne annonsen nederst på en av våre økonomisider:  
+Slik som disse annonsene nederst på en av våre økonomisider:  
 **Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
