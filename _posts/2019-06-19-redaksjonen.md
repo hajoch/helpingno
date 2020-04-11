@@ -68,7 +68,7 @@ Tegner og fotograf.
 Illustratør, forfatter og naturfotograf.  
 Utdannet lærer/adjunkt
 
-[**Odd Milton** **Lunde**]()  
+[**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist  
 Fagområde helse og mental helse:  
 Utdannet Lege og psykiater
