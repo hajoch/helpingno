@@ -40,6 +40,6 @@ I tillegg velger du hvilken av våre ca. 200 sider du ønsker å annonsere på. 
 
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
-Straks du har mottatt vår tilbakemelding, plasseringen mm mottar du faktura.  
+Straks du har mottatt vår tilbakemelding, avtalt plasseringen mm mottar du faktura.  
 Helping-magasinets konto ved annonseinnbetaling mm   
 konto no **1506.28.29343**
