@@ -32,7 +32,8 @@ E-post redaksjonen: helping.red@gmail.com
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Ansv. redaktør, styreformann og gründer  
-Utdannet cand.philol/master - lektor, forfatter og journalist
+Utdannet cand.philol/master i religionsvitenskap  
+Lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Teknisk redaktør, styrenestleder  
