@@ -74,5 +74,5 @@ Utdannet Lege og psykiater
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
-Master i sam.pol. fra Universitet i Bergen  
+Master i sammenliknende politikk fra Universitet i Bergen  
 Militærkaptein i infanteriet
