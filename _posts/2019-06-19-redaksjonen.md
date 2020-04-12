@@ -25,9 +25,7 @@ publish_date:
 weight: 9
 
 ---
-**Redaksjonen: www.helping.no  
-  
-**Kontaktinformasjon  
+Kontaktinformasjon  
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com
