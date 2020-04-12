@@ -24,7 +24,7 @@ publish_date:
 weight: 9
 
 ---
-**Kontakt-informasjon:**  
+**Kontakt-informasjon: www.helping.no**  
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com
@@ -76,7 +76,3 @@ Utdannet Lege og psykiater
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
 Utdannet Sykepleier
-
-**Walter Kraus**  
-Konsulent på tema miljøhus og mobiltelefon  
-Forfatter, geobiolog og selvstendig næringsdrivende
