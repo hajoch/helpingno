@@ -55,18 +55,18 @@ E-post: [hjgrini@online.no](mailto:hjgrini@online.no)
 Forfatter, foreleser og grunder  
 Utdannet ved Hotellfag høyskolen, Stavanger.
 
-Tema og frilans-medarbeidere:  
+**Tema og frilans-medarbeidere:**
+
+[**Anne Bakke**](https://helping.no/author/anne-bakke)  
+Tegner og fotograf.  
+Illustratør, forfatter og naturfotograf.  
+Utdannet lærer/adjunkt  
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
 Master i sam.pol. fra Universitet i Bergen  
 Militærkaptein i infanteriet
-
-[**Anne Bakke**](https://helping.no/author/anne-bakke)  
-Tegner og fotograf.  
-Illustratør, forfatter og naturfotograf.  
-Utdannet lærer/adjunkt
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist  
