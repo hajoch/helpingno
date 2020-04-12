@@ -11,7 +11,8 @@ title: Redaksjonen
 excerpt: |2+
 
   Helping-teamet presenter et bredt tilbud av
-  artikler og lesesstoff.
+  nyttige artikler og lesestoff. Vi har eksistert siden 2001.
+
 
 
 image: "/assets/images/trille2.jpg"
