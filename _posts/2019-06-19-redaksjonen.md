@@ -54,8 +54,8 @@ Avdelingsleder for analyse
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
-Forfatter, foreleser og grunder  
-Utdannet ved Hotellfag høyskolen, Stavanger.
+Utdannet ved Hotellfag høyskolen, Stavanger.  
+Forfatter, foreleser og designer
 
 **Tema og frilans-medarbeidere:**
 
