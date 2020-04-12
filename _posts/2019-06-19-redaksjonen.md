@@ -32,7 +32,7 @@ E-post redaksjonen: helping.red@gmail.com
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Ansv. redaktør, styreformann og gründer  
-Cand.philol/master - lektor, forfatter og journalist
+Utdannet cand.philol/master - lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Teknisk redaktør, styrenestleder  
@@ -74,6 +74,5 @@ Utdannet Lege og psykiater
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
-Selvstendig næringsdrivende  
-Master i sammenliknende politikk fra Universitet i Bergen  
-Militærkaptein i infanteriet
+Selvstendig næringsdrivende, Militærkaptein i infanteriet  
+Utdannet master i sammenliknende politikk fra Universitet i Bergen
