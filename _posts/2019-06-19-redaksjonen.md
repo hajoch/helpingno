@@ -60,7 +60,11 @@ Utdannet ved Hotellfag høyskolen, Stavanger.
 [**Anne Bakke**](https://helping.no/author/anne-bakke)  
 Tegner og fotograf.  
 Illustratør, forfatter og naturfotograf.  
-Utdannet lærer/adjunkt  
+Utdannet lærer/adjunkt
+
+[**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
+Journalist  
+Utdannet Sykepleier  
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
@@ -72,7 +76,3 @@ Militærkaptein i infanteriet
 Journalist  
 Fagområde helse og mental helse:  
 Utdannet Lege og psykiater
-
-[**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
-Journalist  
-Utdannet Sykepleier
