@@ -23,7 +23,7 @@ weight: 3
 ---
 Velsmakende og med store smaksvarianter alt etter kryddersammensetningen.
 
-På sammemåte   "Gønnesuppa" kan du lage blomkålsuppe.
+På samme måte som "Gønnesuppa" kan du lage blomkålsuppe.
 
 Følgende ingredienser må til:  
 Smør  
