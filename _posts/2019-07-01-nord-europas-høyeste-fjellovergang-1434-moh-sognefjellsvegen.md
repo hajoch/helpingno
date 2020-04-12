@@ -30,3 +30,7 @@ weight: 3
 Vakker biltur over fjellet.
 
 ![](https://wwww.helping.no/assets/images/sogn2.jpg)
+
+**OBS  
+Beklager at bilder faller ut i presentasjonen:   
+Vi jobber med å rette feilen.**
