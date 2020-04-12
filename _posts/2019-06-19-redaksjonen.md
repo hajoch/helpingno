@@ -26,6 +26,7 @@ weight: 9
 
 ---
 **Redaksjonen: www.helping.no  
+  
 **Kontaktinformasjon  
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
