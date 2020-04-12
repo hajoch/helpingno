@@ -76,3 +76,5 @@ Utdannet Lege og psykiater
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
 Utdannet Sykepleier
+
+Andre bidragsytere og leserinnlegg
