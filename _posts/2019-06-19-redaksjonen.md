@@ -64,15 +64,15 @@ Utdannet lærer/adjunkt
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
-Utdannet Sykepleier  
+Utdannet Sykepleier
+
+[**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
+Journalist  
+Fagområde helse og mental helse:  
+Utdannet Lege og psykiater  
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
 Selvstendig næringsdrivende  
 Master i sam.pol. fra Universitet i Bergen  
 Militærkaptein i infanteriet
-
-[**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
-Journalist  
-Fagområde helse og mental helse:  
-Utdannet Lege og psykiater
