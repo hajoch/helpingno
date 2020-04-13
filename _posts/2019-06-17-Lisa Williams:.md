@@ -55,7 +55,7 @@ Lisa Williams siste bokutgivelse: "Survival of the Soul". Boka beskriver hva som
 
 **Livslinjen**  
 _- Hvorfor trenger vi denne sølvtråden i en ute av koppen opplevelse?  
-\- Sølvtråden er vår livslinje. Hvis det blir brud den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar_ astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
+\- Sølvtråden er vår livslinje. Hvis det blir brud på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar_ _astral-reiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi._
 
 **Åndelig hierarki**  
 \- **Du beskriver i boka mange nivåer på den andre siden og et stort hierarki av funksjoner og åndelige veiledere. Er det mulig å gå seg vill her?**
