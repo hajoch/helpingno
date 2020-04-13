@@ -16,6 +16,8 @@ tags:
 - ånder
 - åndelig kontakt
 - guider
+- klarsynt
+- verdenskjent spirituell stjerne
 title: 'Lisa Williams: "Åndene gir meg akkurat det som trenger å bli formidlet"'
 excerpt: I løpet av intervjuet stopper hun opp, smiler og legger hodet litt på skakke:-
   Jeg har en personlig beskjed til deg fra den andre siden.
@@ -25,7 +27,7 @@ image_caption: "Lisa Williams i intervju med Gunnar Christensen. \nFoto: Jens Ch
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 **Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de døde. Folk står i kø for å møte henne og populariteten bare øker i Norge.**
@@ -42,9 +44,9 @@ Lisa Williams siste bokutgivelse: "Survival of the Soul". Boka beskriver hva som
 \- Ja, selv om det er slik så ønsker folk dette. De opplysningene som formidles er riktige for dem. I tillegg har mange tusen tilhørere i salen og på TV nytte av det som kommer frem. Det hjelper således ikke bare en person eller en familie, det hjelper mange. De menneskene som får formidlinger bryr seg ikke om å dele dette med mange.
 
 **Sjeler i "virvelen"**  
-\- I flere TV programmer kontakter både du og andre medier sjeler som sitter fast i prosessen mellom vår verden og den andre siden av en eller annen grunn. Dette kan skremme mange. Hva skjer egentlig i sike situasjoner? Er det guidene som gjør feil?
+\- I flere TV programmer kontakter både du og andre medier sjeler som sitter fast i prosessen mellom vår verden og den andre siden av en eller annen grunn. Dette kan skremme mange. Hva skjer egentlig i slike situasjoner? Er det guidene som gjør feil?
 
-\- De gjør ingen feil. Det hele dreier seg om vårt eget valg som fører oss dit vi til enhver tid befinner oss. Velger vi å ikke passere over til den andre siden, men blir i en nærere kontakt med jorden, så er det vårt valg. Og det skjer. Det kan skje hvis den som dør ikke vil gi slipp på de nærmeste som han/hun er glad i og knytter seg til dem eller materielle ting i "virvelen" som jeg kaller stedet mellom det dennesidige og den andre siden. Det er mulig å bli i denne virvelen så lenge vi vil. Helt til vi forstår at vi må gå videre gjennom virvelen mot lyset på den andre siden og gjennomgå den videre prosessen som har så mye positivt å by på. Husk på at selv om vi har hjelpere med oss så er det vi selv som tar avgjørelsene også etter den såkalte døden.
+\- De gjør ingen feil. Det hele dreier seg om vårt eget valg som fører oss dit vi til enhver tid befinner oss. Velger vi å ikke passere over til den andre siden, men blir i en nærmere kontakt med jorden, så er det vårt valg. Og det skjer. Det kan skje hvis den som dør ikke vil gi slipp på de nærmeste som han/hun er glad i og knytter seg til dem eller materielle ting i "virvelen" som jeg kaller stedet mellom det dennesidige og den andre siden. Det er mulig å bli i denne virvelen så lenge vi vil. Helt til vi forstår at vi må gå videre gjennom virvelen mot lyset på den andre siden og gjennomgå den videre prosessen som har så mye positivt å by på. Husk på at selv om vi har hjelpere med oss så er det vi selv som tar avgjørelsene også etter den såkalte døden.
 
 **Kunnskapskilde**  
 \- Hvorfor må vi leve i denne fysiske verden og gjennomgå våre livserfaringer når vi har all visdom og erfaring på den andre siden? Med andre ord hvilken mening har den åndelige kampen i livet?
@@ -52,8 +54,8 @@ Lisa Williams siste bokutgivelse: "Survival of the Soul". Boka beskriver hva som
 \- Vi må leve et spirituelt liv fordi vi har en jord, vi har en spirituell verden og et univers som vi er en del av. Vi er her for å vokse, lære, hjelpe jorden og ikke minst hjelpe hverandre - selv om dette ikke alltid skjer. Vi er her av en grunn. Det dreier seg om bevisst å være her: Læringsprosessen vår er at vi skal erfare og lagre i våre erfaringer i sjelen slik at vi bygger opp et erfaringsmateriale som blir med oss videre etter livet og videre. Vår sjel har en stor mengde kunnskap som vi har samlet gjennom flere liv og som er en stor og verdifull kunnskapskilde. Når vi lærer oss å få bedre tilgang til denne kunnskapen sjelen vår har så er vi mer på linje med vår høyere åndelige mål. Opplevelsen av liv og død er syklisk. Det hele minner mye om det som beskrives i de indiske religionene som "Samsara".
 
 **Livslinjen**  
-\**- Hvorfor trenger vi denne sølvtråden i en ute av kroppen opplevelse?  
-\**- Sølvtråden er vår livslinje. Hvis det blir brudd på den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
+_- Hvorfor trenger vi denne sølvtråden i en ute av koppen opplevelse?  
+\- Sølvtråden er vår livslinje. Hvis det blir brud den er vår sjel fri til å gå hvor som helst, men vi kan ikke lengre komme tilbake til kroppen. Sølvtråden er viktig for oss når vi tar_ astralreiser, men vi må hele tiden passe på at den er i takt ellers "dør" vi.
 
 **Åndelig hierarki**  
 \- **Du beskriver i boka mange nivåer på den andre siden og et stort hierarki av funksjoner og åndelige veiledere. Er det mulig å gå seg vill her?**
@@ -113,6 +115,6 @@ Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det
 
 **Bok av Lisa Williams:**  
 **"Livet blant de døde". Cappelen Damm AS**  
- **2009, 254 sider og senere utgaver..**
+**2009, 254 sider og senere utgaver..**
 
 Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en skjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større vikrlighet enn den bevisthen vi opererer med i våre liv. Det er ikke mulig å tro at alt er sllutt med døden etter et møte med henne.
