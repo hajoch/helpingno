@@ -56,8 +56,8 @@ Disse "slemme" sjelene vil erfare all den smerte og lidelse som de har påført 
 \- Ca. 5 sekunder i vår tidsoppfatning. Og den dimensjonen vi går inn i er bare en armlengdes avstand unna oss. Men vi ser den ikke fordi det er en annen dimensjon enn der vi er nå.
 
 **Fotavtrykk på "den andre siden"**  
-\- Får du kontakt med sjeler som er reinkarnert?  
-\- Nei. Det gjør jeg ikke. Men på "den andre siden" er der likevel en form for "fotavtrykk" etter oss selv som vi har reinkarnert og dette blir ikke borte fra denne dimensjonen selv om vi blir reinkarnert. Dette "fotavtrykket" kan jeg lese, men jeg er ikke i stand til å snakke med sjelen som er reinkarnert fordi sjelen er kommet tilbake, kanskje som en bror, søster eller annen slektning. Jeg ser imidlertid noen sjeldne tilfeller der sjelen deler seg og jeg kan da kommunisere med den ene av disse to sjelene.
+\- Får du kontakt med sjeler som er re-inkarnert?  
+\- Nei. Det gjør jeg ikke. Men på "den andre siden" er der likevel en form for "fotavtrykk" etter oss selv som vi har re-inkarnert og dette blir ikke borte fra denne dimensjonen selv om vi blir re-inkarnert. Dette "fotavtrykket" kan jeg lese, men jeg er ikke i stand til å snakke med sjelen som er re-inkarnert fordi sjelen er kommet tilbake, kanskje som en bror, søster eller annen slektning. Jeg ser imidlertid noen sjeldne tilfeller der sjelen deler seg og jeg kan da kommunisere med den ene av disse to sjelene.
 
 **Han er din sønn nå**  
 Ganske riktig kom dette temaet opp i showet som fulgte. En av tilhørerne som fikk en beskjed fra "den andre siden" ønsket samtidig å få kontakt med sin bestefar. Da svarte Lisa:  
