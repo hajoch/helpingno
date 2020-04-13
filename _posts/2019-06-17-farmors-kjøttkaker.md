@@ -7,6 +7,9 @@ tags:
 - mat
 - middag
 - tradisjonell norsk mat
+- norsk middag
+- varmrett
+- kjøtt
 title: Farmors kjøttkaker
 excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt.
   I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage
@@ -37,7 +40,7 @@ Tilsett: 1 eller 2 egg. Knus 5 til 7 kavringer ved å gni dem mot hverandre elle
 
 Finn fram en stor stekepanne helst av jern. Det gir best resultat.
 
-Legg margarin eller olje i bunnen panna. Bruker du raps- eller solsikkeolje så har den aller best kvalitet hvis du kjøper den på glassflaske. Oppbevaring av olje i glassflaske er det sunneste alternativet. Les mer om kreftfarlige plastflasker på: [Plastemballasje](http://www.helping.no/plastemballasje.htm)
+Legg margarin eller olje i bunnen panna. Bruker du raps- eller solsikkeolje så har den aller best kvalitet hvis du kjøper den på glassflaske. Oppbevaring av olje i glassflaske er det sunneste alternativet. 
 
 Straks panna er varm former du kjøttkakene og legger dem i panna til steking. Litt flatklemte runde former som du steker på begge sider. Hakk opp en løk som du steker ved siden av og maten er klar.
 
