@@ -50,7 +50,7 @@ Har du derimot dødsangst så blir din opplevelse preget av denne angsten. Det e
 **"Helvete" er en sinnstilstand**  
 \- De som ikke har vært så "snille" her i livet sitt for å si det slik, får en totalt annerledes erfaring i døden. Disse "slemme" går til en annen dimensjon. Jeg kaller det ikke "helvete" for det er en sinnstilstand vi gir oss selv her i dette livet.
 
-Disse "slemme" sjelene vil erfare all den smerte og lidelse som de har påført andre. Dette innebærer en totalt annerledes opplevelse av døden som ender opp med at de blir reinkarnert raskt for å "lære leksa si".
+Disse "slemme" sjelene vil erfare all den smerte og lidelse som de har påført andre. Dette innebærer en totalt annerledes opplevelse av døden som ender opp med at de blir re-inkarnert raskt for å "lære leksa si".
 
 \- Hvor lang tid tar det å dø?  
 \- Ca. 5 sekunder i vår tidsoppfatning. Og den dimensjonen vi går inn i er bare en armlengdes avstand unna oss. Men vi ser den ikke fordi det er en annen dimensjon enn der vi er nå.
