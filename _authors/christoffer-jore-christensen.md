@@ -4,6 +4,6 @@ title: Christoffer Jore Christensen
 image: "/assets/images/CJC.jpg"
 
 ---
-Redaksjonssekretær og fotograf.
+Redaksjonssekretær, journalist og fotograf.
 
 Student ved universitetet i Stavanger
