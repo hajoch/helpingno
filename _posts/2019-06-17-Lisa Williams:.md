@@ -81,7 +81,7 @@ Den åndelige verden er beskrevet som et "hierarki" i boka for at vi intellektue
 **Frykt**  
 \- Hva betyr det å ha irrasjonell frykt for noe, for eksempel frykt for å fly. Er det et forvarsel om at man skal dø i en flyulykke?
 
-\- Absolutt ikke. Dessuten er jo fly sikrere enn mange andre reisemåter. Det som kan være tilfelle er at du i tidligere liv kan ha vært utsatt for en flyulykke som har kostet deg livet. Dette har din sjel lagret sammen med alt annet som du har opplevd i tidligere liv og dette påvirker deg ubevist og gir deg irrasjonell frykt.
+\- Absolutt ikke. Dessuten er jo fly sikrere enn mange andre reisemåter. Det som kan være tilfelle er at du i tidligere liv kan ha vært utsatt for en flyulykke som har kostet deg livet. Dette har din sjel lagret sammen med alt annet som du har opplevd i tidligere liv og dette påvirker deg ubevisst og gir deg irrasjonell frykt.
 
 **Frykt for å dø**  
 \- Frykt for å dø er vanlig. For mange er det også vanskelig å handtere. Mange frykter døden. Du sa i intervjuet vi hadde i 2010 at frykt for døden kunne hemme oss i prosessen vi går igjennom når vi dør. Hvordan handterer vi denne dødsangsten?
@@ -90,7 +90,7 @@ Den åndelige verden er beskrevet som et "hierarki" i boka for at vi intellektue
 
 **- I den Tibetanske dødebok finnes forskjellige råd om hvorledes man skal innrette seg for å få en best mulig overgang. Hva er essensielt i en slik situasjon?**
 
-\- Å akseptere sitasjonen. Tilgi andre og forberede oss på det som skal komme. Da blir prosessen vår så mye lettere.
+\- Å akseptere situasjonen. Tilgi andre og forberede oss på det som skal komme. Da blir prosessen vår så mye lettere.
 
 **Livskontrakt**  
 \- Hvert menneske har en livskontrakt i dette livet ifølge boka di. Mange mennesker er ikke kjent med denne kontrakten. Hvordan kommer vi på sporet av den?
@@ -117,4 +117,4 @@ Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det
 **"Livet blant de døde". Cappelen Damm AS**  
 **2009, 254 sider og senere utgaver..**
 
-Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en skjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større vikrlighet enn den bevisthen vi opererer med i våre liv. Det er ikke mulig å tro at alt er sllutt med døden etter et møte med henne.
+Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en sjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større virkelighet enn den bevisshet vi opererer med i våre liv. Det er ikke mulig å tro at alt er slutt med døden etter et møte med henne.
