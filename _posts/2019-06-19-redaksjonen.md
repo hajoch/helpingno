@@ -77,3 +77,5 @@ Utdannet Lege og psykiater
 Journalist og fotograf  
 Selvstendig næringsdrivende, Militærkaptein i infanteriet  
 Utdannet master i sammenliknende politikk fra Universitet i Bergen
+
+[**Andre bidragsytere og leserinnlegg**](https://helping.no/author/leserinnlegg)
