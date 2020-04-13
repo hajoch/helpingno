@@ -74,7 +74,7 @@ Så er hun ute av døren.
 
 Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "Livet blant de døde" og der har Lisa rukket å skrive: " Gunnar. Great to meet you! Big Hugs. Lisa".
 
-Bok av **Lisa Williams:**  
+**Bok av** **Lisa Williams:**  
 **"Livet blant de døde". Cappelen Damm AS**  
 **2009, 254 sider og senere utgaver..**
 
