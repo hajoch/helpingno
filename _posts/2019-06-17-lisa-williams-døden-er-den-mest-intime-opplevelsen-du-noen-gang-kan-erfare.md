@@ -72,7 +72,7 @@ Døren går opp. Lisa må videre. Tempoet er stort før et show med TV-opptak og
 \- Jeg er tilbake i Norge neste år omtrent på samme tid.  
 Så er hun ute av døren.
 
-Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "Livet blant de døde" og der har Lisa rukket å skrive: " Gunnar. Great to meet you! Big Hugs. Lisa".
+Jeg gløtter ned på mitt eksemplar av hennes første bok i norsk oversettelse: "Livet blant de døde" og der har Lisa rukket å skrive: " Gunnar. Great to meet you! Big Hugs. Lisa".
 
 **Bok av** **Lisa Williams:**  
 **"Livet blant de døde". Cappelen Damm AS**  
