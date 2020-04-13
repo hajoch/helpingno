@@ -117,4 +117,4 @@ Hvordan kunne hun vite dette som ble kanalisert til meg fra den andre siden? Det
 **"Livet blant de døde". Cappelen Damm AS**  
 **2009, 254 sider og senere utgaver..**
 
-Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en sjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større virkelighet enn den bevisshet vi opererer med i våre liv. Det er ikke mulig å tro at alt er slutt med døden etter et møte med henne.
+Lisa Williams bok er fantastisk interessant lesning. Å få innsikt i et mediums liv er en sjelden gave. Boka fortjener derfor en stor leserkrets. Hele hennes liv og virke er en dokumentasjon på at der et liv etter døden og at vi er del av en større virkelighet enn den bevishet vi opererer med i våre liv. Det er ikke mulig å tro at alt er slutt med døden etter et møte med henne.
