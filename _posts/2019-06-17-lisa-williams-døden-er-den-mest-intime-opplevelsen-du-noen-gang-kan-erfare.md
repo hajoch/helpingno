@@ -24,7 +24,7 @@ image_caption: 'Intervju med Lisa Williams  '
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Lisa Williams er mest kjent for å snakke med de døde og det er dette showet hennes går ut på. Hun formidler kontakt mellom vår verden og "den andre siden". En kontakt som fenger stadig flere. Showene hennes blir raskt utsolgt uansett hvor hun kommer. Denne gang besøker hun Oslo, Bergen og Trondheim. Hun tiltrekker seg oppmerksomhet som en magnet. Og showene er utrolig spennende og formidlingen mellom vår verden og "den andre siden" er svært overbevisende: Intime detaljer som "ingen andre kunne vite " dukker stadig opp i møte med publikum.
@@ -74,7 +74,7 @@ Så er hun ute av døren.
 
 Jeg gløtter ned på mitt eksemplar av Lisas første bok i norsk oversettelse: "Livet blant de døde" og der har Lisa rukket å skrive: " Gunnar. Great to meet you! Big Hugs. Lisa".
 
-Bok av [**Lisa Williams**](http://helping.no/lisawilliams.htm)**:**  
+Bok av **Lisa Williams:**  
 **"Livet blant de døde". Cappelen Damm AS**  
 **2009, 254 sider og senere utgaver..**
 
