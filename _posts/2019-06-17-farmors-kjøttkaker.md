@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-17T21:27:11.000+00:00
 crop_image: true
-author: _authors/ellen-marie-christensen.md
+author: _authors/leserinnlegg.md
 tags:
 - mat
 - middag
