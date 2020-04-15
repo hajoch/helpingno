@@ -37,6 +37,6 @@ weight: 2
 
 ![](/assets/images/ab4-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab2011.0.jpg)
 
-![](/assets/images/ab2011.1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/grendi.jpg)
+![](/assets/images/ab2011.1.jpg)![](/assets/images/ab12.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/grendi.jpg)
 
 ![/assets/images/ab2011-1.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/ab2011-1.jpg)
