@@ -35,8 +35,6 @@ weight: 2
 
 ![](/assets/images/ab3-3.jpg)
 
-![](/assets/images/grendi2-3.jpg)
-
 ![](/assets/images/ab8.jpg)
 
 ![](/assets/images/ab2011-1.jpg)
