@@ -73,7 +73,7 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 6  
   Denne øvelsen kalles plogstilling - øvelsene 6 går over i 7: Ligg flatt på ryggen med hendene langs kroppen og håndflatene ned. Løft bena opp i loddrett stilling som vises på figuren over. Støtt så hendene mot hoftene slik figuren viser. Hold bena rett ved ikke å bøye knærne. Bli i denne stillingen noen minutter - og gå så over i øvelse 7.
 
-  ![](https://wwww.helping.no/assets/images/y7.jpg)
+  ![](https://wwww.helping.no/assets/images/y7.jpg)![](/assets/images/y7.jpg)
 * Øvelse 7  
   Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](https://wwww.helping.no/assets/images/y8.jpg)![](/assets/images/y8.jpg)
 * Øvelse 8  
