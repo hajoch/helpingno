@@ -46,6 +46,8 @@ weight: 4
 
 ![](https://wwww.helping.no/assets/images/sb6.jpg)
 
+![](/assets/images/yam58br.2-1.jpg)
+
 ![](https://wwww.helping.no/assets/images/sb1.jpg)
 
 ![](https://wwww.helping.no/assets/images/sb10.jpg)![](/assets/images/sob5.jpg)
