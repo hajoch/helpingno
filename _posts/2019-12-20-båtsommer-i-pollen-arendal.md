@@ -57,3 +57,5 @@ weight: 4
 ![](https://wwww.helping.no/assets/images/sob2.jpg)
 
 ![](/assets/images/ya32.jpg)
+
+![](/assets/images/abat.04.JPG)
