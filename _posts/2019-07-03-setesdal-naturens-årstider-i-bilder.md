@@ -39,6 +39,4 @@ weight: 2
 
 ![](/assets/images/ab2011.1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/grendi.jpg)
 
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
-
 ![/assets/images/ab2011-1.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/ab2011-1.jpg)
