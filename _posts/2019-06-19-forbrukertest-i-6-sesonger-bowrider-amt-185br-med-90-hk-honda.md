@@ -72,6 +72,8 @@ Mysen fristet ikke i juli.
 **2009 - 2014: Motoren friskmeldes og fungerer bra**  
 Etter problemer med motoren første sesong, hadde vi som fast rutine på jolla med Yamaha-motoren alltid klar når AMT sjøsettes. Men det er ikke lenger behov for den: Hondamotoren starter og går greit. Sesongen 2009, 2010, 2011 osv. har gått uten problemer med motoren. Og slik fortsatte det. Dette friskmelder motoren.
 
+![](/assets/images/amt.9.jpg)
+
 **Konklusjon - båt og motor  
 BÅT**  
 AMT 185 BR is a successful construction: The boat is stable, stable and good in the sea with good design and many practical solutions. En pen, solid og trygg familiebåt med god innvendig plass som det er lett å trives i og bli glad i.
