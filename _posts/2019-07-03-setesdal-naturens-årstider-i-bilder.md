@@ -35,7 +35,7 @@ weight: 2
 
 ![](https://wwww.helping.no/assets/images/grendi2.jpg)
 
-![](https://wwww.helping.no/assets/images/ab2011.0.jpg)
+![](/assets/images/ab4-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab2011.0.jpg)
 
 ![](https://wwww.helping.no/assets/images/grendi.jpg)
 
