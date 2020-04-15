@@ -47,12 +47,12 @@ Om morgenen er man ofte litt stivere i kroppen enn senere på dagen. Det er like
 
 Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mellom hver øvelse finner du en fin ro. Etter øvelsene føler du deg i bedre form. Man blir ikke sliten av yoga-øvelser - snarere mer uthvilt.
 
-![](https://wwww.helping.no/assets/images/y1.jpg)
+![](/assets/images/y1.jpg)![](https://wwww.helping.no/assets/images/y1.jpg)
 
 * Øvelse 1  
   Sitt i skredderstilling. Legg håndflatene på hodet og trykk lett på skallen. Gjør dette punkt for punkt nedover nakken, skuldrene og til hjertet.
 
-  ![](https://wwww.helping.no/assets/images/y2.jpg)
+  ![](/assets/images/y2-1.jpg)![](https://wwww.helping.no/assets/images/y2.jpg)
 * Øvelse 2  
   Sitt i skredderstilling. Begynn med venstre hånd. Trykk lett med høyre hånd på venstre hånd punkt for punkt. Begynn med håndflaten og følg armen opp til skulderen og til hjertet. Skift deretter til høyre hånd og gjør det samme på den andre siden.
 
@@ -60,12 +60,12 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet.
 
-![](https://wwww.helping.no/assets/images/y4.jpg)
+![](/assets/images/y4-1.jpg)![](https://wwww.helping.no/assets/images/y4.jpg)
 
 * Øvelse 4  
   Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster langsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen.
 
-  ![](https://wwww.helping.no/assets/images/y5.jpg)
+  ![](https://wwww.helping.no/assets/images/y5.jpg)![](/assets/images/y5-1.jpg)
 * Øvelse 5  
   Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben.
 
