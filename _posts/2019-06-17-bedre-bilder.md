@@ -62,7 +62,7 @@ Digitalkameraene gir deg muligheten til å gå rett på PCen og redigere bildet 
 **Verdi som minne**  
 For mange blir bilder og videoopptakene mer verdifulle med årene. Ved betryggende lagring av brikke m.m. blir dine opptak bevart for nye slektsledd og ettertiden. Historien har vist at opptak du ikke finner interessante i nåtiden kan bli svært verdifulle for ettertiden.
 
-![](https://wwww.helping.no/assets/images/skog1.jpg)
+![](/assets/images/sko.jpg)
 
 **Dybdevirkninger**  
 Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt. Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten til et spennende resultat.
