@@ -59,7 +59,7 @@ Det er 85% funktighet i lufta på grunn av vannet som renner under oss.
 * Det dugger fælt på linsa?  
   \- Ikke rart for her er det 85% fuktighet i lufta på grunn av vannet som renner under oss.
 
-  ![](https://wwww.helping.no/assets/images/gausta7.jpg)
+  ![](https://wwww.helping.no/assets/images/gausta7.jpg)![](/assets/images/gausta7.jpg)
 
 Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".
 
