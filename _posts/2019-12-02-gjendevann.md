@@ -32,6 +32,6 @@ weight: 3
 
 ![](/assets/images/gjende9.jpg)
 
-![](/assets/images/gjende5.jpg)![](/assets/images/gjende1.jpg)
+![](/assets/images/gjende5.jpg)
 
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
+![](/assets/images/gjende1.jpg)
