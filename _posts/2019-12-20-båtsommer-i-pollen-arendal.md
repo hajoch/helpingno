@@ -34,11 +34,11 @@ weight: 4
 
 ![](https://wwww.helping.no/assets/images/sb5.jpg)
 
-![](https://wwww.helping.no/assets/images/batm27.jpg)
+![](https://wwww.helping.no/assets/images/batm27.jpg)![](/assets/images/sb1.jpg)
 
 ![](https://wwww.helping.no/assets/images/sob1.jpg)
 
-![](https://wwww.helping.no/assets/images/sob4.jpg)
+![](https://wwww.helping.no/assets/images/sob4.jpg)![](/assets/images/sb11.jpg)
 
 ![](https://wwww.helping.no/assets/images/sob7.jpg)
 
