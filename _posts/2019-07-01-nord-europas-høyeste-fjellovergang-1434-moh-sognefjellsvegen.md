@@ -27,14 +27,10 @@ weight: 3
 
 ![](/assets/images/sogn14.jpg)![](https://wwww.helping.no/assets/images/sogn7.jpg)![](/assets/images/sogn10.jpg)![](https://wwww.helping.no/assets/images/sogn10.jpg)![](https://wwww.helping.no/assets/images/sogn8.jpg)![](https://wwww.helping.no/assets/images/sogn11.jpg)![](https://wwww.helping.no/assets/images/sogn13.jpg)
 
-![](https://wwww.helping.no/assets/images/sogn15.jpg)![](https://wwww.helping.no/assets/images/sogn6.jpg)![](https://wwww.helping.no/assets/images/sogn3.jpg)![](https://wwww.helping.no/assets/images/sogn12.jpg)![](/assets/images/sogn7.jpg)
+![](/assets/images/sogn12-1.jpg)![](https://wwww.helping.no/assets/images/sogn15.jpg)![](https://wwww.helping.no/assets/images/sogn6.jpg)![](https://wwww.helping.no/assets/images/sogn3.jpg)![](https://wwww.helping.no/assets/images/sogn12.jpg)![](/assets/images/sogn7.jpg)
 
 ![](https://wwww.helping.no/assets/images/sogn5.jpg)
 
 Vakker biltur over fjellet.
 
 ![](https://wwww.helping.no/assets/images/sogn2.jpg)
-
-**OBS  
-Beklager at noen  bilder faller ut i presentasjonen:  
-Vi jobber med å rette feilen.**
