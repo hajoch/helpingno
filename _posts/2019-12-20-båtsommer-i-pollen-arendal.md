@@ -26,11 +26,11 @@ publish_date:
 weight: 4
 
 ---
-![](https://wwww.helping.no/assets/images/sob5.jpg)
+![](https://wwww.helping.no/assets/images/sob5.jpg)![](/assets/images/sb5.jpg)
 
 ![](https://wwww.helping.no/assets/images/batmesse37.jpg)
 
-![](https://wwww.helping.no/assets/images/batm9.jpg)
+![](https://wwww.helping.no/assets/images/batm9.jpg)![](/assets/images/sb6.jpg)
 
 ![](https://wwww.helping.no/assets/images/sb5.jpg)
 
