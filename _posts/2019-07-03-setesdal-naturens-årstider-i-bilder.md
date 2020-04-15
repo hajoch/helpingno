@@ -23,7 +23,7 @@ weight: 2
 ---
 ![](https://wwww.helping.no/assets/images/ab4.jpg)
 
-![](https://wwww.helping.no/assets/images/ab.1007.jpg)
+![](/assets/images/ab.1007-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab.1007.jpg)
 
 ![](https://wwww.helping.no/assets/images/ab3.jpg)
 
