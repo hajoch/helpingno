@@ -37,7 +37,7 @@ Kameraene på markedet har forskjellig kvalitet. Les derfor nøye testene av kam
 **Lagring av bilder**  
 Husk å lagre bildene flere steder og ikke bare på brikken: En ekstern HD er fin til dette. Eller på en trygg sky i den grad dette er trygt. Brenn også sikkerhetskopi på DVD eller CD: Et godt tips er å leie en bankboks til sikkerhetskopier i fall husbrann. Bildene er verdifulle, og mer verdifulle blir de med tiden, særlig familiebilder.
 
-![](https://wwww.helping.no/assets/images/mars.jpg)
+![](/assets/images/mars-1.jpg)![](https://wwww.helping.no/assets/images/mars.jpg)
 
 **Hold kameraet rolig eller bruk stativ**  
 Særlig digitalkameraene er små og lette å legge i lommen. Derfor blir det flere anledninger til å bruke kameraet. Men "i farten" er det lett å ta "hastverk-bilder" d.v.s. bilder som ofte blir uskarpe fordi du ikke holder kameraet rolig nok. Jo dårligere belysning det er når du knipser dess viktigere er det å holde kameraet stødig. Støtt deg gjerne mot en påle eller mur om du ikke kan sette kameraet fra deg. Har du med stativ blir bildene ofte skarpe og fine.
