@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-02 12:24:06 +0100
+date: 2019-12-02T11:24:06.000+00:00
 crop_image: true
 tags:
 - foto
@@ -24,7 +24,7 @@ weight: 5
 ---
 Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og betong i sentrum. Skjønnhet preger byens arkitektur og kunst. Innbyggerne er stolte av byen og med rette.
 
-T![](/assets/images/rom1.jpg)
+T![](/assets/images/rom1.jpg)![](/assets/images/roma1.jpg)
 
 Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et godt kart og gode joggesko er det eneste du trenger pluss Euro.
 
@@ -39,7 +39,7 @@ Se opp for guidene kledd i drakter som romerske gladiatorer. Disse er frekke, ar
 Turistklager i Roma: Falske kriminelle gladiatorer avslørt:  
 Mange turister har klaget på disse "krigerne" og det er blitt en del presseomtale på dette. Roma lever av turister og turistenes klager taes derfor svært alvorlig her.Den danske avisen BT avslører arrestasjon av kriminelle i antikke romerdrakter.
 
-![](/assets/images/rom2.jpg)
+![](/assets/images/rom2.jpg)![](/assets/images/roma2.jpg)
 
 Piazza Navone: På Piazza Navone finner du en av Italias beste iskrem
 
