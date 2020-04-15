@@ -42,16 +42,16 @@ weight: 4
 
 ![](https://wwww.helping.no/assets/images/sob7.jpg)
 
-![](https://wwww.helping.no/assets/images/sob3.jpg)
+![](https://wwww.helping.no/assets/images/sob3.jpg)![](/assets/images/sob2-1.jpg)
 
 ![](https://wwww.helping.no/assets/images/sb6.jpg)
 
 ![](https://wwww.helping.no/assets/images/sb1.jpg)
 
-![](https://wwww.helping.no/assets/images/sb10.jpg)
+![](https://wwww.helping.no/assets/images/sb10.jpg)![](/assets/images/sob5.jpg)
 
 ![](https://wwww.helping.no/assets/images/sb2.jpg)
 
 ![](https://wwww.helping.no/assets/images/sob2.jpg)
 
-**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer. Her mangler flere bilder.**
+![](/assets/images/ya32.jpg)
