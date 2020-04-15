@@ -37,7 +37,7 @@ weight: 2
 
 ![](/assets/images/ab4-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab2011.0.jpg)
 
-![](https://wwww.helping.no/assets/images/grendi.jpg)
+![](/assets/images/ab2011.1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/grendi.jpg)
 
 **( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
 
