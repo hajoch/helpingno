@@ -115,5 +115,3 @@ La kroppen kvitte seg med avfallsstoffene. Et godt råd er å pusse tunga hver m
 Det dukker stadig opp nye bøker om yoga. Listen er ikke oppdatert på den store mengde bøker om yoga på markedet. Ta en tur til biblioteket eller bokhandelen og velg den boken som tiltaler deg med hensyn på hvilke øvelser som passer deg, hvilken presentasjon og profil boken har og passer ditt behov. Velg fortrinnsvis bøker om Hatha-Yoga hvis du vil praktisere slike øvelser som vist her.
 
 * Boken "De fem tibetanske riter" er en spennende bok om de Yogaøvelsen som har vært brukt i århundrer i Tibetanske klostre og som mange mener er selve "Ungdoms-kilden".
-
-**NB: Vi har nylig skiftet design og det gjenstår noen grep før alt er oppe og fungerer.**
