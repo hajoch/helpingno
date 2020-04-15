@@ -27,7 +27,7 @@ publish_date:
 weight: 8
 
 ---
-Baten:
+**Baten:**
 
 Pen båt med god plass, stødig og solid I sjøen er AMT 185 BR en fin opplevelse. Båten oppfører seg stødig og forutsigbart i sjøen, og det gir bedre fart enn oppgitt: 36 knopp med 2 personer på bordet. Den hydrauliske styringen er behagelig og presis.
 
@@ -56,7 +56,7 @@ Denne 90-hk 4-T-motoren var på kjøpstidspunktet 2007 den mest moderne trailer 
 På første tur oppsto problemet. Motoren ville ikke starte. Vi var en gang kjøring fra bryggeplassen og motoren var død. Ikke en lyd. Baterilampen lyser rødt, startmotoren ikke virker og ingenting skjer. Etter mange forsøk med pauser i mellomtiden blir endelig livet i motoren. Dette skjedde også på neste tur og på neste - og på neste: Hele sesongen 2007 var vi plaget med dette problemet. Kontrollboks ble garantiskiftet mm uten at feilen ble funnet.
 
 **Honda-Vitsene**  
-I båthavna vår florerete derfor nå Honda-vitsene da vi hele sesongen 2007 måtte ha slepejolle med 9,9 Yamaha for å være sikker på å komme hjem etter hver båttur med AMT / Honda. Ordet "slepejolle" fikk dermed en ny betydning etter at vi fikk en ny båt med Honda 90hk med VTEC **. **
+I båthavna vår florerete derfor nå Honda-vitsene da vi hele sesongen 2007 måtte ha slepejolle med 9,9 Yamaha for å være sikker på å komme hjem etter hver båttur med AMT / Honda. Ordet "slepejolle" fikk dermed en ny betydning etter at vi fikk en ny båt med Honda 90hk med VTEC 
 
 Motoren i testbåten hadde så langt gått 22 timer da den ble levert inn til sesongens siste støttebesparelse. Motoren ble nå gjennomgått av mekanikere sendt til den lokale forhandleren i Froland fra hovedimportør. It was replaced by a component that the professionals now thought was the cause of the problems.
 
