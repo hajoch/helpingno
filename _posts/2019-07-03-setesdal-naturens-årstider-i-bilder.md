@@ -21,22 +21,18 @@ publish_date:
 weight: 2
 
 ---
-![](/assets/images/ab2012.jpg)![](/assets/images/ab6.JPG)![](/assets/images/ab.eik.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab4.jpg)
+![](/assets/images/ab2012.jpg)![](/assets/images/ab6.JPG)![](/assets/images/ab.eik.jpg)
 
-![](/assets/images/ab.1007-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab.1007.jpg)
+![](/assets/images/ab.1007-1.jpg)
 
-![](/assets/images/grendi-1.jpg)![](https://wwww.helping.no/assets/images/ab3.jpg)
+![](/assets/images/grendi-1.jpg)
 
-![](https://wwww.helping.no/assets/images/ab12.jpg)
+![](/assets/images/ab.08.jpg)![](/assets/images/ab3-3.jpg)
 
-![](/assets/images/ab.08.jpg)![](/assets/images/ab3-3.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab2012.jpg)
+![](/assets/images/grendi2-3.jpg)![](/assets/images/ab8.jpg)![](/assets/images/ab2011-1.jpg)
 
-![](/assets/images/grendi2-3.jpg)![](/assets/images/ab8.jpg)![](https://wwww.helping.no/assets/images/ab2011.jpg)
+![](/assets/images/ab2012.jpg)![](/assets/images/grendi2.jpg)
 
-![](/assets/images/ab2012.jpg)![](https://wwww.helping.no/assets/images/grendi2.jpg)
+![](/assets/images/ab4-1.jpg)
 
-![](/assets/images/ab4-1.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/ab2011.0.jpg)
-
-![](/assets/images/ab2011.1.jpg)![](/assets/images/ab12.jpg)![](/assets/images/ab2011.0-2.jpg)![https://wwww.helping.no/assets/images/ab.1007.jpg](https://wwww.helping.no/assets/images/grendi.jpg)
-
-![/assets/images/ab2011-1.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/ab2011-1.jpg)
+![](/assets/images/ab2011.1.jpg)![](/assets/images/ab12.jpg)![](/assets/images/ab2011.0-2.jpg)
