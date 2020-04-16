@@ -28,7 +28,7 @@ publish_date:
 weight: 7
 
 ---
-![](/assets/images/lind.13.jpg)
+![](/assets/images/lind.04.jpg)![](/assets/images/lind.13.jpg)
 
 Leiligheten er en romlig, 50-talls i byggestil over to plan med to stuer, kjøkken soverom og bad. Overnattingsplass til 6 personer. Parabol-TV og Internett-forbindelse. Innredet med nye IKEA-møbler. Her kjenner du roen. Havets lukter. Kystens landskap.
 
@@ -39,7 +39,7 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 
 ![](https://wwww.helping.no/assets/images/lind.04.jpg)
 
-![](https://wwww.helping.no/assets/images/lind.25.jpg)
+![](https://wwww.helping.no/assets/images/lind.25.jpg)![](/assets/images/lind.25.jpg)
 
 Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i  
 1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.
