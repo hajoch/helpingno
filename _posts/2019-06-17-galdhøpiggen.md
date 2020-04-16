@@ -65,9 +65,9 @@ Viktigst på turen er den vakre naturopplevelsen
 
   
 Se også:  
-Jotunheimens perle ved Besseggen
+[Jotunheimens perle ved Besseggen](https://helping.no/gjendevann)
 
-Nord-Europas høyeste fjellovergang 1434 moh
+[Nord-Europas høyeste fjellovergang 1434 moh](https://helping.no/nord-europas-høyeste-fjellovergang-1434-moh-sognefjellsvegen)
 
 \- og egne forsiktighetsregler når du går på isbre.
 
