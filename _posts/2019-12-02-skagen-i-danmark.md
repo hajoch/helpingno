@@ -31,12 +31,8 @@ weight: 3
 
 ![](/assets/images/skagen7.jpg)
 
-![](/assets/images/skagen4.jpg)
-
 ![](/assets/images/skagen8.jpg)
 
 ![](/assets/images/nokondk2.jpg)
 
 ![](/assets/images/nikondk1.jpg)
-
-**Beklager teknisk feil. Flere bilder kommer ikke opp.**
