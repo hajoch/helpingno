@@ -41,8 +41,6 @@ Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser o
 
 Underveis treffer du mange andre som også bruker både 6 og 7 timer opp og forstår ikke hvorfor løypa er merket med 4 timer opp og 2 timer ned - helt til du treffer en jogger.
 
-![](/assets/images/gald2012.jpg)
-
 Og vel nede på Spiterstulen etter å ha feilberegnet tiden og kjempet for å rekke ned før mørket faller på, får du i resepsjonen høre om alle atleter som har klart hele turen opp på kortere enn 4 timer.
 
 Det var "Gutta på Tur-gruppa"........
@@ -63,7 +61,9 @@ Den lettere turen fra Juvasshytta er å foretrekke
 om du har med små barn eller besteforeldre på turen.
 
 Viktigst på turen er den vakre naturopplevelsen  
-\- særlig om du er heldig med været.  
+\- særlig om du er heldig med været.
+
+  
 Se også:  
 Jotunheimens perle ved Besseggen
 
@@ -71,7 +71,7 @@ Nord-Europas høyeste fjellovergang 1434 moh
 
 \- og egne forsiktighetsregler når du går på isbre.
 
-![](https://wwww.helping.no/assets/images/ga.2.gc.jpg)
+![](https://wwww.helping.no/assets/images/ga.2.gc.jpg)![](/assets/images/gald2012.jpg)
 
 ###### **Fjellvettreglene**
 
