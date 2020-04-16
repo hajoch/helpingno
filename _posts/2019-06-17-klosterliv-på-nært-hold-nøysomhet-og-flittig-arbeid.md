@@ -45,7 +45,7 @@ Maten serveres hovedsakelig fra eget bruk. De store runde brødene bakes i klos-
 
 Gjestene har oftest flere motiver for klosterbesøket enn rekreasjon og magens ve og vel. Stillheten i den avstressende klosteratmosfæren gir fred i sinnet og mulighet for religiøs fordypning. Lang erfaring med kristen meditasjon og bønn er munkenes form for ekspertise. Dette gir gjestene trygghet. Den som vil ta opp personlige eller religiøse spørsmål og problemer møter alltid åpenhet og forståelse på Tamié.
 
-![](/assets/images/munker.jpg)
+![](/assets/images/munker.jpg)![](/assets/images/kloster.jpg)
 
 **Spesiell akustikk**  
 Den enkle steinbygde klosterkirken i Tamié er midtpunktet syv ganger daglig. Munkene står opp klokken tre om morgenen og en halv time senere synger og ber de i kirken. I løpet av dagen følger flere gudstjenester frem til like før munkene går til sengs klokken 20. Gjestene behøver ikke følge denne dagsrytmen, men det er av og til fristende å gjøre det fordi gudstjenestene deres er vakre. Orgel, harpe, mannskor og de spesielle akustiske forholdene i kirken, gjør at korsangen deres i skjønnhet overgår alt jeg tidligere har opplevd i noen kirke.
