@@ -48,7 +48,7 @@ En klassisk feil ved personfotografering er å ta et skritt bakover før bildet 
 **Landskap og dybdevirkning**  
 Landskapfotografering blir ofte bedre om du finner en forgrunn. Det kan være en figur, et tre eller noe annet som gir det todimensjonale bildet en tredimensjonal effekt. Som en rekke med telefonstolper langs en vei. Trær langs en elv der du ser at trærne blir mindre jo lengre borte de befinner seg på bildet. Forgrunnen kan også være slik at bildet rammes inne av f.eks. to trær med landskapet du avbilder mellom disse. Tåke kan også gi en slik dybdeeffekt i bildet.
 
-![](https://wwww.helping.no/assets/images/toru.002.jpg)
+![](https://wwww.helping.no/assets/images/toru.002.jpg)![](/assets/images/toru.002-2.jpg)
 
 **Motlys**  
 Motlys kan gi mange spennende effekter i bildet - enten du tar portrett eller landskapsbilder. Sørg da for å skru av blitsen slik at du får utnyttet disse effektene fult ut. Eller ta i bruk blitsen for å kompensere for skygger som blir for mørke nær kameraet.
@@ -74,7 +74,7 @@ Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? 
 
 Da kan det være bra å ha med mer enn ansiktet på hovedpersonen. For eksempel bakeren med bakerlue og et brød eller den første skoledagen i klasserommet eller sammen med læreren.
 
-> ![](https://wwww.helping.no/assets/images/skog.jpg)
+> ![](https://wwww.helping.no/assets/images/skog.jpg)![](/assets/images/husskog-1.jpg)
 
 Mulighetene er mange. God planlegging kan gi deg gode ideer. Men glem ikke å være på vakt: Det perfekte motiv kan plutselig være der.
 
