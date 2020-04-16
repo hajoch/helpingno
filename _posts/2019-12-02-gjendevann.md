@@ -12,7 +12,7 @@ tags:
 - Turistmagnet
 - fjellvandring
 title: Vakre Gjendevann i Jotunheimen.
-excerpt: FOTO
+excerpt: FOTO fra Gjendevann ved Besseggen - en av Jotunheimens mest populære naturperler.
 image: "/assets/images/gjende4.jpg"
 image_caption: 'Gjendevann i Jotunheimen: Foto Gunnar Christensen'
 author: _authors/gunnar-christensen.md
