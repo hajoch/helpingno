@@ -23,7 +23,7 @@ image: "/assets/images/villrein.jpg"
 image_caption: Foto Christoffer J. Christensen og Hallvard J. Christensen
 categories:
 - _category/reise.md
-publish_date:
+publish_date: 
 weight: 5
 
 ---
@@ -31,7 +31,7 @@ Villreinflokken beveger seg raskt og smidig. Gråbrun, strihåret pels, også pe
 
 En lav, gryntende eller snøftende lyd kommer fra flokken såkalt, garting.
 
-![](https://wwww.helping.no/assets/images/villreinx.jpg)
+![](https://wwww.helping.no/assets/images/villreinx.jpg)![](/assets/images/villreinx-1.jpg)
 
 Kameralyd.  
 Frihåndsopptak.
