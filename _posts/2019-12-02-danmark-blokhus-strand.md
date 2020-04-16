@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-02 13:54:54 +0100
+date: 2019-12-02T12:54:54.000+00:00
 crop_image: true
 tags:
 - foto
@@ -13,20 +13,18 @@ excerpt: |-
 
   Orkesterplass ved havet på Danmarks vestkyst.
   Bilferie på stranden.
-image: "/assets/images/dkb5.jpg"
+image: "/assets/images/dkb3.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date:
+publish_date: 
 weight: 3
 
 ---
 ![](/assets/images/dkb11.jpg)
 
 ![](/assets/images/dkb4.jpg)
-
-![](/assets/images/dkb3.jpg)
 
 ![](/assets/images/dkb9.jpg)
 
