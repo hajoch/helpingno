@@ -44,7 +44,9 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 ![](https://wwww.helping.no/assets/images/lind.25.jpg)![](/assets/images/lind.25.jpg)
 
 Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i  
-1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.![](/assets/images/lind.20-1.jpg)
+1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.
+
+![](/assets/images/lind.20-1.jpg)
 
 ![](https://wwww.helping.no/assets/images/lind.07.jpg)
 
