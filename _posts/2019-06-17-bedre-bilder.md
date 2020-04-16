@@ -67,7 +67,7 @@ For mange blir bilder og videoopptakene mer verdifulle med årene. Ved betryggen
 **Dybdevirkninger**  
 Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt. Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten til et spennende resultat.
 
-![](https://wwww.helping.no/assets/images/husskog.jpg)
+![](https://wwww.helping.no/assets/images/husskog.jpg)![](/assets/images/hus.skog.jpg)
 
 **Hva vil du fortelle?**  
 Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? Er det en historie om barnets første skoledag? Er det et portrett av en baker?
