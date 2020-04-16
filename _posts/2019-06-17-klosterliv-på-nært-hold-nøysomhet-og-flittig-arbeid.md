@@ -25,7 +25,7 @@ image_caption: "Broder Claude er munk i klosteret Tamie i de franske alpene. \nF
   Gunnar Christensen "
 categories:
 - _category/religion.md
-publish_date:
+publish_date: 
 weight: 7
 
 ---
@@ -57,7 +57,7 @@ At munkene til daglig er opptatt av åndelig fordypning kan kanskje virke unytti
 
 Tamiés fredfulle skjønnhet står som en kjempekontrast til de gigantiske, støyende by- og fabrikksentra turen gikk gjennom på vei til Alpene fra Norge. De tyske storbyene med støy og frustrasjon samt autobahner med en uendelighet av biler, fikk meg til å oppleve Tamié som en vakker oase av kjærlighet og menneskelighet.
 
-![](https://wwww.helping.no/assets/images/tamie1.jpg)
+![](https://wwww.helping.no/assets/images/tamie1.jpg)![](/assets/images/tamie1-2.jpg)
 
 ### Intervju: Broder Paul: En overskridelse
 
