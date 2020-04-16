@@ -35,3 +35,5 @@ weight: 3
 ![](/assets/images/gjende5.jpg)
 
 ![](/assets/images/gjende1.jpg)
+
+![](/assets/images/juli31.jpg)
