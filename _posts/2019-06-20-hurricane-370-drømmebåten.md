@@ -20,7 +20,7 @@ image: "/assets/images/hurric-370-a.jpg"
 image_caption: Foto Gunnar Christensen. Flere bilder se https://www.helping.no/bat.ung.htm
 categories:
 - _category/båt.md
-publish_date:
+publish_date: 
 weight: 7
 
 ---
@@ -33,7 +33,7 @@ Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som ra
 
 Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.
 
-![](/assets/images/hurricane8.jpg)
+![](/assets/images/hurricane8.jpg)![](/assets/images/hurricane22.JPG)
 
 Utviklingen av Winrace racebåtene kan sees på linkene under:  
 [www.facebook.com/winracepropellers](http://www.facebook.com/winracepropellers)
