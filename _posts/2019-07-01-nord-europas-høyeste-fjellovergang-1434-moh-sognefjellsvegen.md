@@ -33,7 +33,9 @@ weight: 4
 
 ![](/assets/images/sogn12-1.jpg)
 
-![](https://wwww.helping.no/assets/images/sogn15.jpg)![](https://wwww.helping.no/assets/images/sogn6.jpg)![](https://wwww.helping.no/assets/images/sogn3.jpg)![](https://wwww.helping.no/assets/images/sogn12.jpg)![](/assets/images/sogn7.jpg)
+![](https://wwww.helping.no/assets/images/sogn15.jpg)![](https://wwww.helping.no/assets/images/sogn6.jpg)
+
+![](/assets/images/sogn13.jpg)![](https://wwww.helping.no/assets/images/sogn3.jpg)![](https://wwww.helping.no/assets/images/sogn12.jpg)![](/assets/images/sogn7.jpg)
 
 ![](https://wwww.helping.no/assets/images/sogn5.jpg)
 
