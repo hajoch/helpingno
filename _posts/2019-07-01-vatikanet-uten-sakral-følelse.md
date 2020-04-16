@@ -17,7 +17,7 @@ excerpt: "Vatikanstaten var det jeg så mest frem til i Roma: Minner fra en sakr
   flere andre katolske kirker ga store forventninger før første møte med Peterskirken.
   Innerst i Peterskirken pågår messe. Unge, sortdressede sikkerhetsvakter stopper
   meg: \"Not for tourists\".\n\n"
-image: "/assets/images/vat1.jpg"
+image: "/assets/images/vat9-1.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
@@ -47,11 +47,11 @@ De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. S
 
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
-![](/assets/images/vat4.jpg)
+![](/assets/images/vat4.jpg)![](/assets/images/vat1-1.jpg)
 
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shops: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
 
-![](/assets/images/vat2.jpg)
+![](/assets/images/vat2.jpg)![](/assets/images/vat8.jpg)
 
 En liten suvenir shop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to hals-hengende cruse fixer til tre euro stykket. Peterskirken har flere populære suvenir-shopper.
