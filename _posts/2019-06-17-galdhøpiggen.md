@@ -23,7 +23,7 @@ image: "/assets/images/ga.jo.gc.jpg"
 image_caption: 'Foto: Gunnar Christensen: Toppen av Galdhøpiggen på 2469 meters høyde.'
 categories:
 - _category/reise.md
-publish_date:
+publish_date: 
 weight: 9
 
 ---
@@ -40,6 +40,8 @@ For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser.
 Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser og nistespising - og fremfor alt nyte den fine naturopplevelsen denne turen byr på. Best av alt så behøver man ikke klatreutstyr eller brevandring for å bestige Galdhøpiggen fra Spiterstulen. Men du må utstyre deg med varme og vindtette klær - og det er en del snø på veien.
 
 Underveis treffer du mange andre som også bruker både 6 og 7 timer opp og forstår ikke hvorfor løypa er merket med 4 timer opp og 2 timer ned - helt til du treffer en jogger.
+
+![](/assets/images/gald2012.jpg)
 
 Og vel nede på Spiterstulen etter å ha feilberegnet tiden og kjempet for å rekke ned før mørket faller på, får du i resepsjonen høre om alle atleter som har klart hele turen opp på kortere enn 4 timer.
 
@@ -63,7 +65,7 @@ om du har med små barn eller besteforeldre på turen.
 Viktigst på turen er den vakre naturopplevelsen  
 \- særlig om du er heldig med været.  
 Se også:  
- Jotunheimens perle ved Besseggen
+Jotunheimens perle ved Besseggen
 
 Nord-Europas høyeste fjellovergang 1434 moh
 
