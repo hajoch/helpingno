@@ -9,7 +9,7 @@ tags:
 - Farris
 - Larvik
 - hotell ved sandstranden
-title: For høyt priset, men bedre mat nå på Farris.
+title: Høyt priset, men bedre mat nå på Farris.
 excerpt: |2
 
   Kan du tenke deg noe bedre enn å sjekke inn på et rolig og flott hotell i strandkanten hvor du kan både se og høre bølgene slå mot stranden. Ingen lyd av biler, trafikk og folk, bare bølgene som slår mot stranden: Forbrukertest: Farris Bad spa hotell i Larvik: Flott hotell på stranden som blir dyrere og dyrere å bo på. Vi sammenlikner i denne testen kun to like besøk i 2009 og 2016.
