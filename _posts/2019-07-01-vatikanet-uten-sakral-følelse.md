@@ -26,7 +26,7 @@ publish_date:
 weight: 2
 
 ---
-![](https://wwww.helping.no/assets/images/vat9.jpg)
+![](https://wwww.helping.no/assets/images/vat9.jpg)![](/assets/images/vat1-1.jpg)
 
 Jeg ble skuffet. Her er det for mange mennesker og ingen plass til sakrale følelser og kontemplativ stillhet. Endeløse køer møter meg på Petersplassen. Og når jeg møysommelig cm for cm har tråkket meg frem til søylene venter en sikkerhetskontroll en flyplass verdig. Da er jeg neste inne.
 
@@ -43,7 +43,7 @@ Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp f
 
 De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. Som å vandre i et populært og vakkert museum. Peterskirken tar ikke inngangsbillett.
 
-![](/assets/images/peterspl.jpg)
+![](/assets/images/peterspl.jpg)![](/assets/images/vat.jpg)
 
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
