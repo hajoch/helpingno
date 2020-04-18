@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 4
 
 ---
 ![](https://wwww.helping.no/assets/images/vat9.jpg)![](/assets/images/vat1-1.jpg)
