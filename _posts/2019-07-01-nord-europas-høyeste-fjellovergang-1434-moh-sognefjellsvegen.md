@@ -23,7 +23,9 @@ publish_date:
 weight: 5
 
 ---
-![](https://wwww.helping.no/assets/images/sogn4.jpg)![](/assets/images/sogn11.jpg)
+![](https://wwww.helping.no/assets/images/sogn4.jpg)![](/assets/images/sogn4.jpg)
+
+![](/assets/images/sogn11.jpg)
 
 ![](/assets/images/sogn12.jpg)
 
@@ -31,7 +33,7 @@ weight: 5
 
 ![](https://wwww.helping.no/assets/images/sogn7.jpg)
 
-![](https://wwww.helping.no/assets/images/sogn10.jpg)![](https://wwww.helping.no/assets/images/sogn8.jpg)![](https://wwww.helping.no/assets/images/sogn11.jpg)![](https://wwww.helping.no/assets/images/sogn13.jpg)
+![](https://wwww.helping.no/assets/images/sogn10.jpg)![](https://wwww.helping.no/assets/images/sogn8.jpg)![](/assets/images/sogn8.jpg)![](https://wwww.helping.no/assets/images/sogn11.jpg)![](https://wwww.helping.no/assets/images/sogn13.jpg)
 
 ![](/assets/images/sogn12-1.jpg)
 
@@ -47,4 +49,4 @@ weight: 5
 
 Vakker biltur over fjellet.
 
-![](https://wwww.helping.no/assets/images/sogn2.jpg)
+![](https://wwww.helping.no/assets/images/sogn2.jpg)![](/assets/images/sogn2.jpg)
