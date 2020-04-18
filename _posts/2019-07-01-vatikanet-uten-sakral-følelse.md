@@ -36,7 +36,7 @@ Ved Peters-kirkens inngang ser jeg ut over den store plassen og tar så skrittet
 
 Innerst i kirken er en messe i gang. Unge sikkerhetsvakter i sort dress stopper meg: "Not for tourists". Bare italiensk-talende slipper inn til messen i Peterskirkens aller helligste. Vi andre besøkende må følge den godt bevoktede og overfylte strømmen av mennesker som slipper til på en begrenset del av kirken nærmest inngangen.
 
-![](https://wwww.helping.no/assets/images/vat.jpg)
+![](https://wwww.helping.no/assets/images/vat.jpg)![](/assets/images/vat8-1.jpg)
 
 **Peterskirken:**  
 Mange klatrer de lange, bratte og smale trappene med over fem hundre trinn opp fra den indre kuppelen - til toppen av den utvendige kuppelen. Her er Romas fineste utsikt. Peterskirken tar ikke inngangsbillett.
@@ -49,9 +49,15 @@ Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En famili
 
 ![](/assets/images/vat1-1.jpg)
 
+![](/assets/images/vat3.jpg)
+
+![/assets/images/vat4.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/vat4.jpg)
+
 Og de mest berømte tak-maleriene har fotoforbud - selv uten blitz slik at Vatikanet kan tjene enda litt ekstra på å selge bilder i de vatikanske suvenir-shops: De mange sikkerhetsvaktene vokter alle med kamra og er raske i reaksjonen.
 
-![](/assets/images/vat2.jpg)![](/assets/images/vat8.jpg)
+![](/assets/images/vat2.jpg)
+
+![](/assets/images/vat8.jpg)
 
 En liten suvenir shop finnes til høyre for hovedinngangen. Her selger nonner Peterskirkens suvenirer til turister:  
 \- They are blessed, smiler en asiatisk nonne bak disken og rekker over to hals-hengende cruse fixer til tre euro stykket. Peterskirken har flere populære suvenir-shopper.
