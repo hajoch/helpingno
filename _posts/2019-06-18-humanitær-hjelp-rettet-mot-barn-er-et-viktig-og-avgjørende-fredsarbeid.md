@@ -67,6 +67,8 @@ Vi kan gjøre mye for ærlige bønder og arbeidere i utviklingsland ved å tenke
 
 Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan selge varer til oss på like vilkår. Dette er den beste utviklingshjelpen vi kan gi. Vær alltid bevist hva du kjøper: På den måten er du med på å skape et bedre og sunnere verdenssamfunn.
 
+**Eiendom som gave.**
+
 ![](/assets/images/bangladesh-1.jpg)
 
-Helping.no har kjøpt et hus til en flom-rammed familie i Bangladesh gjennom en hjelpeorganisasjon. Huset er konstruert slik at når flommen kommer neste gang kan veggene hengsles opp under taket slik at flommen går gjennom huset fremfor å ta hele huset med seg. Etter flommen kan familien gjøre rent og ta ned veggene og ta huset i bruk igjen. 
+Helping.no har kjøpt et hus til en flom-rammed familie i Bangladesh gjennom en hjelpeorganisasjon. Eiendomsretten er overført til den familien som trengte og fikk tildelt huset. Huset er konstruert slik at når flommen kommer neste gang kan veggene hengsles opp under taket slik at flommen går gjennom huset fremfor å ta hele huset med seg. Etter flommen kan familien gjøre rent og ta ned veggene og ta huset i bruk igjen. 
