@@ -23,7 +23,9 @@ publish_date:
 weight: 4
 
 ---
-![](https://wwww.helping.no/assets/images/sogn4.jpg)![](/assets/images/sogn12.jpg)
+![](https://wwww.helping.no/assets/images/sogn4.jpg)![](/assets/images/sogn11.jpg)
+
+![](/assets/images/sogn12.jpg)
 
 ![](/assets/images/sogn14.jpg)
 
