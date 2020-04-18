@@ -47,8 +47,6 @@ De tette køene og blitzingene gjøre dette til en annerledes kirkeopplevelse. S
 
 Det gjør derimot det sixtinske kapell som er en del av Vatikanstaten. En familie på fem blir loppet for omkring åtti euro for å slippe inn til denne enorme samlingen vakker og godt bevoktet kunst.
 
-![](/assets/images/vat1-1.jpg)
-
 ![](/assets/images/vat3.jpg)
 
 ![/assets/images/vat4.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/vat4.jpg)
@@ -70,4 +68,4 @@ Detalj fra inni Peterskirken
 
 Også gateselgernes utvalg preges av Peterskirken.
 
-![](/assets/images/roma4.jpg)![](/assets/images/vat4.jpg)
+![](/assets/images/roma4.jpg)
