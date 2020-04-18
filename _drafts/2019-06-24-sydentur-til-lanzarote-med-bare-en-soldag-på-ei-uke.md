@@ -23,7 +23,7 @@ image_caption: 'Foto: Jens Christian Jore Christensen. Utsikt fra hotellet.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-10-04T22:00:00.000+00:00
+publish_date: 
 weight: 5
 
 ---
