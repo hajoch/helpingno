@@ -57,6 +57,8 @@ Vær også klar over at formen til Hurricane og Cyber er ikke bare på fabrikken
 
 Lar du deg lure til å kjøpe en piratkopi kan du få ubehagelige overraskelser på sjøen. Spør du etter merket som beviser at båten er ekte vare og selger svarer at det er "falt av" så vet du at dette er en utrygg handel.
 
+Bilde: Nymalt, gult dekk for å øke sikkerheten og synligheten på sjøen.
+
 ![](/assets/images/hurri.jpg)
 
 **Testet i 8 sesonger**  
