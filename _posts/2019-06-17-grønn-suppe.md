@@ -12,6 +12,7 @@ tags:
 - vegetarsuppe
 - helsekost
 - helsekost vegetarmat
+- lettfordøyelig middag
 title: Grønn suppe
 excerpt: Spinat og brokkoli
 image: "/assets/images/gonn.jpg"
@@ -24,9 +25,9 @@ weight: 4
 ---
 Brokkoli- og spinatsuppe - velsmakende og sunn.
 
-Egentlig heter suppa "brokkoli- og spinatsuppe", men det ble litt langt og vaskelig da barna var små så de omdøpte suppa til "Gønnesuppe" fordi den er grønn. I alle år senere har dette vært barnas favorittsuppe noe jeg er glad for fordi denne suppa inneholder mange sunne og gode ingredienser.
+Egentlig heter suppa "brokkoli- og spinatsuppe", men det ble litt langt og vanskelig da barna var små så de omdøpte suppa til "Gønnesuppe" fordi den er grønn. I alle år senere har dette vært barnas favorittsuppe noe jeg er glad for fordi denne suppa inneholder mange sunne og gode ingredienser.
 
-Særlig om vinteren når forkjølelser og sådant mer ligger på lur er dette et meget godt og vegetabilsk middagsalternativ.
+Særlig om vinteren når forkjølelser og sådant mer ligger på lur er dette et meget godt og vegetabilsk middags-alternativ.
 
 Følgende ingredienser må til:  
 Smør  
@@ -43,7 +44,7 @@ H-melk.
 Krydder:  
 Koriander - malt  
 Fennikel - malt  
-Havsalt  
+Hav-salt  
 Karri  
 Pepper  
 Ingefær
@@ -64,9 +65,9 @@ Etterfyll gryta med vann slik at du får den mengde supe du ønsker.
 Skjær så opp to båter hvitløk i små tynne skiver og tilsett dette.
 
 Krydder:  
-Koriander - malt ca 1 spisesje  
-Fennikel - malt ca. 1 spisesje  
-Havsalt - 1 teskje eller etter behov  
+Koriander - malt ca 1 spiseskje  
+Fennikel - malt ca. 1 spiseskje  
+Hav-salt - 1 teskje eller etter behov  
 Karri - 1 teskje eller etter behov  
 Pepper - 1 teskje eller etter behov  
 Ingefær - 1 teskje eller etter behov
@@ -75,7 +76,7 @@ La suppen småkoke på svak varme i opp til 40 min til brokkolien er kokt.
 Deretter helles hel-melk i suppen slik at den får en lysere farge og den er klar til servering.  
 Godt inntil suppa er flatbrød med eller uten smør/lettmargarin - aller helst det velsmakende Setesdalske flatbrødet "Brau" eller tilsvarende.
 
-Antall posjoner velger du selv ved å regulere mengden av vann og melk. Videre velger du hvor tykk suppa skal være ved å spe den ut eller ved å variere mengden mel du bruker. Denne oppskriften holder til en middag for hele familien.
+Antall porsjoner velger du selv ved å regulere mengden av vann og melk. Videre velger du hvor tykk suppa skal være ved å spe den ut eller ved å variere mengden mel du bruker. Denne oppskriften holder til en middag for hele familien.
 
 Suppa holder seg fint i kjøleskapet til dagen etter. Noen foretrekker å spise "Gønnesuppa" varm andre lunken. Enkelte mener smaken kommer best til sin rett om den får stå å kjøle seg litt før servering.
 
