@@ -79,7 +79,7 @@ En pilgrim er sterkt opptatt voldsbølgen i Vesten og spør hva Dalai Lama og vi
 
 Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenfødsler vil alle oppnå innsikt og visdom en gang, og dermed oppleve kjærlighet og brorskap.
 
-**Slik ser han ut i 2019 - 40 år og en Nobels fredspris senere.**
+**Slik så han ut i 2019 - 40 år og en Nobels fredspris senere.**
 
 ![](/assets/images/dalailama8.jpg)[  
 ](http://www.facebook.com/DalaiLama)**Linker om Dalai Lama:**
