@@ -74,7 +74,8 @@ Hva har du konsentrert deg om?**
 **- Hvordan ser du for deg det videre hjelpearbeidet i Pine Ridge?**  
 \- Det første jeg vil bygge nå er et vaskeri så indianerne slipper å kjøre 10 mil for å vaske klær. Det er ofte ikke mulig å kjøre så langt siden de oftest ikke har råd til bensin. Jeg har alt fått tomt til vaskeriet så den biten er på plass. Det vil naturlig nok koste penger å vaske klær og disse pengene vil genereres til andre ting. Mye kan gjøres for små penger her. Bl.a. hjelp til å skape et utsalg i for de mange dyktige kunstnerne som bor i Pine Ridge. Malere, klesdesignere m.m.. Disse lager flotte ting. I denne butikken - som også er nettbutikk - kan kunstnerne selge varene sine på kommisjon. Bare en slik butikk gir fort to arbeidsplasser og dermed inntekter. Jeg vil også arbeide for å få fler barn tilbake til skolebenken de har droppet ut av. Skoletilbudet er 12 års utdanning, men kun omkring 10 % av barna fullfører skolegangen. Det sier litt om størrelsen på drop-outen her. Nå er det heller ikke skoleplasser nok til alle årskull her og avstanden til skolen er meget stor. Det kan ta opp til tre timer å komme seg på skolen på grunn av store avstander, spredt bebyggelse og ingen transportmuligheter. Dette gjør det ikke lettere. Offentlig transport er nærmest fraværende. Bebyggelsen er som sagt stort sett utrangerte campingvogner som knapt henger sammen og mangler lys til lekselesing m.m.. Dette gjør det vanskelig for indianerne å følge opp skolen for barna.
 
-![](/assets/images/siouxbarn.jpg)
+![](/assets/images/siouxbarn.jpg)  
+Bilde fra Lyseggens egen samling. 
 
   
 **- Hva med helsesituasjonen?**  
