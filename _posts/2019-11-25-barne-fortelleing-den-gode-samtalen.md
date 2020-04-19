@@ -25,7 +25,7 @@ image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
-publish_date: 2020-03-25 00:00:00 +0100
+publish_date: 2020-03-24T23:00:00.000+00:00
 weight: 10
 
 ---
@@ -112,4 +112,4 @@ Svake dønninger går mot stranden. Sval vind i tretoppene. Båten duver trygt i
 
 Tittans øyelokk blir tyngre og tyngre og søvnen siger på.
 
-![](/assets/images/dove.gif)
+![](/assets/images/dove.gif)![](/assets/images/september1.jpg)
