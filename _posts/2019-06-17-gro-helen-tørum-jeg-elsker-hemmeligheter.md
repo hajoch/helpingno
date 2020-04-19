@@ -31,7 +31,7 @@ image_caption: 'Foto: Bjørn Wad'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 \- Hvordan definerer du begrepet lykke og hva vil du si er viktigst for lykken?  
