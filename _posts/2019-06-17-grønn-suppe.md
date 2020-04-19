@@ -53,7 +53,7 @@ Finn fram en stor jerngryte. Det gir best resultat.
 Sett plata på svak varme så du ikke ødelegger grønnsakenes næringsinnhold.  
 Legg en solid klatt smør i bunnen av gryte  
 Hell i Solsikkeolje - ca. 1 - 2 dl.  
-(Aller helst solsikkeolje på glassflaske da det er det sunneste alternativet. Les mer om kreftfarlige plastflasker på: [Plastemballasje)](http://www.helping.no/plastemballasje.htm)  
+(Aller helst solsikkeolje på glassflaske da det er det sunneste alternativet.)  
 2 terninger med grønnsakbuljong  
 Finn fram en slikkepott og knus buljongen.  
 Soya mel røres ut i gryta med slikkepotten.  
