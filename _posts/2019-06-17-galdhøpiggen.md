@@ -39,6 +39,8 @@ For turen fra Spiterstulen og opp til toppen av Galdhøpiggen er ikke for pyser.
 
 Folk flest bruker både 6 og 7 timer opp den bratte stigningen med hvilepauser og nistespising - og fremfor alt nyte den fine naturopplevelsen denne turen byr på. Best av alt så behøver man ikke klatreutstyr eller brevandring for å bestige Galdhøpiggen fra Spiterstulen. Men du må utstyre deg med varme og vindtette klær - og det er en del snø på veien.
 
+![](/assets/images/ga.1.gc.jpg)
+
 Underveis treffer du mange andre som også bruker både 6 og 7 timer opp og forstår ikke hvorfor løypa er merket med 4 timer opp og 2 timer ned - helt til du treffer en jogger.
 
 Og vel nede på Spiterstulen etter å ha feilberegnet tiden og kjempet for å rekke ned før mørket faller på, får du i resepsjonen høre om alle atleter som har klart hele turen opp på kortere enn 4 timer.
@@ -48,6 +50,8 @@ Det var "Gutta på Tur-gruppa"........
 Her er ingen selvkritikk på den optimistiske tidsangivelsen.
 
 Kanskje må det skje en alvorlig ulykke før Turistforeningen nyanserer de 4 timene opp og de 2 timene ned?
+
+![](/assets/images/ga.2.gc.jpg)
 
 **Synes du det høres hardt ut?**
 
@@ -63,7 +67,6 @@ om du har med små barn eller besteforeldre på turen.
 Viktigst på turen er den vakre naturopplevelsen  
 \- særlig om du er heldig med været.
 
-  
 Se også:  
 [Jotunheimens perle ved Besseggen](https://helping.no/gjendevann)
 
