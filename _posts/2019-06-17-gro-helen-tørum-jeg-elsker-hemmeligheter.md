@@ -22,6 +22,9 @@ tags:
 - klarsyn
 - '"Fra sjel til sjel"'
 - '"Åndenes makt"'
+- ' "Den andre siden"'
+- livserfaring
+- energetisk
 title: 'Gro Helen Tørum: Jeg elsker hemmeligheter '
 excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
   , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
