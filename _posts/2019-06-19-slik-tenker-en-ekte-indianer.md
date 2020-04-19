@@ -34,7 +34,10 @@ weight: 6
 ---
 Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Indianernes verdifulle kunnskap om naturen kan nå dø ut.
 
-Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er
+Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er.
+
+![/assets/images/Rituell Powowdans .JPG](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Rituell%20Powowdans%20.JPG)  
+Bilde fra Lyseggens egen samling.
 
 Dette mener Lise Lyseggen som har over 40 års erfaring som hjelpearbeider hos Sioux-indianerne og er leder av Sioux Soul Foundation. Hun har i 40 år vært anerkjent som en av dem og har de siste 15 årene vært "medisinmann" i stammen som holder til i Pine Ridge, Sør-Dakota, USA.
 
@@ -75,9 +78,8 @@ Hva har du konsentrert deg om?**
 \- Det første jeg vil bygge nå er et vaskeri så indianerne slipper å kjøre 10 mil for å vaske klær. Det er ofte ikke mulig å kjøre så langt siden de oftest ikke har råd til bensin. Jeg har alt fått tomt til vaskeriet så den biten er på plass. Det vil naturlig nok koste penger å vaske klær og disse pengene vil genereres til andre ting. Mye kan gjøres for små penger her. Bl.a. hjelp til å skape et utsalg i for de mange dyktige kunstnerne som bor i Pine Ridge. Malere, klesdesignere m.m.. Disse lager flotte ting. I denne butikken - som også er nettbutikk - kan kunstnerne selge varene sine på kommisjon. Bare en slik butikk gir fort to arbeidsplasser og dermed inntekter. Jeg vil også arbeide for å få fler barn tilbake til skolebenken de har droppet ut av. Skoletilbudet er 12 års utdanning, men kun omkring 10 % av barna fullfører skolegangen. Det sier litt om størrelsen på drop-outen her. Nå er det heller ikke skoleplasser nok til alle årskull her og avstanden til skolen er meget stor. Det kan ta opp til tre timer å komme seg på skolen på grunn av store avstander, spredt bebyggelse og ingen transportmuligheter. Dette gjør det ikke lettere. Offentlig transport er nærmest fraværende. Bebyggelsen er som sagt stort sett utrangerte campingvogner som knapt henger sammen og mangler lys til lekselesing m.m.. Dette gjør det vanskelig for indianerne å følge opp skolen for barna.
 
 ![](/assets/images/siouxbarn.jpg)  
-Bilde fra Lyseggens egen samling. 
+Bilde fra Lyseggens egen samling.
 
-  
 **- Hva med helsesituasjonen?**  
 \- 75% av indianerne har diabetes og gjennomsnittsalderen er omkring 60 år. Det betyr at kostholdet de får tildelt av "federal government" er svært usunt. Jeg tror ikke de har gener til å beholde helsa på den type mat de nå har tilgang på. Fra gammelt av spiste de røtter, urter og vilt de jaktet på. I tillegg har det fra 8o/ 90-tallet og opp til nå vært mye forurensning i områdene deres takket være den hvite manns virksomhet.  
 **- Har sioux kontakt og samarbeid med andre indianerstammer?**  
@@ -91,9 +93,6 @@ Det er gjennom medisinmannen jeg har kommet langt med å nå frem og få tillit 
 
 **- Du mener kunnskap om naturen får stadig større betydning?**  
 \- Nå er vår verden i en krise. Dette vil tvinge seg frem en ny måte å forstå naturen på. Dette vil skje både økologisk og økonomisk. Daglig ser vi behovet for å gjøre ting annerledes i verden. Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Også derfor er det viktig å bevare den indianske kulturen. Hvis vi ikke får med oss denne natur-kunnskapen videre så tror jeg menneskeheten vil dø ut. I dag er menneskeheten med på å drive den globale oppvarmingen i rasende fart. Vi bør huske på at det har vært istid før og denne sykliske utviklingen øker nå farten. Kunne vi tatt til oss den lærdommen som indianerne har opparbeid seg i generasjoner så kunne vi reversert mye av den negative utviklingen vi ser i naturen nå. Dette peker mot tanken om at alle folkeslag er avhengig av hverandre og hverandres naturkunnskap. Som når araberne finner vann i ørkenen og aborginerne klarer å overleve i deres ørken. Det er summen av den naturkunnskapen som vil kunne føre menneskeheten videre tilbake til en bærekraftig eksistens på denne kloden. Vi er alle avhengig av hverandre: Indianerne kaller dette livets hjul - prosessen mellom mennesker - der alle har forskjellige roller i samfunnets helhet og der alle er like mye verdt. Det er skremmende at klodens politikere ikke tenker slik: Deres oppgaver er å jobbe for oss - å forvalte fellesgodene. Mitt inntrykk er at de kun tenker på seg selv.
-
-![](/assets/images/Rituell Powowdans .JPG)  
-Bilde fra Lyseggens egen samling. 
 
 Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjentar:  
 \- Som naturfolk har indianerne en unik kunnskap og harmoni med naturen. Når indianerne tar noe fra naturen - f.eks. hogger et tre - da planter de et nytt tre for hvert tre de hogger. Tanken er at neste generasjon også trenger trær. Slik vil ressursene alltid være der. Vi forstår lite av naturen sammenliknet med dem. Her er avgjørende kunnskap som kan være viktig for vår sivilisasjons overlevelse.
