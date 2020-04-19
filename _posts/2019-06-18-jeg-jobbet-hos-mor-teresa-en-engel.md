@@ -27,6 +27,8 @@ Lise Lyseggen
 
 \- Hun var som en liten spurv jeg følte jeg kunne ta under armen, men denne magre lille kvinnen hadde en nærmest ufattelig lang arbeidsdag og et nøysomt, omfattende virke som hjelpearbeider for fattige og nødlidende i Calcutta-slummen. Samtidig hadde hun en sterk autoritet: Alle fulgte hennes ordre. Hun hadde så merkelige øyne som fascinerte meg. Det var som om hun så tvers igjennom meg. Det var en egenro over hvordan hun snakket til mennesker. En ro jeg ikke hadde opplevd før. Det føltes som om hun åndelig sett var opphøyd som en engel.
 
+![](/assets/images/mortheresa.jpg)
+
 Dette sier Lise Lyseggen. Allerede som tyveåring på begynnelsen av 1970-tallet jobbet Lyseggen hos Mor Teresa i India. Et ønske om å gjøre som henne vokste i Lise Lyseggen. Nå har Lyseggen over 40 års fartstid som hjelpearbeider med hjelpeprosjekt blant fattige Sioux-indianere i USA.
 
 **- Hvorfor reiste du til Mor Teresa i Calcutta?**  
