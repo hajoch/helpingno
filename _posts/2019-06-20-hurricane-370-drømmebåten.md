@@ -29,11 +29,11 @@ Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20
 ![](/assets/images/hurricane15.jpg)
 
 **Winrace, Hurricane eller Cyber**  
-Denne 12 fots båten er opprinnlig tegnet og bygd av Olle Terjesen i 1976 som racebåt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.
+Denne 12 fots båten er opprinnelig tegnet og bygd av Olle Terjesen i 1976 som race-båt og kalt Winrace. Firmaet Winrace er nå i Froland like utenfor Arendal. Dette opplyser Olle Terjesen på email til helping.no: Dette var den første norskbygde båt som vant et internasjonalt mesterskap og den satte verdensrekord i hastighet. Fortsatt brukes denne Winrace-båten i regatta.
 
 Da Olle Terjesen lagde en ny modell av båten i 1980, leide han ut formene til båtprodusent Christensen som så markedsførte den som Hurricane 370. Da Christensen gav seg som båtprodusent og gikk over til produksjon av boblebad, solgte Olle Terjesen formene til Cyber.
 
-![](/assets/images/hurricane8.jpg)![](/assets/images/hurricane22.JPG)
+![](/assets/images/hurricane22.JPG)
 
 Utviklingen av Winrace racebåtene kan sees på linkene under:  
 [www.facebook.com/winracepropellers](http://www.facebook.com/winracepropellers)
@@ -54,6 +54,8 @@ Vær også klar over at formen til Hurricane og Cyber er ikke bare på fabrikken
 
 Lar du deg lure til å kjøpe en piratkopi kan du få ubehagelige overraskelser på sjøen. Spør du etter merket som beviser at båten er ekte vare og selger svarer at det er "falt av" så vet du at dette er en utrygg handel.
 
+![](/assets/images/hurri.jpg)
+
 **Testet i 8 sesonger**  
 Vi har i en periode på 8 sesonger testet versjonen av båten som heter Hurricane 370. Skroget har blå metallakk med gult dekk. Gult er en signalfarge som er godt synlig på fjorden og gir derfor god sikkerhet: Du blir sett. Mørke farger på denne båten er derfor ikke så lurt.
 
@@ -69,4 +71,4 @@ Motorbrønnen er liten og trang for påhengsmotoren på Hurricane 370 slik at de
 
 Hurricane/Cyber 370 er ikke selvlensende. Mange foretrekker derfor som oss å ha på en liten kalesje for å holde den tørr. Da blir båten tett og klarer seg gjennom regnvær uten problemer.
 
-![](assets/images/hurricsne22.jpg)
+![](assets/images/hurricsne22.jpg)![/assets/images/hurricane8.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/hurricane8.jpg)
