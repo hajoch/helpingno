@@ -13,7 +13,7 @@ tags:
 - kosen
 title: Gi barna et godt  forhold til bøker
 excerpt: 'Opplev den nærhet og fortrolighet som boka kan gi.  '
-image: "/assets/images/gutt.jpg"
+image: "/assets/images/tuvagif.jpg"
 image_caption: Illustrasjoner Anne Bakke
 categories:
 - _category/boker.md
@@ -21,6 +21,8 @@ publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 8
 
 ---
+![](/assets/images/gutt.jpg)
+
 Det er viktig å lese for barn i førskolealder. Slik lærer de å forstå poenget med å lære å lese og skrive når de begynner på skolen - i en media-tid der mye kommer til dem via TV, mobil, spill og film.
 
 Boka har kvaliteter som TV og film mangler. Nyt en fortrolig kosestunden med barna - med ei god bok i sofakroken eller som "godnatt-historie". Opplev den nærhet og fortrolighet som boka kan gi.
