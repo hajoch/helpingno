@@ -17,8 +17,8 @@ excerpt: Forebyggende tiltak for å forbedre søvnen kaller vi søvnhygene. Hvis
   deg om søvnen forandrer seg i noen uker. Først når søvnen har forandret seg i lenger
   enn fire uker skal du sette inn med forebyggende tiltak. Det finnes mange gode bøker
   om søvn med mange slike preventive eller søvnhygeniske tiltak.
-image: "/assets/images/svane1.jpg"
-image_caption: Foto Gunnar Christensen
+image: "/assets/images/sogn7.jpg"
+image_caption: Foto Hallvard Jore Christensen
 author: _authors/odd-m-lunde.markdown
 categories:
 - _category/helse.md
