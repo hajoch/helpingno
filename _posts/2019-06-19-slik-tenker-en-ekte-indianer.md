@@ -24,7 +24,7 @@ excerpt: "Intervju med LiseLyseggen: \n- Noen sioux indianere blir fremdeles opp
   og på hvordan grenen er knekt. Spor av klo og klør i bakken gir også verdifull dyreinformasjon.
   Indianere ble tidligere brukt som speidere i naturen fordi de ser absolutt alle
   tegn."
-image: "/assets/images/siouxbarn.jpg"
+image: "/assets/images/siouxbarn1-1.jpg"
 image_caption: 'Foto: Lise Lyseggen'
 categories:
 - _category/hjelpearbeid.md
