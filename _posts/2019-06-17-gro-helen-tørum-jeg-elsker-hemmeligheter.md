@@ -14,6 +14,14 @@ tags:
 - husrens
 - andre siden
 - døden
+- visdom
+- ettertanke
+- TV-kjendis
+- filosofi
+- religion
+- klarsyn
+- '"Fra sjel til sjel"'
+- '"Åndenes makt"'
 title: 'Gro Helen Tørum: Jeg elsker hemmeligheter '
 excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
   , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
@@ -46,7 +54,7 @@ Seminarene jeg har jobbet med blir på en måte som å dele livserfaringer som l
 \- Jeg håper på seminarene å kunne hjelpe deltakerne til en utvikling mot et bedre liv, men har ikke selv alle svarene. Mange deltakere i salen vil være resurssterke mennesker som vil kunne bidra til den dynamikken som slike seminarer skaper.
 
 \- Hva er "meningen med livet" slik du ser det?  
-\- Meningen med mitt liv er å oppleve, være tilstede og åpne opp for stadig mer av kjærlighes-potensialet jeg har i meg.  
+\- Meningen med mitt liv er å oppleve, være tilstede og åpne opp for stadig mer av kjærlighets-potensialet jeg har i meg.  
 \- Kan personlige problemer åpne eller blokkere for åndelig utvikling?  
 \- Dette er et stort spørsmål som ikke lar seg besvare med få ord. Men essensen er at vi alle har en fri vilje og at vi derfor selv bestemmer om hvorvidt personlige problemer skal skape blokkeringer eller åpne vår åndelige utvikling. Allikevel vil jeg presisere at mennesker som opplever å skape blokkeringer, ikke nødvendigvis gjør dette bevisst.
 
@@ -67,12 +75,12 @@ De siste årene har Gro Helen som kjent jobbet som medium og klarsynt for progra
 \- Bruker du dine klarsynte evner også i din jobb i næringslivet og hvordan?  
 \- Klarsynet mitt er ikke noe jeg slår av og på, det er der hele tiden. Evnene mine gir meg et annet perspektiv. Jeg kan se litt lengre frem enn gjennomsnittet og jeg kan se enkeltmenneskets energi og derved samspillet i bedriften på en annen måte enn mine kolleger. Men det er også ting jeg ikke mestrer så godt, nettopp fordi jeg ser så store sammenhenger. Da er det godt å ha gode kolleger som får med seg detaljene.
 
-\- Får du like god kontakt med individ på "den andre siden" hvis de er reinkarnert?  
+\- Får du like god kontakt med individ på "den andre siden" hvis de er re-inkarnert?  
 \- Like god kontakt er et relativt begrep, men jeg får kontakt. Jeg opplever at vi alle består av uendelig mange aspekt som er sammensatt for å utgjøre hvert enkelt individ. Når et menneske er inkarnert på nytt, vil det være aspekter jeg kommuniserer med, men informasjonen er like tydelig når den foregår på et plan hvor sjelen dypest sett er forankret, enten man lever på jorden eller ikke.
 
 **Husrens**  
-\- Hva foregår ved husrens?  
-\- Husrens er ganske enkelt en prosess hvor definerte omgivelser er fylt av energier som ikke lenger er ønsket og som kan forløses.
+\- Hva foregår ved hus-rens?  
+\- Hus-rens er ganske enkelt en prosess hvor definerte omgivelser er fylt av energier som ikke lenger er ønsket og som kan forløses.
 
 \- Når du renser et hus: Hva er forskjellen på personer som "går igjen" og energier som henger igjen i huset? Liksom forskjellen på et menneske og bilde av et menneske.  
 \- Et hus er fylt av energiene til menneskene og dyrene som bor der. Det er stor forskjell på energetiske mønstre som er skapt ove tid, og mennesker som "går igjen", eller som "henger igjen". De energetiske mønstrene kan være utfordrende om man foretar forandringer i huset som å stenge dører, flytte rom etc. De energetiske sporene vil ligge igjen og noen ganger kan det være nødvendig å foreta en avbalansering slik at gamle mønstre viskes ut og nye kan etableres.  
@@ -89,7 +97,7 @@ Mennesker som "henger igjen" er gjerne sjeler som, av en eller annen grunn, ikke
 \- Kjærlighet!
 
 \- Hvordan forstiller du deg begrepet Gud?  
-\- For meg er Gud summen av alle menneskers høyeste potensial. Altså er Gud kjærlighetskilden som vi alle henter stadig mer av oss selv ut fra. Dess mer kjærlighet vi kan meste å forvalte på jorden, dess mer guddommelige er vi. Idet vi fødes til jorden vil det være med en lengsel etter den kjærligheten vi kommer fra, og denne lengselen er drivkraften vår her på jorden. I døden forenes vi med vår egen lengsel.
+\- For meg er Gud summen av alle menneskers høyeste potensial. Altså er Gud kjærlighets-kilden som vi alle henter stadig mer av oss selv ut fra. Dess mer kjærlighet vi kan meste å forvalte på jorden, dess mer guddommelige er vi. Idet vi fødes til jorden vil det være med en lengsel etter den kjærligheten vi kommer fra, og denne lengselen er drivkraften vår her på jorden. I døden forenes vi med vår egen lengsel.
 
 **Reinkarnasjon**  
 \- Hvordan forholder du deg selv til reinkarnasjon?  
