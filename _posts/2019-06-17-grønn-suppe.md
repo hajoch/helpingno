@@ -22,8 +22,7 @@ publish_date:
 weight: 4
 
 ---
-Brokkoli- og spinatsuppe  
-\- velsmakende og sunn.
+Brokkoli- og spinatsuppe - velsmakende og sunn.
 
 Egentlig heter suppa "brokkoli- og spinatsuppe", men det ble litt langt og vaskelig da barna var små så de omdøpte suppa til "Gønnesuppe" fordi den er grønn. I alle år senere har dette vært barnas favorittsuppe noe jeg er glad for fordi denne suppa inneholder mange sunne og gode ingredienser.
 
