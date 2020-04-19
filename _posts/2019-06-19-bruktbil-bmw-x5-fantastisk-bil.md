@@ -10,6 +10,7 @@ tags:
 - biltest
 - bruktbil
 - bruktbiltest
+- BMW X 5
 title: 'BMW X5: Fantastisk bil'
 excerpt: 'Bruktbiltest: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje
   verdens beste dieselmaskin?'
