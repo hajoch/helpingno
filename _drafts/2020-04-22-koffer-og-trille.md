@@ -193,3 +193,5 @@ Trille sitter og ligger fint og rolig i buret ved siden av meg hele den lange kj
 Den første natten kommer Trille snikende opp i senga mi. Jeg stryker pelsen og klør henne bak øret og hvisker:
 
 \- Mamma sier at du ikke får sove i sengen. I natt skal du få lov, men ingen må få vite det.
+
+![](/assets/images/IMG_2757.JPG)
