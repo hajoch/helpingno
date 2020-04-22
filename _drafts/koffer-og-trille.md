@@ -4,6 +4,7 @@ date: 2020-04-22 14:24:52 +0200
 crop_image: true
 tags:
 - Barnebok
+- god-natt-historie
 title: Koffer og Trille
 excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
   Karamell som kalles Storebrum.
@@ -13,7 +14,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 2
+weight: 5
 
 ---
   
