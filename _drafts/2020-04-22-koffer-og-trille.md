@@ -152,7 +152,7 @@ Jeg smiler til pappa og sier:
 
 ![](/assets/images/trille6.jpg)
 
-_Foto: Christoffer Jore Christensen_
+_Verdens fineste pus, synes Koffer, men vil storebrødrene også ha katt? Foto: Christoffer Jore Christensen_
 
 Vi er på langtur i Storebrum nå. Mamma kjører og hele familien er med. Vi har gledet oss lenge til denne turen. Storebrum kjører litt fortere enn vanlig. Kanskje fordi også Storebrum er ekstra spent i dag.
 
