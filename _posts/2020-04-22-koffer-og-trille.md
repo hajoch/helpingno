@@ -5,7 +5,7 @@ crop_image: true
 tags:
 - Barnebok
 - god-natt-historie
-title: Koffer og Trille
+title: Koffer møter Trille
 excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
   Karamell som kalles Storebrum.
 image: "/assets/images/gutt.jpg"
