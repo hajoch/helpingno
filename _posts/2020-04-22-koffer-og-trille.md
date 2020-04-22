@@ -19,7 +19,8 @@ weight: 5
 ---
 **Storebrum trenger hjelp**
 
-![](/assets/images/gutt.jpg)
+![](/assets/images/gutt.jpg)  
+_Koffer venter på Bildoktoren. Illustrasjon: Anne Bakke_
 
 Jeg heter Koffer, er tre år og bor i et stort gult hus med rødt tak og grønn hage. Vi er fem som bor her: Min største storebror er ni år og heter Jens. Min andre storebror heter Hallvard og er seks år. Mamma og pappa.
 
