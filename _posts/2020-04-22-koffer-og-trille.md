@@ -29,7 +29,8 @@ Hver morgen roper jeg på. Storebrum. Da åpner den store døra i garasjen seg o
 
 I dag har mamma kjørt til jobben, storebrødrene mine er gått til skolen og pappa skal kjøre meg til barnehagen. Jeg sitter fint på barnestolen min i baksetet med sikkerhetsbelte på og venter på at Storebrum skal starte. Pappa vrir på startnøkkelen. Men i dag lyser det ikke foran ved rattet. Ikke en eneste lyd kommer fra motoren. Det er helt stille i garasjen vår.
 
-![](/assets/images/caravellen.jpg)
+![](/assets/images/caravellen.jpg)  
+_Foto: Christoffer Jore Christensen_
 
 Pappa sitter også stille nå. Han tenker seg om ser det ut til. Så snur han seg og sier:
 
