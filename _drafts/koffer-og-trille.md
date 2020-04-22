@@ -5,7 +5,8 @@ crop_image: true
 tags:
 - Barnebok
 title: Koffer og Trille
-excerpt: ''
+excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
+  Karamell som kalles Storebrum.
 image: "/assets/images/gutt.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
@@ -15,8 +16,8 @@ publish_date:
 weight: 2
 
 ---
-**  
-Storebrum trenger hjelp**
+  
+**Storebrum trenger hjelp**
 
 ![](/assets/images/gutt.jpg)
 
