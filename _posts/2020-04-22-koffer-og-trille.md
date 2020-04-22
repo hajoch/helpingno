@@ -9,7 +9,7 @@ title: Koffer og Trille
 excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
   Karamell som kalles Storebrum.
 image: "/assets/images/gutt.jpg"
-image_caption: ''
+image_caption: 'Illustrasjon: Anne Bakke'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
@@ -17,7 +17,6 @@ publish_date:
 weight: 5
 
 ---
-  
 **Storebrum trenger hjelp**
 
 ![](/assets/images/gutt.jpg)
@@ -150,6 +149,8 @@ Jeg smiler til pappa og sier:
 **Storebrum henter Trille.**
 
 ![](/assets/images/trille6.jpg)
+
+_Foto: Christoffer Jore Christensen_
 
 Vi er på langtur i Storebrum nå. Mamma kjører og hele familien er med. Vi har gledet oss lenge til denne turen. Storebrum kjører litt fortere enn vanlig. Kanskje fordi også Storebrum er ekstra spent i dag.
 
