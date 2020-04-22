@@ -195,3 +195,5 @@ Den første natten kommer Trille snikende opp i senga mi. Jeg stryker pelsen og 
 \- Mamma sier at du ikke får sove i sengen. I natt skal du få lov, men ingen må få vite det.
 
 ![](/assets/images/IMG_2757.JPG)
+
+_Foto Gunnar Christensen_
