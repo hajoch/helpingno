@@ -25,7 +25,7 @@ image_caption: 'Foto Gunnar Christensen : Yamarin 76 DC'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 8
 
 ---
 **YAMARIN 76 DC med Yamaha.**
