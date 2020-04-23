@@ -107,6 +107,9 @@ KNUT G. SOLBERG, SETESDØLEN
 
 ALBERT HENRIK MOHN, Bergen Arbeiderblad.
 
+![](/assets/images/debatt1-1.jpg)_  
+Foto Agderposten. Gunnar Christensen med første utgave av "Styrkeprøven"._
+
 **Link for nedlasting:**
 
 Last ned hele boken i [**pdf format**](http://www.helping.no/assets/docs/styrkeproven.pdf)**.** Høyreklikk på linken over og trykk **lagre mål som** i menyen som dukker opp. Størrelse: 1,43 mb. (Boken krever programmet Acrobat Reader som kan lastes ned gratis om den ikke er installert. Hvis du ikke har programmet kan du laste det ned [her](http://www.adobe.com/products/acrobat/readstep2.html).)
