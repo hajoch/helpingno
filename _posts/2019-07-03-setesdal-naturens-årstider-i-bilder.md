@@ -47,6 +47,8 @@ weight: 2
 
 ![](/assets/images/ab2011.1.jpg)
 
+![](/assets/images/grendi3.jpg)
+
 ![](/assets/images/ab12.jpg)
 
 ![](/assets/images/ab2011.0-2.jpg)
