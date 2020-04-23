@@ -41,6 +41,8 @@ Hvorfor Yamarin 76 DC når vi kunne velge en Ibiza 24 Touring? Vel, i utgangspun
 
 Under dekk er det god takhøyde slik at man sitter behagelig, og uten å måtte bøye hodet. 4 koøyer som åpnes enkelt, sikrer en god lufting. I tillegg er det god stuveplass. Fra cabinen er det en stikkøye som går bakover under dekk, og gir plass til to personer - fortrinnsvis mindreårige. Innredningen framstår med gjennomført høy kvalitet, dog ikke ekstragavant.
 
+![](/assets/images/76dc.2.jpg)
+
 **Daycruiser**  
 Dette er en daycruiser i ordets rette forstand. En god stor sittegruppe med stort delbart bord gir gode muligheter for sosialt samvær med servering av både kalde og varme retter - kjøleskap og effektiv kokeplate sikrer dette. Putene er gode å sitte på med behagelig vinkel til polstret ryggstøtter. Det er en dobbelstol foran ved rattet, slik at man også der kan ha en nær og sosial fellesskapsopplevelse i rolig fart.
 
