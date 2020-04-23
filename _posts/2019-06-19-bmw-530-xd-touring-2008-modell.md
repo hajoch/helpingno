@@ -24,6 +24,8 @@ BMW 530 XD Touring 2008 modell, bare navnet og betegnelsen skaper forventninger 
 
 Og det stemmer. Bilen har 235 sterke dieselhester under panseret og et dreiemoment på 500 nm, som produserer under en sportslig lydbilde av en treliters 6 sylindret kraftpakke fra Bayern. Fartsressursene er kolossale. 0 - 100 på 7,2 s - husk bilen veier nærmere 2 tonn. Og dette gjøres høyst uanstrengt, både hva gjelder for motor, drivverk og karosseri. Drivlinjen virker svært solid, gearkassen, en 6 trinns, håndterer fartsendringene raskt, umerkelig og elegant - minst like bra som VAG-konsernets såkalte trinnløse automatkasser.
 
+![](/assets/images/bmwo2.jpg)
+
 Karosseriet er svært vridningsstabilt og kombinert med en permanent firehjulsløsning (hhv 60% og 40 % bak og foran), går enhver kraftig akselrasjon høyst retningsstabilt og kontrollert. Det er kun trykket mot seteryggen som forteller om hvilke krefter som er utløst.
 
 Komforten er tilsvarende - toppscore - dog med en sportslig karakter. For enhver kjøreglad person er det svært tilfredsstillende å oppleve at seter, styring, drivlinje, fjæring, støtdemping henger sammen i en optimal harmoni - for til fulle å tilfredsstille sin sjåførs forventninger til et sådant BMW produkt.
