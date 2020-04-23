@@ -34,6 +34,8 @@ Kupeen er meget romslig og luftig. God plass i baksetet til tre voksne, både hv
 
 BMWs firehjulstrekk er permanent, og virker svært tilfredsstillende. Etter mange fjellturer hvor vi tidligere kunne ha problemer opp de siste kneikene, framstår disse nå som nesten flate! Jeg gledet meg første vinterturen opp på hytta for nettopp å teste systemet - og jeg ble nesten skuffet - det ble for enkelt, rett og slett. Hvor ble bakken av?
 
+![](/assets/images/bmwo1.jpg)
+
 Men er det så bare fryd og gammen? Neida, naturligvis ikke. BMWs Idrive er tungvinn i bruk - og lite intuitiv. Bruker man systemet sjeldent er det håpløst for ikke datakyndige å lære seg det. De nye modellene har visstnok blitt forbedret med hurtigtaster - og det er nødvendig.
 
 Klimaanlegget er et kapittel for seg. Dette må være den eneste bilen på markedet som med automatisk klimaanlegg må gå inn på idriven for å regulere det, i tillegg til da temperaturregulatorene på dashbordet. Ja, du leste riktig. I Idrive er det 11 ulike nivåer du må velge mellom, 5 varmegraderte nivåer, 5 kuldegraderte og en nøytral. Og dersom du ikke vet dette, da vil du merke at på varme sommerdager "virker ikke" automatikken, såfremt den da altså fremdeles er regulert i Idrive for kald vinter. Ingen andre biler jeg har kjørt har en slik uholdbar løsning. Det burde naturligvis holde å sette regulatoren på ønsket temperaturen, ferdig med det.
