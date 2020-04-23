@@ -25,7 +25,7 @@ image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
-publish_date: 2020-03-24T23:00:00.000+00:00
+publish_date: 2020-04-23 00:00:00 +0200
 weight: 8
 
 ---
