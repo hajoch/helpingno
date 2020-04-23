@@ -26,6 +26,8 @@ weight: 9
 ---
 **Presseomtale av: Albert Henrik Mohn**
 
+![](/assets/images/a.h.mohn.jpg-2.jpg)
+
 ![](/assets/images/6.jpg)
 
 I de siste årene har vi fått en rekke minoritetsgrupper i landet vårt. Pakistanere og vietnamesere er to av dem. Begge kommer fra sørlige breddegrader og er preget av religion og kultur temmelig forskjellig fra vår egen. Saklig informasjon om innflytterne kan bidra til å fjerne misforståelser og redusere de fremdeles isolering.
