@@ -26,7 +26,7 @@ Kontakt oss: E-post redaksjonen:
 
 **Slik annonserer du hos oss:**
 
-Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.   
+Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
 (Andre plasseringer kan vi diskutere.)
 
 Slik som disse annonsene nederst på en av våre økonomisider:  
@@ -36,7 +36,7 @@ www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)
 [https://coinweb.no](https://coinweb.no "https://coinweb.no")
 
 Her er 3 annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
-I tillegg velger du hvilken av våre ca. 200 sider du ønsker å annonsere på. Ønsker du samme annonse på flere sider gies rabatt etter avtale.
+I tillegg velger du hvilken av våre over 210 sider du ønsker å annonsere på. Ønsker du samme annonse på flere sider gies rabatt etter avtale.
 
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
