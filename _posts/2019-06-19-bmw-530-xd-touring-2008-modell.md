@@ -7,6 +7,8 @@ tags:
 - bil
 - SUV
 - BMW
+- stasjonsvogn
+- BMW 530 XD Touring stv
 title: BMW 530 XD Touring 4 WD 2008 modell
 excerpt: |-
   Bruktbil: Langtidstest - 4 år med:
