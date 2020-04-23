@@ -60,6 +60,8 @@ Dietten fungerer ved en kjemisk nedbrytelse. Den må ikke varieres eller erstatt
 
 Denne dietten skal brukes i 3 dager av gangen, på de 3 dagene vil man tape opp til 5 kg. Etter 3 dagers diett kan det igjen spises normalt, - men ikke meget. Etter 4 dager med alminnelig mat, starter man igjen med 3 dagers diett. Opp til 20 kg kan slankes på en måned påståes det.
 
+![](/assets/images/bar.jpg)
+
 #### **Stoffskifte-diett "oppskrift"**
 
 **Denne dietten varer i 13 dager, og er derfor hard, men effektiv. Dietten går ut på å endre ditt stoffskifte, hvilket medfører at du etter 13 dager kan spise normalt uten å legge på deg i de neste 2 år. Det er altså ikke en tradisjonell "sultekur", og virker derfor også etter diettens opphør.**
