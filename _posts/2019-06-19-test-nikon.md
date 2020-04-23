@@ -74,7 +74,7 @@ Vi har valgt en gummi-solblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes til
 
 **Helping hjelper deg med Nikon-modellene**
 
-![](https://wwww.helping.no/assets/images/nikond3100.jpg)
+![](https://wwww.helping.no/assets/images/nikond3100.jpg)![](/assets/images/nikond3100.jpg)
 
 De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine. Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.
 
