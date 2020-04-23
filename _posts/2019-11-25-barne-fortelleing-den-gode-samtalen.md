@@ -26,7 +26,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 2020-03-24T23:00:00.000+00:00
-weight: 10
+weight: 8
 
 ---
 Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Capsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
