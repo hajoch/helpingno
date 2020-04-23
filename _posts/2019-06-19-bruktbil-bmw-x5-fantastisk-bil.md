@@ -26,6 +26,8 @@ Dette er en fantastisk bil. En behagelig SUV med 211 hk diesel, men motoren er l
 
 En ny 7-trinns girkasse på automatgiret føles nesten som trinnløst gir slik at man knapt merker når bilen girer. Akselerasjonen skjer behagelig og kraftig i et jevnt trøkk hvilket er kvalitet.
 
+![](/assets/images/bmwx51.jpg)
+
 Bilen har Sportsinnstilling på giret, men det ble testet mest i "komfort". Sportsinnstillingen gir hardere fjæring og støtdemperne blir hardere. Da sitter bilen bedre på veien, men er mindre komfortabel ved at den ikke krenger så mye. Til slik kjøring er det ideelt at nakkestøttene kan justeres slik at hodet får sidestøtte. Samtidig kan sidestøtten også strammes til på seteryggen tilpasset den enkelte person.
 
 Bremsene er lette å dosere, jevne og fine. Bilen er bygd for hard kjøring og bremsene er dimensjonert for dette.
