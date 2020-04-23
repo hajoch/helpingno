@@ -100,5 +100,3 @@ Sliten og middelmådig fritidspark der vedlikeholdet var så som så. Et dårlig
 Dette er mer tivoli enn fritidspark og minner sånn sett mye om en større versjon av Tusenfryd i Norge m.h.p. tilbudet. Liseberg har imidlertid betydelig lengre tradisjoner som tivoli og har mye variert å by på.
 
 Liseberg har opp gjennom årene hatt en rekke ulykker med alvorlige personskader bl.a. den 14 juli 2008. Det er derfor spørsmål om denne fritidsparken tar sikkerhet på alvor eller som denne type underholdning har større ulykkesrisiko.
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
