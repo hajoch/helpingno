@@ -118,6 +118,8 @@ Mannen hilser på pappa. Ei dame kommer også ut av bilen. Hun åpner bakdøra o
 
 \- I Tvedestrand, svarer Lise.
 
+![](/assets/images/dove.gif)
+
 \- Det er langt borte. Da får jeg ikke se Lillebrum igjen. Jeg er så glad i han. Derfor er jeg trist nå.
 
 \- Vi skal reparere Lillebrum. Du kan komme på besøk å se selv, sier Lise.
