@@ -79,3 +79,6 @@ Selvstendig næringsdrivende, Militærkaptein i infanteriet
 Utdannet master i sammenliknende politikk fra Universitet i Bergen
 
 [**Andre bidragsytere og leserinnlegg**](https://helping.no/author/leserinnlegg)
+
+**Sponse oss?**  
+Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss på helping-magasinets konto **1506.28.29343**
