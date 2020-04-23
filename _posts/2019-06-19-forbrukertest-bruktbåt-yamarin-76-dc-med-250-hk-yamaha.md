@@ -59,6 +59,8 @@ Og overraskelsen var stor da dette gikk svært så udramatisk. Jeg la farten på
 
 Etter ca. 5 timers tur kom vi inn i smult farvann innenfor Drøbak. Vi la oss i ca 40 knop for å kjenne farten. Det var en like stødig og sikker opplevelse.
 
+![](/assets/images/Yan.76DC.1.jpg)
+
 **Skvalpesjø**  
 Indre Oslofjord er vel kjent for betydelig skvalpesjø, ikke minst på flotte ettermiddager med solgangsbris og endeløst mange båter i mer eller mindre for høy fart. Også dette takler Yamarinen avbalansert og rolig - knapt merkbart. Der andre båteiere beklager seg over urolig skvalpesjø klarer denne båten sjøene uten ubehag ombord.
 
