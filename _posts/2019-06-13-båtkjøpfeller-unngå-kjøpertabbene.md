@@ -35,7 +35,7 @@ Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i
 
 Hvilken båttype skal jeg velge? Gammel eller ny, stor eller liten båt? Standard "tilstands-test" på båter finnes ikke. Her er man helt avhengig av kunnskap, tillit og god vurderingsevne ved kjøp. Sparer du penger ved å kjøpe brukt? Undersøk alltid en bruktbåt grundig før kjøp: Sammenlikn med nypris og garanti. Få hjelp av fagmann om du ikke er motorkyndig. Har plastbåten plastpest? Tidligere skrogskader som ikke er fagmessig reparert? Finnes heftelser på båten som må sjekkes på Brønnøysundregisteret?
 
-![](/assets/images/b08.4.jpg)
+![](/assets/images/b08.4.jpg)![](/assets/images/nikon2.jpg)
 
 Prøv båten på sjøen om båttypen er ny for deg: Er den stabil i sjøen? Oppfører den seg slik du har forventet i sjøgang? Er det plass nok til det du trenger ombord? Prøv forskjellige båter på sjøen før du bestemmer deg. Det er på sjøen du skal bruke den. Der er det sjøegenskaper og ikke bare design som teller. Båtkjøp gjort på land kan gi overraskelser når båten sjøsettes. Du kjøper ikke en bil uten å prøve den: Hvorfor skulle du da kjøpe en båt uten å prøve den?
 
@@ -73,6 +73,8 @@ Motorseiler er for viderekommere. Du bør helst ha lært å seile i en mindre se
 "Båtførerprøven" er alltid en nyttig ballast for en båtfører. Men for en motorseiler er dette kurset særlig nyttig - for kan du ikke reglene for vikeplikt og ferdsel når du bauter i trangt farvann så blir du straks en mer usikker og farlig båtfører.
 
 ![](https://wwww.helping.no/assets/images/batmesse.jpg)
+
+![/assets/images/batmesse37.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/batmesse37.jpg)
 
 **Seajeep**  
 Seajeep er i skuddet og et stort antall av denne type båter er i omløp. Vær klar over at du kjøper en åpen båt når du velger en seajeep: En liten skjerm ved styreposisjonen gir ikke all verdens beskyttelse mot regn, vind og sjøsprøyt. Andre om bord har ingen slik beskyttelse. Er du glad i å bli våt og liker å kle deg godt på sjøen så er dette båten for deg. De fleste slike båter er selvlensene, men stol ikke på at dette betyr at du ikke trenger å se etter båten: Mange har fått en ubehagelig overraskelse når den selvlensende båten ligger under vann etter regnvær: Systemet med selvlens kan tette seg. En båt må alltid ha tilsyn selv om selvlens som regel sparer deg for å øse båten.
