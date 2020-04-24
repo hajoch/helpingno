@@ -57,6 +57,8 @@ I nesten alle religioner er det aller høyeste gode oppnåelig først etter død
 
 Nirvana er hinsides all logikk og tankeforståelse, men kan altså av den vise realiseres innenfor seg selv.
 
+![](/assets/images/buddha.jpg)
+
 **Veien til Nirvana**  
 Den veien som fører bort fra lidelsen og til Nirvana, kalles i buddhismen "middelveien" fordi den avverger to ekstremer: Den ene ekstremitet er søken etter lykke gjennom sansenes eller kroppens tilfredsstillelse. Den andre ekstremitet er søken etter lykke gjennom selvydmykelse eller ved forskjellige former for askese.
 
