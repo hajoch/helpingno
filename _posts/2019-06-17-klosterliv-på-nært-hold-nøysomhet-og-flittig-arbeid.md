@@ -33,6 +33,8 @@ Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klost
 
 ![](https://wwww.helping.no/assets/images/frankrikelite.jpg)
 
+![](/assets/images/frankrikelite.jpg)
+
 **Rekreasjon**  
 Mange nordmenn forestiller seg munker som alvorlige, andektige menn i upraktiske klær - bak lukkede dører, fjernt fra vår hverdag opptatt med bøker og bønn. Denne oppfatningen må revideres etter hvert som en blir mer kjent og fortrolig med klosterlivets mange sysler og funksjoner. Munkenes smittende gode humør og behagelige vesen gjør et besøk i Tamié til et hyggelig minne.
 
