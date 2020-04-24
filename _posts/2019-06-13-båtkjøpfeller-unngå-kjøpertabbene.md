@@ -41,7 +41,11 @@ Prøv båten på sjøen om båttypen er ny for deg: Er den stabil i sjøen? Oppf
 
 Uansett hvilen båt du velger så ta kurset "båtførerprøven". Kurset vil ikke bare gi deg en tryggere ferdsel på sjøen. Du får i tillegg billigere båtforsikring med "båtlappen".
 
-**Snekke**  
+**Snekke**
+
+![/assets/images/batmesse37.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/batmesse37.jpg)
+
+  
 Mange familier sverger til snekka. Den er stabil i sjøen og gir romslighet til overnatting og matlaging om bord. Såkaldt "hytte på sjøen".
 
 Snekkene er blitt forholdsvis dyre de senere årene. Dermed ser mange på snekker som er både 20 og 30 år gamle. Hvis den originale motoren fremdeles sitter i båter på denne alderen, er det klokt å ikke forvente for mye av denne motorens videre levetid: Er det bensin eller diesel så er over 20 år en tyngende alder uansett hvor mye selger skryter av driftssikkerhet og pålitelighet. Ta derfor en titt på hvilke priser en ny motor ligger på hvis du vurderer en så gammel snekke. Kalkuler inn i den prisen du er villig til å gi for båten at du kan komme til å oppleve et motorhavari i løpet av den tiden du har båten. Det er dessuten kostbart å reparer eldre motorer - og uansett hvor stor overhalingen er så vil det alltid være en gammel motor i båten den dagen du skal selge den.
