@@ -89,3 +89,5 @@ Problemet for norske båtkjøpere i dag er at de store motorprodusentene kjøper
 Et godt tips kan være å handle på høsten og vinteren da det er modellskifter. Utenom sesong er prisene ofte lavere på både nytt og brukt. I tillegg har forhandlerne da bedre tid til deg. Ofte finnes også gode pristilbud på båtmesser. Særlig hos produsenter som introduserer nye produkter på markedet. Uansett - bruk god tid på å sette deg inn i pris og kvalitet tilpasset ditt behov og unngå impulskjøp du angrer i etterhånd.
 
 Prøv båten med den motoren du ønsker før kjøp. Det er en helt annen følelse å oppleve den på vannet enn på en utstilling på land. Forhandler bør låne ut sikkerhets-sjekket redningsutstyr til det antall personer som skal prøve båten. Du følere deg i tillegg tryggere om du har tatt båtførerprøven før prøveturen.
+
+![](/assets/images/arend.03.jpg)
