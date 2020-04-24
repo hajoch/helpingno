@@ -25,7 +25,7 @@ image: "/assets/images/trille4.jpg"
 image_caption: Foto Christoffer Jore Christensen. Helping-maskoten skogskatten "Trille".
 categories:
 - _category/helse.md
-publish_date: 2019-08-29T22:00:00.000+00:00
+publish_date: 2020-04-24 00:00:00 +0200
 weight: 8
 
 ---
