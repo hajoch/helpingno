@@ -106,6 +106,8 @@ Sikkerheten er også avhengig av at du har det nødvendige sikkerhetsutstyr om b
 
 Tenk over hvordan du skal komme deg om bord i båten igjen hvis du faller over bord: Har båten badetrapp? Har motoren dødmannsbryter som du kopler til deg når du er alene i båten og som stopper båten om du faller overbord? Har små barn om bord tilsyn hele tiden? Små barn har falt over bord uten at voksne har merket det. Konsekvensene kan være brutale.
 
+![](/assets/images/b08.2.jpg)
+
 Båtliv for de fleste er ferie. Få kan tenke seg å tilbringe båtsesongen med tekniske problemer og en dårlig forberedt båt. Godt vedlikehold av båten er viktig. Se opp for skader på skroget når du kjøper båt. Også en plastbåt kan "råtne" hvis det over lengre tid trenger vann innenfor gelcoaten. Få derfor en fagmann til å se på motoren og båten før du handler. Det kan hjelpe deg unna de største kjøpertabbene.
 
 Godt vedlikehold av motoren samt lufting og brannslukking-sapparat er en god sikkerhet mot båtbrann. Sjekk alltid at pulverapparatet er i orden før bruk hver sesong. Brannvakta kan sjekke brannslukkings-apparatet i båten for deg. Brannslukkings-apparatet ombord bør sjekkes hvert år.
