@@ -60,6 +60,8 @@ Spis mest mat fra planter, minst kjøtt. Spis mer fisk enn kjøtt. Vær på vakt
 **Avfallsstoff**  
 La kroppen kvitte seg med avfallsstoffene. Et godt råd er å pusse tunga hver morgen. Belegget på tunga er avfallsstoffer kroppen skiller seg med når du sover. Å skylle dette belegget ned i magen igjen med morgen-kaffe er uheldig. Boken av Selvarajan Yesudian og Elisabeth Haich: "Yoga og Helse", (Fabritius 1965) viser til forskning i USA som hevder at belegget på tunga forsterker aldringsprosessen hvis det tilbakeføres til kroppen. Det er derfor viktig å kvitte seg med dette avfallsstoffet.
 
+![](/assets/images/healing2.jpg)
+
 **Mosjon**  
 Mosjoner oftere: Sykle til jobben? Gå i stedet for å ta bussen eller bilen. Ta trappen fremfor heisen. Fotturer i skogen er også god mentalhygiene. Gå heller en tur med venner enn å bli sittende på en pub etc..
 
