@@ -95,7 +95,7 @@ Service og muligheter for å få hjelp ved tekniske problemer i løpet av sesong
 **Sikkerhet er viktig**  
 Det farligste på sjøen er imidlertid uerfarne båtførere i motorsterke større båter. Det utrolige er at når du passerer 16 år kan du sette deg ved roret i en lystbåt med flere hundre hester uten noen form for kurs eller opplæring. Dette kan være en farlig kombinasjon på sjøen. Hvert år skjer dødsulykker ved for stor fart og mangel på kunnskap om ferdsel på sjøen. Derfor bør det være krav om båtførerprøve på sjøen med sterke motorer eller på båter som går over en viss fart. Særlig når farten og trafikken er stor er sikkerheten på sjøen avhengig av at vi kjenner sjøens trafikkregler og kan orientere oss i farvannet vi ferdes i. Her er båtsport-kartene viktige i ukjent farvann.
 
-![](https://wwww.helping.no/assets/images/ya32.jpg)
+![](https://wwww.helping.no/assets/images/ya32.jpg)![](/assets/images/ya33.jpg)
 
 CE-merke eller Veritas-godkjenning bør være på båten du kjøper. Da vet du at båten er testet med hensyn på flyteevne. Båtens flyteevne er avgjørende for sikkerheten til dem som er om bord.
 
