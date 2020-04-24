@@ -4,7 +4,8 @@ date: 2020-01-02T17:56:28.000+00:00
 crop_image: true
 tags: []
 title: Annonse på helping.no.
-excerpt: Ønsker du annonse hos oss - ta kontakt
+excerpt: "Vi har siden 2001 gitt deg gratis bøker og nyttige artikler. Du er velkommen
+  til å sponse vår virksomhet. \nØnsker du annonse hos oss - ta kontakt"
 image: "/assets/images/Basse (3).jpg"
 image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Nettstedet
   har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. Foto Jens
@@ -41,5 +42,5 @@ I tillegg velger du hvilken av våre over 210 sider du ønsker å annonsere på.
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
 Straks du har mottatt vår tilbakemelding, avtalt plasseringen mm mottar du faktura.  
-Helping-magasinets konto ved annonseinnbetaling mm  
+Helping-magasinets konto ved annonseinnbetaling, sponsing mm  
 konto no **1506.28.29343**
