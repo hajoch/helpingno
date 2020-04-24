@@ -84,6 +84,8 @@ Virkeligheten i Norge er ikke slik at forfattere kan velge og vrake blant forlag
 
 Forfatteren Gunnar Christensen er takknemlig for at er lite forlag som den gang het Ildsjelen ville ta på seg å gi ut boka selv om den ikke er en alternativ bok.
 
+**NRK-intervju med forfatteren da boken kom ut:**
+
 {% include media/audioplayer.html src="assets/audio/VOC022.mp3" %}
 
 **Hvorfor gratis bøker?**  
