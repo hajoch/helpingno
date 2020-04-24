@@ -56,9 +56,7 @@ Innenbordsmotor i båt bør helst være diesel av sikkerhetsmessige grunner. Men
 
 Tradisjonelt har snekker fortrengerskrog som ligger dypt i vannet og fortrenger mye vann. Et fortrengerskrog kommer sjelden opp i flere knop enn skroget er langt. Er snekka 7 meter er farten ca. 7 knop. Fortrengerskrog er oftest stødig og har godt sig, men har forholdsvis lang stoppedistanse i godt sig.
 
-Flere moderne snekker er halvplanere. Det gir større fartsmuligheter enn ved et fortrengerskrog. En planene båt fungere som et fortrengerskrog på sakte fart, men større fart gjør at det planende skroget løfter seg opp i vannet med større fart. Noen snekker er planede, men de fleste moderne snekker er halvplanende. Utviklingen har gått i retning av planende og halvplanenede snekkeskrog med større fart. Brukte snekker med fortrengerskrog er derfor nå de rimeligste.
-
-![](https://wwww.helping.no/assets/images/nikon1.jpg)
+![](https://wwww.helping.no/assets/images/nikon1.jpg)![](/assets/images/abat.09.JPG)
 
 **Daycruisere og Cabincruisere**  
 Daycruisere og Cabincruisere har ofte bensin innenbords motor med propellaksling eller med drev. Vi har sett mange slike båter eksplodere og brenne opp på sjøen: Særlig merket Draco har vært ille ute med mange båtbranner ifølge oppslag i media. I tillegg har eldre bensin innenbordsmotorer høyt bensinforbruk.
