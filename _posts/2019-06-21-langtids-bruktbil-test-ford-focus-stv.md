@@ -28,6 +28,8 @@ Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen
 
 Bilen testes og oppdateres fortløpende på helping.
 
+![](/assets/images/focus2015.jpg)
+
 ![](https://wwww.helping.no/assets/images/focus155.jpg)
 
 Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
