@@ -51,7 +51,7 @@ Det kan være vanskelig å orientere seg i markedet av påhengsmotorer. Når vi 
 **Følelser**  
 Det er i tillegg mye følelser og synsing om påhengsmotorer og mange kjøper motorer ut i fra hvilke tidligere erfaringer de har med motorene. At emnet påhengsmotor engasjerer og er følelsesladd har vi i helping.no merket på flere tilbakemelding fra leserne våre. Aldri har et enkelt tema på helping.no fått så mange tilbakemeldinger som temaet "påhengsmotorer".
 
-![](https://wwww.helping.no/assets/images/nikon2.jpg)
+![](https://wwww.helping.no/assets/images/nikon2.jpg)![](/assets/images/nikon2.jpg)
 
 **Vi håper imidlertid følgende oversikt kan være til hjelp.**
 
