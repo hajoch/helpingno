@@ -36,7 +36,7 @@ Det obligatoriske kravet til båtførerbevis gjelder båtførere som er født et
 
 Om små joller og mindreårige på sjøen.
 
-![](/assets/images/fun3.jpg)![](/assets/images/fun3.jpg)
+![](/assets/images/fun3.jpg)
 
 Sjøfartsdirektoratet svare slik på vårt spørsmål om småjoller og mindreårige  
 etter at båtførerprøven er innført:  
