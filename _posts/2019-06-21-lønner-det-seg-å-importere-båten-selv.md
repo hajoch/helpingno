@@ -38,6 +38,8 @@ Norske avgifter på import sjekk: [www.toll.no](http://www.toll.no/)
 
 **Importere båt fra USA?**
 
+![](/assets/images/bayliner177.jpg)
+
 Importeres båten direkte fra USA finnes flere kjente merker.Et regne-eksempel:  
 En beregning viser at det kan være mye å spare på egenimport av en ny Bayliner 175 bowrider  
 ([http://www.bayliner.com/_usca/index.php?gclid=](http://www.bayliner.com/_usca/index.php?gclid= "http://www.bayliner.com/_usca/index.php?gclid=")) i forhold til forhandlerpris i Norge hvor prisen er ca 200.000 kroner. I USA koster denne båten ca. 10.000 US$ fra produsent.. Med frakt, CE-merking, moms og hk-avgift innregnet vil båten bli billigere.
