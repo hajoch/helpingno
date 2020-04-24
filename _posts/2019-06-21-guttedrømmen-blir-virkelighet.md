@@ -28,7 +28,7 @@ Bilen har fått sitt navn etter en amerikansk hestetype. Denne hestetypen er et 
 
 Når du kjører rundt i denne bilen øker selvtilliten. Overalt møter man vinkende, gispende og jublende glade mennesker som elsker bilen din. Mustangen vekker utrolig oppmerksomhet med sine klassiske fartsstriper, sitt herlige design og brummende V8'er, spesielt på norske veier som ellers er fylt opp med kjedelige stasjonsvogner og flerbruksbiler ikledd mørke farger.
 
-![](https://wwww.helping.no/assets/images/mustang3.jpg)
+![](https://wwww.helping.no/assets/images/mustang3.jpg)![](/assets/images/mustang3.jpg)
 
 _Mustangens interiør er av gammelt design og bringer deg tiår tilbake i tid. Det er enkelt, men veldig smakfullt og lekkert. Dette retro-interiøret gir følelsen av at dette er en gammel bil, men på en god måte._
 
