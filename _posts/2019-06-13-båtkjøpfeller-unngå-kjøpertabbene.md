@@ -80,9 +80,12 @@ Motorseiler er for viderekommere. Du bør helst ha lært å seile i en mindre se
 Seajeep er i skuddet og et stort antall av denne type båter er i omløp. Vær klar over at du kjøper en åpen båt når du velger en seajeep: En liten skjerm ved styreposisjonen gir ikke all verdens beskyttelse mot regn, vind og sjøsprøyt. Andre om bord har ingen slik beskyttelse. Er du glad i å bli våt og liker å kle deg godt på sjøen så er dette båten for deg. De fleste slike båter er selvlensene, men stol ikke på at dette betyr at du ikke trenger å se etter båten: Mange har fått en ubehagelig overraskelse når den selvlensende båten ligger under vann etter regnvær: Systemet med selvlens kan tette seg. En båt må alltid ha tilsyn selv om selvlens som regel sparer deg for å øse båten.
 
 **Bowrider**  
-Bowrider heter en ny og populær båttype på markedet: Den er en krysning mellom selvlensende seajeep og en daycruiser. Her får du oftest seajeepens selvlensende løsning og samtidig cabincruiserens lune vindskjerm og kalesje. En åpen båt med 2 til 3 sitteplasser foran vindskjermen og en daycruiser med kalesje bak skjermen. En ypperlig familiebåt. Se [test bowrider](http://helping.no/bow.htm).
+Bowrider heter en ny og populær båttype på markedet: Den er en krysning mellom selvlensende seajeep og en daycruiser. Her får du oftest seajeepens selvlensende løsning og samtidig cabincruiserens lune vindskjerm og kalesje. En åpen båt med 2 til 3 sitteplasser foran vindskjermen og en daycruiser med kalesje bak skjermen. En ypperlig familiebåt. 
 
-**Joller**  
+**Joller**
+
+![](/assets/images/b08.1.jpg)  
+  
 Joller er som oftest åpne båter med påhengsmotor. Noen av dem er selvlensende og de fleste er bygd for å plane med forholdsvis liten motor. Dette er en rimelig, lett og enkel båt for dem som ikke ønsker å legge mye penger i en båt, men trenger en båt til hytta eller som en lettstelt båt til badeturer eller fisketurer. Men det er en åpen båt som egner seg best i godt vær. Sjekk at båten har CE-merke eller er Veritasgodkjent. Båtens flyteevne er avgjørende for sikkerheten til dem som er om bord. Det finnes en rekke "hjemmelagede" konstruksjoner på markedet - noen av dem har dårlig flyteevne.  
 Barn sverger til små planende joller med opp til 9,9-hk. Ofte er motoren trimmet opp til 15 hk. Dette har sammenheng med aldersgrensen på 16 år for båtførere og motorstyrke. Det mange ikke helt får med seg er at det også er en fartsgrense på sjøen koplet sammen med denne aldersgrensen. Ikke send barn ut i ei jolle som ikke har godkjent sikkerhet.
 
