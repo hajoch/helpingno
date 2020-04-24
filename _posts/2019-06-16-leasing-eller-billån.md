@@ -18,7 +18,7 @@ excerpt: Det er sensommer og finvær. DB "Bjoren" glir stille på Byglands-fjord
   Her er ingen andre båter på fjorden nå. Det gjør dette til en magisk og vakker opplevelse
   jeg ikke har opplevd maken til. Det er som en meditasjon på fjorden.
 image: "/assets/images/bjoren.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
 publish_date: 
@@ -51,3 +51,5 @@ Rundt 1970 startet en aksjon for å berge det som var igjen av båten og få den
 Som verdens eneste, vedfyrte dampbåt i rutetrafikk er den en unik attraksjon for turister og fastboende. I tillegg til rutetrafikken, gjør også "Bjoren" er rekke charterturer med foreninger, firmaer og andre grupper.
 
 Unn deg denne meditative sommer-reisen.
+
+![](/assets/images/bjoren-1.jpg)
