@@ -27,7 +27,7 @@ image: "/assets/images/healing2.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date: 2019-12-11T17:05:48.000+00:00
+publish_date: 
 weight: 3
 
 ---
