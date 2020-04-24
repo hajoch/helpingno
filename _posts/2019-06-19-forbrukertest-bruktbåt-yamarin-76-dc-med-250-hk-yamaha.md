@@ -33,6 +33,8 @@ weight: 8
 **Tekniske data testbåt:**  
 Lengde 7,52 m. Bredde 2,60 m. Vekt båt 1500 kg. Max personer: 8 Motorstyrke 150 - 300 hk. Veil utsalgspris med 250 hk Yamaha V6 3,4 liter 4T. ca. kr. 700.000,- i 2007. Vekt motor 280 kg.
 
+![/assets/images/ya32.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/ya32.jpg)
+
 **Båten:**  
 Dessverre ble sommeren 2007 ikke det noen håpet, aller minst for nybakte båteiere med store forventninger til mange hyggestunder om bord. Lkevel, noen turer fikk vi - og båten ble vi godt kjent med i løpet av sommerene
 
