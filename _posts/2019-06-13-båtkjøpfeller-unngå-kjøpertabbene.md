@@ -74,11 +74,7 @@ Gangtid er imidlertid ikke alltid den beste indikasjon på om en innenbords bruk
 **Motorseiler**  
 Motorseiler er for viderekommere. Du bør helst ha lært å seile i en mindre seiljolle før du kjøper en motorseiler. Det er "et liv på skakke" hvis vinden er god. Da må du være klar over kraften i bommen når du bauter opp mot vinden. Flere erfarne seilere har slått seg helseløs av bommen i god vind. Seil er et stillferdig og vakket driftsmiddel sjøen på: Slippe motorduren og høre vinden i seila og vannet mot skroget. De fleste slike båter har en liten hjelpemotor, men seil er "hovedmotoren" og vinden er billig og miljøvennlig "drivstoff".
 
-"Båtførerprøven" er alltid en nyttig ballast for en båtfører. Men for en motorseiler er dette kurset særlig nyttig - for kan du ikke reglene for vikeplikt og ferdsel når du bauter i trangt farvann så blir du straks en mer usikker og farlig båtfører.
-
 ![](https://wwww.helping.no/assets/images/batmesse.jpg)
-
-![/assets/images/batmesse37.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/batmesse37.jpg)
 
 **Seajeep**  
 Seajeep er i skuddet og et stort antall av denne type båter er i omløp. Vær klar over at du kjøper en åpen båt når du velger en seajeep: En liten skjerm ved styreposisjonen gir ikke all verdens beskyttelse mot regn, vind og sjøsprøyt. Andre om bord har ingen slik beskyttelse. Er du glad i å bli våt og liker å kle deg godt på sjøen så er dette båten for deg. De fleste slike båter er selvlensene, men stol ikke på at dette betyr at du ikke trenger å se etter båten: Mange har fått en ubehagelig overraskelse når den selvlensende båten ligger under vann etter regnvær: Systemet med selvlens kan tette seg. En båt må alltid ha tilsyn selv om selvlens som regel sparer deg for å øse båten.
