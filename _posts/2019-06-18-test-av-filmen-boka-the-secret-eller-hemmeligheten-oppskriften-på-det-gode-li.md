@@ -27,7 +27,7 @@ image: "/assets/images/healing2.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
-publish_date: 2019-12-11 18:05:48 +0100
+publish_date: 2019-12-11T17:05:48.000+00:00
 weight: 3
 
 ---
@@ -57,9 +57,8 @@ Mange vil kanskje reagere på at de nå må anstrenge seg på å kontrollere tan
 
 Siden loven om tiltrekning virker kontinuerlig er det viktig å bli klar over hva som har manifestert seg i ditt liv til nå og hva du fremover kan gjøre for å bedre ditt liv. Siden loven om tiltrekning er like treffsikker som loven om tyngdekraften, er det av stor betydning for deg å bli klar over den for å kunne bedre din virkelighet. Dette innebærer ikke at du skal styre tankene, men at du skal øke din bevissthet omkring hva du har ditt hovedfokus på i ditt videre liv.
 
-**Den magiske Takknemlighet-teknikken**
-
-![](/assets/images/stein.jpg)
+**Den magiske Takknemlighet-teknikken  
+**![](/assets/images/stein.jpg)
 
 Gå til stranden eller et annet sted hvor du finner en fin liten stein. Plukk den opp og ha den i lomma fremover. Hver gang du ser på, berører eller tar ut denne steinen av lomma - f.eks. hver kveld - så tenk på noe du er takknemlig for. Det kan være noe positivt du har, noe positivt du har opplevd eller hva som helst som du er takknemlig for og som du gjerne skulle hatt mer av.
 
