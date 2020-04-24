@@ -85,6 +85,8 @@ Er du veldig fiksert på slanking og overvekt kan du bli så fiksert på mat at 
 
 **Det viktigste er å ha det godt med seg selv. Livet er ikke en cat-walk.**
 
+![](/assets/images/winter-3.jpg)
+
 Tankene dine har stor makt. Bruk dem derfor på en konstruktiv måte og du kan hjelpe deg selv med enkle øvelser: Tenk positivt om deg selv: Vær god mot deg selv. Ikke terp på at du er overvektig i dine daglige tanker. Ikke snakk om vektproblemer i dagliglivet. Ha derimot fokus på at du blir slankere for hver dag: Si til deg selv: "For hver dag blir jeg slankere og slankere" og se for deg at du virkelig er blitt slankere. Ikke tenk på overvekt: Fokuser på sluttresultatet: Nemlig at du ER slank. Dette er på mange måter å omprogrammere hjernen.
 
 Det handler om psykologi og det å gi energi til det du ønsker deg i stedet for det du ikke ønsker deg: Visualiser deg selv som slank.
