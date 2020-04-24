@@ -18,7 +18,7 @@ image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-03-27 00:00:00 +0100
+publish_date: 2020-03-26T23:00:00.000+00:00
 weight: 3
 
 ---
@@ -81,7 +81,8 @@ Neste bil blir av den grunn ikke en Ford.
 **TILBAKEBLIKK:  
 Ford Focus 2013: Bedre enn forventet**
 
-\**![](https://wwww.helping.no/assets/images/focus1.jpg)
+![](/assets/images/focus1.jpg)  
+![](https://wwww.helping.no/assets/images/focus1.jpg)
 
 Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)  
 Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
