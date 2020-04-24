@@ -104,3 +104,5 @@ Denne takknemlig-hets-teknikken skaper positivitet som er en viktig drivkraft i 
 Vær skeptisk til alle slankekurer som lover raske resultater.
 
 Viktigst av alt etter enhver form for slankekur er å bedre dine kostholdsvaner i forhold til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves.
+
+![](/assets/images/skulptur.jpg)
