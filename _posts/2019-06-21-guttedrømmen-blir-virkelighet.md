@@ -45,3 +45,5 @@ Når du så vrir om nøklen brummer umiddelbart 425 ville mustang hester som er 
 Det tar i likhet med mange andre biler litt tid å bli helt komfortabel med Mustangen. Blant annet er bilens girspak er hardt å gire med, spesielt i den første prøveturen på grunn ulikheten fra en vanlig personbil, men om litt føles også denne perfekt ut. Det er først etter man er kommet over ulikhetene fra vanlige biler og frykten for å skade en slik dyr og kraftfull bil at man virkelig kan nyte Mustangen. Nyte den brutale og eksplosive akselerasjon, den høylytte herlige amerikanske åttesylindrede motorduren og rett og slett hele følelsen ved å kjøre bilen. Etter å ha kjørt denne bilen sitter jeg igjen med en øresus og en opplevelse som har brent seg inn i minnet mitt for evig tid.
 
 Mustangen er en bil som skiller seg ut fra mengden.
+
+![](/assets/images/mustang7.jpg)
