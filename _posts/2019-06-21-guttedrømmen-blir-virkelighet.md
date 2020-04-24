@@ -9,6 +9,10 @@ tags:
 - Biltest
 - bruktbiltest
 - amerikansk Ford
+- V8
+- amcar
+- bil
+- trimmet V8
 title: Guttedrømmen blir virkelighet
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
