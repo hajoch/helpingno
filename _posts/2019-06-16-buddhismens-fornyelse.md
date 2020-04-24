@@ -48,6 +48,8 @@ Mahayana-buddhismen har tradisjonelt stått sterkest i China, Taiwan, Vietnam, M
 
 Selv om den teologiske og filosofiske forskjellen mellom Theravada og Mahayana kan virke stor, så dominerer enhetstanken i den Buddhistiske verden. For eksempel har buddhistene hatt en rekke verdenskongresser hvor det meste av den buddhistiske verden har vært representert.
 
+![](/assets/images/buddha.jpg)
+
 **20.de århundres utvikling i Theravadalandene**.
 
 Religionen har klart å til passe seg skiftende samfunnsforhold.
