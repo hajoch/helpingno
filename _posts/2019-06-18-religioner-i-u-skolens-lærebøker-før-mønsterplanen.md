@@ -24,7 +24,7 @@ publish_date:
 weight: 9
 
 ---
-**Presseomtale av: Albert Henrik Mohn**
+**Presseomtale av: Albert Henrik Mohn, NRKs tidligere Moskva korrespondent, krigs-reporter, forfatter mm..**
 
 ![](/assets/images/a.h.mohn.jpg-2.jpg)
 
