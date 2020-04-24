@@ -14,7 +14,7 @@ title: Øvelseskjøring med bil - førerkortopplæring
 excerpt: '"Øvelse gjør mester" - sånn er det med alt, også øvelseskjøring. Den eneste
   måten å bli en trygg og god sjåfør på er å ha erfaring. Det er viktig å begynne
   med øvelseskjøringen så snart sjansen byr seg, nemlig når man fyller seksten år.'
-image: "/assets/images/veteran23-1.jpg"
+image: "/assets/images/bil.1.jpg"
 image_caption: ''
 categories:
 - _category/bil.md
