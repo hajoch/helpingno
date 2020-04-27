@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Andre bidragsytere og leserinnlegg
-image: "/assets/images/Basse (3).jpg"
+image: "/assets/images/Basse (4).jpg"
 
 ---
 
