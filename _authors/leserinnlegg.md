@@ -14,4 +14,5 @@ Breit Anfinsen - barnetegner
 Ellen Marie Christensen - mat  
 Albert Henrik Mohn, NRKs tidligere Moskva korrespondent  
 Edle Bugge - journalist mat  
-Julie Jørgensen - journalist økonomi
+Julie Jørgensen - journalist økonomi  
+Hans Olsen - innlegg
