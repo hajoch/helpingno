@@ -15,4 +15,5 @@ Ellen Marie Christensen - mat
 Albert Henrik Mohn, NRKs tidligere Moskva korrespondent  
 Edle Bugge - journalist mat  
 Julie Jørgensen - journalist økonomi  
-Hans Olsen - innlegg
+Hans Olsen - innlegg  
+May-Lill Thorkelsson, - innlegg
