@@ -85,11 +85,11 @@ Selgere smiler lurt i den grå barten, tørker svetten av pannen og vinker meg f
 
 Stranden er det største turistmålet. Langstrakte til tider forblåste sandstrender med en og annen klatt fra kamelene som trafikkerer forbi med tilbud om rideturer.
 
-?Spesiell pis for deg ?.  
-Teppeselgere dukker opp mellom sanddynene, bretter ut handknyttede tepper:  
+\- Spesiell pris for deg ?.  
+Teppeselgere dukker opp mellom sanddynene, bretter ut håndknyttede tepper:  
 \- Kjenn på kvaliteten.Jeg slår av ti dinar på prisen.
 
-En smurning solbadolje sener dukker appelsinselgeren opp med bøtta full av nyhøstet fukt med blader.  
+En smurning solbadolje sener dukker appelsinselgeren opp med bøtta full av nyhøstet frukt med blader.  
 En kamelfører kommer mot meg.  
 Smiler høflig og peker på blondina i reisefølget:  
 \- Jeg byr deg to kameler for henne!  
