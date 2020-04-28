@@ -55,13 +55,13 @@ I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonel
 I stedet for plast som fuktsperre brukes en spesialutviklet papp som den gang kalles Pades som nå er erstattet av damprens av ulike typer. Pades og Cellulose isolasjon markedsføres som en totalløsning. Damprens er et produkt som "puster", holder tett for fukt samtidig og som er et bedre alternativ enn plast som fuktsperre.
 
 **Branntest**  
-Vi ble imidlertid betenkt etter å ha testet flere isolasjonstyper på bålet: Testen gikk ut på å legge en bit av hver type isolasjon på et bål for å teste hvor fort de brenner opp: Dette fordi brannsikkerheten er viktig når soveplassene skal være i loftsetasjen. Både Glava og Cellulose brant fort opp på bålet. Rockwool brant ikke opp fordi det ikke kan brenne. Det betyr i praksis dyrebare minutter til å komme seg ut hvis bygget skulle brenne om natten mens familien ligger og sover. Samtidig er Rockwool testet av Norges astma og allergiforbund og funnet å være et rent byggemateriale med hensyn på inneklima.
+Vi ble imidlertid betenkt etter å ha testet flere isolasjonstyper på bålet: Testen gikk ut på å legge en bit av hver type isolasjon på et bål for å teste hvor fort de brenner opp: Dette fordi brannsikkerheten er viktig når soveplassene skal være i loftsetasjen. Vi hadde kun tilgang på Glava og Rockwool. Glava brant fort opp på bålet. Rockwool brant ikke opp fordi det ikke kan brenne. Det betyr i praksis dyrebare minutter til å komme seg ut hvis bygget skulle brenne om natten mens familien ligger og sover. Samtidig er Rockwool testet av Norges astma og allergiforbund og funnet å være et rent byggemateriale med hensyn på inneklima.
 
 **Versting**  
 Glava Isolasjon - også kalt glassvatt - er og har vært en versting med hensyn på inneklima siden dette produktet kom på markedet på 1950-tallet. Vi i helping.no har fått rapporter fra en rekke familier som har måttet rive alle vegger i huset og erstatte Glava med Rockwool etter at barna har utviklet astma. En meget kostbar reparasjon. Straks Glavaen er borte blir barna bedre, får vi opplyst. Men husk å støvsuge de siste partiklene bort etter at Glavaen er tatt ut. På dagens marked koster Rockwool og Glave det samme: Det er derfor en gåte for oss i helping.no at Glava fremdeles finnes på markedet.
 
 **Rockwool**  
-Vi valgte å isolere bygget vårt med Rockwool og brukte Pades som fuktsperre. Vi var i kontakt med leverandører av Pades på forhånd, men disse mente Pades bare kunne brukes sammen med Celluloseisolasjon. Vi tok likevel sjansen den gang - og etter mer enn 10 år med to hus bygget med denne kombinasjonen av Rockwool og Pades er vi svært godt fornøyd med denne kombinasjonen. Kun våtrom som badet har plast fuktsperre.
+Vi valgte å isolere bygget vårt med Rockwool og brukte Pades som fuktsperre. Vi var i kontakt med leverandører av Pades på forhånd, men disse mente Pades bare kunne brukes sammen med Celluloseisolasjon. Vi tok likevel sjansen den gang - og etter mer enn 10 år med to hus bygget med denne kombinasjonen av Rockwool og Pades (nå dampsperre) er vi svært godt fornøyd med denne kombinasjonen. Kun våtrom som badet har plast fuktsperre.
 
 **Furu**  
 Vi Installerte også ventiler i alle rom og brukte ubehandlet furupanel, gips eller avgassfrie plater. Ubehandlet heltrefurupanlel ble brukt i både tak og vegger.
@@ -69,10 +69,10 @@ Vi Installerte også ventiler i alle rom og brukte ubehandlet furupanel, gips el
 Furugulvet ble lakkert med en tyskprodusert miljølakk som skulle påføres i tre strøk. Dette ble byggets eneste store skuffelse. Da det tredje laget var ferdig viste det seg at lakken ikke ville tørke. Selv ikke etter flere års bruk var det helt gjennom tørt. Det dannet en klissete overflate som trakk til seg mye skitt og gjorde gulvene stygge og umulige å få rene. Løsningen var å slipe ned alle gulvene på nytt og påføre oljebassert lakk i flere strøk. En annen løsning kunne vært å ha furugulvet ubehandlet, men dette gjør gulvet noe mer besværlig å rengjøre.
 
 **Kledning og tak**  
-Vi valgte liggende kledning. Utvendig behandling av kledning ble gjort med vanlig oljedekkbeis. Taket fikk enkeltkrummede teglstein. Takrenner ble kjøpt i plast selv om stål er best. Dette fordi bygget var nær sjøen og saltvann i luften kan ruste metalltakrenner.
+Vi valgte liggende kledning. Utvendig behandling av kledning ble gjort med vanlig olje-dekkbeis. Taket fikk enkeltkrummede teglstein. Takrenner ble kjøpt i plast selv om stål er best. Dette fordi bygget var nær sjøen og saltvann i luften kan ruste metall-takrenner.
 
 **Helse og økonomi**  
-Astmapasienter har vært på lengre besøk i bygget: Etter to til tre uker er plagene borte. Straks de kommer tilbake til sitt eget hus er astmaplagene tilbake igjen. Dette illustrerer inneklimaets berydning.
+Astmapasienter har vært på lengre besøk i bygget: Etter to til tre uker er plagene borte. Straks de kommer tilbake til sitt eget hus er astmaplagene tilbake igjen. Dette illustrerer inneklimaets betydning.
 
 Det er god økonomi i å kjøpe sunne materialer til huset: Da trenger man heller ikke bekymre seg for at en ombygging senere vil gi problemer med at deler av huset er spesialavfall ved mulig riving. Spesialavfall blir som kjent stadig dyrere å bli kvitt fremover ved at avgifter på slikt er stigende.
 
