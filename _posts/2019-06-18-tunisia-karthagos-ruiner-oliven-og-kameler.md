@@ -111,5 +111,3 @@ Dette er ingen spøk. Mannen mener alvor. Og om han får ett håndtrykk nå så 
 ###### Les alltid UDs oppdaterte reiseråd før du reiser:
 
 [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
