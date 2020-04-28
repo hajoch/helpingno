@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-22 17:36:26 +0200
+date: 2019-06-22T15:36:26.000+00:00
 crop_image: true
 tags:
 - bolig
@@ -21,7 +21,7 @@ image_caption: "Illustrasjonsfoto Gunnar Christensen. \nMotiv fra Merdø ved Are
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2019-08-30 00:00:00 +0200
+publish_date: 2019-08-29T22:00:00.000+00:00
 weight: 5
 
 ---
@@ -43,14 +43,16 @@ Fra gammelt av observerte folk buskapen før de bygde: Der dyrene la seg ned for
 Det ble ikke sprengt på denne tomten fordi spregning kan endre løpet for vannårer. Grunnmur ble støpt i stedet for sokkelbetong. Dette fordi en liten krypkjeller under bygget ga plass til mye: Både vannpumpe fra borrebrønn, samt feierluke og oppsamlingsbeholder til biodo med uttak samt redskapsbod.
 
 **Arkitekt**  
-Arkitektarbeidet sto for tur. Vi kontaktet en Gaia-arkitekt som er spesialist på sunne hus. Vi ba om å få en vurdering av hva et ferdig tegnet bygg ville koste på tomten. Vi fikk til svar at arkitekten hadde et prosjekt i gang like i nærheten og kunne derfor lett svinge innom vår tomt og gi et tilbud uten at det ville koste oss noe. Befaring skjedde. Etter besøket fikk vi en solid, oppblåst regning på befaring, usannsynlig høye reisegodtgjørelser og et oppblåst utkast til hva det ville koste videre i prosessen å tegne huset. Vi så straks at dette var en arkitekt med et ekstraordinært næringsvett som var ute etter å tyne makismalt ut av vårt lille bygeprosjekt. Og han var i tillegg meget besværlig å bli kvitt.
+Arkitektarbeidet sto for tur. Vi kontaktet en Gaia-arkitekt som er spesialist på sunne hus. Vi ba om å få en vurdering av hva et ferdig tegnet bygg ville koste på tomten. Vi fikk til svar at arkitekten hadde et prosjekt i gang like i nærheten og kunne derfor lett svinge innom vår tomt og gi et tilbud uten at det ville koste oss noe. Befaring skjedde. Etter besøket fikk vi en solid, oppblåst regning på befaring, usannsynlig høye reisegodtgjørelser og et oppblåst utkast til hva det ville koste videre i prosessen å tegne huset. Vi så straks at dette var en arkitekt med et ekstraordinært næringsvett som var ute etter å tyne maksimalt ut av vårt lille bygeprosjekt. Og han var i tillegg meget besværlig å bli kvitt.
 
-Vi tegnet selv hytta i samarbeid med byggmester. 68m2 grunnflate med loft til soveplasser. Et bindingsverkhus der alle byggematerialer ble nøye vurdert. Boken "De siste syke hus" av Bjørn Berge var her svært nyttig.
+Vi tegnet selv hytta i samarbeid med byggmester. 68 m2 grunnflate med loft til soveplasser. Et bindingsverkhus der alle byggematerialer ble nøye vurdert. Boken "De siste syke hus" av Bjørn Berge var her svært nyttig.
 
 **Isolasjon**  
 Inneklima i et bygg er viktig. Dårlig inneklima gir helseplager. Hvordan huset bygges er derfor av den aller største betydning. Dette fordi feil materialvalg og byggeteknikk kan gi deg og din familie alvorlige helseplager som astma og allergi for å ta et nærliggende eksempel. En rekke bøker ble lest forut for planleggingen (se oversikt under).
 
-I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonelle isolasjonsmatter. Dette er en form for isolasjon laget av papir og som sprøytes inn i veggene etter at ytter- og innervegger er på plass. I stedet for plast som fuktsperre brukes en spesialutviklet papp som kalles Pades. Pades og Cellulose isolasjon markedsføres som en totalløsning. Pades er et godt naturprodukt som "puster", holder tett for fukt samtidig og som er et bedre alternativ enn plast som fuktsperre.
+I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonelle isolasjons matter. Dette er en form for isolasjon laget av papir og som sprøytes inn i veggene etter at ytter- og innervegger er på plass. Mer kunnskap om celluloseisolasjon bl.a. på [https://www.cbinorge.no/om-cbi-norge](https://www.cbinorge.no/om-cbi-norge "https://www.cbinorge.no/om-cbi-norge")  
+  
+I stedet for plast som fuktsperre brukes en spesialutviklet papp som den gang kalles Pades som nå er erstattet av damprens av ulike typer. Pades og Cellulose isolasjon markedsføres som en totalløsning. Damprens er et produkt som "puster", holder tett for fukt samtidig og som er et bedre alternativ enn plast som fuktsperre.
 
 **Branntest**  
 Vi ble imidlertid betenkt etter å ha testet flere isolasjonstyper på bålet: Testen gikk ut på å legge en bit av hver type isolasjon på et bål for å teste hvor fort de brenner opp: Dette fordi brannsikkerheten er viktig når soveplassene skal være i loftsetasjen. Både Glava og Cellulose brant fort opp på bålet. Rockwool brant ikke opp fordi det ikke kan brenne. Det betyr i praksis dyrebare minutter til å komme seg ut hvis bygget skulle brenne om natten mens familien ligger og sover. Samtidig er Rockwool testet av Norges astma og allergiforbund og funnet å være et rent byggemateriale med hensyn på inneklima.
