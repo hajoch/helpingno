@@ -22,7 +22,7 @@ image: "/assets/images/jan.17 (1).jpg"
 image_caption: 'Foto: Gunnar Christensen. Motiv fra Revesand på Tromøy ved Arendal.'
 categories:
 - _category/bolig.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 6
 
 ---
@@ -38,6 +38,8 @@ De fleste utleiere har forhørt seg i nabolaget om hva som er utleiepris. Du bø
 I tillegg til husleie forlanges ofte depositum innbetalt på en bankkonto på begge parters navn. Depositumet kan være et kontantbeløp som utgjør summen av to eller tre husleier. Depositum er utleiers sikkerhet mot skader som kan oppstå eller ved mislighold av leieavtalen. Banken din kan gi råd om depositumkonto og hvordan den opprettes.
 
 Det juridiske ved et leieforhold er vanligvis godt ivaretatt om det brukes kontrakter som den du finner på www.forbrukerportalen.no - se link på denne siden.
+
+![](/assets/images/hytte.jpg)
 
 **Privat leiemarked**  
 Må du ut på det private boligmarkedet? Der er nå prisene skrudd i været som følge av økt etterspørsel i de større byene. Økt etterspørsel og høye priser på leiemarkedet kommer når flere ikke har råd til å kjøpe og eie egen bolig. Idet du oppdager at det private leiemarkedet er eneste utvei for å få deg en bolig oppdager du hvor raskt en bolig blir leid ut. Og du oppdager at det ofte ikke er du som velger: Det er mange som vil leie og utleier er den som velger eller vraker deg.
@@ -79,7 +81,7 @@ Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du best
 
 Lykke til med boligjakten.
 
-**Elektrikerens spare-råd:   
+**Elektrikerens spare-råd:  
 Sparepæren er ikke alltid best.**
 
 Mange skifter til spare-pærer for å spare strøm.  
