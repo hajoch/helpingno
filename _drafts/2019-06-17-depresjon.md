@@ -13,6 +13,8 @@ tags:
 - musikk
 - komedier
 - yogaøvelser
+- psykisk helse
+- psykiske problemer
 title: Depresjon
 excerpt: Der er mange veier ut av depresjonen.Du kan selv gjøre mye.Her er noen råd
   som kanskje kan hjelpe deg?
