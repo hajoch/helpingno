@@ -9,7 +9,7 @@ Maskoten Basse representerer våre mange bidragsytere og leserinnlegg.
 Blant dem:
 
 Walter Krauss - konsulent  
-Breit Anfinsen - barnebok-tegner  
+[Breit Anfinsen ](https://helping.no/aima)- barnebok-tegner  
 Ellen Marie Christensen - tradisjonell norsk mat  
 [Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse  
 Edle Bugge - journalist mat  
