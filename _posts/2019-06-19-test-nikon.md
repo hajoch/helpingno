@@ -32,7 +32,10 @@ Innkjøp var nødvendig da Nikon Norge ved Eva Gullerud ikke ville låne ut pres
 
 I motsetning til andre kameraaktører så blinker Nikon seg ut noen aktører innen pressen som de anser å være "verdige" nok til å få låne testkamera. Nikons arroganse skal imidlertid ikke forhindre en Nikon-test. på helping.no
 
-![](/assets/images/nokondk2.jpg)![](/assets/images/hoveskog.jpg)
+![](/assets/images/nokondk2.jpg)
+
+  
+![](/assets/images/hoveskog.jpg)
 
 **Førsteinntrykket**  
 Førsteinntrykket av dette kameraet er positivt. Faktisk veier ikke denne Nikon D 3100 mer enn mange hybridkameraer. Faktisk føles det lettere enn hybrid-kameraet Olympus PEN med Nikkor 18-55 f. 3,5-5,6. Nikon 3100 ligger godt i hånden og er lett å bruke. Familien liker det umiddelbart og synes det er gøy å ta bilder med det.
@@ -74,7 +77,7 @@ Vi har valgt en gummi-solblender til Nikkor 18-55 f. 3,5-5,6 som kan brettes til
 
 **Helping hjelper deg med Nikon-modellene**
 
-![](https://wwww.helping.no/assets/images/nikond3100.jpg)![](/assets/images/nikond3100.jpg)
+![](/assets/images/nikond3100.jpg)
 
 De digitale Nikon speilrefleks-modellene kan være vanskelig å orientere seg i fordi Nikon ikke har en ordnet og ryddig tallrekkefølge som Canon har på sine. Derfor går mange surr i hvilke modeller som er hva hos Nikon hvilket er uryddig og dårlig planlagt markedsføring fra Nikon.
 
