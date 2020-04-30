@@ -32,6 +32,4 @@ Seilskipet Sørlandet er finansiert av skipsreder O. A. T Skjelbred og bygget ve
 
 Link: [http://www.youtube.com/watch?v=v6DZIvMZWzQ](http://www.youtube.com/watch?v=v6DZIvMZWzQ "http://www.youtube.com/watch?v=v6DZIvMZWzQ")
 
-![](/assets/images/sorlandet4.jpg)
-
 ![](/assets/images/sorlandet2.jpg)
