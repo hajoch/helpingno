@@ -100,8 +100,7 @@ Lenny ser seg om. Nå må også han finne noe å spise. Men her oppe på fjellet
 
 Plutselig glir han! Svvooooouuuussss! Han raser på magen i full fart nedover snøen. Lenny er så redd at han ikke klarer å hyle. Fortere og fortere går det. Oj! Snøen ender i en diger dam. PLASSSKK! Der fyker Lenny uti. Han kaver i vannet og klarer til slutt å komme seg opp på en diger mosedott i vannkanten. Der reiser han seg til slutt opp dryppende våt og rister av seg vannet. "Det der var jammen tøft gjort!" sier en stemme like ved. Lenny skvetter opp. Hvor i all verden kommer den stemmen fra?
 
-| --- |
-|  |
+![](/assets/images/len.5.jpg)
 
 Der står en liten fyr med gul og brun pels og store fortenner. Lenny blir så forbauset at han blir stående og gape. Da begynner den andre karen å le:
 
@@ -110,8 +109,7 @@ Der står en liten fyr med gul og brun pels og store fortenner. Lenny blir så f
 "Det var lurt," sier Larry. "Jeg vil aldri bo i byen. Her er det mye finere."  
 "Har du noe å spise?" spør Lenny. Han kjenner hvor sulten han er.
 
-| --- |
-|  |
+![](/assets/images/len.6.jpg)
 
 "Følg meg!" sier Larry, og piler av gårde til en plante med store, gule bær. Bærne ser kjempegode ut. Lenny plukker ett. Det er så digert at ham må bruke begge labbene.
 
