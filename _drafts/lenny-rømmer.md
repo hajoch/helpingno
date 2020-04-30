@@ -6,7 +6,7 @@ tags:
 - 'Barnebok '
 - barn
 title: Lenny rømmer
-excerpt: Fortelling for de minste
+excerpt: Barnefortelling for de minste
 image: "/assets/images/lenny.jpg"
 image_caption: Illustrasjoner Berit Anfinsen
 author: _authors/leserinnlegg.md
