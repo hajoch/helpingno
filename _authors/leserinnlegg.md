@@ -15,4 +15,5 @@ Ellen Marie Christensen - tradisjonell norsk mat
 Edle Bugge - journalist mat  
 Julie Jørgensen - journalist økonomi  
 Hans Olsen - innlegg  
-May-Lill Thorkelsson, - innlegg
+May-Lill Thorkelsson, - innlegg  
+[Knut Frognes ](https://helping.no/lenny-rømmer)- barnebok
