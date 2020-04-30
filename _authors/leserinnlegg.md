@@ -1,10 +1,10 @@
 ---
 layout: author
 title: Andre bidragsytere og leserinnlegg
-image: "/assets/images/Basse (4).jpg"
+image: "/assets/images/lenny.jpg"
 
 ---
-Maskoten Basse representerer våre mange bidragsytere og leserinnlegg.
+Tegning av [Breit Anfinsen ](https://helping.no/aima) representerer våre mange bidragsytere og leserinnlegg.
 
 Blant dem:
 
