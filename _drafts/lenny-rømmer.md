@@ -152,9 +152,9 @@ Det har ikke Lenny det minste imot, for han er så trett at han sovner med det s
 | --- |
 |  |
 
-Døra går opp og Petter kommer inn. Han ser trist ut synes Lenny. Men straks Petter får øye på Lenny, stråler han opp: "Lenny!" roper han. "Hvor har du vært? Jeg har savnet deg sånn!" Han løper bort til Lenny, løfter ham opp og klemmer ham inn til seg. "Nå skal vi være sammen bestandig!" sier Petter.
-
-| --- |
-|  |
+Døra går opp og Petter kommer inn. Han ser trist ut synes Lenny. Men straks Petter får øye på Lenny, stråler han opp: "Lenny!" roper han. "Hvor har du vært? Jeg har savnet deg sånn!" Han løper bort til Lenny, løfter ham opp og klemmer ham inn til seg. "Nå skal vi være sammen bestandig!" sier Petter.  
+  
+  
+![](/assets/images/len.8.jpg)
 
 "Det lønner seg visst å reise bort av og til." tenker Lenny fornøyd.
