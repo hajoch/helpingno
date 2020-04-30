@@ -82,3 +82,8 @@ Utdannet master i sammenliknende politikk fra Universitet i Bergen
 
 **Sponse oss?**  
 Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss på helping-magasinets konto **1506.28.29343**
+
+**Helping sponer utviklingshjelp**  
+Her ved kjøp av hus i Bangladesh
+
+![](/assets/images/skjote.jpg)
