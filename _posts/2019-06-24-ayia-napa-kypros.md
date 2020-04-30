@@ -37,6 +37,8 @@ Kypros har venstrekjøring liksom i England. De fleste som arbeider i turistnær
 
 Deler av byen bl.a. ved klostertorvet og stranden Nissi Beach har stort innslag av ungdom. Det kan virke som om reiseselskapene støttet av pressen markedsfører Ayia Napa som en ungdommenes festby, men byen har tilbud til alle aldere.
 
+![](/assets/images/kyp.4.JPG)
+
 Grecian Bay ved havnen er en svært tiltalende og fin sandstrand som må betegnes som den beste på stedet med rent og tiltalende bade-vann. Stranden er stor nok til at den ikke lett blir overfylt. Et tips er å gå litt bortover stranden fra havnen - der er det ikke så tett med folk.
 
 Ved moloen i fiskerhavnen finner du et hyggelig spisested ved navn "Vassos Fish Harbour Taverna", med god mat og fin utsikt over havnen og strandpromenaden.
