@@ -21,8 +21,7 @@ Endelig kommer Petter inn på rommet, løfter opp bamsen og setter seg på senga
 \- "Se her Bamse! Jeg har fått deilig bringebærsyltetøy på brødskiva."  
 \- "Hei Petter!" roper Lenny så høyt han kan.
 
-| --- |
-|  |
+![](/assets/images/len.1.jpg)
 
 Men Petter er alt for opptatt med å snakke med bamsen og hører ikke Lenny.  
 \-" Æsj!" tenker Lenny. "Kanskje hjelpe det å synge en sang?"
@@ -41,8 +40,7 @@ Petter skal legge seg. Han går ut på badet for å pusse tennene.
 I det Petter går ut døra, lander en fugl i vinduskarmen hvor vinduet er åpent.  
 "Hei du!" roper Lenny. "Er du SAS?"
 
-| --- |
-|  |
+![](/assets/images/len.2.jpg)
 
 Fuglen legger hodet på skakke og kikker ned på Lenny..  
 Nei, langt i fra" sier fuglen. "Jeg er Bråthen Stær, og ikke noe vanlig rutefly. Men hva er du for en liten skinnfille?"  
@@ -59,8 +57,7 @@ Lenny blir glad! Han lar seg ikke be to ganger, hopper opp og holder seg godt fa
 "Hvor har du lyst til å rømme?" spør Bråthen.  
 "Til fjellet!" svarer Lenny Han vet at fjellet er høyt oppe og fordi han er så liten, vil han så høyt det går an å komme.
 
-| --- |
-|  |
+![](/assets/images/len.3.jpg)
 
 På vei til fjellet synger Lenny for Bråthen Stær: (Mel: Tornerose sov...)
 
@@ -95,8 +92,7 @@ Slapp av, lille skinnfille. Jeg er sulten og ser noen feite mygg her borte. Vil 
 
 Lenny ser seg om. Nå må også han finne noe å spise. Men her oppe på fjellet er det bare stein og mose. Lemener spiser vanligvis mose, men det vet ikke Lenny, for han har bodd i byen hele sitt liv. Han ser at det er lyng og busker lenger nede og drar dit. På veien ned kommer han til en snøflekk. Her er det veldig bratt. Han går forsiktig ut på snøen...
 
-| --- |
-|  |
+![](/assets/images/len.4.jpg)
 
 Plutselig glir han! Svvooooouuuussss! Han raser på magen i full fart nedover snøen. Lenny er så redd at han ikke klarer å hyle. Fortere og fortere går det. Oj! Snøen ender i en diger dam. PLASSSKK! Der fyker Lenny uti. Han kaver i vannet og klarer til slutt å komme seg opp på en diger mosedott i vannkanten. Der reiser han seg til slutt opp dryppende våt og rister av seg vannet. "Det der var jammen tøft gjort!" sier en stemme like ved. Lenny skvetter opp. Hvor i all verden kommer den stemmen fra?
 
@@ -149,9 +145,8 @@ Det har ikke Lenny det minste imot, for han er så trett at han sovner med det s
 
 ![](/assets/images/len.7.jpg)
 
-Døra går opp og Petter kommer inn. Han ser trist ut synes Lenny. Men straks Petter får øye på Lenny, stråler han opp: "Lenny!" roper han. "Hvor har du vært? Jeg har savnet deg sånn!" Han løper bort til Lenny, løfter ham opp og klemmer ham inn til seg. "Nå skal vi være sammen bestandig!" sier Petter.  
-  
-  
+Døra går opp og Petter kommer inn. Han ser trist ut synes Lenny. Men straks Petter får øye på Lenny, stråler han opp: "Lenny!" roper han. "Hvor har du vært? Jeg har savnet deg sånn!" Han løper bort til Lenny, løfter ham opp og klemmer ham inn til seg. "Nå skal vi være sammen bestandig!" sier Petter.
+
 ![](/assets/images/len.8.jpg)
 
 "Det lønner seg visst å reise bort av og til." tenker Lenny fornøyd.
