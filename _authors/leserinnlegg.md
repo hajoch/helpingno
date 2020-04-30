@@ -11,7 +11,7 @@ Blant dem:
 Walter Krauss - konsulent  
 Breit Anfinsen - barnebok-tegner  
 Ellen Marie Christensen - tradisjonell norsk mat  
-[Albert Henrik Mohn](https://app.forestry.io/sites/afjoa9tu1jlglg/#/pages/_authors-albert-henrik-mohn-md/), bokanmeldelse  
+[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse  
 Edle Bugge - journalist mat  
 Julie Jørgensen - journalist økonomi  
 Hans Olsen - innlegg  
