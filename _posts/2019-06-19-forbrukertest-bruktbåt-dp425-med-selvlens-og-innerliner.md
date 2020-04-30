@@ -19,7 +19,7 @@ image: "/assets/images/jolle425.jpg"
 image_caption: Foto GC
 categories:
 - _category/båt.md
-publish_date: 2019-09-30 00:00:00 +0200
+publish_date: 2019-09-29T22:00:00.000+00:00
 weight: 4
 
 ---
@@ -34,6 +34,8 @@ Videre er det viktig at båten kan leveres med hvitt skrog hvilket gjør at båt
 DP425 kjøpes i versjon uten styrekonsoll. Det gir båten flere bruksområder: Den kan roes, noe som er viktig når det skal lystres krabber i fjæresteinene, ved motorhavari, når barna skal lære å ro og far trenger trim.
 
 Og ikke minst tar konsollen opp plass i båten og fordyrer: Omkring fem tusen vil det samlet koste mer for jolla med rattkonsoll og styring ferdig montert på ny båt. I tillegg kommer utgifter til fjernkontroll med gir/gass + montering ved motorer mindre enn 30 hk. Og likevel sitter du bak i båten hvor du lett kan betjene påhengsmotoren uten ratt og spaker. Og når båten skal på land og hvelves i hagen blir en kosoll kompliserende og tyngre. Derfor valgte vi jolle uten styrekonsoll.
+
+![](/assets/images/dp.3.jpg)
 
 **Test i sjøen**  
 DP 425 kommer lett opp i plan med en 9,9/15 hk Yamaha, gjør bra fart og ligger fint i dønningene på grunn av relativt dyp V-bunn. Jeg vil være fristet til å påstå at det er nok med 9,9/15 hk på denne båten. Ikke bruk mer penger på motor enn nødvendig. Dessuten kan nesten alle i familien kjøre en båt med 9,9-motor.
