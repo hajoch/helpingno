@@ -44,7 +44,7 @@ Slik sett er Aima tuftet på norsk eventyrtradisjon. I boka trekkes forestilling
 
 ![](/assets/images/aima.jpg)
 
-##### "Aimas Pappa"
+## Aimas Pappa
 
 ![/assets/images/authors/gc8.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/authors/gc8.jpg)  
 _Forfatter Gunnar Christensen. Foto Jens Christian Jore Christensen_
