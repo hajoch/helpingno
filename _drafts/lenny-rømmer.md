@@ -149,8 +149,7 @@ Bråthen stær har slått seg ned på en stein, og det ser ut som om hun sover. 
 
 Det har ikke Lenny det minste imot, for han er så trett at han sovner med det samme. Han våkner like over huset til Petter. "Vi går inn for landing!" roper Bråthen, suser inn gjennom vinduet til Petters rom og lander på senga. Lenny hopper ned. "Nå må jeg hjem og se til mannen min." sier Bråthen og letter igjen med det samme. "Takk for turen!" ropte Lenny etter henne.
 
-| --- |
-|  |
+![](/assets/images/len.7.jpg)
 
 Døra går opp og Petter kommer inn. Han ser trist ut synes Lenny. Men straks Petter får øye på Lenny, stråler han opp: "Lenny!" roper han. "Hvor har du vært? Jeg har savnet deg sånn!" Han løper bort til Lenny, løfter ham opp og klemmer ham inn til seg. "Nå skal vi være sammen bestandig!" sier Petter.  
   
