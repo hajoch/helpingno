@@ -9,7 +9,7 @@ title: Lenny rømmer
 excerpt: Fortelling for de minste
 image: "/assets/images/lenny.jpg"
 image_caption: Illustrasjoner Berit Anfinsen
-author: ''
+author: _authors/leserinnlegg.md
 categories:
 - _category/boker.md
 publish_date: 
