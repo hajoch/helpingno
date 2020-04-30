@@ -5,10 +5,10 @@ crop_image: true
 tags:
 - 'Barnebok '
 - barn
-title: Lenny rømmer
+title: Lenny Lemen rømmer
 excerpt: Barnefortelling for de minste
 image: "/assets/images/lenny.jpg"
-image_caption: Illustrasjoner Berit Anfinsen, forfatter Knut Fognes
+image_caption: Illustrasjoner Berit Anfinsen, forfatter Knut Frognes
 author: _authors/leserinnlegg.md
 categories:
 - _category/boker.md
