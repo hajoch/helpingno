@@ -56,6 +56,8 @@ Stress over lengre tid kan overbelaste deg og medføre depresjon og utmattelse. 
 
 Finn roen på linken: Meditasjon Føler du deg plaget av anspent stress-muskulatur kan Yoga være fin å gjøre før meditasjonen. Det finner du på linken: Yoga
 
+![](/assets/images/vinterskog.jpg)
+
 **Tanker og følelser**  
 Tankene dine har stor makt så bruk dem på en konstruktiv måte og du kan hjelpe deg selv med enkle øvelser: Tenk positivt om deg selv: Vær god mot deg selv. Ikke terp på det som gikk galt. Tenk derimot på det du fikk til, de vakre opplevelsene du hadde sist sommer eller andre gode minner. Ikke tenk på det som gjør deg deprimert: Ta fri fra det.
 
