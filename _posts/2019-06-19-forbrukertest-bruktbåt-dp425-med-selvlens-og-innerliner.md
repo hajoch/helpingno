@@ -19,7 +19,7 @@ image: "/assets/images/jolle425.jpg"
 image_caption: Foto GC
 categories:
 - _category/båt.md
-publish_date: 2019-09-29T22:00:00.000+00:00
+publish_date: 
 weight: 4
 
 ---
