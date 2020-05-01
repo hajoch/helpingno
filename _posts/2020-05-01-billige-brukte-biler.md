@@ -177,6 +177,8 @@ Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det ko
 
 Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
 
+![](/assets/images/golf73.jpg)
+
 Foto: Christoffer Jore Christensen - Tekst: Gunnar Christensen
 
 Kjører du Golf 5 i dag vil du merke en forbedring på støydempingen, bedre seter og DAB-radio som standard på nye Golf 7. Bortsett fra dette så er kjøreopplevelsen ganske lik eldre utgaver. Bilen er på en måte kjent og det er ikke mye nytt å forhold seg til. Presses bilen vil du kanskje føle bedre kjøreegenskaper. Men så er det selvfølgelig også nye ting du ikke liker. Som den nye "handbrekka" - denne irriterende trykknappen. Skal du ha ei skikkelig handbrekke må du kjøpe Ford Focus.
