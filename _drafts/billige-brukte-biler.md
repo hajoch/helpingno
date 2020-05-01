@@ -23,13 +23,14 @@ weight: 7
 ---
 Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir kan gjøre en gammel bil dyrere. Som bruktbil er biler med fosilt drivstoff tryggere. Tenk deg en gammel El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
 
-**Vi testet Opel Astra**
+**Vi testet Opel Astra 2013**
 
-![](/assets/images/astra1.jpg)
+![](/assets/images/astra1.jpg)  
+2013 Astra 5-dørs kombi med 110 hk 1,7 liters diesel og 6-trinns manuell girkasse.
 
 Foto: [Christoffer Jore Christensen](christoffer.htm), Tekst [Gunnar Christensen](gunnar.htm)
 
-**Designet betyr mye i kampen om kundene. Opel gjør en god jobb med denne utgaven av Astra. Moderne linjer samtidig med god innvendig plass og relativt god plass i baksetet. For det er bakseteplassen det knipes på hos mange av konkurrentene: Astra har bedre baksete-plass enn Mercedes** [**A-klasse**](mercedes.htm) **og** [**Volvo V40**](volvov40.htm)**. Selv bestemor kommer seg inn i baksetet på Astra med stokken og gikta. Men som alle bilene i denne klassen er det kun snakk om en fireseter. Plassen i midten bak er ikke beregnet på voksne - noe både nakkestøtte og bredde antyder.**
+Designet betyr mye i kampen om kundene. Opel gjør en god jobb med denne utgaven av Astra. Moderne linjer samtidig med god innvendig plass og relativt god plass i baksetet. For det er bakseteplassen det knipes på hos mange av konkurrentene: Astra har bedre baksete-plass enn Mercedes [A-klasse](mercedes.htm) og [Volvo V40](volvov40.htm). Selv bestemor kommer seg inn i baksetet på Astra med stokken og gikta. Men som alle bilene i denne klassen er det kun snakk om en fireseter. Plassen i midten bak er ikke beregnet på voksne - noe både nakkestøtte og bredde antyder.
 
 Astra er en lett-kjørt bil det er lett å like. En bil du raskt venner deg til. Betjeningsknappene på dashbordet kan til å begynne med virke litt små og uoversiktlige. Setene er gode og med muligheter for å forlenge stolsetet. Astra har nøkkel-start, altså ikke start/stopp-knapp.
 
@@ -107,3 +108,5 @@ Toyota hadde solid merkebygging frem til skandaleoppslagene om sikkerhetssvikt o
 Skandinaviske bileiere svarer i en undersøkelse (publisert i 2010) på spørsmål om de er fornøyd med bilen sin: Undersøkelsen er blant bileiere med årsmodeller mellom 2006 og 2009. Avensis kommer på en 12-plass i kundetilfredshet av 115 biler. Toyotas Prius ligger på plass 3 og Verso ligger på 6-plass og Rav 4 nede på 22-plass. Dette viser tydelig god kundetilfredshet med fabrikkens modeller. 
 
 Dette er en meget sterk indikator på bilenes kvalitet og standard og en meget nyttig oversikt for deg som bilkjøper.
+
+![](/assets/images/Peugeut 50081.jpg)
