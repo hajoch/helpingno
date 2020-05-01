@@ -69,10 +69,10 @@ Avensis var Toyotas bestselger i Norge med over tre tusen solgte biler i 2011. "
 **Sikkerhet ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
 5 stjerner i NCAPE er som det skal være i en familiebil som skal frakte hele familien og dekke et variert behov på en sikker måte.
 
-Håndbrekka er en knapp til høyre for rattet. Det redder deg om du trenger den til øvelseskjøring. Om den virker - det har vært flere ulykker den denne håndbrekke ikke virker også med dødlig utfall.
+Håndbrekka er en knapp til høyre for rattet. Det redder deg om du trenger den til øvelseskjøring. Om den virker - det har vært flere ulykker den denne håndbrekke ikke virker også med dødelig utfall.
 
 For korte nakkestøtter bak er en alvorlig svikt i sikkerheten:  
-Nytt er reguleringsmuligheter på nakkestøttene framme. Dette bedrer trolig nakkeslangbeskyttelsen. I baksetet er nakkestøttene skuffende små og korte og strekker ikke til om du er over 180 i høyde. Dette er en alvorlig sikkerhetssvikt: Samme problemet med nakkestøttene har nye [Rav4](rav4.htm).
+Nytt er reguleringsmuligheter på nakkestøttene framme. Dette bedrer trolig nakkeslangbeskyttelsen. I baksetet er nakkestøttene skuffende små og korte og strekker ikke til om du er over 180 i høyde. Dette er en alvorlig sikkerhetssvikt: Samme problemet med nakkestøttene har nye Rav4.
 
 **Komfort ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
 Behagelig lavt støynivå.. Avensis har også størrelsen som gir en god storbilfølelse. Testbilen var utstyrt med ryggekamera.
@@ -82,21 +82,17 @@ Det er på langtur du blir kjent med en bil. Da får kjørekomforten prøvd seg 
 Som i alle stasjonsvogner er sittekomforten i midten bak ikke så hyggelig. For en familie på 5 er derfor flerbruksbilene med tre individuelle seter bak et bedre alternativ. Hvorfor kommer ikke stasjonsvogner i denne størrelsen med tre individuelle seter bak? Her er plass nok til det.
 
 **Motor ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
-Testbilen har en to liters dieselmotor som yter 90 KW/124 hk og utstyrsvariant Executive. Motoren er seig og sterk. Akselerasjonen kommer med god styrke i forbikjøringer. Bilen har god nok motorkraft til vanlig bruk. Fremdeles velger de fleste kundene dieselbil, men andelen bensinbiler øker nå - antakelig som følge av politiske signaler.
-
-Her er imidlertid ingen "sportknapp" som hever kjøreegenskaper  
+Testbilen har en to liters dieselmotor som yter 90 KW/124 hk og utstyrs-variant Executive. Motoren er seig og sterk. Akselerasjonen kommer med god styrke i forbikjøringer. Bilen har god nok motorkraft til vanlig bruk. Fremdeles velger de fleste kundene dieselbil, men andelen bensinbiler øker nå. Her er imidlertid ingen "sportknapp" som hever kjøreegenskaper  
 eller andre funksjoner.
 
 **Design ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
-Design-messig har Toyota vært en underdog sammenliknet med konkurrentene. Man kjøper ikke Toyota på grunn av designet, men til tross for det. Siste modell av Avensis har imidlertid hevet seg noe og er nå kanskje på høyde med konkurentene om vi legger godviljen til. Grillen og fronten ble designmessig bedret ved siste oppgradering. Materialvalget innvendig har god kvalitet.
+Design-messig har Toyota vært en underdog sammenliknet med konkurrentene. Man kjøper ikke Toyota på grunn av designet, men til tross for det. Siste modell av Avensis har imidlertid hevet seg noe og er nå kanskje på høyde med konkurrentene om vi legger godviljen til. Grillen og fronten ble designmessig bedret ved siste oppgradering. Materialvalget innvendig har god kvalitet.
 
 **Fargevalg ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
 Avensis leveres i 10 fargevarianter på karosseriet. Interiøret har 7 varianter: Bra nok innvendig design og materialvalg til tross, Toyota satser mest på mørke farger i innredningen. Kun to lyse fargealternativ i skinn, resten er mørkere, triste farger. I lysere interiørfarger vil bilen føles større: Legg merke til at biler som i det vesentlige er sorte inni virker mindre.
 
 **Økonomi: ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
 Kundetilfredshet og god service er Toyotas beste kort. Ingen vet bedre kvaliteten på bilen enn kundene. Og de er strålende fornøyde med Avensis. Dette gjør Toyota til et sikkert kjøp med en brukbar bruktbilpris når du skal bytte inn.
-
-Et pristips på Toyota: Importer bilen fra Danmark. Danske Toyota-forhandlere kan levere Toyota billigere enn norske forhandlere til norske forbrukere. Dette har sammenheng med høyere bilpriser i Danmark som fører til at danske forhandlere får bedre rabatter direkte fra Toyotafabrikken. Dette må vurderes opp mot servicen du får hos de norske forhandlerne. Denne servicen kan imidlertid være verd såpass mye at det kan lønne seg å kjøpe den i Norge.
 
 **Skandaleoppslagene**  
 Toyota hadde solid merkebygging frem til skandaleoppslagene om sikkerhetssvikt og tilbake-kallelser som begynte i 2009 og pågår fremdeles. Det var dette solide forarbeidet over mange år som så langt har båret Toyota gjennom denne tillitskrisen. Hadde Toyota vært ny på markedet da denne media-stormen av skandaleoppslag kom, så hadde trolig dette satt en stopper for Toyota. Mange års merkebygging og god service sto av stormen og Toyota har i dag igjen tillit i markedet. De mange fornøyde kundene er bærebjelken videre:
@@ -116,7 +112,7 @@ Dette må være Ford S-max sin argeste konkurrent for Peugeots 5008 er nesten li
 
 Som flerbruksbiler flest er dette en bil med så god takhøyde at jeg slipper å "krype" inn i bilen. Og kjøreopplevelsen er behagelig og sittekomforten god som franske biler flest i denne størrelsen.
 
-Førermiljøet er oversiktelig og speedometeret ligger i synsfeltet slik at jeg slipper å flytte blikket fra trafikken og kan enkelt kontrollere farten. Giret og konsollen er høyere enn mange andre biler. Det kan virke litt "tettpakket". men gir egentlig bedre oversikt.
+Førermiljøet er oversiktlig og speedometeret ligger i synsfeltet slik at jeg slipper å flytte blikket fra trafikken og kan enkelt kontrollere farten. Giret og konsollen er høyere enn mange andre biler. Det kan virke litt "tettpakket". men gir egentlig bedre oversikt.
 
 Skryt skal Peugeot har for nakkestøttene i forsetene. Her er fikse reguleringsmuligheter som gir god og behagelig hodestøtte. Trolig er disse nakkestøttene i tillegg sikrere enn de fleste andre biler på markedet når det gjelder å forebygge nakkesleng. I baksetet virket nakkestøttene litt ruglete på de høyeste nivåene, men de fungerer og har høyde nok til å dekke de mer høyvokstes behov. Baksetet har god beinplass og gode seter. De aller bakerste sitteplassene i 7-seteren er kun for barn. Prøver du deg inn her ligger isjiasen på lur.
 
