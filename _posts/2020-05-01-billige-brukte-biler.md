@@ -160,3 +160,29 @@ Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon me
 En real håndbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, cruisekontroll, multiratt, topp musikkanlegg, Bluetooth telefonsystem og city safty for å nevne det meste.
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
+
+**Bruktbiltest: Volvo V70 2008**
+
+![](/assets/images/volvov70.jpg)
+
+For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse  
+å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
+
+**Pris og kvalitet**  
+Testbilen har en toliters diesel på 136 hestekrefter. Det er nok krefter om du har lesset bilen full eller skal dra båten langs landeveien. Ei uke og omkring 90 mil har jeg kjørt bilen langs E 18 og E 39. Kjøring i by og land og på all slag vei. Personlig liker jeg ikke skinnseter som oppleves klamme, men de fleste som kjøper denne bilen velger skinn. Bare en ting er trist med denne bilen: Det er prisen. Over fire hundre tusen spenn er drøyt. Men så finnes den da med en 109-hesters diesel femti tusen billigere.
+
+Men stopp litt: Hvorfor er Volvo eiere villige til å gi trehundreogfemti tusen spenn for den rimeligste V70? Når det finnes både Skoda Superb, Ford Mondeo, Toyota Avensis, og flere andre like store kvalitetsbiler med prislapp på omkring tre hundre tusen - altså billigere enn V70. Kan det være den gode sittekomforten, statusfaktoren eller designet?
+
+**Kollisjonssikkerhet**  
+Volvos legendariske kollisjonssikkerhet er denne bilen ikke lenger alene om. Alle konkurrentene har oppnådd fem stjerner i den europeiske sikkerhets-testen. Sikkerhet er blitt et satsingsområde i bilindustrien. Forbedringer skjer hele tiden.
+
+**Økonomi og miljø**  
+Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølge Volvo på en halvliter diesel på mila hvilket er bra vekta tatt i betrakning. Og miljøprofilen skjerpes for hvert år her som hos alle bilprodusenter.
+
+**Test**  
+Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig "langkjøring".
+
+Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
+
+Hva koster det så å eie en V70: Kjøp, drift, vedlikehold, uforutsette utgifter?  
+Et kjøp av Volvo V70 er en kamp mellom følelsene og lommeboka.
