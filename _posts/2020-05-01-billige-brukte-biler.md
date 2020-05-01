@@ -21,7 +21,7 @@ publish_date:
 weight: 7
 
 ---
-Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir kan gjøre en gammel bil dyrere. Som bruktbil er biler med fosilt drivstoff tryggere. Tenk deg en brukt El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
+Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir er betydelig dyrere å skifte. Som bruktbil er biler med fossilt drivstoff tryggere. Tenk deg en brukt El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
 
 **Bruktbil test Opel Astra 2013**
 
