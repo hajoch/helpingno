@@ -187,12 +187,12 @@ Kjører du Golf 5 i dag vil du merke en forbedring på støydempingen, bedre set
 **Ikke prisgunstig**  
 Denne Golfen er en 5-dørs Golf Trend 1,2 liters 85hk.TSI 4 sylinders bensinmotor og 5-trinns girkasse. Altså mindre motor enn Ford Focus som begynner serien bensinmotoren på 100 hk med ny 3 sylindret miljømotor. Med "teknikkpakke" på denne Golfen får du med 2-soners klimaanlegg, 15" lettmetallfelger, parkeringssensorer foran/bak og skinnratt. Alle som har prøvd bil med og uten klimaanlegg merker forskjellen - på varme sommerdager eller på vinterveien over fjellet. Klimaanlegg er også en sikkerhetsfaktor. Med dette ekstrautstyret på Volkswagen Golf er du raskt over det Ford Focus koster med 125 hk motor og betydelig mer ekstrautstyr - om du sammenlikner disse bilene når de var nye. Man kan derfor ikke kalle Golf prisgunstig.
 
-Det kan være lett å takke ja til den nye "kurante" Golf 7 og glemme alle rust-problemene du har hatt og den dårlige forhandlerservicen du hadde med Golf 5. Golf 5 var jo ikke på langt nær godt nok rust-beskyttet. Det ble derfor kostbart å eie den. Så hva får deg til å tro at en nyere Golf-modell er bedre på rust? Det er ikke alltid slik at nyere modeller har bedre rustbeskyttelse.
+Det kan være lett å takke ja til den nye "kurante" Golf 7 og glemme alle rust-problemene du har hatt og den dårlige forhandlerservicen du hadde med Golf 5. Golf 5 var jo ikke på langt nær godt nok rust-beskyttet. Det ble derfor kostbart å eie den. Så hva får deg til å tro at en nyere Golf-modell er bedre på rust? Det er ikke alltid slik at nyere modeller har bedre rustbeskyttelse. Alle VW biler sliter med rust.
 
 **Tillit**  
-Nytt på rustbeskyttelse nå er at Volkswagenforhandleren tillater Tectyl-behandling på ny bil uten at garantien frafaller. Realitetene har nå innhentet Volkswagens arrogante forhold til rustproblemet; Mange har klaget og mange bilkjøpere har merket seg disse problemene. Med andre ord handler bilkjøp om tillit. Tillit til godt handverk og kompetanse. Og her får Volkswagen stryk på rustbeskyttelse. I tillegg må du kalkulere inn en kostbar service på rundt hundretusen km med registerreimskift på alle VAG-biler i Volkswagenfamilien, noe du slipper med f.eks. Toyota og Kia.
+Nytt på rustbeskyttelse nå er at Volkswagen-forhandleren tillater Tectyl-behandling på ny bil uten at garantien frafaller. Realitetene har nå innhentet Volkswagens arrogante forhold til rustproblemet; Mange har klaget og mange bilkjøpere har merket seg disse problemene. Med andre ord handler bilkjøp om tillit. Tillit til godt handverk og kompetanse. Og her får Volkswagen stryk på rustbeskyttelse. I tillegg må du kalkulere inn en kostbar service på rundt hundretusen km med registerreimskift på alle VAG-biler i Volkswagenfamilien, noe du slipper med f.eks. Toyota og Kia.
 
-**Les om Volkswagens rustproblemer**
+**Volkswagens rustproblemer**
 
 Bedre seter i Golf 7 var jammen på tide, for Golf 5 har svært dårlig sittekomfort i standard seter. Og DAB-radioen er rett rundt hjørnet i tid, så den ligger godt plassert i standardpakka på Golfen, fremfor å gjøre som Ford Focus av denne åprgangen der du må betale fem tusen spenn ekstra for en DAB-radio. Volkswagen gjør med andre ord mye riktig og de er i tillegg flinke med design. Så hvorfor er det så vanskelig å komme opp på konkurrentenes nivå når det gjelder rustbeskyttelse?
 
@@ -204,4 +204,4 @@ Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos Golf - testet 
 
 **Konkurranse**  
 Flest produsenter har bilmodeller i denne størrelsen og konkurransen er hard. Derfor er det ofte slik at du får mest for pengene ved kjøp av bil i  
-denne størrelsen fordi det er her bilprodusentene setter inn det tyngste markedsførings-støtet. Prøv minst fem biler før du bestemmer deg for nybilkjøp i denne prisklassen: Golf er en av bilene det er naturlig å prøve.
+denne størrelsen fordi det er her bilprodusentene setter inn det tyngste markedsførings-støtet på denne størrelsen som de selger mest av. Prøv minst fem biler før du bestemmer deg for nybilkjøp i denne prisklassen: Golf er en av bilene det er naturlig å prøve.
