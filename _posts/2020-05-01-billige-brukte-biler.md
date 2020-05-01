@@ -153,7 +153,7 @@ Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon me
 
 En real håndbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, cruisekontroll, multiratt, topp musikkanlegg, Bluetooth telefonsystem og city safty for å nevne det meste.
 
-Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
+Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
 
 **Bruktbiltest: Volvo V70 2008**
 
@@ -170,7 +170,7 @@ Men stopp litt: Hvorfor er Volvo eiere villige til å gi trehundreogfemti tusen 
 Volvos legendariske kollisjonssikkerhet er denne bilen ikke lenger alene om. Alle konkurrentene har oppnådd fem stjerner i den europeiske sikkerhets-testen. Sikkerhet er blitt et satsingsområde i bilindustrien. Forbedringer skjer hele tiden.
 
 **Økonomi og miljø**  
-Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølge Volvo på en halvliter diesel på mila hvilket er bra vekta tatt i betrakning. Og miljøprofilen skjerpes for hvert år her som hos alle bilprodusenter.
+Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølge Volvo på en halvliter diesel på mila hvilket er bra vekta tatt i betraktning. Og miljøprofilen skjerpes for hvert år her som hos alle bilprodusenter.
 
 **Test**  
 Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig "langkjøring".
