@@ -23,7 +23,7 @@ weight: 7
 ---
 Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir kan gjøre en gammel bil dyrere. Som bruktbil er biler med fosilt drivstoff tryggere. Tenk deg en brukt El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
 
-**Vi testet Opel Astra 2013**
+**Bruktbil test Opel Astra 2013**
 
 ![](/assets/images/astra1.jpg)  
 2013 Astra 5-dørs kombi med 110 hk 1,7 liters diesel og 6-trinns manuell girkasse.
@@ -63,8 +63,6 @@ Astra er i det tøffeste markedet: Den såkalte "Golfklassen". Det er i denne kl
 Foto: Christoffer Jore Christensen, Av Gunnar Christensen
 
 Oppgraderingen merkes straks du setter deg bak rattet: Avensis er nå blitt litt mer lettkjørt og støydempet. En vesentlig forbedring av kjøreegenskapene fra tidligere modeller. Utvendig er endringene små: Kun fronten ble endret ved siste facelift. Fremdeles er Avensis like spennede som et kneipbrød.
-
-Og salgstallene stuper etter at den nye Toyota Rav 4 kom: Rav 4 har skikkelig håndbrekk ikke trykknappen som Avensis. I tillegg er rav 4 blitt større så den passer som familiebil.
 
 Avensis var Toyotas bestselger i Norge med over tre tusen solgte biler i 2011. "Traust og usportslig" er mange motorjournalisters "dom" over Avensis, men brukerne liker denne bilen. Det er egentlig positivt å være traust. I dette ligger pålitelighet, sikkerhet og forutsigbarhet. "Traust" er "godt skrudd sammen" og solid. Just det du ønsker deg av en stor familiebil. Modellen på det norske markedet blir skrudd sammen i England.
 
