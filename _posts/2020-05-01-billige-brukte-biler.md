@@ -165,8 +165,7 @@ Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offens
 
 ![](/assets/images/volvov70.jpg)
 
-For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse  
-å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
+Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
 
 **Pris og kvalitet**  
 Testbilen har en toliters diesel på 136 hestekrefter. Det er nok krefter om du har lesset bilen full eller skal dra båten langs landeveien. Ei uke og omkring 90 mil har jeg kjørt bilen langs E 18 og E 39. Kjøring i by og land og på all slag vei. Personlig liker jeg ikke skinnseter som oppleves klamme, men de fleste som kjøper denne bilen velger skinn. Bare en ting er trist med denne bilen: Det er prisen. Over fire hundre tusen spenn er drøyt. Men så finnes den da med en 109-hesters diesel femti tusen billigere.
@@ -183,6 +182,3 @@ Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølg
 Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig "langkjøring".
 
 Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
-
-Hva koster det så å eie en V70: Kjøp, drift, vedlikehold, uforutsette utgifter?  
-Et kjøp av Volvo V70 er en kamp mellom følelsene og lommeboka.
