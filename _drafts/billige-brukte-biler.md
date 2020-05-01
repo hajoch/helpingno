@@ -8,7 +8,7 @@ tags:
 - billige bruktbiler
 - test
 title: Billige brukte biler
-excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Har
+excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Her
   gjengir vi noen av de mange bilene vi testet fra 2010 og nyere: Opel Astra, Toyota
   Avensis, Peugeots 5008 og Volvo V 40.'
 image: "/assets/images/superb035.jpg"
