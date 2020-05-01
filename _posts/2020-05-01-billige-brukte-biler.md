@@ -125,12 +125,12 @@ Motoren på 112 hk turbodiesel er ikke sprek, men tilstrekkelig. Automatgiret ha
 Av utstyr nevnes 2-soners klima, navigasjon, ryggesensor, hill hold kontroll som er bakke-starthjelp, regnsensor, ESP og ABS.
 
 Fargeutvalget har få spennende alternativer bortsett fra en flott rødfarge. Det er jo en trend i tiden nå at bilene helst skal se triste ut - med forskjellige varianter av sort og grått som denne testbilen.  
-Høyden gjør en flerbruks behageligere å stige inn og ut av.
+Høyden gjør en flerbruksbil behageligere å stige inn og ut av.
 
 **Konklusjoner**  
 Samlet sett gir Peugeot 5008 et solid og praktisk inntrykk. Denne flerbruksbilen er et bedre og større alternativ enn en stasjonsvogn på grunn av bedre sittekomfort i baksetet, flere bruksmuligheter og bedre takhøyde. Men er dette en solid bil? Denne bilmodellen er for ny til å være med i kundetesten
 
-Er bileierne fornøyd med Peugeot? Undersøkelsen av kundetilfredshet hos bileire er ikke lystig lesning for Peugeot. På en skale fra 1 til 115 havner disse bilene langt nede på lista: Peugeot 107 er på 69-plass, Peugeot 4007 er på 74-plass, Peugeot 206 på 92-plass, Peugeot Partner på elendige 106-plass. Dette lover ikke bra for Peugeot 5008.
+Er bileierne fornøyd med Peugeot? Undersøkelsen av kundetilfredshet hos bileire er ikke lystig lesning for Peugeot. På en skala fra 1 til 115 havner disse bilene langt nede på lista: Peugeot 107 er på 69-plass, Peugeot 4007 er på 74-plass, Peugeot 206 på 92-plass, Peugeot Partner på elendige 106-plass. Dette lover ikke bra for Peugeot 5008.
 
 **Bruktbil: Volvo V40 2012: God NCAP-test for liten Volvo**
 
