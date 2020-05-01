@@ -203,5 +203,4 @@ Designet gir baksetet gode, romlige forhold. Det er god plass og god høyde i ba
 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos Golf - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste [www.euroncap.com/results/vw/golf/500.aspx.](http://www.euroncap.com/results/vw/golf/500.aspx) Dette er åpenbart en trygg og komfortabel bil å kjøre i. I tillegg virker den solid og "godt skrudd sammen".
 
 **Konkurranse**  
-Flest produsenter har bilmodeller i denne størrelsen og konkurransen er hard. Derfor er det ofte slik at du får mest for pengene ved kjøp av bil i  
-denne størrelsen fordi det er her bilprodusentene setter inn det tyngste markedsførings-støtet på denne størrelsen som de selger mest av. Prøv minst fem biler før du bestemmer deg for nybilkjøp i denne prisklassen: Golf er en av bilene det er naturlig å prøve.
+Flest produsenter har bilmodeller i denne størrelsen og konkurransen er hard. Derfor er det ofte slik at du får mest for pengene ved kjøp av ny bil i denne størrelsen fordi det er her bilprodusentene setter inn det tyngste markedsførings-støtet på denne størrelsen som de selger mest av. Prøv minst fem biler før du bestemmer deg for ny-bil-kjøp i denne prisklassen: Golf er en av bilene det er naturlig å prøve.
