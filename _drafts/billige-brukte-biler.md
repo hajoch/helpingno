@@ -85,8 +85,8 @@ Det er på langtur du blir kjent med en bil. Da får kjørekomforten prøvd seg 
 Som i alle stasjonsvogner er sittekomforten i midten bak ikke så hyggelig. For en familie på 5 er derfor flerbruksbilene med tre individuelle seter bak et bedre alternativ. Hvorfor kommer ikke stasjonsvogner i denne størrelsen med tre individuelle seter bak? Her er plass nok til det.
 
 **Motor ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =12x12)**  
-Testbilen har en to liters dieselmotor som yter 90 KW/124 hk og utstyrsvariant Executive. Motoren er seig og sterk. Akselerasjonen kommer med god styrke i forbikjøringer. Bilen har god nok motorkraft til vanlig bruk. Fremdeles velger de fleste kundene dieselbil, men andelen bensinbiler øker nå - antakelig som følge av politiske signaler.  
-  
+Testbilen har en to liters dieselmotor som yter 90 KW/124 hk og utstyrsvariant Executive. Motoren er seig og sterk. Akselerasjonen kommer med god styrke i forbikjøringer. Bilen har god nok motorkraft til vanlig bruk. Fremdeles velger de fleste kundene dieselbil, men andelen bensinbiler øker nå - antakelig som følge av politiske signaler.
+
 Her er imidlertid ingen "sportknapp" som hever kjøreegenskaper  
 eller andre funksjoner.
 
@@ -105,7 +105,7 @@ Et pristips på Toyota: Importer bilen fra Danmark. Danske Toyota-forhandlere ka
 Toyota hadde solid merkebygging frem til skandaleoppslagene om sikkerhetssvikt og tilbake-kallelser som begynte i 2009 og pågår fremdeles  
 (se [Toyota Prius](toyotaprius.htm)) . Det var dette solide forarbeidet over mange år som så langt har båret Toyota gjennom denne tillitskrisen. Hadde Toyota vært ny på markedet da denne mediastormen av skandaleoppslag kom, så hadde trolig dette satt en stopper for Toyota. Mange års merkebygging og god service sto av stormen og Toyota har i dag igjen tillit i markedet. De mange fornøyde kundene er bærebjelken videre:
 
-Skandinaviske bileiere svarer i en undersøkelse (publisert i 2010) på spørsmål om de er fornøyd med bilen sin: Undersøkelsen er blant bileiere med årsmodeller mellom 2006 og 2009. Avensis kommer på en 12-plass i kundetilfredshet av 115 biler. Toyotas Prius ligger på plass 3 og Verso ligger på 6-plass og Rav 4 nede på 22-plass. Dette viser tydelig god kundetilfredshet med fabrikkens modeller. 
+Skandinaviske bileiere svarer i en undersøkelse (publisert i 2010) på spørsmål om de er fornøyd med bilen sin: Undersøkelsen er blant bileiere med årsmodeller mellom 2006 og 2009. Avensis kommer på en 12-plass i kundetilfredshet av 115 biler. Toyotas Prius ligger på plass 3 og Verso ligger på 6-plass og Rav 4 nede på 22-plass. Dette viser tydelig god kundetilfredshet med fabrikkens modeller.
 
 Dette er en meget sterk indikator på bilenes kvalitet og standard og en meget nyttig oversikt for deg som bilkjøper.
 
@@ -140,7 +140,9 @@ Samlet sett gir Peugeot 5008 et solid og praktisk inntrykk. Denne flerbruksbilen
 
 Er bileierne fornøyd med Peugeot? Undersøkelsen av kundetilfredshet hos bileire er ikke lystig lesning for Peugeot. På en skale fra 1 til 115 havner disse bilene langt nede på lista: Peugeot 107 er på 69-plass, Peugeot 4007 er på 74-plass, Peugeot 206 på 92-plass, Peugeot Partner på elendige 106-plass. Dette lover ikke bra for Peugeot 5008.
 
-**Bruktbil: Volvo V40: God NCAP-test for liten Volvo**
+**Bruktbil: Volvo V40 2012: God NCAP-test for liten Volvo  
+  
+![](/assets/images/v401.jpg)**
 
 Foto: [Christoffer Jore Christensen](christoffer.htm) Tekst: [Gunnar Christensen](gunnar.htm)
 
@@ -148,7 +150,7 @@ At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på 
 
 Ja, alt er vel og bra med V 40 helt til du setter deg inn i baksetet: Det er trangt å komme seg inn og ut og slik sett likner bilen på Mercedes A-klasse. Så i klassen "kompakte familiebiler" finnes konkurrenter som lettere får bestemor inn i baksetet.
 
-Forsetene har Volvokvalitet med god sittekomfort, reguleringer til korsryggstøtte og komfortabel sidestøtte slik du forventer i en større Volvo. Støynivået er meget behagelig for størrelsen. I sum gir dette komfort på langturene og en følelse av å kjøre en større bil.
+Forsetene har Volvo-kvalitet med god sittekomfort, reguleringer til korsryggstøtte og komfortabel sidestøtte slik du forventer i en større Volvo. Støynivået er meget behagelig for størrelsen. I sum gir dette komfort på langturene og en følelse av å kjøre en større bil.
 
 Prismessig ligger V40 på omtrent samme nivå som Mercedes A-klasse og konkurrerer derfor ikke med Golf som både har større bakseteplass og en lavere prislapp. Det er når du ønsker deg noe mer sporty bil i en høyere komfortklasse enn Golf at du vurderer V 40.
 
@@ -157,6 +159,6 @@ motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
 
 Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115 hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
 
-En real håndbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, kruisekontrol, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safty for å nevne det meste.
+En real håndbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, cruisekontroll, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safty for å nevne det meste.
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
