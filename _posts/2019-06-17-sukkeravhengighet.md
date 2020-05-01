@@ -70,6 +70,8 @@ Gjøres det viktige avtaler som ikke står i kontrakten kan dette tilføyes i ko
 **Inventarliste**  
 Hvis boligen, leiligheten eller hybelen er møblert så er det en fordel å lage en liste over hvilke møbler som er i leiligheten. Denne listen bør både du som leietaker og utleier signere. Listen kan dokumenteres med bilder av innboet - med særlig vekt på eventuelle skader eller slitasje. Ta flere bilder slik at det finnes dokumentasjon på inventarets tilstand. En slik liste kan være nyttig når du en gang flytter ut. Etter et lengre leieforhold er det ikke alltid lett å huske hva som tilhører huseier og hva som er eget inventar om det finnes en lett blanding av smått og stort.
 
+![](/assets/images/husostheia2.jpg)
+
 **Dokumenter inventar og leilighet med bilder før du flytter inn.**  
 Det er også viktig å ta bilder av leilighetens tilstand. Slik som kjøkkeninnredningen, tapeter, baderomsinnredning, komfyren etc..
 
