@@ -10,7 +10,7 @@ tags:
 title: Billige brukte biler
 excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Har
   gjengir vi noen av de mange bilene vi testet fra 2010 og nyere: Opel Astra, Toyota
-  Avensis, Peugeots 5008'
+  Avensis, Peugeots 5008 og Volvo V 40.'
 image: "/assets/images/superb035.jpg"
 image_caption: 'Bruktbilene har en gang vært nye. Den gang testet vi dem som nye biler.
   Les testene her. '
@@ -139,3 +139,24 @@ Høyden gjør en flerbruks behageligere å stige inn og ut av.
 Samlet sett gir Peugeot 5008 et solid og praktisk inntrykk. Denne flerbruksbilen er et bedre og større alternativ enn en stasjonsvogn på grunn av bedre sittekomfort i baksetet, flere bruksmuligheter og bedre takhøyde. Men er dette en solid bil? Denne bilmodellen er for ny til å være med i kundetesten
 
 Er bileierne fornøyd med Peugeot? Undersøkelsen av kundetilfredshet hos bileire er ikke lystig lesning for Peugeot. På en skale fra 1 til 115 havner disse bilene langt nede på lista: Peugeot 107 er på 69-plass, Peugeot 4007 er på 74-plass, Peugeot 206 på 92-plass, Peugeot Partner på elendige 106-plass. Dette lover ikke bra for Peugeot 5008.
+
+**Bruktbil: Volvo V40: God NCAP-test for liten Volvo**
+
+Foto: [Christoffer Jore Christensen](christoffer.htm) Tekst: [Gunnar Christensen](gunnar.htm)
+
+At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på NCAP-testen i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen flotte kjøreegenskaper og et tiltalende og moderne design.
+
+Ja, alt er vel og bra med V 40 helt til du setter deg inn i baksetet: Det er trangt å komme seg inn og ut og slik sett likner bilen på Mercedes A-klasse. Så i klassen "kompakte familiebiler" finnes konkurrenter som lettere får bestemor inn i baksetet.
+
+Forsetene har Volvokvalitet med god sittekomfort, reguleringer til korsryggstøtte og komfortabel sidestøtte slik du forventer i en større Volvo. Støynivået er meget behagelig for størrelsen. I sum gir dette komfort på langturene og en følelse av å kjøre en større bil.
+
+Prismessig ligger V40 på omtrent samme nivå som Mercedes A-klasse og konkurrerer derfor ikke med Golf som både har større bakseteplass og en lavere prislapp. Det er når du ønsker deg noe mer sporty bil i en høyere komfortklasse enn Golf at du vurderer V 40.
+
+Drivstoff-forbruket har tidligere vært Volvos problem. Moderniseringen av motorene hang etter konkurrentene og bl.a. V 70-serien ble etter hvert tung å selge på grunn av gammel motorteknologi og høyt drivstoff-forbruk sammenliknet med konkurrentene. Dette endret seg rundt 2008 da ny  
+motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
+
+Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115 hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
+
+En real håndbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, kruisekontrol, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safty for å nevne det meste.
+
+Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
