@@ -41,6 +41,9 @@ Som rojolle er Pioner 8 et funn: To barn går lett i båten uten at den blir bak
 
 Båten er nå videreutviklet til nyere modeller med mer moderne linjer og litt større motor.
 
+![](/assets/images/pioner.8.jpg)  
+Foto: Pioner
+
 **Fakta om Pioner 8** Tekniske data testbåt:  
 Lengde 2,45 m  
 Bredde 1,23 m  
