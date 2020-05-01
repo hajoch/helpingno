@@ -175,7 +175,8 @@ Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølg
 **Test**  
 Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig "langkjøring".
 
-Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
+**Volkswagen Golf 7 - 2014**  
+Et nytt rustproblem? Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
 
 ![](/assets/images/golf73.jpg)
 
