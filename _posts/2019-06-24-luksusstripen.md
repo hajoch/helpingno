@@ -28,8 +28,6 @@ Las Meloneras er det mest eksklusive området du kan besøke på Gran Canaria og
 
 På hotell Hotel Lopesan Costa Meloneras, et stort og flott firestjernes hotell ved havet med storslagen parkanlegg og over to tusen palmer samt 8 svømmebasseng har en stor gjestekapasitet.
 
-Samtidig memoreres tidligere charterreise til øya desember 1989 med Apollo. Se "TIDLIGERE TEST: Grand Canaria"
-
 ![](/assets/images/granc.jpg)
 
 Las Meloneras er et hotellsentra med flott strandpromenade langs havet. Her ligger de beste hotellene på rad og naturligvis med tilstrekkelig med butikker innimellom.
