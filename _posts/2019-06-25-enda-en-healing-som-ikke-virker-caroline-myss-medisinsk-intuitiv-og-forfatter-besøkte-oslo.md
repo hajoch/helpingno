@@ -11,7 +11,7 @@ tags:
 title: 'Enda en healing som ikke virker: Caroline Myss "Medisinsk intuitiv" og forfatter
   besøkte Oslo '
 excerpt: 'Caroline Myss er den neste alternative kjendis som har kjøpt seg en globus
-  og oppdaget verden utenfor USA: - Oj, der er det noe som heter Norge. Der bor det
+  og oppdaget verden utenfor USA:  - Oj, der er det noe som heter Norge. Der bor det
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg har de nesten ikke merket finanskriser.'
 image: "/assets/images/myss (1).jpg"
