@@ -140,7 +140,7 @@ Fra Bussy-Saint-Georges innebærer det kjøring nærmere Paris sentrum hvilket g
 
 Om hjemturen skal gjennom Belgia og Nederland anbefales å kjøre rundt Paris. Unngå rushet fredag ettermiddag. Enhver ettermiddag. Fra kl. 16 og utover øker trafikken rundt Paris. Da kreves stor tid og tålmodighet.
 
-På internet finnes reiseforslag og reiseruter. Korteste vei fra Versailles til Hirtshals er 137 mil ifølge ?mappy?, men legger du veien gjennom Belgia og Nederland drar det ekstra kilometer.
+På internet finnes reiseforslag og reiseruter. Korteste vei fra Versailles til Hirtshals er 137 mil i følge kart , men legger du veien gjennom Belgia og Nederland drar det ekstra kilometer.
 
 E 19 fra Paris til Belgia, via Mons på E 42 til Liège. Deretter på E 25 forbi Eindhoven. Videre A50 til Nijmegen. Derfra E 30 til Osnabruck. Videre E 30 til Hannover og E 45 til Hamburg. Deretter E 45 opp Danmark.
 
@@ -148,7 +148,7 @@ Både Frankrike og Tyskland har lokal skilting på veiene. For eksempel A 7 i st
 
 Det lønner seg å være godt utstyrt med kart. Enkelte av de områdene du må igjennom er tettbefolkede og det kan være en fordel med et mer detaljert kart. Videre kan det være en fordel kun å bestille hotell på bestemmelsesstedet, og la overnatting langs kjøreruta være åpent. En dag kjøres lengre enn planlagt, andre dager kortere. I høstferien er det oftest flust med ledige sengeplasser underveis.
 
-Utstyr barna med walkman, lesestoff, spill og annet som kan sysselsette dem på den lange veien. Ha regelmessige stopp der barna får bruke kroppen og oppleve nye ting. Forbered dem på kjedelige timer og dager i bilen. Snakk om turen og trekk dem med i planleggingen.
+Utstyr barna med digitalt lesestoff, spill og annet som kan sysselsette dem på den lange veien. Ha regelmessige stopp der barna får bruke kroppen og oppleve nye ting. Forbered dem på kjedelige timer og dager i bilen. Snakk om turen og trekk dem med i planleggingen.
 
 Reisehåndbøker og opplysninger på nettet kan komme godt til nytte.  
 Sjekk bilen før reisen.  
