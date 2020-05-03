@@ -50,8 +50,8 @@ Vi tegnet selv hytta i samarbeid med byggmester. 68 m2 grunnflate med loft til s
 **Isolasjon**  
 Inneklima i et bygg er viktig. Dårlig inneklima gir helseplager. Hvordan huset bygges er derfor av den aller største betydning. Dette fordi feil materialvalg og byggeteknikk kan gi deg og din familie alvorlige helseplager som astma og allergi for å ta et nærliggende eksempel. En rekke bøker ble lest forut for planleggingen (se oversikt under).
 
-I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonelle isolasjons matter. Dette er en form for isolasjon laget av papir og som sprøytes inn i veggene etter at ytter- og innervegger er på plass. Mer kunnskap om celluloseisolasjon bl.a. på [https://www.cbinorge.no/om-cbi-norge](https://www.cbinorge.no/om-cbi-norge "https://www.cbinorge.no/om-cbi-norge")  
-  
+I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonelle isolasjons matter. Dette er en form for isolasjon laget av papir og som sprøytes inn i veggene etter at ytter- og innervegger er på plass. Mer kunnskap om celluloseisolasjon bl.a. på [https://www.cbinorge.no/om-cbi-norge](https://www.cbinorge.no/om-cbi-norge "https://www.cbinorge.no/om-cbi-norge")
+
 I stedet for plast som fuktsperre brukes en spesialutviklet papp som den gang kalles Pades som nå er erstattet av damprens av ulike typer. Pades og Cellulose isolasjon markedsføres som en totalløsning. Damprens er et produkt som "puster", holder tett for fukt samtidig og som er et bedre alternativ enn plast som fuktsperre.
 
 **Branntest**  
@@ -84,3 +84,7 @@ Etter 10 års bruk er vi meget godt fornøyd med dette huset på grunn av gode i
 Vår leveranse med Rockwool isolasjon ble levert av en sjåfør som tidligere var byggmester. Han fortalte at han som byggmester ble syk av å arbeide med Glava og måtte derfor omskoleres til annet yrke. Nå kjører han og tar i Rockwool daglig og har ingen plager.
 
 **Sunne byggeråd kan gi deg en bedre helse.**
+
+**Linker:  
+**Maling  
+[https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx](https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx "https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx")
