@@ -87,4 +87,6 @@ Vår leveranse med Rockwool isolasjon ble levert av en sjåfør som tidligere va
   
 Linker:  
 **Maling  
-[https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx](https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx "https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx")
+[https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx](https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx "https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx")  
+Isolasjon  
+[https://www.cbinorge.no/om-cbi-norge](https://www.cbinorge.no/om-cbi-norge "https://www.cbinorge.no/om-cbi-norge")
