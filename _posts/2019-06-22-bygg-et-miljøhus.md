@@ -83,8 +83,8 @@ Etter 10 års bruk er vi meget godt fornøyd med dette huset på grunn av gode i
 **Byggmesteren som ble transportør**  
 Vår leveranse med Rockwool isolasjon ble levert av en sjåfør som tidligere var byggmester. Han fortalte at han som byggmester ble syk av å arbeide med Glava og måtte derfor omskoleres til annet yrke. Nå kjører han og tar i Rockwool daglig og har ingen plager.
 
-**Sunne byggeråd kan gi deg en bedre helse.**
-
-**Linker:  
+**Sunne byggeråd kan gi deg en bedre helse.  
+  
+Linker:  
 **Maling  
 [https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx](https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx "https://www.jotun.com/no/no/b2c/products/interior/sens/index.aspx")
