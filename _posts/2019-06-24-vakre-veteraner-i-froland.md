@@ -9,6 +9,8 @@ tags:
 - biltreff
 - Froland
 - populære veteraner
+- gamle biler
+- veteranbiltreff
 title: " Vakre veteraner i Froland"
 excerpt: |-
   Veteranbiltreff i mai hvert år er et hyggelig vårtegn i Froland som vokser for hvert år. På Froland i Aust-Agder skjer det hvert år i mai. Da stiller stolte bileiere fra nær og fjern med blank-pussede doninger for å bli kjent, se og bli sett. Samt å lære av hverandre.
@@ -39,5 +41,3 @@ weight: 1
 ![](/assets/images/veteran18.jpg)
 
 ![](/assets/images/veteran10.jpg)
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
