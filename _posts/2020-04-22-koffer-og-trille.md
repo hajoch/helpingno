@@ -5,6 +5,14 @@ crop_image: true
 tags:
 - Barnebok
 - god-natt-historie
+- les for de minste
+- kosebok for de minste
+- katten Trille
+- Koffer
+- Anne Bakke
+- Gunnar Christensen
+- barn og dyr
+- barnets verden
 title: Koffer møter Trille
 excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
   Karamell som kalles Storebrum.
@@ -14,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 5
+weight: 8
 
 ---
 **Storebrum trenger hjelp**
