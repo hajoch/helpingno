@@ -17,8 +17,7 @@ excerpt: |-
 
   Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsninger?
 image: "/assets/images/veteran7.jpg"
-image_caption: 1958 Opel Record/Olympia 1700 i tidstypisk to-farget i to flotte farger.
-  Foto Gunnar Christensen
+image_caption: " Foto Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
@@ -28,16 +27,17 @@ weight: 1
 ---
 ![](/assets/images/veteran14.jpg)
 
-![](/assets/images/veteran11.jpg)
+![](/assets/images/veteran11.jpg)  
+1958 Opel Record/Olympia 1700 i tidstypisk to-farget i to flotte farger.
 
 ![](/assets/images/veteran12.jpg)
 
 ![](/assets/images/veteran23.jpg)
-
-![](/assets/images/veteran17.jpg)
 
 ![](/assets/images/veteran19.jpg)
 
 ![](/assets/images/veteran18.jpg)
 
 ![](/assets/images/veteran10.jpg)
+
+![/assets/images/veteran17.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/veteran17.jpg)
