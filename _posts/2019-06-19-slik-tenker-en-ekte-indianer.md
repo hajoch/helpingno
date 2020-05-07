@@ -68,8 +68,8 @@ Bilde fra Lyseggens egen samling. Motiv fra museum.
 **- I over 40 år har du drevet sioux-hjelpen. Hva har du konsentrert deg om?**  
 \- Jeg har prøvd å vinkle hjelpen på indianernes egne premisser siden indianerne selv vet best hva som trengs. Selv føler jeg at jeg har lært mye av indianerne og jeg føler hjelpen på en måte går begge veier. Hver gang jeg kommer bringer jeg med meg klær, mat og gass til oppvarming og matlaging. Alle som reiser med meg gjør det samme. Jeg samler inn både penger og klær i Norge. I USA får jeg støtte av en kristen motorsykkelklubb som bl.a. består av prester og andre yrkesgrupper. De hjelper å frakte nødhjelp og andre ting inn til Pine Ridge og hjelper til inne i reservatet. Bl.a. med julefeiring med gaver til barna og andre tiltak.
 
-![](/assets/images/siouxsoul.jpg)  
-  
+![](/assets/images/siouxsoul.jpg)
+
 **- Hvorfor underviser du unge indianere i reservatet Pine Ridge om deres egen kultur?**  
 \- For mange av dem har kunnskapene og de kulturelle røttene gått tapt. De unge trenger derfor kunnskap om sin egen kultur for å holde denne kunnskapen levende. Da allierer jeg meg med en av de eldste i stammen f.eks. en mann i 80 årene. Jeg ber han fortelle de unge om gamle dager. Med dette prøver jeg å gi de unge livsgleden tilbake. De eldre indianere som kan historien sin forteller om hvordan det var en gang. Dette er viktig fordi denne historien ikke er skrevet ned. Den gamle forteller hvordan det opprinnelig var å være indianer. Denne kulturundervisningen bidrar til å styrke indianernes livsglede, selvrespekt og verdighet. Det er viktig å formidle de kulturelle røtter til de unge. Fordi deres foreldregenerasjon er gått tapt. De er ofte døde på grunn av rus, fattigdom, arbeidsløshet og håpløshet som følge av at indianerne klarer ikke å forsørge barna sine. Derfor er mange unge oppvokst hos sine besteforeldre. Indianerne er i dag i en form for ingenmannsland. De er ikke hvite og de er ikke ekte indianere lenger. De klarer seg ikke i den hvite manns verden. Derfor må de lære å bli indianere igjen for å overleve. Slik jeg ser det må de tilbake til det gamle tankemønsteret sitt. Dette betyr ikke at de ikke skal lære data og følge med i den verden vi lever ei, men de må ha tankemønsteret sitt og de kulturelle grunnpilarene som er et viktig og avgjørende fundament i livene deres.  
 **- Du har med deg reisefølge hver gang du drar til stammen din?**  
@@ -98,6 +98,9 @@ Det er gjennom medisinmannen jeg har kommet langt med å nå frem og få tillit 
 
 Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjentar:  
 \- Som naturfolk har indianerne en unik kunnskap og harmoni med naturen. Når indianerne tar noe fra naturen - f.eks. hogger et tre - da planter de et nytt tre for hvert tre de hogger. Tanken er at neste generasjon også trenger trær. Slik vil ressursene alltid være der. Vi forstår lite av naturen sammenliknet med dem. Her er avgjørende kunnskap som kan være viktig for vår sivilisasjons overlevelse.
+
+![](/assets/images/siouxind.JPG)  
+_Bilde fra Lyseggens egen samling._
 
 Lise Lyseggens nettsider: **Sioux-hjelpen:**  
 Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
