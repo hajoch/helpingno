@@ -43,9 +43,9 @@ Bank og post vil anbefale deg å sikre deg riktig navn og adresse - sjekk ID og 
 
 Du har ingen garanti for at pengene du sender på denne måten blir benyttet slik de er ment f.eks. til barnas skolegang. Husk da at dette er fattige mennesker som gjør sine egne prioriteringer. Som du ikke har kontroll over.
 
-Min far hadde i årevis et lite hjelpeprosjekt i Gambia hvor han ferierte. Han hadde stor glede av å hjelpe der han kunne. Her hadde han valgt å hjelpe et SOS-barneby-barn og en fattig taxisjåfør kalt Sambo i landsbyen nær hotellet, en liten puslete og forsiktig kar uten næringsvett - forøvrig den eneste taxisjåføren han turde sitte på med der. Hver gang han besøkte Gambia hadde han med ekstra kofferter med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Den fattige familien ble plutselig dobbelt så stor da Sambos bror døde: Etter Gambiansk skikk måtte Sambo ta til seg brorens enke og alle barna hans. Det er ingen tvil om at min fars hjelp var avgjørende for at familien overlevde. Da taxien etter endel år ikke kunne brukes lengre fikk Sambo penger av min far til kjøp av en bedre bruktbil. Dette ble totalt en meget stor gave med årene. MIn far var lykkelig over å kunne se resultater av hjelpearbeidet sitt hver gang han besøkte Gambia på ferie..  
-   
-Flere år senere ble jeg ringt opp av ei radikalisert, aggressiv afrikansk kvinne som ga seg ut for å representere familien til Sambo: En person som åpenbart ikke kjente til de faktiske forholdene og hvor mye min far hadde hjulpet familien. Jeg ble utskjelt på det groveste.   
+Min far hadde i årevis et lite hjelpeprosjekt i Gambia hvor han ferierte. Han hadde stor glede av å hjelpe der han kunne. Her hadde han valgt å hjelpe et SOS-barneby-barn og en fattig taxisjåfør kalt Sambo i landsbyen nær hotellet, en liten puslete og forsiktig kar uten næringsvett - forøvrig den eneste taxisjåføren han turde sitte på med der. Hver gang han besøkte Gambia hadde han med ekstra kofferter med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Den fattige familien ble plutselig dobbelt så stor da Sambos bror døde: Etter Gambiansk skikk måtte Sambo ta til seg brorens enke og alle barna hans. Det er ingen tvil om at min fars hjelp var avgjørende for at familien overlevde. Da taxien etter endel år ikke kunne brukes lengre fikk Sambo penger av min far til kjøp av en bedre bruktbil. Dette ble totalt en meget stor gave med årene. MIn far var lykkelig over å kunne se resultater av hjelpearbeidet sitt hver gang han besøkte Gambia på ferie..
+
+Flere år senere ble jeg ringt opp av ei radikalisert, aggressiv afrikansk kvinne som ga seg ut for å representere familien til Sambo: En person som åpenbart ikke kjente til de faktiske forholdene og hvor mye min far hadde hjulpet familien. Jeg ble utskjelt på det groveste.  
 Jeg er glad min far ikke fikk oppleve denne grove utakknemligheten.
 
 Mange velger derfor å gå gjennom organisasjoner som formidler hjelp f.eks. fjernadopsjon i slike saker. Eller gi hjelp øremerket til det område du velger eller de menneskene du vil hjelpe gjennom f.eks. Leger uten grenser eller Frelsesarmeen.
@@ -77,3 +77,7 @@ Utviklingslandene vil først og fremst ha bort tollmurene våre slik at de kan s
 ![](/assets/images/bangladesh-1.jpg)
 
 Helping.no har kjøpt et hus til en flom-rammet familie i Bangladesh gjennom en hjelpeorganisasjon. Eiendomsretten er overført til den familien som trengte og fikk tildelt huset. Huset er konstruert slik at når flommen kommer neste gang kan veggene hengsles opp under taket slik at flommen går gjennom huset fremfor å ta hele huset med seg. Etter flommen kan familien gjøre rent og ta ned veggene og ta huset i bruk igjen. FInner du huset kan du lese på veggen at dette er en gave fra helping.no.
+
+Annonse:
+
+![](/assets/images/stromme.jpg)
