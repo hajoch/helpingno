@@ -80,4 +80,4 @@ Helping.no har kjøpt et hus til en flom-rammet familie i Bangladesh gjennom en 
 
 **Annonse:**
 
-![https://strommestiftelsen.no](/assets/images/stromme.jpg "https://strommestiftelsen.no")
+![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)
