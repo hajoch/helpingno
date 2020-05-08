@@ -28,5 +28,12 @@ weight: 5
 
 I dag er menneskeheten med på å drive den globale oppvarmingen i rasende fart. Vi bør huske på at det har vært istid før og denne sykliske utviklingen øker nå farten. Kunne vi tatt til oss den lærdommen som indianerne har opparbeid seg i generasjoner så kunne vi reversert mye av den negative utviklingen vi ser i naturen nå. Dette peker mot tanken om at alle folkeslag er avhengig av hverandre og hverandres naturkunnskap. Som når araberne finner vann i ørkenen og aborginerne klarer å overleve i deres ørken. Det er summen av den naturkunnskapen som vil kunne føre menneskeheten videre tilbake til en bærekraftig eksistens på denne kloden.
 
-Vi er alle avhengig av hverandre: Indianerne kaller dette livets hjul - prosessen mellom mennesker - der alle har forskjellige roller i samfunnets helhet og der alle er like mye verdt. Det er skremmende at klodens politikere ikke tenker slik: Deres oppgaver er å jobbe for oss - å forvalte fellesgodene. Mitt inntrykk er at de kun tenker på seg selv.   
+Vi er alle avhengig av hverandre: Indianerne kaller dette livets hjul - prosessen mellom mennesker - der alle har forskjellige roller i samfunnets helhet og der alle er like mye verdt. Det er skremmende at klodens politikere ikke tenker slik: Deres oppgaver er å jobbe for oss - å forvalte fellesgodene. Mitt inntrykk er at de kun tenker på seg selv.  
 Lise Lyseggen
+
+**Annonse:  
+**![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
+Lise Lyseggens nettside om Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.  
+[www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)  
+E-post: [Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
