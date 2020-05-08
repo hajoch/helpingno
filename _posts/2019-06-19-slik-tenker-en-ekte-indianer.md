@@ -102,9 +102,7 @@ Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjenta
 ![](/assets/images/siouxind.JPG)  
 _Bilde fra Lyseggens egen samling._
 
-Lise Lyseggens nettsider: **Sioux-hjelpen:**  
-Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
-[siouxsoul.no](http://siouxsoul.no/)
-
-Grasrotandel i Norsk tipping:  
-Sioux Soul org nr 911899272.
+**Annonse:  
+**Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
+Lise Lyseggens nettside Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.
