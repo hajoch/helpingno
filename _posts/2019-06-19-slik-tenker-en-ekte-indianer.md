@@ -101,8 +101,8 @@ Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjenta
 _Bilde fra Lyseggens egen samling._
 
 **Annonse:  
-**![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)**  
-**Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
-Lise Lyseggens nettside Sioux-hjelpen**:  
-**[siouxsoul.no](http://siouxsoul.no/)  
-Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.
+**![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
+Lise Lyseggens nettside om Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.  
+[www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)  
+E-post: [Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
