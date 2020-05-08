@@ -17,7 +17,7 @@ tags:
 title: Kreftfremkallende plastflasker?
 excerpt: EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann
   avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan
-  være kreftfremkallende.
+  være kreftfremkallende. Rent, trygt vann er avgjørende for god helse.
 image: "/assets/images/flasker.jpg"
 image_caption: "Foto Gunnar Christensen. Bruk en glassflaske med skrukork når du tar
   med deg drikkevann. \n"
@@ -45,12 +45,10 @@ Matvarer pakket i hermetikk, glass eller papir har nå beviselig sunnere emballa
 Straks etterspørselen av matvarer innpakket i plast minker vil produsentene finne nye løsninger på emballasjen. Våre kjøpevaner styrer produsentenes tilbud. Dette er vår forbrukermakt. Og det er nå naturlig at vi unngår mest mulig mat som er pakket i kreftfremkallende plastemballasje.
 
 * **Tips om drikkevann:**   
-  Lage ditt eget drikkevann: Bruk en glassflaske med skrukork når du tar med deg drikkevann. Eller en karaffel som du har i kjøleskapet. Da unngår du problemene med plastflasker som gir fra seg helseskadelige stoffer. Har du en vannrenser på kjøkkenet er dette bra drikkevann. (Se avsnitt"Vannrenser" på samme side.) Ellers kan du koke vann som kjøles ned og helles på karaffel eller glassflaske. Du kan i stedet for glassflaske bruke liten juicekartong med skrukork om det passer deg bedre.
+  Lage ditt eget drikkevann: Bruk en ren glassflaske med skrukork når du tar med deg drikkevann. Eller en karaffel som du har i kjøleskapet. Da unngår du problemene med plastflasker som gir fra seg helseskadelige stoffer. Har du en vannrenser på kjøkkenet er dette bra drikkevann. Ellers kan du koke vann som kjøles ned i kjøleskapet og helles på karaffel eller glassflaske. 
 * **Vannrenser**
 
   Rørleggere kan montere et vannrenseanlegg i kjøkkenbenken slik at du får god drikkevannskvalitet i din daglige husholdning. Du får da en egen tappekran til drikkevannet i tillegg til den vanlige vannkranen.
 
-  På markedet finnes i dag flere modeller og kvaliteter på vannrenseanlegg. Kjøper du mye drikkevann kan et slikt vann-renseanlegg være en god investering slik prisnivået på kjøpevann nå har utviklet seg. I tillegg er nyheten om giftstoffer i plastflasker et godt argument for å montere vannrenser.
-*   
-  **OPS:** Mattilsynet har opplysninger om testing  
+  På markedet finnes i dag flere modeller og kvaliteter på vannrenseanlegg. Kjøper du mye drikkevann kan et slikt vann-renseanlegg være en god investering slik prisnivået på kjøpevann nå har utviklet seg. I tillegg er nyheten om giftstoffer i plastflasker et godt argument for å montere vannrenser. **OPS:** Mattilsynet har opplysninger om testing  
   av vannrenser. Sjekk der hvilke modeller som er best.
