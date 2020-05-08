@@ -103,5 +103,6 @@ _Bilde fra Lyseggens egen samling._
 **Annonse:  
 **![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)**  
 **Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
-Lise Lyseggens nettside Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+Lise Lyseggens nettside Sioux-hjelpen**:  
+**[siouxsoul.no](http://siouxsoul.no/)  
 Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.
