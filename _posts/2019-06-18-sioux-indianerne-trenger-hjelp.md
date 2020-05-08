@@ -106,20 +106,11 @@ Samtidig må vi rette opp så mye vi kan av den urett som er begått mot indiane
 
 I over 40 år har Lise Lyseggen sett dette og jobbet for å gjenreise denne indianerkulturen og gi den en gang så stolte  
 og velutviklede Siouxstammen et verdig  
-og meningsfylt liv.  
-  
-Lise Lyseggens nettsider:
+og meningsfylt liv.
 
-##### **Sioux-hjelpen:**  
-Nettsiden om hjelpearbeidet omtalt i intervjuet er:  
-[siouxsoul.no](http://siouxsoul.no/)
-
-Grasrotandel i Norsk tipping:  
-Sioux Soul org nr 911899272.
-
-**Facebook**
-
-[www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)
-
-**E-post:**  
-[Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
+**Annonse:  
+**![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
+Lise Lyseggens nettside om Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.  
+[www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)  
+E-post: [Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
