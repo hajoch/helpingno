@@ -76,3 +76,5 @@ Problemstillingen kan virke noe forenklet: Selvfølgelig er farger bare en av ma
 
 **Fargepsykologien er påaktet**  
 Bedriftsundersøkelsen viser at fargepsykologien er påaktet i markedsføring og produktutvikling hos produsenter av dagligvarer i Oslo-området. De fleste produsentene gir inntrykk av å være oppmerksomme på at farger har en betydning i markedsføringen, men er noe tilbakeholdende med opplysninger som kan underbygge hva de hevder - selv om jeg i brev til produsentene ga uttrykk for ønske om fyldigs mulig svar. Vi kan i denne forbindelse ikke se bort i fra at dette kan ha sin naturlige forklaring i at det her er tale om dyrtkjøpt og/eller utprøvd know how som bedriftene ikke ønsker å gi ut til andre mens de befinner seg i en konkurransesituasjon, hvor det kjempes om markedsandeler.
+
+![](/assets/images/farge.jpg)
