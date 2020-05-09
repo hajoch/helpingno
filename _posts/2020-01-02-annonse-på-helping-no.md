@@ -30,7 +30,7 @@ Kontakt oss: E-post redaksjonen:
 Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
 (Andre plasseringer kan vi diskutere.)
 
-Slik som disse annonsene nederst på en av våre økonomisider:  
+Slik som disse annonsene nederst på våre sider:  
 **Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
