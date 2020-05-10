@@ -50,6 +50,8 @@ weight: 7
 
 ![](https://wwww.helping.no/assets/images/sogn5.jpg)
 
+![](/assets/images/sogn15-1.jpg)
+
 Vakker biltur over fjellet.
 
 ![](https://wwww.helping.no/assets/images/sogn2.jpg)![](/assets/images/sogn2.jpg)
