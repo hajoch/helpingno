@@ -22,7 +22,7 @@ excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virk
 image: "/assets/images/nov.14.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 7
 
