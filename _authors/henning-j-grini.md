@@ -32,4 +32,4 @@ Utgitt engelsk versjon i 2017. ( Utgitt på norsk i 2016.)
 
 E-post: [hjgrini@gmail.com](mailto:hjgrini@online.no)
 
-![](/assets/images/gaialogo.jpg)
+[![](/assets/images/gaialogo.jpg)]()
