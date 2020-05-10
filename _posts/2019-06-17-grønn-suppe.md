@@ -18,7 +18,7 @@ excerpt: Spinat og brokkoli
 image: "/assets/images/gonn.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 4
 
