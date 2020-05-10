@@ -78,7 +78,7 @@ Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker ove
 **"Vidunderlige nye verden"**  
 To bøker advarte mot overvåkningssamfunnet: Aldous Huxley utga boka "Vidunderlige nye verden" som kom alt i 1932, mens George Orwells bok "1984" kom i 1949. Begge bøkene kom i norsk oversettelse.
 
-For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i vår egen levertid skulle oppleve et overvåkningssamfunn som det vi har nå. Hvorfor var vi så naive og trodde våre folkevalgte aldri ville godta en slik utvikling? Er vi sveket av dem vi i alle år stemte inn på Stortinget? Eller er dette ute av kontroll på verdensbasis?
+For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i vår egen levetid skulle oppleve et overvåkningssamfunn som det vi har nå. Hvorfor var vi så naive og trodde våre folkevalgte aldri ville godta en slik utvikling? Er vi sveket av dem vi i alle år stemte inn på Stortinget? Eller er dette ute av kontroll på verdensbasis?
 
 Hva har skjedd? Har vi beskyttet oss godt nok mot å bli overvåket? Hvorfor har vi godtatt dette? Har vi godtatt det? Vet vi nok om overvåkningen i samfunnet? Er det den teknologiske utviklingen som har "tatt oss på senga"?
 
