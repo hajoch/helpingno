@@ -17,8 +17,8 @@ excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde.
 image: "/assets/images/hytte1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
-- _category/økonomi.md
-publish_date: 2019-07-04 00:00:00 +0200
+- _category/bolig.md
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 5
 
 ---
