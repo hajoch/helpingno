@@ -12,9 +12,9 @@ excerpt: 'Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kv
   uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge
   er en god start på et vellykket måltid. Kjøp f.eks. et stort stykke til hver person. '
 image: "/assets/images/bankekjott.jpg"
-image_caption: 'Foto: GC'
+image_caption: 'Foto: Gunnar Cheristensen'
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 4
 
