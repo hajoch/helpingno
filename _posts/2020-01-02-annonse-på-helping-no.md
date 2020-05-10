@@ -26,8 +26,6 @@ weight: 9
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
 og begrenser antallet annonser slik at det ikke dominerer sidene våre.
 
-![](/assets/images/Basse (4).jpg)
-
 Helping.no har lesere først og fremst der hvor nordmenn bor som i Norge, Skandinavia, Nord Amerika og Syd-Europa. Vi har også internasjonalt besøk.
 
 Kontakt oss: E-post redaksjonen:  
