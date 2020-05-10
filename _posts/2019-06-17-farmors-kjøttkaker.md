@@ -17,7 +17,7 @@ excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker 
 image: "/assets/images/middag.1 (1).jpg"
 image_caption: Foto Gunnar Christensen
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 3
 
