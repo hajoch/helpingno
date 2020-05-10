@@ -21,9 +21,9 @@ image_caption: |-
   Foto: Christoffer Jore Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/religion.md
-publish_date: 2019-07-04T22:00:00.000+00:00
-weight: 2
+- _category/helse.md
+publish_date: 2020-05-10 00:00:00 +0200
+weight: 1
 
 ---
 "Alternativt" er en gruppebetegnelse som har flere retninger: I hovedsak er det snakk om alternativ helsebehandling og tanker av religiøs karakter.
