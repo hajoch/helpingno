@@ -17,7 +17,7 @@ excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smak
 image: "/assets/images/scampi2.jpg"
 image_caption: Foto Jens Christian Jore Christensen
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 5
 
