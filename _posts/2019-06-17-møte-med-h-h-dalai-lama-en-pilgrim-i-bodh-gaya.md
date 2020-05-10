@@ -38,6 +38,8 @@ Bodh Gaya i Nordøst-India er et hellig sted for alle buddhister. Det var her Bu
 
 Før Dalai Lama kom til Bodh Gaya, ble plassen foran det tibetanske tempelet ryddet tor tiggere og selgere, deretter omhyggelig feiet for søppel, og til sist dekorert med lotusblomster tegnet på sanden med kritt. Flere militære og sivile sikkerhetsvakter plasserte seg i området.
 
+![](/assets/images/dalailama.jpg)
+
 **Hans Hellighet**  
 Kl 11.oo kom han i en amerikansk bil fra 1950-årne, ledsaget av soldater fra den indiske hær fordelt på jeeper og lastebiler. De sivile sikkerhetsfolkene i Ambassadors-biler - de lisensproduserte indiske personbilene som i praksis er gamle Morriser fra 1950 årenes British Leyland.
 
