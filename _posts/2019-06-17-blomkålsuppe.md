@@ -16,7 +16,7 @@ excerpt: Vegetarmat - sunt, billig og godt
 image: "/assets/images/blomk..jpg"
 image_caption: Foto GC
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 3
 
