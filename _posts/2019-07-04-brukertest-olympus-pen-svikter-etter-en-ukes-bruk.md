@@ -23,7 +23,7 @@ image: "/assets/images/olympus.jpg"
 image_caption: Foto Olympus PEN
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 2
 
