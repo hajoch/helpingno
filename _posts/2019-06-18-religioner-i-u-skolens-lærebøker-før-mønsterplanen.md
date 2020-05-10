@@ -61,11 +61,11 @@ _Gunnar Christensen:
 (PDF versjonen har også tillegg om Buddhisme, Hinduisme, Islam, synkretistiske religioner og blasfemi.)
 
 **Papirutgave**  
-Skandalebøkene i Ungdomsskolen er også tilgjengelig i papirutgave!  
+"Skandalebøkene i Ungdomsskolen" er også tilgjengelig i papirutgave!  
 Utgitt første gang oktober 2004 på Ildsjelen Forlag,  
 118 sider. Forlaget er utsolgt.
 
-**Du kan låne "Skandalebøkene i ungdomsskolen"**  
+**Du kan låne "Skandalebøkene i ungdomsskolen" på biblioteket.**  
 på ditt lokale bibliotek ved å oppi bokas data: "Skandalebøkene i ungdomsskolen", Forfatter: Gunnar Christensen  
 ISBN 82-996312-7-0. ildsjelen forlag  
 2 opplag 2005
@@ -95,7 +95,7 @@ Forfatteren Gunnar Christensen er takknemlig for at er lite forlag som den gang 
 Fordi bøkene finnes i bokhandelen/netthandelen kun ca. 2 år etter utgivelsen av kapasitetsgrunner. Deretter kun på biblioteket og bruktbokhandel. Forfatteren vil helst bli lest så lenge som mulig etter utgivelsen. De fleste forfattere kan ikke legge ut bøkene sine på denne måten på grunn av de store forlagenes rettigheter. Slik er det ikke alltid med små forlag. Dette systemet gjør at du går glipp av mange flotte bøker.
 
 ![](/assets/images/religioner.jpg)  
-"_Skandalebøkene i Ungdomsskolen" ble til som en hovedfag-avhandling i religionshistorie ved Universitetet i Bergen i 1982 og publisert som kronikk i Aftenposten der temaet vakte oppsikt. Senere ble den om-arbeid til en bok fordi denne forskningen har historisk interessen._
+"_Skandalebøkene i Ungdomsskolen" ble til som en hovedfag-avhandling i religionshistorie ved Universitetet i Bergen i 1982 og publisert som kronikk i Aftenposten der temaet vakte oppsikt. Senere ble den om-arbeid til en bok fordi denne forskningen har historisk interesse._
 
 **Sponse oss?**  
 Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss på helping-magasinets konto **1506.28.29343**
