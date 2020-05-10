@@ -19,7 +19,7 @@ excerpt: |-
   - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
 
   En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske klosteret.
-image: "/assets/images/dalailama.jpg"
+image: "/assets/images/dalailama11.jpg"
 image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
   klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap. Han
