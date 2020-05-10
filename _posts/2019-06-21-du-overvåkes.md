@@ -52,7 +52,7 @@ Tilliten til Internett som arena for kommunikasjon er nå i ferd med å bli bort
 Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
 
 **Privatliv på nettet**  
-Hvorfor botlegger mange mennesker hele sitt privatliv på facebook og twitter med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på Facebook når du reise bort og huset står tomt?
+Hvorfor blottlegger mange mennesker hele sitt privatliv på facebook og twitter med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på Facebook når du reise bort og huset står tomt?
 
 Hvorfor skal alle innbyggeres formue og inntekt legges  
 ut på nett som en oppslagsbok for kriminelle?
@@ -77,7 +77,7 @@ Fastlegene sviktet pasientenes personvern da de i 2012 godtok e-reseptene: Godta
 [http://tidsskriftet.no/article/2926587/](http://tidsskriftet.no/article/2926587/ "http://tidsskriftet.no/article/2926587/")
 
 **På utenlandsreiser er sikkerhet viktig**  
-Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker over i Norge. Når du ferierer i utlandet eller jobber der i kortere eller lengre tid så sjekk råd om sikkerhet. PST har utarbeid pdf-brosjyrer med råd til deg om sikkerhet og mobilbruk i utlandet: [www.pst.politiet.no](http://www.pst.politiet.no/)****
+Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker over i Norge. Når du ferierer i utlandet eller jobber der i kortere eller lengre tid så sjekk råd om sikkerhet. PST har utarbeid pdf-brosjyrer med råd til deg om sikkerhet og mobilbruk i utlandet: [www.pst.politiet.no](http://www.pst.politiet.no/)
 
 **"Vidunderlige nye verden"**  
 To bøker advarte mot overvåkningssamfunnet: Aldous Huxley utga boka "Vidunderlige nye verden" som kom alt i 1932, mens George Orwells bok "1984" kom i 1949. Begge bøkene kom i norsk oversettelse.
@@ -95,7 +95,7 @@ Telefonhenvendelser sms og epost fra gallupinstituttene identifiserer seg i dag 
 Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvernproblem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
 
 * Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?
-* Kanskje ringer en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
+* Kanskje ringer eller sender en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
 
 Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikkerhet, hackere og levereing av data videre?
 
