@@ -24,7 +24,7 @@ image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
 - _category/foto.md
-publish_date: 
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 3
 
 ---
@@ -32,7 +32,7 @@ Du overvåkes
 
 ![](/assets/images/overvake-1.jpg)
 
-Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne.
+Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. Opplysninger om deg er salgsvare verden over.
 
 **Hvem overvåker nasjonalt og internasjonalt?  
 NRK skriver 9 mai 2020:**
@@ -43,22 +43,20 @@ NRK skriver 9 mai 2020:**
 
 Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet)
 
-Kanskje flere skaffer seg innsyn? Hackere er over hele systemet.  
-Vi har intet sikkert vern mot overvåkerne i dag.
+Kanskje flere skaffer seg innsyn? Hackere er over hele systemet. Vi har intet sikkert vern mot overvåkerne i dag.
 
-Tilliten til Internett og mobilnett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at Internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til Internett-kommunikasjon blir borte?
+Tilliten til Internett og mobilnett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at Internett og mobilnett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til Internett-kommunikasjon blir borte?
 
 **"Storebror ser deg"**  
-Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
+Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt og alle som ønsker det vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
 
 **Privatliv på nettet**  
-Hvorfor blottlegger mange mennesker hele sitt privatliv på facebook og twitter med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på Facebook når du reise bort og huset står tomt?
+Hvorfor blottlegger mange mennesker hele sitt privatliv på facebook og twitter med flere - med bilder etc. uten å tenke igjennom hva som skjer hvis kriminelle eller politiske interesser får innsyn i opplysningene? Flere enn du tror kan lese det du skriver: Foteller du på Facebook når du reise bort og huset står tomt?
 
-Hvorfor skal alle innbyggeres formue og inntekt legges  
-ut på nett som en oppslagsbok for kriminelle?
+Hvorfor skal alle innbyggeres formue og inntekt legges ut på nett som en oppslagsbok for kriminelle?
 
 **Stjeler identiteter**  
-Når du er på Internett kan alt du gjør overvåkes. Tenker du da hva du skriver les personvern? Facebook og andre sosiale nettsteder er som en åpen bok for både overvåkningspolitiet og kriminelle som har interesse av din virksomhet, hvor du befinner deg, når du er hjemme eller ute, dine tanker, politiske holdninger og verdier.
+Når du er på Internett kan alt du gjør overvåkes. Tenker du da hva du skriver les personvern? Facebook og andre sosiale nettsteder er som en åpen bok for både overvåkningspolitiet og kriminelle samt andre stater som har interesse av din virksomhet, hvor du befinner deg, når du er hjemme eller ute, dine tanker, politiske holdninger og verdier.
 
 Kriminelle stjeler identiteter og ligger stadig i forkant på datateknologien når du bruker din nettbank, snoker i din elektroniske pasientjournal etc. etc. Ikke en gang Pentagon har klart å hindre hackere innsyn. Skandalene har stått i kø: Helse-Sør-Øst-skandalenen...........
 
@@ -67,9 +65,7 @@ Tenker du over hva en slik utvikling av overvåkning i samfunnet betyr for ditt 
 
 Merker du en form for avmakt i forhold til egen sikkerhet og privatliv? Føler du behov for å hjemme deg? Føler du deg lurt av politikerne du valgte inn på Stortinget? Kan frykt for terror legalisere en så massiv overvåkning av et helt folk- av en hel klode?
 
-Er du tilhenger av prinsippet om at alle skal ha innsyn i alt?  
-Eller er det en menneskerett å ha et privatliv som  
-offentligheten ikke har rett til å overvåke?  
+Er du tilhenger av prinsippet om at alle skal ha innsyn i alt? Eller er det en menneskerett å ha et privatliv som offentligheten ikke har rett til å overvåke?  
 Hva er mulig å verne seg imot?
 
 **E-resept**  
@@ -82,7 +78,7 @@ Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker ove
 **"Vidunderlige nye verden"**  
 To bøker advarte mot overvåkningssamfunnet: Aldous Huxley utga boka "Vidunderlige nye verden" som kom alt i 1932, mens George Orwells bok "1984" kom i 1949. Begge bøkene kom i norsk oversettelse.
 
-For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i vår egen levertid skulle oppleve et overvåkningssamfunn. Hvorfor var vi så naive og trodde våre folkevalgte aldri ville godta en slik utvikling? Er vi sveket av dem vi i alle år stemte inn på Stortinget? Eller er dette ute av kontroll på verdensbasis?
+For oss som leste disse bøkene på 70-tallet var det totalt utenkelig at vi i vår egen levertid skulle oppleve et overvåkningssamfunn som det vi har nå. Hvorfor var vi så naive og trodde våre folkevalgte aldri ville godta en slik utvikling? Er vi sveket av dem vi i alle år stemte inn på Stortinget? Eller er dette ute av kontroll på verdensbasis?
 
 Hva har skjedd? Har vi beskyttet oss godt nok mot å bli overvåket? Hvorfor har vi godtatt dette? Har vi godtatt det? Vet vi nok om overvåkningen i samfunnet? Er det den teknologiske utviklingen som har "tatt oss på senga"?
 
