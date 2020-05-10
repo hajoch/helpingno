@@ -2,7 +2,6 @@
 layout: author
 title: Henning Jon Grini
 image: "/assets/images/photoHenning2.png"
-published: false
 
 ---
 Styremedlem i helping.no
