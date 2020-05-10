@@ -16,7 +16,7 @@ image: "/assets/images/ab2011.2.jpg"
 image_caption: Foto Anna Bakke
 author: _authors/anne-bakke.md
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 2
 
