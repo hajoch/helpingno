@@ -17,7 +17,7 @@ excerpt: 'Test: Helping.no har i mer enn 10 år brukt Nikon D3100 og D3200 for l
 image: "/assets/images/nikondk1.jpg"
 image_caption: Motiv fra Danmark. Foto Gunnar Christensen
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 3
 
