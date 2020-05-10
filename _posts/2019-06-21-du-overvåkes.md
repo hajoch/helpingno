@@ -23,7 +23,7 @@ image: "/assets/images/overvake-1.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
+- _category/helse.md
 publish_date: 2020-05-10 00:00:00 +0200
 weight: 7
 
