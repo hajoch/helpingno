@@ -23,7 +23,7 @@ image_caption: |-
   Farger selger
   Foto Christoffer J. Christensen
 categories:
-- _category/økonomi.md
+- _category/bolig.md
 publish_date: 
 weight: 3
 
