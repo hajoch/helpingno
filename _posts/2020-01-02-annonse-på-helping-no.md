@@ -12,7 +12,7 @@ tags:
 title: Annonse og sponsing på helping.no.
 excerpt: "Vi har siden 2001 gitt deg gratis bøker og nyttige artikler. Du er velkommen
   til å sponse vår virksomhet. \nØnsker du annonse hos oss - ta kontakt"
-image: "/assets/images/Basse (3).jpg"
+image: "/assets/images/Basse (04).jpg"
 image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Nettstedet
   har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. Foto Jens
   Christian Jore Christensen
@@ -25,6 +25,8 @@ weight: 9
 ---
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
 og begrenser antallet annonser slik at det ikke dominerer sidene våre.
+
+![](/assets/images/Basse (4).jpg)
 
 Helping.no har lesere først og fremst der hvor nordmenn bor som i Norge, Skandinavia, Nord Amerika og Syd-Europa. Vi har også internasjonalt besøk.
 
@@ -45,8 +47,8 @@ www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)
 
 Her er 3 like annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
-I tillegg velger du hvilken av våre over 200 sider du ønsker å annonsere på.   
-  
+I tillegg velger du hvilken av våre over 200 sider du ønsker å annonsere på.
+
 Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gies rabatt etter avtale.
 
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
