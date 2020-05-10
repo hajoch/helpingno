@@ -19,7 +19,7 @@ image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no
 author: ''
 categories:
 - _category/redaksjonen-om-oss.md
-publish_date: 
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 9
 
 ---
