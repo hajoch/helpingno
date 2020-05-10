@@ -13,8 +13,8 @@ image: "/assets/images/bruktbat.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/økonomi.md
-publish_date: 2019-07-03T22:00:00.000+00:00
+- _category/bolig.md
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 7
 
 ---
