@@ -14,7 +14,7 @@ image: "/assets/images/juli31.jpg"
 image_caption: "Foto:Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 6
 
