@@ -15,8 +15,8 @@ image: "/assets/images/blomst.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
-publish_date: 2019-11-30T23:00:00.000+00:00
+- _category/reise.md
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 4
 
 ---
