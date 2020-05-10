@@ -20,9 +20,9 @@ excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av 
 image: "/assets/images/skagen3.jpg"
 image_caption: 'Illustrasjon. Foto: Gunnar Christensen'
 categories:
-- _category/økonomi.md
+- _category/bolig.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Av Julie Jørgensen
