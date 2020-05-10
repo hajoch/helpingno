@@ -32,7 +32,7 @@ Du overvåkes
 
 ![](/assets/images/overvake-1.jpg)
 
-Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. 
+Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne.
 
 **Hvem overvåker nasjonalt og internasjonalt?  
 NRK skriver 9 mai 2020:**
@@ -46,7 +46,7 @@ Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http:/
 Kanskje flere skaffer seg innsyn? Hackere er over hele systemet.  
 Vi har intet sikkert vern mot overvåkerne i dag.
 
-Tilliten til Internett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at Internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til Internett-kommunikasjon blir borte?
+Tilliten til Internett og mobilnett som arena for kommunikasjon er nå i ferd med å bli borte. Hva vil skje videre? Kan vi tenke oss at Internett blir splittet opp i regioner? Hva skjer med nasjonal og internasjonal kommunikasjon hvis all tillit til Internett-kommunikasjon blir borte?
 
 **"Storebror ser deg"**  
 Hva betyr overvåkning for oss? Det betyr at når du sender e-post med bilde av barna og familieopplysninger til din gamle tante i USA så kopieres og lagres dette i seks måneder eller mer som om du skulle være kriminell. Og når du snakker med kjæresten din i mobilen så tapes dette automatisk av overvåkningen og lagres i seks måneder som om du var kriminell. Mobilselskapet ditt vet hvor du er til enhver tid. Er du komfortabel med å ha det slik i Norge og nesten hvor du enn reiser på denne kloden?
