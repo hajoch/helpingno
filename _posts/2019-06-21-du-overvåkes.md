@@ -30,11 +30,18 @@ weight: 3
 ---
 Du overvåkes
 
-![](https://wwww.helping.no/assets/images/overvake.jpg =162x150)
+![](/assets/images/overvake-1.jpg)
 
-Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. Hvem overvåker nasjonalt og internasjonalt?
+Når du ringer, sender SMS eller mailer kan din kommunikasjon med andre overvåkes med hvert ord du har sagt: Ja. Alt du snakker, SMSer og hvor du er: Mailer blir lagret og kan spilles av hos overvåkerne. 
 
-Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet) 
+**Hvem overvåker nasjonalt og internasjonalt?  
+NRK skriver 9 mai 2020:**
+
+[https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685](https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685 "https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685")
+
+[https://www.nrk.no/urix/_-det-vil-bli-et-oppgjor-med-kina-1.15009029](https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685 "https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685")
+
+Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet)
 
 Kanskje flere skaffer seg innsyn? Hackere er over hele systemet.  
 Vi har intet sikkert vern mot overvåkerne i dag.
@@ -88,8 +95,6 @@ Telefonhenvendelser sms og epost fra gallupinstituttene identifiserer seg i dag 
 Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvernproblem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
 
 * Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?
-
-
 * Kanskje ringer en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
 
 Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikkerhet, hackere og levereing av data videre?
