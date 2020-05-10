@@ -19,7 +19,7 @@ image: "/assets/images/Nidaros7.jpg"
 image_caption: Nidarosdomen i Trondheim. Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
-- _category/foto.md
+- _category/reise.md
 publish_date: 
 weight: 3
 
