@@ -16,12 +16,12 @@ tags:
 - Lise Lyeseggen
 title: Sioux-indianerne  trenger hjelp!
 excerpt: Intervju med Lise Lyseggen
-image: "/assets/images/Rituell Powowdans .jpg"
+image: "/assets/images/Rituell Powowdans2.jpg"
 image_caption: 'Bilde fra Lyseggens egen samling: Rituel Powowdans i Pine Ridge'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 4
+weight: 5
 
 ---
 Lise Lyseggen er sterkt engasjert i hjelpearbeid i fattige deler av verden og i særdeleshet blant Siouxindianerne i Sør-Dakota, USA. Hver sommer drar hun til Siouxindianerne der hun er deres "medisinmann" og hjelper.
@@ -45,6 +45,9 @@ Lise tar fram rulletobakken og lener seg bakover på stolen:
 
 \- Hvordan ble du tatt i mot som hvit kvinne?  
 \- Jeg fikk mange hatefulle blikk og slengbemerkninger etter meg som "white trash" (hvitt søppel) og "get out, this is whats left of my land".
+
+![](/assets/images/Rituell Powowdans .JPG)  
+_Foto: Lise Lyseggen_
 
 **Medisinmannen Stanley**  
 \- Min kjekke indianer Buddy introduserte meg til noen av de "gamle" som fortalte meg hvordan det hadde vært en gang. Jeg var fasinert og satt som ett tent lys med skinnende øyne og sugde til meg alt. Buddy var klar over mine "evner" som healer og ville at jeg skulle møte medisinmannen Stanley. Stanley derimot var ikke så veldig interessert i det til og begynne med. Hatet til den hvite mann er sterkt, men til slutt fikk jeg møte han.
@@ -109,8 +112,8 @@ og velutviklede Siouxstammen et verdig
 og meningsfylt liv.
 
 **Annonse:  
-**![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
-Lise Lyseggens nettside om Sioux-hjelpen**:** [siouxsoul.no](http://siouxsoul.no/)  
+![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
+Lise Lyseggens nettside om Sioux-hjelpen**: [siouxsoul.no](http://siouxsoul.no/)  
 Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.  
 [www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)  
 E-post: [Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
