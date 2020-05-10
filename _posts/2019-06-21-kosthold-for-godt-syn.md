@@ -19,12 +19,12 @@ excerpt: Kan du få bedre syn av å spise sunt? Hva slag mat er bra for øynene 
 image: "/assets/images/skagen.jpg"
 image_caption: Foto Gunnar Christensen, fra Skagen, Danmark
 categories:
-- _category/mat.md
+- _category/helse.md
 publish_date: 
 weight: 2
 
 ---
-Leserinnlegg: av Edle Bugge 
+**Leserinnlegg: av Edle Bugge**
 
 Hva vi spiser har stor innvirkning på kroppens balanse, og på funksjonen til hvert enkelt organ. Med riktig kosthold kan du bidra til god øyehelse på flere ulike måter. For dem som bruker kontaktlinser er det viktig å holde øynene så friske som mulig, og å spise sunt er en måte å oppnå det på. Noen typer mat bidrar til god øyehelse, og visse næringsmiddel bør unngås, eller iallfall begrenses.
 
