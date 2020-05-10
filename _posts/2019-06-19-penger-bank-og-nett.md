@@ -25,8 +25,8 @@ image_caption: |+
   Helping-maskoten skogskatten "Trille".
 
 categories:
-- _category/økonomi.md
-publish_date: 2019-09-29 00:00:00 +0200
+- _category/bolig.md
+publish_date: 2020-05-10 00:00:00 +0200
 weight: 3
 
 ---
