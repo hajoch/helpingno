@@ -39,8 +39,6 @@ NRK skriver 9 mai 2020:**
 
 [https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685](https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685 "https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685")
 
-[https://www.nrk.no/urix/_-det-vil-bli-et-oppgjor-med-kina-1.15009029](https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685 "https://www.nrk.no/norge/xl/avslort-av-mobilen-1.14911685")
-
 Datalagrings-direktivet se [sv.wikipedia.org/wiki/Datalagringsdirektivet](http://sv.wikipedia.org/wiki/Datalagringsdirektivet)
 
 Kanskje flere skaffer seg innsyn? Hackere er over hele systemet. Vi har intet sikkert vern mot overvåkerne i dag.
