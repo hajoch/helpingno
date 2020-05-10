@@ -18,7 +18,7 @@ excerpt: 'Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ik
 image: "/assets/images/goyeste.jpg"
 image_caption: Foto Christoffer J. Christensen
 categories:
-- _category/økonomi.md
+- _category/bolig.md
 publish_date: 
 weight: 5
 
