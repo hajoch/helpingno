@@ -26,7 +26,7 @@ excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystem
 image: "/assets/images/eiendom.jpg"
 image_caption: Illustrasjon foto Gunnar Christensen
 categories:
-- _category/økonomi.md
+- _category/bolig.md
 publish_date: 
 weight: 5
 
