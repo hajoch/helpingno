@@ -21,7 +21,6 @@ publish_date:
 weight: 5
 
 ---
-  
 **Fakta om testbilen: 2012 Skoda Octavia**  
 1,8 liter med 105 hk fra en firesylindret turbodieselmotor, Klimaanlegg, Cruisekontroll,, 4x4 med regulerbar bakkeklaring, Sekstrinns manuell girkasse  
 Octavia kom med ny modell i 2013.
@@ -34,7 +33,8 @@ Det store spørsmålet på alle VAG biler inklusive Skoda er imidlertid rustprob
 
 Octavia har sitteplass til 4 voksne og ett barn. Nakkestøttene bak er for korte. Octavia mangler kun 23 cm i lengde på å være like stor som storebror Superb og til en langt gustigere pris. Men som i alle stasjonsvogner er sittekomforten i midten bak dårlig - eller rettere sagt ubrukelig. For en familie på 5 er derfor flerbruksbilene med tre individuelle seter bak et mye bedre alternativ.
 
-![](/assets/images/octac1.jpg)
+![](/assets/images/octac1.jpg)  
+Foto Christoffer Jore Christensen
 
 Octavia har vært lenge på markedet. Helt siden Volkswagen kjøpte Skoda og relanserte Octavia som første bil. Karosseriet har gjennomgått modernisering og det har også motoralternativene. De er endret bl.a. til mer miljøvennlige motorer - såkalt "greenline" hos Skoda.
 
