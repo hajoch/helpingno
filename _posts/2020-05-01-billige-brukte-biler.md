@@ -7,10 +7,10 @@ tags:
 - bruktbil
 - billige bruktbiler
 - test
-title: Billige brukte biler
+title: Billige brukte biler - Opel Astra, Toyota Avensis, Peugeots 5008 og Volvo V
+  70,
 excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Her
-  gjengir vi noen av de mange bilene vi testet fra 2008 - 2013 og nyere: Opel Astra,
-  Toyota Avensis, Peugeots 5008 og Volvo V 70,'
+  gjengir vi testet fra 2008 - 2013. '
 image: "/assets/images/superb035.jpg"
 image_caption: Bruktbilene har en gang vært nye. Den gang testet vi dem som nye biler.
   Les testene her. Foto Christoffer Jore Christensen
