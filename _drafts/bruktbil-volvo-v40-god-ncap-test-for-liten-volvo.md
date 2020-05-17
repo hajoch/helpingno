@@ -12,7 +12,7 @@ excerpt: At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin kla
   på NCAP-testen i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene
   utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen
   flotte kjøreegenskaper og et tiltalende og moderne design.
-image: ''
+image: "/assets/images/v401-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen '
 author: _authors/gunnar-christensen.md
 categories:
