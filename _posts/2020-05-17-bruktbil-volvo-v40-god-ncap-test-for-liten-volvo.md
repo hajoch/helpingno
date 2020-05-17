@@ -8,10 +8,9 @@ tags:
 - testkjøring
 - 2012 modell
 title: 'Volvo V40:  Bruktbil med topp NCAP-test for liten Volvo'
-excerpt: At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse
-  på NCAP-testen alt  i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene
-  utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen
-  flotte kjøreegenskaper og et tiltalende og moderne design.
+excerpt: |-
+  Vi testet denne som ny i 2012. Nå er den en rimelig og god bruktbil. Les vårt førsteinntrykk den gang.
+  At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på NCAP-testen alt  i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen flotte kjøreegenskaper og et tiltalende og moderne design.
 image: "/assets/images/v401-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen '
 author: _authors/gunnar-christensen.md
