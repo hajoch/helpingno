@@ -6,4 +6,6 @@ image: "/assets/images/CJC.jpg"
 ---
 Redaksjonssekretær, journalist og fotograf.
 
-Student ved universitetet i Stavanger
+Student ved universitetet i Stavanger.
+
+![](/assets/images/alltrack.jpg)
