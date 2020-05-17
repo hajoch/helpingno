@@ -106,7 +106,10 @@ Dette er en meget sterk indikator på bilenes kvalitet og standard og en meget n
 ![](/assets/images/Peugeut 50081.jpg)  
 Foto: Christoffer Jore Christensen, Tekst Gunnar Christensen
 
-Peugeots 5008 er en romlig flerbruksbil for deg som vil ha et fullverdig baksete til tre voksne personer og god bagasjeplass. I tillegg er det mulig å få bilen som 7-seter med to barneseter bakerst.
+Fakta om testbilen: Peugeot 5008 - 2012 modell., 1,6 liter med 112 hk fra  
+en firesylindret turbodieselmotor, Sekstrinns automat girkasse. NCAP-testet med 5 stjerne 2012-prisklasse fra kr. 316.400,-
+
+5008 er en romlig flerbruksbil for deg som vil ha et fullverdig baksete til tre voksne personer og god bagasjeplass. I tillegg er det mulig å få bilen som 7-seter med to barneseter bakerst.
 
 Dette må være Ford S-max sin argeste konkurrent for Peugeots 5008 er nesten like stor og betydelig billigere enn Forden.
 
