@@ -7,7 +7,7 @@ tags:
 - Skoda
 - bruktbil
 - billigbil
-title: 'Billige brukte biler 2012 - Skoda Octavia stasjonsvogn:'
+title: 'Billige brukte biler - Skoda Octavia 2012 stv:'
 excerpt: |-
   Skodas bestselger. Her er vår testet da den den var ny.
 
