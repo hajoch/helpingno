@@ -30,10 +30,12 @@ Prismessig ligger V40 på omtrent samme nivå som Mercedes A-klasse og konkurrer
 Drivstoff-forbruket har tidligere vært Volvos problem. Moderniseringen av motorene hang etter konkurrentene og bl.a. V70-serien ble etter hvert tung å selge på grunn av gammel motorteknologi og høyt drivstoff-forbruk sammenliknet med konkurrentene. Dette endret seg rundt 2008 da ny  
 motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
 
+![](/assets/images/leasingbil.jpg)
+
 Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
 
 En real handbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, kruisekontrol, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safty for å nevne det meste.
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
 
-Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste. [www.euroncap.com/results/volvo/v40/485.aspx](Bruktbil: Volvo V40:  God NCAP-test for liten Volvo "Bruktbil: Volvo V40:  God NCAP-test for liten Volvo")
+Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste. 
