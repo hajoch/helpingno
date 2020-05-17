@@ -30,10 +30,10 @@ Drivstoff-forbruket har tidligere vært Volvos problem. Moderniseringen av motor
 motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
 
 ![](/assets/images/leasingbil.jpg)  
-Foto: Christoffer Jore Christensen
-
-**Fakta om testbilen:   
-**Volvo V40 D2, 115 hk turbodiesel, 2013 modell., 6-trinns manuell girkasse, Seter i skinn, klimaanlegg og cruise.
+Foto: Christoffer Jore Christensen  
+  
+Fakta om testbilen:   
+Volvo V40 D2, 115 hk turbodiesel, 2013 modell., 6-trinns manuell girkasse, Seter i skinn, klimaanlegg og cruise.
 
 Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
 
