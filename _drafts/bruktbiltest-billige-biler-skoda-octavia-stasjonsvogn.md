@@ -13,7 +13,7 @@ excerpt: |-
 
   Skoda Octavia overrasker. Jeg hadde ikke forventet en så god plassfølelse og kjørekomfort. For Octavia føles større enn den er. Her er mer storbilfølelse enn i en Golf. Først etter en prøvetur forstår jeg hvorfor dette er bestselgeren hos Skoda. Octavia er mye bil for pengene etter norske forhold.
 image: "/assets/images/octav2.jpg"
-image_caption: Foto Christoffer Jore CHristensen
+image_caption: Foto Christoffer Jore Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
@@ -21,12 +21,17 @@ publish_date:
 weight: 5
 
 ---
+  
+**Fakta om testbilen: 2012 Skoda Octavia**  
+1,8 liter med 105 hk fra en firesylindret turbodieselmotor, Klimaanlegg, Cruisekontroll,, 4x4 med regulerbar bakkeklaring, Sekstrinns manuell girkasse  
+Octavia kom med ny modell i 2013.
+
 Octavia virker godt skrudd sammen, solid og forutsigbar. Den ligger behagelig på veien. Kjøreopplevelsen er behagelig. Setene er gode med manuell regulerbar korsryggstøtte. Regulerbar korsryggstøtte er standard på alle modeller hvilket er avgjørende for god sittekomfort.
 
-Octavia er prisgunstig. Særlig sammenliknet med 4x4-modellene hos andre bilmerker i samme størrelse. Octavia er bygd på Golf understell, men er betydelig romligere Golfen.  
-  
-Det store spørsmålet på alle VAG biler inklusive Skoda er imidlertid rustproblemet.  
-  
+Octavia er prisgunstig. Særlig sammenliknet med 4x4-modellene hos andre bilmerker i samme størrelse. Octavia er bygd på Golf understell, men er betydelig romligere Golfen.
+
+Det store spørsmålet på alle VAG biler inklusive Skoda er imidlertid rustproblemet.
+
 Octavia har sitteplass til 4 voksne og ett barn. Nakkestøttene bak er for korte. Octavia mangler kun 23 cm i lengde på å være like stor som storebror Superb og til en langt gustigere pris. Men som i alle stasjonsvogner er sittekomforten i midten bak dårlig - eller rettere sagt ubrukelig. For en familie på 5 er derfor flerbruksbilene med tre individuelle seter bak et mye bedre alternativ.
 
 ![](/assets/images/octac1.jpg)
