@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-20 11:40:17 +0100
+date: 2019-12-20T10:40:17.000+00:00
 crop_image: true
 tags:
 - helse
@@ -24,3 +24,7 @@ Sjekk selv bivirkninger på medisinen du får. Legen rekker ofte ikke å fortell
 
 Nå kan du selv sjekke hva bivirkninger medisinene dine har før du tar dem i bruk ved å sjekke Felleskatalogen på nett:  
 [www.felleskatalogen.no](http://www.felleskatalogen.no/)
+
+**Annonse**
+
+[https://www.htaksjonen.org](https://www.htaksjonen.org "https://www.htaksjonen.org")
