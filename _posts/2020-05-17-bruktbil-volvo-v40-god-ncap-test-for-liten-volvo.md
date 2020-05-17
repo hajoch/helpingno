@@ -29,7 +29,11 @@ Prismessig ligger V40 på omtrent samme nivå som Mercedes A-klasse og konkurrer
 Drivstoff-forbruket har tidligere vært Volvos problem. Moderniseringen av motorene hang etter konkurrentene og bl.a. V70-serien ble etter hvert tung å selge på grunn av gammel motorteknologi og høyt drivstoff-forbruk sammenliknet med konkurrentene. Dette endret seg rundt 2008 da ny  
 motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
 
-![](/assets/images/leasingbil.jpg)
+![](/assets/images/leasingbil.jpg)  
+Foto: Christoffer Jore Christensen
+
+**Fakta om testbilen:   
+**Volvo V40 D2, 115 hk turbodiesel, 2013 modell., 6-trinns manuell girkasse, Seter i skinn, klimaanlegg og cruise.
 
 Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
 
@@ -39,4 +43,5 @@ Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offens
 
 Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
 
-![](/assets/images/v402.jpg)
+![](/assets/images/v402.jpg)  
+Foto: Christoffer Jore Christensen
