@@ -38,4 +38,6 @@ En real handbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virk
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
 
-Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste. 
+Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
+
+![](/assets/images/v402.jpg)
