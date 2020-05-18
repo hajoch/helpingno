@@ -7,6 +7,10 @@ tags:
 - bruktbil
 - testkjøring
 - 2012 modell
+- biltest
+- NCAP
+- dieselbil
+- billig bil
 title: 'Volvo V40 modell 2013:  Billig bruktbil nå'
 excerpt: |-
   Vi testet denne som ny i 2012. Nå er den en rimelig og god bruktbil. Les vårt førsteinntrykk den gang.
@@ -16,7 +20,7 @@ image_caption: 'Foto: Christoffer Jore Christensen '
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-05-17 00:00:00 +0200
+publish_date: 2020-05-18 00:00:00 +0200
 weight: 7
 
 ---
@@ -41,7 +45,7 @@ En real handbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virk
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
 
-Sikkerhet Volvo V40 er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
+Sikkerhet på Volvo V40 er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
 
 ![](/assets/images/v402.jpg)  
 Foto: Christoffer Jore Christensen
