@@ -11,7 +11,7 @@ tags:
 - flerbruksbil
 - Store biler
 title: 'Aktuelle bruktbiler i dag? - Ford S-Max og Mondeo :'
-excerpt: " Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?"
+excerpt: Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?
 image: "/assets/images/fords1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
@@ -26,6 +26,8 @@ weight: 5
 Ford S-Max er egentlig en ombygd Mondeo: Eller bygd på Mondeo-lest som selgerne kaller det. Ombyggingen gjør denne bilen drøye femti tusen spenn dyrere, men mye bedre og mer praktisk som familiebil. Biltypen er i en egen klasse for seg som kalles MPV og den har som forventet 5 stjerner i Euro NCAP sikkerhetstest.
 
 Den store forskjellen på S-Max i forhold til Mondeo stasjonsvogn er bl.a. at baksetet består av tre individuelle seter som gir komfortabel plass til tre voksne personer. Og setene i S-Maxen er gode - særlig gode er forsetene med mange instilling-muligheter.
+
+![](/assets/images/fords3.jpg)
 
 Honnør til Ford som lager nakkestøttene bak så høye at de passer til passasjerene. Det annonseres med at dette er en syv-seter, men glem de to siste setene - for svært få er komfortabel med å sitte så trangt. Om du ikke har barn i alderen som klarer å krype inn bakerst så dropp den siste seteraden, så får du til gjengjeld noe større bagasjerom og en påkostning mindre.
 
