@@ -8,7 +8,7 @@ tags:
 - Ford Focus
 - biltest
 - lantidstest
-title: 'Ford Focus stv.: Langtids bruktbil test.'
+title: 'Ford Focus stv 2015.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
