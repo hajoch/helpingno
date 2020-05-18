@@ -31,6 +31,8 @@ Dette endres nå fullstendig. Den nyere Mercedes Benz A-klasse ble lansert i Nor
 
 I og med at denne bilen har Mercedesmerket på panseret forventes det mye av den. Dette merket har i lang tid blitt sett på som et stempel for kvalitet. Og nå må Mercedes bevise at de også kan lage småbiler av høy klasse. Innfrir den nye Mercedes A-klasse til disse forventningene? Er den en kommende bestselger?
 
+![](/assets/images/mercedes0.jpg)
+
 Helping Bil testet en sportsutgave av A-klassen i sterk rødfarge. I sportsutgaven er bilen senket, fjæringen stivere, felgene fetere, dekkene tynnere, flere sportslige detaljer gitt og AMG-merket er klistret på overalt. Dype sportsseter med sidestøtte og et stilfullt sort interiør med vakre røde sømmer følger også med. Denne utgaven koster cirka 50.000 kroner mer enn standardutgaven.
 
 Bilen oser kvalitet fra indre til ytre. Alt virker meget solid og robust, men er likevel pent å se på. Til og med joysticken i "kontrollpanelet" som brukes til å manøvrere gjennom bilens meny, har en solid følelse tross at den kan beveges i absolutt alle retninger. Denne solide følelsen A-klassen gir er med på å gjøre enhver sjåfør komfortabel i løpet av kort tid. Det tar nemlig ikke lang tid å bli god kompis med den.
