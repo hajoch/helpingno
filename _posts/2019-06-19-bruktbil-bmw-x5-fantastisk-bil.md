@@ -11,7 +11,7 @@ tags:
 - bruktbil
 - bruktbiltest
 - BMW X 5
-title: 'BMW X5: Fantastisk bil'
+title: 'BMW X5 modell 2011: Fantastisk bil'
 excerpt: 'Bruktbiltest: Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje
   verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
@@ -35,3 +35,7 @@ Bremsene er lette å dosere, jevne og fine. Bilen er bygd for hard kjøring og b
 Setene er flotte elektriske komfortseter med minne som kan stilles inn på mange måter. Komfortable med god sidestøtte. Testbilen var en 7-seter, men bakerste setene er for små til voksne: Det er barneseter. Baksetesofaen er som om på en stasjonsvogn der de behageligste sitteplassene er på begge sider bak, men midtsetet kan endres til armstøtte.
 
 Motoren er en rekkesekser på 3 liter som yter 211 heter, kanskje verdens beste dieselmaskin? BMW var sent ute med dieselmaskiner, men da de først kom for drøye 15 år siden så ble motorene bedre enn dem Mercedes produserer. I dag er Mercedes dieselmotorer som tidligere var ansett som de beste, ikke på langt nær så gode som dem BMW nå produserer. BMW har denne tronen nå.
+
+  
+Fakta om testbilen:   
+BMW 5X. Motor V6 med 211 dieselhester, 7 trinns automat girkasse 4 WD, Modell 2011
