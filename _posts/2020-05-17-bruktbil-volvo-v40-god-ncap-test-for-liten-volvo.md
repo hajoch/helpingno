@@ -30,18 +30,18 @@ Drivstoff-forbruket har tidligere vært Volvos problem. Moderniseringen av motor
 motor-teknologi med lavere drivstoff-forbruk kom med Drive-e-serien.
 
 ![](/assets/images/leasingbil.jpg)  
-Foto: Christoffer Jore Christensen  
-  
-Fakta om testbilen:   
+Foto: Christoffer Jore Christensen
+
+Fakta om testbilen:  
 Volvo V40 D2, 115 hk turbodiesel, 2013 modell., 6-trinns manuell girkasse, Seter i skinn, klimaanlegg og cruise.
 
 Denne testbilen har et "Helgenen-hvit" karosseri, manuell 6-trinns D2-versjon med 115hk. turbo-diesel med utslipp 94 gram co2 basert på teknologien Drive-e. Hvert bilmerke har sin kode for drivstoffvennlig kjøring og miljø-utslipp og nye motoralternativer kommer raskere nå enn tidligere på de fleste bilmerker. Også her hos Volvo: Bilkjøpere er for tiden inne i et stim av stadig nye miljøfornyede motorer på de mest solgte bilene hos de kjente merker som Ford, BMW og Toyota. Her er det viktig å velge rett bil til rett bruk og rett lommebok.
 
-En real handbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, kruisekontrol, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safty for å nevne det meste.
+En real handbrekke finner du her: Ikke talentløse trykk-kapper som kanskje virker. Og her er ryggekamera, ryggesensor, klima, kruisekontrol, multiratt, topp musikkanlegg, bluetooth telefonsystem og city safety for å nevne det meste.
 
 Saab-fabrikkenes skjebne har kanskje satt en støkk i Volvo. Nå er Volvo offensiv både med design og motorteknologi. Før var det nesten bare sikkerheten Volvo jobbet mest med. Også sikkerheten følger godt med: V40 markerte ved introduksjonen et høyere sikkerhetsnivå enn alle andre biler med bl.a. utvendig airbag i tilfelle påkjørsel av fotgjengere. Flott levert Volvo.
 
-Sikkerhet Volvo V40 Sikkerheten er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
+Sikkerhet Volvo V40 er ifølge EURO NCAP på toppnivå med 5 stjerner hos - testet i 2012. Nakkesleng-testen er også rangert i kategori blant de beste.
 
 ![](/assets/images/v402.jpg)  
 Foto: Christoffer Jore Christensen
