@@ -44,7 +44,7 @@ Det ulykkelige med denne bilen er at den koster så mye mer enn en stasjonsvogn:
 **Fakta om testbilen:**  
 Ford S-Max 1,6 TDCi Titanium 2012 modell, 115 hk fra en firesylindret turbodieselmotor med utslipp på 139 g/km, Sekstrinns manuell girkasse, 5 stjerner i Euro NCAP, Ny modell av Ford S-
 
-![](/assets/images/fordm.jpg)
+![](/assets/images/fordmodeo.jpg)
 
 **Bruktbiltest - Ford Mondeo: Storbil**
 
@@ -75,6 +75,5 @@ Skandinaviske bileiere svarer i en undersøkelse (publisert av NAF i 2010) på s
 **Konklusjon:**  
 Ford Mondeo er like behagelig å kjøre som Volvo V70 og har bedre plass: Støysvak motor og god støydemping liksom V70. Gode seter med reguleringer og god plass, men ikke så gode forseter som Volvo V70. Men Mondeo er til gjengjeld billigere enn Volvo V70.
 
-  
 **Fakta om testbilen: Ford Mondeo**  
 2\.0 liter med 115 hk fra, en firesylindret turbodieselmotor, Sekstrinns manuell girkasse, Mondeo leveres som sedan, kombi og stasjonsvogn, 5 stjerner i Euro NCAP
