@@ -5,8 +5,8 @@ crop_image: true
 tags:
 - bil
 - billig bil
-title: Bruktbil Citroen C4 - ikke kjøp denne som bruktbil
-excerpt: 'Bruktbiltest: Citroën Grand C4 Picasso: Citroën har lav kundetilfredshet'
+title: Bruktbil Citroen C4 - modell 2013 - ikke kjøp denne som bruktbil
+excerpt: 'Helping-test fra 2013: Citroën Grand C4 Picasso: Citroën har lav kundetilfredshet'
 image: ''
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
@@ -15,17 +15,7 @@ publish_date:
 weight: 2
 
 ---
-Bruktbiltest: Citroën Grand C4 Picasso:
-
-Citroën har lav kundetilfredshet
-
-| --- |
-|  |
-
-Foto: [Christoffer Jore Christensen](christoffer.htm)  
-Av [Gunnar Christensen](gunnar.htm)
-
-**På kundetilfredshet og salgstall er denne bilen en outsider. Men i kjørekomfort og praktiske løsninger skårer Citroën Grand C4 Picasso meget bra. Stillegående og behagelig kjøretøy. Det er som å kjøre en stor bil selv om den bare er litt større enn VW Touran. Og like praktisk med tre individuelle seter bak og plass til 5 voksne med gode designløsninger. Altså en ypperlig familiebil til 5.**
+På kundetilfredshet og salgstall er denne bilen en outsider. Men i kjørekomfort og praktiske løsninger skårer Citroën Grand C4 Picasso meget bra. Stillegående og behagelig kjøretøy. Det er som å kjøre en stor bil selv om den bare er litt større enn VW Touran. Og like praktisk med tre individuelle seter bak og plass til 5 voksne med gode designløsninger. Altså en ypperlig familiebil til 5.
 
 Citroën Grand C4 Picasso gir et godt og spennende første inntrykk. Følelsen av god plass. Frontvinduet går over i taket noe som gir et åpent, luftig og behaglig design.
 
@@ -36,3 +26,8 @@ Det er standard med 7 seter. Bilen leveres med andre ord ikke som 5-seter. Skal 
 Om Citroën Grand C4 Picasso hadde vært like pålitelig i betydningen like god kundetilfredshet som en VW Touran så hadde jeg kjøpt denne Picassoen. Citroens problem er lav kundetilfredshet. Les: [De beste bilene](bestebilene.htm). Det merker kundene seg og salget på denne bilen går tregt. Det hjelper jo heller ikke at Top Gears programledere i TVs mest populære bilprogram mobber denne bilen.
 
 Citroën Grand C4 Picasso som her er testet ble avløst av ny modell i 2013.
+
+Fakta om testbilen:  
+Citroën Grand C4 Picasso 2011 modell, Meget gode kjøreegenskaper.  
+Motor 1,6 liter 110 hk turbodiesel., 6-trinns girkasse., 7-seter standard  
+NCAP-testet med 5 stjerner
