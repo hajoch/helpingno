@@ -10,7 +10,7 @@ tags:
 - personbil
 - flerbruksbil
 - Store biler
-title: 'Aktuelle bruktbiler i dag? - Ford S-Max og Mondeo :'
+title: 'Aktuelle bruktbiler i dag? - Ford S-Max 2012 og Mondeo :'
 excerpt: Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?
 image: "/assets/images/fords1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
@@ -40,6 +40,9 @@ Etter litt tilvenning er dette en behagelig bil på veien. Dette er ikke en tran
 Dette er bilen alle saver på langturene - særlig den som må sitte i midten bak på en vanlig stasjonsvogn. Space. Komfort. Og så deilig å slippe å krype inn og ut av bilene: Her setter du deg inn uten å slå hodet øverst i dørkarmen.
 
 Det ulykkelige med denne bilen er at den koster så mye mer enn en stasjonsvogn: Det er småbarnsfamiliene som virkelig trenger denne biltypen, men som ikke har råd til å gå opp i mot fire hundre tusen. Og hvorfor skal denne bilen koste så mye mer enn en vanlig stasjonsvogn-utgave av Mondeo? Det er det mange som lurer på.
+
+**Fakta om testbilen:**  
+Ford S-Max 1,6 TDCi Titanium 2012 modell, 115 hk fra en firesylindret turbodieselmotor med utslipp på 139 g/km, Sekstrinns manuell girkasse, 5 stjerner i Euro NCAP, Ny modell av Ford S-
 
 ![](/assets/images/fordm.jpg)
 
