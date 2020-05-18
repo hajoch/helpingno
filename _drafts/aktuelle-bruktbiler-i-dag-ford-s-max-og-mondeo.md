@@ -39,7 +39,7 @@ Etter litt tilvenning er dette en behagelig bil på veien. Dette er ikke en tran
 
 Dette er bilen alle saver på langturene - særlig den som må sitte i midten bak på en vanlig stasjonsvogn. Space. Komfort. Og så deilig å slippe å krype inn og ut av bilene: Her setter du deg inn uten å slå hodet øverst i dørkarmen.
 
-Det ulykkelige med denne bilen er at den koster så mye mer enn en stasjonsvogn: Det er småbarnsfamiliene som virkelig trenger denne biltypen, men som ikke har råd til å gå opp i mot fire hundre tusen. Og hvorfor skal denne bilen koste så mye mer enn en vanlig stasjonsvogutgave av Mondeo? Det er det mange som lurer på.
+Det ulykkelige med denne bilen er at den koster så mye mer enn en stasjonsvogn: Det er småbarnsfamiliene som virkelig trenger denne biltypen, men som ikke har råd til å gå opp i mot fire hundre tusen. Og hvorfor skal denne bilen koste så mye mer enn en vanlig stasjonsvogn-utgave av Mondeo? Det er det mange som lurer på.
 
 ![](/assets/images/fordm.jpg)
 
@@ -51,7 +51,7 @@ Bilen finnes også i en 5 dørs kombi-utgave som kan være et alternativ til sta
 
 Kjørekomforten er flott med gode kjøreegenskaper og god plass til bagasje og passasjerer. Kjøreropplevelsen er stødig, solid og forutsigbar.
 
-Mondeoen som ble prøvekjørt har praktiske løsninger du vil like og som passsasjerene gledes over: Som en solskjerm på bakdørvinduet - en nytelse på solvarme dager. Utstyrspakker med elektrisk regulerbare seter, kartnavigasjon, ryggesensor framme og bak m.m.
+Mondeoen som ble prøvekjørt har praktiske løsninger du vil like og som passasjerene gledes over: Som en solskjerm på bakdørvinduet - en nytelse på solvarme dager. Utstyrspakker med elektrisk regulerbare seter, navigasjon, ryggesensor framme og bak m.m.
 
 Ford har flere nye praktiske løsninger i bilene sine. Det er praktisk og lett å fylle drivstoff uten å skru av et lokk. Alarm og låsesystemet til Ford derimot liker jeg ikke fordi jeg er usikker på om bilen er låst når jeg forlater den: Jeg liker å trykke på en knapp på fjernkontrollen og fysisk kjenne på bildøra for å være sikker på at bilen er låst eller høre et "klikk" jeg er trygg på. Ford har derimot et system som låser bilen når du er gått bort fra den og åpner den når du nærmer deg. Jeg trives ikke med å være usikker på om bilen er låst.  
 Mondeo kom med en facelift i grillen fra 2011.
