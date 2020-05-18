@@ -7,7 +7,7 @@ tags:
 - billig bil
 title: Bruktbil Citroen C4 - modell 2011 - ikke kjøp denne som bruktbil
 excerpt: 'Helping-test fra 2011: Citroën Grand C4 Picasso: Citroën har lav kundetilfredshet
-  - dette er bile for en mekaniker.'
+  - dette er bil for en mekaniker.'
 image: "/assets/images/citroen.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
