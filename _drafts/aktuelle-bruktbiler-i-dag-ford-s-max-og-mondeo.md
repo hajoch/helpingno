@@ -10,7 +10,7 @@ tags:
 - personbil
 - flerbruksbil
 - Store biler
-title: 'Aktuelle bruktbiler i dag? - Ford S-Max 2012 og Mondeo :'
+title: 'Aktuelle bruktbiler i dag? - Ford S-Max 2012 og Mondeo 2012 :'
 excerpt: Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?
 image: "/assets/images/fords1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
@@ -60,7 +60,7 @@ Ford har flere nye praktiske løsninger i bilene sine. Det er praktisk og lett �
 Mondeo kom med en facelift i grillen fra 2011.
 
 **Om "barnesykdommer"**  
-Ford Mondeos siste modell har vært relativt uendret på markedet siden 2007. I 2013 kommer en virkelig myere modell med helt annet design.
+Ford Mondeos siste modell har vært relativt uendret på markedet siden 2007. I 2013 kommer en virkelig nyere modell med helt annet design.
 
 Det er gjerne de første utgavene av en ny modell som får "barnesykdommer". En bilmekaniker med mange år i yrket sa følgende: " Når bilene endelig er blitt gode så skifter fabrikken modell." Slik er det med de fleste bilmerker og slik også med Ford. Det er derfor en fordel å vente litt med å kjøpe bil til modellen har vært på markedet en stund før du handler. Mondeo har vært tilstrekkelig lenge på markedet nå til at småfeil burde være luket bort. Derfor fremstår Mondeo nå som et trygt kjøp. Fordforhandlere opplyser dessiten at det har vært lite "småfeil" med den siste modellen av Mondeo. Foregående modell hadde som kjent mye "småfeil".
 
@@ -74,3 +74,7 @@ Skandinaviske bileiere svarer i en undersøkelse (publisert av NAF i 2010) på s
 
 **Konklusjon:**  
 Ford Mondeo er like behagelig å kjøre som Volvo V70 og har bedre plass: Støysvak motor og god støydemping liksom V70. Gode seter med reguleringer og god plass, men ikke så gode forseter som Volvo V70. Men Mondeo er til gjengjeld billigere enn Volvo V70.
+
+  
+**Fakta om testbilen: Ford Mondeo**  
+2\.0 liter med 115 hk fra, en firesylindret turbodieselmotor, Sekstrinns manuell girkasse, Mondeo leveres som sedan, kombi og stasjonsvogn, 5 stjerner i Euro NCAP
