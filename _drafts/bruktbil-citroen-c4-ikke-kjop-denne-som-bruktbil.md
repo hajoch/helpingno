@@ -5,12 +5,13 @@ crop_image: true
 tags:
 - bil
 - billig bil
-title: Bruktbil Citroen C4 - modell 2013 - ikke kjøp denne som bruktbil
+title: Bruktbil Citroen C4 - modell 2011 - ikke kjøp denne som bruktbil
 excerpt: 'Helping-test fra 2013: Citroën Grand C4 Picasso: Citroën har lav kundetilfredshet'
-image: ''
+image: "/assets/images/citroen.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/bil.md
 publish_date: 
 weight: 2
 
