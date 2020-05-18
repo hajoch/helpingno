@@ -43,6 +43,8 @@ Den nye A-klassen er blitt markedsført som en stor konkurrent til bestselgeren 
 
 Alt i alt er den nye Mercedes Benz A-klasse en meget god bil. På design og kjørekomfort er den en klar vinner i småbilklassen, dessverre mener jeg at denne bilen mister topplasseringen i klassen grunnet for dårlig bakseteplass. Den nåværende nummer én, VW Golf, har en lavere startpris enn Mercedesen og er mer praktisk. A-klassen blir altså en god nummer to. Uansett er A-klassen et friskt pust fra et merke som for det meste lager større og dyrere biler. Mercedes har med denne nye generasjonen A-klasse forbedret sitt småbilrykte. Bilen ble kåret til Årets firmabil 2012 og Helping Bil spår store salgstall i Norge og resten av Europa.
 
+![](/assets/images/mercedes2.jpg)
+
 **Fakta om testbilen:**
 
 Mercedes Benz A-klasse A180 AMG Sport, 109 hk turbodiesel, 2013 modell., 6-trinns manuell girkasse, Sportstyling. Seter i sort delskinn med røde søm-mer er med i denne sportspakken sammen med multifunksjonsratt, klimaanlegg og cruise. 18 toms AMG-felger.  
