@@ -12,7 +12,7 @@ tags:
 - Store biler
 title: 'Aktuelle bruktbiler i dag? - Ford S-Max og Mondeo :'
 excerpt: " Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?"
-image: ''
+image: "/assets/images/fords1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
 categories:
@@ -23,14 +23,11 @@ weight: 5
 ---
 **Brukt - Ford S-Max: Super, men dyr familiebil**
 
-  
-Tekst: [Christoffer Jore Christensen](christoffer.htm) og [Gunnar Christensen](gunnar.htm)
+Ford S-Max er egentlig en ombygd Mondeo: Eller bygd på Mondeo-lest som selgerne kaller det. Ombyggingen gjør denne bilen drøye femti tusen spenn dyrere, men mye bedre og mer praktisk som familiebil. Biltypen er i en egen klasse for seg som kalles MPV og den har som forventet 5 stjerner i Euro NCAP sikkerhetstest.
 
-**Ford S-Max er egentlig en ombygd Mondeo: Eller bygd på Mondeo-lest som selgerne kaller det. Ombyggingen gjør denne bilen drøye femti tusen spenn dyrere, men mye bedre og mer praktisk som familiebil. Biltypen er i en egen klasse for seg som kalles MPV og den har som forventet 5 stjerner i Euro NCAP sikkerhetstest.**  
-  
-Den store forskjellen på S-Max i forhold til Mondeo stasjonsvogn er bl.a. at baksetet består av tre individuelle seter som gir komfortabel plass til tre voksne personer. Og setene i S-Maxen er gode - særlig gode er forsetene med mange instillingsmuligheter.
+Den store forskjellen på S-Max i forhold til Mondeo stasjonsvogn er bl.a. at baksetet består av tre individuelle seter som gir komfortabel plass til tre voksne personer. Og setene i S-Maxen er gode - særlig gode er forsetene med mange instilling-muligheter.
 
-Honør til Ford som lager nakkestøttene bak så høye at de passer til passasjerene. Det annonseres med at dette er en syvseter, men glem de to siste setene - for svært få er komfortabel med å sitte så trangt. Om du ikke har barn i alderen som klarer å krype inn bakerst så dropp den siste seteraden, så får du til gjengjeld noe større bagasjerom og en påkostning mindre.
+Honnør til Ford som lager nakkestøttene bak så høye at de passer til passasjerene. Det annonseres med at dette er en syv-seter, men glem de to siste setene - for svært få er komfortabel med å sitte så trangt. Om du ikke har barn i alderen som klarer å krype inn bakerst så dropp den siste seteraden, så får du til gjengjeld noe større bagasjerom og en påkostning mindre.
 
 Vi var forundret over at bilen manglet bagasjesikring av kofferter - en vesentlig sikkerhetsdetalj. Men dette kan ettermonteres hevder forhandler.
 
@@ -42,11 +39,11 @@ Dette er bilen alle saver på langturene - særlig den som må sitte i midten ba
 
 Det ulykkelige med denne bilen er at den koster så mye mer enn en stasjonsvogn: Det er småbarnsfamiliene som virkelig trenger denne biltypen, men som ikke har råd til å gå opp i mot fire hundre tusen. Og hvorfor skal denne bilen koste så mye mer enn en vanlig stasjonsvogutgave av Mondeo? Det er det mange som lurer på.
 
-**![](gul2.jpg =150x5)**
+![](/assets/images/fordm.jpg)
 
 **Bruktbiltest - Ford Mondeo: Storbil**
 
-**Mondeo gir inntrykk av størrelse og styrke i sitt designspråk. Mondeo er blitt en pen og stor bil med gode kjøreegenskaper. Den er bygget over samme lest som Volvo V70 og er liksom V70 godt støydempet og behagelig å kjøre. Som kjent er Ford tidligere eier av Volvo.**
+Mondeo gir inntrykk av størrelse og styrke i sitt designspråk. Mondeo er blitt en pen og stor bil med gode kjøreegenskaper. Den er bygget over samme lest som Volvo V70 og er liksom V70 godt støydempet og behagelig å kjøre. Som kjent er Ford tidligere eier av Volvo.
 
 Bilen finnes også i en 5 dørs kombi-utgave som kan være et alternativ til stasjonsvogn.
 
@@ -71,4 +68,4 @@ Nå skal det i rettferdighetens navn sies at vi ikke testet blandingskjøring p�
 Skandinaviske bileiere svarer i en undersøkelse (publisert av NAF i 2010) på spørsmål om de er fornøyd med bilen sin: Av stasjonsvognene som er med i denne helping.no-testen rangerer bileierne sine biler. Her kom **Ford Mondeo** på en 67-plass. Tilsammen er 115 biler nevnt i denne testen hvilket er dårligst av stasjonsvognene vi tester. Dette er en meget sterk indikator på bilenes kvalitet og standard og en meget nyttig oversikt for deg som bilkjøper.
 
 **Konklusjon:**  
- Ford Mondeo er like behagelig å kjøre som Volvo V70 og har bedre plass: Støysvak motor og god støydemping liksom V70. Gode seter med reguleringer og god plass, men ikke så gode forseter som Volvo V70. Men Mondeo er til gjengjeld billigere enn Volvo V70.
+Ford Mondeo er like behagelig å kjøre som Volvo V70 og har bedre plass: Støysvak motor og god støydemping liksom V70. Gode seter med reguleringer og god plass, men ikke så gode forseter som Volvo V70. Men Mondeo er til gjengjeld billigere enn Volvo V70.
