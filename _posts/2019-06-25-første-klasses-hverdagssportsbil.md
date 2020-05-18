@@ -10,8 +10,8 @@ tags:
 - sportutgave
 - golfklassen
 title: 'Mercedes AMG: Første-klasses hverdagssportsbil'
-excerpt: 'Billig bil fra 2013: Vi testet den da den var ny. Se hva vi skrev den gang.
-  Mercedes Benz A-klasse AMG: Mercedes er mest kjent for sine mektige stasjonsvogner
+excerpt: 'Billig bruktbil fra 2013? Vi testet den da den var ny. Se hva vi skrev den
+  gang. Mercedes Benz A-klasse AMG: Mercedes er mest kjent for sine mektige stasjonsvogner
   med store prislapper. Det tyske kvalitetsmerket har trådd varsomt inn på markedet
   med de mindre bilene. '
 image: "/assets/images/mercedes4.jpg"
