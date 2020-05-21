@@ -7,13 +7,12 @@ tags:
 - bil
 - flerbruksbil
 - rust
-title: Store rustproblemer og kostbar forsikring.
-excerpt: 'Bruktbiltest: Volkswagen Touran modell 2008:  Praktisk bil til 5 voksne-
-  med rådyr forsikring. Skal du ha fullverdig sitteplass til 5 voksne i bilen har
-  du ikke mye å velge i. For de store stasjonsvognene har en dårlig og ukomfortabel
-  løsning for deg som sitter i midten bak. Dette løser denne bilen galant med tre
-  individuelle seter på rad, alle med regulerbar rygg. Dette klarer ikke de større
-  stasjonsvognene.'
+title: Store rustproblemer og kostbar forsikring. Volkswagen Touran modell 2008
+excerpt: 'Bruktbiltest: :  Praktisk bil til 5 voksne- med rådyr forsikring. Skal du
+  ha fullverdig sitteplass til 5 voksne i bilen har du ikke mye å velge i. For de
+  store stasjonsvognene har en dårlig og ukomfortabel løsning for deg som sitter i
+  midten bak. Dette løser denne bilen galant med tre individuelle seter på rad, alle
+  med regulerbar rygg. Dette klarer ikke de større stasjonsvognene.'
 image: "/assets/images/touran4.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
