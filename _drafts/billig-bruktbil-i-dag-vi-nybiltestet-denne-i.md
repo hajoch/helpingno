@@ -31,9 +31,12 @@ Selv om karosseriet er mer eller mindre uendret siden 2008 så er motoralternati
 
 Dieselmotorene i dagens Superb er langt mer stillegående enn dieselmotorene bilen ble introdusert med. Motorstøyen er nå ikke lengre et problem. Da Superb kom på markedet testet vi utgaven med en to liters dieselmotor som yter 103 KW/140 hk - en motor som bråket betydelig mer enn dagens nye dieselmotorer.
 
-**Nå testet vi en 1,8-liters 118kw/160 hk diesel "greenline". Motoren er seig og sterk. Den 6-trinns automat girkassen fungerer fint. Motoren trekker proppfull bil med bagasje og 4 personer og har betydelig mer motorkraft på lager til for eksempel forbikjøringer. Altså mer enn nok motorkraft til vanlig bruk.**
+Nå testet vi en 1,8-liters 118kw/160 hk diesel "greenline". Motoren er seig og sterk. Den 6-trinns automat girkassen fungerer fint. Motoren trekker proppfull bil med bagasje og 4 personer og har betydelig mer motorkraft på lager til for eksempel forbikjøringer. Altså mer enn nok motorkraft til vanlig bruk.
 
 Skoda-fabrikken lager nå alle motorene som er i både Volkswagen, Audi og Skoda så VAG-motorene er i likhet med mange andre komponenter, en samproduksjon som gir rasjonell og økonomisk drift og "familielikheter".
+
+![](/assets/images/superb4.jpg)  
+Foto: Christoffer Jore Christensen
 
 **Økonomisk**  
 Denne stasjonsvogna er like stor som Audi A6 og er betydelig billigere. Når Skoda Superb i tillegg skårer bra på kundetilfredshet så er dette det beste kjøpet om du ønsker stasjonsvogn med best plass for pengene.
