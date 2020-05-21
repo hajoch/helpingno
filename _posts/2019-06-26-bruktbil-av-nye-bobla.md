@@ -21,7 +21,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 4
 
 ---
 Testbilen fra 2012 har en 1,2 liters 105 hk TSI bensinmotor så stillegående og støydempet at jeg første gang parkerte bilen med motoren i gang.
