@@ -27,7 +27,7 @@ Zafira er en positiv overraskelse å prøvekjøre. Den gir et solid inntrykk med
 Testbilen er velutstyrt. Fiffige løsninger med takvindu imponerer. Ikke bare et takvindu med gardin, men frontvinduet kan også forlenges slik at man får et frontvindu som sammenhengende går over i takvindu. På samme måte som Citroens C4 Picasso. Om denne takløsningen går på bekostning av viktige stålbjelker i taket til nytte ved rundkast vites ikke, men behagelig og flott er det.
 
 ![](/assets/images/opel1.jpg)  
- Christoffer Jore Christensen
+Foto: Christoffer Jore Christensen
 
 Tre testkjørere deltok på prøvekjøring av den best utstyrte Zafira. Alle var imponert over bilen bortsett fra setene. De virket klamme og ubehagelige med denne delskinnløsningen. Etter prøveturen kom vi derfor frem til at stoff sportsseter med regulerbar korsryggstøtte på begge forsetene løser dette. Selvfølgelig mot tillegg i prisen da.
 
@@ -41,8 +41,8 @@ Det utrolige med flerbruksklassen er at "alle" kundene skal ha 7 seters versjone
 
 ![](/assets/images/opel2.jpg)
 
- Christoffer Jore Christensen  
-  
+Foto: Christoffer Jore Christensen
+
 Zafira har slitt på undersøkelser av kundetilfredshet med sin tideligere modell. Av 115 biler kom "gamle" Zafira på en trist 107-plass. Ref.[De beste bilene](bestebilene.htm). Samtidig kom Opel Insignia på en langt bedre 33-plass. Opels modeller skårer veldig ulikt på denne undersøkelsen.
 
 Konklusjon  
