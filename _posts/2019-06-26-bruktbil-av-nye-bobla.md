@@ -9,7 +9,7 @@ tags:
 - historie om Bobla
 - biltest
 - bruktbiltest
-title: '"Nye Bobla"?'
+title: 'Billige bruktbiler: "Nye Bobla" modell 20012.'
 excerpt: 'Bruktbil: "Når du vrir om tenningsnøkkelen i denne bilen forventer du en
   høylytt brøl fra den luftkjølte "boxer-motoren" bakerst. Det skjer ikke. I stedet
   starter en stillegående Golf-motor framme i "bagasjerommet". Du sitter nå behageligere
