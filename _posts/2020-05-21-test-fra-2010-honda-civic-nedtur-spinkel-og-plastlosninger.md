@@ -8,7 +8,7 @@ tags:
 - bil
 - bruktbil
 title: 'Test fra 2010 - Honda Civic: Nedtur - spinkel og plastløsninger'
-excerpt: 'Golf-klasse.Den flotte rødfargen gir et positivt iøyenfallende førsteinntrykk,
+excerpt: 'Golf-klasse. Den flotte rødfargen gir et positivt iøyenfallende førsteinntrykk,
   men når vi ser nærmere på bilen, detaljene og prøver den står skuffelsene i kø.
   At denne bilen skal konkurrere mot VW Golf er en vits: Hvem kjøper dette røklet?'
 image: "/assets/images/honda1.jpg"
