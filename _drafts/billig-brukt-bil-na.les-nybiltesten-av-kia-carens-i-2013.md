@@ -20,9 +20,7 @@ publish_date:
 weight: 3
 
 ---
-Bruktbil - Kia Carens: - Bedre design  
-Foto: [Christoffer Jore Christensen](christoffer.htm)  
-Tekst [Gunnar Christensen](gunnar.htm)
+Bruktbil - Kia Carens: - Bedre design
 
 Kias største salgsargument nå er 7 års nybilgaranti. På NCAP sikkerhets-rating har nye Carens i september 2013 krøpet opp til 5 stjerner:  
 [http://www.euroncap.com/results/kia/carens/527.aspx](http://www.euroncap.com/results/kia/carens/527.aspx "http://www.euroncap.com/results/kia/carens/527.aspx")  
@@ -30,13 +28,13 @@ Og det er som det skal være på en nyere modell.
 
 Testbilen har 1,7 liters dieselmotor på 115 hk med 6-trinns girkasse: Ikke sprek, men grei, stillegående motor som passer til denne bilen som har god støydemping. Litt følsom på rattet? Ja, av og til skjelver Carens litt på rattet muligens på grunn av dårlig asfaltdekke, men jevnt over er den stillegående, behagelig og lettkjørt.
 
-Setene er gode. Særlig førersetet med flere elektriske innstillinger. De øvrige setene har sparsomt med innstillings-muligheter, men til gjengjeld har setene oppvaring - også de tre individuelle baksetene som kan reguleres i stolrygg-vinkelen. Førersetet har i tillegg kjøling på varme sommerturer. En kreativ, god løsning. Det midterste setet bak har for kort nakkestøtte for voksne i Norge. Dette er en idiotisk sikkerhetsfeil.
+Setene er gode. Særlig førersetet med flere elektriske innstillinger. De øvrige setene har sparsomt med innstillings-muligheter, men til gjengjeld har setene oppvarming - også de tre individuelle baksetene som kan reguleres i stolrygg-vinkelen. Førersetet har i tillegg kjøling på varme sommerturer. En kreativ, god løsning. Det midterste setet bak har for kort nakkestøtte for voksne i Norge. Dette er en idiotisk sikkerhetsfeil.
 
-Som vanlig i denne flerbruksklassen finnes to barneseter i bagasjerommet. Det tar verdifull bagasjeplass - noe det ikke er for mye av her. Bilen mangler dessuten bagasjebeskytter til taket. Bagasjebeskytter er en viktig sikkerhetsfaktor.
+Som vanlig i denne flerbruks-bil- klassen finnes to barneseter i bagasjerommet. Det tar verdifull bagasjeplass - noe det ikke er for mye av her. Bilen mangler dessuten bagasjebeskytter til taket. Bagasjebeskytter er en viktig sikkerhetsfaktor.
 
 En stor andel av dødsulykker i stasjonsvogner og flerbruksbiler skyldes usikret bagasje som forskyver deg. Normalt vil det være festepunkter for en slik bagasjebeskytter i taket bak første og andre seterad. Det finnes ikke her. En bur-liknende vegg finnes som ekstrautstyr til bilen, men den er beregnet på hund og vil trolig ikke fungere godt nok som bagasjebeskytter.
 
-Demobilen er helt sort inni. Det føles som å sette seg inn i ei likvogn. Heldigvis finnes noen lysere innredningsalternativer i salgsbrosjyren. Som kjent virker mørke farger på bilinnredning slik at bilen føles mindre enn den egentlig er.
+Demobilen er helt sort inni. Det føles som å sette seg inn i en mørk kjeller. Heldigvis finnes noen lysere innredningsalternativer i salgsbrosjyren. Som kjent virker mørke farger på bilinnredning slik at bilen føles mindre enn den egentlig er.
 
 Xenonlysene sammen med kurvelys gir tryggere mørkekjøring og øker sikkerheten. Praktfullt. Det triste er at du må opp i den dyreste varianten "Exclysive Plus" for å få dette utstyret. Det er også trist at det 2-soners klima-anlegget ikke er standard på denne bilen.
 
