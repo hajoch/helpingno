@@ -7,7 +7,7 @@ tags:
 - langtidstest bruktbil
 - hybrid
 title: 'Langtidstest fra bilen var ny i 2009: Toyota Prius'
-excerpt: 'Toyotas Prius var i 2009 en bestselgende hybridbil. Dette kunne ikke Henning
+excerpt: 'Toyota Prius var i 2009 en bestselgende hybridbil. Dette kunne ikke Henning
   Jon Grini (styremedlem i helping.no) motstå: Han kjøpte ny Toyota Prius. Han har
   den fremdeles og han er fremdeles strålende fornøyd med bilen.'
 image: "/assets/images/prius-1.jpg"
