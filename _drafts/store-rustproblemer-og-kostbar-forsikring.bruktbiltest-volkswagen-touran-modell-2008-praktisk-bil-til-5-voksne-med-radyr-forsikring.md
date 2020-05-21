@@ -22,7 +22,7 @@ publish_date:
 weight: 3
 
 ---
-Bruktbiltest: Volkswagen Touran:
+Bruktbiltest over flere år Volkswagen Touran:
 
 Fakta om testbilen:  
 Volkswagen Touran, United. 2008 modell., 2.0 liter med 105 hk fra  
@@ -58,7 +58,7 @@ Dette er en "trekkfugl" som er spart for de tre første årene med harde norske 
 **Hva fungerer dårlig?**  
 Navigasjon/GPS som ekstrautstyr til Touran er tøv å kjøpe: GPSen er ikke verd hva det koster. Utstyret er betydelig dårligere enn de GPSene du kjøper langt billigere i bilrekvisitabutikken og fester til vinduet med sugekopp. I denne bilen kan du ikke en gang oppdatere navigasjonsprogrammet og det har dårlig brukervennlighet. Ikke betal ekstra for dette utsyret når du kjøper Touran.
 
-Testen av [BMW 530](bmw.htm) Touring på helping.no viser at også på en kostbar tysk bil til over milionen er navigasjonsutstyret elendig.
+Testen av BMW 530 Touring på helping.no viser at også på en kostbar tysk bil til over milionen er navigasjonsutstyret elendig.
 
 CD-skifteren er ikke som Blaupunkt sine modeller som jeg tidligere hadde. Skifteren fusker og gir i tillegg fra seg ulyder som til tider er sjenerende: Det er som om CD-platene skragler inni boksen ved rotasjonen i bruk. Forhandleren sier det er slik man må regne med på en slik konstruksjon: Altså kan det ikke være Blaupunkt som har levert dette til VW.
 
