@@ -6,7 +6,7 @@ tags:
 - Toyota Rav 4
 - " SUV"
 - billig bil
-title: 'Toyota RAV 4 - 2013 modell teste da den var ny - nå er den billigere : En
+title: 'Toyota RAV 4 - 2013 modell testet da den var ny - nå er den billigere : En
   positiv overraskelse'
 excerpt: 'Toyotas RAV 4 er en positiv overraskelse. Kjøreopplevelsen er betydelig
   bedret og størrelsen økt i forhold til eldre modeller. Utslaget kom raskt på salgs-statistikken:
