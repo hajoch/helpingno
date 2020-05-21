@@ -64,5 +64,16 @@ CD-skifteren er ikke som Blaupunkt sine modeller som jeg tidligere hadde. Skifte
 
 Spoileren på denne United-modellen er en smule lavere enn standardmodellen. Det merkes i fartsdempere, i forhold til fortauskanter og harde brøytekanter: Man være ekstra påpasselig for dette er en kostbar del å skifte ut. Dette er upraktisk på en slik bil som ellers er veldig praktisk i bruk.
 
+**Rådyr forsikring - prissamarbeid med merkeforhandler?**  
+Denne bilen er dyr å forsikre. Ifølge Gjensidige skyldes den høye premien at Touran også selges som varebil hvilket betyr mye bruk på byggeplasser o.l. samt at det er en populær bil for unge familier med mindre kjøreerfaringer. De høye forsikringepremiene er rett og slett en konsekvens av en aktuarmessig skadevurdering hos forsikringsselskapene og ikke nybilprisen på bilen. Dette hevder altså forsikringsbransjen. Men er det slik?
+
+Priseksempelet illustrerer at noe ikke stemmer: Har du bonus på 75%, kjørelengde på km 16.000 årlig + samlerabatt for flere forsikringer må du betale kr. 8.109 årlig hos Gjensidige for denne bilen. Hos Trygg er premien med samlerabatt på denne bilen kr. 8.713 hvis man i tillegg medregner medlemsrabatt for medlemskap i Norsk Journalistlag.
+
+Dette skjer samtidig som merkefohandleren Volkswagen tilbyr Touran-kasko i forsikringsselskapet Enter på samme vilkår, kjørelengde og bonus til kr. 4.150,- om du kjøper bilen hos merkeforhandler, men bare da. Har du kjøpt bil privat eller hos annen forhandler er du utestengt fra denne "normale" prisen.  
+  
+Er det så mye mindre skaderisiko hvis man kjøper bilen hos merkeforhandleren?
+
+Enda tydeligere blir dette ved å sjekke pris på ett og samme selkap: IF tilbyr deg forsikringspremien på Touran kr. 11.730 på over nevte vilkår, kjørelengde og bonus, mens samme selskap selger deg den samme forsikringen gjennom merkeforhandleren for kr. 4.700,- hvis du kjøper bil der. (Prissammenlikningen er fra 2014)
+
 **Konklusjoner**  
 Samlet sett er Touran en hyggelig opplevelse. Ekstrautstyret er for det meste et gode som hever bilens komfort. Men forsikringspremien på Touran skremmer bort mange kunder. Om du sjekker premien før du kjøper.
