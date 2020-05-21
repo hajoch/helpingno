@@ -24,14 +24,12 @@ weight:
 ---
 Bruktbiltest: Volkswagen Touran:
 
-**Fakta om testbilen:  
-**Volkswagen Touran, United. 2008 modell., 2.0 liter med 105hk fra  
+Fakta om testbilen:  
+Volkswagen Touran, United. 2008 modell., 2.0 liter med 105 hk fra  
 en firesylindret turbodieselmotor, Drivstofføkonomi:, målt 0,57 liter på mila  
 på langkjøringtest. Sekstrinns manuell girkasse., NCAP-testet med 5 stjerner
 
-  
-Praktisk bil til 5 voksne  
-\- med rådyr forsikring
+Praktisk bil til 5 voksne - med rådyr forsikring
 
 Deilig med en bil jeg slipper å "krype" inn i: Her setter jeg meg behagelig inn i bilen. Liksom på de fleste SUVene - og i tillegg sliter ikke bestemor med en for høy bil å komme inn i. Den perfekte familiebil. Bilen har ikke endret seg nevneverdig siden den kom på markedet i 2003.
 
@@ -43,8 +41,8 @@ God å kjøre er den også. Fast og presis, relativt støysvak og god oversikt o
 God plass til tre voksne i baksetet på individuelle seter med regulerbar ryggvinkel.
 
 ![](/assets/images/touran13.jpg)  
-Foto: Christoffer Jore Christensen  
-  
+Foto: Christoffer Jore Christensen
+
 Testbilen er en 2008 modell Touran United med 105 hk turbodiesel: En sjelden kostbar fugl i Norge med mye utstyr og påkostet design. Bilen har det designmessig lille ekstra som gir den et penere design enn det de fleste Touraner.
 
 **Ekstrautstyr**  
