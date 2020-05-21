@@ -26,8 +26,8 @@ Tekst [Gunnar Christensen](gunnar.htm)
 
 Kias største salgsargument nå er 7 års nybilgaranti. På NCAP sikkerhets-rating har nye Carens i september 2013 krøpet opp til 5 stjerner:  
 [http://www.euroncap.com/results/kia/carens/527.aspx](http://www.euroncap.com/results/kia/carens/527.aspx "http://www.euroncap.com/results/kia/carens/527.aspx")  
-Og det er som det skal være på en nyere modell.  
-  
+Og det er som det skal være på en nyere modell.
+
 Testbilen har 1,7 liters dieselmotor på 115 hk med 6-trinns girkasse: Ikke sprek, men grei, stillegående motor som passer til denne bilen som har god støydemping. Litt følsom på rattet? Ja, av og til skjelver Carens litt på rattet muligens på grunn av dårlig asfaltdekke, men jevnt over er den stillegående, behagelig og lettkjørt.
 
 Setene er gode. Særlig førersetet med flere elektriske innstillinger. De øvrige setene har sparsomt med innstillings-muligheter, men til gjengjeld har setene oppvaring - også de tre individuelle baksetene som kan reguleres i stolrygg-vinkelen. Førersetet har i tillegg kjøling på varme sommerturer. En kreativ, god løsning. Det midterste setet bak har for kort nakkestøtte for voksne i Norge. Dette er en idiotisk sikkerhetsfeil.
@@ -43,3 +43,7 @@ Xenonlysene sammen med kurvelys gir tryggere mørkekjøring og øker sikkerheten
 Bilen finnes også i bensinutgave med 135 hk. 1,6 liter med 6-trinns manuell girkasse. Den kraftigste motoriseringen får du med 136 hk. 1,7 liters diesel, men den leveres kun med 6-trinns automatgir.
 
 Dette er en betydelig forbedring fra tidligere Kia Carens. Er også den tekniske kvaliteten forbedret blir dette enda bedre. Men det ser vi først når modellen har vært på markedet noen år.
+
+  
+**2013 Kia Carens**  
+ECO dynamics, i beste utstyrsvariant Exclusive,  Plus med el. panoramatak med sol-gardin, xenonlys med kurvelys, navigasjon, klima, skinnseter med varme og kjøling m.m., Motoren er 115 hk/1,7-liter diesel og manuell 6-trinns girkasse.
