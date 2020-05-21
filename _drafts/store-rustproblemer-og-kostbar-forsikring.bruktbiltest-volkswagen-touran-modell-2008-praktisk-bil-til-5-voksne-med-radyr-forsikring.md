@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 
+weight: 3
 
 ---
 Bruktbiltest: Volkswagen Touran:
