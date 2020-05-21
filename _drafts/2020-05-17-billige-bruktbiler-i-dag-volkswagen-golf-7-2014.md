@@ -5,6 +5,8 @@ crop_image: true
 tags:
 - billig bil
 - Golf
+- VW
+- Volkswagen
 title: 'Billige bruktbiler: Volkswagen Golf 7- 2014'
 excerpt: 'Helping testet denne bilen da den var ny i 2014. Les hva vi skrev den gang. '
 image: "/assets/images/golf73.jpg"
