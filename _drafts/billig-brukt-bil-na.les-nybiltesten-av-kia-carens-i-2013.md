@@ -11,7 +11,7 @@ title: Billig brukt bil nå. Les nybiltesten av Kia Carens i 2013
 excerpt: Kia har med denne modellen av Carens bygd en helt ny bil. Designet er absolutt
   blitt bedre enn tidligere modell. For design selger. Dette blir en konkurrent til
   VW Touran og Opel Zafira i pris og størrelse.
-image: "/assets/images/kia1.jpg"
+image: "/assets/images/kia3.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
 categories:
@@ -44,6 +44,6 @@ Bilen finnes også i bensinutgave med 135 hk. 1,6 liter med 6-trinns manuell gir
 
 Dette er en betydelig forbedring fra tidligere Kia Carens. Er også den tekniske kvaliteten forbedret blir dette enda bedre. Men det ser vi først når modellen har vært på markedet noen år.
 
-![](file:///C:/Users/helpi/Documents/www/kia3.jpg)  
+![](/assets/images/kia1.jpg)  
 **2013 Kia Carens**  
 ECO dynamics, i beste utstyrsvariant Exclusive,  Plus med el. panoramatak med sol-gardin, xenonlys med kurvelys, navigasjon, klima, skinnseter med varme og kjøling m.m., Motoren er 115 hk/1,7-liter diesel og manuell 6-trinns girkasse.
