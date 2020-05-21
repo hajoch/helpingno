@@ -2,7 +2,9 @@
 layout: post
 date: 2020-05-17 16:53:17 +0200
 crop_image: true
-tags: []
+tags:
+- billig bil
+- Golf
 title: 'Billige bruktbiler: Volkswagen Golf 7- 2014'
 excerpt: 'Helping testet denne bilen da den var ny i 2014. Les hva vi skrev den gang. '
 image: "/assets/images/golf73.jpg"
@@ -11,7 +13,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 
+weight: 6
 
 ---
 **Volkswagen Golf 7 - 2014**  
