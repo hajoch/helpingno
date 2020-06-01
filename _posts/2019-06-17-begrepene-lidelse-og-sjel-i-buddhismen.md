@@ -14,6 +14,13 @@ tags:
 - Nirvana
 - åndelig
 - livstørst
+- tro
+- livssyn
+- livstørst
+- Buddaha
+- reinkarnasjon
+- karma
+- indisk religion
 title: Begrepene "lidelse" og "sjel" i Buddhismen
 excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
   dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
@@ -23,7 +30,7 @@ image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
 categories:
 - _category/religion.md
 publish_date: 
-weight: 9
+weight: 7
 
 ---
 Buddha forklarer lidelsesbegrepet på tre nivåer: Først at alt vi til vanlig oppfatter som lidelse slik som fødsel, sykdom, alderdom og død, ubehagelige opplevelser etc. er lidelse.  
