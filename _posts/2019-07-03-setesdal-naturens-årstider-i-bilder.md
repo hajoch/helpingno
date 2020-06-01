@@ -23,8 +23,6 @@ weight: 2
 ---
 ![](/assets/images/ab2012.jpg)
 
-![](/assets/images/ab6.JPG)
-
 ![](/assets/images/ab.eik.jpg)
 
 ![](/assets/images/abe.jpg)
