@@ -34,7 +34,7 @@ excerpt: |2-
   Vi ser nærmere på den nye folkebåten som kombinerer daycruiseren og seajeepens prakstiske fordeler: Lettstelt, selvlensende og muligheter for beskyttelse mot vind og regn.
 
   Denne oversikten omfatter små og mellomstore bowridere opp til 19 fot. Prisene er ikke oppdatert til dagens priser og kan tolkes som priser på nyere bruktbåter i dag. Det er i tillegg kommet bowridere med aluminiumsskrog som ikke er med i oversikten.
-image: "/assets/images/amt.10..jpg"
+image: "/assets/images/amt.9.jpg"
 image_caption: Foto Gunnar Christensen. AMT 185 BR
 author: _authors/gunnar-christensen.md
 categories:
