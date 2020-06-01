@@ -12,6 +12,15 @@ tags:
 - Gunnar Christensen
 - analyse av lærebøker
 - fremmede religioner
+- Albert Henrik Mohn
+- pedagogikk
+- fagdidaktikk
+- ungdomsskolen
+- samfunnskunnskap
+- religioner
+- toleranse
+- innsikt
+- global forståelse
 title: Skandalebøkene i ungdomsskolen
 excerpt: Det har i dag historisk interesse at mange årskull norske elever gikk ut
   av ungdomsskolen med svært mangelfulle og feilaktige kunnskaper om fremmede religioner.
@@ -21,7 +30,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
 publish_date: 
-weight: 9
+weight: 7
 
 ---
 **Presseomtale av: Albert Henrik Mohn, NRKs tidligere Moskva korrespondent, krigs-reporter, forfatter mm..**
