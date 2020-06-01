@@ -14,6 +14,11 @@ tags:
 - kunsten å fotografere
 - motivet
 - se etter detaljer
+- digital fotografering
+- komposisjon i bildet
+- fortell noe med bildet
+- dybdevirkning i foto
+- mobilfoto
 title: Ta bedre bilder
 excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
@@ -24,7 +29,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 9
 
 ---
 **Kameravalg**  
