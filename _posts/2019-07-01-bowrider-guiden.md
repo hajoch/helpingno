@@ -46,8 +46,8 @@ weight: 7
 Vi tester bowrider med påhengsmotor i størrelsen mellom 16 - 19 fot på kvalitet, praktiske løsninger, design mm.. Guiden er beregnet på bruktbåt-markedet.
 
 **Testvnnere:**  
-**AMT 185 BR  
-  
+**AMT 185 BR**
+
 ![](/assets/images/amt185br.2.jpg)**  
 Gunstig nypris - mest for pengene for denne årgangen da den var ny. Forbrukertestet: AMT 185 BR med 90 HK Honda modell 2007 er en vellykket konstruksjon som yter 36 knop. Båten er stabil, stødig og god i sjøen. Båten kan spesialbestilles med helt hvitt skrog. Kalesjen, hydraulisk styring, dregg og fendere er inkludert i prisen. AMT ble testet mot mot Yamarin 58 BR og de andre på listen:
 
@@ -92,8 +92,8 @@ Skroget er helt hvit hvilket er en stor fordel. Blå eller røde gelcoat-striper
 Testet båten med 90 hk 4T Johnson (produsert av Suzuki) med 2 voksne og 3 barn. Går lett og stabilt i vannet, men legger seg av og til litt på siden mens den er i plan selv om personene ombord er balansert plassert. Konstruksjonsfeil? En dypere V-bunn hadde kanskje rettet på dette? Meget stillegående og behagelig motor fra Johnson/Suzuki.  
 Poeng gies for godt design og kurant pris. Båten mangler dregg-luke akter. Det gir ofte søl ombord når dreggen skal inn under akter-setet. Testbåten var helt hvit hvilket er en fordel med hensyn på vedlikehold ved riper/falming. Båten kan nå ikke lengre leveres helt hvit - Fåes kun med blå stripe og kun med Mercury.
 
-**Finnmaster 530 Open/53BR  
-  
+**Finnmaster 530 Open/53BR**
+
 ![](/assets/images/finnmaster-530.jpg)**  
 Bøylene over vindskjermene gjør det plundrete å få kalesja av og på. Åpningen mellom vindskjermen for passasje forut har ikke vindu eller "dør" som andre bowridere, men en kalesjeløsning med plastvindu som ekstrautstyr. Dårlig løsning i regn og vind. Mangler dreggluke akter.  
 Designet trekker ned. Den oppleves ikke designmessing som en fullverdig bowrider heller som en seajeep med dobbel konsoll. Det forklarer den relativt lave prisen: Seajeeper er billigere å produsere enn bowridere. Båten mangler flere av de kvaliteter konkurrentene har.
