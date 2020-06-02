@@ -119,8 +119,8 @@ Susanne peker på vannglasset hun serverte meg ved ankomst;
 \- Har du alltid kontakt med "guider" i arbeidet ditt?  
 \- Ja. Det har jeg.
 
-* Er det begrenset hvor mange pasienter du har kapasitet til å ta hver dag og er kraften like sterk på slutten av dagen som på morgenen?  
-  \- Dags-formen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
+\- Er det begrenset hvor mange pasienter du har kapasitet til å ta hver dag og er kraften like sterk på slutten av dagen som på morgenen?  
+\- Dags-formen varierer selvfølgelig som hos alle andre. Kraften er der, men den kan oppleves forskjellig.
 
 **Hva er koden?**  
 \- Der er mange forestillinger omkring det å være healer og veldig mange som gir seg ut for å være healere kanskje på sviktende grunnlag. Mange som prøver healing opplever derfor at healing ikke virker, andre det motsatte. Tror du at dette er noe som er medfødt eller tror du healing kan læres?  
