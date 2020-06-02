@@ -9,6 +9,13 @@ tags:
 - dagsturbåt
 - Hansvik
 - Yamaha
+- hard topp
+- god sjøbåt
+- nøysom og god plassutnyttelse
+- stødig
+- solid innredning
+- trailbar
+- praktisk
 title: Hansvik 18 HT
 excerpt: 'Bruktbåttest: Dette er en båt med god plass. Den er lettdrevet og gjør god
   fart med relativt små motorer. I tillegg kan du sove i båten. Men designet er gammelmodig
@@ -18,7 +25,7 @@ image_caption: Hansvik 18 HT. Foto Hansvik
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 7
 
 ---
 **5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter**
