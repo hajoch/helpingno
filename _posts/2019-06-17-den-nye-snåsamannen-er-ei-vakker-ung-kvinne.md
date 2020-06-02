@@ -22,7 +22,7 @@ image_caption: 'Foto: privat'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 1
 
 ---
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
@@ -57,7 +57,7 @@ Mange mener Susanne nå er en av de viktigste arvtakerne etter "Snåsamannen": D
 \- Jeg har aldri påstått at jeg har de samme evnene, men jeg har registrert likheter etter å ha lest boken om han. Jeg kan ha nevnt Snåsamannen i sammenhenger, men det er for at folk flest skal kunne skjønne hva jeg driver med. Mange kjenner til begrepet healing, men enda flere kjenner til personen Snåsamannen. Derfor har jeg brukt det som en sammenlikning. Jeg har aldri tatt et kurs i healing. Jeg har bare evnene. Det samme gjaldt ham. Mine hender veksler mellom å være iskalde og ekstremt varme. Derfor var det utrolig interessant å lese at han har det samme. Jeg vil imidlertid aldri påstå at jeg har de samme evnene som han. Det tror jeg verken på eller har forutsetning for å påstå. Snåsamannen er en helt unik person som jeg respekterer høyt. Han har vært en enorm døråpner og gjort det lettere for mennesker med evner til å tørre å stå frem.  
 \- Snåsamannen liker ikke benevnelsen "healer", men du bruker dette ordet aktivt.
 
-* Jeg er mye yngre enn han og bruker ord som ungdommen forstår. Jeg synes det er trist at et ord skal settes i en negativ bås og håper jeg kan snu dette til å bli et positivt begrep igjen. Å heale betyr jo bare "å gjøre hel".
+\- Jeg er mye yngre enn han og bruker ord som ungdommen forstår. Jeg synes det er trist at et ord skal settes i en negativ bås og håper jeg kan snu dette til å bli et positivt begrep igjen. Å heale betyr jo bare "å gjøre hel".
 
 **Kraften kommer fra Gud**  
 \- Snåsamannen mener den helbredende kraften kommer fra Gud og at den går gjennom han. Opplever du dette på sammen måten og hvordan definerer du Gud?  
@@ -143,8 +143,8 @@ Susanne serverer mer vann og kaffe. De vakre blå øynene fokuserer igjen på me
 \- Hvorfor valgte du først en karrière i næringslivet og hvilken utdannelse tok du?  
 \- Jeg har utdannelse fra International Business på Brisbane i Australia og markedskommunikasjon fra BI i Trondheim. Jeg har også tatt noen fag ved Universitetet i Trondheim. Jeg har alltid vært opptatt av å få en god utdannelse, og ønsket meg en karrière hvor jeg kunne utvikle meg til å bli et bevisst selvstendig menneske. Forretningslivet fascinerte meg tidlig, og jeg hadde en fantastisk morfar som var skipsreder. Han var en enorm inspirasjonskilde, og lenge ønsket jeg å gå i hans fotspor. Dette var nok barndoms-drømmen.
 
-* Hvilke råd vil du gi til foreldre som oppdager at barnet deres har slike spesielle evner som du har?  
-  \- Jeg er ingen ekspert, men var det jeg som havnet i den situasjonen ville jeg ikke oppmuntret til noe som helst. La dem være vanlige barn så lenge som mulig. Det hjelper dem å holde bakkekontakten. Jeg er selv glad for at dette var en verden som jeg kunne oppdaget helt selv. Selvfølgelig skal man vise støtte om barnet opplever noe utenom det vanlige, men jeg synes det er viktig å ikke fokusere for mye på det i tidlig alder. Lytting er det aller viktigste. La aldri barn føle at det de sier er dumt eller uvanlig. Har barnet spørsmål det er vanskelig å svare på, er det ingen problem å si akkurat det. At man ikke er sikker, men at det ikke gjør noe som helst. Man trenger ikke å forstå alt som foregår.
+\- Hvilke råd vil du gi til foreldre som oppdager at barnet deres har slike spesielle evner som du har?  
+\- Jeg er ingen ekspert, men var det jeg som havnet i den situasjonen ville jeg ikke oppmuntret til noe som helst. La dem være vanlige barn så lenge som mulig. Det hjelper dem å holde bakkekontakten. Jeg er selv glad for at dette var en verden som jeg kunne oppdaget helt selv. Selvfølgelig skal man vise støtte om barnet opplever noe utenom det vanlige, men jeg synes det er viktig å ikke fokusere for mye på det i tidlig alder. Lytting er det aller viktigste. La aldri barn føle at det de sier er dumt eller uvanlig. Har barnet spørsmål det er vanskelig å svare på, er det ingen problem å si akkurat det. At man ikke er sikker, men at det ikke gjør noe som helst. Man trenger ikke å forstå alt som foregår.
 
 **Forholder meg til mange typer mennesker**  
 \- Finnes det likheter mellom din jobb nå som healer og din tidligere jobb som markedssjef i oljebransjen?  
