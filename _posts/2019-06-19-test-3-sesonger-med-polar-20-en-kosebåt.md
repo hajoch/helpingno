@@ -15,6 +15,7 @@ tags:
 - kosebåt
 - Volvo Penta
 - dieselbåt
+- elmotor i båt
 title: 'Kosebåt. 3 sesonger med Polar 20. '
 excerpt: 'Hvem husker ikke barneårene med besteforeldres skjerm-skjekte i furu med
   liten bensinmotor, oljelukt og pussing på tennplugger. Her er en mer moderne versjon:
@@ -27,19 +28,19 @@ publish_date:
 weight: 5
 
 ---
-**![](https://wwww.helping.no/assets/images/polar.20_hvit.jpg =472x185)![](/assets/images/polar.20-1.jpg)**
+![](/assets/images/polar.20-1.jpg)
 
-Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjermesjektenes scharme fra trebåtens storhetstid før plastbåtene kom på markedet.
+Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjerm-sjektenes scharme fra trebåtens storhetstid før plastbåtene kom på markedet.
 
-Dette er en romlig, stødig og god dagsturbåt for dem som tar seg tid til familiekos på sjøen. Her er det god plass og du ferdes langt mer økonomisk og miljøvennlig enn de fleste med en 18 hk diesel som gir deg tilstrekkelig fart. og opplevelsen.
+Dette er en romlig, stødig og god dagstur-båt for dem som tar seg tid til familiekos på sjøen. Her er det god plass og du ferdes langt mer økonomisk og miljøvennlig enn de fleste med en 18 hk diesel som gir deg tilstrekkelig fart. og opplevelsen.
 
-Dette er den perfekte dagsturbåt med vindskjerm som gir ly for vinden, badestige akter og motorkassa midtskips som spisebord. Kommer det en regnskur har du kallesja parat. Men selv om produksjonen er flagget ut så er prisen fortsatt ganske stiv sammenliknet med tilsvarende båter.
+Dette er den perfekte dagsturbåt med vindskjerm som gir ly for vinden, badestige akter og motorkassa midtskips som spisebord. Kommer det en regnskur har du kalesje parat. Men selv om produksjonen er flagget ut så er prisen fortsatt ganske stiv sammenliknet med tilsvarende båter.
 
 Tekniske opplysninger:  
 Lengde 6,2 meter Bredde 2,25 Dybde 70 cm,  
 Vekt 850 kg,Volvo 18 hk diesel 2 cyl. |
 
-Hvem husker ikke barneårene med besteforeldres skjermskjekte i furu med en 2 til 5 hesters bensinmotor, oljelukt og pussing på tennplugger. Det var et annet tempo og en annen tid. En tid da de fleste langs kysten brukte skjermesjekta som familiebåt. En tid da påsketider var båtpusstider med sjøsetting i god trutnetid før St. Hans. Skjermsjekta var selveste symbolet på sommerferien langs Sørlandskysten.
+Hvem husker ikke barneårene med besteforeldres skjerm-skjekte i furu med en 2 til 5 hesters bensinmotor, oljelukt og pussing på tennplugger. Det var et annet tempo og en annen tid. En tid da de fleste langs kysten brukte skjerme-sjekta som familiebåt. En tid da påsketider var båt-puss-tider med sjøsetting i god trutne-tid før St. Hans. Skjerm-sjekta var selveste symbolet på sommerferien langs Sørlandskysten.
 
 **Vellykket**  
 Få produsenter har fått til en så vellykket plastversjon av den Sørlandske skjerm-sjekta som Polar 20. Den har pene linjer. Et skrog som ikke graver seg ned ved høyere turtall, men gir god nok fart. I innredningen har båten beholdt det beste av gammel båtbygger-tradisjon og videreutviklet dette til en moderne og lettstelt båt som har holdt seg populær i flere tiår.
@@ -63,8 +64,8 @@ Kjøper du ny Polar 20 så anbefales hvitt skrog uten striper. Det er mest vedli
 
 Unngå også ekstrautstyr av treverk. Treverket er kun fint den første sesongen og vil siden være en byrde for deg. Jo mindre treverk det er i båten des mer lettstelt er den. I tillegg kan mye av dette treverket være fra de truede regnskogene og båten kan fort bli ukurant versjon etter som det blir stadig mer fokus på miljøfaktorer nå fremover.
 
-\**Polar 20 med el-motor?  
-\**Dette er en båt som kan passe bra med en elektrisk motor. Nå lanseres derfor Polar 20 med en miljøvennlig elektrisk motor. Dette betyr mindre motorstøy og derfor en behageligere tilværelse ombord i båten. Men hvorfor er nyheten fremdeles dyrere enn den samme båten med dieselmotor?
+**Polar 20 med el-motor?**  
+Dette er en båt som kan passe bra med en elektrisk motor. Nå lanseres derfor Polar 20 med en miljøvennlig elektrisk motor. Dette betyr mindre motorstøy og derfor en behageligere tilværelse ombord i båten. Men hvorfor er nyheten fremdeles dyrere enn den samme båten med dieselmotor?
 
 Som kjent er produksjonen av Polar flyttet fra Norge til Polen. Men dette har ikke ført til rimeligere båter så langt. Heller tvert om. Derfor er bruktmarkedet interessant sålenge båten er i god stand.
 
