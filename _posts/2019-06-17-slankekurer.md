@@ -17,6 +17,7 @@ tags:
 - stoffskifte
 - oppskrift
 - 3 dagers kuren
+- nøysomt kosthold er bærekraftig
 title: Slankekurer
 excerpt: 3 dagers-kuren og Stoffskifte-diett "oppskrift"
 image: "/assets/images/eple1.jpg"
@@ -24,7 +25,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 9
+weight: 7
 
 ---
 Slankekur
