@@ -18,6 +18,7 @@ tags:
 - mykere kropp
 - smidigere bevegelser
 - øvelser mot stivhet
+- mykere kropp
 title: Yoga gir smidigere kropp og et bedre liv
 excerpt: |-
   Yoga-instruksjoner: Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
@@ -29,7 +30,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 8
 
 ---
 I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
@@ -60,22 +61,22 @@ Gjør øvelsene når du har tid og ikke stress gjennom dem. Når du hviler mello
 * Øvelse 3  
   Sitt på huk. Legg begge håndflatene på magen og trykk lett på magen. Gjør det samme litt over første trykkpunkt og videre opp til hjertet.
 
-![](/assets/images/y4-1.jpg)![](https://wwww.helping.no/assets/images/y4.jpg)
+![](/assets/images/y4-1.jpg)
 
 * Øvelse 4  
   Sitt på huk. Reis deg langsomt opp i stillingen som vist på figuren. Bli i stillingen noen minutter mens du puster langsomt. Pust langsomt gjennom nesen. Deretter ned på huk igjen.
 
-  ![](https://wwww.helping.no/assets/images/y5.jpg)![](/assets/images/y5-1.jpg)
+  ![](/assets/images/y5-1.jpg)
 * Øvelse 5  
   Sitt på gulvet som vist på figuren. Strek ut høyre benet og bøy det venstre inn mot kroppen. Strekk så rolig armene mot høyre fot og bøy hodet ned mot kneet. Strekk godt ut med rett kne og bli i stillingen noen minutter. Pust rolig. Alternativt kan du puste ut når du bøyer fremover og holde pusten for så å trekke inn pusten på oppgående bevegelse. Kom rolig ut av stillingen og skift side og gjør samme øvelse mot venstre ben.
 
-  ![](/assets/images/y6.jpg)![](https://wwww.helping.no/assets/images/y6.jpg)
+  ![](/assets/images/y6.jpg)
 * Øvelse 6  
   Denne øvelsen kalles plogstilling - øvelsene 6 går over i 7: Ligg flatt på ryggen med hendene langs kroppen og håndflatene ned. Løft bena opp i loddrett stilling som vises på figuren over. Støtt så hendene mot hoftene slik figuren viser. Hold bena rett ved ikke å bøye knærne. Bli i denne stillingen noen minutter - og gå så over i øvelse 7.
 
-  ![](https://wwww.helping.no/assets/images/y7.jpg)![](/assets/images/y7.jpg)
+  ![](/assets/images/y7.jpg)
 * Øvelse 7  
-  Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](https://wwww.helping.no/assets/images/y8.jpg)![](/assets/images/y8.jpg)
+  Med utgangspunkt i øvelse 6 - senk bena over kroppen helt til tærne berører gulvet eller så langt du får til. Ha rette ben - ikke bøy knærne - slik at du får fin strekk i legg-muskulaturen. Bli i denne posisjonen noen minutter.Blir øvelse 6 og 7 for vanskelig kan du gjøre følgende: Ligg på ryggen med armene langs siden. Løft så strake ben opp ca. 40 - 50 cm. fra gulvet og hold dem der en stund. Deretter avslutt ved å la bena gli sakte ned mot gulvet igjen. Du vil kjenne at dette er bra for magemusklene. ![](/assets/images/y8.jpg)
 * Øvelse 8  
   Ligg på magen. Legg håndflatene mot gulvet. Bøy ryggen langsomt bakover, sett brystet godt fram og la hoftene ligge nede på gulvet. Løft med ryggen og støtt med armene. Bli i stillingen noen minutter. Beveg deg deretter langsomt tilbake til utgangsposisjonen og legg deg til hvile på siden når du gjør øvelser på magen.
 
