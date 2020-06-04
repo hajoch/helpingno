@@ -13,6 +13,9 @@ tags:
 - landlig og idyllisk hotell
 - hotell
 - nytt hotell
+- Rogaland
+- moderne hotell
+- universitetshotell
 title: 'Ydalir hotell: Stavangers hemmelighet. '
 excerpt: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service plassert
   grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret av lyd fra
@@ -26,7 +29,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 2020-02-13T23:00:00.000+00:00
-weight: 9
+weight: 8
 
 ---
 De øvrige måltidene kan du bestille fra den restauranten du vil, som catering, og spise i hotellets fellesrom eller på rommet som det passer deg.
