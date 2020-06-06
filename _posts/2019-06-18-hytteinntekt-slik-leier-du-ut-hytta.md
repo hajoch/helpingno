@@ -10,6 +10,13 @@ tags:
 - fritidsbolig
 - utleie av bolig
 - hytteleie
+- radon
+- radonkart der du bor?
+- leiekontrakt
+- tips før utleie av hytta
+- ta bilder for å dokumentere leiekontrakt
+- markedsføring
+- " skatt ved utleie"
 title: 'Hytteinntekt: Slik leier du ut hytta - husk radonmåling'
 excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En
   inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering
@@ -18,7 +25,7 @@ image: "/assets/images/hytte1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
-publish_date: 2020-05-10 00:00:00 +0200
+publish_date: 2020-06-06 00:00:00 +0200
 weight: 5
 
 ---
