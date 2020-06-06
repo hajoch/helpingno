@@ -87,8 +87,15 @@ Det er viktig å tilrettelegge for at leietaker får en problemfritt og hyggelig
 
 Hytteferie betyr ofte en kjærkommen avveksling fra storby-mas. Gjestene du får vil kanskje anbefale denne hytta til andre etter oppholdet. Be derfor om tilbakemelding på hva du kan forbedre slik at du hele tiden får det beste ut av leieforholdet både for deg selv og dine leieboere.
 
+**Radonmåling et viktig helsetiltak i boliger**  
+Radon finnes i grunnen enkelte steder, er usynlig og kan gi kreft. Kreft som følge av radon er et stort samfunnsproblem få er oppmerksom på.
+
+Salgsmelding på bolig skal inneholde opplysninger om radonverdien i boligen, men få meklere bryr seg om det. Enkelte har ikke hørt om radon. Er du på boligjakt så be om å få opplyst radonmåling i boligen. Ved utleie av bolig plikter utleier å presentere radonmåling av nyere dato. Radonmåling av vann i hyttebrønn og stråling som påvirker inneklimaet i hytta er en også en fordel å ha dokumentasjon på.
+
+Du kan bestille radonmatter i gulvet når du bygger nytt hus. Enkelte hus-produsenter som f.eks svenske Alvbyhus har dette som standard i husene de leverer i Norge. Tiltak som f.eks tetting av sprekker i eksisterende hus kan dempe radon i huset. Dette må overlates til spesialister på dette. Ofte er radonplagen verst i kjeller og blir mindre plagsom oppover etasjene. Store områder av Oslo har radon-plager. Det finnes radon-kart over ditt boligområde. Snakk med kommunen eller sjekk nettstedet under. Du får kjøpt rimelige måleapparat til å måle radon i din bolig på nett. Mer informasjon:  
+[www.nrpa.no/radon](http://www.nrpa.no/radon)
+
 **Lykke til med hytteutleie.**
 
-**Radonmåling:**  
-Radonmåling av vann i hyttebrønn og stråling som påvirker inneklimaet i hytta er en fordel å ha dokumentasjon på. Radon kan gi kreft.  
+**Link**  
 [www.nrpa.no/radon](http://www.nrpa.no/radon)
