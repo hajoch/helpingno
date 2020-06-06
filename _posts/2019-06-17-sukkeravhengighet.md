@@ -49,7 +49,7 @@ Mange utleiere velger leieboer som har arbeid og egen inntekt. Enkelte utleiere 
 **Visning, beliggenhet, kvalitet, brannsikkerhet og høyspent**  
 Sjekk også at bostedet du velger å leie har god brannsikkerhet. Dette er viktigere jo lengre opp i etasjene du kommer og særlig i eldre bygårder med mye trekonstruksjoner. En loftsleilighet i en eldre bygård kan være rene brannfellen. Se for deg hvordan du skal kunne redde deg ut fra loftet om huset brenner og flammene står opp trappen.
 
-Vær også oppmerksom på at trafoer og høyspentledninger nær boligen kan gi helseproblemer. Spør også utleier om det er foretatt radonmålinger i huset. Radonmåling: [www.nrpa.no/radon](http://www.nrpa.no/radon)  
+Vær også oppmerksom på at trafoer og høyspentledninger nær boligen kan gi helseproblemer. Spør også utleier om det er foretatt radonmålinger i huset.   
 Som kjent er både radon og høyspent stråling kreftfremkallende.
 
 Bruk alle sanser på visningen. Lukter det mugg på badet? Fuktskader gir dårlig inneklima og helseplager. Hvilken isolasjonstype er brukt. Det er kjent at Glava gir dårlig inneklima, mens Rockwool gir godt inneklima og er i tillegg brannhindrende. Les også [Miljøhus.](http://www.helping.no/miljohus.htm)
@@ -59,6 +59,14 @@ Hvilken årgang er huset? Nyere hus har bedre isolasjon enn eldre. En kjellerlei
 Beliggenhet i forhold til støy fra vei, jernbane m.m. er viktig for søvnkvalitet der du bor. Får du ikke den nødvendige søvndybde som følge av for eksempel trafikk/gatestøy om natten, blir du ikke skikkelig uthvilt etter nattesøvnen og i lengden kan det slite på helsa.
 
 Sjekk også naboforholdene: Spør gjerne folk som bor i nærheten om dette er et greit sted å bo. Om det er greie naboforhold i strøket? Trygg skolevei for barna? Parkeringsforhold i gata? Bussforbindelser? Rolig strøk eller mye kriminalitet?
+
+**Radonmåling et viktig helsetiltak i boliger**  
+Radon finnes i grunnen enkelte steder, er usynlig og kan gi kreft. Kreft som følge av radon er et stort samfunnsproblem få er oppmerksom på.
+
+Salgsmelding på bolig skal inneholde opplysninger om radonverdien i boligen, men få meklere bryr seg om det. Enkelte har ikke hørt om radon. Er du på boligjakt så be om å få opplyst radonmåling i boligen. Ved utleie av bolig plikter utleier å presentere radonmåling av nyere dato. Radonmåling av vann i hyttebrønn og stråling som påvirker inneklimaet i hytta er en også en fordel å ha dokumentasjon på.
+
+Du kan bestille radonmatter i gulvet når du bygger nytt hus. Enkelte hus-produsenter som f.eks svenske Alvbyhus har dette som standard i husene de leverer i Norge. Tiltak som f.eks tetting av sprekker i eksisterende hus kan dempe radon i huset. Dette må overlates til spesialister på dette. Ofte er radonplagen verst i kjeller og blir mindre plagsom oppover etasjene. Store områder av Oslo har radon-plager. Det finnes radon-kart over ditt boligområde. Snakk med kommunen eller sjekk nettstedet under. Du får kjøpt rimelige måleapparat til å måle radon i din bolig på nett. Mer informasjon:  
+[www.nrpa.no/radon](http://www.nrpa.no/radon)
 
 **Kontrakten**  
 Når du har funnet bostedet bør du sette deg grundig inn i leiekontraktens ordlyd før du signerer den: Les den nye og spør utleier om det er noe som er uklart for deg. Også det med liten skrift og husordensregler må leses nøye. Opplysninger og råd om leiekontrakter kan du finne på
@@ -83,11 +91,8 @@ Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du best
 
 Lykke til med boligjakten.
 
-**Elektrikerens spare-råd:  
-Sparepæren er ikke alltid best.**
+**Elektrikerens spare-råd: Sparepæren er ikke alltid best.**
 
-Mange skifter til spare-pærer for å spare strøm.  
-På belysning utendørs er sparepæren god å ha,  
-men inne er det verre. For sparepæren er egentlig et lite lysrør og den oppfører seg også slik. Det betyr at den gir fra seg lys i form av små blink du knapt merker og ikke jevnt lys som en vanlig lyspære. Disse små blinkene oppfatter du ikke. Likevel oppfatter hodet ditt disse blinkene og gjør deg lettere sliten hvis du bruker sparepærer som leselys. Lyset blir omtrent som ved bruk av vanlige lysrør.
+Mange skifter til spare-pærer for å spare strøm. På belysning utendørs er sparepæren god å ha, men inne er det verre. For sparepæren er egentlig et lite lysrør og den oppfører seg også slik. Det betyr at den gir fra seg lys i form av små blink du knapt merker og ikke jevnt lys som en vanlig lyspære. Disse små blinkene oppfatter du ikke. Likevel oppfatter hodet ditt disse blinkene og gjør deg lettere sliten hvis du bruker sparepærer som leselys. Lyset blir omtrent som ved bruk av vanlige lysrør.
 
 Som leselys er en vanlig lyspære derfor å foretrekke. I tillegg gir den fra seg varme slik at den er en varmekilde i tillegg til en lyskilde. Er lyspæren på 60 watt gir den fra seg 60 watt varme i tillegg til lyset du får fra pæren. Dermed trenger du mindre oppvarming med vanlige lyspærer enn med sparepærer i huset.
