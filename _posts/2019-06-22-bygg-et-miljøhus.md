@@ -13,6 +13,10 @@ tags:
 - inneklima
 - byggematerialvalg
 - allergi
+- radon
+- radonmål huset selv
+- radonmatter
+- radonkart der du bor?
 title: Bygg et miljøhus
 excerpt: En sjønær, romslig tomt med byggetillatelse på Sørlandet var startskuddet
   for en del år tilbake.
@@ -21,8 +25,8 @@ image_caption: "Illustrasjonsfoto Gunnar Christensen. \nMotiv fra Merdø ved Are
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2019-08-29T22:00:00.000+00:00
-weight: 5
+publish_date: 2020-06-06 00:00:00 +0200
+weight: 7
 
 ---
 Planen var å sette opp et landsted etter et rimelig nøkternt budsjett, men med alle de kvaliteter som man forbinder med et sunt hus. Et laftehus er i utgangspunktet et sunt hus, men vi ville heller ha en bygning som passet inn i kystmiljøet - altså et lite, tradisjonelt skipperhus.
@@ -54,6 +58,14 @@ I utgangspunktet hadde vi tenkt oss Cellulose isolasjon i stedet for tradisjonel
 
 I stedet for plast som fuktsperre brukes en spesialutviklet papp som den gang kalles Pades som nå er erstattet av damprens av ulike typer. Pades og Cellulose isolasjon markedsføres som en totalløsning. Damprens er et produkt som "puster", holder tett for fukt samtidig og som er et bedre alternativ enn plast som fuktsperre.
 
+**Radonmåling et viktig helsetiltak i boliger**  
+Radon finnes i grunnen enkelte steder, er usynlig og kan gi kreft. Kreft som følge av radon er et stort samfunnsproblem få er oppmerksom på.
+
+Salgsmelding på bolig skal inneholde opplysninger om radonverdien i boligen, men få meklere bryr seg om det. Enkelte har ikke hørt om radon. Er du på boligjakt så be om å få opplyst radonmåling i boligen. Ved utleie av bolig plikter utleier å presentere radonmåling av nyere dato. Radonmåling av vann i hyttebrønn og stråling som påvirker inneklimaet i hytta er en også en fordel å ha dokumentasjon på.
+
+Du kan bestille radonmatter i gulvet når du bygger nytt hus. Enkelte hus-produsenter som f.eks svenske Alvbyhus har dette som standard i husene de leverer i Norge. Tiltak som f.eks tetting av sprekker i eksisterende hus kan dempe radon i huset. Dette må overlates til spesialister på dette. Ofte er radonplagen verst i kjeller og blir mindre plagsom oppover etasjene. Store områder av Oslo har radon-plager. Det finnes radon-kart over ditt boligområde. Snakk med kommunen eller sjekk nettstedet under. Du får kjøpt rimelige måleapparat til å måle radon i din bolig på nett. Mer informasjon:  
+[www.nrpa.no/radon](http://www.nrpa.no/radon)
+
 **Branntest**  
 Vi ble imidlertid betenkt etter å ha testet flere isolasjonstyper på bålet: Testen gikk ut på å legge en bit av hver type isolasjon på et bål for å teste hvor fort de brenner opp: Dette fordi brannsikkerheten er viktig når soveplassene skal være i loftsetasjen. Vi hadde kun tilgang på Glava og Rockwool. Glava brant fort opp på bålet. Rockwool brant ikke opp fordi det ikke kan brenne. Det betyr i praksis dyrebare minutter til å komme seg ut hvis bygget skulle brenne om natten mens familien ligger og sover. Samtidig er Rockwool testet av Norges astma og allergiforbund og funnet å være et rent byggemateriale med hensyn på inneklima.
 
@@ -61,7 +73,7 @@ Vi ble imidlertid betenkt etter å ha testet flere isolasjonstyper på bålet: T
 Glava Isolasjon - også kalt glassvatt - er og har vært en versting med hensyn på inneklima siden dette produktet kom på markedet på 1950-tallet. Vi i helping.no har fått rapporter fra en rekke familier som har måttet rive alle vegger i huset og erstatte Glava med Rockwool etter at barna har utviklet astma. En meget kostbar reparasjon. Straks Glavaen er borte blir barna bedre, får vi opplyst. Men husk å støvsuge de siste partiklene bort etter at Glavaen er tatt ut. På dagens marked koster Rockwool og Glave det samme: Det er derfor en gåte for oss i helping.no at Glava fremdeles finnes på markedet.
 
 **Rockwool**  
-Vi valgte å isolere bygget vårt med Rockwool og brukte Pades som fuktsperre. Vi var i kontakt med leverandører av Pades på forhånd, men disse mente Pades bare kunne brukes sammen med Celluloseisolasjon. Vi tok likevel sjansen den gang - og etter mer enn 10 år med to hus bygget med denne kombinasjonen av Rockwool og Pades (nå dampsperre) er vi svært godt fornøyd med denne kombinasjonen. Kun våtrom som badet har plast fuktsperre.
+Vi valgte å isolere bygget vårt med Rockwool og brukte Pades som fuktsperre. Vi var i kontakt med leverandører av Pades på forhånd, men disse mente Pades bare kunne brukes sammen med Celluloseisolasjon. Vi tok likevel sjansen den gang - og etter mer enn 10 år med to hus bygget med denne kombinasjonen av Rockwool og Pades. Pades er nå erstattet av dampsperre på markedet. Imidlertid var vi svært godt fornøyd med denne kombinasjonen. Kun våtrom som badet har plast fuktsperre.
 
 **Furu**  
 Vi Installerte også ventiler i alle rom og brukte ubehandlet furupanel, gips eller avgassfrie plater. Ubehandlet heltrefurupanlel ble brukt i både tak og vegger.
