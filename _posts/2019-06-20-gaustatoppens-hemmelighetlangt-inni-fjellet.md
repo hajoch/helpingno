@@ -22,7 +22,7 @@ tags:
 - militære hemmeligheter
 - Norges lengste taubane
 - Cognac
-title: Gaustatoppens hemmelighet. Langt inni fjellet.....
+title: 'Gaustatoppens hemmelighet. '
 excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
   i fjellet til den store attraksjonen. Fjellstua på toppen selger vafler. Utsikten?
   Ofte tåke her.
