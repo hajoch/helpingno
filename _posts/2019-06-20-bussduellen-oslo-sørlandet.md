@@ -15,7 +15,7 @@ image: "/assets/images/buss.jpg"
 image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
-publish_date: 2019-07-03T22:00:00.000+00:00
+publish_date: 2020-06-07 00:00:00 +0200
 weight: 3
 
 ---
