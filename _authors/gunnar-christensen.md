@@ -4,9 +4,6 @@ title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
 
 ---
-[wikipedia](https://no.wikipedia.org/wiki/Gunnar_Christensen_%28forfatter%29)
-
-[Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/?midToken=AQFdzOWMeaVi0g&trk=eml-email_accept_invite_single_01-header-35-profile&trkEmail=eml-email_accept_invite_single_01-header-35-profile-null-cgu7ze%7Ejyun9joy%7Ec9-null-neptune%2Fprofile%7Evanity%2Eview " linkedin")
 
 Journalist, lektor, forfatter.  
 Nå redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
