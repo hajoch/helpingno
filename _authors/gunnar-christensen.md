@@ -17,6 +17,6 @@ Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015
 
 Gift, 3 voksne sønner.
 
-[Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/ "https://www.linkedin.com/in/gunnar-christensen-ba257b190/")
+[Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
 Foto: Jens Christian Jore Christensen
