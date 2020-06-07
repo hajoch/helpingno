@@ -15,6 +15,9 @@ tags:
 - overnatting
 - historisk sted
 - turistattraksjon
+- kysthistorie
+- maritimt museum
+- betjent norsk fyr
 title: Et døgn i fyrvokterboligen på Lindesnes Fyr
 excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste med panoramautsikt
   over havet. Hyggelige og gjestfrie fyrvoktere ønsker deg velkommen, hjelper deg
@@ -37,18 +40,15 @@ Dette er nøkkelen til den største opplevelsen på fyret. Da kan du følge fyre
 
 **En vakker orkesterplass ved havet.**
 
-![](https://wwww.helping.no/assets/images/lind.04.jpg)
-
 ![/assets/images/lind.04.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/lind.04.jpg)
 
-![](https://wwww.helping.no/assets/images/lind.25.jpg)![](/assets/images/lind.25.jpg)
+  
+![](/assets/images/lind.25.jpg)
 
 Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i  
 1656\. Dagens fyr er en stålkonstruksjon bygget i 1915.
 
 ![](/assets/images/lind.20-1.jpg)
-
-![](https://wwww.helping.no/assets/images/lind.07.jpg)
 
 ![](/assets/images/lind.17.jpg)
 
@@ -56,11 +56,7 @@ Lindesnes fyr er landets eldste. Den første fyrlykta ble tent her i
 
 ![](/assets/images/lind.31.jpg)
 
-![](https://wwww.helping.no/assets/images/lind.02.jpg)
-
 ![](/assets/images/lind.03.jpg)
-
-![](https://wwww.helping.no/assets/images/lind.01.jpg)
 
 Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig halogenpære.
 
@@ -71,15 +67,11 @@ Fyrlykta består av et betydelig antall krystaller som roterer rundt en kraftig 
 Fyrvokterne (her Kjell Olsen) er sentrale personer på fyret.  
 Et velstelt og godt vedlikeholdt anlegg.
 
-![](https://wwww.helping.no/assets/images/lind.26.jpg)
-
 ![](/assets/images/lind.30.jpg)
-
-![](https://wwww.helping.no/assets/images/lind.20.jpg)
 
 ![](/assets/images/lind.16.jpg)
 
-Tåkeluren er fremdeles in takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
+Tåkeluren er fremdeles brukbar takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
 
 ![](/assets/images/lind.24.jpg)
 
@@ -87,7 +79,7 @@ Naturstier i området gir muligheter til trim og naturopplevelser.
 
 ![](/assets/images/lind.23.jpg)
 
-I dårlig vær anbefales imidlertid å se opp for høye bølger langs naturstien kalt "kyststien"
+I dårlig vær anbefales imidlertid å se opp for høye bølger langs naturstien kalt "kyst-stien"
 
 ![](/assets/images/lind.11.jpg)
 
