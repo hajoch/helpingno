@@ -71,7 +71,7 @@ Et velstelt og godt vedlikeholdt anlegg.
 
 ![](/assets/images/lind.16.jpg)
 
-Tåkeluren er fremdeles brukbar takt. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
+Tåkeluren er fremdeles brukbar. Hvert år den 30 juni arrangeres tåkelurens dag med tilstelninger og test av luren.
 
 ![](/assets/images/lind.24.jpg)
 
