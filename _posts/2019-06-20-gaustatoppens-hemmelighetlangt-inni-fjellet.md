@@ -56,10 +56,11 @@ Det er 85% funktighet i lufta på grunn av vannet som renner under oss.
 \- Jeg hører vann som renner?  
 \- Det går en fjellbekk under oss. Det er smeltevann fra permafrost og nedbør på toppen. Reneste vann du kan få. Det samles opp i en tank nederst ved inngangen og pumpes opp som vannforsyning til boenheter og turisthytta på toppen.
 
-* Det dugger fælt på linsa?  
-  \- Ikke rart for her er det 85% fuktighet i lufta på grunn av vannet som renner under oss.
+Det dugger fælt på linsa?  
+\- Ikke rart for her er det 85% fuktighet i lufta på grunn av vannet som renner under oss.
 
-  ![](https://wwww.helping.no/assets/images/gausta7.jpg)![](/assets/images/gausta7.jpg)
+  
+![](/assets/images/gausta7.jpg)
 
 Som på fløybanen møtes vogn nedenfra og ovenfra på midten der sporbredden er dobbel. Dette går langt behageligere for seg enn i Per Gynts Dovre der "Bukk fra oven og bukk bra bunnen stangededs i samme stunden".
 
@@ -68,7 +69,8 @@ Kabelen trekkes jevnt og stødig oppover:
 glimter endestasjonen badet i  
 neonlys på toppen.
 
-![](https://wwww.helping.no/assets/images/gausta1.jpg)![](/assets/images/gausta1.jpg)
+  
+![](/assets/images/gausta1.jpg)
 
 En trapp fører opp til maskinrommet bak en glassvegg. Her skimtes et solid maskineri og en maskinist bak spakene.
 
@@ -78,7 +80,8 @@ En tunnel fører ut i friluft. Jeg forbereder meg på en fantastisk utsikt?
 
 Ute av tunnelen ligger Turist-foreningens hytte sløret i tåke som et spøkelses-slott en liten klatretur opp. Masta står som et mektig monument på toppen, men også den pakker seg blygt inn i den tette tåka.
 
-![](https://wwww.helping.no/assets/images/gausta8.jpg)![](/assets/images/gausta8.jpg)
+  
+![](/assets/images/gausta8.jpg)
 
 **Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. Den vakre utsikten fikk jeg ikke.**
 
@@ -86,7 +89,8 @@ Ute av tunnelen ligger Turistforeningens hytte sløret i tåke som et spøkelses
 
 Gaustatoppen ville ikke gi fra seg alle hemmelighetene sine denne dagen. For den vakre utsikten fikk vi ikke på grunn av tåke.
 
-![](https://wwww.helping.no/assets/images/gausta4.jpg)![](/assets/images/gausta4-1.jpg)
+  
+![](/assets/images/gausta4-1.jpg)
 
 **Linker**  
 Slik får du kontakt med Gaustabanen:  [www.gaustabanen.no](http://www.gaustabanen.no/)
