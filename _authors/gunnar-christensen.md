@@ -4,7 +4,6 @@ title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
 
 ---
-
 Journalist, lektor, forfatter.  
 Nå redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
 
@@ -18,6 +17,6 @@ Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015
 
 Gift, 3 voksne sønner.
 
-[www.linkedin.com/in/gunnar-christensen-ba257b190/](http://www.linkedin.com/in/gunnar-christensen-ba257b190/)
+[Linkedin](www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
 Foto: Jens Christian Jore Christensen
