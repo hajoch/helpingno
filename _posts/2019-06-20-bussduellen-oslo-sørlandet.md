@@ -10,13 +10,12 @@ tags:
 - reise
 - reiseråd
 title: 'Bussduellen: Oslo-Sørlandet'
-excerpt: '"Underdog" skåret best, men nå har nye Nettbuss oppgradert bussene med store
-  investeringer.'
+excerpt: '"Underdog" skåret best, men nå har nye VY oppgradert bussene med store ny-investeringer.'
 image: "/assets/images/buss.jpg"
 image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2019-07-03T22:00:00.000+00:00
 weight: 3
 
 ---
