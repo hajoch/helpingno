@@ -31,10 +31,10 @@ Villreinflokken beveger seg raskt og smidig. Gråbrun, strihåret pels, også pe
 
 En lav, gryntende eller snøftende lyd kommer fra flokken såkalt, garting.
 
-![](https://wwww.helping.no/assets/images/villreinx.jpg)![](/assets/images/villreinx-1.jpg)
+  
+![](/assets/images/villreinx-1.jpg)
 
-Kameralyd.  
-Frihåndsopptak.
+Kameralyd. Frihåndsopptak.
 
 Vi kjører på fjellveien fra riksvei 55 og opp til Juvasshytta i Jotunheimen da flokken kommer på oss og raskt krysser veien framfor bilen.
 
@@ -42,11 +42,9 @@ En følelse av uvirkelighet. Vakre dyr. Som en naturens åpenbaring. Slikt opple
 
 Villreinen lever i flokk og kan bli opp til 18 år gamle. Reinen har et nomadisk levesett, dvs at den foretar større eller mindre vandringer mellom sommer- og vinterbeite.
 
-Kroppslengde inntil 220 cm, boghøyde inntil 125 cm. Totalvekt for en reinsbukk kan være opp til 270 kg. Hundyret såkalt Simla er betydelig mindre.
+Kroppslengde inntil 220 cm, høyde inntil 125 cm. Totalvekt for en reinsbukk kan være opp til 270 kg. Hundyret såkalt Simla er betydelig mindre.
 
 Sommerbeitet ser karrig ut her oppe på snaufjellet. Men dette er en nøysom art. Om vinteren består 40-80 % prosent av maten av lav fra bakken og trær. Resten består av tørt gress og buskevekster. Om sommeren spiser reinen urter, gress, dvergbusker og noe lav.
-
-![](https://wwww.helping.no/assets/images/villrein3.jpg)
 
 Villreinen finnes i Nordlige deler av Europa, Asia, Nord-Amerika, Svalbard og Grønland. Tamrein er satt ut både på Sør-Georgia og Island. I Norge har vi villrein (Rangifer tarandus tarandus) kun i de sørlige fjellområdene våre fra Sør Trøndelag og sørover. I tillegg til villreinen på fastlandet har vi også Svalbardrein (Rangifer tarandus platyrhynchus) på Svalbard. Tamreindrift drives i dag i store deler av Nord-Norge helt sør til deler av Oppland og Hedmark.
 
