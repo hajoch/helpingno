@@ -23,8 +23,8 @@ tags:
 - Norges lengste taubane
 - Cognac
 title: 'Gaustatoppens hemmelighet. '
-excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren og 860 meter nedover
-  i fjellet til den store attraksjonen. Fjellstua på toppen selger vafler. Utsikten?
+excerpt: En smalsporet jernbane vagger behagelig fra inngangsdøren. Så 860 meter oppover
+  inne i fjellet. Den store attraksjonen er fjellstua på toppen. Ferske vafler. Utsikten?
   Ofte tåke her.
 image: "/assets/images/gausta2.jpg"
 image_caption: Der står kabelbanen som skal ta meg 1040 meter oppover inni fjellet
