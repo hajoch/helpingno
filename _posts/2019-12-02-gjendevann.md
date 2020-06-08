@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 7
 
 ---
 ![](/assets/images/gjende3.jpg)
