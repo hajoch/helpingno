@@ -2,6 +2,7 @@
 layout: author
 title: Hallvard Jore Christensen
 image: "/assets/images/0.jpg"
+published: false
 
 ---
 **Teknisk redaktør, styrenestleder**  
