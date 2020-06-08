@@ -30,7 +30,7 @@ image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Buddha forklarer lidelsesbegrepet på tre nivåer: Først at alt vi til vanlig oppfatter som lidelse slik som fødsel, sykdom, alderdom og død, ubehagelige opplevelser etc. er lidelse.  
