@@ -21,6 +21,7 @@ tags:
 - reinkarnasjon
 - karma
 - indisk religion
+- filosofi
 title: Begrepene "lidelse" og "sjel" i Buddhismen
 excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
   dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
