@@ -10,7 +10,7 @@ tags:
 - sjøreise
 - taxfree
 - søreise
-title: Flott reisemål
+title: 'Kiel-ferga: Flott reisemål'
 excerpt: 'Test: Med skipene "Fantasy" og "Magic" har Color Line utviklet Oslo-Kiel-fergen
   til et reisemål for folk i alle aldere. Skipene holder god standard med et variert
   tilbud. Color line holder skipene godt ved like og gir deg en kvalitets-reise.'
