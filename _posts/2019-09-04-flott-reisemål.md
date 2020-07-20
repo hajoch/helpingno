@@ -6,10 +6,10 @@ tags:
 - båt
 - ferge
 - skip
-- kruseship
 - Oslo-Kiel
 - sjøreise
 - taxfree
+- søreise
 title: Flott reisemål
 excerpt: 'Test: Med skipene "Fantasy" og "Magic" har Color Line utviklet Oslo-Kiel-fergen
   til et reisemål for folk i alle aldere. Skipene holder god standard med et variert
@@ -21,8 +21,8 @@ image_caption: 'En firestjerners lugar ombord er flott, stilig og behagelig. Sam
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/båt.md
-publish_date: 2019-09-03T22:00:00.000+00:00
-weight: 5
+publish_date: 2020-07-20 00:00:00 +0200
+weight: 7
 
 ---
 Forbinder du Color Line med den overfylte danskebåten "Color Superspeed" i sommerhalvåret så er dette en helt annen opplevelse: Du er på en form for cruise. Ombord finnes et så variert tilbud at det skjeden føles overfylt der du er. Her er trim, spa, revy, casino, handlegate, badeland for barna og flere flotte spisesteder.
