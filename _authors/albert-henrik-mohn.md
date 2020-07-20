@@ -4,6 +4,8 @@ title: 'Albert Henrik Mohn. '
 image: "/assets/images/a.h.mohn.jpg.jpg"
 
 ---
+f. 1918 - d.1999
+
 [Kategorier](https://no.wikipedia.org/wiki/Wikipedia:Kategorier "Wikipedia:Kategorier") fra wikipedia:
 
 * [Fødsler i 1918](https://no.wikipedia.org/wiki/Kategori:F%C3%B8dsler_i_1918 "Kategori:Fødsler i 1918")
