@@ -39,8 +39,6 @@ Etter at jobben er "ferdig" siger en av platene på pipa med ca. 10 cm og lager 
 
 Hele pipebeslaget må rives og erstattes med et arbeid utført av en pålitelig fagmann. Walter Marino Fredriksen hadde flere anledninger til å gjøre dette på en kvalitativt god måte, men det klarte han ikke - og resultatet er et ubrukelig og utrygt pipebeslag med åpenbare feil og mangler.
 
-![](/assets/images/pipe1.jpg)
-
 Den lange yrkeserfaringen Walter Marino Fredriksern skrøt av før han fikk jobben viser seg nå i praksis å være blank løgn.
 
 **Anbudstjeneste på nett**  
@@ -76,9 +74,11 @@ Men dette var ikke nok for denne håndverkeren: Walter Marino Fredriksen krevde 
 
 Da jeg varslet at dette ble en sak for Forbrukerrådet, truet håndverkeren meg med politianmeldelse for utpressing: I sin sms til meg skriver Walter Marino Fredriksen: "Du blir politianmeldt for utpressing du vil høre fra min advokat. denne meldingen er fra walter fredriksen".
 
-Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkerne? som står bak firmaet MALING OG HÅNDVERKTJENESTE Org. nummer 998 479 452 og som utførte arbeidet hos meg og som etter denne saken er nedlagt og avviklet. Både far og sønn presenterte seg med samme navn - Walter O. Fredriksen. Dette firmaet står i sønnens navn, men det er faren altså Walter Marino Fredriksen som gjør jobben..
+Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkerne? som står bak firmaet MALING OG HÅNDVERKTJENESTE Org. nummer 998 479 452 og som utførte arbeidet hos meg og som etter denne saken er nedlagt og avviklet. Både far og sønn presenterte seg med samme navn - Walter O. Fredriksen. Dette firmaet står i sønnens navn, men det er faren altså Walter Marino Fredriksen som gjør jobben. 
 
-Det er senior Walter Marino Fredriksen som foretar kundekontakten og jeg har så langt antatt at det er han som står bak firmaet. I samtaler med dem virket det imidlertid som om de ikke ønsker at det skal bli kjent at de begge jobber og det kan derfor tenkes at en av dem eller begge er NAV-brukere.
+Underveis i jobben skades ting på taket som var i orden for å få høyere pris og mer oppdrag. Jeg fikk en stor blikkenslagerjogg etterpå på grunn av plutselige lekkasjer i taket.
+
+Det er senior Walter Marino Fredriksen som foretar kundekontakten og jeg har så langt antatt at det er han som står bak firmaet. I samtaler med dem virket det imidlertid som om de ikke ønsker at det skal bli kjent at de begge jobber og det kan derfor tenkes at en av dem eller begge er NAV-brukere. Sønnen virker ikke i stand til å gjøre slik jobb.
 
 ![](/assets/images/pipe2.jpg)
 
