@@ -37,15 +37,17 @@ Hvitløk
 H-melk.
 
 Krydder:  
-Koriander - malt  
-Fennikel - malt  
+Koriander - krydder malt  
+Fennikel - krydder malt  
 Havsalt  
 Karri  
 Pepper  
 Ingefær  
 Basilikum
 
-Finn fram en stor jerngryte. Det gir best resultat.  
+Tilsett krydder etter smak.
+
+ Finn fram en stor jerngryte. Det gir best resultat.  
 Sett plata på svak varme så du ikke ødelegger grønnsakenes næringsinnhold.  
 Legg en solid klatt smør i bunnen av gryte  
 Hell i Solsikkeolje - ca. 1 - 2 dl.  
@@ -61,8 +63,8 @@ Etterfyll gryta med vann slik at du får den mengde supe du ønsker.
 Skjær så opp to båter hvitløk i små tynne skiver og tilsett dette.
 
 Krydder:  
-Koriander - malt ca 1 spiseskje  
-Fennikel - malt ca. 1 spiseskje  
+Koriander - malt ca 1 spiseskje eller mer etter smak  
+Fennikel - malt ca. 1 spiseskje  eller mer etter smak  
 Hav-salt - 1 teskje eller etter behov  
 Karri - 1 teskje eller etter behov  
 Pepper - 1 teskje eller etter behov  
@@ -71,9 +73,11 @@ Basilikum - 1 teskje eller etter behov
 
 La suppen småkoke på svak varme i opp til 40 min til blomkålen er kokt.  
 Deretter helles hel- eller lettmelk i suppen slik at den får en lysere farge og den er klar til servering.  
+  
 Godt inntil suppa er flatbrød med eller uten smør/lettmargarin - aller helst det velsmakende Setesdalske flatbrødet "Brau" eller tilsvarende.  
+  
 Antall porsjoner velger du selv ved å regulere mengden av vann og melk. Videre velger du hvor tykk suppa skal være ved å spe den ut eller ved å variere mengden mel du bruker. Smaks-varier også med krydder. Denne oppskriften holder til en middag for hele familien.
 
-Suppa holder seg fint i kjøleskapet til dagen etter. Noen foretrekker å spise blomkålsuppa varm andre lunken. Enkelte mener smaken kommer best til sin rett om den får stå å kjøle seg litt før servering.
+Suppa holder seg fint i kjøleskapet til dagen etter og senere. Noen foretrekker å spise blomkålsuppa varm andre lunken. Enkelte mener smaken kommer best til sin rett om den får stå å kjøle seg litt før servering.
 
 God appetitt.
