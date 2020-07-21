@@ -9,6 +9,7 @@ tags:
 - anbudstjeneste
 - håndverksslurv
 - ufaglært
+- " mittanbud.no"
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: |-
   Slik blir du svindlet på mittanbud.no som tiltrekker
