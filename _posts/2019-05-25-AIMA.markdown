@@ -23,7 +23,7 @@ title: Aima - Spennende barnebok
 excerpt: "Aima er ei lita hulder med evner og egenskaper \nsom er mystiske og fremmede
   for mange av oss."
 author: _authors/henning-j-grini.md
-weight: 10
+weight: 8
 
 ---
 Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
