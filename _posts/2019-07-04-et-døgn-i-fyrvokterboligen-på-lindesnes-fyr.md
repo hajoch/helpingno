@@ -18,7 +18,10 @@ tags:
 - kysthistorie
 - maritimt museum
 - betjent norsk fyr
-title: Et døgn i fyrvokterboligen på Lindesnes Fyr
+- Lindesnes fyr
+- Norges sydligste punkt
+- Sydkapp
+title: Et fantastisk døgn i fyrvokterboligen på Lindesnes Fyr
 excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste med panoramautsikt
   over havet. Hyggelige og gjestfrie fyrvoktere ønsker deg velkommen, hjelper deg
   til rette og orienterer om fyret.
