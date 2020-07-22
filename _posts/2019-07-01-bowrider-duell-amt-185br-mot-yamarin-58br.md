@@ -124,3 +124,7 @@ Med 115 hk 2 personer 37 knop
 Med 150 hk 2 personer 47 knop
 
 Kalesje og hydraulisk styring er ikke inkludert i prisen på Yamarin.
+
+De fleste båter av denne typen på det norske markedet ser slik ut:
+
+![](/assets/images/amt185br.2.jpg)
