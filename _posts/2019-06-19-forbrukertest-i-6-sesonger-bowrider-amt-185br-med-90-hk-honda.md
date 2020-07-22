@@ -40,7 +40,7 @@ Bowriderkonstruksjonen gir meget god innvendig plass. Hun kan 8 personer (men b�
 **Spesialutgave**  
 Denne hvite båten er både penere og mer praktisk enn standardmodellen som selges med en trist, grå stripe som standard. Praktisk fordi stripene krever mer vedlikehold og blir fort ripete, falmet og stygge. Testbåten har komfortstoler og baugcover.
 
-AMT / Honda-service: Mysen var best  
+**AMT / Honda-service: Mysen var best**  
 Da jeg bestilte og kjøpte båten på Mysen Motorsenter AS fikk jeg fantasit god service og den beste båthandelen på denne båten som var mulig i Norge på dette tidspunktet. Ingen andre forhandlere i Norge ønsker å bestille en båt uten grå stripe. All ære til Mysen Motorsenter AS som beklageligvis ikke lenger eksisterer.
 
 **Motoren**  
@@ -54,7 +54,7 @@ Denne 90-hk 4-T-motoren var på kjøpstidspunktet 2007 den mest moderne trailer 
 **Andre motorvalg på denne båten**
 
 * Styr fra 115 hk Honda som er for tung på hekken i 185BR.  
-  \- 75 hk Honda passer bra til denne båten.
+  \- 75 hk Honda passer også bra til denne båten.
 
 **- Tekniske problemer første sesong - 2007**  
 På første tur oppsto problemet. Motoren ville ikke starte. Vi var en gang kjøring fra bryggeplassen og motoren var død. Ikke en lyd. Baterilampen lyser rødt, startmotoren ikke virker og ingenting skjer. Etter mange forsøk med pauser i mellomtiden blir endelig livet i motoren. Dette skjedde også på neste tur og på neste - og på neste: Hele sesongen 2007 var vi plaget med dette problemet. Kontrollboks ble garantiskiftet mm uten at feilen ble funnet.
