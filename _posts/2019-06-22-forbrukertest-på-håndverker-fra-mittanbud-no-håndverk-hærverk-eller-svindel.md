@@ -42,6 +42,8 @@ Hele pipebeslaget må rives og erstattes med et arbeid utført av en pålitelig 
 
 Den lange yrkeserfaringen Walter Marino Fredriksern skrøt av før han fikk jobben viser seg nå i praksis å være blank løgn.
 
+![](/assets/images/pipe1.jpg)
+
 **Anbudstjeneste på nett**  
 "Håndverker til å skifte takrenner og pipebeslag på enebolig ønskes":  
 Det ble lagt ut søk med beskrivelse av arbeidet i mittanbud.no - som ga seg ut for å være Norges største anbudstjeneste på nett. Det kom inn 5 anbud. Med store prisforskjeller fra 50.000 til hele 90.000 kroner på en og samme jobb.
