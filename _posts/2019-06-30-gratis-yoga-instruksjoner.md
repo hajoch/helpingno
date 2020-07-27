@@ -19,7 +19,7 @@ tags:
 - smidigere bevegelser
 - øvelser mot stivhet
 - mykere kropp
-title: Yoga gir smidigere kropp og et bedre liv - nylig oppdatert
+title: 'Yogaøvelser gir deg smidigere kropp og et bedre liv '
 excerpt: |-
   Yoga-instruksjoner: Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
 
