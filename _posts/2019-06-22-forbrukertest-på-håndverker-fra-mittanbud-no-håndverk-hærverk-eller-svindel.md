@@ -75,7 +75,7 @@ Men dette var ikke nok for denne håndverkeren: Walter Marino Fredriksen krevde 
 
 Da jeg varslet at dette ble en sak for Forbrukerrådet, truet håndverkeren meg med politianmeldelse for utpressing: I sin sms til meg skriver Walter Marino Fredriksen: "Du blir politianmeldt for utpressing du vil høre fra min advokat. denne meldingen er fra walter fredriksen".
 
-Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkerne? som står bak firmaet MALING OG HÅNDVERKTJENESTE Org. nummer 998 479 452 og som utførte arbeidet hos meg og som etter denne saken er nedlagt og avviklet. Både far og sønn presenterte seg med samme navn - Walter O. Fredriksen. Dette firmaet står i sønnens navn, men det er faren altså Walter Marino Fredriksen som gjør jobben. 
+Jeg tror det vil være oppklarende om vi får opplyst hvem av de to håndverkerne? som står bak firmaet MALING OG HÅNDVERKTJENESTE Org. nummer 998 479 452 og som utførte arbeidet hos meg og som etter denne saken er nedlagt og avviklet. Både far og sønn presenterte seg med samme navn - Walter O. Fredriksen. Dette firmaet står i sønnens navn, men det er faren altså Walter Marino Fredriksen som gjør jobben.
 
 Underveis i jobben skades ting på taket som var i orden for å få høyere pris og mer oppdrag. Jeg fikk en stor blikkenslagerjogg etterpå på grunn av plutselige lekkasjer i taket.
 
@@ -95,3 +95,7 @@ En ekte blikkenslager har nå gitt pris på nytt beslag. Det vil koste omkring 2
 Da pipebeslaget skulle skiftes var også pipa under ødelagt etter vibrasjonene som det dårlige pipebeslaget hadde forårsaket slik at halve pipa over taket måtte mures opp på nytt. Utgiftene til nytt pipabeslag mm ble mangedobbelt av det som jeg i utgangspinktet krevde i etrstatning av svindleren.
 
 Det er bra at huseiere blir oppmerksom på hva man kan risikere ved å velge håndverkere man ikke kjenner. Håndverkere du finner gjennom mittanbud.no er ikke kvalitetstestet. Du risikerer å ikke få en håndverker, men en svindler slik som i dette tilfellet.
+
+Saker en brakt inn for pressens faglige utvalgfor å få slettet artikkelen. Pressens faglige utvalg har gitt helping.no fullt medhold.
+
+Underlig nok har det oppstått flere lekkasjeskader og skader på uerstattelige tegl mm etter at denne konflikten oppsto. Nye eiere vil overvåke nøye og anmrelde saken som helhet til politiet hvis denne kriminelle håndverkeren prøver seg på flere innspill nær dette huset igjen. 
