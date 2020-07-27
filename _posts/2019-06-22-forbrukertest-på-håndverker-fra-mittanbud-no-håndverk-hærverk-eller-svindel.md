@@ -98,8 +98,6 @@ Da pipebeslaget skulle skiftes var også pipa under ødelagt etter vibrasjonene 
 
 Det er bra at huseiere blir oppmerksomme på hva man kan risikere ved å velge håndverkere på nett som man ikke kjenner. Håndverkere som du finner gjennom mittanbud.no er ikke kvalitetstestet. Du risikerer å ikke få en håndverker, men en kriminell svindler slik som i dette tilfellet.
 
-Saken en brakt inn for pressens faglige utvalg for å få slettet artikkelen på helping. Pressens faglige utvalg har imidlertid gitt helping.no fullt medhold.
+Underlig nok har det oppstått flere lekkasjeskader og skader på uerstattelige tegl mm etter at denne konflikten oppsto. Nye eiere vil overvåke nøye og anmrelde saken som helhet til politiet hvis denne kriminelle jukse-håndverkeren prøver seg på flere innspill nær dette huset igjen.
 
-Underlig nok har det oppstått flere lekkasjeskader og skader på uerstattelige tegl mm etter at denne konflikten oppsto.
-
-Nye eiere vil overvåke nøye og anmrelde saken som helhet til politiet hvis denne kriminelle jukse-håndverkeren prøver seg på flere innspill nær dette huset igjen.
+Walter Marino Fredriksen har brakt dette oppslaget på helping inn for PFU pressens faglige utvalg for å få slettet artikkelen. PFU har imidlertid avvist klagen fra Fredriksen og gitt helping.no medhold i at oppslaget er innenfor de presse-etiske reglene.
