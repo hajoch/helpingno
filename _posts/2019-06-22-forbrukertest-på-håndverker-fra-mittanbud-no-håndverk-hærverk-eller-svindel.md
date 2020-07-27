@@ -98,4 +98,6 @@ Det er bra at huseiere blir oppmerksom på hva man kan risikere ved å velge hå
 
 Saker en brakt inn for pressens faglige utvalgfor å få slettet artikkelen. Pressens faglige utvalg har gitt helping.no fullt medhold.
 
-Underlig nok har det oppstått flere lekkasjeskader og skader på uerstattelige tegl mm etter at denne konflikten oppsto. Nye eiere vil overvåke nøye og anmrelde saken som helhet til politiet hvis denne kriminelle håndverkeren prøver seg på flere innspill nær dette huset igjen. 
+Underlig nok har det oppstått flere lekkasjeskader og skader på uerstattelige tegl mm etter at denne konflikten oppsto. 
+
+Nye eiere vil overvåke nøye og anmrelde saken som helhet til politiet hvis denne kriminelle jukse-håndverkeren prøver seg på flere innspill nær dette huset igjen. 
