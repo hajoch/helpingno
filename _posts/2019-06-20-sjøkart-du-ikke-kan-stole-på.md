@@ -40,4 +40,4 @@ Mange mener derfor at papirkartet - såkaldt båtsportkartet - gir best oversikt
 
 Dessuten ned med farten nær land der du ikke er kjent. Et godt tips er å legge deg bak en kjentmann i farvannet.
 
-**Ta hensyn til fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
+**Ta hensyn til dyre- og fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
