@@ -91,3 +91,5 @@ Et godt tips kan være å handle på høsten og vinteren da det er modellskifter
 Prøv båten med den motoren du ønsker før kjøp. Det er en helt annen følelse å oppleve den på vannet enn på en utstilling på land. Forhandler bør låne ut sikkerhets-sjekket redningsutstyr til det antall personer som skal prøve båten. Du følere deg i tillegg tryggere om du har tatt båtførerprøven før prøveturen.
 
 ![](/assets/images/arend.03.jpg)
+
+**Ta hensyn til dyre- og fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
