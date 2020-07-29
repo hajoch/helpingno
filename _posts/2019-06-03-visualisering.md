@@ -14,7 +14,7 @@ categories:
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
 publish_date: 
-weight: 5
+weight: 8
 tags:
 - Mental Helse
 - Stress
@@ -28,6 +28,10 @@ tags:
 - visualisering
 - innsoving
 - søvnterapi
+- avspenning
+- kondisjon
+- 3-2-1-teknikken
+- pilleavhengighet
 image_caption: Foto Gunnar Christensen
 
 ---
@@ -39,4 +43,4 @@ Eller du kan bruke 3-2-1- teknikken til å bli rimelig avslappet og så tenke gj
 
 Teknikken kan også brukes til å se gjennom en dag om kvelden, slik den har vært. Så kan episoder som har vært litt uheldige hvor du er blitt såret, fått angst eller lignende gjøres om til episoder hvor du har møtt angsten uten å vike, hvor du ikke har blitt såret, men funnet ut hvorfor den og den har sagt det og det, og vært rolig og avslappet og fornøyd med deg selv. Teknikken kan også brukes til å legge om vaner slik at du ser deg selv, for eksempel uten spilleavhengighet, uten din trang til å spise eller alkohol, la oss si om en måned, to måneder, tre måneder.
 
-Dette er ment som en kort introdusering til visualisering, du kan låne bøker på biblioteket om dette tema, eller finne noe om det på internett. Dersom det er en vond vane du vil legge av deg, kan det være nok å trene med visualisering et par ganger om dagen for å komme videre. Spør meg gjerne mer om visualisering i samtaletimen.
+Dette er ment som en kort introdusering til visualisering, du kan låne bøker på biblioteket om dette tema, eller finne noe om det på internett. Dersom det er en vond vane du vil legge av deg, kan det være nok å trene med visualisering et par ganger om dagen for å komme videre. 
