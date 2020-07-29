@@ -11,6 +11,15 @@ tags:
 - helse
 - mental helse
 - sov godt
+- sovemøbel
+- seng
+- kroniske søvnproblemer
+- fysisk ubehag
+- avspenningsteknikk
+- meditasjon
+- indianersøvn
+- smertetilstander
+- investere i søvn
 title: Avbrutt søvn og søvnhygiene
 excerpt: Forebyggende tiltak for å forbedre søvnen kaller vi søvnhygene. Hvis du er
   våken og opplagt på dagtid og sover mellom seks og ni timer, så skal du ikke bekymre
@@ -23,7 +32,7 @@ author: _authors/odd-m-lunde.markdown
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Stort sett er slike gode råd tuftet over tre lester. Det er: Lys, hørsel eller bevegelse.
