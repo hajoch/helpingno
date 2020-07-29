@@ -25,6 +25,7 @@ tags:
 - Mariner
 - Mercury
 - Force
+- sjøvett-regler
 title: Hvilke påhengsmotorer er best?
 excerpt: '4-takt-teknologien har nå overtatt det meste av markedet for salg av nye
   påhengsmotorer. 2-takt-motorene er på vei ut i sin tradisjonelle versjon, og blir
@@ -34,7 +35,7 @@ image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
-publish_date: 2020-07-20 00:00:00 +0200
+publish_date: 2020-07-29 00:00:00 +0200
 weight: 9
 
 ---
