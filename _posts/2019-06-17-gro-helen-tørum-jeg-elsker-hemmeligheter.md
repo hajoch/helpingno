@@ -29,7 +29,7 @@ title: 'Gro Helen Tørum: Jeg elsker hemmeligheter '
 excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
   , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
   klarsynt og vil først snakke om lykke.
-image: "/assets/images/grohelen.jpg"
+image: "/assets/images/grohelen2.jpg"
 image_caption: 'Foto: Bjørn Wad'
 categories:
 - _category/mental-helse.md
