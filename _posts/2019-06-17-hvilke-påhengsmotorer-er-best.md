@@ -35,7 +35,7 @@ image: "/assets/images/batmotor11.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
-publish_date: 2020-07-29 00:00:00 +0200
+publish_date: 
 weight: 9
 
 ---
