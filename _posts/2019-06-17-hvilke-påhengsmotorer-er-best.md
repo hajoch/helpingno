@@ -95,6 +95,6 @@ Prøv båten med den motoren du ønsker før kjøp. Det er en helt annen følels
 
 **Hvordan velger du påhengsmotorens styke\`**?
 
-Motoren må passe til båten. En motoren for liten vil du ofte presse den stadig på max. Og slikt sliter du på motoren og den blir tidligere nedslitt. Ved en motor som er litt kraftigere enn båten trenger vi du få et helt annet kjøremønster. Du vil untaksvis kjøre i full fart. Kanskje bare når du skal opp i plan for deretter å redusere turtallet til en behagelig, økonomisk  planing smatidig som du ikke presse motoren maximalt, men kjører f.eks på 75% fart og sparer dermed både dristoff og får mindre slitasje og lengre levetid på mototen. Dette vil selgeren gjerne nære deg.
+Motoren må passe til båten. En motoren for liten vil du ofte presse den stadig på max. Og slikt sliter du på motoren og den blir tidligere nedslitt. Ved en motor som er litt kraftigere enn båten trenger vi du få et helt annet kjøremønster. Du vil untaksvis kjøre i full fart. Kanskje bare når du skal opp i plan for deretter å redusere turtallet til en behagelig, økonomisk  planing smatidig som du ikke presser motoren maximalt, men kjører f.eks på 75% fart i plan og sparer dermed både dristoff og får mindre slitasje og lengre levetid på mototen. Dette vil selgeren gjerne lære deg.
 
 **Ta hensyn til dyre- og fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
