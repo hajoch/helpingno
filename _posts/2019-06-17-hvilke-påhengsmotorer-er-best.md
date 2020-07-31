@@ -26,6 +26,9 @@ tags:
 - Mercury
 - Force
 - sjøvett-regler
+- påhengsmotorens levetid
+- påhengsmotor som passer til båten
+- ferdsel på sjøen
 title: Hvilke påhengsmotorer er best?
 excerpt: '4-takt-teknologien har nå overtatt det meste av markedet for salg av nye
   påhengsmotorer. 2-takt-motorene er på vei ut i sin tradisjonelle versjon, og blir
@@ -95,6 +98,10 @@ Prøv båten med den motoren du ønsker før kjøp. Det er en helt annen følels
 
 **Hvordan velger du påhengsmotorens styke\`**?
 
-Motoren må passe til båten. Er motoren for liten vil du ofte presse den stadig på max. Og slikt sliter du på motoren og den blir tidligere nedslitt. Ved en motor som er litt kraftigere enn båten trenger vi du få et helt annet kjøremønster. Du vil untaksvis kjøre i full fart. Kanskje bare når du skal opp i plan for deretter å redusere turtallet til en behagelig, økonomisk  planing smatidig som du ikke presser motoren maximalt, men kjører f.eks på 75% fart i plan og sparer dermed både dristoff og får mindre slitasje og lengre levetid på mototen. Dette vil selgeren gjerne lære deg.
+Motoren må passe til båten. Er motoren for liten for båten  vil du ofte presse den på max fart. Og slikt sliter du mer på motoren og den blir tidligere nedslitt. Med en motor som er litt kraftigere enn båten trenger vi du få et helt annet kjøremønster. Du vil untaksvis kjøre i full fart. Kanskje bare når du skal opp i plan for deretter å redusere turtallet til en behagelig, økonomisk  planing samtidig som du ikke presser motoren maximalt, men kjører f.eks på 75% fart i plan og sparer dermed både dristoff og får mindre slitasje og lengre levetid på mototen. Dette vil forhandlerne gjerne lære deg.
 
-**Ta hensyn til dyre- og fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
+**Påhengsmotorens levetid**  
+En forhandler for Yamaha sa dette om motorens levetid: En 15-åring kunde klarte å kjøre ned og ødelegge en ny 9,9. hester på en kort sommersesong. Samtidig har vi en kunde i 80-årne som kjøpte en luftkjølt 5. hk i 1977 og den er like god og driftsikker som en ny fremdeles.   
+Bruksanvisningene gir gode råd om å ta vare på motorer og bruk. Det er god økonomi i å ta vare på påhengsmotoren. En pålitelig motor er god sikkerhet på sjøen.
+
+**Ta hensyn til badende barn og voksne, dyre- og fugleliv og trivsel for alle på sjøen: Det betyr bl.a. at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
