@@ -14,6 +14,14 @@ tags:
 - nestekjærlighet
 - brorskap
 - voldsbølgen
+- India
+- Bodh Gaya
+- Mahabodhitempelet
+- Bihar
+- audiens
+- pilgrimmer
+- Levende Buddha
+- reinkarnasjon
 title: 'Dalai Lama: En pilgrim i Bodh Gaya. '
 excerpt: |-
   - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
@@ -27,7 +35,7 @@ image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe euro
 categories:
 - _category/religion.md
 publish_date: 
-weight: 8
+weight: 3
 
 ---
 **Dette møte er ti år før H.H: Dalai Lama blir Nobelprisvinner.**
