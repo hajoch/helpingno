@@ -16,7 +16,7 @@ tags:
 - påkjørsel bakfra
 - nakkeslang
 - havarikommisjon på veiene
-title: Bilene som redder liv
+title: Bilsikkerhet NCAP
 excerpt: Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp av ny
   og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs
   sikkerhetstest. Er du klar over hvilke biler som er sikrest så har du et godt utgangspunkt
