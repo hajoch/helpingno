@@ -1,11 +1,21 @@
 ---
 layout: post
-date: 2019-06-24 12:22:35 +0200
+date: 2019-06-24T10:22:35.000+00:00
 crop_image: true
 tags:
 - bil
 - kollisjonssikkerhet
 - biltest
+- bilsikkerhet
+- nakkeslengtest
+- Euroncap
+- Folksam sikkerhetstest
+- NCAP
+- biler og sikkerhet
+- kollisjonsskader
+- påkjørsel bakfra
+- nakkeslang
+- havarikommisjon på veiene
 title: Bilene som redder liv
 excerpt: Stadig flere bilkjøpere verdsetter kollisjonssikkerhet både ved kjøp av ny
   og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs
@@ -17,13 +27,13 @@ image_caption: Foto NCAP
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2019-07-04 00:00:00 +0200
+publish_date: 2020-08-02 00:00:00 +0200
 weight: 5
 
 ---
 Trolig lages nye biler for å oppfylle best mulig testresultat i Euro NCAP. Det er derfor viktig å ha fokus på hva NCAP ikke tester. For Euro NCAPs sikkerhetstest har svakheter: Bilene testes bl.a. ikke for kollisjoner bakfra. Det er derfor viktig også å sjekke andre tester. Dog er interessen for nakkeslengskader stigende i Euro NCAP. Husk også på at en større bil med 5 stjerners sikkerhet er sikrere enn en liten bil med samme poengsum.
 
-Vær derfor klar over de store forskjellene i kollisjonssikkerheten på nye og brukte biler i dag. Sjekk derfor sikkerhetstesten på bilen du ønsker deg før du handler. Det er en god livsforsikring for deg og de du har med deg i bilen. Ofte er det liten prisforskjell mellom de sikre og de mindre sikre bilene. Bilene prises oftest ut i fra størrelse og ikke sikkerhet. Dette fordi norske tollregler ikke favoriserer sikrere biler, men fokuserer på vekt, motorstyrke og CO2-utslipp.
+Vær derfor klar over de store forskjellene i kollisjonssikkerheten på nye og brukte biler i dag. Sjekk derfor sikkerhetstesten på bilen du ønsker deg før du handler. Det er en god livsforsikring for deg og de du har med deg i bilen. Ofte er det liten prisforskjell mellom de sikre og de mindre sikre bilene. Bilene prises oftest ut i fra størrelse/vekt og ikke sikkerhet. Dette fordi norske tollregler ikke favoriserer sikrere biler, men fokuserer på vekt, motorstyrke og CO2-utslipp.
 
 Om noen tok seg bryet med å regne ut hvor mye samfunnet tjener på å favorisere de sikreste bilene i sin bilavgiftsprofil ville mange bli overrasket: Her er det åpenbart store summer å tjene på helsesektoren og trygde-budsjettet for å nevne de mest nærliggende. Og sikkerhetsnivået i bilene er målbart: Hvis avgiftene var lavest på biler som oppnår 5 stjerner i NCAP og høyest på biler som skårer 3 stjerner eller mindre så kunne mange liv vært reddet - og mange alvorlige kvestelser i trafikken vært unngått.
 
