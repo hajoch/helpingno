@@ -22,7 +22,7 @@ tags:
 - pilgrimmer
 - Levende Buddha
 - reinkarnasjon
-title: 'Dalai Lama: En pilgrim i Bodh Gaya. '
+title: 'Dalai Lama: Nobel-fredspris-vinner som en pilgrim i Bodh Gaya. '
 excerpt: |-
   - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
 
