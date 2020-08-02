@@ -15,6 +15,19 @@ tags:
 - yogaøvelser
 - psykisk helse
 - psykiske problemer
+- tunge tanker
+- mental helse i naturen
+- søvn
+- komedier
+- visualisering
+- takknemlighet
+- skrive ned problemene
+- depresjon og tobakk
+- flukt i rus
+- nærhet og kontakt
+- fysisk kontakt
+- kjæledyr
+- god venn
 title: Depresjon
 excerpt: Der er mange veier ut av depresjonen.Du kan selv gjøre mye.Her er noen råd
   som kanskje kan hjelpe deg?
@@ -23,7 +36,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 **Naturen.**  
