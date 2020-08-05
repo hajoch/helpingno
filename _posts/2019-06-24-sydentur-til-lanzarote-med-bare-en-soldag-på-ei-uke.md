@@ -61,3 +61,7 @@ Vi valgte leiebil denne gang. Etter mange tidligere charterturer med langdryg ve
 
 **Postkort**  
 En ting er likevel ved det gode gamle på Lanzarote: Postkortene vi sendte fra Hotell Iberostar Papagayo ligger i postkassene til venner og familie to uker etter at vi er kommet hjem til Norge. Da er det fremdeles håp for sydenreiser.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
