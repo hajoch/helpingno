@@ -47,18 +47,16 @@ ikke stresse av om du ikke får tid en dag.
 
 ![](/assets/images/kule.jpg =12x12) Lukk øynene.
 
-![](/assets/images/kule.jpg =12x12) Konsentrer om pusten:  
+![](/assets/images/kule.jpg =12x12) Konsentreer om pusten:  
 Husk på å gjenta for deg selv at du skal konsentrere deg rolig på pusten straks du blir avledet av tanker.
 
-![](/assets/images/kule.jpg =12x12) Pust rolig og naturlig gjennom nesen.  
-Ikke styr pusten i et bestemt tempo.  
-La kroppen bestemme rytmen.
+![](/assets/images/kule.jpg =12x12) Pust rolig og naturlig gjennom nesen. Ikke styr pusten i et bestemt tempo. La kroppen bestemme rytmen.
 
-![](/assets/images/kule.jpg =12x12) Bare konsentrer deg om pusten slik kroppens rytme styrer den.
+![](/assets/images/kule.jpg =12x12) Bare konsentreer deg om pusten slik kroppens rytme styrer den.
 
 ![](/assets/images/kule.jpg =12x12) Gi slipp på tanker.
 
-![](/assets/images/kule.jpg =12x12) Å ikke tenke på noe er det beste. Konsentrer bare på pusten.
+![](/assets/images/kule.jpg =12x12) Å ikke tenke på noe er det beste. Konsentreer bare på pusten.
 
 ![](/assets/images/kule.jpg =12x12) Ikke bli stresset hvis du griper deg i å tenke på noe eller noen. Griper du deg i å tenke på noe så led oppmerksomheten din forsiktig og mykt tilbake på den rolige rytmen i pusten.
 
@@ -70,7 +68,6 @@ Bli sittende slik i 20 - 30 minutter.
 Etterpå meditasjonen vil du føle deg bedre.  
 Daglig meditasjon anbefales.
 
-Om du sovner mens du mediterer  
-blir ikke meditasjonen dårligere av den grunn.
+Om du sovner mens du mediterer blir ikke meditasjonen dårligere av den grunn.
 
 Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.
