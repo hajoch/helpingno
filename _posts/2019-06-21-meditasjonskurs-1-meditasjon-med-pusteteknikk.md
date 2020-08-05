@@ -72,8 +72,8 @@ Om du sovner mens du mediterer blir ikke meditasjonen dårligere av den grunn.
 
 Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.
 
-Har du ikke meditert tidligere så start med kurs 1 ta deretter kurs 2 og til sist kurs 3:  
-  
+Har du ikke meditert tidligere så start med kurs 1 ta deretter kurs 2 og til sist kurs 3:
+
 Introduksjon:  
 [https://helping.no/meditasjonskurs-introduksjon](https://helping.no/meditasjonskurs-introduksjon "https://helping.no/meditasjonskurs-introduksjon")
 
@@ -81,7 +81,7 @@ Introduksjon:
 [https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk](https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
 
 \- Kurs 2:  
-[https://helping.no/meditasjonskurs-2-mantra-meditasjon](https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
+[https://helping.no/meditasjonskurs-2-mantra-meditasjon](https://helping.no/meditasjonskurs-2-mantra-meditasjon "https://helping.no/meditasjonskurs-2-mantra-meditasjon")
 
 \- Kurs 3:  
 [https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk](https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
