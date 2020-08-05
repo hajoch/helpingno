@@ -22,7 +22,7 @@ excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt f
   daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
   tube mv. '
 image: "/assets/images/ya33.jpg"
-image_caption: 'Foto Gunnar Christensen : Yamarin 76 DC med Yamaha 250 hk.'
+image_caption: Yamarin 76 DC med Yamaha 250 hk. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
