@@ -43,12 +43,9 @@ Denne meditasjonsteknikken likner bl.a. på TM-meditasjon og andre teknikker som
 
 ![](/assets/images/kule.jpg =12x12) Konsentrer om mantraet OM: Følg samme prosedyre som ved meditasjon over med konsentrasjon på pusten. Konsetrer på lyden og trekk den ut til ooooommmmm.
 
-![](/assets/images/kule.jpg =12x12) Si først lyden med stemmen til å begynne med  
-og gå gradvis over til bare å ha lyden inni deg.
+![](/assets/images/kule.jpg =12x12) Si først lyden med stemmen til å begynne med og gå gradvis over til bare å ha lyden inni deg.
 
-![](/assets/images/kule.jpg =12x12) Pust rolig og naturlig gjennom nesen.  
-Ikke styr pusten i et bestemt tempo.  
-La kroppen bestemme rytmen.
+![](/assets/images/kule.jpg =12x12) Pust rolig og naturlig gjennom nesen. Ikke styr pusten i et bestemt tempo. La kroppen bestemme rytmen.
 
 ![](/assets/images/kule.jpg =12x12) Bare la pusten være rolig slik kroppens rytme styrer den og konsentrer deg om å gjenta lyden OM som ooooommmmmm.
 
@@ -63,9 +60,8 @@ La kroppen bestemme rytmen.
 ![](/assets/images/kule.jpg =12x12) Kjenn hvordan roen kommer over deg etter en stund.  
 Bli sittende slik i 20 - 30 minutter.
 
-Etterpå meditasjonen vil du føle deg bedre. Du kan skifte ut mantaet om med et annet mantra du kanskje liker bedre. Der er f.eks mange fine mantraer med a-lyd som f.eks. AIM
+Etterpå meditasjonen vil du føle deg bedre. Du kan skifte ut mantra OM med et annet mantra du kanskje liker bedre. Der er f.eks mange fine mantra med a-lyd som f.eks. AIM
 
-Om du sovner mens du mediterer  
-blir ikke meditasjonen dårligere av den grunn.
+Om du sovner mens du mediterer blir ikke meditasjonen dårligere av den grunn.
 
-Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.
+Ha tålmodighet med din egen praksis. Den blir bare bedre med øvelse. Noen dager kan denne meditasjonen være god og stressdempende. Andre ganger kan stresset nå deg i meditasjonen og plage deg slik at du ikke føler at du oppnår den gode roen. Uansett hvordan du opplever meditasjonen så vil den gjøre deg godt.
