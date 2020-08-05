@@ -30,9 +30,11 @@ publish_date:
 weight: 9
 
 ---
-Du kan også risikere å ikke komme hjem hvis selskapet går konkurs mens du er på feriereise. Det er derfor sikrest å satse på de store, kjente selskapene og holde deg unna de små ukjente selskapene.
+Du kan også risikere å ikke komme hjem hvis selskapet går konkurs mens du er på ferie-reise. Det er derfor sikrest å satse på de store, kjente selskapene og holde deg unna de små ukjente selskapene.
 
-Komponerer du reisen selv ved å velge flyruter og hoteller på nett bør du være ekstra forsiktig: Fly kan bli kansellert og flyttet til andre avgangstidspunkt eller avviklet. Flybransjen har nå tøffere tider.
+Etter korona-utbruddet i 2020 er en ny og viktig faktor inne i bildet: Smitte-situasjonen i det landet du reiser til. Den kan endre seg raskt og du kan tape mulighet for hjemreise og risikere helsa. Vær førevar.
+
+Komponerer du reisen selv ved å velge flyreiser og hoteller på nett bør du være ekstra forsiktig: Fly kan bli kansellert og flyttet til andre avgangstidspunkt eller avviklet. Flybransjen har nå tøffere tider.
 
 **Kreves forskuddsbetaling så vær ekstra på vakt:**
 
@@ -61,8 +63,8 @@ Rolf Forsdahl, reisebransjedirektør i Handels-og servicenæringens hovedorganis
 1. Bruk kjente flyselskap
 2. Betal med kredittkort (ikke debetkort) om du reiser som privatperson
 3. Ikke kjøp reisen lengre tid i forveien enn nødvendig
-4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet   
+4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet  
    En pakke er beskyttet av pakkereiseloven. Hvis dere bestiller gjennom oss og flyselskapet går konkurs er det vårt ansvar."
 
-**Reisegaranti:**  
-Reiser du på charter-tur er du imidlertid dekket av Reisegarantifondet.
+**Garanti?  
+**Tidligere var du dekket av reisegarantifondet i mange situasjoner. Etter Korona-utbruddet er både charter-begrepet endret og forsikrings-vilkårne under stadig endring. Sjekk derfor både garantier og forsikring før du reiser og sjekk UDs reiseråd. Og følg selv nøye med på nyhetene og de siste helse-rådene.
