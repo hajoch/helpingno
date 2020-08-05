@@ -51,20 +51,19 @@ Det er kjøpsloven som kommer inn i bildet her etter det vi forstår ettersom ma
 Noen kredittkort har forsikringer mot tap ved kjøp av feriereiser. Før du velger kredittkort må du sette deg grundig inn i vilkårene for hvert enkelt kort: Sjekk derfor test av de beste kredittkortene.
 
 **Pakketurer/Charterreiser**  
-Ved Berg-Hansen Ferie får vi opplyst følgende om pakkereiser og garantier:
+Ved Berg-Hansen Ferie fikk vi før korona epidemien opplyst følgende om pakkereiser og garantier:
 
 "Med en pakkereise menes et tilrettelagt arrangement, som varer i mer enn 24 timer eller omfatter overnatting, som selges eller markedsføres til en samlet pris, og som inneholder minst to av følgende elementer: 1) transport, 2) innkvartering som ikke utelukkende er å anse som ledd i en transporttjeneste, eller 3) andre turisttjenester som utgjør en vesentlig del av arrangementet, men som ikke er direkte knyttet til transport eller innkvartering.
 
 Et arrangement som går inn under første ledd regnes som pakkereise selv om de enkelte elementer blir fakturert hver for seg. Les mer om dette på: [www.lovdata.no/all/nl-19950825-057.html](http://www.lovdata.no/all/nl-19950825-057.html)
 
-Rolf Forsdahl, reisebransjedirektør i Handels-og servicenæringens hovedorganisasjon (HSH), sier dette om bestilling av billetter:  
+Rolf Forsdahl, reisebransjedirektør i Handels-og servicenæringens hovedorganisasjon (HSH), sier dette om bestilling av billetter før korona-pandemien:  
 \- Ingen kan vite noe sikkert. Men det står mye i pressen - spesielt finanspressen - som kan gi indikatorer på om et flyselskap er i spesielle, økonomiske vanskeligheder. Dessverre skjer ting fort, spesielt nå, og jeg havner på følgende veldig generelle råd:
 
 1. Bruk kjente flyselskap
 2. Betal med kredittkort (ikke debetkort) om du reiser som privatperson
 3. Ikke kjøp reisen lengre tid i forveien enn nødvendig
-4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet  
-   En pakke er beskyttet av pakkereiseloven. Hvis dere bestiller gjennom oss og flyselskapet går konkurs er det vårt ansvar."
+4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet: En pakke er beskyttet av pakkereiseloven. Hvis dere bestiller gjennom oss og flyselskapet går konkurs er det vårt ansvar." 
 
-**Garanti?  
+**Garanti? Hva er situasjonen i dag?  
 **Tidligere var du dekket av reisegarantifondet i mange situasjoner. Etter Korona-utbruddet er både charter-begrepet endret og forsikrings-vilkårne under stadig endring. Sjekk derfor både garantier og forsikring før du reiser og sjekk UDs reiseråd. Og følg selv nøye med på nyhetene og de siste helse-rådene.
