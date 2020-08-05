@@ -44,7 +44,7 @@ Mantra-meditasjon er bare en av mange måter å meditere på.
 
 ![](/assets/images/kule.jpg =12x12) Du kan også gjøre opptak av egne beroligende lyder, instruksjoner eller positive affirmasjoner og spille dem av når du mediterer. Her er mulighetene mange.
 
-Har du ikke meditert tidligere så begynn med kurs 1 ta deretter kurs 2 og til sist kurs 3:
+Har du ikke meditert tidligere så start med kurs 1 ta deretter kurs 2 og til sist kurs 3:
 
 \- Kurs 1:  
 [Meditasjon med pusteteknikk]( "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
