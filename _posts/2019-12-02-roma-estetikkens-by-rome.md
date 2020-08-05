@@ -9,8 +9,12 @@ tags:
 - turistattraksjon
 - historie
 - estetikk
+- den spanske trappen
+- Trevifrontenen
+- Coloseum
+- Piazza Navone
 title: 'Roma - Estetikkens by '
-excerpt: " Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
+excerpt: "Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme.
   Selv gateselgere tar et nei for et nei.\n\n"
 image: "/assets/images/rom4.jpg"
 image_caption: Pantheon tempelet ble bygget 118 - 125 e.kr. av keiser Hadrian. Foto
