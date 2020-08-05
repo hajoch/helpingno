@@ -57,3 +57,7 @@ Darjeelings vakre botaniske hage er også en etterlevning etter britene. Den sto
 Fjellbyen Darjeeling kalles Indias Sveits bl.a. fordi den er renere og penere enn de fleste andre indiske byer. Turistene er for det meste rike indere. De reiser til Darjeeling for å bleke seg i det "kalde" klimaet: Å være blek er status i India.
 
 Nå har også Vestens turister kommet....
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
