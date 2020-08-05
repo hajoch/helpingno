@@ -7,6 +7,8 @@ tags:
 - Danmark
 - strand
 - Blokhus
+- sandstrand
+- kjøre bil på stranden
 title: 'Danmark Blokhus strand '
 excerpt: |-
   FOTO
@@ -35,3 +37,7 @@ weight: 3
 ![](/assets/images/mobbing.jpg)
 
 ![](/assets/images/dkb12.jpg)
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
