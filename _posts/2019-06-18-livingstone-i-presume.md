@@ -11,6 +11,11 @@ tags:
 - merkedsplass
 - solferie
 - turisme
+- SOS barneby
+- Tendaba Camp
+- safari
+- Gambiafloden
+- Sahara
 title: '"Livingstone, I presume"'
 excerpt: 'Tendaba Camp ligger drøye hundre kilometer opp Gambiafloden i det lille
   afrikanske landet Gambia. Her har den rufsete, uhøytidelige svensken Villy (70)
@@ -27,7 +32,7 @@ weight: 1
 ---
 Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia.
 
-Villy tilbyr spennende safari på Gambiaflodens frodige sideelver med lange, flat-bunnede båter drevet av påhengsmotor og lokalkjente innfødte ombord. I tillegg støver Villys jeep-safari seg gjennom buskaset for dem som har god rygg og orker klore seg fast bak på jeepen. Enkle overnattingsmuligheter tilbys turistene. Leiren har ingen air-codition i hyttene. Her er varmt og stillestående luft. Turister som ikke tåler høye innlands-temperaturer frarådes å ta denne turen.
+Villy tilbyr spennende safari på Gambiaflodens frodige sideelver med lange, flat-bunnede båter drevet av påhengsmotor og lokalkjente innfødte ombord. I tillegg støver Willys jeep-safari seg gjennom buskaset for dem som har god rygg og orker klore seg fast bak på jeepen. Enkle overnattingsmuligheter tilbys turistene. Leiren har ingen air-codition i hyttene. Her er varmt og stillestående luft. Turister som ikke tåler høye innlands-temperaturer frarådes å ta denne turen.
 
 **Krokodiller**  
 Villy sørger selv for det meste av underholdningen. Han krabber selv opp i bin-gen til krokodillene når foring skjer. Iført blå hatt, bar overkropp og skirts som alltid ellers. Turistene flokker seg med kameraer når Villy brøler:
@@ -56,7 +61,7 @@ Dypere inn sideelven åpner landskapet seg. Dyrket jord og landsbybosetning komm
 Safarijeepene humper inn gårdsplassen på Tendaba. Et komisk syn. De velkledde turistene har fått sin kvote. Fulle av stedets rødbrune støv og skitt kreker de seg støle ned fra jeepens åpne ståplass tydelig lettet over å være tilbake. Kameraene har knapt vært i bruk. De hadde nok med å klore seg fast. De innfødte sjåførene smiler fornøyd. Jeg hører ikke et eneste "Very nice".
 
 **Fjernt og mystisk**  
-Natten senker seg over Tendaba Camp. Jungelens lyder bærer gjennom natten og stilner gradvis. Underlig å ligge i en av Villys små hytter og lytte til jungelens lyder beskyttet under moskitonettet. Tankene går til Standley og Livingstone, jungelboka og tilsvarende bøker fra guttedagene da Afrika var noe fjernt og mystisk. Heten dirrer inni den lille gjestehytta. Moskitoene surrer hissig og blodtørstig rundt i rommet. Svetten renner. Heten føles som kveletak. Jeg tar likevel sjansen på å legge meg i ei av Villys hengekøyer i palmehagen resten av nat-ten. Luften står stille. Natten er klam. Fremmede lukter. Fremmede lyder.....
+Natten senker seg over Tendaba Camp. Jungelens lyder bærer gjennom natten og stilner gradvis. Underlig å ligge i en av Villys små hytter og lytte til jungelens lyder beskyttet under moskitonettet. Tankene går til Standley og Livingstone, jungelboka og tilsvarende bøker fra guttedagene da Afrika var noe fjernt og mystisk. Heten dirrer inni den lille gjestehytta. Moskitoene surrer hissig og blodtørstig rundt i rommet. Svetten renner. Heten føles som kveletak. Jeg tar likevel sjansen på å legge meg i ei av Villys hengekøyer i palmehagen resten av natten. Luften står stille. Natten er klam. Fremmede lukter. Fremmede lyder.....
 
 \- Livingstone, I presume, smiler guiden neste morgen. Hun peker meg fra hengekøya til frokostbordet. Der romsterer Villy rundt minst like ubarbert og halvfull som kvelden før.
 
@@ -100,3 +105,7 @@ Hyl og skrik ljomer i gaten. Jeg snur meg tidsnok til å se en bil i stor fart m
 SOS-barnebyen er uvanlig velstelt og trivelig. Liksom en liten velorganisert oase i landskapet med hvite murhus. Denne internasjonale organisasjonen med sveitsisk opprinnelse er vel etablert i Gambia. Hvert lite hus har to leiligheter med ren vannforsyning og enkle kokemuligheter. Fra hver leilighet smiler en matmor med livlige ungeflokker omkring seg. Små gyldenbrune føtter tripper nysgjerrig mot besøkende. Foreldreløse barn i alder fra babyer til tenåringer får her det best mulige utgangspunkt i lek og skole. Mange turister besøker barnebyen og fjerna-adopterer ett barn eller flere.
 
 \- En fin og direkte form for u-hjelp, bekrefter en fornøyd norsk adoptivfar og peker smilende ut "sitt" barn i flokken, før han forsvinner inn i ei drosje tilbake til hotellet.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
