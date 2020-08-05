@@ -63,7 +63,11 @@ Rolf Forsdahl, reisebransjedirektør i Handels-og servicenæringens hovedorganis
 1. Bruk kjente flyselskap
 2. Betal med kredittkort (ikke debetkort) om du reiser som privatperson
 3. Ikke kjøp reisen lengre tid i forveien enn nødvendig
-4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet: En pakke er beskyttet av pakkereiseloven. Hvis dere bestiller gjennom oss og flyselskapet går konkurs er det vårt ansvar." 
+4. Bruker du reisearrangør: Sjekk at de er medlem i Reisegarantifondet: En pakke er beskyttet av pakkereiseloven. Hvis dere bestiller gjennom oss og flyselskapet går konkurs er det vårt ansvar."
 
-**Garanti? Hva er situasjonen i dag?  
-**Tidligere var du dekket av reisegarantifondet i mange situasjoner. Etter Korona-utbruddet er både charter-begrepet endret og forsikrings-vilkårne under stadig endring. Sjekk derfor både garantier og forsikring før du reiser og sjekk UDs reiseråd. Og følg selv nøye med på nyhetene og de siste helse-rådene.
+\**Garanti? Hva er situasjonen i dag?  
+\**Tidligere var du dekket av reisegarantifondet i mange situasjoner. Etter Korona-utbruddet er både charter-begrepet endret og forsikrings-vilkårne under stadig endring. Sjekk derfor både garantier og forsikring før du reiser og sjekk UDs reiseråd. Og følg selv nøye med på nyhetene og de siste helse-rådene.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
