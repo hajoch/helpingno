@@ -48,10 +48,10 @@ I butikken smiler ekspeditøren bredt i barten.
 \- I dag er altså plutselig alle urene dine produsert i Schwartz?  
 \- Ja! Genau, mein Herr!
 
-Etter en liten latterpause ber jeg om å få se på en av dem. Den lubne mannen strever seg opp i en liten gardintrapp mens kona vokter opptrinnet fra siden. Som om hun er redd han vil falle ned. Det knaker i trinnene, men gjøkuret havner omsider trygt på disken.
+Etter en liten latter-pause ber jeg om å få se på en av dem. Den lubne mannen strever seg opp i en liten gardintrapp mens kona vokter opptrinnet fra siden. Som om hun er redd han vil falle ned. Det knaker i trinnene, men gjøkuret havner omsider trygt på disken.
 
 Jeg tenkte på gjøkuret min onkel hadde på veggen. Uret fenget min interesse som barn: Den lille tassen som kommer ut hver halvtime:  
-\- ?Kookoo?.
+\- Kookoo?.
 
 Sveits eneste bidrag til verdenskulturen?, ble det spøkt.
 
@@ -67,3 +67,7 @@ Det var da jeg burde snudd på helene og gått ut.
 I ettertid har jeg tenkt: Gjøkuret skulle vært et hyggelig minne... Der det hang på stueveggen min irriterte det meg i stedet. Irriterte fordi det ikke ble et hyggelig minne fra besøket i Lindau. I stedet minnet det meg om en utrivelig episode i en butikk...
 
 Og urverket er ikke så bra som den vakre kassa skulle tilsi, sa urmakeren i Arendal.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
