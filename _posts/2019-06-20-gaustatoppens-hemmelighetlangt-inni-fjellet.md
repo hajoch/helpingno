@@ -32,7 +32,7 @@ image_caption: Der står kabelbanen som skal ta meg 1040 meter oppover inni fjel
 categories:
 - _category/reise.md
 publish_date: 
-weight: 9
+weight: 7
 
 ---
 Dovregubben ble viden kjent gjennom Henrik Ibsens "Per Gynt", men Gaustatoppen har ruget på sine hemmeligheter helt til de siste årene. Det som har vært militære hemmeligheter helt siden den ble bygget i 1959, åpnes opp for deg og meg på helårsbasis
