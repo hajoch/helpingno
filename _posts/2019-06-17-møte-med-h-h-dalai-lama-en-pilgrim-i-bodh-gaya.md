@@ -102,3 +102,7 @@ Buddhistene tror at alle levende skapninger blir frelst. Gjennom mange gjenføds
 \- "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
 
 \- "Arbeid og lykke", H.H. Dalai Lama/Howard C. Cutler, Damm 2004
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
