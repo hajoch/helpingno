@@ -13,17 +13,21 @@ tags:
 - " pakketurer"
 - reisegarantifondet
 - HSH
+- risiko ved reiser
+- betaling av pakketurer
+- når flyet ikke går
 title: Konkurs i reiselivsbransjen kan gi deg økonomisk tap?
 excerpt: Feriereiser i nedgangstider betyr at du må passe på hvor du bestiller billetter.
   Problemet er at selskapet du bestiller feriereiser hos kan være konkurs når du skal
   reise. Da har du tapt det du har betalt inn på forskudd. Etter at korona-epidemien
-  brøt ut er dette temaet viktig på flere måter
+  brøt ut er dette temaet viktig på flere måter. Risiko på reise er blitt et viktigere
+  begrep.
 image: "/assets/images/roma1.jpg"
 image_caption: 'Foto Gunnar Christensen: Motiv fra Roma.'
 categories:
 - _category/reise.md
 publish_date: 
-weight: 8
+weight: 9
 
 ---
 Du kan også risikere å ikke komme hjem hvis selskapet går konkurs mens du er på feriereise. Det er derfor sikrest å satse på de store, kjente selskapene og holde deg unna de små ukjente selskapene.
