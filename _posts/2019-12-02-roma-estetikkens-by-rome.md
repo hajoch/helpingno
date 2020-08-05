@@ -30,14 +30,14 @@ Velger du hotell i sentrum av Roma har du gangavstand til alle severdigheter: Et
 
 ![](/assets/images/roma9.jpg)
 
-Motiv fra ColosseumImponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
+Motiv fra Colosseum: Imponerende Colosseum (over) er verdens største amfiteater bygd ferdig i år 80 e.kr..
 
 ![](/assets/images/romaguider.jpg)
 
-Se opp for guidene kledd i drakter som romerske gladiatorer. Disse er frekke, arrogante og lopper deg for penger. Dette er ulikt romerne forøverig som er hyggelige med utmerket service overfor alle turister.
+Se opp for guidene kledd i drakter som romerske gladiatorer. Disse er frekke, arrogante og lopper deg for penger. Dette er ulikt romerne forøvrig som er hyggelige med utmerket service overfor alle turister.
 
 Turistklager i Roma: Falske kriminelle gladiatorer avslørt:  
-Mange turister har klaget på disse "krigerne" og det er blitt en del presseomtale på dette. Roma lever av turister og turistenes klager taes derfor svært alvorlig her.Den danske avisen BT avslører arrestasjon av kriminelle i antikke romerdrakter.
+Mange turister har klaget på disse "krigerne" og det er blitt en del presse-omtale på dette. Roma lever av turister og turistenes klager taes derfor svært alvorlig her.Den danske avisen BT avslører arrestasjon av kriminelle i antikke romerdrakter.
 
 ![](/assets/images/rom2.jpg)
 
@@ -63,8 +63,6 @@ Den Spanske trappen ved Pazza Spagna.
 
 Severdighetene er mange og populære. Travle små gater med turister, lokalfolk, mopeder og biler på gamle brostein og historisk grunn. Trevifontenene.
 
-![](/assets/images/roma8.jpg)
-
 Romerne er imøtekommende og hjelpsomme uten å være innpåslitne og brysomme. Selv gateselgere tar et nei for et nei
 
 ![](/assets/images/roma1.jpg)
@@ -75,9 +73,7 @@ Man føler seg trygg i denne byen. Ordensmakten gjør jobben sin her.
 
 Ekte italiensk pizza får du i Roma på restauranten. Da Baffetto
 
-![](/assets/images/dabaffetto2.jpg)
-
-På restauranten Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene. [www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
+På restaurante Da Buffetto like ved Piazza Navone får du utsøkte varianter av pizza. Når du går forbi undrer du deg over køen utenfor. Hvorfor står en mengde mennesker i kø for å spise her når det er ledig plass på alle andre spisesteder omkring som ser både bedre og mer delikate ut? Det forstår du først når du har smakt på maten og sett på prisene. [www.pizzeriabaffetto.it](http://www.pizzeriabaffetto.it/)
 
 ![](/assets/images/roma4.jpg)
 
@@ -86,3 +82,7 @@ Prisene er relativt høye til Italia å være. Derfor selges mest T-shirts og su
 ![](/assets/images/taleangst.jpg)
 
 Best klima har Roma i april og mai. I juli og august er byen for varm.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
