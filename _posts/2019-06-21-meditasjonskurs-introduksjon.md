@@ -52,7 +52,7 @@ Har du ikke meditert tidligere så begynn med kurs 1 ta deretter kurs 2 og til s
 [Meditasjon med pusteteknikk]( "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
 
 \- Kurs 2:  
-[Mantra-meditasjon](http://www.helping.no/mantrameditasjon.htm)
+[Mantra-meditasjon]( "https://helping.no/meditasjonskurs-2-mantra-meditasjon")
 
 \- Kurs 3:  
 [Mantra-meditasjon med pusteteknikk](http://www.helping.no/mantrameditasjonpust.htm)
