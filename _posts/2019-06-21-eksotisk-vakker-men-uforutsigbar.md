@@ -38,7 +38,7 @@ weight: 1
 **Fiskerne deler broderlig**  
 Fisken de bringer i land er den hardt tiltrengte næring menneskene alltid har slitt for på Sri Lanka. Fisken fordeles på den glitrende stranden under palmene: Noe til fiskernes familier, naboer og resten til markedene i byen. Nye fiskeredskaper effektiviserer og utkonkurrerer disse enkle garnredskapene, men fiskerne deler broderlig så alle får.
 
-Bilde: Morgen ved stranden. 
+Bilde: Morgen ved stranden.
 
 ![](/assets/images/srilankabat.jpg)
 
@@ -86,4 +86,4 @@ Ved de hellige stedene kommer og går legfolk for å be og meditere foran treet 
 **Ekteskap**  
 Gamle normer for ekteskapsinngåelse er gradvis i forandring. Foreldre bestemte tidligere barnas fremtidige ekteskapelige fremtidsskjebne, og slik er det delvis fremdeles. Når avisspaltene ettersøker maker er det ofte foreldrene som står bak etterspørselen, ikke de unge selv. Horoskop og sosial status er vurderingsgrunnlag. Europeere er svært populære på ekteskapsmarkedet...
 
-OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
+OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. I tillegg kom koranen i 2020. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
