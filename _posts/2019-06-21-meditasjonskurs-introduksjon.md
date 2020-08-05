@@ -46,8 +46,6 @@ Mantra-meditasjon er bare en av mange måter å meditere på.
 
 Har du ikke meditert tidligere så begynn med kurs 1 ta deretter kurs 2 og til sist kurs 3:
 
-\[Meditasjon\](file:///C:/Users/helping/Documents/www/meditasjon.htm)
-
 \- Kurs 1:  
 [Meditasjon med pusteteknikk]( "https://helping.no/meditasjonskurs-1-meditasjon-med-pusteteknikk")
 
@@ -55,4 +53,4 @@ Har du ikke meditert tidligere så begynn med kurs 1 ta deretter kurs 2 og til s
 [Mantra-meditasjon]( "https://helping.no/meditasjonskurs-2-mantra-meditasjon")
 
 \- Kurs 3:  
-[Mantra-meditasjon med pusteteknikk](http://www.helping.no/mantrameditasjonpust.htm)
+[Mantra-meditasjon med pusteteknikk]( "https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk")
