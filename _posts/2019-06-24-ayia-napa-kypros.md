@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 4
+weight: 3
 
 ---
 Vi tester sydentur i sommerhalvåret en uke til Kypros for to voksne og tre barn til Ayia Napa på Panthea Garden hotel.
