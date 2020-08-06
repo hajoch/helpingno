@@ -18,7 +18,8 @@ tags:
 - Bhadgaon
 title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
-  lavtlønnsgrupper i samfunnet: Da må vi turister tenke oss om før vi fyller tiggerskålene'
+  lavtlønnsgrupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
+  og velger tigging fremfor håndberksfag og skole: Da må vi turister tenke oss om.'
 image: "/assets/images/trommer.jpg"
 image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. Postkort
   kjøpt i Nepal
