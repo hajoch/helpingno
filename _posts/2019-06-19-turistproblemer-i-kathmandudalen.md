@@ -62,10 +62,14 @@ _Foto Gunnar Christensen: Durbar Square i Patan har mange turstmagneter._
 
 Den stolte og vakre byggekulturen i Kathmandudalen har oftest ingen verdi for den jevne nepaleres annet enn at den bidrar til å skaffe stedet turister. Unntak fra dette er hindutempler som er i bruk og ofte uten adgang for turister. Nepal har ikke midler til å redde de mange vakre bygningene med utallige treutskjæringer.
 
-Landet er fastlåst i et sosialt system som tillater en enorm klasseforskjell. Få rike og utallige fattige på det laveste eksistensminimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge byggekulturen mener mange. Dog det ser smått ut med begge deler.
+Landet er fastlåst i et sosialt system som tillater en enorm klasse forskjell. Få rike og utallige fattige på det laveste existensminimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge bygge-kulturen mener mange. Dog det ser smått ut med begge deler.
 
-Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk prioritetsskala. Turismen er både til fordel og ulempe for landet. Mange uland har beslektede problemer og vi besøker dem som turister.
+Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk prioritet skala. Turismen er både til fordeler og ulemper for landet. Mange U-land har beslektede problemer og vi besøker dem som turister.
 
 De pengene vi "legger igjen" i landet til betaling for varer og tjenester har tilsynelatende større konsekvens for uland enn iland. Det er derfor av betydning at vi tenker over hvordan vi kan "legge igjen" pengene våre i dette landet på en måte som er både vertslandet og oss selv til gode:
 
 Titt litt i tiggerbollen for å se hva er vanlig å gi en tigger. Ha med mye småmynter så det som gies til tiggere kan fordeles på flere. Forhør priser flere steder før større kjøp, men vær ikke gjerrig: Ofte ligger stort arbeid og godt håndverk bak tingene som er til salgs i Nepal.
+
+###### Les alltid UDs oppdaterte reiseråd før du reiser:
+
+[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/id2413163/")
