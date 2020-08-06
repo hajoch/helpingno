@@ -18,7 +18,7 @@ tags:
 - Bhadgaon
 title: Turistproblemer i Kathmandudalen, Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
-  lavtlønnsgrupper i samfunnet:'
+  lavtlønnsgrupper i samfunnet: Da må vi turister tenke oss om før vi fyller tiggerskålene'
 image: "/assets/images/trommer.jpg"
 image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. Postkort
   kjøpt i Nepal
@@ -32,9 +32,7 @@ Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer temp
 
 Kathmandudalen i Nepal er et kulturelt skattekammer hvor mange såkalte "pakketurister" får svært knapp tid på seg til å oppleve de fantastiske byggverkene og det yrende folkelivet i dalens tre byer: Kathamandu, Patan og Bhadgaon.
 
-![](/assets/images/templene.jpg)
-
-_Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. Foto Gunnar Christensen_
+Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu.
 
 Mange turister kommer til de severdige stedene i grupper med reiseleder: Får knapp tid til å utforske området etter guidens oppramsing. Så neste. Rundt dem kryr tiggere, selgere, skopussere. Fattige mennesker. De har lært at turistene kommer og reiser raskt og at de derfor ikke lærer seg prisene i dette samfunnet.
 
@@ -71,5 +69,3 @@ Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk pri
 De pengene vi "legger igjen" i landet til betaling for varer og tjenester har tilsynelatende større konsekvens for uland enn iland. Det er derfor av betydning at vi tenker over hvordan vi kan "legge igjen" pengene våre i dette landet på en måte som er både vertslandet og oss selv til gode:
 
 Titt litt i tiggerbollen for å se hva er vanlig å gi en tigger. Ha med mye småmynter så det som gies til tiggere kan fordeles på flere. Forhør priser flere steder før større kjøp, men vær ikke gjerrig: Ofte ligger stort arbeid og godt håndverk bak tingene som er til salgs i Nepal.
-
-**( Vi har nylig skiftet design og beklager at noen av funksjonen er midlertidig ute av drift)**
