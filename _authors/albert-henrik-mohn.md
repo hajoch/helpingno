@@ -4,18 +4,7 @@ title: 'Albert Henrik Mohn. '
 image: "/assets/images/a.h.mohn.jpg.jpg"
 
 ---
-[Kategorier](https://no.wikipedia.org/wiki/Wikipedia:Kategorier "Wikipedia:Kategorier") fra wikipedia:
-
-* [Fødsler i 1918](https://no.wikipedia.org/wiki/Kategori:F%C3%B8dsler_i_1918 "Kategori:Fødsler i 1918")
-* [Dødsfall i 1999](https://no.wikipedia.org/wiki/Kategori:D%C3%B8dsfall_i_1999 "Kategori:Dødsfall i 1999")
-* [NRK-korrespondenter](https://no.wikipedia.org/wiki/Kategori:NRK-korrespondenter "Kategori:NRK-korrespondenter")
-* [Norske sakprosaforfattere](https://no.wikipedia.org/wiki/Kategori:Norske_sakprosaforfattere "Kategori:Norske sakprosaforfattere")
-* [Norske forfattere av reiseskildringer](https://no.wikipedia.org/wiki/Kategori:Norske_forfattere_av_reiseskildringer "Kategori:Norske forfattere av reiseskildringer")
-* [Norske romanforfattere](https://no.wikipedia.org/wiki/Kategori:Norske_romanforfattere "Kategori:Norske romanforfattere")
-* [Norske novellister](https://no.wikipedia.org/wiki/Kategori:Norske_novellister "Kategori:Norske novellister")
-* [Englandsfarten 1940-45](https://no.wikipedia.org/wiki/Kategori:Englandsfarten_1940-45 "Kategori:Englandsfarten 1940-45")
-* [Norske journalister under andre verdenskrig](https://no.wikipedia.org/wiki/Kategori:Norske_journalister_under_andre_verdenskrig "Kategori:Norske journalister under andre verdenskrig")
-* [Personer fra Bergen kommune](https://no.wikipedia.org/wiki/Kategori:Personer_fra_Bergen_kommune "Kategori:Personer fra Bergen kommune")[://no.wikipedia.org/wiki/Albert_Henrik_Mohn](https://no.wikipedia.org/wiki/Albert_Henrik_Mohn "https://no.wikipedia.org/wiki/Albert_Henrik_Mohn")
+Fødsler i 1918 - 1999, NRK-korrespondenter, forfatter
 
 ##### Bibliografi forfatter:
 
