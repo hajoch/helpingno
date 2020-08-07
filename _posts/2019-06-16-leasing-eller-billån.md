@@ -11,6 +11,8 @@ tags:
 - restaurering av skip
 - vedfyring i dampkjele
 - verdens eldste i drift
+- Setesdal
+- Agder
 title: 'Dampveteranen i Setesdal  '
 excerpt: Det er sensommer og finvær. DB "Bjoren" glir stille på Byglands-fjorden i
   retning slusene ved Storstraumen. Den vedfyrte damp-maskinen er stillegående som
