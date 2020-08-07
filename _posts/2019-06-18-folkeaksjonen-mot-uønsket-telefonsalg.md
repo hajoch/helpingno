@@ -8,6 +8,9 @@ tags:
 - telefonsalg
 - reklame
 - reservasjon mot telesalg
+- Brønnøysundregisterne
+- telefonplage
+- Datatilsynet
 title: Folkeaksjonen mot uønsket telefonsalg.
 excerpt: Denne type henvendelser øker nå i et slikt omfang at mange oppfatter dette
   som ren telefonterror.
