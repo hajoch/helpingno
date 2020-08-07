@@ -19,4 +19,4 @@ Gift, 3 voksne sønner.
 
 [Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
-Foto: Jens Christian Jore Christensen
+_Foto: Jens Christian Jore Christensen_
