@@ -27,7 +27,7 @@ image_caption: 'Foto Gunnar Christensen: Motiv fra Roma.'
 categories:
 - _category/reise.md
 publish_date: 
-weight: 9
+weight: 8
 
 ---
 Du kan også risikere å ikke komme hjem hvis selskapet går konkurs mens du er på ferie-reise. Det er derfor sikrest å satse på de store, kjente selskapene og holde deg unna de små ukjente selskapene.
