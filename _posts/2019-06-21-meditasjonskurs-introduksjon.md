@@ -18,8 +18,11 @@ tags:
 - fred i sinnet
 - bli kjent med deg selv gjennom meditasjon
 - mobiliser din indre kraft
-- øk din kreativuitet
 - bli mer selvsikker gjennom større innsikt
+- bedre kreativitet
+- dypere hvile enn søvn
+- bedre liv
+- forstå deg selv
 title: Meditasjonskurs introduksjon
 excerpt: 'Kurs i Meditasjon. Mange av de mest fremgangsrike menneskene i vår tid mediterer:'
 image: "/assets/images/nov.14 (1).jpg"
