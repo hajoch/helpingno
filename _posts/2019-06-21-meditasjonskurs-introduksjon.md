@@ -15,6 +15,11 @@ tags:
 - mental balanse
 - harmoniserende øvelser
 - balansert sinn
+- fred i sinnet
+- bli kjent med deg selv gjennom meditasjon
+- mobiliser din indre kraft
+- øk din kreativuitet
+- bli mer selvsikker gjennom større innsikt
 title: Meditasjonskurs introduksjon
 excerpt: 'Kurs i Meditasjon. Mange av de mest fremgangsrike menneskene i vår tid mediterer:'
 image: "/assets/images/nov.14 (1).jpg"
@@ -22,7 +27,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 9
 
 ---
 Mange av de mest fremgangsrike menneskene i vår tid mediterer. Det er fordi meditasjon bl.a. øker kreativiteten, gir øket overskuddog lavere stressvivå.
