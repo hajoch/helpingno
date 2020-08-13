@@ -24,7 +24,7 @@ excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virk
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
   gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
   har mobiltelefoner også fått gode kameraer.
-image: "/assets/images/nov.14.jpg"
+image: "/assets/images/sept.3.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/reise.md
@@ -53,7 +53,7 @@ En klassisk feil ved personfotografering er å ta et skritt bakover før bildet 
 **Landskap og dybdevirkning**  
 Landskapfotografering blir ofte bedre om du finner en forgrunn. Det kan være en figur, et tre eller noe annet som gir det todimensjonale bildet en tredimensjonal effekt. Som en rekke med telefonstolper langs en vei. Trær langs en elv der du ser at trærne blir mindre jo lengre borte de befinner seg på bildet. Forgrunnen kan også være slik at bildet rammes inne av f.eks. to trær med landskapet du avbilder mellom disse. Tåke kan også gi en slik dybdeeffekt i bildet.
 
-![](https://wwww.helping.no/assets/images/toru.002.jpg)![](/assets/images/toru.002-2.jpg)
+![](/assets/images/toru.002-2.jpg)
 
 **Motlys**  
 Motlys kan gi mange spennende effekter i bildet - enten du tar portrett eller landskapsbilder. Sørg da for å skru av blitsen slik at du får utnyttet disse effektene fult ut. Eller ta i bruk blitsen for å kompensere for skygger som blir for mørke nær kameraet.
@@ -72,21 +72,21 @@ For mange blir bilder og videoopptakene mer verdifulle med årene. Ved betryggen
 **Dybdevirkninger**  
 Dybdevirkninger i bildet gir det todimensjonale bildet en tredimensjonal effekt. Rader med trær eller telefonstolper langs veien kan gi dybdevirkningen som hever bildekvaliteten til et spennende resultat.
 
-![](https://wwww.helping.no/assets/images/husskog.jpg)![](/assets/images/hus.skog.jpg)
+![](/assets/images/hus.skog.jpg)
 
 **Hva vil du fortelle?**  
 Prøv å tenke igjennom hva du vil fortelle med bildet. Er det en tur i skogen? Er det en historie om barnets første skoledag? Er det et portrett av en baker?
 
 Da kan det være bra å ha med mer enn ansiktet på hovedpersonen. For eksempel bakeren med bakerlue og et brød eller den første skoledagen i klasserommet eller sammen med læreren.
 
-> ![](https://wwww.helping.no/assets/images/skog.jpg)![](/assets/images/husskog-1.jpg)
+> ![](/assets/images/husskog-1.jpg)
 
 Mulighetene er mange. God planlegging kan gi deg gode ideer. Men glem ikke å være på vakt: Det perfekte motiv kan plutselig være der.
 
 **Familiefotografering**
 
-![](/assets/images/natur4-1.jpg)  
-  
+![](/assets/images/natur4-1.jpg)
+
 Ingen har noen gang klaget over for mange bilder av barna da de var små. Ingen har noen gang klaget over for mange bilder av besteforeldre som er gått bort. Ingen har noen gang klaget over for mange bilder fra turen til Paris, London o.s.v..
 
 Bilder er en verdifull minneskatt som alle setter pris på. En dokumentasjon av tiden som er gått. En ressurs til glede og ettertanke. Ta heller for mange enn for få bilder. Digitalkameraet gir generøse muligheter til å ta mange bilder uten store kostnader. Lagring-brikkene blir stadig bedre og lagrer stadig mer.
