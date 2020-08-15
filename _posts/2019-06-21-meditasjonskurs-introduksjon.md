@@ -59,3 +59,5 @@ Har du ikke meditert tidligere så start med kurs 1 ta deretter kurs 2 og til si
 [https://helping.no/meditasjonskurs-2-mantra-meditasjon](https://helping.no/meditasjonskurs-2-mantra-meditasjon "https://helping.no/meditasjonskurs-2-mantra-meditasjon")
 
 [https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk](https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk "https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk")
+
+[https://helping.no/gratis-yoga-instruksjoner](https://helping.no/gratis-yoga-instruksjoner "https://helping.no/gratis-yoga-instruksjoner")
