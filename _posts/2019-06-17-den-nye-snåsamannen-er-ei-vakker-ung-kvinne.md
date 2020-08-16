@@ -15,7 +15,7 @@ tags:
 - guider
 - healer Susanne
 - hjelpe mennesker
-title: Den nye "Snåsamannen"?
+title: 'Healer-Susanne: '
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
   ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
