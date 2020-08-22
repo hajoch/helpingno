@@ -12,7 +12,13 @@ tags:
 - Ghoom Jernbanestasjon på 2438 m.o.h.
 - Eden
 - Indias Sveits
-title: Darjeeling:Teens by
+- Darjeeling-te
+- Siliguri
+- Observatory Hill
+- Dorje Ling
+- Sikkim
+- Sir Ashley Eden
+title: Darjeeling::Teens by
 excerpt: |-
   En natt klokken fire: Det dundrer på døren.
 
