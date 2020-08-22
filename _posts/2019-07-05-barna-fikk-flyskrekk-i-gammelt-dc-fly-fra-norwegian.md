@@ -20,20 +20,17 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Vi betalte den gang for reise i en ny Boeing 737, men fikk uten forvarsel et nedslitt gammelt DC 8 fly. (DC-8 fløy første gang 1958 og ble produsert til 1972.)
 
-Og bortkommet koffert på Roma-ferie.  
-OBS! Dette var før Boeing Max 8 skandalen.
+Og bortkommet koffert på Roma-ferie. OBS! Dette var før Boeing Max 8 skandalen.
 
 **Gammelt nedslitt DC-fly**  
 Skuffelsen var derfor stor da Norwegian satte inn et nedslitt, gammelt DC-fly merket "norwegian.se" hvor man tydelig kunne se "Fly Nordic" under et tynt lag ny maling. Svensk mannskap som ikke forsto norsk gjorde det ikke bedre. Et slikt fly er egnet til å utvikle flyskrekk - og det fikk vi. Det var just det vi ville forhindre ved å fly nettopp dette selskapet.
 
 I bakhodet har vi følgende oppslag fra mediene: Flyselskapenes personalpolitikk er også viktig for flysikkerheten. Det er ikke underlig at 20 til 25 % av befolkningen har flyskrekk når vi får presseoppslag om at piloter sovner på jobb i luften på grunn av for lang arbeidstid. Når selv pilotene mener dette går på flysikkerheten løs, bør vi som forbrukere engasjere oss siden undersøkelsen gjelder piloter i SAS og Norwegian.
-
-![](/assets/images/norwegian.jpg)
 
 Flygernes arbeidsforhold og flysikkerhet har fått velfortjent stor mediaoppmerksomhet. Dette fordi opplysningene om trette piloter på jobb skremmer oss som reiser med fly.
 
