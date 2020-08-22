@@ -10,7 +10,8 @@ excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert 
 image: "/assets/images/Sunnamed (2).png"
 image_caption: Privat foto
 author: _authors/gunnar-christensen.md
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
 weight: 3
 
