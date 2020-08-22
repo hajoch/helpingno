@@ -8,6 +8,8 @@ tags:
 - snåsamannen?
 - klarsyn
 - psykiske plager
+- veiledning
+- tanker
 title: Healersusanne
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
