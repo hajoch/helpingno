@@ -14,6 +14,9 @@ tags:
 - småbåter
 - fritidsbåter
 - regler til sjøs
+- kjøreregler på sjøen
+- grunnkunnskap på sjøen
+- båtvett
 title: Båtførerprøven er din trygghet på sjøen
 excerpt: Båtførerprøven kan du ta på vår- og høstsemester de fleste steder her i landet.
   Denne "båtlappen" gir ikke bare rabatt på båt-forsikringen. Viktigst er at du får
@@ -32,13 +35,13 @@ Obligatorisk båtførerbevis for fritidsbåter
 
 Det obligatoriske kravet til båtførerbevis gjelder båtførere som er født etter 1. januar 1980. Det er nødvendig med et slikt bevis for å føre fritidsbåter med lengde over 8 meter, fart over 10 knop eller med motorkraft større enn 25 hestekrefter.
 
-. Personer som har tatt båtførerprøven tidligere, slipper å ta prøven på nytt. Det stilles ikke krav til å gjennomføre kurs før prøven avlegges.
+Personer som har tatt båtførerprøven tidligere, slipper å ta prøven på nytt. Det stilles ikke krav til å gjennomføre kurs før prøven avlegges.
 
 Om små joller og mindreårige på sjøen.
 
 ![](/assets/images/fun3.jpg)
 
-Sjøfartsdirektoratet svare slik på vårt spørsmål om småjoller og mindreårige  
+Sjøfartsdirektoratet svare slik på vårt spørsmål om små joller og mindreårige  
 etter at båtførerprøven er innført:  
 Helping.no spør:  
 \- Kan dere klargjøre dette?
