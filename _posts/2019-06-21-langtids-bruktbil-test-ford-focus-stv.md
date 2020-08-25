@@ -12,7 +12,7 @@ title: 'Ford Focus stv 2015.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
   fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
-  Ford Focus er handbrekka: Denne håndbrekka er ikke lengre på nye Focus. '
+  Ford Focus for meg er handbrekka: Denne håndbrekka er ikke lengre på nye Focus. '
 image: "/assets/images/focus155.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
@@ -24,13 +24,13 @@ weight: 3
 ---
 **Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.**
 
+Etter tidligere å ha eid fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter. 
+
 Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.
 
 Bilen testes og oppdateres fortløpende på helping.
 
 ![](/assets/images/focus2015.jpg)
-
-![](https://wwww.helping.no/assets/images/focus155.jpg)
 
 Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
