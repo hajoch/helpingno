@@ -9,12 +9,13 @@ tags:
 - historie om Bobla
 - biltest
 - bruktbiltest
-title: 'Billige bruktbiler: "Nye Bobla" modell 2012.'
-excerpt: 'Bruktbil: "Når du vrir om tenningsnøkkelen i denne bilen forventer du en
-  høylytt brøl fra den luftkjølte "boxer-motoren" bakerst. Det skjer ikke. I stedet
-  starter en stillegående Golf-motor framme i "bagasjerommet". Du sitter nå behageligere
-  og du har kjøreegenskapene og støydempingen til en Golf. Og du har 5 stjerner i
-  Euro NCAPs sikkerhetstest?'
+- bruktbiljakt
+- VW og rust
+title: 'Bruktbil: "Bobla" modell 2012.'
+excerpt: Når du vrir om tenningsnøkkelen i Bobla kom i "gamle dager" et brøl fra den
+  luftkjølte "boxer-motoren" bakerst. Det skjer ikke nå. I stedet starter en stillegående
+  Golf-motor framme i "bagasjerommet". Du har kjøreegenskapene og støydempingen til
+  en Golf. Og du har 5 stjerner i Euro NCAPs sikkerhetstest?
 image: "/assets/images/boble3.jpg"
 image_caption: Foto Christoffer Jore Christensen
 author: _authors/gunnar-christensen.md
@@ -24,14 +25,14 @@ publish_date:
 weight: 4
 
 ---
-Testbilen fra 2012 har en 1,2 liters 105 hk TSI bensinmotor så stillegående og støydempet at jeg første gang parkerte bilen med motoren i gang.
+Testbilen fra 2012 har en 1,2 liters 105 hk TSI bensinmotor. I dag er det VW rust-problemer som er en risiko du må vurdere ved kjøp. 
 
 Standardutstyr er antispinn og anti skrens, autohold bakkestartassistent, blokkeringsfrie bremser, klimaanlegg, cruise control og delt bakseterygg for å nevne noe. Regulerbar korsryggstøtte er utrolig nok ekstrautstyr sammen med et fett og flott Fender soundsystem med DAB-radio og stor basshøyttaler bak og multifunksjonsratt.
 
 Mye er endret nå - også prisen. For prislappen begynner i 2012 på tohundreogfemti tusen spenn. Dog nikkes gjenkjennende til flere nostalgiske designløsninger både utvendig og innvendig.
 
 **Kjørte daglig samme boble i 29 år**  
-Med på testturen var min nære venn, nå avdøde pensjonert rektor Ernst Aslaksen fra Fevik. Han hadde en og samme blå Boble fra 1972 i sammenhengende 29 år. Så lenge som det var mulig å få nye reservedeler til bilen.  
+Med på test-turen var min nære venn, nå avdøde pensjonert rektor Ernst Aslaksen fra Fevik. Han hadde en og samme blå Boble fra 1972 i sammenhengende 29 år. Så lenge som det var mulig å få nye reservedeler til bilen.  
 \- Hva synes du om denne nye Bobla?  
 \- Dette er en helt annen bil enn det jeg hadde. Jeg hadde for eksempel ikke varme i setene, men måtte sitte på tynne isoporplater for å holde varmen om vinteren fordi varmeapparatet begynte først å virke etter en halv times kjøring. Og motoren var ikke kraftig nok til å holde de øverste fartsgrensene på E 18. Slik komfort som dette var helt utenkelig på de gamle Boblene. Til gjengjeld var de gamle driftssikre, rimelige å reparere og prisgunstige - min kostet ny kr. 27.000 den gang.
 
