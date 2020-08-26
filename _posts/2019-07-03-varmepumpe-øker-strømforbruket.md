@@ -13,17 +13,22 @@ tags:
 - aircondition
 - forbrukertest
 - lantidstest
-title: 'Varmepumpe øker strømforbruket '
+- fremtidens strømforbruk
+- solcelletegl
+- billige husbatteri
+- mange strømsparingstiltak
+title: Varmepumpe øker strømforbruket - men fremtiden har mange muligheter
 excerpt: 'Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen
   var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig
-  i vintersesongene. '
+  i vintersesongene. Les også om nyheten billigere husbatteri og strømsparing som
+  gjør solcelle-investeringen for dyr.'
 image: "/assets/images/varmep.jpg"
 image_caption: Foto  Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 **Resultat av bruk siden 2008:**  
@@ -64,17 +69,19 @@ Vi har imidlertid fått beskjed om å støvsuge filteret en gang pr. mnd. nå me
 Ser vi på forbruket kun for januar og februar er forbruket for 2008 på 6164 kvh. for 2009 på 6566 kwh og for 2010 hele 7767 kwh. Nå var 2010 kaldere enn vanlig, men så ble det derfor fyrt med tre ganger så mye ved i tillegg til varmepumpa denne perioden.
 
 **Konklusjoner**  
-Besparelsene og miljøgevinst med varmepumpe kan man se lagt etter. Alt etter tre sesongers bruk kan "myten" avlives: Påstandene om at en varmepumpe sparer så mye strøm at den tjener seg inn på 5 år er tull. Strømforbruket har økt betydelig etter at vi fikk varmepumpe også etter at undersøkelsesperioden er over. Investeringen vil aldri tjene seg inn og er derfor ikke som forventet. 
+Besparelsene og miljøgevinst med varmepumpe kan man se lagt etter. Alt etter tre sesongers bruk kan "myten" avlives: Påstandene om at en varmepumpe sparer så mye strøm at den tjener seg inn på 5 år er tull. Strømforbruket har økt betydelig etter at vi fikk varmepumpe også etter at undersøkelsesperioden er over. Investeringen vil aldri tjene seg inn og er derfor ikke som forventet.
 
 **Miljø**  
-Det er ingen miljøgevinst i å installere en varmepumpe. Du sparer ikke strøm. Slik prisene nå utvikler seg på strøm hadde det i denne tidsperioden vært mer økonomisk å gå over til oljefyring. OBS:  Oljefyring som kan gå på andre generasjons biodiesel som kommer på markedet i når vanlig fyringsolje fases ut. Som kjent er diesel og fyringsolje to navn på samme produkt. Derfor er bio-oljefyring et mer miljøvennlig alternativ. Fremtidens biodiesel lages av trevirke i Norge ikke palmeolje. Med oljefyring kan du fylle tanken når prisene er lavest. 
+Det er ingen miljøgevinst i å installere en varmepumpe. Du sparer ikke strøm. Slik prisene nå utvikler seg på strøm hadde det i denne tidsperioden vært mer økonomisk å gå over til oljefyring. OBS:  Oljefyring som kan gå på andre generasjons biodiesel som kommer på markedet i når vanlig fyringsolje fases ut. Som kjent er diesel og fyringsolje to navn på samme produkt. Derfor er bio-oljefyring et mer miljøvennlig alternativ. Fremtidens biodiesel lages av trevirke i Norge ikke palmeolje. Med oljefyring kan du fylle tanken når prisene er lavest.
 
 Med varmepumpe er du prisgitt kyniske, samarbeidende strømleverandører som tapper ned vannmagasinene på høsten for å tjene mer på strømmen til deg når du trenger den mest på vinteren. I tillegg har økt etterspørsel etter strøm styrket prispresset etter at elektriske biler, ferger og fly nå fases inn i markedet.
 
 **Strøm er blitt en mangelvare i perioder og prises deretter.** Varmepumpa virker dårligere jo kaldere temperaturen er ute. Det betyr mer strømforbruk og mindre effekt ved kaldere ute-temperatur.
 
-**Fremtid**  
-Slik prisene har vært på strøm i undersøkelsesperioden hadde det vært mer økonomisk å gå over til oljefyring (som fremover kan fyres med biodiesel ) , solcelle eller aller best jordvarme. Nå er det lys i tunnelen ettersom det fremover blir billigere å kjøpe batteri til hus: Disse kan lades når strømmen er billigst på døgnet - f.eks. om natten - slik at total strømutgift går ned. Dette vil trolig utkonkurrere dyr investering i solcellepanel.
+**Fremtiden gir smartere strømforbruk**  
+Slik prisene har vært på strøm i undersøkelsesperioden hadde det vært mer økonomisk å gå over til oljefyring (som fremover kan fyres med biodiesel ) , solcelle eller jordvarme. 
+
+Nå er det lys i tunnelen ettersom det fremover blir billigere å kjøpe batteri til hus: Disse kan lades når strømmen er billigst på døgnet - f.eks. om natten - slik at total strømutgift går ned. Dette vil trolig ut konkurrere dyr investering i solcellepanel. Samtidig vil det senke belastningen på strømnettet ved at det blir jevnere trafikk og de store, planlagte utbyggingene behøves kanskje ikke?
 
 **Ny teknologi utmanøvrerer varmepumpa.**  
 Nå er det solceller på taket som tegl og batteri i huset som vil sikre den mest økonomiske varmen. Jordvarme og vindkraft er også alternativer. Pumpa kan være en del av dette, men hvem vil ha en så stygg installasjon hvis det ikke er nødvendig?
@@ -86,7 +93,7 @@ Nå er det solceller på taket som tegl og batteri i huset som vil sikre den mes
 
 Forbrukertest av varmepumpe type: Fujitsu Genaral Gulvmodell R-410A. Tekniske opplysninger: Utedel: AOHV12LAC  
 Effekt: kjøl 3,5(0,9-4.0)  
- varme 4,5(0,9-6.6)  
+varme 4,5(0,9-6.6)  
 Varme ved -7C: 3,60  
 Lydnivå:  
 Innedel db(A): 22/29/35/40  
