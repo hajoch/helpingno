@@ -17,6 +17,9 @@ tags:
 - forsikring
 - trivsel
 - støy når du skal sove
+- kreativ strudent
+- se opp for kontraktfellene
+- brukt forbrukerrådets veiledning og kontrakt
 title: Boligleie
 excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
   sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
@@ -24,7 +27,7 @@ image: "/assets/images/jan.17 (1).jpg"
 image_caption: 'Foto: Gunnar Christensen. Motiv fra Revesand på Tromøy ved Arendal.'
 categories:
 - _category/bolig.md
-publish_date: 2020-06-06 00:00:00 +0200
+publish_date: 2020-08-26 00:00:00 +0200
 weight: 7
 
 ---
