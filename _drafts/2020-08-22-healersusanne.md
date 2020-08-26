@@ -11,9 +11,10 @@ tags:
 - veiledning
 - tanker
 title: Healersusanne
-excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
-  er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
-  ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
+excerpt: "Oppdatert versjon på: \nhttps://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne\n\nHun
+  heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så er hun fra
+  Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det ble kjent at
+  hun har evner som Snåsamannen så har pågangen nærmest eksplodert."
 image: "/assets/images/susanne.jpg"
 image_caption: Privat foto
 author: _authors/gunnar-christensen.md
@@ -23,7 +24,7 @@ publish_date:
 weight: 3
 
 ---
-Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
+* Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
 
 Deretter befinner jeg meg på et stort kontor med sort behandlings benk, bokhylle og kontorutstyr. Her er intet som minner om alternativ behandling: Modernistisk kunst på veggene. En stor grønn plante i en krok. Kun en liten grønn plante ved vinduet. Ingen røkelse i luften. Ingen bilder av guruer. Ingen musikk til behandlingen.  
 Susanne er blid, uformell og snakker fort og lett om behandlingen.
