@@ -13,6 +13,7 @@ tags:
 - leiekontrakt
 - forsikring
 - legater
+- kreative løsninger
 title: 'Student i Oslo: Boligjakten'
 excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordring.
   Da begynner jakten på et sted å bo. For første gang skal du bo "borte". Brutalt
@@ -25,7 +26,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 4
+weight: 7
 
 ---
 Seniorstudentene flytter inn i de mest attraktive utleieobjektene til SiO, mens du som ny i Oslo stiller svakest. Det hjelper deg lite at det har vært klaget i generasjoner på at regjeringen gjør for lite for å løse studentenes boligkrise. Regjeringen har sviktet deg. Alt da du ble født var regjeringen klar over hvor mange som ville trenge studentbolig nå. Likevel er lite gjort for å hjelpe deg.
@@ -56,6 +57,9 @@ Når du har funnet bostedet bør du sette deg grundig inn i leiekontraktens ordl
 Husk på at det du har med deg på hybelen har en verdi. Du har en gang kjøpt klærne dine, PCen din m.m. og om du skulle miste dette i brann eller ved tyveri så er det klokt å tegne en forsikring på innbo. En innboforsikring dekker også forsikring av sykkelen din og juridisk bistand om du kommer opp i problemer med leieforholdet. Ta en liten opptelling av dine eiendeler og tegn en liten innboforsikring på f.eks. hundre tusen spenn eller mer slik at du er dekket om uhellet er ute.
 
 Det lønner seg å sjekke prisen på forsikringen i flere selskaper før du bestemmer deg. Enkelte medlemskap eller arbeidsforhold kan gi rabatt hos noen forsikringsselskaper. Hvis du ikke melder flytting til studiested i folkeregisteret kan du i noen tilfeller være dekket under dine foreldrenes innboforsikring. Dette sjekker du før noe annet.
+
+**De kreative studentløsningene:**   
+En student på økonomistudiet kjøpte en campingvogn med vinterisolering, fikk leie parkeringsplass og strømtilkoblinger bak en eldre bygård i byen og fikk tilgang til et bad og toalett i gården. Etter tre års studier solgte han sin campingvogn for omtrent det samme som han kjøpte den for tre år tidligere.
 
 Lykke til med boligjakten.
 
