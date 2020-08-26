@@ -18,10 +18,9 @@ tags:
 - billige husbatteri
 - mange strømsparingstiltak
 title: Varmepumpe øker strømforbruket - men fremtiden har mange muligheter
-excerpt: 'Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen
-  var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig
-  i vintersesongene. Les også om nyheten billigere husbatteri og strømsparing som
-  gjør solcelle-investeringen for dyr.'
+excerpt: |-
+  Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig i vintersesongene.
+  Les også om nyheten billigere husbatteri og strømsparing som utkonkurrerer solcelle-investeringen.
 image: "/assets/images/varmep.jpg"
 image_caption: Foto  Gunnar Christensen
 author: _authors/gunnar-christensen.md
