@@ -42,7 +42,7 @@ De fleste utleiere har forhørt seg i nabolaget om hva som er utleiepris. Du bø
 
 I tillegg til husleie forlanges ofte depositum innbetalt på en bankkonto på begge parters navn. Depositumet kan være et kontantbeløp som utgjør summen av to eller tre husleier. Depositum er utleiers sikkerhet mot skader som kan oppstå eller ved mislighold av leieavtalen. Banken din kan gi råd om depositumkonto og hvordan den opprettes.
 
-Det juridiske ved et leieforhold er vanligvis godt ivaretatt om det brukes kontrakter som den du finner på www.forbrukerportalen.no - se link på denne siden. 
+Det juridiske ved et leieforhold er vanligvis godt ivaretatt om det brukes kontrakter som den du finner på www.forbrukerportalen.no - se link på denne siden.
 
 Leieavtalen må ha en oppsigelsestid f.eks 3 uker eller måneder slik at du kan flytte dersom du ikke øsnker å bo der videre. Du må ikke gå på kontrakter som går for hele studiet.......
 
@@ -51,7 +51,7 @@ Leieavtalen må ha en oppsigelsestid f.eks 3 uker eller måneder slik at du kan 
 **Privat leiemarked**  
 Må du ut på det private boligmarkedet? Der er nå prisene skrudd i været som følge av økt etterspørsel i de større byene. Økt etterspørsel og høye priser på leiemarkedet kommer når flere ikke har råd til å kjøpe og eie egen bolig. Idet du oppdager at det private leiemarkedet er eneste utvei for å få deg en bolig oppdager du hvor raskt en bolig blir leid ut. Og du oppdager at det ofte ikke er du som velger: Det er mange som vil leie og utleier er den som velger eller vraker deg.
 
-Gjør også en økonomisk beregning av hva bolig du kunne kjøpe for det du må finansiere gjennom husleien. Det kan være en tanke-vekker. 
+Gjør også en økonomisk beregning av hva bolig du kunne kjøpe for det du må finansiere gjennom husleien. Det kan være en tanke-vekker.
 
 Mange utleiere velger leieboer som har arbeid og egen inntekt. Enkelte utleiere har blinket seg ut bestemte grupper leietakere. "Ønsker ikke leieboer med husdyr", "leier kun ut til kvinner", "leietaker må påta seg snømåking og barnepass" etc. etc.. Mange oppdager at boligstandarden i for eksempel Oslo er både betydelig dyrere og dårligere enn ellers i landet. Det er mange dårlige hybler, hybelleiligheter og boliger til leie. Vær derfor kritisk til hva du velger. F.eks.: Spør om isolasjon om du må betale ekstra for fyring og strøm. Du må ofte belage deg på større reiseavstand enn du først tenkte deg i byene.
 
@@ -106,4 +106,4 @@ Mange skifter til spare-pærer for å spare strøm. På belysning utendørs er s
 
 Som leselys er en vanlig lyspære derfor å foretrekke. I tillegg gir den fra seg varme slik at den er en varmekilde i tillegg til en lyskilde. Er lyspæren på 60 watt gir den fra seg 60 watt varme i tillegg til lyset du får fra pæren. Dermed trenger du mindre oppvarming med vanlige lyspærer enn med sparepærer i huset.
 
-**De kreative studentløsningene:** En student på økonomistudiet kjøpte en campingvogn med vinterisolering, fikk leie parkeringsplass og strømtilkoblinger bak en eldre bygård i byen og fikk tilgang til et bad og toalett i gården. Etter tre års studier solgte han sin campingvogn for omtrent det samme som han kjøpte den for tre år tidligere.  
+**De kreative studentløsningene:** En student på økonomistudiet kjøpte en campingvogn med vinterisolering, fikk leie parkeringsplass og strømtilkoblinger bak en eldre bygård i byen og fikk tilgang til et bad og toalett i gården. Etter tre års studier solgte han sin campingvogn for omtrent det samme som han kjøpte den for tre år tidligere.
