@@ -9,9 +9,11 @@ tags:
 - annonselinker
 - reklame hos helping.no
 - gode annonsetilbud
+- likes
 title: Annonse og sponsing på helping.no.
-excerpt: "Vi har siden 2001 gitt deg gratis bøker og nyttige artikler. Du er velkommen
-  til å sponse vår virksomhet. \nØnsker du annonse hos oss - ta kontakt"
+excerpt: |-
+  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for over. 4.000 besøk pr. mnd. Du er velkommen til å sponse vår virksomhet med en tier om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
+  Ønsker du annonse hos oss - ta kontakt
 image: "/assets/images/Basse (04).jpg"
 image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Nettstedet
   har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. Foto Jens
@@ -19,7 +21,7 @@ image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no
 author: ''
 categories:
 - _category/redaksjonen-om-oss.md
-publish_date: 2020-05-10 00:00:00 +0200
+publish_date: 2020-09-05 00:00:00 +0200
 weight: 9
 
 ---
