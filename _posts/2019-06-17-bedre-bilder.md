@@ -29,7 +29,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/reise.md
 publish_date: 
-weight: 9
+weight: 8
 
 ---
 **Kameravalg**  
