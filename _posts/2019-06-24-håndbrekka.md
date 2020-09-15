@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 13:40:08 +0200
+date: 2019-06-24T11:40:08.000+00:00
 crop_image: true
 tags:
 - bil
@@ -9,7 +9,7 @@ tags:
 - teknisk
 - ny håndbrekke dårligere
 - trykknappen som vikter?
-title: " Håndbrekka"
+title: " Håndbrekka og øvelseskjøring"
 excerpt: Moderne biler gjennomgår nå en håndbrekke-forvandling. Spaken mellom setene
   er på mange nye biler en knapp og den virker ikke alltid som den skal. Det er bl.a.
   den nye bakkestarthjelpen såkalt hild-hold-systemet som gjør at flere nyere biler
@@ -20,8 +20,8 @@ image_caption: 'Foto: Hallvard Jore Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2019-10-05 00:00:00 +0200
-weight: 2
+publish_date: 
+weight: 3
 
 ---
 Tenk deg at du sitter ved siden av en bilfører som plutselig får et illebefinnende i fart. Da tar det deg kun sekunder å reagere med å dra i håndbrekka om bilen har en tradisjonell håndbrekke: Det går nærmest på refleksen å reagere, men skal du lete opp en knapp et sted - da er du kanskje ikke i stand til å stoppe bilen i tide. Særlig Mercedes har gjort dette umulig ved å plassere håndbrekka som en bryter mellom sjåføren og døra på førersiden. (Tidligere hadde Mercedes en pedal til venstre for fører som handbrekk)
