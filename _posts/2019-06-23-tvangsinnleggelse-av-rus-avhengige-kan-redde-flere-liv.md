@@ -8,6 +8,10 @@ tags:
 - mental helse
 - rus
 - rusavhengighet
+- 0verdoser
+- hjelpitiltak
+- innleggelse
+- sosialomsorgen
 title: Tvangsinnleggelse av rus-avhengige kan redde flere liv
 excerpt: 'Innlegg om rus:'
 image: "/assets/images/trille7.jpg"
