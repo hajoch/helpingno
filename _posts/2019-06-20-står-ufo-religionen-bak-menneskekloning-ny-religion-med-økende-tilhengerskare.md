@@ -41,7 +41,7 @@ image_caption: Illustrasjon
 categories:
 - _category/religion.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
 Hvis en atomkrig skulle ødelegge vår klode, vil vesener fra andre kloder komme oss til hjelp i sine "flygende tallerkener ". Dette hevder tilhengere av "UFO-religionen " som har stor framgang i USA og Europa:
