@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-17T10:44:45.000+00:00
-crop_image: true
+crop_image: false
 author: _authors/gunnar-christensen.md
 tags:
 - båtmotorer
