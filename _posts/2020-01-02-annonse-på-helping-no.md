@@ -21,8 +21,8 @@ image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no
 author: ''
 categories:
 - _category/redaksjonen-om-oss.md
-publish_date: 2020-09-05 00:00:00 +0200
-weight: 9
+publish_date: 
+weight: 8
 
 ---
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
