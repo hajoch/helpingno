@@ -30,7 +30,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 9
+weight: 8
 
 ---
 Mange av de mest fremgangsrike menneskene i vår tid mediterer. Det er fordi meditasjon bl.a. øker kreativiteten, gir øket overskuddog lavere stressvivå.
