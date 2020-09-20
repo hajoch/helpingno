@@ -24,8 +24,8 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2020-08-17 00:00:00 +0200
-weight: 9
+publish_date: 2020-09-20 00:00:00 +0200
+weight: 8
 
 ---
 **Slik sparer du penger**  
