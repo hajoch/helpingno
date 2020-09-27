@@ -14,7 +14,7 @@ tags:
 - økonomi
 - salg
 - markedsføring
-title: 'Det tidløse temaet: Farger er følelser'
+title: Farger er følelser
 excerpt: 'Fargene taler direkte til vårt følelsesliv. Samspillet mellom kalde og varme
   farger skaper interessante effekter. Dette brukes i kunst, design, interiør og eksteriør
   og i ikke minst markedsføring: Temaet er tidløst.'
@@ -25,7 +25,7 @@ image_caption: |-
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 3
+weight: 5
 
 ---
 Fargepsykologien er viktig også i markedsføring. Flere spesialister på området hevder dette. Markedsførere og produktutviklere benytter kunnskapen om farger i stigende grad.
