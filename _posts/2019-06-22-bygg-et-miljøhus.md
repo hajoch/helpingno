@@ -25,7 +25,7 @@ image_caption: "Illustrasjonsfoto Gunnar Christensen. \nMotiv fra Merdø ved Are
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2020-06-06 00:00:00 +0200
+publish_date: 
 weight: 7
 
 ---
