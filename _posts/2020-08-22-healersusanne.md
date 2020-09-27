@@ -11,7 +11,7 @@ tags:
 - veiledning
 - tanker
 title: 'Healersusanne - søk oppdatert versjon på:'
-excerpt: 'https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne
+excerpt: 'Se oppdatert intervju på side:
 
 '
 image: "/assets/images/susanne.jpg"
@@ -23,3 +23,4 @@ publish_date:
 weight: 1
 
 ---
+[https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne](https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne "https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne")
