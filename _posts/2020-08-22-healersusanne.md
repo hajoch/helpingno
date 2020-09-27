@@ -11,9 +11,7 @@ tags:
 - veiledning
 - tanker
 title: 'Healersusanne - søk oppdatert versjon på:'
-excerpt: 'Se oppdatert intervju på side:
-
-'
+excerpt: "\n"
 image: "/assets/images/susanne.jpg"
 image_caption: Privat foto
 author: _authors/gunnar-christensen.md
@@ -23,4 +21,7 @@ publish_date:
 weight: 1
 
 ---
+
+Se nytt oppdatert intervju på side:
+
 [https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne](https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne "https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne")
