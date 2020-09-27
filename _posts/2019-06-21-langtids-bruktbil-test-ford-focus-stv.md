@@ -8,6 +8,8 @@ tags:
 - Ford Focus
 - biltest
 - lantidstest
+- bilseter
+- stasjonsvogn
 title: 'Ford Focus stv 2015.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
@@ -18,13 +20,13 @@ image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-03-26T23:00:00.000+00:00
-weight: 3
+publish_date: 2020-09-27 00:00:00 +0200
+weight: 5
 
 ---
 **Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.**
 
-Etter tidligere å ha eid fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter. 
+Etter tidligere å ha eid over 20 biler derav fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter.
 
 Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.
 
@@ -32,7 +34,7 @@ Bilen testes og oppdateres fortløpende på helping.
 
 ![](/assets/images/focus2015.jpg)
 
-Ny modell i 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
+Ny modell fra 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
 Utstyrsmodell Titanium innebærer en ubetydelig "korsryggstøtte" på førersetet, oppvarmet frontrute, DAB-radio med bluetooth med Sync som ikke kan brukes sammen med iphone, el-vinduer framme og bak, adaptiv crusekontroll og to soners klima for å nevne noe.
 
@@ -44,17 +46,17 @@ Ford Focus som leveres til Norge produseres ved Fords fabrikk i Tyskland. De fle
 
 Ford markedsfører Focus som verdens mestselgende bil og har produksjon og markedsføring som dekker hele kloden. Bl.a i Kina selger Focus bedre enn de fleste.
 
-Korsryggstøtte avgjorde Da vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrs pakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrs pakka Titanium viledet av brosjyrene. Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retningsviseren og kan ikke leveres med både korsryggstøtte og manuell håndbrekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
+Korsryggstøtte avgjorde Da vi valgte Focus sto det mellon Peugeot 308SW og Ford Focus stasjonsvogn. Begge bilene er meget overbevisende og relativt like selv om Peugeoten er litt billigere. Peugeotforhandleren hadde dessuten en bedre pristilbuds-presentasjon der det tydelig gikk frem hvilket utstyr prisen omfattet. På Focus var det vanskelig å orientere seg om hva som var del av utstyrs pakka og hva som kostet ekstra og misforståelser oppsto og kostet meg ekstra sure penger før deadline på fabrikken. Dette førte til at vår bil ikke fikk med alt utstyret vi ønsket. Som sotede ruter for baksetet: Det trodde vi hørte inn under utstyrs pakka Titanium viledet av brosjyrene. Det var til slutt regulerbar korsryggstøtte og bedre kjøreegenskaper på Focusen som avgjorde i Focusens favør. 308SW har en irriterende lyd på retnings-viseren og kan ikke leveres med både korsryggstøtte og manuell hånd-brekke. I ettertid skal det sies at korsryggstøtta på Focus har så liten reguleringsbevegelse at den er til liten hjelp. Focus lå dessuten en smule bedre an på kjøreopplevelse. |
 
 **Genialt drivstoff-inntak.**  
-Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep dieselpistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
+Fords Easy Fuel-systemet sparte meg alt første uka fra en kostbar ekstrautgift. Etter mange år med dieselbil gikk det en dag på refleksen at jeg grep diesel-pistolen i stedet for bensinpistolen ved tankfylling. Fords geniale system som gjør det umulig å fylle feil drivstoff reddet situasjonen. Dette systemet burde alle biler ha. Som kjent kan det koste store summer å fylle feil drivstoff på bilen og starte opp.
 
-Bensin-forbruket er på nivå med en Toyota Prius hybrid som pendler mellom Arendal og Kristiansand.
+Bensinforbruket er på nivå med en Toyota Prius hybrid som pendler mellom Arendal og Kristiansand.
 
 **Seter til besvær**  
 Setene er denne bilens svake punkt. De er produsert i Italia og minner om Fiats tidligere dårlige seter som ikke tålte slitasje. Stoffsetet på førersiden hadde sømfeil ved levering og så derfor velbrukt ut ved første møte med bilen. Dette ble på garantien skiftet ut med nytt stoff, men etter denne jobben er det likevel bretter og førersetet ser ut som om bilen er gammel og velbrukt. Irriterende på en nye bil.
 
-Etter siste garantireparasjon oppdages at setestoffet ikke var festet skikkelig etter første garantireparasjon og derfor krøllet seg. Dette burde vært ordnet hos merkeforhandler ved klargjøring av bilen som ny til kunde. Fremdeles er der bretter på setet slik at setet ser mer velbrukt ut enn det egentlig er.  
+Etter siste garantireparasjon oppdages at sete-stoffet ikke var festet skikkelig etter første garanti-reparasjon og derfor krøllet seg. Dette burde vært ordnet hos merkeforhandler ved klargjøring av bilen som ny til kunde. Fremdeles er der bretter på setet slik at setet ser mer velbrukt ut enn det egentlig er.  
 En av utlånsbilene var en demo combi av samme modell Focus. Også denne hadde et førersete som så temmelig slitent ut. Antakelig må en derfor tro at setene er et problem på denne Focus. Ved en anledning fikk jeg en Volvo som utlånsbil. Så mye bedre seter av overlegen kvalitet .......
 
 **Skifte seter?**  
@@ -62,22 +64,22 @@ Jeg prøvde å få satt inn Volvo-seter eller andre mer behagelige seter på for
 
 På 5500 km knekker hendelen som manuelt regulerer førersetet opp og ned. Når den har falt av ser man tydelig hvor tynn plastløsning dette er: Dette er ikke dimensjonert for god slitestyrke. Og det skjer igjen kort tid etter. At Ford vil ødelegge et positivt totalinntrykk av denne flotte bilen med å levere forerseter med leketøyskvalitet er ubegripelig.
 
-På 7700 km svikter bilradioens mobiltelefonsystem. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finner ut av. De påstår det er produksjonsfeil på Iphone, men når bare Ford har problemer med Iphone er det i praksis Ford som ikke er kompetente nok på dette.
+På 7700 km svikter bilradioens mobiltelefon-system. Tysk kvalitet? Ja, det var det vi trodde vi kjøpte. Senere i 2018 med over 50.000 km på telleren, er dette fremdeles ikke reparert tross utskifting av flere komponenter. Radioens mobildel er noe forhandler ikke finner ut av. De påstår det er produksjonsfeil på Iphone, men når bare Ford har problemer med Iphone er det i praksis Ford som ikke er kompetente nok på dette.
 
 Dette frister ikke til å kjøpe en ny Focus etter 3 år.
 
 Bortsett fra problemer med førersete og telefonering i bilen er denne bilen så langt meget bra. Men det bør den være etter bare 57 000 km på telleren. Det er eierskapet videre som avgjør om Focusen og servicen er et godt kjøp.
 
 **5 år.**  
-70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl antirustbehandling med sandblåsing. Dette var på høy tid for fabrikkens antirust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt.
+70\.000 km i 2020. Lite feil på bilen utenom det nevnte. Påkostet Tectyl anti-rust-behandling med sandblåsing. Dette var på høy tid for fabrikkens anti-rust-utrustning er laget for at du skal skifte bil oftere. Det meste av verditapet er nå tatt og bilen har ingen overraskelser så langt.
 
-En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivning-kostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
+En stor fordel med Arendal er en liten Ford-forhandler som kjenner deg og følger deg opp. Jeg tror så langt at det er mulig å ha denne bilen i 10 år. Da vil avskrivningskostnaden pr. år være kr. 32.000,- fratrukket restverdi på bilen.
 
-Det er miljøvennlig å ikke kjøpe ny bil,men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning.
+Det er miljøvennlig å ikke kjøpe ny bil, men beholde den gamle lengre. Produksjon av en ny bil er samlet sett en stor miljøbelastning.
 
 Det er fordi nye Ford Focus bare kan leveres med automatgir og trykk-knapp-håndbrekke at jeg nå ikke bytter til nyere bil. Mindre utvalg gir lavere salg.
 
-Bare små Ford biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammen heng med følelse av sikkerhet på veien.  
+Bare små Ford biler som Fiesta og Puma - foruten sportsbiler og yrkesbiler - kan fremdeles leveres med manuell gir og skikkelig håndbrekke. Og jeg er ikke komfortabel med å kjøre bilder mindre enn  Focus. Det har sammenheng med følelse av sikkerhet på veien.  
 Neste bil blir av den grunn ikke en Ford.
 
 **TILBAKEBLIKK:  
