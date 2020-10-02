@@ -66,11 +66,14 @@ Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurder
 
 **Post- og teletilsynet har nettstedet:**  
 [www.telepriser.no](http://www.telepriser.no/)  
-hvor du kan gjøre prissammenligning på leverandører av bredbånd.
+hvor du kan gjøre prissammenligning på leverandører av bredbånd.  
+_____________________________________
 
 **Annonser:**  
 [www.nettavisen.no/kredittkort  
 www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
 [https://coinweb.no](https://coinweb.no "https://coinweb.no")
+
+***
 
 ***
