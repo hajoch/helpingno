@@ -36,7 +36,7 @@ image_caption: Boka "Styrkeprøven"
 categories:
 - _category/boker.md
 publish_date: 
-weight: 8
+weight: 10
 
 ---
 **Slik ble Styrkeprøven til**
