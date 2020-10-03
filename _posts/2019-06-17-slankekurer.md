@@ -18,25 +18,26 @@ tags:
 - oppskrift
 - 3 dagers kuren
 - nøysomt kosthold er bærekraftig
-title: Slankekurer
-excerpt: 3 dagers-kuren og Stoffskifte-diett "oppskrift"
+- helsegevinst
+title: Slankeråd - med to kurer
+excerpt: "Viktigst av alt etter en slankekur er å bedre dine kostholdsvaner i forhold
+  til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den
+  fort være forgjeves. \nGratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\""
 image: "/assets/images/eple1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
-publish_date: 
-weight: 7
+publish_date: 2020-10-03 00:00:00 +0200
+weight: 8
 
 ---
 Slankekur
 
-Viktigst av alt etter en slankekur er å bedre dine  
-kostholdsvaner i forhold til før du startet kuren. Kaster du deg  
-over søtsaker og fett etter kuren kan den fort være forgjeves.
-
 Vær skeptisk til alle slankekurer som lover raske resultater. Her er imidlertid to kurer som lover nettopp dette **innsendt fra våre lesere**: I vår redaksjon har vi ikke kompetanse på disse to kurene og vi svarer derfor nå ikke på spørsmål i tilknytning til disse.
 
-Vi får likevel mange henvendelser fra lesere med spørsmål om disse kurene. Noen ønsker å gjøre endringer på kuren fordi man ikke liker eller kan spise enkelte av de matvarer som er i oppskriften. Det er opp til deg selv om du ønsker å gjøre endringer på kuren. Men endrer du på kuren er det ikke sikkert at du oppnår de ønskede resultater. Vi i redaksjonen anbefaler i stedet at du heller leser mer om Kosthold og mosjon og Slankemani her på helping.no fremfor å starter på en av disse kurene.
+Vi får likevel mange henvendelser fra lesere med spørsmål om disse kurene. Noen ønsker å gjøre endringer på kuren fordi man ikke liker eller kan spise enkelte av de matvarer som er i oppskriften. Det er opp til deg selv om du ønsker å gjøre endringer på kuren. Men endrer du på kuren er det ikke sikkert at du oppnår de ønskede resultater. 
+
+Vi i redaksjonen anbefaler i stedet at du heller leser mer om Kosthold og mosjon og Slankemani her på helping.no fremfor å starter på en av disse kurene.
 
 Vær kritisk til om du vil hoppe på disse kurene, men om du gjør det så ha også fjellvettregelen i tankene: "Det er ingen skam å snu". Du benytter slankekurene på egen risiko.
 
