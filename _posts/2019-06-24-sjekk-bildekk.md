@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-24 12:37:59 +0200
+date: 2019-06-24T10:37:59.000+00:00
 crop_image: true
 tags:
 - piggdekksesong
@@ -10,15 +10,15 @@ tags:
 - bil
 - sommerdekksesong
 - vinterbil
-title: Sjekk bildekk
+title: Sjekk og skift bildekk
 excerpt: 'Biltips før vinteren:'
 image: "/assets/images/mar.5.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 
-weight: 
+publish_date: 2020-10-03 00:00:00 +0200
+weight: 8
 
 ---
 **Piggdekksesongen i Norge**
@@ -38,7 +38,9 @@ dekk gir bedre bremseeffekt.
 
 Husk å ettertrekke boltene/hjulmuttere etter dekkskift. Særlig på lettmetallfelger som lettest skrur seg opp ved kjøring.
 
-Ikke bruk for gamle vinterdekk: Gummien blir stivere med årene og veigrepet blir derfor dårligere. Sprayboks med dekkrens gir bedre veigrep på glatta.  
+Ikke bruk for gamle vinterdekk: Gummien blir stivere med årene og veigrepet blir derfor dårligere. 
+
+Sprayboks med dekkrens gir bedre veigrep på glatta.  
 Sjekk lufttrykket.
 
 **Biltips før vinteren:**
@@ -52,4 +54,4 @@ Sjekk lufttrykket.
 * Ta olje i låsene så fryser de ikke så lett.
 * Bruk tidsur på motor-varmeren så sparer du strøm.
 * Tynnere motorolje skåner motoren i kulda: Spør nærmere om type olje der du har oljeskift. Husk å sjekke oljen regelmessig.
-* Husk isskrape, snøkost, spade og slepetau.
+* Husk is-skrape, snøkost, spade og slepetau.
