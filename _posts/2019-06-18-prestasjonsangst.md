@@ -21,7 +21,7 @@ image_caption: ''
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Ordet angst kommer av det latinske ordet strangulare: Kvele. Og nettopp dette beskriver hva som skjer i kroppen når vi får noe eller mye angst. Vi kan få en fornemmelse av å bli kvelt og da tenker vi at vi skal dø. Og, hjelp, da får vi mer angst og vi fjerner oss fra den situasjonen som den uspesifike frykten oppstod i. Og fra det øyeblikket vi fjerner oss, så kan unngåelsesatferd bli en del av livet vårt.
