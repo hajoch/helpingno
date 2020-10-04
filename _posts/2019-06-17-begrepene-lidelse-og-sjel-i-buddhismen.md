@@ -22,7 +22,14 @@ tags:
 - karma
 - indisk religion
 - filosofi
-title: Begrepene "lidelse" og "sjel" i Buddhismen
+- ikke-sjel
+- realisere sannheten
+- åttefoldige vei
+- medlidenhet
+- hjertets kvaliteter
+- klokskap
+- kunnskap
+title: ' "Lidelse" og "sjel" i Buddhismen'
 excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
   dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
   dukkha.
@@ -70,7 +77,7 @@ Nirvana er hinsides all logikk og tankeforståelse, men kan altså av den vise r
 **Veien til Nirvana**  
 Den veien som fører bort fra lidelsen og til Nirvana, kalles i buddhismen "middelveien" fordi den avverger to ekstremer: Den ene ekstremitet er søken etter lykke gjennom sansenes eller kroppens tilfredsstillelse. Den andre ekstremitet er søken etter lykke gjennom selvydmykelse eller ved forskjellige former for askese.
 
-Buddha erfarte ved egen innsikt denne middelveien, den såkalte åttefoldige vei**,** som gir kunnskap som via meditasjon og leder til ro, innsikt og opplysning m.a.o. Nirvana.
+Buddha erfarte ved egen innsikt denne middelveien, den såkalte åttefoldige vei, som gir kunnskap som via meditasjon og leder til ro, innsikt og opplysning m.a.o. Nirvana.
 
 Denne åttefoldige vei er: Rett anskuelse, rett beslutning, rett tale og rett konsentrasjon. Alle disse kategoriene er svøpt sammen og hver hjelper til å utdype de andre.
 
