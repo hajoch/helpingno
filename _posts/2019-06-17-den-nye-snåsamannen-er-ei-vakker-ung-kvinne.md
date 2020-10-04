@@ -18,13 +18,14 @@ tags:
 title: 'Healer-Susanne: '
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
-  ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert.
+  ble kjent at hun har evner som Snåsamannen så har pågangen nærmest eksplodert. Oppdatert
+  intervju.
 image: "/assets/images/Sunnamed (2).png"
 image_caption: 'Foto: privat'
 categories:
 - _category/helse.md
-publish_date: 
-weight: 3
+publish_date: 2020-10-03 00:00:00 +0200
+weight: 5
 
 ---
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
