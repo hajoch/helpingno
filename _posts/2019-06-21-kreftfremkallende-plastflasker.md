@@ -24,7 +24,7 @@ image_caption: "Foto Gunnar Christensen. Bruk en glassflaske med skrukork når d
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 4
 
 ---
 Dette rammer også de samme flaskene som brukes til salg av øl, mineralvann og det meste av emballasjen som benyttes til matvarer.
