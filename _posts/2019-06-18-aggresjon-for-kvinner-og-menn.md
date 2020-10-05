@@ -10,6 +10,9 @@ tags:
 - adferd
 - rollemodeller
 - følelser
+- baktale
+- splitt og hersk
+- sladrer til far på ungene
 title: Aggresjon for kvinner og menn
 excerpt: "Når ulven jakter, viser den ikke tegn på aggresjon. Den er intenst opptatt
   av det den holder på med. Jo. Skulle den komme i kamp med en av samme art, så flekker
@@ -21,7 +24,7 @@ image_caption: Foto Gunnar Christensen. Motiv fra Roma
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Og han er ofte fornøyd med det første skopar han får tak i.   
