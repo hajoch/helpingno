@@ -19,7 +19,13 @@ tags:
 - Berit Anfinsen
 - små historier
 - kosen med en godnatthistorie
-title: Aima - Spennende barnebok
+- Henning Jon Grini
+- gratis barnebok
+- norsk eventyrtradisjon
+- Huldra
+- folketro
+- tradisjon
+title: Aima - Spennende barnebok - les den gratis nå
 excerpt: "Aima er ei lita hulder med evner og egenskaper \nsom er mystiske og fremmede
   for mange av oss."
 author: _authors/henning-j-grini.md
@@ -84,4 +90,4 @@ Jeg er opptatt av barn. De er fremtiden. Vi som voksne og foreldre er viktige fo
 "Aima" Spennende barnebok på[ ]()[Aima2pdf.](/assets/images/Aima2pdf.pdf "Aima2pdf.pdf") Les den gratis nå!
 
 **Sponse oss?**  
-Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss på helping-magasinets konto **1506.28.29343**
+Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss med en tier på helping-magasinets konto **1506.28.29343**
