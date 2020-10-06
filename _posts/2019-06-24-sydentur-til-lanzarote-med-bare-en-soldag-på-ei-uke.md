@@ -14,7 +14,7 @@ tags:
 - snyteri
 - Kanariøyene
 - vulkanøy
-title: " Sydentur til Lanzarote med bare en soldag på ei uke"
+title: Lanzarote med bare en soldag på ei uke
 excerpt: 'Forbrukertest: Hotell Iberostar Papagayo Lanzarote. Lanzarote er ikke hva
   det en gang var etter tre besøk. I alle fall ikke når det gjelder været på Playa
   Blanca'
@@ -24,7 +24,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 4
 
 ---
 Dårligere vær rammer nå alle Kanariøyene liksom mange andre steder i verden. Skal du være sikker på å kjenne sommersol på kroppen i vinterhalvåret må du velge andre reisemål.
