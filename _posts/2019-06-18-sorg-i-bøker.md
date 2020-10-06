@@ -23,7 +23,7 @@ publish_date:
 weight: 5
 
 ---
-Boktips får du tak i denne "gamle" boka så les den:
+Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
 
 **Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:**
 
