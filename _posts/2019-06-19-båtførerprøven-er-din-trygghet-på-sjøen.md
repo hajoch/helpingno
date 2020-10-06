@@ -17,7 +17,7 @@ tags:
 - kjøreregler på sjøen
 - grunnkunnskap på sjøen
 - båtvett
-title: Båtførerprøven er vår trygghet på sjøen.
+title: Båtførerprøven - din trygghet på sjøen.
 excerpt: 'Ta hensyn til badende barn og voksne, dyre- og fugleliv og trivsel for alle
   på sjøen: Det betyr bl.a. at du senker farten for kajakk, kano og småbåter samt
   fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en
@@ -29,7 +29,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 3
 
 ---
 Båtførerprøven kan du ta på vår- og høstsemester de fleste steder her i landet. Denne "båtlappen" gir ikke bare rabatt på båtforsikringen. Viktigst er at du får en tryggere ferdsel på sjøen når du kan orientere deg etter et båtsportkart, kjenne sjøens staker, kjøreregler, vikeplikt, fart, ferdsel - kort sagt trafikkregler på sjøen.
