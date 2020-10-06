@@ -19,9 +19,11 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 4
+weight: 3
 
 ---
+Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
+
 Vi drømmer hver natt, selvom vi ikke alltid husker hva vi har drømt. Når vi våkner etter en god natts søvn har vi drømt flere drømmer. I disse drømmene ligger kimen til vår egen selvutvikling og selvforståelse, hevder Fontana som er professor i psykologi og har produsert flere bøker om dette emnet.
 
 Til alle tider har mennesket interessert seg for drømmetydning. Interessen for bøker om drømmetydning er nå stigende og flere bøker er på markedet om dette tema.
