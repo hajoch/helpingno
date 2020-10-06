@@ -15,7 +15,7 @@ tags:
 - film
 - magnet
 - psykologi
-title: '"Hemmeligheten"   Oppskriften på det gode liv'
+title: '"Hemmeligheten". Loven om tiltrekning'
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
@@ -28,7 +28,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
 publish_date: 
-weight: 3
+weight: 4
 
 ---
 Filmen fokuserer på hvor viktig tankene våre er med hensyn på  
