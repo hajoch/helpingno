@@ -23,6 +23,8 @@ publish_date:
 weight: 5
 
 ---
+Boktips får du tak i denne "gamle" boka så les den:
+
 **Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:**
 
 * Elisabeth Kübler-Ross: "Døden er livsviktig  
@@ -50,8 +52,8 @@ Les også: [Sorgbearbeidelse](http://www.helping.no/sorgbearbeidelse.htm)
 
 Litteratur
 
-*  "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
-*  "Arbeid og lykke", H.H. Dalai Lama/Howard C. Cutler, Damm 2004
+* "Kunsten å være lykkelig. En håndbok i å leve", H.H. Dalai Lama/Howard C. Cutler, Arneberg Forlag AS 1999
+* "Arbeid og lykke", H.H. Dalai Lama/Howard C. Cutler, Damm 2004
 * "Resten er taushet. Skisser om døden", Finn Carling,  
   Gyldendal Norsk Forlag 1973
 * Sogyal Rinpoche: "Den Tibetanske boken om livet og døden"  
