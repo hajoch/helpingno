@@ -25,10 +25,12 @@ publish_date:
 weight: 2
 
 ---
+Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
+
 **Marlo Morgan: Det virkelige folket,**  
 **Gyldendal Norsk Forlag 1995 og senere.**
 
- Forfatteren har vandret sammen med aboriginer-stammen som kaller seg "Det virkelige folket" i 120 dager. Gjennom Australias villmark og ørken. Hennes beretninger om dette ukjente folkets kultur og tro er enestående. På grensen til det utrolige.
+Forfatteren har vandret sammen med aboriginer-stammen som kaller seg "Det virkelige folket" i 120 dager. Gjennom Australias villmark og ørken. Hennes beretninger om dette ukjente folkets kultur og tro er enestående. På grensen til det utrolige.
 
 Forfatteren er amerikiansk, kvinnelig lege i 50-årne. Kommet til Australia for å arbeide med et helseforebyggende prosjekt. Hun kommer i kontakt med unge mennesker fra aborginer-stammen og hjelper dem. Som takk blir hun invitert til et møte med stammen i den australske villmarken. Møtet med aborginer-stammen blir en underlig opplevelse. Et vendepunkt i hennes liv. De utroligste ting skjer både på det fysiske og åndelige plan i løpet av vandringen.
 
