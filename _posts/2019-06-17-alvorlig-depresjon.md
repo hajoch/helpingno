@@ -15,6 +15,12 @@ tags:
 - alkoholmisbruk
 - symptom i kroppen
 - kondisjon
+- manisk depresiv
+- selvtillit
+- konsentrasjon
+- frisk luft
+- biltur
+- gåtur
 title: Alvorlig depresjon
 excerpt: 'Mange tenker på depresjon som symptomet tristhet eller senket stemningsleie.
   Og som ved feber er tristhet noe som kan måles. I Norge gjøres det oftest med et
@@ -24,7 +30,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Men som ved feber kan tristhet være tegn på mange sykdommer med varierende alvorlighetsgrad. 25 prosent av alle kvinner vil rammes av en form for depresjonsykdom i løpet av livet. Personlig tror jeg at mange menn skjuler depresjonen under et alkoholmisbruk slik at det er like mange menn får en slik sykdom.
