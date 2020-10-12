@@ -13,7 +13,7 @@ tags:
 - sponsing
 - frilansere hos helping.no
 - utviklingshjelp
-title: Redaksjonen
+title: Redaksjonen i helping.no
 excerpt: |2+
 
   Helping-teamet presenter et bredt tilbud av
@@ -38,7 +38,7 @@ E-post redaksjonen: helping.red@gmail.com
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Ansv. redaktør, styreformann og gründer  
-Utdannet cand.philol/master i religionsvitenskap  
+Utdannet cand.philol/master i religionsvitenskap med økonomi og media-sosiologi som støttefag.  
 Lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
@@ -81,7 +81,7 @@ Utdannet Lege og psykiater
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf  
-Selvstendig næringsdrivende, Militærkaptein i infanteriet  
+Selvstendig næringsdrivende, Pensjonert militærkaptein i infanteriet  
 Utdannet master i sammenliknende politikk fra Universitet i Bergen
 
 [**Andre bidragsytere og leserinnlegg**](https://helping.no/author/leserinnlegg)
