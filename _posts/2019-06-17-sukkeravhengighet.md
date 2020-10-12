@@ -27,8 +27,8 @@ image: "/assets/images/jan.17 (1).jpg"
 image_caption: 'Foto: Gunnar Christensen. Motiv fra Revesand på Tromøy ved Arendal.'
 categories:
 - _category/bolig.md
-publish_date: 2020-08-26 00:00:00 +0200
-weight: 7
+publish_date: 2020-10-12 00:00:00 +0200
+weight: 8
 
 ---
 **Før du inngår avtale**  
@@ -40,7 +40,7 @@ Når du kontakter utleier er det viktig å gi et inntrykk av å være en ryddig 
 
 De fleste utleiere har forhørt seg i nabolaget om hva som er utleiepris. Du bør også orientere deg om prisnivået på den type bolig du søker.
 
-I tillegg til husleie forlanges ofte depositum innbetalt på en bankkonto på begge parters navn. Depositumet kan være et kontantbeløp som utgjør summen av to eller tre husleier. Depositum er utleiers sikkerhet mot skader som kan oppstå eller ved mislighold av leieavtalen. Banken din kan gi råd om depositumkonto og hvordan den opprettes.
+I tillegg til husleie forlanges ofte depositum innbetalt på en bankkonto på begge parter sitt navn. Depositumet kan være et kontantbeløp som utgjør summen av to eller tre husleier. Depositum er utleiers sikkerhet mot skader som kan oppstå eller ved mislighold av leieavtalen. Banken din kan gi råd om depositumkonto og hvordan den opprettes.
 
 Det juridiske ved et leieforhold er vanligvis godt ivaretatt om det brukes kontrakter som den du finner på www.forbrukerportalen.no - se link på denne siden.
 
@@ -78,11 +78,11 @@ Du kan bestille radonmatter i gulvet når du bygger nytt hus. Enkelte hus-produs
 [www.nrpa.no/radon](http://www.nrpa.no/radon)
 
 **Kontrakten**  
-Når du har funnet bostedet bør du sette deg grundig inn i leiekontraktens ordlyd før du signerer den: Les den nye og spør utleier om det er noe som er uklart for deg. Også det med liten skrift og husordensregler må leses nøye. Opplysninger og råd om leiekontrakter kan du finne på
+Når du har funnet bostedet bør du sette deg grundig inn i leiekontrakten og søk råd før du signerer den: Les den nye og spør utleier om det er noe som er uklart for deg. Også det med liten skrift og husordensregler må leses nøye. Opplysninger og råd om leiekontrakter kan du finne på
 
 Sjekk om leiekontrakten avviker fra den standard leiekontrakten som finnes på Forbrukerrådets nettsider og hvorfor den gjør det. Ofte må utleier tilpasse en standard leiekontrakt til det utleieobjektet som han skal leie ut. Merk deg hvor lang oppsigelsestid som avtales. Ofte er dette tre måneder. Dette forplikter begge parter i avtalen.
 
-Gjøres det viktige avtaler som ikke står i kontrakten kan dette tilføyes i kontrakten med håndskrift på begge eksemplarer eller skrives som et vedlegg i to eksemplarer som det henvises til. Det tryggeste er å bassere seg på skriftelige avtaler i leieforhold og å bruke kontrakter utarbeid av Forbrukerrådet.
+Gjøres det viktige avtaler som ikke står i kontrakten kan dette tilføyes i kontrakten med håndskrift på begge eksemplarer eller skrives som et vedlegg i to eksemplarer som det henvises til. Det tryggeste er å basere seg på skriftlige avtaler i leieforhold og å bruke kontrakter utarbeid av Forbrukerrådet.
 
 **Inventarliste**  
 Hvis boligen, leiligheten eller hybelen er møblert så er det en fordel å lage en liste over hvilke møbler som er i leiligheten. Denne listen bør både du som leietaker og utleier signere. Listen kan dokumenteres med bilder av innboet - med særlig vekt på eventuelle skader eller slitasje. Ta flere bilder slik at det finnes dokumentasjon på inventarets tilstand. En slik liste kan være nyttig når du en gang flytter ut. Etter et lengre leieforhold er det ikke alltid lett å huske hva som tilhører huseier og hva som er eget inventar om det finnes en lett blanding av smått og stort.
