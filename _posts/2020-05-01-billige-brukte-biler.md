@@ -7,8 +7,12 @@ tags:
 - bruktbil
 - billige bruktbiler
 - test
-title: Billige brukte biler - Opel Astra, Toyota Avensis, Peugeots 5008 og Volvo V
-  70,
+- Opel Astra
+- sikkerhet
+- Toyota Avensis
+- Peugteot 5008
+- Volvo V70
+title: Brukte biler - Opel Astra, Toyota Avensis, Peugeots 5008 og Volvo V 70,
 excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Her
   gjengir vi testet fra 2008 - 2013. '
 image: "/assets/images/superb035.jpg"
@@ -18,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 7
+weight: 6
 
 ---
 Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir er betydelig dyrere å skifte. Som bruktbil er biler med fossilt drivstoff tryggere. Tenk deg en brukt El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
