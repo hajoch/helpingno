@@ -13,7 +13,7 @@ tags:
 - helseopplysninger
 - privatliv?
 - identitetstyveri
-title: Du overvåkes - har vi privatliv i vår tid?
+title: Har vi privatliv i vår tid?
 excerpt: Er vårt personvern gått tapt? Tenker du over at du blir overvåket hver dag
   i ditt dagligliv? På gatehjørner står kameraer og overvåker deg i gatene. Når du
   kjøper varer registrerer banken og kredittkort-selskapet hver enkelt vare du kjøper,
