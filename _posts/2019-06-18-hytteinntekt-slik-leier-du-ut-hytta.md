@@ -17,7 +17,7 @@ tags:
 - ta bilder for å dokumentere leiekontrakt
 - markedsføring
 - " skatt ved utleie"
-title: 'Hytteinntekt: Slik leier du ut hytta - husk radonmåling'
+title: Slik leier du ut hytta.
 excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En
   inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering
   av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.
@@ -25,8 +25,8 @@ image: "/assets/images/hytte1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
-publish_date: 2020-06-06 00:00:00 +0200
-weight: 7
+publish_date: 
+weight: 8
 
 ---
 Er ikke hytta fin nok? Vær klar over at det er et marked for hytter med alle type standarder. Fra de helt enkle til den best utstyrte. Behovene for rekreasjon varierer fra meneske til menneske og fra familie til familie. Vær også klar over at utenlandske statsborgere også etterspør utleiehytter. De har kanskje andre preferanser enn nordmenn både med hensyn på tidspunkt fr leie, beliggenhet og standard.
@@ -70,7 +70,7 @@ Husk at utleie ofte krever avtale med forsikringsselskapet. Det blir ofte litt h
 Se over hytta før utleie og fjern eiendeler som er uerstattelige for seg: Som ting du har arvet eller gjenstander som har minneverdi.
 
 **Skatt**  
-Økonomien i utleie er også avhengig av de skattemessige forhold ved utleievirksomheten. Ditt lokale likningskontor [www.skatteetaten.no](http://www.skatteetaten.no/) eller nettstedet [www.skatt.no](http://www.skatt.no/) kan gi deg opplysninger om skatteregler som gjelder for utleie.
+Økonomien i utleie er også avhengig av de skattemessige forhold ved utleievirksomheten. Ditt lokale likningskontor [www.skatteetaten.no](http://www.skatteetaten.no/) kan gi deg opplysninger om skatteregler som gjelder for utleie.
 
 **Kontrakten**  
 Bruk en kontrakt som du vet er godkjent og juridisk oppdatert. Last ned en kontrakt som gjelder leieforhold og lag tilpasninger som gjelder for denne type korttidsleie.
