@@ -18,7 +18,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 3
+weight: 2
 
 ---
 Bruktbil - Kia Carens: - Bedre design
@@ -26,6 +26,8 @@ Bruktbil - Kia Carens: - Bedre design
 Kias største salgsargument nå er 7 års nybilgaranti. På NCAP sikkerhets-rating har nye Carens i september 2013 krøpet opp til 5 stjerner:  
 [http://www.euroncap.com/results/kia/carens/527.aspx](http://www.euroncap.com/results/kia/carens/527.aspx "http://www.euroncap.com/results/kia/carens/527.aspx")  
 Og det er som det skal være på en nyere modell.
+
+Tidligere KIA modeller har dårlig rykte og har fått tilnavnet "Koreansk Industri Avfall". Denne er forhåpentlig bedre:
 
 Testbilen har 1,7 liters dieselmotor på 115 hk med 6-trinns girkasse: Ikke sprek, men grei, stillegående motor som passer til denne bilen som har god støydemping. Litt følsom på rattet? Ja, av og til skjelver Carens litt på rattet muligens på grunn av dårlig asfaltdekke, men jevnt over er den stillegående, behagelig og lettkjørt.
 
@@ -37,7 +39,7 @@ En stor andel av dødsulykker i stasjonsvogner og flerbruksbiler skyldes usikret
 
 Demobilen er helt sort inni. Det føles som å sette seg inn i en mørk kjeller. Heldigvis finnes noen lysere innredningsalternativer i salgsbrosjyren. Som kjent virker mørke farger på bilinnredning slik at bilen føles mindre enn den egentlig er.
 
-Xenonlysene sammen med kurvelys gir tryggere mørkekjøring og øker sikkerheten. Praktfullt. Det triste er at du må opp i den dyreste varianten "Exclysive Plus" for å få dette utstyret. Det er også trist at det 2-soners klima-anlegget ikke er standard på denne bilen.
+Xenonlysene sammen med kurvelys gir tryggere mørkekjøring og øker sikkerheten. Praktfullt. Det triste er at du må opp i den dyreste varianten "Exclysive Plus" for å få dette utstyret. Det er også trist at det 2-soners klimaanlegget ikke er standard på denne bilen.
 
 Bilen finnes også i bensinutgave med 135 hk. 1,6 liter med 6-trinns manuell girkasse. Den kraftigste motoriseringen får du med 136 hk. 1,7 liters diesel, men den leveres kun med 6-trinns automatgir.
 
@@ -45,7 +47,7 @@ Dette er en betydelig forbedring fra tidligere Kia Carens. Er også den tekniske
 
 ![](/assets/images/kia1.jpg)
 
-Foto: Christoffer Jore Christensen  
-  
+Foto: Christoffer Jore Christensen
+
 **2013 Kia Carens**  
-ECO dynamics, i beste utstyrsvariant Exclusive,  Plus med el. panoramatak med sol-gardin, xenonlys med kurvelys, navigasjon, klima, skinnseter med varme og kjøling m.m., Motoren er 115 hk/1,7-liter diesel og manuell 6-trinns girkasse.
+ECO dynamics, i beste utstyr-variant Exclusive,  Plus med el. panoramatak med sol-gardin, xenonlys med kurvelys, navigasjon, klima, skinnseter med varme og kjøling m.m., Motoren er 115 hk/1,7-liter diesel og manuell 6-trinns girkasse.
