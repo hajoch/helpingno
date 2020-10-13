@@ -27,7 +27,7 @@ weight: 4
 
 Octavia virker godt skrudd sammen, solid og forutsigbar. Den ligger behagelig på veien. Kjøreopplevelsen er behagelig. Setene er gode med manuell regulerbar korsryggstøtte. Regulerbar korsryggstøtte er standard på alle modeller hvilket er avgjørende for god sittekomfort.
 
-Octavia er pris-gunstig. Særlig sammenliknet med 4x4-modellene hos andre bilmerker i samme størrelse. Octavia er bygd på Golf understell, men er betydelig romligere Golfen.
+Octavia er pris-gunstig. Særlig sammenliknet med 4x4-modellene hos andre bilmerker i samme størrelse. Octavia er bygd på Golf understell, men er romligere enn Golf.
 
 Det store spørsmålet på alle VAG biler inklusive Skoda er imidlertid rustproblemet.
 
