@@ -21,11 +21,11 @@ excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankeg
   "fastfood" som pølser, hamburgere, "frites", sjokolade etc. - altså sunnere vaner.
   For mange er det tilstrekkelig slankekur å kutte ut brus, cola og søtsaker som gotteri
   og kaker: Kutt ut sukkersaker!'
-image: "/assets/images/trille4.jpg"
-image_caption: Foto Christoffer Jore Christensen. Helping-maskoten skogskatten "Trille".
+image: "/assets/images/healing2-1.jpg"
+image_caption: 'Foto Gunnar Christensen. '
 categories:
 - _category/helse.md
-publish_date: 2020-04-24 00:00:00 +0200
+publish_date: 
 weight: 8
 
 ---
