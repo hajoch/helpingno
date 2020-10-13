@@ -27,7 +27,7 @@ categories:
 image: "/assets/images/juli.01[1].JPG"
 crop_image: true
 publish_date: 
-weight: 7
+weight: 5
 image_caption: "Gjessøya ved Hove utenfor  Arendal. \nfoto: Gunnar Christensen"
 
 ---
