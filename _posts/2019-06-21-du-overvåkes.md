@@ -13,7 +13,7 @@ tags:
 - helseopplysninger
 - privatliv?
 - identitetstyveri
-title: Du overvåkes
+title: Du overvåkes - har vi privatliv i vår tid?
 excerpt: Er vårt personvern gått tapt? Tenker du over at du blir overvåket hver dag
   i ditt dagligliv? På gatehjørner står kameraer og overvåker deg i gatene. Når du
   kjøper varer registrerer banken og kredittkort-selskapet hver enkelt vare du kjøper,
@@ -71,7 +71,7 @@ Fastlegene sviktet pasientenes personvern da de i 2012 godtok e-reseptene: Godta
 [http://tidsskriftet.no/article/2926587/](http://tidsskriftet.no/article/2926587/ "http://tidsskriftet.no/article/2926587/")
 
 **På utenlandsreiser er sikkerhet viktig**  
-Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker over i Norge. Når du ferierer i utlandet eller jobber der i kortere eller lengre tid så sjekk råd om sikkerhet. PST har utarbeid pdf-brosjyrer med råd til deg om sikkerhet og mobilbruk i utlandet: [www.pst.politiet.no](http://www.pst.politiet.no/)
+Andre land har andre utfordringer på sikkerhet som vi ikke vet eller tenker over i Norge. Når du ferierer i utlandet eller jobber der i kortere eller lengre tid så sjekk råd om sikkerhet. PST gir råd til deg om sikkerhet og mobilbruk i utlandet.
 
 **"Vidunderlige nye verden"**  
 To bøker advarte mot overvåkningssamfunnet: Aldous Huxley utga boka "Vidunderlige nye verden" som kom alt i 1932, mens George Orwells bok "1984" kom i 1949. Begge bøkene kom i norsk oversettelse.
@@ -84,9 +84,9 @@ Hva har skjedd? Har vi beskyttet oss godt nok mot å bli overvåket? Hvorfor har
 
 Tidligere stilte personer fra gallupundersøkelser opp på døra di. Viste fram legitimasjon og spurte om du var villig til å svare på spørsmål. Krysset så dine svar av på skjemaer og gikk. Nå foregår nesten alle gallupundersøkelser pr. mobiltelefon eller epost.
 
-Telefonhenvendelser sms og epost fra gallupinstituttene identifiserer seg i dag ikke på annen måte enn ved å utgi seg for å være fra et gallupinstitutt.
+Telefonhenvendelser sms og epost fra gallup-instituttene identifiserer seg i dag ikke på annen måte enn ved å utgi seg for å være fra et gallupinstitutt.
 
-Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvernproblem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
+Flere spørsmål kan være av personlig og intim karakter. For oss forbrukere oppstår da et personvern-problem: Fordi du nå ikke har samme vern som tidligere med en personlig utspørrer hos deg med taushetsplikt.
 
 * Er dette virkelig en seriøs gallupundersøkelse eller en useriøs?
 * Kanskje ringer eller sender en person og gir seg ut for å være fra et gallupinstitutt, men er egentlig ute etter dine personlige helseopplysninger, politiske oppfatninger og andre meninger med den hensikt å misbruke dette?
@@ -96,4 +96,4 @@ Og om slik henvendelse er etter boka slik det praktiseres nå: Hva med datasikke
 Vi har blitt slappere med å verne om vårt privatliv nå.  
 Hvilke konsekvenser har det?
 
-Ikke å svare på slike galluphenvendelser fordi det ligger et personvernproblem i dette og du trenger ikke svare. Det er lov å si NEI..
+Ikke å svare på slike gallup-henvendelser fordi det ligger et personvern-problem i dette og du trenger ikke svare. Det er lov å si NEI..
