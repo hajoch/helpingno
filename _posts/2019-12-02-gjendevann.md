@@ -11,7 +11,13 @@ tags:
 - Besseggen
 - Turistmagnet
 - fjellvandring
-title: Vakre Gjendevann i Jotunheimen.
+- naturopplevelse
+- fjelluft
+- båttur på Gjendevann
+- Turist-foreningens hytter
+- " vakreste fjellandskap"
+- 'friluftsliv '
+title: Gjendevann i Jotunheimen.
 excerpt: FOTO fra Gjendevann ved Besseggen - en av Jotunheimens mest populære naturperler.
 image: "/assets/images/gjende4.jpg"
 image_caption: 'Gjendevann i Jotunheimen: Foto Gunnar Christensen'
@@ -19,7 +25,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 ![](/assets/images/gjende3.jpg)
