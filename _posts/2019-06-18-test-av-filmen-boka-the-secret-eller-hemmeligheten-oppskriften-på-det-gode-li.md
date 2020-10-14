@@ -15,7 +15,7 @@ tags:
 - film
 - magnet
 - psykologi
-title: '"Hemmeligheten". Loven om tiltrekning'
+title: " Loven om tiltrekning"
 excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer med flere
   konkrete forslag til hvordan du kan bedre din livskvalitet. Dette er en film og
   ei bok du kommer i godt humør av. Ikke fordi det er en komedie - det er den slett
@@ -23,12 +23,12 @@ excerpt: '"The Secret" påstår å være oppskriften på det gode liv og kommer 
   følelsenes betydning for våre liv. Her får du flere gode ideer om hvorledes du kan
   påvirke ditt dagligliv og din fremtid. Men forteller "The Secret" hele sannheten?
   Bokanmeldelse.'
-image: "/assets/images/healing2.jpg"
-image_caption: Foto Gunnar Christensen
+image: "/assets/images/tiny_secret.jpg"
+image_caption: ''
 categories:
 - _category/boker.md
 publish_date: 
-weight: 4
+weight: 2
 
 ---
 Filmen fokuserer på hvor viktig tankene våre er med hensyn på  
