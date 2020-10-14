@@ -22,7 +22,7 @@ author: _authors/odd-m-lunde.markdown
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 Lov om sosiale tjenester (sosialtjenesteloven) er ei lita lefse av en lov. Men den rommer en paragraf (6-2) som kunne redde flere liv enn mange store bestemmelser. Denne loven gir hjemmel for å tvangsplassere rusavhengige i inntil tre måneder med låst dør. Hvert enkelt fylke skal sørge for at det er et egnet sted med ledige plasser.
