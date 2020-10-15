@@ -14,7 +14,7 @@ tags:
 - forsikring
 - legater
 - kreative løsninger
-title: 'Student i Oslo: Boligjakten'
+title: 'Boligjakten. Student i Oslo? '
 excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordring.
   Da begynner jakten på et sted å bo. For første gang skal du bo "borte". Brutalt
   nok har du ikke fartstid nok til å få deg et krypinn på SiO/Samskipnadens subsidierte
@@ -26,7 +26,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Seniorstudentene flytter inn i de mest attraktive utleieobjektene til SiO, mens du som ny i Oslo stiller svakest. Det hjelper deg lite at det har vært klaget i generasjoner på at regjeringen gjør for lite for å løse studentenes boligkrise. Regjeringen har sviktet deg. Alt da du ble født var regjeringen klar over hvor mange som ville trenge studentbolig nå. Likevel er lite gjort for å hjelpe deg.
