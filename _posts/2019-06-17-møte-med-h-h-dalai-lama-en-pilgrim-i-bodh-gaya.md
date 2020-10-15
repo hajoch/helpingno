@@ -22,11 +22,11 @@ tags:
 - pilgrimmer
 - Levende Buddha
 - reinkarnasjon
-title: 'Dalai Lama: Nobel-fredspris-vinner som en pilgrim i Bodh Gaya. '
+title: 'Dalai Lama: Nobel-fredsprisvinner:'
 excerpt: |-
-  - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dalai Lama fikk Nobels fredspris i 1969.
+  - Viktigere enn å tro på igjenfødsel eller Gud, er å praktisere brorskap og nestekjærlighet. Å hjelpe andre vesener - mennesker og dyr. Dette sier Dalai Lama som en pilgrim i Bodh Gaya. Han fikk Nobels fredspris i 1969.
 
-  En reise til Bodh Gaya, India med audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske klosteret.
+  En reise til Bodh Gaya, India med æren av å få audiens hos Hans Hellighet den 14 Dalai Lama i det lokale tibetansk-buddhistiske klosteret.
 image: "/assets/images/dalailama11.jpg"
 image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
@@ -35,7 +35,7 @@ image_caption: Gunnar Christensen (foto) reiste i 1979 sammen med en gruppe euro
 categories:
 - _category/religion.md
 publish_date: 
-weight: 3
+weight: 5
 
 ---
 **Dette møte er ti år før H.H: Dalai Lama blir Nobelprisvinner.**
