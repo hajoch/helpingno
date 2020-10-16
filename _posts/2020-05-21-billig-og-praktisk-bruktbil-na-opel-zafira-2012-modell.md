@@ -6,7 +6,7 @@ tags:
 - Bil
 - " flerbruksbil"
 - Opel Zafira
-title: Billig og praktisk bruktbil nå - Opel Zafira 2012 modell
+title: Bruktbil - Opel Zafira 2012 modell
 excerpt: 'Vi testet denne bilen som ny: Se hva vi skrev den gang. Opel har med sin
   2012-modell brettet opp ermene og bygd en helt ny og tiltalende flerbruksbil - ikke
   bare en facelift som hos Ford og Volkswagen. Nye Opel Zafira er blitt større og
@@ -17,7 +17,7 @@ author: _authors/hallvard-j-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 2
 
 ---
 Opel har med sin 2012-modell brettet opp ermene og bygd en helt ny og tiltalende flerbruksbil - ikke bare en facelift som hos Ford og Volkswagen. Nye Opel Zafira er blitt større og forhåpentlig bedre.
