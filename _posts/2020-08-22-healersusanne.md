@@ -10,8 +10,8 @@ tags:
 - psykiske plager
 - veiledning
 - tanker
-title: 'Healersusanne - søk oppdatert versjon på:'
-excerpt: "\n"
+title: 'Healersusanne -  oppdatert versjon under bildet:'
+excerpt: "\n\n"
 image: "/assets/images/susanne.jpg"
 image_caption: Privat foto
 author: _authors/gunnar-christensen.md
@@ -21,7 +21,6 @@ publish_date:
 weight: 1
 
 ---
-
 Se nytt oppdatert intervju på side:
 
-[https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne](https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne "https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne")
+[https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne]()
