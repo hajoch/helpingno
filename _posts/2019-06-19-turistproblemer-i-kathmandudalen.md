@@ -21,7 +21,7 @@ excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tiggin
   lavtlønnsgrupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
   og velger tigging fremfor håndberksfag og skole: Da må vi turister tenke oss om.'
 image: "/assets/images/trommer.jpg"
-image_caption: Nepalesiske bønder med sinekarakteristiske trommer kalt Dhimey. Postkort
+image_caption: Nepalesiske bønder med sine karakteristiske trommer kalt Dhimey. Postkort
   kjøpt i Nepal
 categories:
 - _category/reise.md
