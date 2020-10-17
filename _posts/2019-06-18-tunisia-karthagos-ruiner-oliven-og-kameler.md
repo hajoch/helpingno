@@ -29,7 +29,7 @@ image_caption: Foto Gunnar Christensen. Araberfesser er stedets mest brukte hode
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 **Karthago var en gang en stormakt. Nå er her stille...**
