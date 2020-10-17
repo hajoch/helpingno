@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 1
 
 ---
 Vakre Roma har beholdt sin egenart. Her finnes ikke husfasader i glass og betong i sentrum. Skjønnhet preger byens arkitektur og kunst. Innbyggerne er stolte av byen og med rette.
