@@ -23,4 +23,4 @@ weight: 1
 ---
 Se nytt oppdatert intervju på side:
 
-[https://helping.no/den-nye-sn%C3%A5samannen-er-ei-vakker-ung-kvinne]()
+[https://app.forestry.io/sites/afjoa9tu1jlglg/#/pages/_posts-2019-06-17-den-nye-snasamannen-er-ei-vakker-ung-kvinne-md/](https://app.forestry.io/sites/afjoa9tu1jlglg/#/pages/_posts-2019-06-17-den-nye-snasamannen-er-ei-vakker-ung-kvinne-md/ "https://app.forestry.io/sites/afjoa9tu1jlglg/#/pages/_posts-2019-06-17-den-nye-snasamannen-er-ei-vakker-ung-kvinne-md/")
