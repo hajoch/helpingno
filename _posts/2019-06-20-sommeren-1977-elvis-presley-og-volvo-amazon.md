@@ -24,7 +24,7 @@ image_caption: Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybi
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Sommeren er i støtet og frister til biltur ut av byen. Vi svinger ut av Oslo sydover E6 i min lysegule Volvo Amazon med lys brune seter og interiør i skystoff. Bilradioen har til og med noe så moderne som en kassettspiller og en ladning kassetter ligger spilleklare i dashbordet.
