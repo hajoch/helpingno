@@ -25,7 +25,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 **Retro fra 1960-tallet**  
