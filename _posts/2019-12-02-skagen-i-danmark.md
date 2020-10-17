@@ -16,7 +16,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 ![](/assets/images/skagen.jpg)
