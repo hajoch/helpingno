@@ -13,16 +13,17 @@ tags:
 - Honda
 - snørydding
 - vinterredskap
-title: 'Hydrostat er tingen: Erfaring med MTD og Honda snøfres: '
+title: 'Snøfres: '
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
-  de ulike selgerne: Det er stor forskjell på kvaliteten.'
+  de ulike selgerne: Det er stor forskjell på kvaliteten. Hydrostat er tingen: Erfaring
+  med MTD og Honda snøfres.'
 image: "/assets/images/mtd1.jpg"
 image_caption: ''
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 8
+weight: 9
 
 ---
 På forhånd hører du på råd hos forskjellige forhandlere og ser på priser og antall hestekrefter. Da virker Honda 970 med 8 hk, hjul og manuell start urimelig dyr og har dobbel pris sammenliknet med MTD E640F med like stor motor, 8 hk, hjul, arbeidsbredde 66 cm, med elektrisk start på 230v rett fra stikkontakten. i tillegg har MTDmanual snorstart om du er langt fra strøm
