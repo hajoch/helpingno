@@ -20,9 +20,9 @@ tags:
 - øvelser mot stivhet
 - mykere kropp
 - fin kfin kombinasjon til meditasjon
-title: 'Yoga gir deg mykere, smidigere kropp og et bedre liv '
+title: 'Yoga '
 excerpt: |-
-  Yoga-instruksjoner: Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
+  Yoga-instruksjoner gir deg mykere, smidigere kropp og et bedre liv. Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
 
   Det er problemet med muskelspenninger denne typen Yoga - såkalt Hatha-Yoga- best kan hjelpe deg med. Prinsippet i disse øvelsene er å strekke muskulaturen slik at den blir ledigere og smidigere. Stressknuter løses opp med regelmessig yoga-praksis som gir deg en smidigere kropp.
 image: "/assets/images/y8.jpg"
@@ -30,7 +30,7 @@ image_caption: Øvelse 8
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
-publish_date: 2020-09-27 00:00:00 +0200
+publish_date: 
 weight: 8
 
 ---
@@ -111,8 +111,7 @@ La kroppen kvitte seg med avfallsstoffene. Et godt råd er å pusse tunga hver m
 
 * Christopher S. Kilham: "De fem tibetanske ritene. Fem dynamiske øvelser for helse, energi og styrke"., Hilt &Hansteen 1997 og senere utgaver
 * Selvarajan Yesudian og Elisabeth Haich: "Yoga og Helse", Fabritius 1965 og senere utgaver
-* Andries J. Kroese: "Stress, meditasjon, yoga, avspenningsteknikker"  
-  Aschehoug Selvutvikling, 7 opplag 2010 og senere utgaver.
+* Andries J. Kroese: "Stress, meditasjon, yoga, avspenningsteknikker", Aschehoug Selvutvikling, 7 opplag 2010 og senere utgaver.
 
 Det dukker stadig opp nye bøker om yoga. Listen er ikke oppdatert på den store mengde bøker om yoga på markedet. Ta en tur til biblioteket eller bokhandelen og velg den boken som tiltaler deg med hensyn på hvilke øvelser som passer deg, hvilken presentasjon og profil boken har og passer ditt behov. Velg fortrinnsvis bøker om Hatha-Yoga hvis du vil praktisere slike øvelser som vist her.
 
