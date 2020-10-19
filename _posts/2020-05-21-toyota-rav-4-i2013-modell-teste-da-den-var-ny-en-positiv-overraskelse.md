@@ -6,8 +6,9 @@ tags:
 - Toyota Rav 4
 - " SUV"
 - billig bil
-title: 'Toyota RAV 4 - 2013 modell testet da den var ny - nå er den billigere : En
-  positiv overraskelse'
+- Toyota
+- 4 x 4
+title: Toyota RAV 4 - 2013
 excerpt: 'Toyotas RAV 4 er en positiv overraskelse. Kjøreopplevelsen er betydelig
   bedret og størrelsen økt i forhold til eldre modeller. Utslaget kom raskt på salgs-statistikken:
   Er ny bestselger er blitt til på bekostning av Toyotas Avensis som nå taper salg.
@@ -20,7 +21,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 6
+weight: 4
 
 ---
 Testbilen er en diesel 151 hk firehjulstrekker med manuell 6-trinns girkasse i "Executive" den best utstyrte modellen. Dette innbefatter takluke, el. førersete, DAB-radio, skinnseter og cruise control for å nevne noe. "Executive" gir også mulighetere for penere farger på interiøret - for standard er grått, sort og trist.
