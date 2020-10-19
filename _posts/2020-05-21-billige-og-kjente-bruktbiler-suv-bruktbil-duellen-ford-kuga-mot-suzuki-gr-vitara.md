@@ -5,10 +5,10 @@ crop_image: true
 tags:
 - SUV
 - " Kuga"
-- FOrd
 - Suzuki VItara
-title: '10 år gamle og kjente bruktbiler: SUV-bruktbil-duellen - Ford Kuga mot Suzuki
-  Gr Vitara'
+- Ford
+- Grand Vitara
+title: Gamle SUV-bruktbil-dueller
 excerpt: Suzuki Grand Vitara og Ford Kuga er ganske like i pris og begge er meget
   pene og populære biler, men der stopper mye av likheten.Det er under prøvekjøring
   du merker hvilken som er best.
