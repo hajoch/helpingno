@@ -14,7 +14,7 @@ tags:
 - eget hjelpeprosjekt
 - flom
 - flomoffer trenger spesialbygd boli
-title: Humanitær hjelp rettet mot barn er et viktig og avgjørende fredsarbeid
+title: Humanitær hjelp til barn er et viktig og avgjørende fredsarbeid
 excerpt: Besøker du utviklingsland kan det være en ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
   måte - med hensyn på å hjelpe dem økonomisk?
@@ -23,8 +23,8 @@ image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk til
   døde for noen år tilbake. Han ble kjent bl.a. gjennom helping.no sine spalter .'
 categories:
 - _category/hjelpearbeid.md
-publish_date: 2020-04-18 00:00:00 +0200
-weight: 4
+publish_date: 
+weight: 5
 
 ---
 Eget hjelpeprogram? Du blir nesten alltid lurt.
