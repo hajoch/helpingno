@@ -9,6 +9,7 @@ tags:
 - Blokhus
 - sandstrand
 - kjøre bil på stranden
+- vestkysten av Danmark
 title: 'Danmark Blokhus strand '
 excerpt: |-
   FOTO
