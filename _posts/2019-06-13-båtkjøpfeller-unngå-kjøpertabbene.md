@@ -19,7 +19,7 @@ tags:
 - kjøpekontrakt
 - heftelser
 - båtliv
-title: Båtkjøpfeller? Unngå kjøpertabbene
+title: Båtkjøpfeller? Unngå tabbene
 excerpt: "Hvilken båt passer deg best? \nUnngå kjøpertabbene. Har du gjort et raskt
   impulskjøp uten å tenke igjennom ditt behov kan du ha gått i kjøperfella."
 categories:
@@ -27,7 +27,7 @@ categories:
 image: "/assets/images/juli.01[1].JPG"
 crop_image: true
 publish_date: 
-weight: 5
+weight: 7
 image_caption: "Gjessøya ved Hove utenfor  Arendal. \nfoto: Gunnar Christensen"
 
 ---
