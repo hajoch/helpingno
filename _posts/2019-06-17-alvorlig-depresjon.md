@@ -30,7 +30,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 Men som ved feber kan tristhet være tegn på mange sykdommer med varierende alvorlighetsgrad. 25 prosent av alle kvinner vil rammes av en form for depresjonsykdom i løpet av livet. Personlig tror jeg at mange menn skjuler depresjonen under et alkoholmisbruk slik at det er like mange menn får en slik sykdom.
