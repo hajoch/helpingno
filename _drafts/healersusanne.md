@@ -3,11 +3,11 @@ layout: post
 date: 2020-10-19 16:03:36 +0200
 crop_image: true
 tags: []
-title: healersusanne
+title: Healersusanne
 excerpt: ''
 image: "/assets/images/Sunnamed (2).png"
-image_caption: ''
-author: ''
+image_caption: Privat Foto
+author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
 weight: 
