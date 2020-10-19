@@ -7,7 +7,7 @@ tags:
 - bil
 - flerbruksbil
 - koreansk bil
-title: Billig brukt bil nå. Les nybiltesten av Kia Carens i 2013
+title: Billig brukt bil nå. Kia Carens i 2013
 excerpt: Kia har med denne modellen av Carens bygd en helt ny bil. Designet er absolutt
   blitt bedre enn tidligere modell som hadde dårlig rykte - og gikk under navnet "Koreansk
   Industri Avfall".  For design selger. Dette blir en konkurrent til VW Touran og
