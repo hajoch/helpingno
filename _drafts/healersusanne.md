@@ -10,7 +10,7 @@ image_caption: Privat Foto
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
-weight: 
+weight: 4
 
 ---
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
