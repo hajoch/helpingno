@@ -10,7 +10,9 @@ tags:
 - personbil
 - flerbruksbil
 - Store biler
-title: 'Aktuelle bruktbiler i dag? - Ford S-Max og Mondeo fra 2012 :'
+- bruktbiler
+- familiebil
+title: 'Bruktbiler? - Ford S-Max og Mondeo:'
 excerpt: Store flotte biler da vi testet dem nye. Nå er de kanskje i din prisklasse?
 image: "/assets/images/fords1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
@@ -18,7 +20,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 5
+weight: 3
 
 ---
 **Brukt - Ford S-Max: Super, men dyr familiebil**
