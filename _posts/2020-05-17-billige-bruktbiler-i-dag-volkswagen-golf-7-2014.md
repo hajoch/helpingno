@@ -19,7 +19,7 @@ weight: 2
 
 ---
 **Volkswagen Golf 7 - 2014**  
-Et nytt rustproblem? Denne V70 er imidlertid ubrukelig til øvelseskjøring siden håndbrekket betjenes til venstre for rattet.
+Et nytt rustproblem? 
 
 ![](/assets/images/golf70.jpg)
 
