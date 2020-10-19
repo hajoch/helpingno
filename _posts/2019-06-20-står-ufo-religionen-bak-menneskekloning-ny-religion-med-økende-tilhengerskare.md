@@ -31,7 +31,7 @@ tags:
 - pietisme
 - Ernst Benz
 - '"Neue Religionen". '
-title: 'Står UFO-religionen bak menneske-kloning? '
+title: UFO-religionen
 excerpt: |-
   Kloning av menneskebarn i USA og Nederland har tidligere vært i medias søkelys og fokus settes derfor på sekter innen UFO- religionen.
   Ny religion med økende tilhengerskare.
@@ -41,7 +41,7 @@ image_caption: Illustrasjon
 categories:
 - _category/religion.md
 publish_date: 
-weight: 3
+weight: 2
 
 ---
 Hvis en atomkrig skulle ødelegge vår klode, vil vesener fra andre kloder komme oss til hjelp i sine "flygende tallerkener ". Dette hevder tilhengere av "UFO-religionen " som har stor framgang i USA og Europa:
