@@ -15,7 +15,7 @@ tags:
 - intervju med munken Paul
 - Gud i dagliglivet
 - Mont Blanc
-title: " Klosterliv: Nøysomhet og flittig arbeid. Intervju med broder Paul."
+title: " Klosterliv."
 excerpt: I Tamié et fransk kloster i de franske Alpene, har en liten gruppe trapistmunker
   sitt hjem. Det 800 år gamle klosteret er idyllisk plassert på en åskam i vakre naturomgivelser.
   Fra et fjellplatå like ved kan Mont Blanc skimtes i det fjerne - på godværsdager.
@@ -25,7 +25,7 @@ image_caption: "Broder Claude er munk i klosteret Tamie i de franske alpene. \nF
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Fra Albertville, Tamié nærmeste småby, fører en bratt stigning opp til klosteret. Broder Claude, en smilende hjertelig munk, sørger for at gjestene blir fordelt på de mange gjesterommene på Tamié. Med sin imøtekommende gjestfrihet og åpne vesen bidrar han sterkt til å øke trivselen for gjester og brødre. Nå ved julehøytiden har mange gjester søkt klosterets fredelige, kontemplative idyll. Klosterets gjesterom har fullt belegg.
