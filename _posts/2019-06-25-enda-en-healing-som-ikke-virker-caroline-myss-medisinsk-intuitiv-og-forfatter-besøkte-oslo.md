@@ -8,19 +8,19 @@ tags:
 - healing
 - intuitiv
 - forfatter
-title: 'Enda en healing som ikke virker: Caroline Myss "Medisinsk intuitiv" og forfatter
-  besøkte Oslo '
+title: 'Enda en healing som ikke virker: '
 excerpt: 'Caroline Myss er den neste alternative kjendis som har kjøpt seg en globus
   og oppdaget verden utenfor USA:  - Oj, der er det noe som heter Norge. Der bor det
   nordmenn og de har kjøpt mine bøker i årevis og oversatt dem til sitt språk. Og
   i tillegg har de nesten ikke merket finanskriser.'
 image: "/assets/images/myss (1).jpg"
-image_caption: "\nCaroline Myss inntar Oslo Kongressenter. \nFoto Gunnar Christensen"
+image_caption: "\nCaroline Myss \"Medisinsk intuitiv\" og forfatter besøkte Oslo.
+  Caroline Myss inntar Oslo Kongressenter. \nFoto Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 
+weight: 1
 
 ---
 Og vi benker oss i en fullsatt sal på Oslo kongressenter for å høre det kjente og kjære evangelium om at vi selv er skyld i alle våre sykdommer. Ja, alt fra den lille antydning til forkjølelse hos Myss selv til rullestolbrukerne i midtgangen og damen som rasler med krykkene bak meg. Det er vår egen skyld alt sammen.
