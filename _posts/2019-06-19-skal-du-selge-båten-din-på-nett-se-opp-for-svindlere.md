@@ -9,14 +9,14 @@ tags:
 - fremgangsmåte for svindlere
 - ' "Nigeriasvindel"'
 - kriminalitet
-title: Skal du selge båten din på nett? Se opp for svindlere!
+title: Selge båten på nett? Se opp for svindlere!
 excerpt: Innlegg
 image: "/assets/images/batsalg.jpg"
 image_caption: Illustrasjonsfoto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 1
+weight: 2
 
 ---
 **Leserinnlegg av Hans Olsen**
