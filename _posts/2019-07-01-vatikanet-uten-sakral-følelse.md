@@ -11,7 +11,8 @@ tags:
 - pavekirke
 - Roma
 - Vatikanstaten
-title: Vatikanet - Uten sakral følelse
+- kø
+title: Vatikanet - i kø uten sakral følelse
 excerpt: 'Vatikanstaten var det jeg så mest frem til i Roma: Minner fra en sakral
   og fin stemning med messe i vakre Notre Dame-katedralen i Paris før brannen, og
   flere andre katolske kirker ga store forventninger før første møte med Peterskirken.
