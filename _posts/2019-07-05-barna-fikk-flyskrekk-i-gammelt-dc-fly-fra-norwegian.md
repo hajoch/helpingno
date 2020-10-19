@@ -9,7 +9,7 @@ tags:
 - rutefly
 - DC8
 - Boeing 737
-title: Barna fikk flyskrekk i gammelt DC-fly fra Norwegian.
+title: Flyskrekk i gammelt DC-fly fra Norwegian.
 excerpt: Kun det sikreste alternativet er godt nok når hele familien skal til Roma
   i påsken - da prisene er på det høyeste. Norwegian markedsfører seg med nye fly
   og valget ble gjort. Nyere fly betyr mye for sikkerheten og følelsen av trygghet
