@@ -2,7 +2,9 @@
 layout: post
 date: 2020-10-19 16:03:36 +0200
 crop_image: true
-tags: []
+tags:
+- healing
+- alternativ behandling
 title: Healersusanne
 excerpt: Hun heter Susanne Ertsland Askvik og har ingen røtter i Snåsa. Tvert om så
   er hun fra Haugesund og bor i Stavanger hvor hun har egen praksis. Etter at det
