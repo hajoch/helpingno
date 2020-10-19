@@ -8,19 +8,23 @@ tags:
 - hotell
 - Rondane
 - spahotell
-title: Rondane Spa Høyfjellshotell og Hytter nærmest høyfjellet
-excerpt: 'Forbrukertest: Like under tregrensen i Rondane ligger Rondane Spa med vakker
-  utsikt mot høyfjellet. En bygningsmasse som har stått der en stund og som derfor
-  ikke er helt ny, men velholdt og fungerer greit og gir deg muligheter for flotte
-  naturopplevelser både til fots og faktisk også på sykkel helt inn til Rondevassbu.
-  Flere fjelltopper over to tusen meters ved Rondevassbu har høyde som innbyr til
-  spreke naturopplevelser.'
+- tregrensa
+- snaufjellet
+- fjellvandring
+- fjell-sykling
+title: 'Rondane '
+excerpt: "Forbrukertest: \nRondane Spa Høyfjellshotell og Hytter nærmest høyfjellet.
+  Like under tregrensen i Rondane ligger Rondane Spa med vakker utsikt mot høyfjellet.
+  En bygningsmasse som har stått der en stund og som derfor ikke er helt ny, men velholdt
+  og fungerer greit og gir deg muligheter for flotte naturopplevelser både til fots
+  og faktisk også på sykkel helt inn til Rondevassbu. Flere fjelltopper over to tusen
+  meters ved Rondevassbu har høyde som innbyr til spreke naturopplevelser."
 image: "/assets/images/rondanespa.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 6
 
 ---
 Oftest er det hotellet nærmest høyfjellet som tilbyr deg den mest komfortable overnattingen som bad med dusj etc. liksom her. En dusj er ingen selvfølge i høyfjellet og fremstår som rene luksusen til fjellheimen å være.
