@@ -7,7 +7,7 @@ tags:
 - bil
 - flerbruksbil
 - rust
-title: Volkswagen Touran modell 2008
+title: VW Touran  2008
 excerpt: 'Bruktbiltest: :Store rust-problemer og kostbar forsikring. Praktisk bil
   til 5 voksne- med rådyr forsikring. Skal du ha fullverdig sitteplass til 5 voksne
   i bilen har du ikke mye å velge i. For de store stasjonsvognene har en dårlig og
@@ -25,10 +25,8 @@ weight: 1
 ---
 Bruktbiltest over flere år Volkswagen Touran:
 
-Fakta om testbilen:  
-Volkswagen Touran, United. 2008 modell., 2.0 liter med 105 hk fra  
-en firesylindret turbodieselmotor, Drivstofføkonomi:, målt 0,57 liter på mila  
-på langkjøringtest. Sekstrinns manuell girkasse., NCAP-testet med 5 stjerner
+**Fakta om testbilen:**  
+Volkswagen Touran, United. 2008 modell., 2.0 liter med 105 hk fra en firesylindret turbodieselmotor, Drivstofføkonomi:, målt 0,57 liter på mila på langkjøring-test. Sekstrinns manuell girkasse., NCAP-testet med 5 stjerner
 
 Praktisk bil til 5 voksne - med rådyr forsikring
 
@@ -70,8 +68,8 @@ Denne bilen er dyr å forsikre. Ifølge Gjensidige skyldes den høye premien at 
 
 Priseksempelet illustrerer at noe ikke stemmer: Har du bonus på 75%, kjørelengde på km 16.000 årlig + samlerabatt for flere forsikringer må du betale kr. 8.109 årlig hos Gjensidige for denne bilen. Hos Trygg er premien med samlerabatt på denne bilen kr. 8.713 hvis man i tillegg medregner medlemsrabatt for medlemskap i Norsk Journalistlag.
 
-Dette skjer samtidig som merkefohandleren Volkswagen tilbyr Touran-kasko i forsikringsselskapet Enter på samme vilkår, kjørelengde og bonus til kr. 4.150,- om du kjøper bilen hos merkeforhandler, men bare da. Har du kjøpt bil privat eller hos annen forhandler er du utestengt fra denne "normale" prisen.  
-  
+Dette skjer samtidig som merkefohandleren Volkswagen tilbyr Touran-kasko i forsikringsselskapet Enter på samme vilkår, kjørelengde og bonus til kr. 4.150,- om du kjøper bilen hos merkeforhandler, men bare da. Har du kjøpt bil privat eller hos annen forhandler er du utestengt fra denne "normale" prisen.
+
 Er det så mye mindre skaderisiko hvis man kjøper bilen hos merkeforhandleren?
 
 Enda tydeligere blir dette ved å sjekke pris på ett og samme selkap: IF tilbyr deg forsikringspremien på Touran kr. 11.730 på over nevte vilkår, kjørelengde og bonus, mens samme selskap selger deg den samme forsikringen gjennom merkeforhandleren for kr. 4.700,- hvis du kjøper bil der. (Prissammenlikningen er fra 2014)
