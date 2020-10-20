@@ -19,7 +19,7 @@ tags:
 - 3 dagers kuren
 - nøysomt kosthold er bærekraftig
 - helsegevinst
-title: Slankeråd - med to kurer
+title: To slanke-kurer
 excerpt: "Viktigst av alt etter en slankekur er å bedre dine kostholdsvaner i forhold
   til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den
   fort være forgjeves. \nGratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\""
@@ -27,7 +27,7 @@ image: "/assets/images/eple1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
-publish_date: 2020-10-03 00:00:00 +0200
+publish_date: 2020-10-20 00:00:00 +0200
 weight: 8
 
 ---
