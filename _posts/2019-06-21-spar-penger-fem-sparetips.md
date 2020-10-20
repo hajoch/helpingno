@@ -11,7 +11,7 @@ tags:
 - kontanter
 - vaskemiddel
 - resirkulering av ting
-title: 'Spar penger: Fem sparetips'
+title: Fem sparetips
 excerpt: De fleste skulle gjerne sett at de hadde mer penger igjen i slutten av måneden.
   Og det mangler ikke på tips i media og på nettet. Men det avgjørende for å lykkes
   er at du prøver noe du er motivert til. Her presenterer vi fem sparetips, hvorav
