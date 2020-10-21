@@ -40,22 +40,17 @@ Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.
 
 Slik som disse annonsene nederst på våre sider:  
 **Annonser:**  
-[www.nettavisen.no/kredittkort  
-www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
-[https://coinweb.no](https://coinweb.no "https://coinweb.no")
+[www.nettavisen.no/kredittkort](http://www.nettavisen.no/forbruksl%C3%A5n)
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)
 
-Her er 3 like annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
+Her er link annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
 I tillegg velger du hvilken av våre over 200 sider du ønsker å annonsere på.
 
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gies rabatt etter avtale.
+Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.
 
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
-Straks du har mottatt vår tilbakemelding, avtaler vi plasseringen mm.
+![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)
 
-![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)  
-  
-Helping-magasinets konto ved annonseinnbetaling, sponsing mm  
-konto no **1506.28.29343**
+Helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
