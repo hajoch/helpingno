@@ -19,16 +19,17 @@ tags:
 - indeks
 - avgifter
 - markedsverdi
-title: 'Norge straffer penger på bok: Kjøp egen eiendom'
+- pengeplassering
+title: 'Norge straffer penger på bok:'
 excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystemet
   mot deg. Renten belastes skattetrekk som inntekt. Så kommer formueskatten og skatt
-  på renter.
+  på renter. Kjøp egen eiendom
 image: "/assets/images/eiendom.jpg"
 image_caption: Illustrasjon foto Gunnar Christensen
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Du formuebeskattes for 100% av bankinnskuddets formueverdi. Investeringer i eiendom gir sammenligningsvis betydelig lavere formueskatt fordi ligningsverdien for eiendom fremdeles er lavere enn markedsverdien. Beregner du inflasjonsutviklingen inn i dette regnestykke, da taper du penger på å sette pengene i banken når renten er lav. I klartekst betyr dette at pengene blir mindre verd i banken enn om du investerer dem i bolig. Nå har imidlertid finanskriser ført til usikkerhet omkring boligprisen, men på lang sikt er alltid eiendom gunstig.
