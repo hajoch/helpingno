@@ -15,7 +15,7 @@ title: Nikon speilrefleks
 excerpt: "Test: Helping.no har i mer enn 15 år brukt digitalt Nikon D3100 og D3200
   for langtidstest. Mange av bildene våre er tatt med disse testkameraene. Et ypperlig
   kamera sett i forhold til vekt og pris. \n\nMobiltelefonene er nå speilrefleks-kameraets
-  hardeste konkurrent med stadig bedre oblik, redigering, automatikk og fremfor alt
+  hardeste konkurrent med stadig bedre optikk, redigering, automatikk og fremfor alt
   lettere vekt og brukervennlighet. "
 image: "/assets/images/nikondk1.jpg"
 image_caption: Motiv fra Danmark. Foto Gunnar Christensen
