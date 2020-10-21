@@ -12,9 +12,9 @@ tags:
 - systemkamera
 - skarphet i bildet
 title: Nikon speilrefleks
-excerpt: "Test: Helping.no har i mer enn 15 år brukt digitalt Nikon D3100 og D3200
-  for langtidstest. Mange av bildene våre er tatt med disse testkameraene. Et ypperlig
-  kamera sett i forhold til vekt og pris. \n\nMobiltelefonene er nå speilrefleks-kameraets
+excerpt: "Test: Helping.no har i mer enn 15 år bl. a. brukt digitalt Nikon D3100 og
+  D3200 for langtidstest. Mange av bildene våre er tatt med disse testkameraene. Et
+  ypperlig kamera sett i forhold til vekt og pris. \n\nMobiltelefonene er nå speilrefleks-kameraets
   hardeste konkurrent med stadig bedre optikk, redigering, automatikk og fremfor alt
   lettere vekt og brukervennlighet. "
 image: "/assets/images/nikondk1.jpg"
