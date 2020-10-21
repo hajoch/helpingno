@@ -21,9 +21,10 @@ tags:
 - markedsverdi
 - pengeplassering
 title: 'Norge straffer penger på bok:'
-excerpt: Har du plassert sparepenger i banken? Da har du det norske skattesystemet
+excerpt: 'Har du plassert sparepenger i banken? Da har du det norske skattesystemet
   mot deg. Renten belastes skattetrekk som inntekt. Så kommer formueskatten og skatt
-  på renter. Kjøp egen eiendom
+  på renter. Kjøp egen eiendom. Men se opp for piratkommunene langs Sørlandskysten
+  med skyhøy eiendomsskatt: Arendal og Grimstad for å nevne noen.'
 image: "/assets/images/eiendom.jpg"
 image_caption: Illustrasjon foto Gunnar Christensen
 categories:
