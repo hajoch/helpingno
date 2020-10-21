@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-06-21 10:30:30 +0200
+date: 2019-06-21T08:30:30.000+00:00
 crop_image: true
 author: _authors/gunnar-christensen.md
 tags:
@@ -10,7 +10,7 @@ tags:
 - Rust på Volksvagen
 - Golf
 - Volkswagen
-title: Se Volkswagens rustproblemer!
+title: Volkswagens rustproblemer!
 excerpt: Folk i antirust-bransjen har snakket om det lenge.
 image: "/assets/images/rust.vw.jpg"
 image_caption: 'Foto: Tactyl, Arendal'
