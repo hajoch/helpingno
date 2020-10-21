@@ -19,7 +19,7 @@ tags:
 - fortell noe med bildet
 - dybdevirkning i foto
 - mobilfoto
-title: Ta bedre bilder
+title: Bedre bilder
 excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virker slik
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
   gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
