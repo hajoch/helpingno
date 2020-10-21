@@ -15,14 +15,10 @@ tags:
 - olivenlunder
 - magedans
 - marked
-title: Tunisia - Karthagos ruiner, oliven og kameler.
-excerpt: "\"Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet den
-  romerske politikeren Marcus Porcius Cato hvert innlegg han hadde fra talerstolen
-  i Senatet, uansett tema. Og den fønikiske storbyen Kartago ble ødelagt av romerne
-  omkring år 149 f. kr.. Det ser man med selvsyn i ruinene nå over to tusen år senere.
-  Her og der ligger veltede søyler. Rester av murer. Stående søyler. Men det aller
-  meste er dekket med jord og torv. Lite er utgravd. Disse gravhaugene av den engang
-  så stolt handelsstat og militær stormakt skjuler trolig mange hemmeligheter..."
+title: Tunisia
+excerpt: |2-
+   - Karthagos ruiner, oliven og kameler.
+  "Og fremdeles mener jeg at Karthago bør ødelegges.? Slik avsluttet den romerske politikeren Marcus Porcius Cato hvert innlegg han hadde fra talerstolen i Senatet, uansett tema. Og den fønikiske storbyen Kartago ble ødelagt av romerne omkring år 149 f. kr.. Det ser man med selvsyn i ruinene nå over to tusen år senere. Her og der ligger veltede søyler. Rester av murer. Stående søyler. Men det aller meste er dekket med jord og torv. Lite er utgravd. Disse gravhaugene av den engang så stolt handelsstat og militær stormakt skjuler trolig mange hemmeligheter...
 image: "/assets/images/tunis4.jpg"
 image_caption: Foto Gunnar Christensen. Araberfesser er stedets mest brukte hodeplagg
   for far og sønn.
