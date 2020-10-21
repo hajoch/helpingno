@@ -8,6 +8,8 @@ tags:
 - stalking
 - sosialpsykologi
 - plagsom adferd
+- naboplage
+- psykisk lidelse
 title: 'Ta kontakt med politivakta:  Ufarlig stalking'
 excerpt: Du som opplever deg som et offer for en eller noen som forfølger deg, ta
   kontakt med politivakta og spør hva du skal gjøre. Er du redd eller bare litt engstelig,
@@ -19,7 +21,7 @@ image_caption: Illustrasjon. Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
 Selv har jeg fått god hjelp av politiet i et slikt tilfelle for 20 år siden.
