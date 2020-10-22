@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 5
 
 ---
 Mange hoteller har ulik rom standard innen samme resepsjon. Slik også her med et nybygg som har bedre standard enn den eldre del av hotellet. Man får følelsen av høyfjellshotell utifra arkitektur og innredning på den gamle delen. Et innendørs basseng hever inntrykket av standarden.
