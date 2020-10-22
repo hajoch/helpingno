@@ -6,7 +6,8 @@ tags:
 - foto
 - natur
 - naturopplevelser
-- rekreasjon
+- sesonger
+- norsk natur
 title: Sesongene i Norge. FOTO
 excerpt: 'Den vakre naturen har alltid vært vår beste rekreasjonskilde og slik vil
   det alltid være. Så gå ut - se, lukt og føl naturen som gir oss energi på alle tenkelige
@@ -16,7 +17,7 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2020-05-10 00:00:00 +0200
+publish_date: 
 weight: 4
 
 ---
