@@ -8,7 +8,8 @@ tags:
 - stasjonsvogn
 - bruktbil
 - test
-title: Billig bruktbil i dag? Vi nybiltestet denne i 2012
+- VW-konsernet
+title: Skoda Superb 2012
 excerpt: 'Bak rattet i en Skoda Superb blir hukommelsen dårligere: Plutselig husker
   jeg ikke en eneste Skoda-vits. For denne bilen imponerer. VAG-konsernet har maktet
   å bygge opp Skoda fra å være et skjellsord til et kvalitetsprodukt som nå har god
@@ -20,7 +21,7 @@ image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
-weight: 4
+weight: 3
 
 ---
 Skoda Superb stasjonsvogn:
