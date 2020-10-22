@@ -11,7 +11,9 @@ tags:
 - NCAP
 - dieselbil
 - billig bil
-title: 'Volvo V40 modell 2013:  Billig bruktbil nå'
+- kollisjonssikkerhet
+- god bilseter framme
+title: 'Volvo V40 modell 2013:'
 excerpt: |-
   Vi testet denne som ny i 2012. Nå er den en rimelig og god bruktbil. Les vårt førsteinntrykk den gang.
   At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på NCAP-testen alt  i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen flotte kjøreegenskaper og et tiltalende og moderne design.
@@ -20,7 +22,7 @@ image_caption: 'Foto: Christoffer Jore Christensen '
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-05-18 00:00:00 +0200
+publish_date: 
 weight: 7
 
 ---
