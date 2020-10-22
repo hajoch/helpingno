@@ -12,9 +12,10 @@ tags:
 - stasjonsvogn
 title: 'Ford Focus stv 2015.: Langtids bruktbil test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
-  cyl. bensinmotor for langtidstest. Farge Race Red. Som kjent er rød den sikreste
-  fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av
-  Ford Focus for meg er handbrekka: Denne håndbrekka er ikke lengre på nye Focus. '
+  cyl. bensinmotor for langtidstest. Og registerreima skal ikke skiftes før 350.000
+  km. Farge Race Red. Som kjent er rød den sikreste fargen ifølge ulykkesstatistikken.
+  En viktig årsak til å velge denne modellen av Ford Focus for meg er handbrekka:
+  Denne håndbrekka er ikke lengre på nye Focus.'
 image: "/assets/images/focus155.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
