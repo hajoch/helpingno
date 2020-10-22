@@ -18,7 +18,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
 **Sikkerhet**  
