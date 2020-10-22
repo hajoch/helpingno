@@ -22,10 +22,10 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
-Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
+**Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk brukt-bok-markedet.**
 
 **Marlo Morgan: Det virkelige folket,**  
 **Gyldendal Norsk Forlag 1995 og senere.**
@@ -38,11 +38,11 @@ Dette stammefolket som av omgivelsene oppfattes som primitive, har et mer høyts
 
 Hvordan opplever disse folkegrupper oss og vårt livsinnhold? Hvilken rett har vi til å kalle disse skriftløse kulturer for primitive? Er vi kommet i utakt med naturen i oss og omkring oss? Boka gir svar på disse spørsmålene. I tillegg hevder forfatteren at stammefolkets evner ligger latent i ethvert menneske.
 
-Boka har potensiale som en spennende roman, men gir seg i tillegg ut for å ha et budskap til leseren. Det er de Australske urinnvånernes budskap: Vern om naturen og lev i pakt med den på en nøysom måte. Ødelegger vi naturen så ødelegger vi oss selv. Tenk i et evighetspespektiv.
+Boka har potensiale som en spennende roman, men gir seg i tillegg ut for å ha et budskap til leseren. Det er de Australske urinnvånernes budskap: Vern om naturen og lev i pakt med den på en nøysom måte. Ødelegger vi naturen så ødelegger vi oss selv. Tenk i et evighets-perspektiv.
 
 Romanen er anonymisert for å verne dette stammefolket. Men det er en dokumentarhistorie, hevder Morgan.
 
-For den sosialantropoligisk og religionsvitenskapelig interesserte er denne boka en liten perle. Likeledes vil filosofi-interesserte finne nye og spennende tanker.
+For den sosial-antropologisk og religionsvitenskapelig interesserte er denne boka en liten perle. Likeledes vil filosofi-interesserte finne nye og spennende tanker.
 
 Vi vet i utgangspunktet lite om Australias urinnvånere. Lokalt i Australia finnes diskriminerende myter om disse stammefolkene. "Det virkelige folket" korrigerer denne urettferdighet og gir urinnvånerne den omtale og verdighet de fortjener.
 
