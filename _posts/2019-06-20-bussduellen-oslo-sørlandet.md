@@ -10,13 +10,14 @@ tags:
 - reise
 - reiseråd
 title: 'Bussduellen: Oslo-Sørlandet'
-excerpt: '"Underdog" skåret best, men nå har VY oppgradert med flotte nye busser.'
+excerpt: '"Underdog" skåret best, men nå har VY oppgradert med flotte nye busser.
+  Begge har for det meste grei orden på koronareglene.'
 image: "/assets/images/buss.jpg"
 image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
-publish_date: 2020-06-07 00:00:00 +0200
-weight: 3
+publish_date: 
+weight: 4
 
 ---
 Busstrafikken mellom Sørlandet og Oslo har tatt av og "stjålet" mange kunder fra toget og biltrafikken. Kystruten sjøveien er for lengst historie. Det største volumet passasjerer tar bussene og her er flere aktører.
