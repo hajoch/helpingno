@@ -25,7 +25,9 @@ tags:
 - Huldra
 - folketro
 - tradisjon
-title: 'Aima - Spennende barnebok '
+- fantasi
+- alternativ bok
+title: 'Barneboka Aima '
 excerpt: "Aima er ei lita hulder med evner og egenskaper \ndet som er mystiske og
   fremmede for mange av oss."
 author: _authors/henning-j-grini.md
