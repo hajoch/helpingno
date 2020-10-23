@@ -18,7 +18,7 @@ tags:
 - Dorje Ling
 - Sikkim
 - Sir Ashley Eden
-title: Darjeeling::Teens by
+title: Darjeeling Teens by
 excerpt: |-
   En natt klokken fire: Det dundrer på døren.
 
@@ -33,7 +33,7 @@ image_caption: |-
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
 Navnet er tibetansk: Khang Chen Dzod Nga. Fjellet består av syv tinder på samme fjellrygg. Den øverste av dem er Kanchenjunga og dominerer de andre tindene i høyde og berømmelse.
