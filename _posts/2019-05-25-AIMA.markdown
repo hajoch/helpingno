@@ -27,9 +27,11 @@ tags:
 - tradisjon
 - fantasi
 - alternativ bok
+- naturmystikk
 title: 'Barneboka Aima '
 excerpt: "Aima er ei lita hulder med evner og egenskaper \ndet som er mystiske og
-  fremmede for mange av oss."
+  fremmede for mange av oss. Aima er en norsk produksjon ikke oversatt som så mye
+  annet for barn."
 author: _authors/henning-j-grini.md
 weight: 8
 
