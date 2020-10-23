@@ -20,7 +20,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 2019-08-26T22:00:00.000+00:00
-weight: 4
+weight: 3
 
 ---
 Det var en spesiell anledning som skulle feires da vi kjørte bil fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
