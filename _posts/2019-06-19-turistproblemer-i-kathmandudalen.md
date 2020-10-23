@@ -16,10 +16,10 @@ tags:
 - hindutempel
 - Patan
 - Bhadgaon
-title: Turistproblemer i Kathmandudalen, Nepal
+title: Turistproblemer i Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
-  lavtlønnsgrupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
-  og velger tigging fremfor håndberksfag og skole: Da må vi turister tenke oss om.'
+  lavtlønns-grupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
+  og velger tigging fremfor håndverksfag og skole: Da må vi turister tenke oss om.'
 image: "/assets/images/trommer.jpg"
 image_caption: Nepalesiske bønder med sine karakteristiske trommer kalt Dhimey. Postkort
   kjøpt i Nepal
@@ -43,7 +43,8 @@ Pytt, om en blir litt lurt i en handel, så betraktes det helst som uhjelp. Da h
 
 .![](/assets/images/skatter.jpg)
 
-_Foto Gunnar Christensen. Vakre detaljer fra dekorasjonene i tempelbyen Kathmandu._
+_Vakre detaljer fra dekorasjonene i tempelbyen Kathmandu.  
+Foto Gunnar Christensen._ 
 
 Tiggere har sin naturlige plass i et hindusamfunn og fungerer som del av dette også uten turistene: Selv hinduer med små inntekter gir til tiggere fordi dette gir giveren en velsignelse i følge hindutroen.
 
@@ -51,19 +52,19 @@ Selgerne har funnet ut at turistene kan "lures": De betaler overpriser. Dette ti
 
 Dette medfører at de næringer som har med turisme å gjøre i smått og stort blir relativt sett høyinntektsgrupper. Dette medfører igjen at disse får økt sosial anseelse, og en glidning i samfunnssystemet er i gang med endringer av statuser. Flere ønsker å tjene mer og flere prøver seg i turistbransjen.
 
-Turistene og deres velstand vies stor oppmerksomhet, og deres verdiskalaer forplanter seg i nepalerne gradvis, men merkbart. De vestlige ting som moped og kjøleskap etc. settes høyere enn den fine, gamle byggekulturen som råtner bort og forfaller.
+Turistene og deres velstand vies stor oppmerksomhet, og deres verdiskalaer forplanter seg i nepalerne gradvis, men merkbart. De vestlige ting som moped og kjøleskap etc. settes høyere enn den fine, gamle bygge-kulturen som råtner bort og forfaller.
 
-Få kan kjøpe seg vestens ting, men fristelsene er der og økt kriminalitet er et faktum. Vinningsforbrytelsene øker i takt med turistmengden. Turistene har ting: Kameraer, smykker og andre kostbarheter som ligger ufattelig langt borte fra en vanlig nepalesers økonomiske muligheter.
+Få kan kjøpe seg vestens ting, men fristelsene er der og økt kriminalitet er et faktum. Vinningsforbrytelsene øker i takt med turistmengden. Turistene har ting: Kameraer, smykker og andre kostbarheter som ligger ufattelig langt borte fra en vanlig nepaleres økonomiske muligheter.
 
 Poppmusikken har kommet til Kathmandu. Vestens poppmusikk markedsføres og spilles i kafeer og andre offentlige steder. Den gamle lokale folkemusikken bryr ungdommen seg ikke om.
 
 ![](/assets/images/patannepal.jpg)
 
-_Foto Gunnar Christensen: Durbar Square i Patan har mange turstmagneter._
+ _Durbar Square i Patan har mange turstmagneter. Foto Gunnar Christensen:_
 
-Den stolte og vakre byggekulturen i Kathmandudalen har oftest ingen verdi for den jevne nepaleres annet enn at den bidrar til å skaffe stedet turister. Unntak fra dette er hindutempler som er i bruk og ofte uten adgang for turister. Nepal har ikke midler til å redde de mange vakre bygningene med utallige treutskjæringer.
+Den stolte og vakre bygge-kulturen i Kathmandudalen har oftest ingen verdi for den jevne nepaleres annet enn at den bidrar til å skaffe stedet turister. Unntak fra dette er hindutempler som er i bruk og ofte uten adgang for turister. Nepal har ikke midler til å redde de mange vakre bygningene med utallige treutskjæringer.
 
-Landet er fastlåst i et sosialt system som tillater en enorm klasse forskjell. Få rike og utallige fattige på det laveste existensminimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge bygge-kulturen mener mange. Dog det ser smått ut med begge deler.
+Landet er fastlåst i et sosialt system som tillater en enorm klasse forskjell. Få rike og utallige fattige på det laveste eksistens-minimum. Sosiale hjelpetiltak må derfor stå høyere enn å berge bygge-kulturen mener mange. Dog det ser smått ut med begge deler.
 
 Turistene gir Nepal verdifull valuta som landet fordeler etter egen politisk prioritet skala. Turismen er både til fordeler og ulemper for landet. Mange U-land har beslektede problemer og vi besøker dem som turister.
 
