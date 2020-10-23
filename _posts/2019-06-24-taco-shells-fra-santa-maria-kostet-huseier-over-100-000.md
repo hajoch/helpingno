@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Et plutselig og uforutsett innsektangrep på kjøkkenet startet det hele. Straks larvene og den ferdige utviklede tørrfruktmøllen ble oppdaget, ble forsikringsselskapet og Mattilsynet kontaktet. Mattilsynet mottok prøve av insektet og analyserte dette til å være Tørrfruktmøll.
