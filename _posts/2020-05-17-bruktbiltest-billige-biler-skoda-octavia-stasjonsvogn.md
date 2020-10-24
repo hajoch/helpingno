@@ -7,7 +7,7 @@ tags:
 - Skoda
 - bruktbil
 - billigbil
-title: 'Bruktbil - Skoda Octavia 2012 stv:'
+title: 'Skoda Octavia 2012 stv:'
 excerpt: "Skodas bestselger. Her er vår testet da denne den var ny.\n\nSkoda Octavia
   overrasker. Jeg hadde ikke forventet en så god plassfølelse og kjørekomfort. For
   Octavia føles større enn den er. Her er mer storbilfølelse enn i en Golf. Først
@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 3
 
 ---
 **Fakta om testbilen: 2012 Skoda Octavia**  
