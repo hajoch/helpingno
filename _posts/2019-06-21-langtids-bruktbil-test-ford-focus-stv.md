@@ -21,8 +21,8 @@ image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-09-27 00:00:00 +0200
-weight: 5
+publish_date: 2020-10-24 00:00:00 +0200
+weight: 7
 
 ---
 **Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone. Dekktrykk slår inn med feil hver gang du skifter hjul.**
