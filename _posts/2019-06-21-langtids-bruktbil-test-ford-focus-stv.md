@@ -10,7 +10,7 @@ tags:
 - lantidstest
 - bilseter
 - stasjonsvogn
-title: 'Ford Focus stv 2015.: Langtids bruktbil test.'
+title: 'Ford Focus stv 2015.: Langtids test.'
 excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Og registerreima skal ikke skiftes før 350.000
   km. Farge Race Red. Som kjent er rød den sikreste fargen ifølge ulykkesstatistikken.
@@ -25,7 +25,7 @@ publish_date: 2020-09-27 00:00:00 +0200
 weight: 5
 
 ---
-**Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone.**
+**Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone. Dekktrykk slår inn med feil hver gang du skifter hjul.**
 
 Etter tidligere å ha eid over 20 biler derav fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter.
 
