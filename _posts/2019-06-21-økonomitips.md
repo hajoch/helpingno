@@ -24,7 +24,7 @@ image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2020-09-20 00:00:00 +0200
+publish_date: 2020-09-24 00:00:00 +0200
 weight: 8
 
 ---
@@ -69,11 +69,6 @@ Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurder
 hvor du kan gjøre prissammenligning på leverandører av bredbånd.
 
 ***
-
-**Annonser:**  
-[www.nettavisen.no/kredittkort  
-www.nettavisen.no/forbrukslån](http://www.nettavisen.no/forbruksl%C3%A5n)  
-[https://coinweb.no](https://coinweb.no "https://coinweb.no")
 
 ***
 
