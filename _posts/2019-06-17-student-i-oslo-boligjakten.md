@@ -21,8 +21,8 @@ excerpt: Russetiden er historie og universiteter og høyskoler er neste utfordri
   studentboliger. Dette tross fagre ord derfra om prioriteringer av nye studenter.
   Det er for mange studenter som trenger et sted å bo nå. Utenlandsstudentene priorieteres
   foran deg. Behovet for studentboliger er større enn noen gang tidligere.
-image: "/assets/images/stud.jpg"
-image_caption: 'Foto: Gunnar Christensen'
+image: "/assets/images/img_e3463.JPG"
+image_caption: 'Illustrasjonsfoto: Jens Christian Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
