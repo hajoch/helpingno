@@ -11,7 +11,9 @@ tags:
 - regnskogtre
 - USA
 - Sverige
-title: Lønner det seg å  importere båten selv?
+- båtkjøp i utlandet
+- hvordan kjøpe båt i utlandet
+title: Importere båten selv?
 excerpt: Kjøpe båt i Sverige? Importere båt fra USA? Importer AMT fra Finland? Ikke
   kjøp båt med regnskog treverk.
 image: "/assets/images/batimport.jpg"
