@@ -12,7 +12,8 @@ tags:
 - " mittanbud.no"
 - kriminelle på arbeidsmarkedet
 - blikkenslager
-title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
+- Walter Marino Fredriksen
+title: 'Håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: |-
   Slik blir du svindlet på mittanbud.no som tiltrekker
   seg ufaglærte og svindlere uten fagutdannelse: Det
