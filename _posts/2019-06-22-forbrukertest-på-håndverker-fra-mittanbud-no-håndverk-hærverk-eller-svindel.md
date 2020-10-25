@@ -10,6 +10,8 @@ tags:
 - håndverksslurv
 - ufaglært
 - " mittanbud.no"
+- kriminelle på arbeidsmarkedet
+- blikkenslager
 title: 'Forbrukertest på håndverker fra mittanbud.no: Håndverk, hærverk eller svindel?'
 excerpt: |-
   Slik blir du svindlet på mittanbud.no som tiltrekker
@@ -26,7 +28,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 
+weight: 5
 
 ---
 "Håndverker" Walter Marino Fredriksen, Skien krevde betalt for reklamasjon og truet med sin advokat og politianmeldelse:  
