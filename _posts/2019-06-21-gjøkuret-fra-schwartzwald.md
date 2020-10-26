@@ -21,7 +21,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Gjøkuret fra "Schwartzwald" i Syd Tyskland.
