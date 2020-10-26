@@ -13,6 +13,8 @@ tags:
 - Gunnar Christensen
 - barn og dyr
 - barnets verden
+- katt som kosedyr
+- skogskatt
 title: Koffer møter Trille
 excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
   Karamell som kalles Storebrum.
