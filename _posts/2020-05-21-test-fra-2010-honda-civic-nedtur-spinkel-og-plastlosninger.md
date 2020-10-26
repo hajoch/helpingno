@@ -8,10 +8,11 @@ tags:
 - bil
 - bruktbil
 - golfklassen
-title: 'Brukt Honda Civic: Nedtur - spinkel og plastløsninger'
+title: 'Honda Civic 2010: Nedtur '
 excerpt: 'Golf-klasse. Den flotte rødfargen gir et positivt iøyenfallende førsteinntrykk,
   men når vi ser nærmere på bilen, detaljene og prøver den står skuffelsene i kø.
-  At denne bilen skal konkurrere mot VW Golf er en vits: Hvem kjøper dette røklet?'
+  At denne bilen skal konkurrere mot Ford Focus, VW Golf er en vits: Hvem kjøper dette
+  røklet?'
 image: "/assets/images/honda1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
