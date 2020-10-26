@@ -24,12 +24,12 @@ excerpt: Å ta bilder er gøy. Lek deg med kameraet og lær deg hvordan det virk
   at du blir godt kjent med det. Jo mer du leker dess gøyere blir det. Digitalkameraene
   gir deg bildet rett på skjermen så du kan se resultatet og forbedre der og da. Nå
   har mobiltelefoner også fått gode kameraer.
-image: "/assets/images/sept.3.jpg"
+image: "/assets/images/vann.5.gc-1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/reise.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 **Kameravalg**  
