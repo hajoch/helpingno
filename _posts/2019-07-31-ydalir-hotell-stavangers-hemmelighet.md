@@ -28,7 +28,7 @@ image_caption: |-
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2020-10-04 00:00:00 +0200
+publish_date: 2020-10-26 00:00:00 +0100
 weight: 9
 
 ---
