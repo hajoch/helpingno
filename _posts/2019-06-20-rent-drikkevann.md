@@ -11,16 +11,17 @@ tags:
 - forbrukermakt
 - vannkvalitet
 - kommunale rør
+- ren natur
 title: Drikkevann
 excerpt: Rent vann er en forutsetning for god helse. Mange vannverk rundt om i landet
   har for dårlig standard og har fått påtale fra Mattilsynet. Rent vann er det beste
   du kan drikke
-image: "/assets/images/vann.5.gc.jpg"
+image: "/assets/images/nov.15.JPG"
 image_caption: Foto GC
 categories:
 - _category/helse.md
 publish_date: 
-weight: 4
+weight: 5
 
 ---
 Mange vannforsyningssystemer er får dårlige: Gammelt og utdatert ledningsnett under gateplan forsyner vann til store menneskemengder i byene våre. Ofte ligger vann- og kloakkrør side om side. Med alder og rystelser i grunnen fra trafikk over disse rørene er det åpenbart at vann kan bli forurenset på kort varsel og mange kan bli alvorlig syke - noen til og med kronisk syke. Vannskandalene i Oslo (2007) på Askøy (2019) og Bergen (2003) illustrerer hvor viktig rent vann er for folkehelsa.
