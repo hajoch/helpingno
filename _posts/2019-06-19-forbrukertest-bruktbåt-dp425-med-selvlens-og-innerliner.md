@@ -16,7 +16,7 @@ excerpt: 'Forbrukertest: 14 fot, tar 5 personer, veier 200 kg, har pent design. 
   direkte fra fabrikk i januar 2007 uten motor, men med bunnbehandling. Båten ble
   solgt med motor og båthenger i 2010. Etter nesten 4 hele sesonger.'
 image: "/assets/images/jolle425.jpg"
-image_caption: Foto GC
+image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
