@@ -14,7 +14,7 @@ tags:
 - stress
 - vegetarmat
 - vær god mot deg selv
-title: 'Den beste slankekuren: Bedre kosthold og mosjon'
+title: Slankere med kosthold og mosjon
 excerpt: 'Analyser dine vaner: Legg nå en slagplan som gir deg en varig slankegevinst
   nemlig å forandre det ved din livsførsel som gir deg overvekten. Oftest er det bare
   mer fysisk aktivitet og sunnere kosthold som skal til. F. eks. å begrense mengdene
@@ -26,7 +26,7 @@ image_caption: 'Foto Gunnar Christensen. '
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 Husk å undersøke kvaliteten på det du spiser særlig med hensyn på salt, sukkerinnhold og fett. Slanking kan være så enkelt som å redusere inntaket av fett og av sukkerholdig mat og drikke. Undersøk hva matvarene du bruker inneholder: Hvilke matvarer spiser du oftest? Finnes et sunnere alternativ som du også liker?
