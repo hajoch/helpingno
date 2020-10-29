@@ -13,14 +13,15 @@ tags:
 - helsekost
 - helsekost vegetarmat
 - lettfordøyelig middag
-title: Grønn suppe
-excerpt: Spinat og brokkoli
+title: Spinat suppe med brokkoli
+excerpt: 'Spinat og brokkoli suppe - vær nøye med å tilsette rikelig med alt det gode
+  krydderet i oppskriften.  '
 image: "/assets/images/gonn.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 4
+weight: 3
 
 ---
 Brokkoli- og spinatsuppe - velsmakende og sunn.
