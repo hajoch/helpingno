@@ -17,9 +17,9 @@ tags:
 - puja
 - gumpa
 - bønnehjul
-title: " Mystikk i Himalayafjellene: Klosteret i Rewalsar  "
-excerpt: "Tibetansk smørte står rykende klar som velkomstdrikk. \nFlere munker er
-  barn. Alle med de karakteristiske barberte hodene."
+title: " Mystikk i Himalayafjellene"
+excerpt: 'Tibetansk smørte står rykende klar som velkomstdrikk. Flere munker er barn.
+  Alle med de karakteristiske barberte hodene. Dette er klosteret i Rewalsar.  '
 image: "/assets/images/rewalsar4.jpg"
 image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsar.
   Han reiste i 1979 sammen med en gruppe europeiske pilegrimer i India og Nepal. Dette
@@ -27,8 +27,8 @@ image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsa
   master/hovedoppgave i religionsvitenskap.
 categories:
 - _category/reise.md
-publish_date:
-weight: 3
+publish_date: 
+weight: 2
 
 ---
 Lett regn fra skyfri himmel i en halv time, men ingen blir våte. En innsjø hvor små torvøyer beveger seg uten et vindpust eller strøm i vannet mens trommene drønner fra klosteret. Et mystisk fortavtrykk blant huleboere i Himalaya-fjellet. Flere uforklarlige fenomener møter meg ved ankomsten til Rewalsar, et mystisk, hellig sted noen timers busstur opp de bratte fjellene fra Mandi, en liten by i nord-vest-India.
