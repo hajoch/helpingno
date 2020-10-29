@@ -11,7 +11,7 @@ tags:
 - hinduisme
 - Kathmandu
 - Holika
-title: Fargefestival i Nepal
+title: Holi - Fargefestival i Nepal
 excerpt: Mange legender knytter seg til denne feiringen. En av dem går ut på fortellingen
   om gudeparet Rada og Krishna og den guddommelige kjærligheten mellom dem.
 image: "/assets/images/maske.jpg"
