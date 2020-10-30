@@ -17,7 +17,7 @@ tags:
 - Yamarin 76 DC
 - 250 hk
 - produksjonsfeil
-title: YAMARIN 76 DC med 250 hk Yamaha
+title: 'YAMARIN 76 DC med 250 hk '
 excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt familievennlig
   daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
   tube mv. '
@@ -26,7 +26,7 @@ image_caption: Yamarin 76 DC med Yamaha 250 hk. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 **YAMARIN 76 DC med Yamaha.**
