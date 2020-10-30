@@ -11,7 +11,7 @@ tags:
 - bruktbil
 - stasjonsvogn
 - privatbil
-title: VW Passat Alltrack 2013 i strupen på Volvo XC70
+title: 'VW Passat Alltrack 2013 '
 excerpt: 'Bruktbil fra 2013: Med Passat Alltrack er Volkswagen rett i strupen på Volvo
   XC 70 ved å ny-prise seg langt under Volvos modeller. Passat Alltrack er hevet 3
   cm i forhold til en standard modell. Visuelt virker det som om bilen er hevet mer
@@ -24,7 +24,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 3
+weight: 4
 
 ---
 Kjøreegenskapene er ikke dårligere ved hevet tyngdepunkt, kanskje på grunn av bredere dekkdimensjon? Alltack gir en fin og myk kjøreopplevelse. Den ligger stødig og forutsigbart på veien. Den er fast og fin på rattet og gir et solid, trygt inntrykk.
