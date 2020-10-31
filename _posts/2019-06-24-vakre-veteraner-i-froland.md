@@ -11,7 +11,12 @@ tags:
 - populære veteraner
 - gamle biler
 - veteranbiltreff
-title: " Veteraner i Froland"
+- Jaguar
+- Opel
+- Ford
+- Volvo
+- amcar
+title: " Veteranbiler "
 excerpt: |-
   Veteranbiltreff i mai hvert år er et hyggelig vårtegn i Froland som vokser for hvert år. På Froland i Agder skjer det hvert år i mai. Da stiller stolte bileiere fra nær og fjern med blank-pussede doninger for å bli kjent, se og bli sett. Samt å lære av hverandre.
 
@@ -22,7 +27,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 2
 
 ---
 
