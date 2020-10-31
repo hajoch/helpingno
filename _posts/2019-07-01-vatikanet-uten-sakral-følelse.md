@@ -12,7 +12,7 @@ tags:
 - Roma
 - Vatikanstaten
 - kø
-title: Vatikanet - i kø uten sakral følelse
+title: 'Vatikanet - i kø '
 excerpt: 'Vatikanstaten var det jeg så mest frem til i Roma: Minner fra en sakral
   og fin stemning med messe i vakre Notre Dame-katedralen i Paris før brannen, og
   flere andre katolske kirker ga store forventninger før første møte med Peterskirken.
@@ -24,7 +24,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 2
 
 ---
 ![](/assets/images/vat1-1.jpg)
