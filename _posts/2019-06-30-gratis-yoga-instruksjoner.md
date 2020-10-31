@@ -31,17 +31,17 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
 
 Her følger noen enkle øvelser til daglig bruk som de fleste kan gjøre på egen hånd:  
-Begynn med å legge et ullteppe eller annen form for underlag på gulvet. Sørg for at du får ro mens du gjør øvelsene. Legg deg ned på teppet på ryggen med armene langs siden og ligg der til du kjenner at du har roet pulsen ned og er klar for første øvelse.
+Begynn med å legge et liggeunderlag, ullteppe eller annen form for underlag på gulvet. Sørg for at du får ro mens du gjør øvelsene. Legg deg ned på teppet på ryggen med armene langs siden og ligg der til du kjenner at du har roet pulsen ned og er klar for første øvelse.
 
 Etter hver øvelse legger du deg igjen på ryggen med armene langs siden eller på siden slik at du er uthvilt til neste øvelse.
 
-Pust gjennom nesen - det er viktig. Pust rolig under øvelsene og finn ut hvordan din inn- og utånding passer best inn i øvelsene. F.eks. passer det best å puste ut når du bøyer deg fremover.
+Pust gjennom nesen - det er viktig. Pust rolig under øvelsene og finn ut hvordan din inn- og utånding passer best inn i øvelsene. F. eks. passer det best å puste ut når du bøyer deg fremover.
 
 Gjør alle øvelsene langsomt og med rolige bevegelser. Ikke press deg gjennom øvelsene i betydningen ta det pent. Du klarer det litt bedre og blir litt mykere for hver dag du praktiserer.
 
