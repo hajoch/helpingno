@@ -16,6 +16,7 @@ tags:
 - negativ
 - reparasjonsfase
 - reaksjon
+- uønsket tap
 title: Sorgbearbeidelse
 excerpt: "Det som kjennetegner og definerer sorg fra andre \npsykologiske tilstander
   er at det er etterreaksjonen \npå en situasjon som har medført uønsket tap."
@@ -24,7 +25,7 @@ image_caption: 'Illustrasjon foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Sorg er en tilstand av opplevd tap. Man har måttet ufrivillig gi slipp på noe. Sorg er oftest forbundet med død, men kan også være tap av funksjonalitet ved for eksempel sykdom, invalidisering og alderdom, tap av arbeidssted, parforhold eventuelt med barn, m.m.. Akkurat som depresjon har sorg mange alvorlighetsgrader, fra ufrivillig tap og forandring med ubehagelig nyorientering, til psykisk invalidiserende håpløshet og mangel på mening i livet og livslyst.
