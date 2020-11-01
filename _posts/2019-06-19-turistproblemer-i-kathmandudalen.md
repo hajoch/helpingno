@@ -16,7 +16,7 @@ tags:
 - hindutempel
 - Patan
 - Bhadgaon
-title: Tiggeproblemer i Nepal
+title: Tiggerproblemer i Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønns-grupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
   og velger tigging fremfor håndverksfag og skole: Da må vi turister tenke oss om.'
