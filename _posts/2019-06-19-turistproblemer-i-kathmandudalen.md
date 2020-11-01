@@ -16,7 +16,7 @@ tags:
 - hindutempel
 - Patan
 - Bhadgaon
-title: Turistproblemer i Nepal
+title: Tiggeproblemer i Nepal
 excerpt: 'Flere tiggere i turistområdene i India og Nepal tjener mer på tigging enn
   lavtlønns-grupper i samfunnet. Det skaper uro i samfunnet og barn kutter skolegang
   og velger tigging fremfor håndverksfag og skole: Da må vi turister tenke oss om.'
@@ -26,7 +26,7 @@ image_caption: Nepalesiske bønder med sine karakteristiske trommer kalt Dhimey.
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. |
