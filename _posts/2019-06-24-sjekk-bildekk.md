@@ -10,6 +10,10 @@ tags:
 - bil
 - sommerdekksesong
 - vinterbil
+- alder på dekk
+- mønsterdybde
+- datoer for dekkskift
+- vintertips til bilen
 title: Sjekk og skift bildekk
 excerpt: 'Biltips før vinteren:'
 image: "/assets/images/mar.5.jpg"
@@ -17,8 +21,8 @@ image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-10-03 00:00:00 +0200
-weight: 8
+publish_date: 2020-11-01 12:00:17 +0100
+weight: 9
 
 ---
 **Piggdekksesongen i Norge**
