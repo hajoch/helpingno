@@ -9,7 +9,8 @@ tags:
 - BMW
 - stasjonsvogn
 - BMW 530 XD Touring stv
-title: BMW 530 XD Touring.
+- biltest
+title: BMW 530 XD Touring 2008 modell.
 excerpt: |-
   Bruktbil: Langtidstest - 4 år med:
   Fakta om testbilen: BMW 530 XD Touring stv.
@@ -19,7 +20,7 @@ image_caption: Foto Ole T. Moy
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 BMW 530 XD Touring 2008 modell, bare navnet og betegnelsen skaper forventninger om dynamikk, fart, sportslighet, framkommelighet og kvalitet.
