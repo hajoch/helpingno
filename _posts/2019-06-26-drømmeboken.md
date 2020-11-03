@@ -12,7 +12,7 @@ tags:
 title: Drømmeboken.
 excerpt: '"Drømmenes hemmelige språk. En illustrert veiviser til det ubevisste"av
   David Fontana oversatt av Sølvi Bryde, illustrert av Peter Malone. Gyldendal Norsk
-  Forlag, Oslo 1995 eller senere utgaver.'
+  Forlag, Oslo 1995 eller senere utgaver.  Dette er "Skatter på bruktbokmarkedet."'
 image: "/assets/images/boktipsalt.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
