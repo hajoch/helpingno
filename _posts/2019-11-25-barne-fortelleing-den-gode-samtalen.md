@@ -16,7 +16,7 @@ tags:
 - Gunnar Christensen
 - Galtesund
 - Gjessøya
-title: '"Den gode samtalen".'
+title: Den gode samtalen.
 excerpt: Novelle.
 image: "/assets/images/IMG_2753.JPG"
 image_caption: 'Foto: Gunnar Christensen. Den gode samtalen mellom foreldre og barn
@@ -27,7 +27,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 9
+weight: 8
 
 ---
 Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Capsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
