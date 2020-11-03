@@ -19,7 +19,7 @@ tags:
 - produksjonsfeil
 - helgeturer på fjorden
 - stødig sjøbåt
-title: 'YAMARIN 76 DC med 250 hk '
+title: 'YAMARIN 76DC m 250 hk '
 excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt familievennlig
   daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
   tube mv. '
@@ -31,7 +31,7 @@ publish_date:
 weight: 5
 
 ---
-**YAMARIN 76 DC med Yamaha.**
+**YAMARIN 76 DC med 250 hk Yamaha.**
 
 **Tekniske data testbåt:**  
 Lengde 7,52 m. Bredde 2,60 m. Vekt båt 1500 kg. Max personer: 8 Motorstyrke 150 - 300 hk. Veil utsalgspris med 250 hk Yamaha V6 3,4 liter 4T. ca. kr. 700.000,- i 2007. Vekt motor 280 kg.
