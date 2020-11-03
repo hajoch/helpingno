@@ -14,7 +14,7 @@ tags:
 - diesel
 - firehjulstrekk
 - bruktbil suv
-title: BMW X5
+title: BMW X5 modell 2011
 excerpt: 'Bruktbiltest:  Fantastisk bil. Motoren er en rekkesekser på 3 liter som
   yter 211 heter, modell 2011 kanskje verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
@@ -22,7 +22,7 @@ image_caption: Foto Ole Torbjørn Moy
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Dette er en fantastisk bil. En behagelig SUV med 211 hk diesel, men motoren er litt treg for denne bilen vekten tatt i betraktning. Dog ligger kjøreopplevelsen på den komfortable siden. Bilen er retningsstabil, fast og fin. Klimaanlegget virker bra. Rattet er godt å holde i. Med "aktiv drive" trenger man ikke så stort utslag på rattet for å ta svingene. Dette er et fin funksjon på svingete veier.
