@@ -30,11 +30,10 @@ tags:
 - overgrep
 - korrupsjon
 title: '"DEN LILLE MANNS KAMP"'
-excerpt: "Dokumenter: Styrkeprøven. \n- Jeg gir deg boka gratis fordi den ikke lengre
-  finnes i bokhandelen. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er
-  takknemlig for de mange tilbakemeldinger på at boka hjelper trafikkskadde. Etter
-  at Styrkeprøven ble utsolgt i bokhandelen ble den lagt ut for gratis ned lasting
-  her på helping.no. "
+excerpt: "Dokumenter: Styrkeprøven. \nDa boka kom ut haglet det med telefonhenvendelser.
+  Jeg måtte ta nettene til hjelp for å betjene alle trafikkskadde som ønsket kontakt.
+  Det er ikke etisk forsvarlig å trekke ut telefonkontakten når de fleste som ringte
+  meg vurderte å ta livet sitt."
 image: "/assets/images/styrke.jpg"
 image_caption: Boka "Styrkeprøven". - Hvordan takle livet etter en trafikkskade?
 categories:
@@ -43,6 +42,8 @@ publish_date:
 weight: 8
 
 ---
+\- Jeg gir deg boka gratis fordi den ikke lengre finnes i bokhandelen. Som forfatter ønsker jeg å bli lest av flest mulig. Jeg er takknemlig for de mange tilbakemeldinger på at boka hjelper trafikkskadde. Etter at Styrkeprøven ble utsolgt i bokhandelen ble den lagt ut for gratis ned lasting her på helping.no.
+
 **Slik ble Styrkeprøven til**
 
 "DEN LILLE MANNS KAMP"  
