@@ -29,11 +29,11 @@ tags:
 - avmakt
 - overgrep
 - korrupsjon
-title: '"DEN LILLE MANNS KAMP"'
-excerpt: "Dokumenter: Styrkeprøven. \nDa boka kom ut haglet det med telefonhenvendelser.
-  Jeg måtte ta nettene til hjelp for å betjene alle trafikkskadde som ønsket kontakt.
-  Det er ikke etisk forsvarlig å trekke ut telefonkontakten når de fleste som ringte
-  meg vurderte å ta livet sitt."
+title: '"Den lille manns kamp"'
+excerpt: "\nDa boka kom ut haglet det med telefonhenvendelser. Jeg måtte ta nettene
+  til hjelp for å betjene alle trafikkskadde som ønsket kontakt. Det er ikke etisk
+  forsvarlig å trekke ut telefonkontakten når de fleste som ringte meg vurderte å
+  ta livet sitt.\nDokumenter: Styrkeprøven av Gunnar Christensen. "
 image: "/assets/images/styrke.jpg"
 image_caption: Boka "Styrkeprøven". - Hvordan takle livet etter en trafikkskade?
 categories:
