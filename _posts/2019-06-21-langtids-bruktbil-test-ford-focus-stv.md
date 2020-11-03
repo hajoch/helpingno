@@ -21,13 +21,13 @@ image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-10-24 00:00:00 +0200
-weight: 7
+publish_date: 2020-11-03 00:00:00 +0100
+weight: 8
 
 ---
-**Flott bil bortsett i fra elendige seter og handsfree plunder om du har iphone. Dekktrykk slår inn med feil hver gang du skifter hjul.**
+**Flott bil bortsett i fra elendige seter og hands free plunder om du har IPhone. Dekktrykk slår inn med feil hver gang du skifter hjul og ikke bare en gang.**
 
-Etter tidligere å ha eid over 20 biler derav fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter.
+Etter tidligere å ha eid over 20 biler derav fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter som svenskene.
 
 Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen på km-telleren: Redusert verdi fra ny kr. 320.000 til kr. 120.000. Det er åpenbart at det ikke lønner seg å kjøpe ny Ford. Derimot er en 3 år gammel Focus stasjonsvogn mye bruktbil for pengene.
 
