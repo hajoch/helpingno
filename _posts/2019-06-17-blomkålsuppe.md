@@ -11,14 +11,14 @@ tags:
 - vegetarmat
 - alternativ middag
 - sunnt kosthold
-title: Blomkålsuppe - lett vegetarmiddag
-excerpt: Vegetarmat - sunt, billig og godt
+title: 'Blomkålsuppe '
+excerpt: Vegetarmat - sunt, billig og godt - lett vegetarmiddag.
 image: "/assets/images/blomk..jpg"
 image_caption: Foto GC
 categories:
 - _category/helse.md
 publish_date: 
-weight: 3
+weight: 2
 
 ---
 Velsmakende og med store smaksvarianter alt etter kryddersammensetningen.
