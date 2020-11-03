@@ -12,7 +12,9 @@ tags:
 - sommer
 - Askeladden
 - Yamaha påhenger
-title: 'Askeladden 16: En god sjøbåt'
+- 16 fot
+- familiebåt
+title: 'Askeladden 16: God sjøbåt'
 excerpt: 'Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig
   god og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du
   ikke trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
@@ -22,7 +24,7 @@ image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 **Askeladden 16 m. 25 hk Yamaha**
