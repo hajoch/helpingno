@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-12-18 22:26:01 +0100
+date: 2019-12-18T21:26:01.000+00:00
 crop_image: true
 tags:
 - litteratur
@@ -12,6 +12,7 @@ tags:
 - medisin
 title: Døden er livsviktig
 excerpt: Boken er en samling foredrag av lege og psykiater Elisabeth Kübler-Ross.
+  Dette er "Skatter på bruktbokmarkedet."
 image: "/assets/images/IMG_2808-1.JPG"
 image_caption: "Illustrasjon \"Sverd i fjell\" fra Stavanger. \nFoto Gunnar Christensen"
 author: _authors/gunnar-christensen.md
