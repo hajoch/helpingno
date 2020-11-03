@@ -7,7 +7,14 @@ tags:
 - hotell
 - Lindesnes
 - hotell ved havet
-title: Lindesnes Hav Hotell - på vei til Lindesnes fyr
+- Lindesnes fyr
+- turistområde
+- havkanten
+- lengst syd i Norge
+- restaurant under sjøen
+- Spangereid
+- kanal
+title: 'Lindesnes Hav Hotell '
 excerpt: 'Forbrukertest: Flott beliggenhet nær Lindesnes Fyr med elendig frokost:
   Like ved Spangereid og kort vei fra Lindesnes fyr ligger dette moderne hotellet
   på ei brygge sammen med undersjøisk restaurant og med havet ut fjorden. Flott turområde
@@ -18,7 +25,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Besøk i september er utenom sesong og med lite belegg på hotellet. Rekvisitter etter TV-opptak var delvis stablet opp mot en søyle og hevet i en container. Utleiekanoer var stablet langs veggen for utleie.
