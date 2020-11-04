@@ -19,7 +19,7 @@ tags:
 - terror
 - Bodhi-tre
 - reinkarnasjon
-title: Eksotisk, vakker, men uforutsigbar
+title: 'Sri Lanka: Eksotisk, vakker, men uforutsigbar'
 excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten utenfor
   Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle, spinkle
   småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød i et farlig
