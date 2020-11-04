@@ -13,18 +13,19 @@ tags:
 - sjø båtliv
 - barn
 - mykplast
-title: " Barnas favoritt: 14 sesonger med Pioner 8"
-excerpt: I denne båten lærer barna å ro. Det er en ferdighet alle barn bør beherske
-  på sjøen. Å utforske strandsonen i denne jolla er et eventyr for barna. Sjøstjerner
-  og krabber, fisk og skjell. Dette er en solid og trygg båt å slippe barna ut i.
-  Og den går på biltaket hvis du har lastebøyler. Pioner 8 har kommet i nyere modeller
-  som alle er like sikre og godt egnet for barn.
+- slepejolle
+title: " Barnas favoritt: Pioner 8"
+excerpt: I 14 sesonger har vi testet denne båten. Her lærer barna å ro. Det er en
+  ferdighet alle barn bør beherske på sjøen. Å utforske strandsonen i denne jolla
+  er et eventyr for barna. Sjøstjerner og krabber, fisk og skjell. Dette er en solid
+  og trygg båt å slippe barna ut i. Og den går på biltaket hvis du har bøyler. Pioner
+  8 har kommet i nyere modeller som alle er like sikre og godt egnet for barn.
 image: "/assets/images/pioner.8.1.jpg"
 image_caption: 'Foto: Pioner'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 5
 
 ---
 **Båt:**
