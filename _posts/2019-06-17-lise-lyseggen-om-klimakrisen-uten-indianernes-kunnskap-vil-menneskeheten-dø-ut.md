@@ -11,13 +11,19 @@ tags:
 - naturopplevelser
 - naturkunnskap
 - indianerkultur
-title: Lise Lyseggen om klimakrisen. Intervju.
-excerpt: Uten indianernes kunnskap vil menneskeheten dø ut. Indianernes verdifulle
-  kunnskap om naturen kan nå dø ut. Kunnskapen indianerne har om naturen er veldig
-  verdifull for menneskeheten som helhet. Hvis vi ikke får med oss denne naturkunnskapen
-  videre så tror jeg menneskeheten vil dø ut.
+- klimakrisen
+- naturkunnskap
+- økologisk
+- global oppvarming
+- kloden
+- avhengig av hverandre
+title: " Klimakrisen. "
+excerpt: 'Lise Lyseggen: - Uten indianernes kunnskap vil menneskeheten dø ut. Indianernes
+  verdifulle kunnskap om naturen kan nå bli borte. Kunnskapen indianerne har om naturen
+  er veldig verdifull for menneskeheten som helhet. Hvis vi ikke får med oss denne
+  naturkunnskapen videre så tror jeg menneskeheten vil dø ut.'
 image: "/assets/images/liselyseggen3.jpg"
-image_caption: 'Foto Gunnar Christensen: Hjelpearbeider Lise Lyseggen '
+image_caption: 'Intervju. Hjelpearbeider Lise Lyseggen.  Foto Gunnar Christensen:  '
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
