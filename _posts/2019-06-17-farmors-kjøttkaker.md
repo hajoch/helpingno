@@ -10,7 +10,7 @@ tags:
 - norsk middag
 - varmrett
 - kjøtt
-title: Farmors kjøttkaker
+title: Kjøttkaker
 excerpt: 'Kjøttkaker fra tradisjonelt norsk kjøkken er lett å lage og smaker godt.
   I tillegg kan du variere smaken med å ha i forskjellige ingredienser: Du kan lage
   kjøttkaker med eller uten hvitløk eller vanlig løk.'
@@ -19,7 +19,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 Følgende ingredienser må til:  
