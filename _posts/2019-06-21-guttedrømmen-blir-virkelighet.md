@@ -16,7 +16,7 @@ tags:
 - guttedrømmen
 - trendbil
 - ikon
-title: " Ford Mustang: Guttedrømmen blir virkelighet"
+title: 'Mustang - Guttedrømmen '
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
   Trimmet til 425 hk.
@@ -26,7 +26,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Mustangen er en bil med en stolt og lang historie få andre bilmodeller kan konkurrere med. Den er en klassiker alle elsker. Mustangen er ikke bare en bil, det er et verdenskjent ikon. Bilen har vært vanvittig populær i flere tiår blant alle aldersgrupper og nasjonaliteter. Og denne gang var det Helping Bil sin tur til å oppleve denne velkjente muskelbilen.
