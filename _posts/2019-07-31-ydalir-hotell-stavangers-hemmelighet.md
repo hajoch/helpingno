@@ -16,20 +16,20 @@ tags:
 - Rogaland
 - moderne hotell
 - universitetshotell
-title: 'Stavangers hemmelighet: Ydalir hotell: '
-excerpt: Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service plassert
-  grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret av lyd fra
-  trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende en
-  liten busstur fra sentrum. Test.
+title: 'Stavangers hemmelighet:'
+excerpt: 'Tenk deg et nytt flott hotell med moderne, rimelige rom og topp service
+  plassert grønt, landlig og sentralt på samme tid. Du sover uten å bli forstyrret
+  av lyd fra trafikk og annen aktivitet og våkner til en praktfull god frokost - beliggende
+  en liten busstur fra sentrum. Test Ydalir hotell:'
 image: "/assets/images/IMG_2816.JPG"
 image_caption: |-
-  Hotell-test Ydalir hotell i Stavanger er nå åpent igjen etter korona-ned-stengingen.
+  Hotell-test Ydalir hotell i Stavanger - korona-ned-stenging trolig i løpet av desember 2020.
   Foto: Gunnar Christensen.
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2020-10-26 00:00:00 +0100
-weight: 9
+publish_date: 
+weight: 8
 
 ---
 De øvrige måltidene kan du bestille fra den restauranten du vil, som catering, og spise i hotellets fellesrom eller på rommet som det passer deg.
