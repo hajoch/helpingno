@@ -16,7 +16,7 @@ image_caption: Motiv fra Hove, Tromøy, foto Gunnar Christensen
 categories:
 - _category/religion.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Synkretisme tolkes som religionsblanding. Betegnelsen på å forene forskjellige religioner eller religiøse oppfatninger. Betegnelsen ble opprinnelig brukt av Plutarch som betegnelse på fusjon av religiøs kult som fantes i den gresk-romerske verden 300 f.kr. - 200 e.kr..
