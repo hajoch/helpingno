@@ -10,7 +10,7 @@ tags:
 - øvelseskjøring
 - ny bak rattet
 - råd om kjøreopplæring
-title: Øvelseskjøring med bil - førerkortopplæring
+title: 'Øvelseskjøring med bil '
 excerpt: '"Øvelse gjør mester" - sånn er det med alt, også øvelseskjøring. Den eneste
   måten å bli en trygg og god sjåfør på er å ha erfaring. Det er viktig å begynne
   med øvelseskjøringen så snart sjansen byr seg, nemlig når man fyller seksten år.'
@@ -19,7 +19,7 @@ image_caption: ''
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 5
 
 ---
 Men før forelder og ungdom setter i gang, er det viktig at begge parter diskuterer hvordan de skal oppføre seg i bilen. Øvelseskjøringen skal jo tross alt være en gøyal og koselig opplevelse både for ungdommen og forelder. Som forelder er det viktig å tenke seg om hva man sier og med hvilket tonefall man bruker.
