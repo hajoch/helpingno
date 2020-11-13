@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 2020-11-01 12:00:17 +0100
-weight: 9
+weight: 8
 
 ---
 **Piggdekksesongen i Norge**
