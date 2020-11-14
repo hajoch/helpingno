@@ -13,7 +13,10 @@ tags:
 - sikkerhetsmerking av båt
 - CE-merke
 - selvlens
-title: Joller er praktiske
+- folkebåten
+- hyttebåten
+- lettbåten
+title: Joller
 excerpt: Mange velger jolla som sin første båt. Den er lett å ta med seg på en henger
   på ferie eller på hytta - og kan lagres i hagen eller på en parkeringsplass. Dette
   er en praktisk, rimelig, lett og enkel båt for dem som ikke ønsker å legge mye penger
@@ -25,7 +28,7 @@ image_caption: Motiv fra Nidelv i Arendal. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 4
+weight: 5
 
 ---
 I byer og tettsteder kan det være både dyrt og vanskelig å skaffe seg en båtplass. Da er ei jolle med påhengsmotor på en båthenger en både rimelig og praktisk form for båtliv. Jolla kommer til i små viker og andre steder hvor større båter ikke når inn. Med liten båt kan du utforske strandsoner og få nærkontakt med sjøen: Strekk ut hånden og du kjenner vanntemperaturen.
