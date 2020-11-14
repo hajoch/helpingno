@@ -76,7 +76,7 @@ Først da forstod jeg at Siouxindianerne selv måtte ta skjebnen i egne hender o
 
 \- Hva hadde du å tilby ungdommen?
 
-* Jeg begynte og holde foredrag for dem som ville høre på, men det var få som ville det i begynnelsen. Dette var en sped begynnelse som vokste til flere og flere tilhørere. Utfordringen min var å utføre flere forskjellige hjelpeoppgaver og å samarbeide med andre organisasjoner.
+\- Jeg begynte og holde foredrag for dem som ville høre på, men det var få som ville det i begynnelsen. Dette var en sped begynnelse som vokste til flere og flere tilhørere. Utfordringen min var å utføre flere forskjellige hjelpeoppgaver og å samarbeide med andre organisasjoner.
 
 \- Slik fortsatte det år etter år?  
 \- Ja. Jeg reiste tilbake så ofte jeg kunne. Hadde alltid med meg venner og kofferter fulle av klær, kjærlighet og optimisme. Jeg holdt foredrag, ga healing og veiledning. Håpet er at jeg har vært med på og gjøre reservatet litt bedre.
@@ -107,9 +107,7 @@ All kunnskap omkring Maya kalenderen som er blitt kjent i den senere tid har få
 
 Samtidig må vi rette opp så mye vi kan av den urett som er begått mot indianerfolket.
 
-I over 40 år har Lise Lyseggen sett dette og jobbet for å gjenreise denne indianerkulturen og gi den en gang så stolte  
-og velutviklede Siouxstammen et verdig  
-og meningsfylt liv.
+I over 40 år har Lise Lyseggen sett dette og jobbet for å gjenreise denne indianerkulturen og gi den en gang så stolte og velutviklede Siouxstammen et verdig og meningsfylt liv.
 
 **Annonse:  
 ![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
