@@ -15,13 +15,13 @@ tags:
 - Buddy
 - Lise Lyeseggen
 title: Sioux-indianerne  trenger hjelp!
-excerpt: Intervju med Lise Lyseggen
+excerpt: Intervju med hjelpearbeider Lise Lyseggen
 image: "/assets/images/Rituell Powowdans2.jpg"
 image_caption: 'Bilde fra Lyseggens egen samling: Rituel Powowdans i Pine Ridge'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Lise Lyseggen er sterkt engasjert i hjelpearbeid i fattige deler av verden og i særdeleshet blant Siouxindianerne i Sør-Dakota, USA. Hver sommer drar hun til Siouxindianerne der hun er deres "medisinmann" og hjelper.
