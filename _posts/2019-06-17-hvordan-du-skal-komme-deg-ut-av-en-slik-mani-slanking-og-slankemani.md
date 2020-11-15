@@ -10,7 +10,7 @@ tags:
 - slankemani
 - råd om slanking
 title: Slanking og slankemani
-excerpt: 'Hvordan du skal komme deg ut av en slik mani  '
+excerpt: 'Hvordan du skal komme deg ut av en slik mani?  '
 image: "/assets/images/tunis3.jpg"
 image_caption: 'Motiv fra Tunisia. Foto: Gunnar Christensen'
 categories:
