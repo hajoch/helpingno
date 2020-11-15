@@ -29,14 +29,14 @@ tags:
 - kjæledyr
 - god venn
 title: Depresjon
-excerpt: Der er mange veier ut av depresjonen.Du kan selv gjøre mye.Her er noen råd
-  som kanskje kan hjelpe deg?
+excerpt: Der er mange veier ut av depresjonen. Du kan selv gjøre mye. Her er noen
+  råd som kanskje kan hjelpe deg?
 image: "/assets/images/jan.2.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 **Naturen.**  
@@ -55,11 +55,7 @@ Søvn er viktig for den mentale helse. Sørg for å få tilstrekkelig søvn ved 
 Avspenningsteknikker se yoga[ ](http://www.helping.no/yoga.htm)og meditasjon
 
 **Film - Komedier:**  
-Også i sofakroken kan du gjøre mye for å bedre din sinnstilstand og forebygge eller komme ut av depresjon. Styr unna voldsfilmer, skrekkfilmer og filmer som gjør deg stresset, trist eller utrygg. Dette fordi alle påvirkninger har innflytelse på vår mentale helse. Beskytt deg selv mot negative påvirkninger også når du velger filmer.
-
-Velg komedier. Lei eller kjøp noen komedier på DVD så slipper du å være prisgitt det som er på TV-programmene når du ønsker å komme i bedre humør.
-
-På helping.no har vi oversikt over komedier på DVD: Latter er den beste anti-depresjons-pillen.
+Også i sofakroken kan du gjøre mye for å bedre din sinnstilstand og forebygge eller komme ut av depresjon. Styr unna voldsfilmer, skrekkfilmer og filmer som gjør deg stresset, trist eller utrygg. Dette fordi alle påvirkninger har innflytelse på vår mentale helse. Beskytt deg selv mot negative påvirkninger også når du velger filmer. Velg komedier når du ønsker å komme i bedre humør.
 
 **Musikk:**  
 Finn fram musikken du liker og som gjør deg glad: Morsomme melodier, klassisk musikk eller rolige rytmer. Spill musikk som gjør deg rolig og avstresset. Har du en favorittlåt som roer deg ned eller gjør deg glad?
@@ -109,5 +105,5 @@ Har du en partner som kan gi deg nærhet så nyt godt av denne nærheten. Det be
 
 Kjæledyr kan også gi en god nærhet. F.eks. en katt i fanget kan gi en fin nærhet og trygghet. Ta vare på det du opplever som positivt i livet ditt og konsentrer deg om det fremfor å tenke på det som plager deg hele tiden.
 
-Snakk med noen du har tillit til f.eks. en god venn eller din lege.  
+Snakk med noen du har tillit til f. eks. en god venn eller din lege.  
 Det er mye god hjelp å få hos andre mennesker.
