@@ -52,7 +52,7 @@ Ikke spis mer enn du trenger. Spis sunn mat som gir kroppen din rett næring. Se
 **Søvn:**  
 Søvn er viktig for den mentale helse. Sørg for å få tilstrekkelig søvn ved å sove til du er uthvilt. Følg vanlig døgnrytme ved å bruke natten til søvn ikke dagen. Stå opp til samme tid hver dag. Ikke ta arbeidet eller problemene med deg i senga. Senga er kun til søvn og sex. Ikke gå sulten til sengs og ha passe temperatur i rommet. Får du ikke sove så stå opp og gjør noe annet en stund. Alkohol er ikke et sovemiddel. Om du trenger sovemiddel så bruk det kun i kortere tid.
 
-Avspenningsteknikker se yoga[ ](http://www.helping.no/yoga.htm)og meditasjon
+Avspenningsteknikker se [yoga](https://helping.no/gratis-yoga-instruksjoner "https://helping.no/gratis-yoga-instruksjoner") og [meditasjon](https://helping.no/meditasjonskurs-introduksjon "https://helping.no/meditasjonskurs-introduksjon")
 
 **Film - Komedier:**  
 Også i sofakroken kan du gjøre mye for å bedre din sinnstilstand og forebygge eller komme ut av depresjon. Styr unna voldsfilmer, skrekkfilmer og filmer som gjør deg stresset, trist eller utrygg. Dette fordi alle påvirkninger har innflytelse på vår mentale helse. Beskytt deg selv mot negative påvirkninger også når du velger filmer. Velg komedier når du ønsker å komme i bedre humør.
