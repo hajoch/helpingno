@@ -78,7 +78,7 @@ Bilde fra Lyseggens egen samling. Motiv fra museum.
 **- Hvilke "rike onkler" har prosjektet ditt?**  
 \- Mange enkeltpersoner gir pengebidrag til indianer-hjelpen bl.a. via nettsiden vår (se over). I tillegg har vi arrangementer til inntekt for prosjektet forskjellige steder i landet. Vi har informasjon om hva pengene går til. Neste år skal en blogger på 15 år være med og fortelle om opplevelsene i Pine Ridge. Temaet hennes er å fortelle om hvordan det er å være ung i reservatet.  
 **- Hvordan ser du for deg det videre hjelpearbeidet i Pine Ridge?**  
-\- Det første jeg vil bygge nå er et vaskeri så indianerne slipper å kjøre 10 mil for å vaske klær. Det er ofte ikke mulig å kjøre så langt siden de oftest ikke har råd til bensin. Jeg har alt fått tomt til vaskeriet så den biten er på plass. Det vil naturlig nok koste penger å vaske klær og disse pengene vil genereres til andre ting. Mye kan gjøres for små penger her. Bl.a. hjelp til å skape et utsalg i for de mange dyktige kunstnerne som bor i Pine Ridge. Malere, klesdesignere m.m.. Disse lager flotte ting. I denne butikken - som også er nettbutikk - kan kunstnerne selge varene sine på kommisjon. Bare en slik butikk gir fort to arbeidsplasser og dermed inntekter. Jeg vil også arbeide for å få fler barn tilbake til skolebenken de har droppet ut av. Skoletilbudet er 12 års utdanning, men kun omkring 10 % av barna fullfører skolegangen. Det sier litt om størrelsen på drop-outen her. Nå er det heller ikke skoleplasser nok til alle årskull her og avstanden til skolen er meget stor. Det kan ta opp til tre timer å komme seg på skolen på grunn av store avstander, spredt bebyggelse og ingen transport-muligheter. Dette gjør det ikke lettere. Offentlig transport er nærmest fraværende. Bebyggelsen er som sagt stort sett utrangerte campingvogner som knapt henger sammen og mangler lys til lekselesing m.m.. Dette gjør det vanskelig for indianerne å følge opp skolen for barna.
+\- Det første jeg vil bygge nå er et vaskeri så indianerne slipper å kjøre 10 mil for å vaske klær. Det er ofte ikke mulig å kjøre så langt siden de oftest ikke har råd til bensin. Jeg har alt fått tomt til vaskeriet så den biten er på plass. Det vil naturlig nok koste penger å vaske klær og disse pengene vil genereres til andre ting. Mye kan gjøres for små penger her. Bl.a. hjelp til å skape et utsalg i for de mange dyktige kunstnerne som bor i Pine Ridge. Malere, klesdesignere m.m.. Disse lager flotte ting. I denne butikken - som også er nettbutikk - kan kunstnerne selge varene sine på kommisjon. Bare en slik butikk gir fort to arbeidsplasser og dermed inntekter. Jeg vil også arbeide for å få fler barn tilbake til skolebenken de har droppet ut av. Skoletilbudet er 12 års utdanning, men kun omkring 10 % av barna fullfører skolegangen. Det sier litt om størrelsen på dropouten her. Nå er det heller ikke skoleplasser nok til alle årskull her og avstanden til skolen er meget stor. Det kan ta opp til tre timer å komme seg på skolen på grunn av store avstander, spredt bebyggelse og ingen transport-muligheter. Dette gjør det ikke lettere. Offentlig transport er nærmest fraværende. Bebyggelsen er som sagt stort sett utrangerte campingvogner som knapt henger sammen og mangler lys til lekselesing m.m.. Dette gjør det vanskelig for indianerne å følge opp skolen for barna.
 
 ![](/assets/images/siouxbarn.jpg)  
 Bilde fra Lyseggens egen samling.
@@ -103,11 +103,15 @@ Lise Lyseggen ruller ettertenksomt røyken til pausen etter intervjuet og gjenta
 ![](/assets/images/siouxind.JPG)  
 _Bilde fra Lyseggens egen samling._
 
+Les også artikler:
+
+[https://helping.no/sioux-indianerne-trenger-hjelp](https://helping.no/sioux-indianerne-trenger-hjelp "https://helping.no/sioux-indianerne-trenger-hjelp")
+
 **Annonse:  
 ![/assets/images/siouxsoul.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/siouxsoul.jpg)  
 Lise Lyseggens nettside om Sioux-hjelpen**:  
- [siouxsoul.no](http://siouxsoul.no/)  
+[siouxsoul.no](http://siouxsoul.no/)  
 Grasrotandel i Norsk tipping: Sioux Soul org nr 911899272.  
 [www.facebook.com/SiouxSoul?ref=stream](http://www.facebook.com/SiouxSoul?ref=stream)  
 E-post:  
- [Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
+[Lise.lyseggen@gmail.com](mailto:www.liseslyseggen.com/)
