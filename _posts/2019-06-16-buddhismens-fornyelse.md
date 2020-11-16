@@ -36,6 +36,9 @@ tags:
 - " Confusianisme"
 - Taoisme
 - Moksha
+- demytologisering
+- Nihonzan Myohonji.
+- Soka Gakkai
 title: Buddhismens fornyelse
 excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, samt
   Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
@@ -188,32 +191,32 @@ Under kulturrevolusjonen fikk buddhismen problematiske vilkår. Munker og nonner
 
 Religion ble tolket som "overtro" under kommunistregimet i Kina og ble motarbeid med alle midler. Buddhismen ble beskyldt for å være et redskap for lensvesenet.
 
-Myndighetenes konfiskering av buddhistiske klostereiendommer fant sted i 1950 - 52 under andreformen.
+Myndighetenes konfiskering av buddhistiske klostereiendommer fant sted i 1950 - 52 under andre formen.
 
 **Japan**
 
 Den religiøse situasjonen i Japan karakteriseres av pluralisme. Japan har innslag av følgende religioner: Indisk, kinesisk, gamle japanske religioner som f. Eks. Shinto, sekulariserte ideologier far vesten og kristendommen. Buddhismen har aldri hatt status som statsreligion i Japan.
 
-Buddhismens situasjon i Japan i dag har bl.a. sammenheng med den 2 verdenskrig. Etter krigen ble feydalsystemet oppløst og den moderne utviklingen begynte. Den omfattende psykologiske krisen i det japanske folket etter tapet av krigen var en stor utfordring for de japanske religionene. Denne utfordringen - eller rette sagt dette åndelige vakumet - klarte religionene ikke å fylle. Buddhismen hadde lite å stille opp med etter krigen på grunn av dens åndelige forringelsesprosess og krise. Buddhismen var preget av sektisme, formlisme, moralsk forfall og magiske elemneter. Dog fantes der frosøk på fornyelse, modernisering og bedring av indre forhold. De nye orienteringene i japansk buddhisme var bla.:
+Buddhismens situasjon i Japan i dag har bl.a. sammenheng med den 2 verdenskrig. Etter krigen ble feydal-systemet oppløst og den moderne utviklingen begynte. Den omfattende psykologiske krisen i det japanske folket etter tapet av krigen var en stor utfordring for de japanske religionene. Denne utfordringen - eller rette sagt dette åndelige vakumet - klarte religionene ikke å fylle. Buddhismen hadde lite å stille opp med etter krigen på grunn av dens åndelige forringelsesprosess og krise. Buddhismen var preget av sektisme, formalisme, moralsk forfall og magiske elementer. Dog fantes der forsøk på fornyelse, modernisering og bedring av indre forhold. De nye orienteringene i japansk buddhisme var bla.:
 
 \- Det humanistiske ideal som er en inspirasjon fra vesten. Buddha ble fremstilt som "verdens første humanist" og eb buddhistisk humanisme ble til.
 
-\- Rasjonalisme ved et det utviklet seg en demytologisering og kristisk holdning til religion. Dette var inspirert av vestens vitenskapelige intelektualisme. Buddhismen ble her sett på som den eneste verdensreligion som var i stand til å tilpasse seg til den "vitenskapelige ånd", og de nye strømningene.
+\- Rasjonalisme ved et det utviklet seg en demytologisering og kristisk holdning til religion. Dette var inspirert av vestens vitenskapelige intellektualisme. Buddhismen ble her sett på som den eneste verdensreligion som var i stand til å tilpasse seg til den "vitenskapelige ånd", og de nye strømningene.
 
-\- Øket åpenhet til livets dennesidige prblemer og verdier. Japansk Mahayana-buddhisme markerer seg først og fremst som en religion som er opptatt av vårt nåværende liv og ikke verdensfornektende klosteridealer som Theravada ofte beskyldes for. Buddjhist-etikken for legfolk fremhever behovet for en viss basis av materielle nødvendigheter og et behov for verdslig legfolk-etikk.
+\- Øket åpenhet til livets dennesidige prblemer og verdier. Japansk Mahayana-buddhisme markerer seg først og fremst som en religion som er opptatt av vårt nåværende liv og ikke verdensfornektende klosteridealer som Theravada ofte beskyldes for. Buddhist-etikken for legfolk fremhever behovet for en viss basis av materielle nødvendigheter og et behov for verdslig legfolk-etikk.
 
 \- Solidaritet med menneskeheten er en ny sosial bevissthet som ser på mennesket som et mikrokosmos i sammenheng med alt annet levende i et makrokosmos. Utviklingen av en verdensetikk til løsning av de globale verdensproblemene.
 
-\- Det oppsto også en nostalgisk utvikling tilbake til den opprinnelige buddhismen i India. Mange buddhister i Japan i dag ser den opprinnelige buddhismen som sitt ideal. I kjølvannet av dette finnes utstrakt pilgrimsvirksomhet til de hellige stedene i India, samt en øket samarbeidsvilje med alle buddhist-nasjoner.
+\- Det oppsto også en nostalgisk utvikling tilbake til den opprinnelige buddhismen i India. Mange buddhister i Japan i dag ser den opprinnelige buddhismen som sitt ideal. I kjølvannet av dette finnes utstrakt pilgrims-virksomhet til de hellige stedene i India, samt en øket samarbeidsvilje med alle buddhist-nasjoner.
 
 "**Nye religione" i japansk buddhisme.**
 
-Nichirenismen: dette er en buddhistisk moderne sekt, grunnlagt ved århundreskiftet, men buddhistisk fornyelse som mål. Dette bevegelsen legger vekt på Lotus Sutra og fremhever et individualistisk frihetsideal, heltedykelse, patriotisme og romatisme. Nichirenismen er inndelt i to sekter: Kokuchukai og Nihonzan Myohonji.
+Nichirenismen: dette er en buddhistisk moderne sekt, grunnlagt ved århundreskiftet, men buddhistisk fornyelse som mål. Dette bevegelsen legger vekt på Lotus Sutra og fremhever et individualistisk frihetsideal, heltedyrkelse, patriotisme og romantisme. Nichirenismen er inndelt i to sekter: Kokuchukai og Nihonzan Myohonji.
 
-Reiyukai-bevegelsen er den eldste av de nyere buddhistsektene. Den har også Lotus Sutraenes prinsipper som ideal, men praktiserer forfedredyrkelse. Daglig service for de døde er blant retualene. Bevegelsen har en kontakt mot hjelp til de fattige - en form for sosial service , et eterkt lederskap, etablering av livskraftige sentre og intense individuelle engasjementer i rituelle aktiviteter.
+Reiyukai-bevegelsen er den eldste av de nyere buddhistsektene. Den har også Lotus Sutraenes prinsipper som ideal, men praktiserer forfedredyrkelse. Daglig service for de døde er blant ritualene. Bevegelsen har en kontakt mot hjelp til de fattige - en form for sosial service , et eterkt lederskap, etablering av livskraftige sentre og intense individuelle engasjementer i rituelle aktiviteter.
 
 Shingon-bevegelsen er utviklet av Nichien-bevegelsen, men legger vekt på interesse for esoteriske dimensjoner. Denne bevegelsen deles i to sekter: Gedatsukai og Shinnyoen.
 
-Rissho Koseikai er isnpirert av Nichiren- Buddhismen og karakteriseres ved vektlegging på folklore og shamanistisk praksis.
+Rissho Koseikai er inspirert av Nichiren- Buddhismen og karakteriseres ved vektlegging på folklore og sjamanistisk praksis.
 
 Politisk buddhisme den såkalte Soka Gakkai er en religiøs politisk massebevegelse med tro på seg selv som absolutt. I tillegg hevdes denne retning å være "den eneste perfekte religion".
