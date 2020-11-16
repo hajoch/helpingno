@@ -21,6 +21,9 @@ tags:
 - helsegevinst
 - raske resultater?
 - vektproblemer
+- stoffskifte diett
+- slankemani
+- leserinnlegg
 title: Slanke-kurer
 excerpt: "Viktigst av alt etter en slankekur er å bedre dine kostholdsvaner i forhold
   til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den
@@ -37,9 +40,9 @@ Slankekur
 
 Vær skeptisk til alle slankekurer som lover raske resultater. Her er imidlertid to kurer som lover nettopp dette **innsendt fra våre lesere**: I vår redaksjon har vi ikke kompetanse på disse to kurene og vi svarer derfor nå ikke på spørsmål i tilknytning til disse.
 
-Vi får likevel mange henvendelser fra lesere med spørsmål om disse kurene. Noen ønsker å gjøre endringer på kuren fordi man ikke liker eller kan spise enkelte av de matvarer som er i oppskriften. Det er opp til deg selv om du ønsker å gjøre endringer på kuren. Men endrer du på kuren er det ikke sikkert at du oppnår de ønskede resultater. 
+Vi får likevel mange henvendelser fra lesere med spørsmål om disse kurene. Noen ønsker å gjøre endringer på kuren fordi man ikke liker eller kan spise enkelte av de matvarer som er i oppskriften. Det er opp til deg selv om du ønsker å gjøre endringer på kuren. Men endrer du på kuren er det ikke sikkert at du oppnår de ønskede resultater.
 
-Vi i redaksjonen anbefaler i stedet at du heller leser mer om Kosthold og mosjon og Slankemani her på helping.no fremfor å starter på en av disse kurene.
+Vi i redaksjonen anbefaler i stedet at du heller leser våre artikler om "[Kosthold og mosjon"](https://helping.no/den-beste-slankekuren-bedre-kosthold-og-mosjon "https://helping.no/den-beste-slankekuren-bedre-kosthold-og-mosjon") og "[Slankemani](https://helping.no/hvordan-du-skal-komme-deg-ut-av-en-slik-mani-slanking-og-slankemani "https://helping.no/hvordan-du-skal-komme-deg-ut-av-en-slik-mani-slanking-og-slankemani")" her på helping.no fremfor å starter på en av disse kurene.
 
 Vær kritisk til om du vil hoppe på disse kurene, men om du gjør det så ha også fjellvettregelen i tankene: "Det er ingen skam å snu". Du benytter slankekurene på egen risiko.
 
@@ -66,9 +69,9 @@ Denne dietten skal brukes i 3 dager av gangen, på de 3 dagene vil man tape opp 
 
 ![](/assets/images/bar.jpg)
 
-#### **Stoffskifte-diett "oppskrift"**
+#### Stoffskifte-diett "oppskrift"
 
-**Denne dietten varer i 13 dager, og er derfor hard, men effektiv. Dietten går ut på å endre ditt stoffskifte, hvilket medfører at du etter 13 dager kan spise normalt uten å legge på deg i de neste 2 år. Det er altså ikke en tradisjonell "sultekur", og virker derfor også etter diettens opphør.**
+Denne dietten varer i 13 dager, og er derfor hard, men effektiv. Dietten går ut på å endre ditt stoffskifte, hvilket medfører at du etter 13 dager kan spise normalt uten å legge på deg i de neste 2 år. Det er altså ikke en tradisjonell "sultekur", og virker derfor også etter diettens opphør.
 
 Hvis kuren følges slavisk, vil man tape alt overflødig kropps-fett ( 7 - 20kg.). Kuren skal følges i 13 dager, hverken mer eller mindre. Men som nevnt skal den følges slavisk. Hvis man under kuren drikker en øl/vin eller spiser slikkerier eller tyggegummi, eller spiser ekstra mat SÅ AVBRYT KUREN STRAKS, idet virkningen er bortfalt. Kuren kan IKKE gjenopptas før etter 1/2 år. Hvis man er kommet bare til den 6.te dagen, kan kuren gjennopptas etter 3 måneder. Hvis kuren er fulgt til punkt og prikke i alle 13 dagene, må den under ingen omstendigheter gjennopptas før det er gått 2 år.
 
