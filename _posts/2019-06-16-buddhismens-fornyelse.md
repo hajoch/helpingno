@@ -21,6 +21,21 @@ tags:
 - Indonesia
 - Kina
 - Japan
+- Shakayamuni
+- Maha-Bodhi
+- Sangha
+- Bhikkhus
+- " avsakralisert"
+- 'Dhammayuttikanikaya '
+- Prins Norodom Sinhanouk
+- Maha Bodhi Scociety
+- 'Anagarika Dhammapala '
+- Bodh Gaya
+- Colombo
+- Bhakti
+- " Confusianisme"
+- Taoisme
+- Moksha
 title: Buddhismens fornyelse
 excerpt: To faktorer spiller inn i fornyelsesprosessen; Inspirasjon fra vesten, samt
   Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
@@ -34,29 +49,29 @@ publish_date:
 weight: 7
 
 ---
-**De fleste sør- og øst-asiatiske land har tilknytning til Buddhisme på en eller annen måte: I de fleste av disse landene har Buddhismen en dominerende rolle.**
+**De fleste sør- og øst-asiatiske land har tilknytning til Buddhisme på en eller annen måte: I de fleste av disse landene har** [**Buddhismen**](https://helping.no/begrepene-lidelse-og-sjel-i-buddhismen "https://helping.no/begrepene-lidelse-og-sjel-i-buddhismen") **en dominerende rolle.**
 
 Liksom de andre store verdensreligionene har Buddhismen gjennomgått forandringer: Fornyelsesbevegelsen i Buddhismen begynte i det 19-århundre og har tatt markert form etter 1945. To faktorer spiller inn i denne fornyelsesprosessen; Inspirasjon fra vesten, samt Buddhismens egen styrke til å bryte tidligere stagnasjon og stå for denne fornyelsen.
 
-Den eldste tradisjonen innen Buddhismen kalles Theravada og antas å ha forandret seg minst. Theravada har beholdt de opprinelige basislæresetningene slik de er i skriftene Pali-kanon; Theravada har også langt stor vekt på at den historiske Buddha, Shakayamuni er den eneste Buddha, "de fire edle sannhetene" og den åttefoldige veien.
+Den eldste tradisjonen innen Buddhismen kalles Theravada og antas å ha forandret seg minst. Theravada har beholdt de opprinnelige basislæresetningene slik de er i skriftene Pali-kanon; Theravada har også langt stor vekt på at den historiske Buddha, Shakayamuni er den eneste Buddha, "de fire edle sannhetene" og den åttefoldige veien.
 
 De landene som i større og mindre utstrekning domineres av Theravada-tradisjonen er i dag: Sri Lanka, Burma, Bangladesh, Thailand, Cambodia og Laos. I tillegg til disse finnes Theravada-buddhismen i India og Indonesia, men i et langt mer beskjedent omfang.
 
 Den andre hovedretningen, Mahayana-buddhismen, har liksom Theravada bakgrunn i Indisk Buddhisme: Mahayana-buddhismen særmerkes med sin spesielle buddhalære: Buddha identifiseres her med universet og selvet og anerkjennes som prinsippet om den absolutte realitet. Buddha manifesteres i mange former, bl.a. i Bodhisattva-idealet. Bodhisattva defineres som et opplyst vesen med evne til å oppnå frigjøring fra Samsara det såkalte livshjulet.
 
-Mahayana-buddhismen har tradisjonelt stått sterkest i China, Taiwan, Vietnam, Malaysia, Korea, Japan og Tibet. Nepal har hatt en buddhistisk minoritet som til nå har vært fra mahayana-tradisjonen. Dette har endret seg noe ettersom en liten gruppe Maha-Bodhi-buddhister fra Theravadaretningen har etablert seg i Nepal. Politiske forhold har gjort buddhismens fremtid usikker, særlig i Kina, Vietnam, Nord-Korea og Tibet. Ca. 80.000 Tibetansk-buddhister lever i eksil i India og Nepal.
+Mahayana-buddhismen har tradisjonelt stått sterkest i China, Taiwan, Vietnam, Malaysia, Korea, Japan og Tibet. Nepal har hatt en buddhistisk minoritet som til nå har vært fra mahayana-tradisjonen. Dette har endret seg noe ettersom en liten gruppe Maha-Bodhi-buddhister fra Theravada-retningen har etablert seg i Nepal. Politiske forhold har gjort buddhismens fremtid usikker, særlig i Kina, Vietnam, Nord-Korea og Tibet. Ca. 80.000 Tibetansk-buddhister lever i eksil i India og Nepal.
 
 Selv om den teologiske og filosofiske forskjellen mellom Theravada og Mahayana kan virke stor, så dominerer enhetstanken i den Buddhistiske verden. For eksempel har buddhistene hatt en rekke verdenskongresser hvor det meste av den buddhistiske verden har vært representert.
 
 ![](/assets/images/buddha.jpg)
 
-**20.de århundres utvikling i Theravadalandene**.
+**20.de århundres utvikling i Theravada-landene**.
 
 Religionen har klart å til passe seg skiftende samfunnsforhold.
 
 \- Theravada-buddhismen er akseptert i alle samfunnslag: Religionen er blitt en naturlig del av landets kultur m.h.p. riter og munke orden den såkalte sangha. Både aristokratiet, munker og legfolk har opplevd theravada-buddhismen som meningsfylt.
 
-\- Theravada-buddhismen har inkorporert i seg ulike religiøse elementer fra ulike kilder. Eksepelvis elemener som Tantra, Brahmin, Mahayana etc..
+\- Theravada-buddhismen har inkorporert i seg ulike religiøse elementer fra ulike kilder. Eksempelvis elementer som Tantra, Brahmin, Mahayana etc..
 
 \- Theravada blir ofte identifisert med nasjonale verdier mot fremmede kulturer som f. eks. kristendommen i kolonitiden. Theravada-buddhismen tilpasset seg hver nasjons egenart slik at hvert land fikk sin egen Theravada-buddhisme.
 
@@ -69,7 +84,7 @@ Senere utvikling har gått i retning av, større vekt på buddhistisk utdannelse
 **Sri Lanka**:  
 Sri Lanka har dype røtter i buddhismen. Alt på keiser Ashokas tid ca. 3. årh. f. kr. kom Buddhismen til landet, og den historiske Buddha skal ha besøkt landet. Landet domineres av Theravada-buddhismen i dag, men andre buddhistiske retninger er også representert: som f. eks. Tantrayana, Mahayana m. fl..
 
-Sri Lanka har vært utgangspunkt for det meste av den buddhistiske rennesansen i Sør-Asia. - Det er først og fremst Sangha, (munkene), som har stått for denne fornøyelsen. Det er til sammen ca. 30.000 munker og nonner såkalte Bhikkhus, fordelt på 3 sekter. Ulikheten i sektene har bakgrunn i kasteforskjeller. Shanghaenes funksjoner i landet har først og fremst vært av seremoniell art, men også funksjoner innen politikk, sosialarbeid og utdannelse. Etter den engelske okkupasjonen og frem til 1940-50 årene hadde buddhismen stor fremgang på Sri Lanka; men etter dette begynte en gradvis nedgang.
+Sri Lanka har vært utgangspunkt for det meste av den buddhistiske renessansen i Sør-Asia. - Det er først og fremst Sangha, (munkene), som har stått for denne fornøyelsen. Det er til sammen ca. 30.000 munker og nonner såkalte Bhikkhus, fordelt på 3 sekter. Ulikheten i sektene har bakgrunn i kasteforskjeller. Shanghaenes funksjoner i landet har først og fremst vært av seremoniell art, men også funksjoner innen politikk, sosialarbeid og utdannelse. Etter den engelske okkupasjonen og frem til 1940-50 årene hadde buddhismen stor fremgang på Sri Lanka; men etter dette begynte en gradvis nedgang.
 
 Årsakene til denne nedgangen for Theravada-buddhismen kan kort sammenfattes slik:
 
@@ -85,7 +100,7 @@ Sri Lanka har vært utgangspunkt for det meste av den buddhistiske rennesansen i
 
 Effekten av nedgangen har vært at den yngre generasjonen munker forlater Sanghaen etter å ha skaffet seg en akademisk utdannelse. Dette fører igjen til at et større antall munker og nonner er legfolk og at sangha har mistet sin vitalitet.
 
-En fornyelse blant legfolk er imidlertidig i gang, i form av organisasjoner som Buddhist Theosophical Society som ble grunnlagt i 1880. Men Theravada-buddhismen har hatt vansker med å tilfredstille de intellektuelle samfunnsklasser, og misjonsinnsatsen har ebbet ut. Den mest livskraftige Buddhist-organisasjon i landet i dag er Buddhist Publication Society i Kandy som utgir en rekke bøker og tidskrifter.
+En fornyelse blant legfolk er imidlertidig i gang, i form av organisasjoner som Buddhist Theosophical Society som ble grunnlagt i 1880. Men Theravada-buddhismen har hatt vansker med å tilfredsstille de intellektuelle samfunnsklasser, og misjonsinnsatsen har ebbet ut. Den mest livskraftige Buddhist-organisasjon i landet i dag er Buddhist Publication Society i Kandy som utgir en rekke bøker og tidskrifter.
 
 **Burma**:  
 I Burma fikk munkene den såkalte sangha en viktig maktposisjon i samfunnet p.g.a. at Pali-tekstene - det eneste autoritative Theravada-buddhistiske kanon - ikke var tilgjengelig på landets språk. Munkene var de eneste som hadde språkkunnskaper og kompetanse til å oversette og formidle kunnskapene. Dette førte til at Pali-tekstene ble akseptert ukritisk, noe som utviklet følgende tendenser: Det ble ikke tatt noen avgjørelse om sannferdigheten av det skriftlige materialet vis a vi folkereligionene i landet. Og det oppsto en stor ortodoks tradisjon, men likevel med en rekke spesielle andre religiøse retninger innen Theravada-buddhismen som avvek fra de ortodokse.
@@ -113,7 +128,7 @@ Den senere utviklingen i buddhismen i Thailand kan sammenfattes i tre punkter:
 
 \- Reformer for munkene kom med munken Buddhadasa. Buddhadasa bygde opp et moderne buddhistsenter i Chaiya i Syd-Thailand. Her tok han i bruk moderne massemedia, teater, bibliotek etc. Buddhadasa trekker sin egen essens av Buddhismen; Han mener at Buddhismens ytterste realitet er hinsides menneskelige ord, og er således på linje med mystikerne. Han er overbevist om en universell sannhet. Eksistens er bindingen som fører til stolthet og egoisme, ble det hevdet. Binding til eksistens er et religiøst anliggende. Hans frelsersvei er "ikke-bevissthet" og frihet. Buddhadasa har også oversatt Mahayana-tekster, samt japanske og kinesiske tekster. Han regnes som en brobygger mellom buddhismen og kristendommen - såkalt mellom Gud og Dharma.
 
-Thai-buddhismen kan bli et Tharavadasenter for verdens-buddhismen p.g.a. den nye intelektuelle vitalitet i landet som har gitt inspirasjon til den øvrige Buddhistiske verden.
+Thai-buddhismen kan bli et Tharavada-senter for verdens-buddhismen p.g.a. den nye intellektuelle vitalitet i landet som har gitt inspirasjon til den øvrige Buddhistiske verden.
 
 **Khmer:**  
 Buddhisttradisjonene i Cambodia er stolte og hovedsakelig dominert av Theravada, men det finnes også innslag av Hinduisme, Mahayana-buddhismen og animistisk praksis såkalt åndedyrking. Buddhismen er offentlig statsreligion i Cambodia, og det meste av befolkningen er buddhister. Munkene er inndelt i to ordener:
@@ -142,38 +157,38 @@ India er Buddhismens moderland, men kan likevel ikke sies å være et buddhistis
 
 \- Maha Bodhi Scociety ble grunnlagt i 1891 av Anagarika Dhammapala i Colombo på Sri Lanka. Foreningens målsetning var å restaurere de hellige stedene i India, særlig i Bodh Gaya. Foreningen utga tidsskrifter og var etablert først på Sri Lanka, men siden i India hvor der i dag finnes sentre i Calcutta, Sarnath og Bodh Gaya m.fl.. Foreningens virksomhet i India i dag blir oppfattes som fremmed, streng og statisk i mål og intensjoner.
 
-\- Intelektuelle og filosofiske sider ved Buddhiamen har sentre ved universitetene. Dette gjelder intellektuelle som ikke har konvertert til Buddhismen. Det er den mystiske Bhakti og de humanistiske sidene ved Buddhismen som har interesse, men også at Buddhismen ikke har den hinduistiske rangorden.
+\- Intelektuelle og filosofiske sider ved Buddhismen har sentre ved universitetene. Dette gjelder intellektuelle som ikke har konvertert til Buddhismen. Det er den mystiske Bhakti og de humanistiske sidene ved Buddhismen som har interesse, men også at Buddhismen ikke har den hinduistiske rangorden.
 
-\- Tibetansk buddhismen. Ca. 80.000 flyktinger fra Tibet bor i eksil i India. Disse er tibetanske buddhister og representerer en tantrisk (Mahayana-retning) tradisjon.
+\- Tibetansk buddhismen. Ca. 80.000 flyktninger fra Tibet bor i eksil i India. Disse er tibetanske buddhister og representerer en tantrisk (Mahayana-retning) tradisjon.
 
-\- Konverteringer fra de kateløse indere. Kaste hinduer har konvertert til buddhismen i stor utstrekning for å bedre sine sosial kår. Dette representerer en psykologisk frigjøring for disse som gir politiske og økonomiske fordeler.
+\- Konverteringer fra de kasteløse indere. Kaste hinduer har konvertert til buddhismen i stor utstrekning for å bedre sine sosial kår. Dette representerer en psykologisk frigjøring for disse som gir politiske og økonomiske fordeler.
 
 **Indonesia.**  
 Indonesia har vært inndelt i en rekke dynastier, noen av den var i perioder buddhistiske. Etter ar disse buddhistiske periodene var over var buddhismen begrenset til kosterne.
 
 Det oppsto en synkretistisk retning på Jahva som dyrket Shiva-Buddha.
 
-Den Buddhistiske fiornyelsen på Indonesia kom med kinesisk innvandring. Ca 3 mill. kinesere brakte med seg Buddhismen, Confusianisme og Taoisme. Myndighetene har tidligere sett på buddhismen som en kultur og ikke som en religion på grunn av vakre byggverk i gamle klosterruiner på øyene. Nå ble klosterne fornyet. Den tapte innflytelsen ble gjenvunnet, religionsundervisning i buddhisme ble innført og det ble forfattet en rekke bøker om buddhisme.
+Den Buddhistiske fornyelsen på Indonesia kom med kinesisk innvandring. Ca 3 mill. kinesere brakte med seg Buddhismen, Konfusianisme og Taoisme. Myndighetene har tidligere sett på buddhismen som en kultur og ikke som en religion på grunn av vakre byggverk i gamle klosterruiner på øyene. Nå ble klostrene fornyet. Den tapte innflytelsen ble gjenvunnet, religionsundervisning i buddhisme ble innført og det ble forfattet en rekke bøker om buddhisme.
 
 Fornyelsen skapte imidlertid problemer: regjeringen fastholdt troen på Gud hvilket ga kompromiet Kahyang Buddha (hvilket innebærer en forestilling om Gud-Buddha).
 
-Videre manglet enighet om doktriner innen Theravada og Mahayana. Til sist kolliderte den verdensfornektende Moksha.asketismen med den indonesiske regjweringen som satset sterkt på å løse landets materielle og praktske problemer.
+Videre manglet enighet om doktriner innen Theravada og Mahayana. Til sist kolliderte den verdensfornektende Moksha-asketismen med den indonesiske regjeringen som satset sterkt på å løse landets materielle og praktiske problemer.
 
 Indonesia har pluralisme: Buddhismen, hinduismen. Islam og kristendommen er representert her.
 
 **Mahayana - buddhismen i det 20 århundre.**
 
-Mahayanatradisjonene har sin opprinnelse i India. Den inneholder mange forskjellige bevegelser og lærer. Den har utviklet særtrekk etter den kulturen der Mahayana har slått rot. Den vider fremstillingen konsentreres om utviklingen i Kina og Japan.
+Mahayana-tradisjonene har sin opprinnelse i India. Den inneholder mange forskjellige bevegelser og lærer. Den har utviklet særtrekk etter den kulturen der Mahayana har slått rot. Den vider fremstillingen konsentreres om utviklingen i Kina og Japan.
 
 **Kina**.
 
-Den kinesiske buddhismen baserer seg tradisjonelt på et stort antall klostere , omkring 200.000 - over hele landet, med opp til hundre munker i hvert kloster. Buddhist-klosterne var maktfaktorer i samfunnet. Den øverste hierarkiske enhet var klosterabbeden, og der var ingen høyere organisasjon over klosterne. Kloserne hadde store variasjoner seg i mellom, alt etter sekttilhørighet. Buddhismen var ikke nasjonalrelgion i Kina. Konfusianismen og Taoismen m.fl. eksisterte side om side med buddhismen. Buddhismen ble således ikke symbol på nasjonal identitet liksom på Sri Lanka. Bare 1 - 2 % av befolkningen var erklærte buddhister - dessuten var og er religion i Kina en privat sak.
+Den kinesiske buddhismen baserer seg tradisjonelt på et stort antall kloster, omkring 200.000 - over hele landet, med opp til hundre munker i hvert kloster. Buddhist-klostrene var maktfaktorer i samfunnet. Den øverste hierarkiske enhet var klosterabbeden, og der var ingen høyere organisasjon over klostrene. Klostrene hadde store variasjoner seg i mellom, alt etter sekttilhørighet. Buddhismen var ikke nasjonal-religion i Kina. Konfusianismen og Taoismen m.fl. eksisterte side om side med buddhismen. Buddhismen ble således ikke symbol på nasjonal identitet liksom på Sri Lanka. Bare 1 - 2 % av befolkningen var erklærte buddhister - dessuten var og er religion i Kina en privat sak.
 
-Under kulturrevolusjonen fikk buddhismen problematiske vilkår. Munker og nonner ble tvunget ut av klosterne og inn i produktivt arbeid. Klosterne ble ofte omgjort til boliger av rødegardistene. Buddhistisk hellig kunst ble ødelagt. Noe dukket opp til salgs i Hong Kong senere.
+Under kulturrevolusjonen fikk buddhismen problematiske vilkår. Munker og nonner ble tvunget ut av klostrene og inn i produktivt arbeid. Klostrene ble ofte omgjort til boliger av rødegardistene. Buddhistisk hellig kunst ble ødelagt. Noe dukket opp til salgs i Hong Kong senere.
 
 Religion ble tolket som "overtro" under kommunistregimet i Kina og ble motarbeid med alle midler. Buddhismen ble beskyldt for å være et redskap for lensvesenet.
 
-Myndighetenes konfiskering av buddhistiske klostereiendommer fan sted i 1950 - 52 under andreformen.
+Myndighetenes konfiskering av buddhistiske klostereiendommer fant sted i 1950 - 52 under andreformen.
 
 **Japan**
 
