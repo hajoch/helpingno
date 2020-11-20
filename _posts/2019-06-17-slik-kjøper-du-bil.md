@@ -10,7 +10,7 @@ tags:
 - sikkerhetstest på biler
 - eierskifte
 - kjøpekontrakt
-title: Slik kjøper du bil
+title: Bilkjøp?
 excerpt: 'Her er sjekklista '
 image: "/assets/images/veteran19.jpg"
 image_caption: Foto Gunnar Christensen. Motiv fra veteranbilmessa i Froland - i mai
