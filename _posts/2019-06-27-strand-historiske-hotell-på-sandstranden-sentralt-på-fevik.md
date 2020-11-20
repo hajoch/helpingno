@@ -13,7 +13,7 @@ tags:
 - sørlandsidyll
 - spa
 - spahotell
-title: Strand Hotell på Fevik
+title: Strand Hotell, Fevik
 excerpt: 'Test: Strand historiske Hotell på Fevik er en Sørlandsperle både når det
   gjelder beliggenhet og arkitektur. Her har selskapslokaler og kjøkkenet vært testet
   fra 1960-tallet og frem til i dag: Barnedåp, konfirmasjon og bryllup i tillegg til
@@ -25,7 +25,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 5
 
 ---
 **Historie**  
