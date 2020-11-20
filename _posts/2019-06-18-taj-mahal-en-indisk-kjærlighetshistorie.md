@@ -12,13 +12,13 @@ tags:
 - Murmatz Mahal
 - Sjah Jahan
 - '1632'
-title: 'Taj Mahal: En indisk kjærlighetshistorie'
-excerpt: 'I det forbudte gravkammeret: Den klemmene, tunge og mørke stillheten kun
-  opplyst av min lille lykt. Hvite marmorkister. Støvete stillhet nede i dette gravkammeret
-  avbrytes kun av subbende skritt som et fjernt ekko høyt over gravkammeret forbi
-  hullet i gulvet som fører ned hit hvor jeg er. Ingen våger seg ned hit. Kanskje
+title: En indisk kjærlighetshistorie
+excerpt: 'I det forbudte gravkammeret på Taj Mahal: Den klemmene, tunge og mørke stillheten
+  kun opplyst av min lille lykt. Hvite marmorkister. Støvete stillhet nede i dette
+  gravkammeret avbrytes kun av subbende skritt som et fjernt ekko høyt over gravkammeret
+  forbi hullet i gulvet som fører ned hit hvor jeg er. Ingen våger seg ned hit. Kanskje
   fordi det er ulovlig? Vil vaktene finne meg? Snart lukkes den massive stein blokka
-  i gulvet over meg? Blokka som ikke skal åpnes igjen før om tusen år?'
+  i gulvet over meg? Blokka som ikke skal åpnes igjen før om år?'
 image: "/assets/images/tajmahal.jpg"
 image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske pilegrimer
   i India og Nepal. Dette for å få innpass i de tibetanske miljøene og klostrene for
