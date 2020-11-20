@@ -8,8 +8,8 @@ tags:
 - foto
 - foto digital bilde
 - Nikon
-title: Skagen i Danmark
-excerpt: Foto fra Skagen i Danmark
+title: Skagen, Danmark
+excerpt: Foto fra sommeridyll på Skagen i Danmark
 image: "/assets/images/skagen5.jpg"
 image_caption: Foto Gunnar Chtristensen
 author: _authors/gunnar-christensen.md
