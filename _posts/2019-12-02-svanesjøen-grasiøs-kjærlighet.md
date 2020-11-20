@@ -11,7 +11,7 @@ tags:
 - sjøfugl
 - hvite svaner
 - naturfoto
-title: Svanesjøen - Grasiøs kjærlighet
+title: Grasiøs kjærlighet
 excerpt: FOTO
 image: "/assets/images/svane1-1.jpg"
 image_caption: Foto Gunnar Christensen
