@@ -17,7 +17,7 @@ tags:
 - Galtesund
 - Gjessøya
 title: Den gode samtalen.
-excerpt: Novelle.
+excerpt: Novelle for barn og voksne.
 image: "/assets/images/IMG_2753.JPG"
 image_caption: 'Foto: Gunnar Christensen. Den gode samtalen mellom foreldre og barn
   er en av de viktigste tegn på et godt foreldre-barn-forhold. Det er viktig med slike
@@ -35,7 +35,7 @@ Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vind
 Dette er gutteturen vi har gledet oss til lenge. Vi skal lande og sove på Gjessøya. En øy med flott, ren sandstrand like utenfor Hove i Arendal. Alt vi trenger er med. Telt, soveposer, liggeunderlag….. Nå har han pappa helt for seg selv. Det er hans tur nå.  Mamma og brødrene er hjemme…. De har kurs ut Galtesund.
 
 \- Hva er religion, pappa?  
-\- En veiledning på livet.  
+\- En veiledning om livet vårt.  
 Vi ler. Tittan vet at pappa elsker spørsmål fra barna sine og gjør alt han kan for å forklare alt så lett som mulig. Samtidig kan han spøke med alt.  
 \- Nå tuller du pappa!  Det er jo påhengsmotoren vi trenger brukerveiledning til….  
 \- Ikke bare til den. Livet kan være mye vanskeligere å forstå enn påhengeren.  
