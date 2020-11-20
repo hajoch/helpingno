@@ -16,7 +16,8 @@ tags:
 - guttedrømmen
 - trendbil
 - ikon
-title: 'Mustang - Guttedrømmen '
+- trimmet
+title: Ford Mustang - 2005 - 425hk
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
   Trimmet til 425 hk.
@@ -26,7 +27,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 Mustangen er en bil med en stolt og lang historie få andre bilmodeller kan konkurrere med. Den er en klassiker alle elsker. Mustangen er ikke bare en bil, det er et verdenskjent ikon. Bilen har vært vanvittig populær i flere tiår blant alle aldersgrupper og nasjonaliteter. Og denne gang var det Helping Bil sin tur til å oppleve denne velkjente muskelbilen.
@@ -47,7 +48,7 @@ Mustangen drikker sjokkerende mye bensin, og med dagens norske drivstoffpriser s
 
 Bilen er herlig å kjøre. Det er nemlig en helt spesiell følelse å sitte bak rattet i denne bilen, du som sjåfør sitter dypt nede i et robust og komfortabelt skinnsete med dårlig sikt fremover grunnet panseret design. Fremfor deg møter du et fantastisk retro interiør med ett mellomtjukt Mustang-ratt aller fremst. Designet her er enkelt, men utrolig elegant. Pedalene er harde, men gode å legge føttene på.
 
-Når du så vrir om nøklen brummer umiddelbart 425 ville mustang hester som er godt forberedt om føreren presser gasspedalen i gulvet. V8'erens lyd er en veldig sentral ting ved bilen. Den er en av de store faktorene som gjør denne bilen fantastisk. Lyden av den åttesylindrede motoren er ubeskrivelig, den er herlig uansett turtall og gir. Med høyt turtall i de fire første girene opplever man en hylende fryktinngytende motordur med en vanvittig akselerasjon. Mens i femte og siste gir får man en herlig klukkende motordur som låter veldig amerikansk. Men ikke misforstå, i femte gir er det også nok av krefter til å føre deg videre frem i enda høyere fart.
+Når du så vrir om nøkkelen brummer umiddelbart 425 ville mustang hester som er godt forberedt om føreren presser gasspedalen i gulvet. V8'erens lyd er en veldig sentral ting ved bilen. Den er en av de store faktorene som gjør denne bilen fantastisk. Lyden av den åttesylindrede motoren er ubeskrivelig, den er herlig uansett turtall og gir. Med høyt turtall i de fire første girene opplever man en hylende fryktinngytende motordur med en vanvittig akselerasjon. Mens i femte og siste gir får man en herlig klukkende motordur som låter veldig amerikansk. Men ikke misforstå, i femte gir er det også nok av krefter til å føre deg videre frem i enda høyere fart.
 
 Det tar i likhet med mange andre biler litt tid å bli helt komfortabel med Mustangen. Blant annet er bilens girspak er hardt å gire med, spesielt i den første prøveturen på grunn ulikheten fra en vanlig personbil, men om litt føles også denne perfekt ut. Det er først etter man er kommet over ulikhetene fra vanlige biler og frykten for å skade en slik dyr og kraftfull bil at man virkelig kan nyte Mustangen. Nyte den brutale og eksplosive akselerasjon, den høylytte herlige amerikanske åttesylindrede motorduren og rett og slett hele følelsen ved å kjøre bilen. Etter å ha kjørt denne bilen sitter jeg igjen med en øresus og en opplevelse som har brent seg inn i minnet mitt for evig tid.
 
