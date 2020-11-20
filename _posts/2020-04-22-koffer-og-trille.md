@@ -16,8 +16,8 @@ tags:
 - katt som kosedyr
 - skogskatt
 title: Koffer møter Trille
-excerpt: Barnebok for de minste - en kos god natt-historie om Koffer, Trille og bilen
-  Karamell som kalles Storebrum.
+excerpt: Barnebok. En kos god natt-historie om Koffer, Trille og bilen Karamell som
+  kalles Storebrum.
 image: "/assets/images/gutt (2).jpg"
 image_caption: 'Illustrasjon: Anne Bakke'
 author: _authors/gunnar-christensen.md
