@@ -13,7 +13,7 @@ tags:
 - billig bil
 - kollisjonssikkerhet
 - god bilseter framme
-title: 'Volvo V40 modell 2013:'
+title: 'Volvo V40 - 2013:'
 excerpt: |-
   Vi testet denne som ny i 2012. Nå er den en rimelig og god bruktbil. Les vårt førsteinntrykk den gang.
   At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på NCAP-testen alt  i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen flotte kjøreegenskaper og et tiltalende og moderne design.
@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Ja, alt er vel og bra med V 40 helt til du setter deg inn i baksetet: Det er trangt å komme seg inn og ut og slik sett likner bilen på Mercedes A-klasse. Så i klassen "kompakte familiebiler" finnes konkurrenter som lettere får bestemor inn i baksetet.
