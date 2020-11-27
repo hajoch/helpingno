@@ -17,7 +17,7 @@ tags:
 - solcelletegl
 - billige husbatteri
 - mange strømsparingstiltak
-title: Varmepumpe øker strømforbruket - men fremtiden har mange muligheter
+title: Varmepumpe? Fremtiden har mange muligheter
 excerpt: |-
   Langtidstest - Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig i vintersesongene.
   Les også om nyheten billigere husbatteri og strømsparing som utkonkurrerer solcelle-investeringen.
