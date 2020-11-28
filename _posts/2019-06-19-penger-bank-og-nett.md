@@ -26,8 +26,8 @@ image_caption: |+
 
 categories:
 - _category/bolig.md
-publish_date: 2020-05-10 00:00:00 +0200
-weight: 3
+publish_date: 2020-11-28 21:44:10 +0100
+weight: 5
 
 ---
 **PC-bruker oppdager ikke**
