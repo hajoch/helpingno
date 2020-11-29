@@ -28,8 +28,8 @@ publish_date: 2020-09-24 00:00:00 +0200
 weight: 8
 
 ---
-**Ny takst på boligen gir billigere boliglån?   
-**Har det gått en tid siden fikk lånet på huset? Og har boligen din steget i verdi? Har du pusset opp?   
+**Ny takst på boligen gir billigere boliglån?**  
+Har det gått en tid siden fikk lånet på huset? Og har boligen din steget i verdi? Har du pusset opp?  
 Da lønner det seg å få en ny meklervurdering av pris eller takst på boligen. Og hvis den øker? Da går du til banken og ber om billigere låne-betingelser fordi egenandelen din i boligen har økt: Lånet er kanskje også noe nedbetalt og verdien har steget. Det betyr at du har større egenkapital i boligen og bankens lane andel blir mindre. Da må brøken endres og du får billigere boligutgifter.
 
 **Slik sparer du penger**  
@@ -49,7 +49,7 @@ Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene e
 
 Det er da de profesjonelle aktørene går med tyngde inn i markedet med sine aksjeoppkjøp til lave kurser: For de vet at kursene vil gå opp senere og de har mye å tjene på å kjøpe. De vurderer tidspunkt nøye: Når er markedet på det laveste før oppgangen?
 
-Investeringene i bærekraftige arbeidsplasser er trolig mest lønnsom nå fremover. Såkalte grønne aksjer. Da støtter du vår fremtidige bærekraftige arbeidsplasser.  
+Investeringene i bærekraftige arbeidsplasser er trolig mest lønnsom nå fremover. Såkalte grønne aksjer. Da støtter du vår fremtidige bærekraftige arbeidsplasser.
 
 **Låne billig til huskjøp av staten?**  
 Statens pensjonskasse har Gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
