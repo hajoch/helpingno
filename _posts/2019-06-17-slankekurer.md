@@ -29,8 +29,8 @@ excerpt: "Gratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\"\n\nViktigst
   alt etter en slankekur er å bedre dine kostholdsvaner i forhold til før du startet
   kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves.
   \n"
-image: "/assets/images/eple1.jpg"
-image_caption: 'Foto: Gunnar Christensen'
+image: "/assets/images/cha.jpg"
+image_caption: Arkivfoto
 categories:
 - _category/helse.md
 publish_date: 
