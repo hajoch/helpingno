@@ -28,6 +28,10 @@ publish_date: 2020-09-24 00:00:00 +0200
 weight: 8
 
 ---
+**Ny takst på boligen gir billigere boliglån?   
+**Har det got en tid siden fikk lånet på huset? Og har boligen din steget i verdi. Har du pusset opp?   
+Da lønner det seg å få en ny meklervurdering av pris eller takst på boligen. Og hvis den øker? Da går du til banken og ber om billigere låne-betingelser fordi egenandelen din i boligen har økt: Lånet er noe nedbetalt og verdien har steget betyr større egenkapital i boligen og bankens andel blir mindre. Da må brøken endres og du får billigere boligutgifter.
+
 **Slik sparer du penger**  
 Sjekk om du har det rimeligste tilbud innen bank og forsikring på:[ www.finansportalen.no](http://www.finansportalen.no/)
 
