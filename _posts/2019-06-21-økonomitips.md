@@ -52,10 +52,10 @@ Det er da de profesjonelle aktørene går med tyngde inn i markedet med sine aks
 Investeringene i bærekraftige arbeidsplasser er trolig mest lønnsom nå fremover. Såkalte grønne aksjer. Da støtter du vår fremtidige bærekraftige arbeidsplasser.
 
 **Låne billig til huskjøp av staten?**  
-Statens pensjonskasse har Gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
+Statens pensjonskasse har gunstige lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
 
 **Ung hus-kjøper**  
-Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
+Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg i gang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
 [husbanken.no/lan/soke-startlan/](http://www.husbanken.no/lan/soke-startlan/)
 
 **Helårs reiseforsikring**  
