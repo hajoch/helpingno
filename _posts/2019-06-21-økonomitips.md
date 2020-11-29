@@ -19,7 +19,7 @@ tags:
 - Ray Dalio
 title: Økonomitips
 excerpt: Gode råd i personlig økonomi. Gi deg selv en trygg fremtid.
-image: "/assets/images/bruktbat.jpg"
+image: "/assets/images/skagen5.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
