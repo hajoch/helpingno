@@ -17,7 +17,7 @@ tags:
 - trendbil
 - ikon
 - trimmet
-title: Ford Mustang - 2005 - 425hk
+title: 'Ford Mustang - 2005 '
 excerpt: |-
   Bruktbiltest - Ford Mustang - 2005 V8.
   Trimmet til 425 hk.
@@ -27,7 +27,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Mustangen er en bil med en stolt og lang historie få andre bilmodeller kan konkurrere med. Den er en klassiker alle elsker. Mustangen er ikke bare en bil, det er et verdenskjent ikon. Bilen har vært vanvittig populær i flere tiår blant alle aldersgrupper og nasjonaliteter. Og denne gang var det Helping Bil sin tur til å oppleve denne velkjente muskelbilen.
