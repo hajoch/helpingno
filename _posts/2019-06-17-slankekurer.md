@@ -24,10 +24,11 @@ tags:
 - stoffskifte diett
 - slankemani
 - leserinnlegg
-title: Slanke-kurer
-excerpt: "Viktigst av alt etter en slankekur er å bedre dine kostholdsvaner i forhold
-  til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den
-  fort være forgjeves. \nGratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\""
+title: Slankekur
+excerpt: "Gratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\"\n\nViktigst av
+  alt etter en slankekur er å bedre dine kostholdsvaner i forhold til før du startet
+  kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves.
+  \n"
 image: "/assets/images/eple1.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
