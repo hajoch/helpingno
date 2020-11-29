@@ -10,10 +10,12 @@ tags:
 - sjøreise
 - taxfree
 - søreise
-title: 'Kiel-ferga: Flott reisemål'
-excerpt: 'Test: Med skipene "Fantasy" og "Magic" har Color Line utviklet Oslo-Kiel-fergen
-  til et reisemål for folk i alle aldere. Skipene holder god standard med et variert
-  tilbud. Color line holder skipene godt ved like og gir deg en kvalitets-reise.'
+- helgetur
+- minicruise
+title: Flott reisemål
+excerpt: 'Test Kiel-ferga: Med skipene "Fantasy" og "Magic" har Color Line utviklet
+  Oslo-Kiel-fergen til et reisemål for folk i alle aldere. Skipene holder god standard
+  med et variert tilbud. Color line holder skipene godt ved like og gir deg en kvalitets-reise.'
 image: "/assets/images/magic.jpg"
 image_caption: 'En firestjerners lugar ombord er flott, stilig og behagelig. Samtidig
   gir denne standard lugar adgang til å spise frokost uten trengsel i akter-restauranten
@@ -21,8 +23,8 @@ image_caption: 'En firestjerners lugar ombord er flott, stilig og behagelig. Sam
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/båt.md
-publish_date: 2020-07-20 00:00:00 +0200
-weight: 7
+publish_date: 2020-11-29 00:00:00 +0100
+weight: 5
 
 ---
 Forbinder du Color Line med den overfylte danskebåten "Color Superspeed" i sommerhalvåret så er dette en helt annen opplevelse: Du er på en form for cruise. Ombord finnes et så variert tilbud at det skjeden føles overfylt der du er. Her er trim, spa, revy, casino, handlegate, badeland for barna og flere flotte spisesteder.
