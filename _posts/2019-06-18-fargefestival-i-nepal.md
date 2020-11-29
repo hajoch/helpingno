@@ -15,7 +15,7 @@ title: Holi - Fargefestival i Nepal
 excerpt: Mange legender knytter seg til denne feiringen. En av dem går ut på fortellingen
   om gudeparet Rada og Krishna og den guddommelige kjærligheten mellom dem.
 image: "/assets/images/maske.jpg"
-image_caption: Gunnar Christensen ( foto)reiste i 1979 sammen med en gruppe europeiske
+image_caption: Gunnar Christensen ( foto) reiste i 1979 sammen med en gruppe europeiske
   pilgrimmer i India og Nepal. Dette for å få innpass i de tibetanske miljøene og
   klosterne for å samle stoff til sin master/hovedoppgave i religionsvitenskap.
 categories:
