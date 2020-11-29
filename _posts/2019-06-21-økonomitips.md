@@ -49,8 +49,10 @@ Den beste fortjenesten oppnår du når markedet har sunket en stund og kursene e
 
 Det er da de profesjonelle aktørene går med tyngde inn i markedet med sine aksjeoppkjøp til lave kurser: For de vet at kursene vil gå opp senere og de har mye å tjene på å kjøpe. De vurderer tidspunkt nøye: Når er markedet på det laveste før oppgangen?
 
+Investeringene i bærekraftige arbeidsplasser er trolig mest lønnsom nå fremover. Såkalte grønne aksjer. Da støtter du vår fremtidige bærekraftige arbeidsplasser.  
+
 **Låne billig til huskjøp av staten?**  
-Statens pensjonskasse har gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
+Statens pensjonskasse har Gunstigere lån ved bl.a. boligkjøp enn de private bankene. Er du offentlig ansatt bør du sjekke mulighetene her.
 
 **Ung hus-kjøper**  
 Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån som kan hjelpe deg igang med en gunstig finansiering av din første bolig. Les mer om betingelsene:  
@@ -60,7 +62,7 @@ Husbankens gunstige startlån ved første boligkjøp. Dette er et gunstig lån s
 er den billigste og beste løsningen også på korte reiser. Helårs reiseforsikring dekker deg vanligvis når du er utenfor hjemkommunen hele året. Reiseforsikring som selges sammen med reisen hos reisebyrået er betydelig dyrere enn helårs reise.  Stol ikke på at reiseforsikringen på kredittkortet dekker deg fullt ut.
 
 **Hold forsikringsselskapene i ørene**  
-Sjekk alltid premien på dine forsikringer.
+Sjekk alltid premien på dine forsikringer. Hvert år?
 
 Det er mye penger å tjene på å sjekke prisene på dine forsikringer. Særlig ved hvert hovedforfall. I god tid før hovedforfall bør du sjekke prisene ved å ta en telefon eller nettsjekk til flere andre selskap der du ber om et tilbud på ditt forsikringsbehov. En av våre redaksjons-medarbeidere sparte mer enn fem tusen kroner i forsikringspremie ved siste prissammenligning på hus, bil og båt.
 
@@ -71,6 +73,10 @@ Forhør deg også med venner og kjente om de er fornøyd med selskapet du vurder
 **Post- og teletilsynet har nettstedet:**  
 [www.telepriser.no](http://www.telepriser.no/)  
 hvor du kan gjøre prissammenligning på leverandører av bredbånd.
+
+![](/assets/images/img_3952.JPG)
+
+Foto: Gunnar Christensen
 
 ***
 
