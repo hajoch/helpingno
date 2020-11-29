@@ -17,7 +17,7 @@ tags:
 - ta bilder for å dokumentere leiekontrakt
 - markedsføring
 - " skatt ved utleie"
-title: Slik leier du ut hytta.
+title: Leier du ut hytta?
 excerpt: Står hytta ledig det meste av året? Da har du en mulig inntektskilde. En
   inntektskilde som kan finansiere lånet eller gi midler til vedlikehold og oppgradering
   av hytta. Eller penger til sydentur? Her er praktiske råd når du leier ut hytta.
@@ -102,7 +102,7 @@ Salgsmelding på bolig skal inneholde opplysninger om radonverdien i boligen, me
 Du kan bestille radonmatter i gulvet når du bygger nytt hus. Enkelte hus-produsenter som f.eks svenske Alvbyhus har dette som standard i husene de leverer i Norge. Tiltak som f.eks tetting av sprekker i eksisterende hus kan dempe radon i huset. Dette må overlates til spesialister på dette. Ofte er radonplagen verst i kjeller og blir mindre plagsom oppover etasjene. Store områder av Oslo har radon-plager. Det finnes radon-kart over ditt boligområde. Snakk med kommunen eller sjekk nettstedet under. Du får kjøpt rimelige måleapparat til å måle radon i din bolig på nett. Mer informasjon:  
 [www.nrpa.no/radon](http://www.nrpa.no/radon)
 
-**Lykke til med hytteutleie.**
+Lykke til med hytteutleie.
 
-**Link**  
+Link  
 [www.nrpa.no/radon](http://www.nrpa.no/radon)
