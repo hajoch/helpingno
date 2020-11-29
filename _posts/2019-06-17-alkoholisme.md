@@ -27,10 +27,10 @@ image_caption: 'Foto: Gunnar Christensen.'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
-Alkoholisme har kanskje så mye som tretti % arvelighet. Så hvis både mor og far er rusavhengige om det så bare er borgerlige alkoholikere, så gjør du best ikke å røre selv svake rusmidler som svakøl. Kriteriene for alkoholisme og selv ordet er mye diskutert blant både leg og lærd. Indianeren i Gjøkredet sa: I begynnelsen så drakk far av flaska. På slutten drakk flaska av far. Og blant menn i Norge kan en tiendel være innenfor en diagnose som alkoholisme (alkoholavhengighet). Kvinner snart fire % av befolkningen! Når sykdommen (og selv det å kalle det en sykdom er diskutert blant de lærde)) er så utbredt, er det lett å skjønne at behandlingen har en politisk side.
+Alkoholisme har kanskje så mye som tretti % arvelighet. Så hvis både mor og far er rusavhengige om det så bare er borgerlige alkoholikere, så gjør du best ikke å røre selv svake rusmidler som svak-øl. Kriteriene for alkoholisme og selv ordet er mye diskutert blant både leg og lærd. Indianeren i Gjøkredet sa: I begynnelsen så drakk far av flaska. På slutten drakk flaska av far. Og blant menn i Norge kan en tiendels være innenfor en diagnose som alkoholisme (alkoholavhengighet). Kvinner snart fire % av befolkningen! Når sykdommen (og selv det å kalle det en sykdom er diskutert blant de lærde)) er så utbredt, er det lett å skjønne at behandlingen har en politisk side.
 
 Men en sak er det nesten enighet om: Totalavholdenhet må til. Og er du gift med en alkoholiker som vil slutte å drikke. Ja, gjerne etter ei kraftig fyll. Så fjern all alkohol. Lege må kontaktes for å vurdere muligheten for kramper og det vi kaller fylleslag (delir eller eventuelt delirium tremens). Det tar gjerne en alkoholavhengig femten år for å kunne få fylleslag fra han eller hun begynte å drikke. Men her er det ingen absolutt regel.
 
