@@ -11,6 +11,7 @@ tags:
 - bruktbiltest
 - bruktbiljakt
 - VW og rust
+- nostalgi
 title: '"Bobla" modell 2012.'
 excerpt: 'Når du vrir om tenningsnøkkelen i Bobla kom i "gamle dager" et brøl fra
   den luftkjølte "boxer-motoren" bakerst. Det skjer ikke nå. I stedet starter en stillegående
