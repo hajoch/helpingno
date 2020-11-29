@@ -30,7 +30,7 @@ excerpt: "Gratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\"\n\nViktigst
   kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves.
   \n"
 image: "/assets/images/cha.jpg"
-image_caption: Arkivfoto
+image_caption: Motiv fra Kypros - foto GC
 categories:
 - _category/helse.md
 publish_date: 
