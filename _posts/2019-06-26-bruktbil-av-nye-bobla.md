@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 1
 
 ---
 Testbilen fra 2012 har en 1,2 liters 105 hk TSI bensinmotor. I dag er det VW rust-problemer som er en risiko du må vurdere ved kjøp. 
