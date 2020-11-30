@@ -12,7 +12,7 @@ tags:
 - bruktbiljakt
 - VW og rust
 - nostalgi
-title: '"Bobla" modell 2012.'
+title: '"Bobla" - 2012.'
 excerpt: 'Når du vrir om tenningsnøkkelen i Bobla kom i "gamle dager" et brøl fra
   den luftkjølte "boxer-motoren" bakerst. Det skjer ikke nå. I stedet starter en stillegående
   Golf-motor framme i "bagasjerommet". Du har kjøreegenskapene og støydempingen til
