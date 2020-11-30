@@ -14,7 +14,9 @@ tags:
 - diesel
 - firehjulstrekk
 - bruktbil suv
-title: BMW X5 modell 2011
+- skinnseter
+- automatgir
+title: BMW X5 - 2011
 excerpt: 'Bruktbiltest:  Fantastisk bil. Motoren er en rekkesekser på 3 liter som
   yter 211 heter, modell 2011 kanskje verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
