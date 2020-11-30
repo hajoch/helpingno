@@ -8,9 +8,11 @@ tags:
 - foto
 - foto digital bilde
 - Nikon
+- sandstrand
+- Danmerks nordkapp
 title: Skagen, Danmark
 excerpt: Foto fra sommeridyll på Skagen i Danmark
-image: "/assets/images/skagen5.jpg"
+image: "/assets/images/dkb3.jpg"
 image_caption: Foto Gunnar Chtristensen
 author: _authors/gunnar-christensen.md
 categories:
