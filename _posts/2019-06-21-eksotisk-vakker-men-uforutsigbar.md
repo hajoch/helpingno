@@ -19,11 +19,12 @@ tags:
 - terror
 - Bodhi-tre
 - reinkarnasjon
-title: 'Sri Lanka: Eksotisk, vakker, men uforutsigbar'
-excerpt: 'Hver morgen stiger en skog av master og seil frem over horisonten utenfor
-  Negombos kyststripe: Fiskerne kommer med dagens fangst i sine tradisjonelle, spinkle
-  småbåter. Det likner et mektig sjøslag og er kampen for det dagligebrød i et farlig
-  farvann hjemsøkt av menneskeetende hai. '
+- Tamiler
+title: Sri Lanka
+excerpt: 'Eksotisk, vakker, men uforutsigbar: Hver morgen stiger en skog av master
+  og seil frem over horisonten utenfor Negombos kyststripe: Fiskerne kommer med dagens
+  fangst i sine tradisjonelle, spinkle småbåter. Det likner et mektig sjøslag og er
+  kampen for det daglige brød i et farlig farvann hjemsøkt av menneske-etende hai. '
 image: "/assets/images/fiskere.jpg"
 image_caption: 'Foto Gunnar Christensen. Hver morgen stiger en skog av master og seil
   frem over horisonten utenfor Negombos kyststripe: Fiskerne kommer med dagens fangst
@@ -64,26 +65,26 @@ Flere severdigheter er tilknyttet landets religiøse tradisjon. Ved Anuradhapadu
 
 Jernbanen har to forskjellige sporbredder. De eldste smalsporede togene dekker lokalsteder og stammer fra den engelske kolonitiden. Langdistansene dekkes av nyere tog produsert i Canada. Jernbanetrafikk er rimelig og dermed tilgjengelig for de fleste.
 
-Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til tross forfor sin oftest skrøpelige tekniske forfatning. Men OBS: Uoppmerksomme turister kan lett bli lurt på prisen hvis den ikke avtales på forhånd.
+Turister foretrekker oftest drosjene. De dekker som oftest turistenes behov til tross for sin oftest skrøpelige tekniske forfatning. Men OBS: Uoppmerksomme turister kan lett bli lurt på prisen hvis den ikke avtales på forhånd.
 
 **Tradisjonelle fiskebåt på Negombo-stranden**
 
-BIlde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka
+Bilde: Stupaen er den helligste del av et buddhisttempel på Sri Lanka
 
 ![](/assets/images/stupa.jpg)
 
 **Religion**  
 Fire verdensreligioner er representert på Sri Lanka. Hinduene som holder til i nord ? bedre kjent som tamiler dekker omkring tjue prosent, muslimer og kristne står for omkring åtte prosent og resten domineres av den eldste tradisjonen innen buddhismen, Theravada.
 
-Buddhistisk religiøs praksis bygger på tanken om medlidenhet og kjærlighet med alt som lever. I tillegg avtandstaken til materielle påvirkninger, noe munker og nonner tar størst mulig konsekvens av. Ved omkring tusen hellige steder på øya finnes omkring tjue tusen munker og et mindre antall nonner. De bor ikke i kloster liksom i vestens kristen kultur, men tar aktivt del i samfunnets dagligliv. Munker og legfolk har siden Buddhas tid hatt en gjensidig avhengighet av hverandre. Legfolk er de næringsdrivende. De forsørger seg selv og munkene med livets nødvendigheter, mens munkene står for det åndelige.
+Buddhistisk religiøs praksis bygger på tanken om medlidenhet og kjærlighet med alt som lever. I tillegg avstand-taking til materielle påvirkninger, noe munker og nonner tar størst mulig konsekvens av. Ved omkring tusen hellige steder på øya finnes omkring tjue tusen munker og et mindre antall nonner. De bor ikke i kloster liksom i vestens kristen kultur, men tar aktivt del i samfunnets dagligliv. Munker og legfolk har siden Buddhas tid hatt en gjensidig avhengighet av hverandre. Legfolk er de næringsdrivende. De forsørger seg selv og munkene med livets nødvendigheter, mens munkene står for det åndelige.
 
 Over alt på gater og torg finnes munker i sine lett gjenkjennelige orange kapper, med paraply mot sol og regn, og tiggerskål. Alt de eier og har på seg er gaver fra legfolk. De anses å ha høyere åndelig status enn legfolk fordi de tenkes å være nærmere Nirvana og derfor har få gjenfødsler framfor seg.
 
-De hellige stedene hvor de fleste munkene lever har en Stupa, et bodhi-tre og et tempel. Stupaen er helligst og finnes i forskjellige størrelser: En rund kuppel med fire offeraltere ved foten, samt et spir på toppen. Tradisjonelt inneholdt stupaer Buddha-relikvier. Bodhi-treet er hellig fordi Buddha skal ha fått sin visdom under et tre av denne art. Tempelet har malerier og billedlige fremstillinger av myter. Sentralt i tempelet er Buddha-figuren, oftest sittende i lotusstilling.
+De hellige stedene hvor de fleste munkene lever har en Stupa, et Bodhi-tre og et tempel. Stupaen er helligst og finnes i forskjellige størrelser: En rund kuppel med fire offeraltere ved foten, samt et spir på toppen. Tradisjonelt inneholdt stupaer Buddha-relikvier. Bodhi-treet er hellig fordi Buddha skal ha fått sin visdom under et tre av denne art. Tempelet har malerier og billedlige fremstillinger av myter. Sentralt i tempelet er Buddha-figuren, oftest sittende i lotusstilling.
 
 Ved de hellige stedene kommer og går legfolk for å be og meditere foran treet og Buddha-figuren, eller ofre røkelse og blomster. Det er ingen regelmessige seremonier ved disse stedene. Menneskene kommer og går når det passer dem.
 
 **Ekteskap**  
 Gamle normer for ekteskapsinngåelse er gradvis i forandring. Foreldre bestemte tidligere barnas fremtidige ekteskapelige fremtidsskjebne, og slik er det delvis fremdeles. Når avisspaltene ettersøker maker er det ofte foreldrene som står bak etterspørselen, ikke de unge selv. Horoskop og sosial status er vurderingsgrunnlag. Europeere er svært populære på ekteskapsmarkedet...
 
-OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. I tillegg kom koranen i 2020. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
+OBS: Etter terror på Sri Lanka april 2019 anbefales en omfattende risikovurdering før reise hit. I tillegg kom korona i 2020. Les alltid UDs oppdaterte reiseråd før du reiser: [https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/](https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/ "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_srilanka/id2424492/")
