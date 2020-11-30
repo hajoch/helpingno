@@ -12,7 +12,7 @@ tags:
 - Danmerks nordkapp
 title: Skagen, Danmark
 excerpt: Foto fra sommeridyll på Skagen i Danmark
-image: "/assets/images/dkb3.jpg"
+image: "/assets/images/mobbing.jpg"
 image_caption: Foto Gunnar Chtristensen
 author: _authors/gunnar-christensen.md
 categories:
