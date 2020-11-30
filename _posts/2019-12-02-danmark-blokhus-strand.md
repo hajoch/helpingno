@@ -33,9 +33,7 @@ weight: 3
 
 ![](/assets/images/dkb7.jpg)
 
-![](/assets/images/dkb8.jpg)
-
-![](/assets/images/mobbing.jpg)
+![](/assets/images/dkb8.jpg)![](/assets/images/mobbing.jpg)
 
 ![](/assets/images/dkb12.jpg)
 
