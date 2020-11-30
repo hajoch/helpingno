@@ -11,9 +11,9 @@ tags:
 - Yanmarin
 - AMT
 - Honda
-title: 'Bowrider-duell: AMT 185BR mot Yamarin 58BR'
+title: Bowrider-duell
 excerpt: |-
-  Test: Når AMT-båtene markedsføres med at de er bedre enn du forventer, da er det umulig for en båtkjøper å gå forbi. Først tror man AMT 158BR er et plagiat - en lavkostlandkopi av Yamarin 58BR. Men så viser det seg nesten heller å være helt motsatt.
+  Test AMT 185BR mot Yamarin 58BR.  Når AMT-båtene markedsføres med at de er bedre enn du forventer, da er det umulig for en båtkjøper å gå forbi. Først tror man AMT 158BR er et plagiat - en lavkostlandkopi av Yamarin 58BR. Men så viser det seg nesten heller å være helt motsatt.
 
   Mange foretrekker bowrider fremfor seajeep fordi de nå er lei av å være våte og forblåste i vind og regn på sjøen.
 image: "/assets/images/yam58br.2.jpg"
@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 **Aimo Mustonen har designet begge båtene.**  
