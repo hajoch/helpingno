@@ -16,16 +16,17 @@ tags:
 - Mattilsynet
 - er plast-flasker trygge
 title: Plastflasker kan gi kreft?
-excerpt: EU-forskning viser nå at plastflaskene som bl.a. brukes til salg av drikkevann
-  avgir det helseskadelig stoffet antimon som ved daglig bruk over lengre tid kan
-  være kreftfremkallende. Rent, trygt vann er avgjørende for god helse.
+excerpt: 'Rent, trygt vann er avgjørende for god helse, men... EU-forskning viser
+  nå at plastflaskene som bl.a. brukes til salg av drikkevann avgir det helseskadelig
+  stoffet antimon som ved daglig bruk over lengre tid kan være kreftfremkallende. '
 image: "/assets/images/flasker.jpg"
-image_caption: "Foto Gunnar Christensen. Bruk en glassflaske med skrukork når du tar
-  med deg drikkevann. \n"
+image_caption: "Bruk en glassflaske med skrukork når du tar med deg drikkevann. OBS:
+  Ikke la glassflasker ligger løst i bilen når du kjører. Foto Gunnar Christensen.
+  \n"
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Dette rammer også de samme flaskene som brukes til salg av øl, mineralvann og det meste av emballasjen som benyttes til matvarer.
