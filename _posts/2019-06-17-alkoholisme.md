@@ -27,7 +27,7 @@ image_caption: 'Foto: Gunnar Christensen.'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 4
 
 ---
 Alkoholisme har kanskje så mye som tretti % arvelighet. Så hvis både mor og far er rusavhengige om det så bare er borgerlige alkoholikere, så gjør du best ikke å røre selv svake rusmidler som svak-øl. Kriteriene for alkoholisme og selv ordet er mye diskutert blant både leg og lærd. Indianeren i Gjøkredet sa: I begynnelsen så drakk far av flaska. På slutten drakk flaska av far. Og blant menn i Norge kan en tiendels være innenfor en diagnose som alkoholisme (alkoholavhengighet). Kvinner snart fire % av befolkningen! Når sykdommen (og selv det å kalle det en sykdom er diskutert blant de lærde)) er så utbredt, er det lett å skjønne at behandlingen har en politisk side.
