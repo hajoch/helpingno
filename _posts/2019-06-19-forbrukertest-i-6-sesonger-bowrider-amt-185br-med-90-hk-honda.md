@@ -16,6 +16,7 @@ tags:
 - dagsturbåt
 - 18 foter
 - vannski og familiebåt
+- selvlenser
 title: AMT 185BR med 90 hk Honda
 excerpt: "Forbrukertest i 6 sesonger med Bowrider: Da AMT-båtene kom på markedet ble
   de markedsført som \"bedre enn du forventer\". Da var det spennende å se om dette
