@@ -15,7 +15,7 @@ tags:
 - 'elektronisk måleutstyr '
 - papirkart
 - båtsportkart
-title: Sjøkart du ikke kan stole på?
+title: Sjøkart er ikke sikre?
 excerpt: 'Hvem har ikke opplevd grunner som ikke står på sjøkartet: En farlig situasjon
   særlig i høy fart. Fremdeles er ikke alle grunner langs norskekysten på plass i
   sjøkartene våre. Dette fordi kapasiteten er for lav i registrering av norske farvann.
@@ -26,7 +26,7 @@ image_caption: Motiv fra Nidelven i Arendal. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 2
 
 ---
 **Nye kart**  
@@ -41,3 +41,5 @@ Mange mener derfor at papirkartet - såkaldt båtsportkartet - gir best oversikt
 Dessuten ned med farten nær land der du ikke er kjent. Et godt tips er å legge deg bak en kjentmann i farvannet.
 
 **Ta hensyn til dyre- og fugleliv og trivsel for alle på sjøen: Det betyr at du senker farten for kajakk, kano og småbåter samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en del av idyllen - og ikke en bølle på sjøen.**
+
+![](/assets/images/b08.2.jpg)
