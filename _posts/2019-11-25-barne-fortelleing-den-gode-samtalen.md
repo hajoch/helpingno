@@ -19,10 +19,10 @@ tags:
 title: Den gode samtalen.
 excerpt: Novelle for barn og voksne.
 image: "/assets/images/oct-004-1.jpg"
-image_caption: 'Foto: Gunnar Christensen. Den gode samtalen mellom foreldre og barn
-  er en av de viktigste tegn på et godt foreldre-barn-forhold. Det er viktig med slike
-  samtaler fordi det skaper trygghet, innsikt og refleksjoner for begge parter. Novelle
-  for barn og voksne'
+image_caption: 'Illustrasjon foto: Gunnar Christensen. Den gode samtalen mellom foreldre
+  og barn er en av de viktigste tegn på et godt foreldre-barn-forhold. Det er viktig
+  med slike samtaler fordi det skaper trygghet, innsikt og refleksjoner for begge
+  parter. Novelle for barn og voksne'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
