@@ -18,7 +18,7 @@ tags:
 - Gjessøya
 title: Den gode samtalen.
 excerpt: Novelle for barn og voksne.
-image: "/assets/images/IMG_2753.JPG"
+image: "/assets/images/oct-004-1.jpg"
 image_caption: 'Foto: Gunnar Christensen. Den gode samtalen mellom foreldre og barn
   er en av de viktigste tegn på et godt foreldre-barn-forhold. Det er viktig med slike
   samtaler fordi det skaper trygghet, innsikt og refleksjoner for begge parter. Novelle
@@ -30,7 +30,7 @@ publish_date:
 weight: 8
 
 ---
-Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Capsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
+Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Kapsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
 
 Dette er gutteturen vi har gledet oss til lenge. Vi skal lande og sove på Gjessøya. En øy med flott, ren sandstrand like utenfor Hove i Arendal. Alt vi trenger er med. Telt, soveposer, liggeunderlag….. Nå har han pappa helt for seg selv. Det er hans tur nå.  Mamma og brødrene er hjemme…. De har kurs ut Galtesund.
 
