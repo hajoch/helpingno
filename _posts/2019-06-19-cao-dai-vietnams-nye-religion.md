@@ -10,7 +10,13 @@ tags:
 - Cau Dai
 - synkretisme
 - asiatisk religion
-title: 'Cao Dai: Vietnams nye religion'
+- forfedrekult
+- spiritisme
+- Konfucianisme
+- Phu van Chieu
+- reinkarnasjon
+- synkretisk religion
+title: Cao Dai - religion i Vietnam
 excerpt: 'De to viktigste religiøse elementer i Cao Dai er først forfedrekulten som
   har dype tradisjoner i denne del av verden. Dernest den vitenskapelige spiritismen,
   som kom til Vietnam med det franske koloniregimets tjenestemenn. '
@@ -19,7 +25,7 @@ image_caption: Foto GC
 categories:
 - _category/religion.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Cao Dai-religionen oppfyller alle tidligere religioners frelsesløfter og er syntesen av alle tidligere verdensreligioner. Det hevder kildene til denne Vietnamesiske religionen. Cao Dai er trolig den siste betydelige tilvekst blant Vietnams religioner med mer enn to millionertilhengere alt mens franske koloniherrer ennå var i landet.
