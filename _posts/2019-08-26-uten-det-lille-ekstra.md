@@ -9,7 +9,13 @@ tags:
 - overnatting
 - fjellhotell
 - vinterdestinasjon
-title: Uten det lille ekstra.
+- Geilo
+- Bergensbanen
+- Underbemannet
+- Seig hjortefilet
+- feil stekegrad
+- spark kjøkkensjefen
+title: Uten det lille ekstra. Her kan mye forbedres!
 excerpt: Historiske dr. Holms hotell, Geilo testes i en spesiell anledning. Flott
   billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint
   vær og dagstur med toget til Finse.
