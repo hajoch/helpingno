@@ -10,6 +10,9 @@ tags:
 - dokumentar om krigen
 - Bøker. Krigsseilere Michelet krig
 - historie
+- Jon Michelet
+- Skogsmatrosen
+- Garhardsen regjeringens skam
 title: 'Sjøens helter - krigsseilernes kamp '
 excerpt: "Den største skam i norsk etterkrigshistorie er norske regjeringers behandling
   av krigsseilerne. \nBokanmeldelse av Jon Michelet bokserie."
@@ -17,8 +20,8 @@ image: "/assets/images/bokanm.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/boker.md
-publish_date: 2019-07-05 00:00:00 +0200
-weight: 7
+publish_date: 
+weight: 8
 
 ---
 Sjømannsliv og krigseilas: Bøkene hedrer krigsseilerne
