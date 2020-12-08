@@ -27,8 +27,8 @@ image: "/assets/images/jan.17 (1).jpg"
 image_caption: 'Foto: Gunnar Christensen. Motiv fra Revesand på Tromøy ved Arendal.'
 categories:
 - _category/bolig.md
-publish_date: 2020-10-12 00:00:00 +0200
-weight: 8
+publish_date: 
+weight: 5
 
 ---
 **Før du inngår avtale**  
