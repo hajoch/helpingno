@@ -26,7 +26,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 8
+weight: 5
 
 ---
 Er ikke hytta fin nok? Vær klar over at det er et marked for hytter med alle type standarder. Fra de helt enkle til den best utstyrte. Behovene for rekreasjon varierer fra meneske til menneske og fra familie til familie. Vær også klar over at utenlandske statsborgere også etterspør utleiehytter. De har kanskje andre preferanser enn nordmenn både med hensyn på tidspunkt fr leie, beliggenhet og standard.
