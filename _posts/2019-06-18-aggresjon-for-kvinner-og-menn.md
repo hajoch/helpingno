@@ -27,16 +27,18 @@ publish_date:
 weight: 7
 
 ---
-Og han er ofte fornøyd med det første skopar han får tak i.   
+Og han er ofte fornøyd med det første skopar han får tak i.  
 Stornøyd er han ikke.
 
 Dette med den intense ofte kortvarige aktiviteten og det at han sloss for å bli konge på haugen er to viktige deler av mannens aggresjon.
 
+klager
+
 Kvinnen har to deler av aggresjonen hun også. Den ene formen er fordekt som baktaling. Hun sladrer til far på ungene. Hun går til sjefen og har bare noe hun må si. Hun klager til barna på far. Hun splitter og hersker. En effektiv måte å herske på som bare går i dass når hun må ta side i en konfliktsituasjon.
 
-Den andre måten hun har er at hun setter grenser. Hun bestemmer   
-over de ytre former i familien og i bedriften. Hun pukker på lojalitet før arbeidskapasitet og moral. Hun vil bli dyrket eller dronning på haugen.   
+Den andre måten hun har er at hun setter grenser. Hun bestemmer  
+over de ytre former i familien og i bedriften. Hun pukker på lojalitet før arbeidskapasitet og moral. Hun vil bli dyrket eller dronning på haugen.  
 Hvis hun blir sett så roer hun seg mye.
 
-Mannens intense opptatthet og kvinnens evne til å sette grenser er to former for aggressivitet som vi trenger. Det gjelder bare å få formene   
+Mannens intense opptatthet og kvinnens evne til å sette grenser er to former for aggressivitet som vi trenger. Det gjelder bare å få formene  
 til å trekke samme vei i en gruppe.
