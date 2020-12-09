@@ -33,7 +33,7 @@ excerpt: Barneboka Aima handler om ei lita hulder med evner og egenskaper som er
   og fremmede for mange av oss. Aima er en ekte norsk produksjon ikke oversatt som
   så mye annet for barn.
 author: _authors/henning-j-grini.md
-weight: 8
+weight: 5
 
 ---
 Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
