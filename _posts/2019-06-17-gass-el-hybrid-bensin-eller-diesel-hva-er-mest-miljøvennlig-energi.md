@@ -30,7 +30,7 @@ image_caption: ''
 categories:
 - _category/bil.md
 publish_date: 
-weight: 8
+weight: 5
 
 ---
 En bil på gass forurenser mindre og ikke i det hele tatt avhengig av typen gass. Bensinbiler kan etter en liten ombygging kjøres direkte på propangass. Men hvorfor er gass så lite brukt i Norge? Flere andre europeiske land har kjørt på gass i flere tiår. Avgiftskutt og andre fordeler på el-biler er nok svaret.
@@ -82,4 +82,4 @@ Dagens teknologi gjør dette mulig for en vanlig forbruker. Så hvor er regjerin
 
 Tenk over hvor avhengig vårt samfunn er av strøm. Bryter strømtilførselen sammen må vi ha andre alternativer og teknologi til å finne erstatning for strøm.
 
-Denne problemstillingen med alternativene til el-biler drukner nå i elbil-hysteriet som Norge stort sett er alene i verden om å prioritere så trekt. Når forstår vi at  hydrogenbilen i langt større grad tilhører fremtiden?
+Denne problemstillingen med alternativene til el-biler drukner nå i elbil-hysteriet som Norge stort sett er alene i verden om å prioritere så strekt. Når forstår vi at  hydrogenbilen i langt større grad tilhører fremtiden?
