@@ -83,3 +83,7 @@ Dagens teknologi gjør dette mulig for en vanlig forbruker. Så hvor er regjerin
 Tenk over hvor avhengig vårt samfunn er av strøm. Bryter strømtilførselen sammen må vi ha andre alternativer og teknologi til å finne erstatning for strøm.
 
 Denne problemstillingen med alternativene til el-biler drukner nå i elbil-hysteriet som Norge stort sett er alene i verden om å prioritere så trekt. Når forstår vi at  hydrogenbilen i langt større grad tilhører fremtiden?
+
+Linker:
+
+[https://www.tv2.no/broom/11814760/]()
