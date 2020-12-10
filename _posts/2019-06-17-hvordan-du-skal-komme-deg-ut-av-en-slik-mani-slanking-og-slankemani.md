@@ -16,7 +16,7 @@ image_caption: 'Motiv fra Tunisia. Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Har du slått opp på slanking som søkerord, lider du nok av en eller annen grad av slankemani. Dvs.; En nesten sykelig opptatthet av slanking. Ofte sier du da budskaper til deg selv med negativt fortegn. F.eks; Nå må jeg ikke spise for mye. Hjernen hører da ofte bare budskapet, spise. Prøv heller å si; Jeg spiser riktig. Søk på angst eller tvang og finn gode råd om hvordan du skal komme deg ut av en slik mani som ligger mellom angst og tvang etter min vurdering.
