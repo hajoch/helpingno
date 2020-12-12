@@ -8,7 +8,8 @@ tags:
 - mat
 - karboavhengighet
 title: Sukker
-excerpt: Sukkeravhengighet
+excerpt: 'Sukkeravhengighet: En avhengighet er noe du ofte trenger litt hjelp til
+  komme ut av.'
 image: "/assets/images/roma6-1.jpg"
 image_caption: 'Illustrasjonsbilde: Christoffer JOre Christensen'
 author: _authors/odd-m-lunde.markdown
