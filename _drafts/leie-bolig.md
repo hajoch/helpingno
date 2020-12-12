@@ -6,7 +6,7 @@ tags:
 - bolig
 title: Leie bolig
 excerpt: ''
-image: ''
+image: "/assets/images/dkb11.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories:
