@@ -7,6 +7,11 @@ tags:
 - sukker
 - mat
 - karboavhengighet
+- slanking
+- overvekt
+- " avhengighet"
+- diabetes
+- angst
 title: Sukker
 excerpt: 'Sukkeravhengighet: En avhengighet er noe du ofte trenger litt hjelp til
   komme ut av.'
