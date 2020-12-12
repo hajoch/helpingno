@@ -5,7 +5,8 @@ crop_image: true
 tags:
 - bolig
 title: Leie bolig
-excerpt: ''
+excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
+  sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
 image: "/assets/images/dkb11.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
