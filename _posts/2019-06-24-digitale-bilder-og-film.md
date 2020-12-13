@@ -8,10 +8,10 @@ tags:
 - digital fotografering og filming
 - bilder
 title: Digitale bilder og film
-excerpt: Har du sikret bilder og filmer mot husbrann, pc-kollaps, usikre skyer, mobiltyveri
+excerpt: Har du sikret bilder og filmer mot husbrann, PC-kollaps, usikre skyer, mobiltyveri
   og innbrudd?
 image: "/assets/images/juli31.jpg"
-image_caption: "Foto:Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
+image_caption: "Foto: Gunnar Christensen. \nMotiv fra Gjendevann i Jotunheimen"
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
