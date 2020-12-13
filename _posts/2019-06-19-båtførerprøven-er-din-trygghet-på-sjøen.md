@@ -17,7 +17,7 @@ tags:
 - kjøreregler på sjøen
 - grunnkunnskap på sjøen
 - båtvett
-title: Båtførerprøven.
+title: Båtlappen.
 excerpt: 'Ta hensyn til badende barn og voksne, dyre- og fugleliv og trivsel for alle
   på sjøen: Det betyr bl.a. at du senker farten for kajakk, kano og småbåter samt
   fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en
