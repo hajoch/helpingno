@@ -20,7 +20,7 @@ tags:
 title: Økonomitips
 excerpt: Gode råd i personlig økonomi. Gi deg selv en trygg fremtid.
 image: "/assets/images/skagen5.jpg"
-image_caption: Foto Gunnar Christensen
+image_caption: ''
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/bolig.md
