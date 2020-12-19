@@ -21,8 +21,8 @@ image_caption: 'Foto: Gunnar Christensen'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
-publish_date: 2020-11-01 12:00:17 +0100
-weight: 8
+publish_date: 
+weight: 4
 
 ---
 **Piggdekksesongen i Norge**
