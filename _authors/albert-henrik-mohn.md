@@ -4,7 +4,9 @@ title: 'Albert Henrik Mohn. '
 image: "/assets/images/a.h.mohn.jpg.jpg"
 
 ---
-Fødsler i 1918 - 1999, NRK-korrespondenter, forfatter
+(Født1918 - død 1999) 
+
+NRK-korrespondenter, forfatter
 
 ##### Bibliografi forfatter:
 
