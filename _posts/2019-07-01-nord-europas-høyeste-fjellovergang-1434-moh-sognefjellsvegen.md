@@ -14,9 +14,10 @@ tags:
 - sommer i fjellet
 - vakker natur
 title: " Sognefjellsvegen    "
-excerpt: |-
-  Fotoserie. Nord-Europas høyeste fjellovergang 1434 moh: Kanskje verdens vakreste fjellovergang? Dette er riksvei 55 mellom Lom og Gaupne hele 108 km lang og en populær turistvei som stadig flere vil
-  kjøre på. Tett på Jotunheimen Nasjonalpark og Breheimen med mange topper over 2000 moh..
+excerpt: 'Fotoserie. Nord-Europas høyeste fjellovergang 1434 moh: Kanskje verdens
+  vakreste fjellovergang? Dette er riksvei 55 mellom Lom og Gaupne hele 108 km lang
+  og en populær turistvei som stadig flere vil kjøre på. Tett på Jotunheimen Nasjonalpark
+  og Breheimen med mange topper over 2000 moh..'
 image: "/assets/images/sogn1.jpg"
 image_caption: Foto Hallvard Jore Christensen og  Christoffer Jore Christensen
 author: _authors/hallvard-j-christensen.md
