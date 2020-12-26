@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 5
 
 ---
 ###### Kjøpe båt i Sverige?
