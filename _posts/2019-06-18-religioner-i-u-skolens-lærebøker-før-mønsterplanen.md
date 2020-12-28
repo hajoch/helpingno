@@ -30,7 +30,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/boker.md
 publish_date: 
-weight: 7
+weight: 4
 
 ---
 **Presseomtale av: Albert Henrik Mohn, NRKs tidligere Moskva korrespondent, krigs-reporter, forfatter mm..**
