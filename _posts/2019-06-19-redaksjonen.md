@@ -13,7 +13,7 @@ tags:
 - sponsing
 - frilansere hos helping.no
 - utviklingshjelp
-title: Redaksjonen i helping.no
+title: Redaksjonen
 excerpt: |2+
 
   Helping-teamet presenter et bredt tilbud av
