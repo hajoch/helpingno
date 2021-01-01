@@ -40,7 +40,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Perioder og hendelser som får oss til å gi slipp på tidligere overførte eller selvvalgte ideer om oss selv og verden på mange plan. Stort sett i sammenheng med at vi tilegner oss nye. Hvor vi da beveger oss videre som et annet menneske. Livet er forandring og døden er for de fleste den mest uoversiktlige forandringen vi kjenner. Livet i vårt vestlige samfunn kjennetegnes ved stor frihet og mange valgmuligheter. Vi har mye selvstendig kontroll og mange påvirkningsmuligheter. Døden innebærer den absolutte eksistensielle mangel på kontroll.
