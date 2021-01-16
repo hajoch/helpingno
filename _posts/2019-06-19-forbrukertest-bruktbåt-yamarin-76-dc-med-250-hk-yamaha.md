@@ -28,7 +28,7 @@ image_caption: Yamarin 76 DC med Yamaha 250 hk. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 8
 
 ---
 **YAMARIN 76 DC med 250 hk Yamaha.**
