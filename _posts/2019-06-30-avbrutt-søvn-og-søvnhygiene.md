@@ -32,7 +32,7 @@ author: _authors/odd-m-lunde.markdown
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 5
 
 ---
 Stort sett er slike gode råd tuftet over tre lester. Det er: Lys, hørsel eller bevegelse.
