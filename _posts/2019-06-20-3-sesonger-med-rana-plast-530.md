@@ -20,7 +20,7 @@ image_caption: Illustrasjonsfoto Rana Plast
 categories:
 - _category/båt.md
 publish_date: 
-weight: 2
+weight: 5
 
 ---
 Bruktbåt: Rana Plast 530 DC  
