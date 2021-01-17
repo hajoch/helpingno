@@ -30,7 +30,7 @@ weight: 7
 ---
 ![](/assets/images/polar.20-1.jpg)
 
-Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjerm-sjektenes scharme fra trebåtens storhetstid før plastbåtene kom på markedet.
+Polar 20 er priset høyt, men den har god kvalitet. Båten kombinerer plastbåtens egenskaper med de gamle skjerm-sjektenes sjarme fra trebåtens storhetstid i Sør-Norge før plastbåtene kom på markedet.
 
 Dette er en romlig, stødig og god dagstur-båt for dem som tar seg tid til familiekos på sjøen. Her er det god plass og du ferdes langt mer økonomisk og miljøvennlig enn de fleste med en 18 hk diesel som gir deg tilstrekkelig fart. og opplevelsen.
 
