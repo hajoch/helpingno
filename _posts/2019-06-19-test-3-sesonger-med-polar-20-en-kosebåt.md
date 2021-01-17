@@ -25,7 +25,7 @@ image_caption: ''
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 ![](/assets/images/polar.20-1.jpg)
