@@ -13,15 +13,15 @@ tags:
 - helsekost
 - helsekost vegetarmat
 - lettfordøyelig middag
-title: Spinat og brokkoli suppe
-excerpt: 'Spinat og brokkoli suppe - vær nøye med å tilsette rikelig med alt det gode
-  krydderet i oppskriften.  '
+title: Spinat og brokkoli suppe - helsekosthold i særklasse.
+excerpt: Spinat og brokkoli suppe - vær nøye med å tilsette rikelig med alt det gode
+  krydderet i oppskriften. Denne suppa er så sunn at den kan kalles naturmedisin.
 image: "/assets/images/gonn.jpg"
 image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Brokkoli- og spinatsuppe - velsmakende og sunn.
@@ -43,8 +43,8 @@ Hvitløk
 H-melk.
 
 Krydder:  
-Koriander - malt  
-Fennikel - malt  
+Koriander - malt - vær raus med dette krydderet  
+Fennikel - malt - vær raus med dette krydderet  
 Hav-salt  
 Karri  
 Pepper  
@@ -66,8 +66,8 @@ Etterfyll gryta med vann slik at du får den mengde supe du ønsker.
 Skjær så opp to båter hvitløk i små tynne skiver og tilsett dette.
 
 Krydder:  
-Koriander - malt ca 1 spiseskje  
-Fennikel - malt ca. 1 spiseskje  
+Koriander - malt min. 1 spiseskje  
+Fennikel - malt min. 1 spiseskje  
 Hav-salt - 1 teskje eller etter behov  
 Karri - 1 teskje eller etter behov  
 Pepper - 1 teskje eller etter behov  
