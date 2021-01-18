@@ -13,7 +13,7 @@ tags:
 - helsekost
 - helsekost vegetarmat
 - lettfordøyelig middag
-title: Spinat og brokkoli suppe - helsekosthold i særklasse.
+title: Spinat og brokkoli suppe - helsekost i særklasse.
 excerpt: Spinat og brokkoli suppe - vær nøye med å tilsette rikelig med alt det gode
   krydderet i oppskriften. Denne suppa er så sunn at den kan kalles naturmedisin.
 image: "/assets/images/gonn.jpg"
