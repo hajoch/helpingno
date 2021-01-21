@@ -28,7 +28,7 @@ image_caption: |-
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 8
+weight: 0
 
 ---
 Kontaktinformasjon  
