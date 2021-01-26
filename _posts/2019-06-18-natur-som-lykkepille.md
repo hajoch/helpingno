@@ -16,7 +16,7 @@ title: 'Natur som lykkepille  '
 excerpt: |2-
 
   "I naturen ruver fjellene. I hjemmet ruver bagatellene."
-image: "/assets/images/IMG_ma.8.jpg"
+image: "/assets/images/img_3791.JPG"
 image_caption: Illustrasjon foto Gunnar Christensen
 categories:
 - _category/helse.md
