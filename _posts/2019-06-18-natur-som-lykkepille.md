@@ -21,7 +21,7 @@ image_caption: Illustrasjon foto Hallvard Jore Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Jeg er ikke så glad i regnvær. Det dugger på brillene. Så jeg vet ikke så mye om natur. Men jeg har da sett Norges nasjonalfugl; Fossekallen. Den satt i en bekk innerst i Nordmarka og lurte på hvordan den ble kåret til nasjonalfugl. Selv ble jeg fasinert av fuglen, så vel som det lille bekkedraget den holdt til i. Kan du forresten tenke deg en bedre boktittel enn; Hendelser ved vann. Det måtte i så fall vært noe med våtmarksområdet våkner?
