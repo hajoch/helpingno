@@ -17,7 +17,7 @@ excerpt: |2-
 
   "I naturen ruver fjellene. I hjemmet ruver bagatellene."
 image: "/assets/images/img_3791.JPG"
-image_caption: Illustrasjon foto Gunnar Christensen
+image_caption: Illustrasjon foto Hallvard Jore Christensen
 categories:
 - _category/helse.md
 publish_date: 
