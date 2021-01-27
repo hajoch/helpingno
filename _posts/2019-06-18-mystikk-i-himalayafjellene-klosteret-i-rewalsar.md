@@ -28,7 +28,7 @@ image_caption: Artikkelforfatteren (bildet) ved den mystiske innsjøen i Rewalsa
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Lett regn fra skyfri himmel i en halv time, men ingen blir våte. En innsjø hvor små torvøyer beveger seg uten et vindpust eller strøm i vannet mens trommene drønner fra klosteret. Et mystisk fortavtrykk blant huleboere i Himalaya-fjellet. Flere uforklarlige fenomener møter meg ved ankomsten til Rewalsar, et mystisk, hellig sted noen timers busstur opp de bratte fjellene fra Mandi, en liten by i nord-vest-India.
