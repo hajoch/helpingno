@@ -18,13 +18,13 @@ tags:
 title: Hurricane 370. Drømmebåten
 excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjorden:
   Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
-  båt. Piratkopi kan være farlig "
+  båt. Piratkopi kan være farlig. "
 image: "/assets/images/hurric-370-a.jpg"
 image_caption: 'Foto Gunnar Christensen. '
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Dette er undommenes drømmebåt. Med "trimmet" 9,9 hk gjør denne båten over 20 knop og ligger fint i sjøen med liten planings-terskel. Den er behagelig, trygg og stødig å kjøre med denne motoren på grunn av god bredde bak og solid v-bunn. Sjøene tar den uten å gi sprut inn i båten. Men prøver du å kjøre raskt inn i en krapp hekksjø kan den ta inn vann over dekk.
