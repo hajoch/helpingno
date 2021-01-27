@@ -30,7 +30,7 @@ image_caption: Gunnar Christensen reiste i 1979 sammen med en gruppe europeiske 
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Den levende gudinnen er et pikebarn. Hun kalles Kumari Ghar og bor isolert i et vakkert, gammelt tempel ved Hanuman Dhoka. Hun tilbedes av alle. Kongen og statsministeren ligger for hennes føtter slik landets hindutradisjon krever. Hun er hellig. En levende guddom. Prøver turister å fotografere henne blir de arrestert, fratatt kamera og utvist fra landet, opplyses det. Et ferdig sminket og toppstaset bilde av henne er å få kjøpt blant landets øvrige turistattraksjoner i "souvenirshop".
