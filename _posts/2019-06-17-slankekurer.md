@@ -34,7 +34,7 @@ image_caption: Motiv fra Kypros - foto GC
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Slankekur
