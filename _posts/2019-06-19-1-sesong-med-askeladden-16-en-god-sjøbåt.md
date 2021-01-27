@@ -29,9 +29,9 @@ weight: 7
 ---
 **Askeladden 16 m. 25 hk Yamaha**
 
-Du ser mange av dem på fjorden. Mange av dem med orange dekk. Senere fikk de penere farger. De er ikke direkte vakre for å si det forsiktig, men grunnen til at det finnes så mange av dem er først og fremst sjøegenskapene: Romlige, praktiske, solide og enkle. Lite arbeid med dem vår og høst:. Trykkspyle, pakke inn for vinteren og bunnsmøre på våren, så er sesongen i gang på ny.
+Du ser mange av dem på fjorden. Mange av dem med orange dekk. Senere fikk de penere farger. De er ikke direkte vakre for å si det forsiktig, men grunnen til at det finnes så mange av dem er først og fremst sjøegenskapene: Romlige, praktiske, solide og enkle. Lite arbeid med dem vår og høst:. Trykk spyle, pakke inn for vinteren og bunn smøre på våren, så er sesongen i gang på ny.
 
-Båten finnes også som åpen forblåst jolle og som hardtopp-modell. Men dette er en for liten båt til hardtopp. Her slår du hodet i taket hele tiden, så styr unna HT'en selv om den gir bedre ly for vinden enn kalesje i motvind.
+Båten finnes også som åpen forblåst jolle og som hardtop-modell. Men dette er en for liten båt til hardtop. Her slår du hodet i taket hele tiden, så styr unna HT'en selv om den gir bedre ly for vinden enn kalesje i motvind.
 
 Fabrikken har nå gitt opp denne modellen til fordel for mer moderne og betydelig dyrere og mer linje-lekrere modeller. Det er ikke sikkert det var smart. En enkel og nøysom båt som denne har sin kjøperkrets. Dette båtkonseptet burde blitt videreutviklet.
 
@@ -40,7 +40,7 @@ Ved de nye Askeladden-båtene ser vi at de ofte priser seg langt over like gode 
 Motor:  
 **Yamaha 25 hk 2-takt og 2 cylinder**:
 
-Yamaha 25 hk. 2- takt 2 cylinder. Bland totakt-olja i bensinen selv på denne. En enkel, men driftssikker motor. Den rister og bråker, men sviver greit. Dog tørst som to-taktere flest.
+Yamaha 25 hk. 2- takt 2 cylinder. Bland 2 -takt-olja i bensinen selv på denne. En enkel, men driftssikker motor. Den rister og bråker, men sviver greit. Dog tørst som to-taktere flest.
 
 Jeg hadde problemer med giret på denne. En relativt dyr operasjon måtte til om den skulle skifte gir uten knurring og knaking. Dette er en vanlig feil, ja nærmest en svakhet på denne motoren.
 
@@ -57,5 +57,5 @@ Bredde 1.95 m
 Vekt 340 kg
 
 Max last: personer 8  
-Max motor 40 hk kort stamme Denne båten hadde en enkel 25 hk Yamaha med 2 cyl uten autolobe.  
-Veritas/CE-godkjent
+Max motor 40 hk kort stamme. Denne båten hadde en enkel 25 hk Yamaha med 2 cylinder uten Autolobe.  
+Veritas/CE-godkjent-
