@@ -26,7 +26,7 @@ image_caption: Nepalesiske bønder med sine karakteristiske trommer kalt Dhimey.
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 Store kulturskatter med utallige dekorasjoner utskåret i treverk dekorerer tempelbyen Hanuman Dhoka i Kathmandu. |
