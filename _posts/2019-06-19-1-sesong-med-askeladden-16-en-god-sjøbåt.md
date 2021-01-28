@@ -24,12 +24,14 @@ image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 **Askeladden 16 m. 25 hk Yamaha**
 
 Du ser mange av dem på fjorden. Mange av dem med orange dekk. Senere fikk de penere farger. De er ikke direkte vakre for å si det forsiktig, men grunnen til at det finnes så mange av dem er først og fremst sjøegenskapene: Romlige, praktiske, solide og enkle. Lite arbeid med dem vår og høst:. Trykk spyle, pakke inn for vinteren og bunn smøre på våren, så er sesongen i gang på ny.
+
+Du trenger ikke en selvlensende båt når du kjøper denne med kalesje. 
 
 Båten finnes også som åpen forblåst jolle og som hardtop-modell. Men dette er en for liten båt til hardtop. Her slår du hodet i taket hele tiden, så styr unna HT'en selv om den gir bedre ly for vinden enn kalesje i motvind.
 
@@ -46,7 +48,9 @@ Jeg hadde problemer med giret på denne. En relativt dyr operasjon måtte til om
 
 Yamaha får problemer med tidens tann som de fleste andre motorer og da er deler dyre. Selv festeboltene som skrur motoren til båten koster mer enn hos andre motormerker, særlig om vi ser i forhold til Johnson og Evinrude. Dette er en betydelig ulempen med Yamaha. Delene er unødvendig dyre.
 
-På eldre motorer ryker det noe når det minst passer - og alle verkstedene er fullbooket når du trenger hjelp under høy solfaktor. Knytt deg da til en båtforhandler du kan få god service av med gammel påhenger. Det kan lønne seg. Det er når du har gammel sliten båtmotor du skal blinke deg ut den beste og rimeligste servicen på hjemstedet - der hvor du kjøper din neste motor.
+På eldre motorer ryker det noe når det minst passer - og alle verkstedene er fullbooket når du trenger hjelp under høy solfaktor. Knytt deg da til en båtforhandler du kan få god service av med gammel påhenger. Det kan lønne seg. Det er når du har gammel sliten båtmotor du skal blinke deg ut den beste og rimeligste servicen på hjemstedet - der hvor du kjøper din neste motor.  
+
+Vær forberedt på at elektriske påhengere kan være et alternativ fremover når den tekniske utviklingen går videre. Det viktigste på sjøen uansett hva du velger er drift-sikkerheten.
 
 ![](/assets/images/ask.16.1-1.jpg)
 
