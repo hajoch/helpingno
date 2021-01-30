@@ -17,10 +17,7 @@ title: 'Yrkesvalg? '
 excerpt: "Spør du topp idrettsutøvere hva som er det viktigste motivasjonsfaktoren
   deres for å nå toppresultater. De fleste svarer:  \"Jeg valgte det gøyeste.\" Dette
   gjelder ikke bare idrett, men alt du velger å gjøre i livet. Det er alltid mest
-  motivasjon i det du liker. Og du vil alltid gjøre det beste du kan i det du liker.\nMange
-  har vansker med å vege utdannelse og yrke. Egentlig er dette ikke vanskelig om du
-  stiller deg selv et enkelt spørsmål: Hva er det aller gøyeste du kan tenke deg å
-  studere og å jobbe med? Så enkelt og så vanskelig er det. Verken mer eller mindre. "
+  motivasjon i det du liker. Og du vil alltid gjøre det beste du kan i det du liker.\n. "
 image: "/assets/images/goyeste.jpg"
 image_caption: 'Foto Christoffer J. Christensen: Når du velger utdanning og yrke:
   Gå for det gøyeste!'
@@ -30,6 +27,10 @@ publish_date:
 weight: 8
 
 ---
+Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ikke vanskelig om du stiller deg selv et enkelt spørsmål: Hva er det aller gøyeste du kan tenke deg å studere og eller å jobbe med? Så enkelt og så vanskelig er det. Verken mer eller mindre.
+
+Er flere ting gøy så har du et luksusproblem - valg mellom flere goder.
+
 Hva er ditt gøyeste fag på skolen? Er det språkfag eller realfag? Se på karakterene i fagne du har tatt til nå. Hvilket fag har du best karakter i? Hvilket fag er det som er gøyest å jobbe med? Dette er gjerne en ledetråd for deg til hva du trives best med. Husk på hvor mange år av livet du er i jobb.
 
 Tenk over hvor mye du skal gjennom av bøker og skoletimer før du har fått det yrke du velger: Da er det viktig at du har valgt noe du synes er gøy å lære mer om.
