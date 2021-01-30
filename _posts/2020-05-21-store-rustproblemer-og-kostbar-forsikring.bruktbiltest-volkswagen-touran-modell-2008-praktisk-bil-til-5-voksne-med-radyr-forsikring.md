@@ -7,6 +7,12 @@ tags:
 - bil
 - flerbruksbil
 - rust
+- Volkswagen
+- familiebil
+- kostbar forsikring
+- høy kasko
+- forbrukertest
+- rustproblemer
 title: VW Touran  2008
 excerpt: 'Bruktbiltest: :Store rust-problemer og kostbar forsikring. Praktisk bil
   til 5 voksne- med rådyr forsikring. Skal du ha fullverdig sitteplass til 5 voksne
