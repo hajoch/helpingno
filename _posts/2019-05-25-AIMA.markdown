@@ -33,7 +33,7 @@ excerpt: Barneboka Aima handler om ei lita hulder med evner og egenskaper som er
   og fremmede for mange av oss. Aima er en ekte norsk produksjon ikke oversatt som
   så mye annet for barn.
 author: _authors/henning-j-grini.md
-weight: 5
+weight: 7
 
 ---
 Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
@@ -72,7 +72,7 @@ Valget av navnet "Aima" ble bl.a. gjort ut i fra ønske om å finne et "ikke-men
 
 **Hvorfor er barneboka viktig slik du ser det?**
 
-Det er viktig å lese for barna. Slik lærer de å forstå poenget med å lære å lese og skrive når de begynner på skolen nå i en mediatid der mye kommer til dem via TV, spill og film. Boka har kvaliteter som filmene mangler. Boka gir bedre muligheter til å få en fortrolig kosestund med barna på en mer aktiv måte enn ved å se en film sammen. Sett deg med ei god bok i sofakroken med barna og opplev den nærhet og fortrolighet som barneboka kan gi. Det er samtidig viktig å bruke tid på å samtale med barna om bøkene. I det hele tatt bruk tid med barna: De er nye i verden og lurer på mye som kan være en selvfølge for deg. Mange av spørsmålene deres kan dessuten gi deg nye impulser til refleksjoner omkring de dypere og viktige spørsmålene i livet. Begge parter får således stort utbytte av en kosestund med ei barnebok.
+Det er viktig å lese for barna. Slik lærer de å forstå poenget med å lære å lese og skrive når de begynner på skolen nå i en mediatid der mye kommer til dem via TV, spill og film. Boka har kvaliteter som filmene mangler. Boka gir bedre muligheter til å få en fortrolig kosestund med barna på en mer aktiv måte enn ved å se en film sammen eller å lese på nettbrett. Sett deg med ei god bok i sofakroken med barna og opplev den nærhet og fortrolighet som barneboka kan gi. Det er samtidig viktig å bruke tid på å samtale med barna om bøkene. I det hele tatt bruk tid med barna: De er nye i verden og lurer på mye som kan være en selvfølge for deg. Mange av spørsmålene deres kan dessuten gi deg nye impulser til refleksjoner omkring de dypere og viktige spørsmålene i livet. Begge parter får således stort utbytte av en kosestund med ei barnebok.
 
 Verdier som ligger i bunden av fortellingen er tankene om å ta vare på hverandre, på naturen og harmonien i naturen: Den livsviktige balansen som alt levende på jorden er så avhengig av og som vi i dag ser blir skadet - med symptomer som forsøpling av naturen på land og i havet, og klimaforandringer m.m som resultat..
 
@@ -80,7 +80,7 @@ Verdier som ligger i bunden av fortellingen er tankene om å ta vare på hverand
 
 Jeg har lagt vekt på å gi fortellingen en språkdrakt som barna strekker seg etter. I moderne pedagogikk er man bl.a. opptatt av å gi barna språklige utfordringer i form av et litt mer "voksent" språk enn det man normalt benytter for årsklassen. Dette er tanker vi bl.a. ser i småskolens lærebøker.
 
-Barn bruker i stigende grad Internett og andre "voksne" underholdningskanaler som gir dem språklige utfordringer og modning i forhold til voksenspråket. Jeg har derfor lagt vekt på ikke å gjøre språket "barnslig" for bokas målgruppe som er i førskole- og småskolealder: En viktig fase i livet der barna lærer å lese og skrive.
+Barn bruker i stigende grad ulike tilbud på Internett og andre "voksne" underholdningskanaler som gir dem språklige utfordringer og modning i forhold til voksenspråket. Jeg har derfor lagt vekt på ikke å gjøre språket "barnslig" for bokas målgruppe som er i førskole- og småskolealder: En viktig fase i livet der barna lærer å lese og skrive.
 
 Dessuten. Utviklingen synes å gå i retning av at den antikke mystikkens teknikker og tanker som meditasjon blir mer kjent og blir et mer universelt folkelig eie. Dette fanger barna opp like mye som voksne. Vi ser interessen omkring Harry Potter som et godt eksempel på barns interesse for mystikk.
 
