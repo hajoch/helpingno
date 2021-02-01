@@ -25,7 +25,7 @@ author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 9
+weight: 7
 
 ---
 **Ny takst på boligen gir billigere boliglån?**  
