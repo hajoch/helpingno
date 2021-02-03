@@ -2,6 +2,7 @@
 layout: author
 title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
+published: false
 
 ---
 Journalist, lektor, forfatter.  
@@ -19,4 +20,9 @@ Gift, 3 voksne sønner.
 
 [Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
-_Foto: Jens Christian Jore Christensen_
+_Foto øverst: Jens Christian Joe Christensen_
+
+![](/assets/images/img_0022.JPG)
+
+Foto Hallvard Jore Christensen   
+\- redaktøren beundrer solnedgangen på Hove i Arendal
