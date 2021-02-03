@@ -2,7 +2,6 @@
 layout: author
 title: Gunnar Christensen
 image: "/assets/images/authors/gc8.jpg"
-published: false
 
 ---
 Journalist, lektor, forfatter.  
