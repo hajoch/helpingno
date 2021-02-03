@@ -19,7 +19,7 @@ tags:
 - grasrotandelen
 - naturkunnskap
 - medisinmann
-title: Slik tenker en ekte indianer
+title: Slik tenker en ekte indianer.
 excerpt: "Intervju med Lise Lyseggen: \n- Noen sioux indianere blir fremdeles oppdradd
   til høy kunnskap om naturen. De kan se på et tre om det blir regn. De kan også se
   på naturen hvor dyrene er. Her i Norge går man etter spor mens indianerne kan i
