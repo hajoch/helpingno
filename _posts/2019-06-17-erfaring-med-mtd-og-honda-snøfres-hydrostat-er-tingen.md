@@ -23,15 +23,15 @@ image_caption: ''
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
-På forhånd hører du på råd hos forskjellige forhandlere og ser på priser og antall hestekrefter. Da virker Honda 970 med 8 hk, hjul og manuell start urimelig dyr og har dobbel pris sammenliknet med MTD E640F med like stor motor, 8 hk, hjul, arbeidsbredde 66 cm, med elektrisk start på 230v rett fra stikkontakten. i tillegg har MTDmanual snorstart om du er langt fra strøm
+På forhånd hører du på råd hos forskjellige forhandlere og ser på priser og antall hestekrefter. Da virker Honda 970 med 8 hk, hjul og manuell start urimelig dyr og har dobbel pris sammenliknet med MTD E640F med like stor motor, 8 hk, hjul, arbeidsbredde 66 cm, med elektrisk start på 230v rett fra stikkontakten. i tillegg har MTD manual snorstart om du er langt fra strøm.
 
 **Førstekjøp MTD**  
 Jeg valgte derfor MTD. Jeg tenkte: "En kanadisk snøfres må jo kunne jobben. Canada har like mye snø som Norge. I Japan er det sikkert ikke store snøklatten"
 
-Og selgeren skrøt av hvor god snøfres fra MT er: "Alle er fornøyde og de holder i evigheter og åtte hestekrefter er mer en nok til å frese fram hus og garasje. Du sliter den ikke ut i din levertid."Etterpå har jeg tenkt: Så jeg så dårlig ut da jeg kjøpe freseren at selger mente den vil holde min levtid?
+Og selgeren skrøt av hvor god snøfres fra MT er: "Alle er fornøyde og de holder i evigheter og åtte hestekrefter er mer en nok til å frese fram hus og garasje. Du sliter den ikke ut i din levertid." Etterpå har jeg tenkt: Så jeg så dårlig ut da jeg kjøpe freseren at selger mente den vil holde min levtid?
 
 Så står det en ny MTD-snøfres i garasjen. Deilig å strekke ledningen og trykke på knappen så starter den lett og greit. Og den får fort snø å bryne seg på. Men MTDen tar bare tørr snø - og det er mest våt snø på Sørlandskysten. Freseren funker på et vis de første fire sesongene, men jeg sliter med å få maskinen til å kaste snøen høyt nok når brøytekantene blir godt over meteren høye. Splinten ryker, men den lar seg skifte lett på en MTD.
 
@@ -39,7 +39,7 @@ Så står det en ny MTD-snøfres i garasjen. Deilig å strekke ledningen og tryk
 Men andre reparasjoner må på verksted. Og det blir stadig flere verkstedbesøk på de fire sesongene jeg har denne freseren. Og hver gang blir det mer og mer besværlig å få den reparert og lang venting på deler. For det er mange MTDer som skal repareres ved det lokale verkstedet.
 
 Det blir gradvis åpenbart at dette ikke er en kvalitetsvare. Forhandleren  
-har dessuten problemer med å skaffe deler til MTD og må sveise til improvisasjoner når noe ryker. Kan ikke Kanada levere deler til en snøfreser? Og slitestyrken er absolutt ikke som selger skrøt av.
+har dessuten problemer med å skaffe deler til MTD og må sveise til improvisasjoner når noe ryker. Kan ikke Kannada levere deler til en snøfreser? Og slitestyrken er absolutt ikke som selger skrøt av.
 
 Den tåler ikke en gang for sterk kulde. Verkstedet opplever å få inn et run av MTD-eiere ved sterkere kulde for da ryker MTD og det er en reklamasjonssak så lenge den er yngre enn 5 år.  
 En kanadisk snøfreser som ikke tåler kulde?  
