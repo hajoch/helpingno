@@ -65,11 +65,6 @@ Forfatter, foreleser og designer
 
 **Tema og frilans-medarbeidere:**
 
-[**Anne Bakke**](https://helping.no/author/anne-bakke)  
-Tegner og fotograf.  
-Illustratør, forfatter og naturfotograf.  
-Utdannet lærer/adjunkt
-
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
 Utdannet Sykepleier
