@@ -80,9 +80,9 @@ Fagområde helse og mental helse:
 Utdannet Lege og psykiater  
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
-Journalist og fotograf  
-Selvstendig næringsdrivende, Pensjonert militærkaptein i infanteriet  
-Utdannet master i sammenliknende politikk fra Universitet i Bergen
+Journalist og fotograf.  
+Selvstendig næringsdrivende, Pensjonert militær kaptein i infanteriet  
+Utdannet master i sammenliknende politikk fra Universitet i Bergen.
 
 [**Andre bidragsytere og leserinnlegg**](https://helping.no/author/leserinnlegg)
 
