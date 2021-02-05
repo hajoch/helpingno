@@ -10,14 +10,14 @@ tags:
 - reklame hos helping.no
 - gode annonsetilbud
 - likes
-title: Annonse på helping.no.
+title: Annonse og sponsing på helping.no.
 excerpt: |-
-  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for over. 4.000 besøk pr. mnd. Du er også velkommen til å sponse vår virksomhet med en tier om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
+  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. Du er også velkommen til å sponse vår virksomhet med en tier om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
   Ønsker du annonse hos oss - ta kontakt
 image: "/assets/images/Basse (04).jpg"
-image_caption: Helping-maskoten "Basse" tror du vil annonsere på nye helping.no. Nettstedet
-  har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. Foto Jens
-  Christian Jore Christensen
+image_caption: "Helping-maskoten \"Basse\" tror du vil sponse og annonsere på helping.no.
+  Nettstedet har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020.
+  \nFoto Jens Christian Jore Christensen"
 author: ''
 categories:
 - _category/redaksjonen-om-oss.md
@@ -36,7 +36,7 @@ Kontakt oss: E-post redaksjonen:
 **Slik annonserer du hos oss:**
 
 Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
-(Andre plasseringer kan vi diskutere.)
+Andre plasseringer kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:  
 **Annonser:**  
@@ -53,4 +53,7 @@ Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping
 
 ![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)
 
-Helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
+Helping-maskoten "Basse" tror du vil sponse og annonsere hos oss.:   
+Foto Jens Christian Jore Christensen
+
+Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
