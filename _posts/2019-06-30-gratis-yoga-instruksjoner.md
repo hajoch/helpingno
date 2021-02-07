@@ -24,7 +24,7 @@ title: 'Yoga '
 excerpt: |-
   Yoga-instruksjoner gir deg mykere, smidigere kropp og et bedre liv. Stress er helseskadelig. I tillegg forringer stress vår livskvalitet. Det merker vi på oss. Stresset setter seg i kroppen i form av muskel-spenninger og vi blir stivere. Man kan få vektproblemer av stress.
 
-  Det er problemet med muskelspenninger denne typen Yoga - såkalt Hatha-Yoga- best kan hjelpe deg med. Prinsippet i disse øvelsene er å strekke muskulaturen slik at den blir ledigere og smidigere. Stressknuter løses opp med regelmessig yoga-praksis som gir deg en smidigere kropp. Her er enkle øvelser som de fleste kan få til med litt øvelse.
+  Det er problemet med muskelspenninger denne typen Yoga - såkalt Hatha-Yoga- best kan hjelpe deg med. Prinsippet i disse øvelsene er å strekke muskulaturen slik at den blir ledigere og smidigere. Stressknuter løses opp med regelmessig yoga-praksis som gir deg en mykere kropp. Her er enkle øvelser som de fleste kan få til med litt øvelse.
 image: "/assets/images/y8.jpg"
 image_caption: Øvelse 8
 author: _authors/gunnar-christensen.md
