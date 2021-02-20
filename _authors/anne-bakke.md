@@ -4,9 +4,10 @@ title: Anne Bakke
 image: "/assets/images/abp.jpg"
 
 ---
-  
 Illustratør, forfatter, rådgiver og naturfotograf.  
 Utdannet lærer/adjunkt.
+
+Medlem av redaksjonen i helping.no.
 
 (Født 12.12.52 død 12.12. 2020)
 
