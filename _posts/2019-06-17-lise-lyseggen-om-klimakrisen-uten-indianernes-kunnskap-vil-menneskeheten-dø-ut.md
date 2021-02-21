@@ -27,7 +27,7 @@ image_caption: 'Intervju. Hjelpearbeider Lise Lyseggen.  Foto Gunnar Christensen
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 \- Nå er vår verden i en krise. Det vil tvinge seg frem en ny måte å forstå naturen på. Dette vil skje både økologisk og økonomisk. Daglig ser vi behovet for å gjøre ting annerledes i verden. Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Også derfor er det viktig å bevare den indianske kulturen. Hvis vi ikke får med oss denne natur-kunnskapen videre så tror jeg menneskeheten vil dø ut.
