@@ -9,7 +9,7 @@ Utdannet lærer/adjunkt.
 
 Medlem av redaksjonen i helping.no.
 
-(Født 12.12.52 død 12.12. 2020)
+Født 12.12.52 død 12.12. 2020
 
 ![](/assets/images/ab5.JPG)
 
