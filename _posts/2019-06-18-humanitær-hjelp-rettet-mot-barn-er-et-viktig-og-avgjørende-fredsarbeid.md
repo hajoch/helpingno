@@ -24,7 +24,7 @@ image_caption: 'Foto: Petrus Hansen. Han drev hjelp til barnehjem i Murmansk til
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Eget hjelpeprogram? Du blir nesten alltid lurt.
