@@ -47,7 +47,7 @@ Så kom beskjeden at kofferten ikke var i Roma, men kanskje på Gardermoen? Ette
 
 Og sannelig dagen før hjemturen - da dukker kofferten opp på hotellet etter å ha vært på rømmen i to og et halvt døgn. Fikk du lyst til å fly Norwegian? Men ingen erstatning fra flyselskapet eller på reiseforsikringen.
 
-[**Linker**](http://www.helping.no/linker.htm)**:**
+**Linker:**
 
 Sjekk turbulens der du flyr:  
 [www.turbulenceforecast.com](http://www.turbulenceforecast.com/)
