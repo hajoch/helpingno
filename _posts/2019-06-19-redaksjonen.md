@@ -16,8 +16,6 @@ tags:
 title: Redaksjonen
 excerpt: |2+
 
-  Helping-teamet presenter et bredt tilbud av
-  nyttige artikler og lesestoff. Vi har eksistert siden 2001.
 
 
 
@@ -34,15 +32,17 @@ weight: 0
 Kontaktinformasjon  
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
-E-post redaksjonen: helping.red@gmail.com
+E-post redaksjonen: helping.red@gmail.com  
+Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.   
+Vi har eksistert siden 2001.
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
-Ansv. redaktør, styreformann og gründer  
+Redaktør, styreformann og gründer  
 Utdannet cand.philol/master i religionsvitenskap med økonomi og media-sosiologi som støttefag.  
 Lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
-Teknisk redaktør, styrenestleder  
+Redaktør, Teknisk redaktør, styrenestleder  
 Master i Informasjonsteknologi og -tjenester  
 Utdannet ved NTNU i Trondheim  
 Leder, Senior analytiker
