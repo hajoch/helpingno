@@ -33,8 +33,7 @@ Kontaktinformasjon
 Etablert i 21.04.2001  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com  
-Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.   
-Vi har eksistert siden 2001.
+Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Redaktør, styreformann og gründer  
