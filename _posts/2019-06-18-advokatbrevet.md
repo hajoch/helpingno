@@ -23,7 +23,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 1
+weight: 3
 
 ---
 Advokatbrevet kommer ofte før helga eller før en ferie. Dels er dette en del av taktikken sakførerne bruker. Men ofte er det slik at brevet blir diktert en torsdag kveld og sekretæren skriver det ut fredag morgen. Du må aldri åpne det før etter helga eller før ferien. 50 % av alle brev inneholder ting som du bare skal notere deg. Inntil du har åpnet det så kan du regne med at ditt brev er et slikt.
