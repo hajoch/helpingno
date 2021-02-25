@@ -17,15 +17,16 @@ tags:
 - turisme
 - Juffre
 - slaveskipshavn
+- Black lives matter
 title: Slaveøya
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
 image_caption: 'Den blodige slaveøya James Island kommer til syne i tåkedisen på Gambiafloden.
-  |Foto: Gunnar Christensen. '
+  Foto: Gunnar Christensen. '
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 5
 
 ---
 \-James Island!  
