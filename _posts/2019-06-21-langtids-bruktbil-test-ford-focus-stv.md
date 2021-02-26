@@ -91,7 +91,7 @@ Ford Focus 2013: Bedre enn forventet**
 ![](/assets/images/focus1.jpg)  
 ![](https://wwww.helping.no/assets/images/focus1.jpg)
 
-Foto: [Christoffer Jore Christensen](http://www.helping.no/christoffer.htm)  
+Foto: [Christoffer Jore Christensen](https://helping.no/author/christoffer-jore-christensen "https://helping.no/author/christoffer-jore-christensen")  
 Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
 
 Dette er en bilmodell som overrasker positivt. Her er god kjørekomfort med flotte kjøreegenskaper og kraft nok så det holder fra en 3 sylinder 125hk bensinmotor: Følelsen av å kjøre en større og dyrere bil med god støydemping gjør denne bilen bedre enn forventet i Golf-klassen. Ja, du må lytte for å høre om motoren er i gang når du stopper opp.
