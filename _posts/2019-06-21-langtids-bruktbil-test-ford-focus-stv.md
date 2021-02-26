@@ -92,7 +92,7 @@ Ford Focus 2013: Bedre enn forventet**
 ![](https://wwww.helping.no/assets/images/focus1.jpg)
 
 Foto: [Christoffer Jore Christensen](https://helping.no/author/christoffer-jore-christensen "https://helping.no/author/christoffer-jore-christensen")  
-Tekst [Gunnar Christensen](http://www.helping.no/gunnar.htm)
+Tekst: Gunnar Christensen 
 
 Dette er en bilmodell som overrasker positivt. Her er god kjørekomfort med flotte kjøreegenskaper og kraft nok så det holder fra en 3 sylinder 125hk bensinmotor: Følelsen av å kjøre en større og dyrere bil med god støydemping gjør denne bilen bedre enn forventet i Golf-klassen. Ja, du må lytte for å høre om motoren er i gang når du stopper opp.
 
@@ -101,7 +101,7 @@ Motoren er et kapitel for seg. Denne 1 liters motoren ble kåret til "Engine of 
 **Utstyr**  
 Denne demobilen har utstyrsnivået "Titanium", manuell 6-trinns girkasse, el. førersete med manuell korsryggstøtte, 2-soners klimaanlegg m.m..
 
-Man må også opp i øverste utstyrsnivå - altså "ST" for å få Xenonlys - som er så viktig for bedring av sikten og sikkerheten. Og DAB-radioen - som om få år er standard på eteren - er ekstrautstyr i denne årgangen, mens det er standard på VW [Golf](http://www.helping.no/golf7.htm). Sover "utstyrssnekkeren" hos Ford? Likeså bagasjebeskytter bak baksetet og forsetet bl.a. på stasjonsvogna er ekstrautstyr - også dette er viktig sikkerhetsutstyr som kan forhindre personskader i en bil. Kanskje må utstyrspakkene justeres litt på Ford  
+Man må også opp i øverste utstyrsnivå - altså "ST" for å få Xenonlys - som er så viktig for bedring av sikten og sikkerheten. Og DAB-radioen - som om få år er standard på eteren - er ekstrautstyr i denne årgangen, mens det er standard på VW Golf. Sover "utstyrssnekkeren" hos Ford? Likeså bagasjebeskytter bak baksetet og forsetet bl.a. på stasjonsvogna er ekstrautstyr - også dette er viktig sikkerhetsutstyr som kan forhindre personskader i en bil. Kanskje må utstyrspakkene justeres litt på Ford  
 Focus fremover? Og det har skjedd DAB-radioen er på plass.
 
 **Design**  
