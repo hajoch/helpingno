@@ -26,3 +26,5 @@ _Foto øverst: Jens Christian Joe Christensen_
 
 Foto: Hallvard Jore Christensen  
 \- Redaktøren beundrer solnedgangen på Hove i Arendal
+
+Linker til noveller:
