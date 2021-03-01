@@ -24,4 +24,4 @@ _Foto øverst: Jens Christian Joe Christensen_
 ![](/assets/images/img_0022.JPG)
 
 Foto Hallvard Jore Christensen  
-\- redaktøren beundrer solnedgangen på Hove i Arendal
+\- Redaktøren beundrer solnedgangen på Hove i Arendal
