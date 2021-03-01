@@ -8,8 +8,8 @@ Journalist, lektor, forfatter.
 Redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
 
 Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshistorie hovedfag, økonomi mellomfag og media-sosiologi mellomfag fra universitetene i Oslo og Bergen. Feltforskning i India og Nepal på tibetansk buddhisme i 1979.  
-Hovedfag-avhandling: "Fremmede religioner i ungdomsskolens lærebøker" ved Universitetet i Bergen 1981. Popularisert og utgitt som [Skandalebøkene i Ungdomsskolen](https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen "https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen")".  
-  
+Hovedfag-avhandling: "Fremmede religioner i ungdomsskolens lærebøker" ved Universitetet i Bergen 1981. Popularisert og utgitt som [Skandalebøkene i Ungdomsskolen](https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen "https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen")".
+
 Avhandling i media-sosiologi: Tema [Farger i markedsføring](https://helping.no/det-tidl%C3%B8se-temaet-farger-er-f%C3%B8lelser "https://helping.no/det-tidl%C3%B8se-temaet-farger-er-f%C3%B8lelser"), Universitetet i Oslo 1978.
 
 Utgitt bøkene: "[Styrkeprøven](https://helping.no/styrkepr%C3%B8ven "https://helping.no/styrkepr%C3%B8ven")" 1996, "[Skandalebøkene i Ungdomsskolen](https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen "https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen")" 2004, "[Aima](https://helping.no/aima "https://helping.no/aima")" 2006.
@@ -27,4 +27,7 @@ _Foto øverst: Jens Christian Joe Christensen_
 Foto: Hallvard Jore Christensen  
 \- Redaktøren beundrer solnedgangen på Hove i Arendal
 
-Linker til noveller:
+Linker til noveller:  
+[https://helping.no/barne-fortelleing-den-gode-samtalen](https://helping.no/barne-fortelleing-den-gode-samtalen "https://helping.no/barne-fortelleing-den-gode-samtalen")
+
+[https://helping.no/hva-er-gud](https://helping.no/hva-er-gud "https://helping.no/hva-er-gud")
