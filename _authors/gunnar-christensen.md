@@ -11,7 +11,7 @@ Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshist
 Hovedfag-avhandling: "Fremmede religioner i ungdomsskolens lærebøker" ved Universitetet i Bergen 1981.  
 Avhandling i media-sosiologi: Tema Farger i markedsføring, Universitetet i Oslo 1978.
 
-Utgitt bøkene: "[Styrkeprøven](https://helping.no/styrkepr%C3%B8ven "https://helping.no/styrkepr%C3%B8ven")" 1996, "Skandalebøkene i Ungdomsskolen" 2004, "Aima" 2006.
+Utgitt bøkene: "[Styrkeprøven](https://helping.no/styrkepr%C3%B8ven "https://helping.no/styrkepr%C3%B8ven")" 1996, "Skandalebøkene i Ungdomsskolen" 2004, "[Aima](https://helping.no/aima "https://helping.no/aima")" 2006.
 
 Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015. Stillinger som lektor. Foreleser ved Norsk Folkeakademi. Frilansjournalist, foto, lay-out mm ved siden av studier samt faste stillinger etter studier. Bl.a. Lay-out-medarbeider i VG, Oslo. Vaktsjef i Morgenavisen, Bergen. Redaktør i Fiskets Gang, Fiskeridirektoratet i Bergen. Frilans reporter i NRK-radio Bergen, Informasjonskonsulent i NVE, Oslo.
 
