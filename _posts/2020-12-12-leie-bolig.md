@@ -4,6 +4,17 @@ date: 2020-12-12 21:22:58 +0100
 crop_image: true
 tags:
 - bolig
+- leie bolig
+- trygge leieforhold
+- studentbolig
+- regler ved leie av bolig
+- fremleie
+- radon
+- 'leiekontrakt '
+- forberedelser ved leie
+- inventarliste og foto
+- innbo-forsikring
+- brannforskrifter og rømming-veier i bolig
 title: Leie bolig
 excerpt: Bolig er viktig for oss. Det er i boligen vi tilbringer mye av fritiden,
   sover og henter oss inn. Det er derfor avgjørende å trives i boligen.
@@ -13,7 +24,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 **Før du inngår avtale**  
@@ -46,9 +57,9 @@ Sjekk også at bostedet du velger å leie har god brannsikkerhet. Dette er vikti
 Vær også oppmerksom på at trafoer og høyspentledninger nær boligen kan gi helseproblemer. Spør også utleier om det er foretatt radonmålinger i huset.  
 Som kjent er både radon og høyspent stråling kreftfremkallende.
 
-Bruk alle sanser på visning. Lukter det mugg på badet? Fuktskader gir dårlig inneklima og helseplager. Hvilken isolasjonstype er brukt. Det er kjent at Glava gir dårlig inneklima, mens Rockwool gir godt inneklima og er i tillegg brannhindrende. Les også [Miljøhus.](http://www.helping.no/miljohus.htm)
+Bruk alle sanser på visning. Lukter det mugg på badet? Fuktskader gir dårlig inneklima og helseplager. Hvilken isolasjonstype er brukt. Det er kjent at Glava gir dårlig inneklima, mens Rockwool gir godt inneklima og er i tillegg brannhindrende. 
 
-Hvilken årgang er huset? Nyere hus har bedre isolasjon enn eldre. En kjellerleilighet i et hus fra 1990-tallet eller nyere er langt å foretrekke framfor en tilsvarende fra fra f.eks. 1960-tallet. Dette har også med fyringsutgifter og dermed økonomi og trivsel å gjøre.
+Hvilken årgang er huset? Nyere hus har bedre isolasjon enn eldre. En kjellerleilighet i et hus fra 1990-tallet eller nyere er langt å foretrekke framfor en tilsvarende fra fra f. eks. 1960-tallet. Dette har også med fyringsutgifter og dermed økonomi og trivsel å gjøre.
 
 Beliggenhet i forhold til støy fra vei, jernbane m.m. er viktig for søvnkvalitet der du bor. Får du ikke den nødvendige søvndybde som følge av for eksempel trafikk/gatestøy om natten, blir du ikke skikkelig uthvilt etter nattesøvnen og i lengden kan det slite på helsa.
 
