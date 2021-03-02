@@ -18,7 +18,7 @@ image_caption: Foto Gunnar Christensen. Motiv fra veteranbilmessa i Froland - i 
 categories:
 - _category/bil.md
 publish_date: 
-weight: 5
+weight: 3
 
 ---
 **Her er sjekklista før du kjøper:**
