@@ -36,7 +36,7 @@ author: _authors/henning-j-grini.md
 weight: 7
 
 ---
-Aima spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
+"Aima" spiller på mystikken i oss og i naturen omkring oss og er en spennende ny skapning innen barnebøker som vil fascinere både barn og voksne.
 
 ![](/assets/images/6.jpg)
 
@@ -51,9 +51,9 @@ Slik sett er Aima tuftet på norsk eventyrtradisjon. I boka trekkes forestilling
 
 ![](/assets/images/aima.jpg)
 
-**Tegner Berit Anfinsen - Forfatter Gunnar Christensen**
+Tegner Berit Anfinsen - Forfatter Gunnar Christensen
 
-## Aimas Pappa
+### Aimas Pappa
 
 ![](/assets/images/gc.jpg)  
 _Forfatter Gunnar Christensen. Arkivfoto_
