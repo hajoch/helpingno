@@ -23,13 +23,13 @@ excerpt: 'Tenk deg et nytt flott hotell med moderne, rimelige rom og topp servic
   en liten busstur fra sentrum. Test Ydalir hotell:'
 image: "/assets/images/IMG_2816.JPG"
 image_caption: |-
-  Hotell-test Ydalir hotell i Stavanger - korona-ned-stenging trolig i løpet av desember 2020.
+  Hotell-test Ydalir hotell i Stavanger.
   Foto: Gunnar Christensen.
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 De øvrige måltidene kan du bestille fra den restauranten du vil, som catering, og spise i hotellets fellesrom eller på rommet som det passer deg.
