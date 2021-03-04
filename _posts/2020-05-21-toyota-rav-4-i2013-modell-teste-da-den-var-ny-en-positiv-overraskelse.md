@@ -21,7 +21,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 1
 
 ---
 Testbilen er en diesel 151 hk firehjulstrekker med manuell 6-trinns girkasse i "Executive" den best utstyrte modellen. Dette innbefatter takluke, el. førersete, DAB-radio, skinnseter og cruise control for å nevne noe. "Executive" gir også mulighetere for penere farger på interiøret - for standard er grått, sort og trist.
