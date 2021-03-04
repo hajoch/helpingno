@@ -18,7 +18,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Bruktbiltest:  
@@ -68,4 +68,4 @@ Se opp for rust i hjulbuer og kanalene om du kjøper en brukt Caravelle: Ikke al
 **Kollisjonstester**  
 Folksam kollisjonstester gir Volkswagen Caravlle fra 1991 og nyere topp karakter. 1995-modellen var den første som kom med air-bag og da med aribag på både passasjer og førerplass samt delvis galvanisert karoseri. I brukt-markedet er derfor 1995-modellene og nyere sikrere.
 
-Men når en bil er blitt over langt over 10 år så faller bruktbilprisen merkbart. Det gjelder alle merker. Dermed finnes flere rimelige Caraveller på markedet nå. Men som sagt: Se opp for rust i hjulbuene og kanaler. Volkswagen har mer rust på alle modeller enn de fleste. Dessuten. Ikke alle bileiere har tatt vare på bilen. 
+Men når en bil er blitt over langt over 10 år så faller bruktbilprisen merkbart. Det gjelder alle merker. Dermed finnes flere rimelige Caraveller på markedet nå. Men som sagt: Se opp for rust i hjulbuene og kanaler. Volkswagen har mer rust på alle modeller enn de fleste. Dessuten. Ikke alle bileiere har tatt vare på bilen.
