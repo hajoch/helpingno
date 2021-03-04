@@ -13,6 +13,7 @@ tags:
 - Spania
 - reise
 - Europa
+- sydenluksus
 title: '"Luksusstripen"'
 excerpt: 'Forbrukertest: Las Meloneras er det mest eksklusive området du kan besøke
   på Gran Canaria og kalles "luksusstripen".'
