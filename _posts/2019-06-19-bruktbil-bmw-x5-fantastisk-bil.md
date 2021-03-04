@@ -20,7 +20,7 @@ title: BMW X5 - 2011
 excerpt: 'Bruktbiltest:  Fantastisk bil. Motoren er en rekkesekser på 3 liter som
   yter 211 heter, modell 2011 kanskje verdens beste dieselmaskin?'
 image: "/assets/images/bmwx5.jpg"
-image_caption: Foto Ole Torbjørn Moy
+image_caption: 'Foto: Ole Torbjørn Moy'
 categories:
 - _category/bil.md
 publish_date: 
