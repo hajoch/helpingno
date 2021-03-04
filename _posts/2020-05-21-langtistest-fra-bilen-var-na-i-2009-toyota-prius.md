@@ -17,7 +17,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 1
 
 ---
 **God plass**  
