@@ -9,6 +9,8 @@ tags:
 - bruktbil
 - test
 - VW-konsernet
+- billigbil
+- gammelbil
 title: Skoda Superb 2012
 excerpt: 'Bak rattet i en Skoda Superb blir hukommelsen dårligere: Plutselig husker
   jeg ikke en eneste Skoda-vits. For denne bilen imponerer. VAG-konsernet har maktet
@@ -21,7 +23,7 @@ image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 Skoda Superb stasjonsvogn:
