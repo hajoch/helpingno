@@ -20,7 +20,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 **Brukt - Ford S-Max: Super, men dyr familiebil**
