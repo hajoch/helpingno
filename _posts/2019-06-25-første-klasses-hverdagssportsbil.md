@@ -20,7 +20,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 4
+weight: 1
 
 ---
 A-klasse og B-klasse er de minste modellene og det virker som om disse har vært lite prioritert av stormerket, inntil nå. Nå er endelig den utskjelte A-klassen oppdatert. Helping Bil prøvekjørte:
