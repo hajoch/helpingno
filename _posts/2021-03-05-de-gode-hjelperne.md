@@ -6,15 +6,16 @@ tags: []
 title: De gode hjelperne
 excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider. '
 image: "/assets/images/roya.jpg"
-image_caption: Vakre Roya hjelper gratis, foto nrk
+image_caption: 'Vakre Roya hjelper gratis, FOTO: ESKIL WIE FURUNES / foto nrk'
 author: _authors/leserinnlegg.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 6
+weight: 7
 
 ---
 NRK nyheter 4. MARS 21;  
+  
 Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig,helt alene, fordi ingen var der for meg da jeg trengte det.
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
@@ -39,7 +40,7 @@ Jobben hun legger ned på Instagram tjener hun ikke penger på.
 
 – Det er godt å kunne få meldinger eller telefoner om at jeg var der for dem, og at de klarte å komme seg ut av situasjonene, sier hun.
 
-#### Slår alarm
+**Slår alarm**
 
 Koronaåret 2020 har påvirket folkehelsen – særlig for unge voksne, og tallenes tale fra Mental Helse hjelpetelefon er tydelige.
 
@@ -48,8 +49,6 @@ I 2019 tok 1155 menn under 30 år kontakt – mens i fjor var tallet 2171. Det e
 – Det er en urovekkende økning, spesielt fordi det er så mange unge som går rundt og har det vanskelig i dagens samfunn. Det gjøres for lite for psykisk helse blant menn, sier Asla Timland Dale, daglig leder for hjelpetelefonen.
 
 SNAKK OM DET: Daglig leder for hjelpetelefonen, Aslaug Timland Dale, ber folk snakke mer om selvmord.
-
-FOTO: ESKIL WIE FURUNES / NRK
 
 Noe av grunnen til høyere tall kan skyldes at organisasjonen har ansatt flere personer til å svare på samtaler.
 
