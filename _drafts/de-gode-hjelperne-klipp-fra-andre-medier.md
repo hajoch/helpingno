@@ -14,8 +14,8 @@ publish_date:
 weight: 6
 
 ---
-NRK nyheter;  
-**Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk.**Jeg gjør dette frivillig, helt alene, fordi ingen var der for meg da jeg trengte det.
+NRK nyheter 4 MARS 21;  
+Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig,helt alene, fordi ingen var der for meg da jeg trengte det.
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
 
@@ -25,7 +25,7 @@ For fire år siden kom hun til et punkt i livet der hun ønsket å dele sine erf
 
 – Jeg hadde aldri vært den jeg er i dag, med å bruke egen fritid på å snakke med folk, hvis jeg ikke hadde vært gjennom det selv, sier Sori.
 
-#### – Eneste de vil er å prate
+##### – Eneste de vil er å prate
 
 Responsen kom fra dag én. Hun fikk støttende ord og tilbakemeldinger fra ukjente som hadde opplevd mye av det samme.
 
