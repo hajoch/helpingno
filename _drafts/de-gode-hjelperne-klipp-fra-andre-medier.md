@@ -41,7 +41,7 @@ Jobben hun legger ned på Instagram tjener hun ikke penger på.
 
 #### Slår alarm
 
-Koronaåret 2020 har påvirket folkehelsen – særlig for unge voksne, og tallenes tale fra Mental Helses hjelpetelefon er tydelige.
+Koronaåret 2020 har påvirket folkehelsen – særlig for unge voksne, og tallenes tale fra Mental Helse hjelpetelefon er tydelige.
 
 I 2019 tok 1155 menn under 30 år kontakt – mens i fjor var tallet 2171. Det er en økning på 88 prosent.
 
