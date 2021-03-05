@@ -4,9 +4,9 @@ date: 2021-03-05 04:45:13 +0100
 crop_image: true
 tags: []
 title: De gode hjelperne - klipp fra andre medier
-excerpt: 'Mennesker som gjør en forskjell for andre mennesker fortjener positiv omtale '
+excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider '
 image: "/assets/images/roya.jpg"
-image_caption: ''
+image_caption: Vakre Roya hjelper gratis, foto nrk
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
