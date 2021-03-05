@@ -14,7 +14,7 @@ publish_date:
 weight: 6
 
 ---
-NRK nyheter 4 MARS 21;  
+NRK nyheter 4. MARS 21;  
 Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig,helt alene, fordi ingen var der for meg da jeg trengte det.
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
