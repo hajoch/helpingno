@@ -6,7 +6,7 @@ tags: []
 title: De gode hjelperne
 excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider. '
 image: "/assets/images/roya.jpg"
-image_caption: 'Vakre Roya hjelper gratis, FOTO: ESKIL WIE FURUNES / foto. Tekst nrk'
+image_caption: 'Vakre Roya hjelper gratis, Foto: Eskil Wie Furunes. Tekst nrk.'
 author: _authors/leserinnlegg.md
 categories:
 - _category/helse.md
