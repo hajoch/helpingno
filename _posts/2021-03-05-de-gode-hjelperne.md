@@ -12,7 +12,7 @@ tags:
 - medmenneskelighet
 - hjelpere
 title: Gode hjelpere
-excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider. '
+excerpt: 'De gjør en forskjell for andre mennesker i koronatider. '
 image: "/assets/images/roya.jpg"
 image_caption: 'Vakre Roya hjelper gratis, Foto: Eskil Wie Furunes. Tekst nrk.'
 author: _authors/leserinnlegg.md
