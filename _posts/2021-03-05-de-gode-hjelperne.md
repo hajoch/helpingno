@@ -6,7 +6,7 @@ tags: []
 title: De gode hjelperne
 excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider. '
 image: "/assets/images/roya.jpg"
-image_caption: 'Vakre Roya hjelper gratis, FOTO: ESKIL WIE FURUNES / foto nrk'
+image_caption: 'Vakre Roya hjelper gratis, FOTO: ESKIL WIE FURUNES / foto. Tekst nrk'
 author: _authors/leserinnlegg.md
 categories:
 - _category/helse.md
@@ -14,8 +14,6 @@ publish_date:
 weight: 7
 
 ---
-NRK nyheter
-
 Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig, helt alene, fordi ingen var der for meg da jeg trengte det.
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
