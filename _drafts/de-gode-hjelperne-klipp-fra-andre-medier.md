@@ -4,7 +4,7 @@ date: 2021-03-05 04:45:13 +0100
 crop_image: true
 tags: []
 title: De gode hjelperne - klipp fra andre medier
-excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider '
+excerpt: 'Mennesker som gjør en forskjell for andre mennesker i koronatider. '
 image: "/assets/images/roya.jpg"
 image_caption: Vakre Roya hjelper gratis, foto nrk
 author: _authors/gunnar-christensen.md
@@ -19,7 +19,7 @@ Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker p�
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
 
-**– På et tidspunkt, etter seks år med mobbing på barneskolen, orket jeg ikke mer. Jeg gikk på en fjelltopp og ville ta mitt eget liv.**
+– På et tidspunkt, etter seks år med mobbing på barneskolen, orket jeg ikke mer. Jeg gikk på en fjelltopp og ville ta mitt eget liv.
 
 For fire år siden kom hun til et punkt i livet der hun ønsket å dele sine erfaringer etter en skilsmisse og et oppgjør med seg selv. Instagram ble plattformen hun delte tankene på.
 
@@ -29,7 +29,7 @@ For fire år siden kom hun til et punkt i livet der hun ønsket å dele sine erf
 
 Responsen kom fra dag én. Hun fikk støttende ord og tilbakemeldinger fra ukjente som hadde opplevd mye av det samme.
 
-**– Jeg har prøvd å begå selvmord to ganger. Jeg vet hvordan jeg kan hjelpe.**
+– Jeg har prøvd å begå selvmord to ganger. Jeg vet hvordan jeg kan hjelpe.
 
 30-åringen jobber som HR-sjef til vanlig, men bruker kveldene og nettene til å snakke med folk som forteller at de er i nød. Særlig unge menn med selvmordstanker.
 
@@ -43,11 +43,9 @@ Jobben hun legger ned på Instagram tjener hun ikke penger på.
 
 Koronaåret 2020 har påvirket folkehelsen – særlig for unge voksne, og tallenes tale fra Mental Helses hjelpetelefon er tydelige.
 
-**I 2019 tok 1155 menn under 30 år kontakt** – **mens i fjor var tallet 2171. Det er en økning på 88 prosent.**
+I 2019 tok 1155 menn under 30 år kontakt – mens i fjor var tallet 2171. Det er en økning på 88 prosent.
 
-– Det er en urovekkende økning, spesielt fordi det er så mange unge som går rundt og har det vanskelig i dagens samfunn. Det gjøres for lite for psykisk helse blant menn, sier Aslaug Timland Dale, daglig leder for hjelpetelefonen.
-
-![Aslaug Timland Dale, daglig leder i Mental Helse Norge, utenfor kontoret i Skien. Foto: Eskil Wie Furunes / NRK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trykk for å øke størrelsen på bildet")
+– Det er en urovekkende økning, spesielt fordi det er så mange unge som går rundt og har det vanskelig i dagens samfunn. Det gjøres for lite for psykisk helse blant menn, sier Asla Timland Dale, daglig leder for hjelpetelefonen.
 
 SNAKK OM DET: Daglig leder for hjelpetelefonen, Aslaug Timland Dale, ber folk snakke mer om selvmord.
 
@@ -55,7 +53,7 @@ FOTO: ESKIL WIE FURUNES / NRK
 
 Noe av grunnen til høyere tall kan skyldes at organisasjonen har ansatt flere personer til å svare på samtaler.
 
-**Barn helt ned i 8-årsalderen tar kontakt. På ett år økte også tallene for samtaler med selvmord som tema med 60 prosent.**
+Barn helt ned i 8-årsalderen tar kontakt. På ett år økte også tallene for samtaler med selvmord som tema med 60 prosent.
 
 Trenden bekymrer nå så mye at de mener det haster med hjelp.
 
