@@ -14,9 +14,9 @@ publish_date:
 weight: 7
 
 ---
-NRK nyheter 4. MARS 21;  
-  
-Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig,helt alene, fordi ingen var der for meg da jeg trengte det.
+NRK nyheter
+
+Hver dag bruker Roya Sori (30) fritiden på å svare menn med selvmordstanker på Instagram. Hun vil at andre skal få den hjelpen hun ikke fikk. Jeg gjør dette frivillig, helt alene, fordi ingen var der for meg da jeg trengte det.
 
 Roya Sori i Søgne på Sørlandet har ikke alltid sett lyst på livet.
 
@@ -40,6 +40,10 @@ Jobben hun legger ned på Instagram tjener hun ikke penger på.
 
 – Det er godt å kunne få meldinger eller telefoner om at jeg var der for dem, og at de klarte å komme seg ut av situasjonene, sier hun.
 
+Roya Sori tror åpenheten rundt psykisk helse har gitt høyere tall. I sine samtaler med de fortvilede menneskene er hun opptatt av at de selv skal gjøre jobben.
+
+– Det sies at du kan lede hesten til elva, men du kan ikke tvinge den til å drikke. Mange tror jeg kan fikse dem bare ved at de tar kontakt, men de må gjøre minst 60-70 prosent av jobben, sier Sori.
+
 **Slår alarm**
 
 Koronaåret 2020 har påvirket folkehelsen – særlig for unge voksne, og tallenes tale fra Mental Helse hjelpetelefon er tydelige.
@@ -48,7 +52,8 @@ I 2019 tok 1155 menn under 30 år kontakt – mens i fjor var tallet 2171. Det e
 
 – Det er en urovekkende økning, spesielt fordi det er så mange unge som går rundt og har det vanskelig i dagens samfunn. Det gjøres for lite for psykisk helse blant menn, sier Asla Timland Dale, daglig leder for hjelpetelefonen.
 
-SNAKK OM DET: Daglig leder for hjelpetelefonen, Aslaug Timland Dale, ber folk snakke mer om selvmord.
+SNAKK OM DET:   
+Daglig leder for hjelpetelefonen, Aslaug Timland Dale, ber folk snakke mer om selvmord.
 
 Noe av grunnen til høyere tall kan skyldes at organisasjonen har ansatt flere personer til å svare på samtaler.
 
@@ -57,7 +62,3 @@ Barn helt ned i 8-årsalderen tar kontakt. På ett år økte også tallene for s
 Trenden bekymrer nå så mye at de mener det haster med hjelp.
 
 – Snakk om selvmord. Det redder liv. Vi vet det redder liv. Det er mye stigma rundt menn og psykisk helse. Det å ikke ha språk rundt sine egne følelser eller arenaer hvor det er greit, er bekymringsfullt, sier Dale.
-
-Roya Sori tror åpenheten rundt psykisk helse har gitt høyere tall. I sine samtaler med de fortvilede menneskene er hun opptatt av at de selv skal gjøre jobben.
-
-– Det sies at du kan lede hesten til elva, men du kan ikke tvinge den til å drikke. Mange tror jeg kan fikse dem bare ved at de tar kontakt, men de må gjøre minst 60-70 prosent av jobben, sier Sori.
