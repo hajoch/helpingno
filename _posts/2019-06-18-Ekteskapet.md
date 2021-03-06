@@ -11,6 +11,17 @@ tags:
 - vennskap
 - forelskelse
 - den gode samtalen
+- samboere
+- bofellesskap
+- allianse
+- nærhet
+- felles respekt
+- tillitsforhold
+- familie
+- kjernefamilie
+- dialog
+- vennskap
+- trygghet
 title: Ekteskapet
 excerpt: Det inngås mer enn 25 tusen ekteskap i året her i Norge. I løpet av året
   er det også mer enn 10 tusen skilsmisser. Hvor mange samboerskap som starter og
@@ -23,7 +34,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 Hvis vi sier at det er fire faser i et samliv. Forelskelse. Dialog. Vennskap og så kjærlighet. Disse fasene trenger ikke å komme etter hverandre eller ha en bestemt styrke. Alle fasene er viktige, men kjærlighet betinger at vi har manuvrert oss gjennom de første tre fasene. Og at vi har en trygghet for at vi kommer gjennom de tre fasene igjen og igjen. Fasene er bare ment som en modell å tenke etter.
