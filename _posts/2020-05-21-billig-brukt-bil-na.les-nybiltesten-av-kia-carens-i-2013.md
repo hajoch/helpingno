@@ -7,11 +7,13 @@ tags:
 - bil
 - flerbruksbil
 - koreansk bil
+- Koreansk Industri Avfall
 title: Kia Carens i 2013
 excerpt: Billig brukt bil nå? Kia har med denne modellen av Carens bygd en helt ny
   bil. Designet er absolutt blitt bedre enn tidligere modell som hadde dårlig rykte
   - og gikk under navnet "Koreansk Industri Avfall".  For design selger. Dette blir
-  en konkurrent til VW Touran og Opel Zafira i pris og størrelse.
+  en konkurrent til VW Touran og Opel Zafira i pris og størrelse, men trolig ikke
+  kvalitet.
 image: "/assets/images/kia3.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/gunnar-christensen.md
