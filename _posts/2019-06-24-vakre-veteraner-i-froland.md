@@ -18,7 +18,7 @@ tags:
 - amcar
 title: " Veteranbiler "
 excerpt: |-
-  Veteranbiltreff i mai hvert år er et hyggelig vårtegn i Froland som vokser for hvert år. På Froland i Agder skjer det hvert år i mai. Da stiller stolte bileiere fra nær og fjern med blank-pussede doninger for å bli kjent, se og bli sett. Samt å lære av hverandre.
+  Veteranbiltreff i mai hvert år er et hyggelig vårtegn i Froland. På Froland i Agder skjer det hvert år i mai. Da stiller stolte bileiere fra nær og fjern med blank-pussede doninger for å bli kjent, se og bli sett. Samt å lære av hverandre.
 
   Hyggelig prat og kanskje en handel? Utveksle kontakter og tips om tekniske løsninger?
 image: "/assets/images/veteran7.jpg"
