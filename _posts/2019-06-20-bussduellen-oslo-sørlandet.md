@@ -21,7 +21,7 @@ image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 Busstrafikken mellom Sørlandet og Oslo har tatt av og "stjålet" mange kunder fra toget og biltrafikken. Kystruten sjøveien er for lengst historie. Det største volumet passasjerer tar bussene og her er flere aktører.
