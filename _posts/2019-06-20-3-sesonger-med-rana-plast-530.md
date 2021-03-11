@@ -9,6 +9,9 @@ tags:
 - båt påhengsmotor
 - båttest
 - skjærgård
+- liten familiebåt
+- 'praktisk og enkel båt for dagstur '
+- trailbar
 title: Rana Plast 530 - testet i 3 sesonger
 excerpt: Dette er en båt med god plass, men med svært enkel innredning. For enkel
   innredning vil mange mene. Mye mer kunne gjøres ut av dette konseptet. Du har følelsen
