@@ -13,6 +13,13 @@ tags:
 - baktale
 - splitt og hersk
 - sladrer til far på ungene
+- sinne
+- negative følelser
+- loyalitet
+- taktikk
+- konsentrasjon
+- sladre til ungene på far
+- ytre former
 title: Aggresjon
 excerpt: "Aggresjon for kvinner og menn \n"
 image: "/assets/images/roma2.jpg"
