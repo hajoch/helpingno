@@ -14,13 +14,17 @@ tags:
 - forstå døden bedre
 - den gamle visdommen fra Tibet
 - forord av Dalai Lama
+- over 2000 år gammel visdom om livet og døden
+- hjelp mot dødsangst
+- etter døden
 title: 'Forstå døden: Den Tibetanske Dødebok:'
 excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 1996.
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
   skattkammer av kunnskap om livet og døden fra en mer enn 2500 år gammel tradisjon
-  innen Tibetansk religion.'
+  innen Tibetansk religion. Tibetansk buddhisme forbinder vi med Dalai Lama og tantrisk
+  buddhisme.'
 image: "/assets/images/siv.jpg"
-image_caption: Illustrasjonsfoto Gunnar Christensen
+image_caption: 'Illustrasjonsfoto: Gunnar Christensen.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
