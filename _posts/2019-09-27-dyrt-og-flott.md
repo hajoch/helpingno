@@ -8,6 +8,13 @@ tags:
 - Historiske hoteller
 - Hardanger
 - Lofthus
+- hotell ved sjøen
+- småbåtutleie
+- hotell omgitt av fruktdyrkere
+- smal og krevende vei til hotellet
+- eplehøst
+- fruktblomstring
+- severdigheter
 title: Dyrt og flott
 excerpt: 'Test: Kanskje det beste historiske hotell? Ullensvang hotell på Lofthus
   i vakre Hardanger. Et sted å kose seg.'
@@ -17,7 +24,7 @@ image_caption: Foto Gunnar Christensen, motiv fra Ullensvang historiske hotell v
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-09-26T22:00:00.000+00:00
+publish_date: 
 weight: 7
 
 ---
