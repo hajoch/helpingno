@@ -15,15 +15,16 @@ tags:
 - sommeridyll
 - sommerbyen
 title: Båtsommer i Pollen, Arendal
-excerpt: 'Sommeren er båtsesong og mange samles i Pollen under utstillinger og fellesferie
-  for å vise frem, se og bli sett. '
+excerpt: Sommeren er båtsesong og mange samles i Pollen under utstillinger og fellesferie
+  for å vise frem, se og bli sett. Båtutstilling i Pollen er en årelang tradisjon
+  som vil bli tatt opp igjen etter pandemien.
 image: "/assets/images/sob6.jpg"
-image_caption: Foto Christoffer Jore Christensen
+image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 6
 
 ---
 ![](https://wwww.helping.no/assets/images/sob5.jpg)![](/assets/images/sb5.jpg)
