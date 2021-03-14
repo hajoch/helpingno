@@ -4,4 +4,4 @@ title: Ellen Marie Christensen
 image: ''
 
 ---
-Matjournalist
+Mat-journalist
