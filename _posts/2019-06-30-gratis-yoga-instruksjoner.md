@@ -31,7 +31,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 4
 
 ---
 I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
