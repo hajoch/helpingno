@@ -34,7 +34,7 @@ weight: 8
 
 Hva? Ubetjent og stengt? Nå midt i beste sesongtid?
 
-Men karen som betjener denne Norges og Nord-Europas mest høyliggende kiosk - han hadde tatt fri alt klokken 14.30 denne dagen. Det hadde ingen sagt noe om på Spiterstulen.
+Men karen som betjener denne Norges og Nord-Europas mest høytliggende kiosk - han hadde tatt fri alt klokken 14.30 denne dagen. Det hadde ingen sagt noe om på Spiterstulen.
 
 Det var nedtur for både barn og voksne selv om været var strålende og det var mulig å kjøpe en Galdhøpiggen pins nede på Spiterstulen etterpå som plaster på såret.
 
@@ -106,4 +106,4 @@ Hvordan du graver deg ned:
 
 Kilde: [http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185](http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185 "http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185")
 
-x) Redaktøren Gunnar Christensen nådde toppen av Galdhøpiggen på 2469 meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første gang han var der. Begge ganger i fint vær og til stengt dør.
+x) Redaktøren Gunnar Christensen nådde toppen av Galdhøpiggen på 2469 meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første gang han var der. Begge ganger i fint vær og til stengt dør på kiosken på toppen. Der sto begge ganger skuffede barn utenfor den lille hytta på toppen hvor den eksklusive pins-medaljen kunne kjøpes og bare der. For mange barn er denne pinsen selve beviset på å ha vært der når ferien er over og alle i klassen skryter av hvor de har vært. Dette må lokale krefter kunne gjøre bedre?
