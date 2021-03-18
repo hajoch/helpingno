@@ -23,11 +23,13 @@ tags:
 title: 'Galdhøpiggen '
 excerpt: Nord-Europas høyeste fjell. Til stengt dør
 image: "/assets/images/ga.jo.gc.jpg"
-image_caption: 'Foto: Gunnar Christensen: Toppen av Galdhøpiggen på 2469 meters høyde.'
+image_caption: 'Foto: Gunnar Christensen (som nådde toppen av Galdhøpiggen på 2469
+  meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første
+  gang han var der.) '
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 1\. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.
