@@ -23,9 +23,7 @@ tags:
 title: 'Galdhøpiggen '
 excerpt: Nord-Europas høyeste fjell. Til stengt dør
 image: "/assets/images/ga.jo.gc.jpg"
-image_caption: 'Foto: Gunnar Christensen (som nådde toppen av Galdhøpiggen på 2469
-  meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første
-  gang han var der.) '
+image_caption: 'Foto: Gunnar Christensen x) '
 categories:
 - _category/reise.md
 publish_date: 
@@ -107,3 +105,5 @@ Hvordan du graver deg ned:
 [http://www.vg.no/reise/artikkel.php?artid=103417](http://www.vg.no/reise/artikkel.php?artid=103417 "http://www.vg.no/reise/artikkel.php?artid=103417")
 
 Kilde: [http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185](http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185 "http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185")
+
+x) Redaktøren Gunnar Christensen nådde toppen av Galdhøpiggen på 2469 meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første gang han var der. Begge ganger i fint vær og til stengt dør.
