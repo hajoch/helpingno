@@ -15,7 +15,6 @@ tags:
 - Agder
 - Setesdalen
 - meditativ opplevelse
-- 'turistattraksjon '
 - dugnadsarbeid
 - kulturminne
 title: '"Bjoren" i Setesdal  '
