@@ -23,7 +23,7 @@ author: ''
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 0
+weight: 1
 
 ---
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
@@ -54,7 +54,7 @@ Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping
 
 ![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)
 
-Helping-maskoten "Basse" tror du vil sponse og annonsere hos oss.:   
-Foto Jens Christian Jore Christensen
+Helping-maskoten "Basse" tror du vil sponse og annonsere hos oss.:  
+Foto: Jens Christian Jore Christensen
 
 Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
