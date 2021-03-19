@@ -11,7 +11,7 @@ tags:
 - tørrfruktmøll
 - forsikringskrav
 - oppbevaring av mat
-title: 'Forbruker: Taco Shells fra Santa Maria kostet huseier over 300.000'
+title: 'Forbruker: Taco Shells fra Santa Maria kostet huseier over 300.000,-.'
 excerpt: 'Ekle larver i pakkene fra Taco Shells Santa Maria var tørrfruktmøll som
   ødela hele kjøkkenet. Mer enn to år og over tre hundre tusen kroner senere er synderen
   endelig oppdaget. Mattilsynet er koplet inn og forsikringsselskapet nekter å dekke
