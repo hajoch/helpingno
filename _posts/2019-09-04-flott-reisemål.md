@@ -25,8 +25,8 @@ image_caption: 'En firestjerners lugar ombord er flott, stilig og behagelig. Sam
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/båt.md
-publish_date: 2020-11-29 00:00:00 +0100
-weight: 5
+publish_date: 
+weight: 3
 
 ---
 Forbinder du Color Line med den overfylte danskebåten "Color Superspeed" i sommerhalvåret så er dette en helt annen opplevelse: Du er på en form for cruise. Om bord finnes et så variert tilbud at det skjeden føles overfylt der du er. Her er trim, spa, revy, casino, handlegate, badeland for barna og flere flotte spisesteder.
