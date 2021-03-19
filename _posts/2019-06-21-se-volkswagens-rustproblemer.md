@@ -17,7 +17,7 @@ image_caption: 'Foto: Tactyl, Arendal'
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 3
 
 ---
 Folk i antirust-bransjen har snakket om det lenge. Også Volkswagen-eiere har lenge vært frustrert over mer rustproblemer på bilene sine sammenliknet med andre merker. Selv de nyeste modellene har rustproblemer iflg. uavhengige godkjente verksteder.
