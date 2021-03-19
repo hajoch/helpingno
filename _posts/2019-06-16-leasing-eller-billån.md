@@ -13,6 +13,11 @@ tags:
 - verdens eldste i drift
 - Setesdal
 - Agder
+- Setesdalen
+- meditativ opplevelse
+- 'turistattraksjon '
+- dugnadsarbeid
+- kulturminne
 title: '"Bjoren" i Setesdal  '
 excerpt: Det er sensommer og finvær. Dampveteranen DB "Bjoren" glir stille på Byglands-fjorden
   i retning slusene ved Storstraumen. Den vedfyrte damp-maskinen er stillegående som
@@ -24,7 +29,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 6
 
 ---
 **Hjertet**  
