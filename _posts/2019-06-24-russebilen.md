@@ -9,9 +9,12 @@ tags:
 - biltest
 - kassebil
 - van
+- Transporter
+- kombibil
+- rustproblemer
 title: Russebilen
-excerpt: Dette er en av de mest populære russebilene for tiden. Her er en langtidstest
-  som gir deg grundig kunnskap om bilen.
+excerpt: Dette er en av russebilene for tiden. Her er en langtidstest som gir deg
+  grundig kunnskap om bilen før du kjøper.
 image: "/assets/images/caravellen.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
