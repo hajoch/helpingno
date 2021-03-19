@@ -13,6 +13,9 @@ tags:
 - Honda
 - snørydding
 - vinterredskap
+- vinter
+- snø
+- hjelpemiddel
 title: 'Snøfres: '
 excerpt: 'Når du kjøper din første snøfres har du ingen erfaring. Hver butikk har
   sine modeller med skinnende lakk og fine brosjyrer sammen med uhemmet skryt fra
