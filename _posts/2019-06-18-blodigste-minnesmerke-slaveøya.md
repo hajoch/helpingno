@@ -18,7 +18,7 @@ tags:
 - Juffre
 - slaveskipshavn
 - Black lives matter
-title: Slaveøya
+title: Slaveøya. Der startet "Black Lives matter".
 excerpt: 'Passasjer hyler og peker: - Sharks! Haier!'
 image: "/assets/images/james-island.jpg"
 image_caption: 'Den blodige slaveøya James Island kommer til syne i tåkedisen på Gambiafloden.
@@ -26,7 +26,7 @@ image_caption: 'Den blodige slaveøya James Island kommer til syne i tåkedisen 
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 \-James Island!  
