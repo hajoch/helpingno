@@ -7,10 +7,10 @@ tags:
 - Nidarosdomen
 - Trondheim
 - middalalderkirke
-- kroningskirke
 - katolsk kirkebygg
 - Nordens største middelalderkirk
 - Hellige Olavs grav
+- kroningskirke fra 1814
 title: Nordens største middelalderkirke
 excerpt: Nidarosdomen ble oppført der Olav den hellige ble gravlagt etter slaget på
   Stiklestad. I 1814 ble det tatt inn i grunnloven at Nidarosdomen skulle være landets
@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 ![](/assets/images/Nidaros1.jpg)
