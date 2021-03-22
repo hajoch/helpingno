@@ -18,7 +18,7 @@ image_caption: Foto GC
 categories:
 - _category/helse.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 Velsmakende og med store smaksvarianter alt etter kryddersammensetningen.
