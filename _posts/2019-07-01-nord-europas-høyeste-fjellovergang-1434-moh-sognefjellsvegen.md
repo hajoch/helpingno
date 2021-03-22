@@ -24,7 +24,7 @@ author: _authors/hallvard-j-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 ![](https://wwww.helping.no/assets/images/sogn4.jpg)![](/assets/images/sogn4.jpg)
