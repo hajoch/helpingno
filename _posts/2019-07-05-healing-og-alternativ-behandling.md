@@ -22,8 +22,8 @@ image_caption: |-
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
-publish_date: 2020-05-10 00:00:00 +0200
-weight: 1
+publish_date: 
+weight: 0
 
 ---
 "Alternativt" er en gruppebetegnelse som har flere retninger: I hovedsak er det snakk om alternativ helsebehandling og tanker av religiøs karakter.
