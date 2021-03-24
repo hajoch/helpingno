@@ -46,9 +46,9 @@ Slik som disse annonsene nederst på våre sider:
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)
 
 Her er link annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
-I tillegg velger du hvilken av våre over 200 sider du ønsker å annonsere på.
+I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.
 
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.
+Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gir vi rabatt etter avtale. F. eks kjøp 3 og betal for 2.
 
 Du sender dine linker/tekst til vår mail [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
