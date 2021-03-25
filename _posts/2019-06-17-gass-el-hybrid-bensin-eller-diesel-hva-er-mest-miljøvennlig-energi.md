@@ -31,7 +31,7 @@ image_caption: ''
 categories:
 - _category/bil.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 En bil på gass forurenser mindre og ikke i det hele tatt avhengig av typen gass. Bensinbiler kan etter en liten ombygging kjøres direkte på propangass. Men hvorfor er gass så lite brukt i Norge? Flere andre europeiske land har kjørt på gass i flere tiår. Avgiftskutt og andre fordeler på el-biler er nok svaret.
