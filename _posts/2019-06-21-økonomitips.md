@@ -17,15 +17,15 @@ tags:
 - lån av staten
 - huskjøpforsikring.
 - Ray Dalio
-title: Økonomitips
-excerpt: Personlig økonomi.
+title: 'Personlig økonomi. '
+excerpt: Økonomitips
 image: "/assets/images/rom1.jpg"
 image_caption: ''
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 6
 
 ---
 **Ny takst på boligen gir billigere boliglån?**  
