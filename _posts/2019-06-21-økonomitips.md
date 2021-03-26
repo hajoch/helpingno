@@ -18,14 +18,14 @@ tags:
 - huskjøpforsikring.
 - Ray Dalio
 title: Økonomitips
-excerpt: Gode råd i personlig økonomi. Gi deg selv en trygg fremtid.
-image: "/assets/images/skagen5.jpg"
+excerpt: Personlig økonomi.
+image: "/assets/images/rom1.jpg"
 image_caption: ''
 author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 7
+weight: 5
 
 ---
 **Ny takst på boligen gir billigere boliglån?**  
