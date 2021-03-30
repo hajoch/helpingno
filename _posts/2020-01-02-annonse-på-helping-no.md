@@ -13,8 +13,8 @@ tags:
 - frivillig dugnad bak heklping.no
 title: Annonse og støtte på helping.no.
 excerpt: |
-  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. Det lønner seg å annonsere hos oss. - Ta kontakt så hjelper vi deg.
-  Du er også velkommen til å støtte vår virksomhet med et småbeløp om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
+  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. Det lønner seg å annonsere hos oss. Ta kontakt så hjelper vi deg.
+  Du er også velkommen til å støtte vår virksomhet om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
 image: "/assets/images/Basse (04).jpg"
 image_caption: "Helping-maskoten \"Basse\" tror du vil støtte oss på helping.no. Nettstedet
   har vært på Internett siden 2001. Vi skiftet sist design 1. januar 2020. \nFoto
