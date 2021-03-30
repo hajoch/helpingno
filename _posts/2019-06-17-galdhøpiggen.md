@@ -27,7 +27,7 @@ image_caption: 'Foto: Gunnar Christensen x) '
 categories:
 - _category/reise.md
 publish_date: 
-weight: 8
+weight: 7
 
 ---
 1\. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.
