@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 3
+weight: 1
 
 ---
 Ja, alt er vel og bra med V 40 helt til du setter deg inn i baksetet: Det er trangt å komme seg inn og ut og slik sett likner bilen på Mercedes A-klasse. Så i klassen "kompakte familiebiler" finnes konkurrenter som lettere får bestemor inn i baksetet.
