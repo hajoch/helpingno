@@ -24,10 +24,10 @@ _Foto øverst: Jens Christian Joe Christensen_
 
 ![](/assets/images/img_0022.JPG)
 
-Foto: Hallvard Jore Christensen  
+_Foto: Hallvard Jore Christensen_  
 \- Redaktøren beundrer solnedgangen på Hove i Arendal
 
-Linker til noen av hans noveller:  
+Linker til noen Gunnars noveller:  
 [https://helping.no/barne-fortelleing-den-gode-samtalen](https://helping.no/barne-fortelleing-den-gode-samtalen "https://helping.no/barne-fortelleing-den-gode-samtalen")
 
 [https://helping.no/hva-er-gud](https://helping.no/hva-er-gud "https://helping.no/hva-er-gud")
