@@ -33,3 +33,5 @@ Linker til noen av hans noveller:
 [https://helping.no/hva-er-gud](https://helping.no/hva-er-gud "https://helping.no/hva-er-gud")
 
 [https://helping.no/jolla](https://helping.no/jolla "https://helping.no/jolla")
+
+[https://helping.no/nazima](https://helping.no/nazima "https://helping.no/nazima")
