@@ -31,3 +31,5 @@ Linker til to av hans noveller:
 [https://helping.no/barne-fortelleing-den-gode-samtalen](https://helping.no/barne-fortelleing-den-gode-samtalen "https://helping.no/barne-fortelleing-den-gode-samtalen")
 
 [https://helping.no/hva-er-gud](https://helping.no/hva-er-gud "https://helping.no/hva-er-gud")
+
+[https://helping.no/jolla](https://helping.no/jolla "https://helping.no/jolla")
