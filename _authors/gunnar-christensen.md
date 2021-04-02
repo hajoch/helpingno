@@ -35,3 +35,10 @@ Linker til noen Gunnars noveller:
 [https://helping.no/jolla](https://helping.no/jolla "https://helping.no/jolla")
 
 [https://helping.no/nazima](https://helping.no/nazima "https://helping.no/nazima")
+
+Kurs:  
+[https://helping.no/gratis-yoga-instruksjoner]()
+
+[https://helping.no/meditasjonskurs-introduksjon]()
+
+[https://helping.no/meditasjonskurs-2-mantra-meditasjon]()
