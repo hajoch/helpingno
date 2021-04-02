@@ -42,3 +42,5 @@ Kurs:
 [https://helping.no/meditasjonskurs-introduksjon]()
 
 [https://helping.no/meditasjonskurs-2-mantra-meditasjon]()
+
+[https://helping.no/meditasjonskurs-3-mantra-meditasjon-med-pusteteknikk]()
