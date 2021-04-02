@@ -9,6 +9,12 @@ tags:
 - Volkswagen
 - rust
 - liten familiebil
+- '2014'
+- Golf 7
+- TSI
+- 3cylindret miljømotor
+- rustproblemer
+- kostbar i forhold til tilsvarende biler
 title: " VW Golf 7- 2014"
 excerpt: 'Helping testet denne bilen da den var ny i 2014. Les hva vi skrev den gang. '
 image: "/assets/images/golf73.jpg"
