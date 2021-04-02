@@ -26,7 +26,7 @@ image_caption: Motiv fra Nidelven i Arendal. Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 2
+weight: 7
 
 ---
 **Nye kart**  
