@@ -36,7 +36,7 @@ Linker til noen Gunnars noveller:
 
 [https://helping.no/nazima](https://helping.no/nazima "https://helping.no/nazima")
 
-Kurs:  
+Kurs i yoga og meditasjon:  
 [https://helping.no/gratis-yoga-instruksjoner]()
 
 [https://helping.no/meditasjonskurs-introduksjon]()
