@@ -28,7 +28,7 @@ image_caption: 'Motiv fra Nidelv i Arendal. Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 9
+weight: 8
 
 ---
 I byer og tettsteder kan det være både dyrt og vanskelig å skaffe seg en båtplass. Da er ei jolle med påhengsmotor på en båthenger en både rimelig og praktisk form for båtliv. Jolla kommer til i små viker og andre steder hvor større båter ikke når inn. Med liten båt kan du utforske strandsoner og få nærkontakt med sjøen: Strekk ut hånden og du kjenner vanntemperaturen.
