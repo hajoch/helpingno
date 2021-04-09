@@ -24,11 +24,11 @@ excerpt: Mange velger jolla som sin første båt. Den er lett å ta med seg på 
   kjøres i plan med motorer som barn kan betjene på en sikker og lovlig måte. Men
   det er en åpen båt som egner seg best i godt vær.
 image: "/assets/images/b08.1.jpg"
-image_caption: Motiv fra Nidelv i Arendal. Foto Gunnar Christensen
+image_caption: 'Motiv fra Nidelv i Arendal. Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 9
 
 ---
 I byer og tettsteder kan det være både dyrt og vanskelig å skaffe seg en båtplass. Da er ei jolle med påhengsmotor på en båthenger en både rimelig og praktisk form for båtliv. Jolla kommer til i små viker og andre steder hvor større båter ikke når inn. Med liten båt kan du utforske strandsoner og få nærkontakt med sjøen: Strekk ut hånden og du kjenner vanntemperaturen.
