@@ -25,7 +25,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 9
 
 ---
 ![](https://wwww.helping.no/assets/images/sob5.jpg)![](/assets/images/sb5.jpg)
