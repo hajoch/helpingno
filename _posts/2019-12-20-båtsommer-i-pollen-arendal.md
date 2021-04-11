@@ -17,14 +17,15 @@ tags:
 title: Båtsommer i Pollen, Arendal
 excerpt: Sommeren er båtsesong og mange samles i Pollen under utstillinger og fellesferie
   for å vise frem, se og bli sett. Båtutstilling i Pollen er en årelang tradisjon
-  som vil bli tatt opp igjen etter pandemien.
+  som vil bli tatt opp igjen etter pandemien. Første helga i juni skal båtinteresserte
+  fra hele Sørlandet endelig få oppleve båtmesse i og rundt Pollen i Arendal igjen.
 image: "/assets/images/sob6.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 6
+weight: 8
 
 ---
 ![](https://wwww.helping.no/assets/images/sob5.jpg)![](/assets/images/sb5.jpg)
