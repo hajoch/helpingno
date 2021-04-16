@@ -15,7 +15,7 @@ tags:
 - sommeridyll
 - sommerbyen
 title: Båtmesse i Pollen
-excerpt: " Første helga i juni arrangeres årets båtsommer rundt Pollen i Arendal igjen."
+excerpt: " Første helga i juni arrangeres årets båtsommer i Arendal igjen."
 image: "/assets/images/sob6.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
