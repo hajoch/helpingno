@@ -28,7 +28,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 4
 
 ---
 Tilknytning blir det som skjer mellom mor (og etter hvert far) og søsken i denne utviklingen. Heldigvis har noen psykologer nå tatt til orde for at barnet må være med mor de to første årene i livet. Selv mener jeg at barn bør få være i hjemmet til de er tre. Fra den alder kan barnet langsomt tilpasses en lekepark og kan først i 6 årsalder klare fem seks timers dager borte fra mor og far. Men fulle arbeidsdager i form av 8 timer på skole og fritidsordning daglig er ikke noe å strebe etter. Må man ha det slik for å overleve, så er det ok. Men har man valget mellom å la være å bo i åsen og la en av de foresatte være hjemme, så bør valget være lett. Dette er min mening bygd på klinisk erfaring gjennom 36 år med folk i livskriser.
