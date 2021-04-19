@@ -21,7 +21,7 @@ image_caption: 'Bilde fra Lyseggens egen samling: Rituel Powowdans i Pine Ridge'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 4
+weight: 7
 
 ---
 Lise Lyseggen er sterkt engasjert i hjelpearbeid i fattige deler av verden og i særdeleshet blant Siouxindianerne i Sør-Dakota, USA. Hver sommer drar hun til Siouxindianerne der hun er deres "medisinmann" og hjelper.
