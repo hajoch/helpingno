@@ -34,7 +34,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 4
 
 ---
 Hvis vi sier at det er fire faser i et samliv. Forelskelse. Dialog. Vennskap og så kjærlighet. Disse fasene trenger ikke å komme etter hverandre eller ha en bestemt styrke. Alle fasene er viktige, men kjærlighet betinger at vi har manuvrert oss gjennom de første tre fasene. Og at vi har en trygghet for at vi kommer gjennom de tre fasene igjen og igjen. Fasene er bare ment som en modell å tenke etter.
