@@ -15,7 +15,7 @@ tags:
 - populær ungdomsbåt
 - Yamaha
 - Tohatsu
-title: Hurricane 370. Drømmebåten
+title: 'Drømmebåten Hurricane 370. '
 excerpt: "Ungdomsbåten: Hurricane 370 har fine linjer og vekker oppsikt på fjorden:
   Den\ner populær og derfor lett å selge videre hvis den er \"ekte vare\" altså fabrikkbygget
   båt. Piratkopi kan være farlig. "
