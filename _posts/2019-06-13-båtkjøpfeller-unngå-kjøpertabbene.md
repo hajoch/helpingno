@@ -24,7 +24,7 @@ excerpt: "Hvilken båt passer deg best? \nUnngå kjøpertabbene. Har du gjort et
   impulskjøp uten å tenke igjennom ditt behov kan du ha gått i fella."
 categories:
 - _category/båt.md
-image: "/assets/images/juli.01[1].JPG"
+image: "/assets/images/abat.10.JPG"
 crop_image: true
 publish_date: 
 weight: 8
