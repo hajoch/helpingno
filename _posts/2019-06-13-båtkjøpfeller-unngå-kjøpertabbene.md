@@ -28,7 +28,7 @@ image: "/assets/images/abat.10.JPG"
 crop_image: true
 publish_date: 
 weight: 8
-image_caption: "Gjessøya ved Hove utenfor  Arendal. \nfoto: Gunnar Christensen"
+image_caption: " Arendal. \nfoto: Gunnar Christensen"
 
 ---
 Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i luften på båtmesser og i salgsannonser. Sommeruker på sjøen lokker med badeliv og fiske. Dette ligger i bakhodet når båtannonser pløyes.
