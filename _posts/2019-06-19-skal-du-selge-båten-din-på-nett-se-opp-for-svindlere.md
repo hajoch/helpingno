@@ -17,7 +17,7 @@ image_caption: Illustrasjonsfoto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 6
 
 ---
 **Leserinnlegg av Hans Olsen**
