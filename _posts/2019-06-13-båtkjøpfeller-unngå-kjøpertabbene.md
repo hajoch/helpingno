@@ -27,7 +27,7 @@ categories:
 image: "/assets/images/abat.10.JPG"
 crop_image: true
 publish_date: 
-weight: 8
+weight: 5
 image_caption: "Pollen i Arendal. \nfoto: Gunnar Christensen"
 
 ---
