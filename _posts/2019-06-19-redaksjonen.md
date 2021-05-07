@@ -70,15 +70,23 @@ Utdannet Sykepleier
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist  
-Fagområde helse og mental helse:  
-Utdannet Lege og psykiater  
+Fagområde helse og mental helse: Utdannet Lege og psykiater  
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf.  
-Selvstendig næringsdrivende, Pensjonert militær kaptein i infanteriet  
+Selvstendig næringsdrivende  
 Utdannet master i sammenliknende politikk fra Universitet i Bergen.
 
-[**Andre bidragsytere og leserinnlegg**](https://helping.no/author/leserinnlegg)
+[Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
+[Berit Anfinsen](https://helping.no/aima)  - barnebok-tegner  
+Ellen Marie Christensen - tradisjonell norsk mat  
+[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse  
+Edle Bugge - journalist mat  
+Julie Jørgensen - journalist økonomi  
+Hans Olsen - innlegg  
+May-Lill Thorkelsson, - innlegg  
+[Knut Frognes ](https://helping.no/lenny-rømmer)- barnefortelling  
+Walter Krauss - konsulent
 
 **Sponse oss?**  
 Liker du vårt gratis tilbud av bøker og artikler så er du velkommen til å sponse oss på helping-magasinets konto **1506.28.29343**
