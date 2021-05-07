@@ -62,7 +62,7 @@ E-post: [hjgrini@online.no](mailto:hjgrini@online.no)
 Utdannet ved Hotellfag høyskolen, Stavanger.  
 Forfatter, foreleser og designer
 
-Tema og frilans-medarbeidere:
+###### Tema og frilans-medarbeidere:
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
