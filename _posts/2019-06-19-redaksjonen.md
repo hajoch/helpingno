@@ -30,10 +30,10 @@ weight: 8
 
 ---
 Kontaktinformasjon  
-Etablert i 21.04.2001  
+Etablert i 21.04.2001 .- over 20 år på nett  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com  
-Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
+Dette Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Redaktør, styreformann og gründer  
@@ -85,7 +85,7 @@ Edle Bugge - journalist mat
 Julie Jørgensen - journalist økonomi  
 Hans Olsen - innlegg  
 May-Lill Thorkelsson, - innlegg  
-[Knut Frognes ](https://helping.no/lenny-rømmer)- barnefortelling  
+[Knut Frognes ](https://helping.no/lenny-rømmer)- forfatter, barnefortelling  
 Walter Krauss - konsulent
 
 **Sponse oss?**  
