@@ -74,7 +74,7 @@ Fagområde helse og mental helse: Utdannet Lege og psykiater
 [  
 ](http://www.helping.no/bat.ya.htm)[**Ole Torbjørn Moy**](https://helping.no/author/ole-t-moy)  
 Journalist og fotograf.  
-Selvstendig næringsdrivende/master i sammenliknende politikk fra Universitet i Bergen.
+Selvstendig næringsdrivende/master i sam. pol. fra Universitet i Bergen.
 
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima)  - barnebok-tegner  
