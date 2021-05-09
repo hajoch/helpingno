@@ -50,6 +50,18 @@ fields:
       file: 
       path: 
   label: Skribent
+- name: coauthor
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Medforfatter
 - type: list
   name: categories
   label: Kategorier
