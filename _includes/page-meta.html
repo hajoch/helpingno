@@ -1,5 +1,9 @@
 {% if page.author %}
 {% assign author = site.authors | where: 'path', page.author | first %}
+{% if page.coauthor %}
+  {% assign coauthor = site.authors | where: 'path', page.coauthor | first %}
+{% endif %}
+<div class="uk-flex uk-flex-between ">
 {% if author %}
 <acticle class="uk-comment">
   <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid>
@@ -12,13 +16,36 @@
       <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ author.url | prepend: site.baseurl }}">{{ author.title }}</a></h4>
       <ul class="uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top">
         {% if page.publish_date %}
+        {% unless coauthor %}
           <li><span class="uk-button-text">{{ page.publish_date | date: '%B %d, %Y' }}</span></li>
+        {% endunless %}
         {% endif %}
         <li><span class="uk-button-text">{% include liquids/readtime.html post=page %}</span></li>
       </ul>
     </div>
   </header>
 </acticle>
+{% endif %}
 
+{% if coauthor %}
+<acticle class="uk-comment">
+  <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid>
+    <div class="uk-width-expand">
+      <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ coauthor.url | prepend: site.baseurl }}">{{ coauthor.title }}</a></h4>
+      <ul class="uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top uk-align-right">
+        {% if page.publish_date %}
+          <li><span class="uk-button-text">{{ page.publish_date | date: '%B %d, %Y' }}</span></li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="uk-width-auto">
+      <div class="avatar avatar-thumb">
+        <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" src="{{ coauthor.image | prepend: site.baseurl }}" alt="">
+      </div>
+    </div>
+  </header>
+</acticle>
+
+</div>
 {% endif %}
 {% endif %}

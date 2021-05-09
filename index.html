@@ -1,13 +1,9 @@
 ---
 layout: home
-title: Helping - Det hjelpsomme nettstedet
-featured: "AIMA"
+title: Helping - 20 år på nett! 🎉
 ---
 <!-- NOTE
-
-https://serennu.com/colour/colourcalculator.php
 #FBF041
-
 END NOTE -->
 
 
@@ -26,13 +22,13 @@ END NOTE -->
       <div class="uk-grid-match uk-child-width-expand@s" uk-grid>
         <div>
           <div class="uk-inline">
-          <div class="uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
+            <div class="uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
+            </div>
+            <div class="uk-overlay uk-overlay-default uk-position-bottom">
+              <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
+              <p>{{ main.excerpt }}</p>
+            </div>
           </div>
-          <div class="uk-overlay uk-overlay-default uk-position-bottom">
-            <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
-            <p>{{ main.excerpt }}</p>
-          </div>
-        </div>
         </div>
         <div>
           {% for post in featured limit:3 %}
@@ -43,7 +39,6 @@ END NOTE -->
 
     </div>
   <!-- Highlighted -->
-
   <div>
     <div uk-filter="target: .js-filter">
       <div class="uk-grid-small uk-flex-middle" uk-grid>
@@ -90,7 +85,6 @@ END NOTE -->
           </div>
         {% endfor %}
       </div>
-
   </div>
 
 </div>
