@@ -10,6 +10,33 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  /*
+  font-size: 100%;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 120%;
+  }
+  .content {
+    max-width: 100%;
+  }
+*/
+}
+
+article.post-content {
+  p {
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    img + br + em {
+      width: fit-content;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
 }
 
 main {
