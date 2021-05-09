@@ -33,6 +33,7 @@ categories:
 - _category/hjelpearbeid.md
 publish_date: 
 weight: 8
+coauthor: ''
 
 ---
 **Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Indianernes verdifulle kunnskap om naturen kan nå dø ut.**
@@ -40,7 +41,7 @@ weight: 8
 Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er.
 
 ![/assets/images/Rituell Powowdans .JPG](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Rituell%20Powowdans%20.JPG)  
-Bilde fra Lyseggens egen samling.
+_Bilde fra Lyseggens egen samling._
 
 Dette mener Lise Lyseggen som har over 40 års erfaring som hjelpearbeider hos Sioux-indianerne og er leder av Sioux Soul Foundation. Hun har i 40 år vært anerkjent som en av dem og har de siste 15 årene vært "medisinmann" i stammen som holder til i Pine Ridge, Sør-Dakota, USA.
 
@@ -55,7 +56,7 @@ Det er som om det skulle være en usynlig fjær i håret hennes når hun fortell
 
 ![](/assets/images/siouxtipi.jpg)
 
-Bilde fra Lyseggens egen samling. Motiv fra museum.
+_Bilde fra Lyseggens egen samling. Motiv fra museum._
 
 **- Indianerne er i utgangspunktet forvist til "bad-lands" i regionen som i tillegg er forurenset av den hvite manns virksomhet. Hvordan ser du for deg indianernes fremtid?**  
 \- Jeg tror de ville klart seg bedre om de hadde fått frie tøyler til å gjøre tingene på sin egen måte. Mange indianerreservater i dag er som en konsentrasjonsleir med strenge restriksjoner på det meste. De får til og med mat fra "staten". Svært knappe matrasjoner. Denne maten kommer fra militære overskuddslagre og har dårlig kvalitet. Den hvite mann har slaktet ned viltet i områdene deres for å ha kontroll på mattilgangen. De hvite satt i togvognene, tok ned vinduene og plaffet ned det meste som var av bøfler i indianernes område. Bøflene som var indianernes viktigste næringsgrunnlag, ble i tusenvis liggende å råtne på prærien fordi den hvite mann ikke skulle ha kjøttet fra bøflene, bare bryte ned livsgrunnlaget for indianerne. Bøffelen ble nærmest utryddet av den hvite mann med det formål å sulte i hjel indianer-befolkningen i Pine Ridge. Nå arbeider indianerne med å ale opp bøffelen igjen og de få som finnes i dag er nærmest som husdyr å regne. Med den ville bøffel-stammen utryddet er det naturlige livsgrunnlaget borte for siouxindianerne. Det er nå lite vilt i naturen og lite fisk i vannene som følge av forurensning og den hvite manns rovdrift. Ikke rart indianerne er bitre.
@@ -81,7 +82,7 @@ Bilde fra Lyseggens egen samling. Motiv fra museum.
 \- Det første jeg vil bygge nå er et vaskeri så indianerne slipper å kjøre 10 mil for å vaske klær. Det er ofte ikke mulig å kjøre så langt siden de oftest ikke har råd til bensin. Jeg har alt fått tomt til vaskeriet så den biten er på plass. Det vil naturlig nok koste penger å vaske klær og disse pengene vil genereres til andre ting. Mye kan gjøres for små penger her. Bl.a. hjelp til å skape et utsalg i for de mange dyktige kunstnerne som bor i Pine Ridge. Malere, klesdesignere m.m.. Disse lager flotte ting. I denne butikken - som også er nettbutikk - kan kunstnerne selge varene sine på kommisjon. Bare en slik butikk gir fort to arbeidsplasser og dermed inntekter. Jeg vil også arbeide for å få fler barn tilbake til skolebenken de har droppet ut av. Skoletilbudet er 12 års utdanning, men kun omkring 10 % av barna fullfører skolegangen. Det sier litt om størrelsen på drop-outen her. Nå er det heller ikke skoleplasser nok til alle årskull her og avstanden til skolen er meget stor. Det kan ta opp til tre timer å komme seg på skolen på grunn av store avstander, spredt bebyggelse og ingen transport-muligheter. Dette gjør det ikke lettere. Offentlig transport er nærmest fraværende. Bebyggelsen er som sagt stort sett utrangerte campingvogner som knapt henger sammen og mangler lys til lekselesing m.m.. Dette gjør det vanskelig for indianerne å følge opp skolen for barna.
 
 ![](/assets/images/siouxbarn.jpg)  
-Bilde fra Lyseggens egen samling.
+[Bilde fra Lyseggens egen samling.]()
 
 **- Hva med helsesituasjonen?**  
 \- 75% av indianerne har diabetes og gjennomsnittsalderen er omkring 60 år. Det betyr at kostholdet de får tildelt av "federal government" er svært usunt. Jeg tror ikke de har gener til å beholde helsa på den type mat de nå har tilgang på. Fra gammelt av spiste de røtter, urter og vilt de jaktet på. I tillegg har det fra 8o/ 90-tallet og opp til nå vært mye forurensning i områdene deres takket være den hvite manns virksomhet.  
@@ -105,8 +106,8 @@ _Bilde fra Lyseggens egen samling._
 
 Les også artikler:
 
-[https://helping.no/sioux-indianerne-trenger-hjelp](https://helping.no/sioux-indianerne-trenger-hjelp "https://helping.no/sioux-indianerne-trenger-hjelp")  
-  
+[https://helping.no/sioux-indianerne-trenger-hjelp](https://helping.no/sioux-indianerne-trenger-hjelp "https://helping.no/sioux-indianerne-trenger-hjelp")
+
 [https://helping.no/jeg-jobbet-hos-mor-teresa-en-engel](https://helping.no/jeg-jobbet-hos-mor-teresa-en-engel "https://helping.no/jeg-jobbet-hos-mor-teresa-en-engel")
 
 **Annonse:  
