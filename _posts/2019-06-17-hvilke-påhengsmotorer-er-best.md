@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-17T10:44:45.000+00:00
-crop_image: false
+crop_image: true
 author: _authors/gunnar-christensen.md
 tags:
 - båtmotorer
@@ -40,6 +40,7 @@ categories:
 - _category/båt.md
 publish_date: 
 weight: 8
+coauthor: ''
 
 ---
 Vi ser nå etter innføring av strengere miljøkrav et generasjonsskifte innen påhengsmotorer som tradisjonelt har vært dominert av 2-takt-motorer med oljeblandet bensin. 4-takt-motorene er imidlertid teknisk mer kompliserte enn 2-takt og trenger derfor dyrere service.
