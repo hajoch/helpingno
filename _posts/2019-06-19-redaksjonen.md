@@ -27,6 +27,7 @@ categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
 weight: 8
+coauthor: ''
 
 ---
 Kontaktinformasjon  
@@ -61,8 +62,6 @@ Styremedlem og grunder
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
 Utdannet ved Hotellfag høyskolen, Stavanger.  
 Forfatter, foreleser og designer
-
-###### Tema og frilans-medarbeidere:
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist  
