@@ -21,7 +21,8 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 7
+coauthor: ''
 
 ---
 Det er ukjent om båten finnes ny på markedet i dag - trolig er i så fall produksjonen i liten skala og kanskje med annet navn. Denne test må derfor ansees som en bruktbåttest.
