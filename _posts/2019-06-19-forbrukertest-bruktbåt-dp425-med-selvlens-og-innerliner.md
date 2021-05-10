@@ -10,6 +10,8 @@ tags:
 - påhengsmotor
 - roing
 - dobbeltskrog med selvlens
+- god robåt
+- god kvalitet for pengene
 title: DP425 har selvlens og innerliner
 excerpt: 'Forbrukertest: 14 fot, tar 5 personer, veier 200 kg, har pent design. Jolla
   kan ta opp til 30 hk motor med kort stamme og var mest prisgunstig ved vårt innkjøp
