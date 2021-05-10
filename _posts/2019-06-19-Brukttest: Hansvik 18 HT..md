@@ -25,7 +25,8 @@ image_caption: Hansvik 18 HT. Foto Hansvik
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 8
+coauthor: ''
 
 ---
 **5 sesonger med Hansvik 18 HT: Romlig og fornuftig 18 foter**
