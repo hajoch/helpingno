@@ -17,7 +17,7 @@ excerpt: 'Forbrukertest: 14 fot, tar 5 personer, veier 200 kg, har pent design. 
   kan ta opp til 30 hk motor med kort stamme og var mest prisgunstig ved vårt innkjøp
   direkte fra fabrikk i januar 2007 uten motor, men med bunnbehandling. Båten ble
   solgt med motor og båthenger i 2010. 4 sesonger. Båten er på bruktmarkedet og produseres
-  fremdeles i mindre skala.'
+  fremdeles i mindre skala i Arendalsområdet.'
 image: "/assets/images/jolle425.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
