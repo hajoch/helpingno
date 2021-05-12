@@ -49,8 +49,8 @@ Leder, Senior analytiker
 
 [**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjonssekretær og fotograf  
-Bachelor i Hotell økonomi, UiS  
-Student ved universitetet i Stavanger
+Bachelor i Hotell økonomi.   
+Utdannet ved universitetet i Stavanger 
 
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
