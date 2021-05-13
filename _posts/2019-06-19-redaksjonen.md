@@ -47,16 +47,16 @@ Master i Informasjonsteknologi og -tjenester
 Utdannet ved NTNU i Trondheim  
 Leder, Senior analytiker
 
-[**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
-Redaksjonssekretær og fotograf  
-Bachelor i Hotell økonomi.   
-Utdannet ved universitetet i Stavanger 
-
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
 Master i matematisk finans og internasjonal aktuar.  
 Utdannet ved Universitetet i Oslo  
 Avdelingsleder for analyse
+
+[**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
+Redaksjonssekretær og fotograf  
+Bachelor i Hotell økonomi.  
+Utdannet ved universitetet i Stavanger
 
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
