@@ -28,7 +28,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/båt.md
 publish_date: 
-weight: 4
+weight: 7
 coauthor: ''
 
 ---
