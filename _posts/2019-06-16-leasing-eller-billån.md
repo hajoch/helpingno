@@ -17,7 +17,7 @@ tags:
 - meditativ opplevelse
 - dugnadsarbeid
 - kulturminne
-title: '"Bjoren" i Setesdal  '
+title: 'Dampveteranen "Bjoren" i Setesdal  '
 excerpt: Det er sensommer og finvær. Dampveteranen DB "Bjoren" glir stille på Byglands-fjorden
   i retning slusene ved Storstraumen. Den vedfyrte damp-maskinen er stillegående som
   en symaskin og skroget pløyer fjorden med en utrolig, liten og beskjeden hekksjø.
@@ -29,6 +29,7 @@ categories:
 - _category/båt.md
 publish_date: 
 weight: 4
+coauthor: ''
 
 ---
 **Hjertet**  
