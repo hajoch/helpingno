@@ -23,7 +23,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 0
+weight: 
+coauthor: ''
 
 ---
 "Alternativt" er en gruppebetegnelse som har flere retninger: I hovedsak er det snakk om alternativ helsebehandling og tanker av religiøs karakter.
@@ -33,7 +34,7 @@ Alternativ behandling er mye omtalt i pressen i forbindelse med useriøse behand
 Healing er en av disse: Denne form for behandling har tidligere vært omtalt som "håndspåleggelse" og har bl.a. vært i bruk i menigheter. Forestillingen om at Gud helbreder på denne måten ved å sende energi direkte eller gjennom en behandler er mye brukt også utenfor religiøse grupper.
 
 **Tro**  
-Det tankegods som i dag oppfattes som alternativ tro og tanker er i hovedsak oppfatninger man har fått fra indisk religion, særlig fra hinduismen. Men også andre trosretninger. Derfor kommer denne trosretning inn under synkretistisk tro i religionshistorien. Synkretisme er som kjent en betegnelse for religions-blanding. Se under[ ](http://www.helping.no/religioner.htm)religioner. Eksempel fra indisk religiøs praksis er reinkarnasjon og meditasjons-teknikker.
+Det tankegods som i dag oppfattes som alternativ tro og tanker er i hovedsak oppfatninger man har fått fra indisk religion, særlig fra hinduismen. Men også andre trosretninger. Derfor kommer denne trosretning inn under synkretistisk tro i religionshistorien. Synkretisme er som kjent en betegnelse for religions-blanding. Eksempel fra indisk religiøs praksis er reinkarnasjon og meditasjons-teknikker.
 
 Alternativ tro er ikke nødvendigvis nye religiøse tanker som mange oppfatter det som, fordi de fleste forestillinger er fra indiske religioner og andre trosretninger som fantes lenge før såkalt "alternativ tro" ble til. Da disse tankene kom til Vesten - eksempelvis gjennom pop-gruppen "The Beatles" kontakt med den indiske yogi Maharishi på 1970-tallet - var det lettere å presentere dette som ny tro enn indisk religion. På den tiden kunne indisk religion lett bli oppfattet som "hedenskap" og mindreverdig i forhold til kristendommen.
 
@@ -42,7 +43,7 @@ Alternativ tro er ikke nødvendigvis nye religiøse tanker som mange oppfatter d
 Da klokker og politiker i Snåsa Joralf Gjerstad i 2008 fortalte sin livshistorie i boken "Snåsa-mannen" kom "varme hender" og healing igjen på dagsorden. Mange ble forbauset over beskrivelser om hva som ble påstått kunne utrettes med slike evner som Gjerstad såkalt "dokumenterte" gjennom denne boka. Gjerstads metode gir assosiasjoner til nytestamentlige helbredelser etter som det ofte bare skal berøring til for å bli helbredet.
 
 **Kontrast**  
-Dette står i sterk kontrast til den telefonstormen jeg som forfatter fikk fra en rekke trafikkskadde etter at jeg ga ut min bok "Styrkeprøven" . Boken kom på markedet i 1996 og handler om trafikkskaddes situasjon. De fleste som ringte meg hadde alvorlige kvestelser og helseproblemer. De hadde "forsøkt alt" uten å få hjelp. Også healing. Flere hadde brukt hele eller store deler av formuen sin på ulike former for alternativ behandling uten å få hjelp etter at det etablerte helsetilbudet hadde gjort hva de kunne.
+Dette står i sterk kontrast til den telefonstormen jeg som forfatter fikk fra en rekke trafikkskadde etter at jeg ga ut min bok "Styrkeprøven". Boken kom på markedet i 1996 og handler om trafikkskaddes situasjon. De fleste som ringte meg hadde alvorlige kvestelser og helseproblemer. De hadde "forsøkt alt" uten å få hjelp. Også healing. Flere hadde brukt hele eller store deler av formuen sin på ulike former for alternativ behandling uten å få hjelp etter at det etablerte helsetilbudet hadde gjort hva de kunne.
 
 For mange er det vanskelig å innfinne seg med en varig skade og flere trafikkskadde vurderer derfor selvmord.
 
@@ -63,8 +64,7 @@ Mange gir seg ut for å kunne helbrede med healing, men det viser seg i praksis 
 Alvorlig syke har omkommet som følge av at de har takket nei til såkalt "skolemedisin" ved sykehusene våre  og satset fullt og helt på løfter om bedre behandling og bedre utsikter til å bli frisk hos en alternativ behandler.  
 Er dette etisk riktig behandling?
 
-Når man er syk og fortvilet er det vanskelig å se kvaliteten i tilbudene  
-som markedsføres: Hva er realitet og hva er placeboeffekt opp i alle disse beretningen om healing? Ukepressen har i årevis presentert forskjellige alternative behandlere.........
+Når man er syk og fortvilet er det vanskelig å se kvaliteten i tilbudene som markedsføres: Hva er realitet og hva er placeboeffekt opp i alle disse beretningen om healing? Ukepressen har i årevis presentert forskjellige alternative behandlere.........
 
 Å legge seg ned på en benk for å bli behandlet eller berørt på spesielle punkter på kroppen til avslappende lyd eller musikk kan gi et velbehag der og da, men det hjelper ofte ikke på mer enn å roe ned pulsen og slappe av som etter en god middagslur eller en meditasjon. Tilbake i hverdagen kan de fleste konkludere med at dette ikke virker på de egentlige plagene - uansett om det gjentas flere ganger. Og så kommer behandlernes påstander om at det må enda mer behandling til før det virker. Da blir det dyrere og dyrere. Spør du meg: Har du prøvd dette selv? Ja, det har jeg.
 
