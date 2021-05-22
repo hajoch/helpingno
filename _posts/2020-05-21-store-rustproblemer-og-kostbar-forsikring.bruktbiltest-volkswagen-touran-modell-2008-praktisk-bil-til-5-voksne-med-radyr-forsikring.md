@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-21 16:34:33 +0200
+date: 2020-05-21T16:34:33.000+02:00
 crop_image: true
 tags:
 - VW Touran
@@ -26,7 +26,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 Bruktbiltest over flere år Volkswagen Touran:
