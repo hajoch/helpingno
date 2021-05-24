@@ -15,7 +15,7 @@ tags:
 - rustproblemer
 - rustproblemer
 title: VW Touran  2008
-excerpt: 'Bruktbiltest: :Store rust-problemer. Praktisk bil til 5 voksne - med rådyr
+excerpt: 'Bruktbiltest: Store rust-problemer. Praktisk bil til 5 voksne - med rådyr
   forsikring. Skal du ha fullverdig sitteplass til 5 voksne i bilen har du ikke mye
   å velge i. For de store stasjonsvognene har en dårlig og ukomfortabel løsning for
   deg som sitter i midten bak. Dette løser denne bilen galant med tre individuelle
