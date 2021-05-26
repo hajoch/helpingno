@@ -41,7 +41,7 @@ coauthor: ''
 Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er.
 
 ![/assets/images/Rituell Powowdans .JPG](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Rituell%20Powowdans%20.JPG)  
-_Bilde fra Lyseggens egen samling._
+_Bilde fra Lise Lyseggens egen samling._
 
 Dette mener Lise Lyseggen som har over 40 års erfaring som hjelpearbeider hos Sioux-indianerne og er leder av Sioux Soul Foundation. Hun har i 40 år vært anerkjent som en av dem og har de siste 15 årene vært "medisinmann" i stammen som holder til i Pine Ridge, Sør-Dakota, USA.
 
