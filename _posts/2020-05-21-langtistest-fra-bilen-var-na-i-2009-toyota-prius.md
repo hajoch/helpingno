@@ -1,15 +1,17 @@
 ---
 layout: post
-date: 2020-05-21 20:59:32 +0200
+date: 2020-05-21T20:59:32.000+02:00
 crop_image: true
 tags:
 - Toyota Prius
 - langtidstest bruktbil
 - hybrid
+- Toyota
+- Henning Jon Grini
 title: 'Toyota Prius 2009 - Langtidstest '
 excerpt: 'Toyota Prius var i 2009 en bestselgende hybridbil. Dette kunne ikke Henning
   Jon Grini (styremedlem i helping.no) motstå: Han kjøpte ny Toyota Prius. Han har
-  den fremdeles og han er fremdeles strålende fornøyd med bilen.'
+  den fremdeles og er fremdeles strålende fornøyd med bilen.'
 image: "/assets/images/prius-1.jpg"
 image_caption: Henning J. Grini har vært fornøyd med sin Toyota Prius siden den var
   ny i 2009. Foto Gunnar Christensen
@@ -18,6 +20,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: ''
 
 ---
 **God plass**  
