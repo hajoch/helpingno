@@ -36,7 +36,7 @@ Mange biler går for å være 5-seter, men komforten for dem som sitter bak er t
 I 2010 kommer denne bilen også med et plugg-in systemet der bilen kan lades fra en kontakt tilknyttet husets strømkilde.
 
 ![](/assets/images/prius-4.jpg)  
-Foto GC
+_Foto: Gunnar Christensen_
 
 **Prisgunstig**  
 Den norske bilpressen kåret Toyota Prius til årets beste kjøp i 2009. Det innebærer mest for pengene ved kjøp av Prius: Disse prisene hadde Toyota Prius i 2009: Comfort kostet kr 274 500, Advance kr 291 000, Executive kr 317 500 og Premium kr 348 800.
@@ -50,7 +50,7 @@ med gasspedalen. Problemet er at løse matter på førersiden kan skli fremover 
 
 **Ny gasspedalfeil**  
 Toyota sliter med flere typer feil på gasspedalen. På enkelte modeller henger gassen seg og kan gi farlige situasjoner.  
-Over 9 mill. Toyotaer må tilbakekalles på verdensbasis, over 35.000 biler bare i Norge for å få rettet på denne nye gasspedalfeilen. Dette gir Toyota stort tap på alle måter ikke bare økonomisk, men også på omdømme og interessen for bilmerket generelt.
+Over 9 mill. Toyota må tilbakekalles på verdensbasis, over 35.000 biler bare i Norge for å få rettet på denne nye gasspedalfeilen. Dette gir Toyota stort tap på alle måter ikke bare økonomisk, men også på omdømme og interessen for bilmerket generelt.
 
 **Bremsefeil på Prius**  
 Og som om ikke dette var nok: Nytt skandaleoppslag om feil på bremsene i nye Prius. Toyota innrømmer nå bremseproblemer på Prius: Rapporter om unormale bremser på Prius i Norge.
@@ -67,12 +67,12 @@ Alle feilene som er avdekket på Toyota går på feil med bilens sikkerhet. Det 
 
 **Toyota unndrar seg kostnadene og opplysningsplikt:**  
 **Hvem tør nå kjøpe Toyota?**  
-Når det nå kommer frem i nyhetene at Toyota har prøvd å unndra seg reparasjonskostnader ved å gjøre en for dårlig reparasjonsjobb på bilene med feil, så har Toyotas renome fått den endelige spikeren i kista. Dette kommer frem på Kongresshøringer i USA der 30 bilister er døde etter feil på Toyota. Toyota har også prøvd å holde feil skjult. " Toyota prøvde å unngå reparasjoner. Avsløringer i interne dokumenter. Mediesky sjef møter i Kongressen."
+Når det nå kommer frem i nyhetene at Toyota har prøvd å unndra seg reparasjonskostnader ved å gjøre en for dårlig reparasjonsjobb på bilene med feil, så har Toyotas sikkerhets-rykte har fått den endelige spikeren i kista. Dette kommer frem på Kongresshøringer i USA der 30 bilister er døde etter feil på Toyota. Toyota har også prøvd å holde feil skjult. " Toyota prøvde å unngå reparasjoner. Avsløringer i interne dokumenter. Mediesky sjef møter i Kongressen."
 
 **Kjøreforbud i Norge?**  
-I Norge vurderes nå kjøreforbud på flere Toyota-modeller etter den dramatiske ulykken på E 18 i mars 2010 der gasspedalen hang seg på en Toyota Prius og fører måtte kjøre i autovernet for å få stoppet bilen.
+Norge vurderte kjøreforbud på flere Toyota-modeller etter den dramatiske ulykken på E 18 i mars 2010 der gasspedalen hang seg på en Toyota Prius og fører måtte kjøre i autovernet for å få stoppet bilen.
 
-Og det fortsetter i oktober 2010: Toyota tlbakekalles for feil: "Toyota tilbakekaller halvannen million biler over hele verden grunnet muligheter for lekkasje av bremseveske":
+Og det fortsetter i oktober 2010: Toyota tilbakekalles for feil: "Toyota tilbakekaller halvannen million biler over hele verden grunnet muligheter for lekkasje av bremsevæske":
 
 17\.000 norske Toyota tilbakekalles i november 2012.[  
 ](http://www.dn.no/dnBil/article2507576.ece)Airbagfeil i april 2013  
@@ -86,6 +86,3 @@ En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkj�
 
 **Piggdekktilbud**  
 Grini tjente i 2009 på å kjøpe piggdekk med aluminiumsfelg av annen forhandler. Merkeforhandlere har vanligvis dårligst tilbud på vinterdekk. Pris hos merkeforhandler var da kr. 11.000,-. Dekkforhandleren leverte dekkene på døren for kr. 5.500,-. Piggdekkene han kjøpte har samme kvalitet/merke som merkeforhandlers tilbud. Nokia Hakkapalita har vist seg å være en av de beste piggdekkene.
-
-**Konklusjon**  
-Skandinaviske bileiere svarer i en spørreundersøkelse på spørsmål om de er fornøyd med bilen sin: Prius kommer på en imponerende 3-plass i kundetilfredshet av forskjellige 115 biler. Dette er en meget sterk indikator på bilenes kvalitet og standard og en meget nyttig oversikt for deg som bilkjøper. Undersøkelsen er av bileiere med årsmodeller mellom 2006 og 2009. Dette resultatet bifalles av Henning J. Grini.
