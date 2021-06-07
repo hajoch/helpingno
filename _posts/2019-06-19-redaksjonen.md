@@ -13,7 +13,7 @@ tags:
 - sponsing
 - frilansere hos helping.no
 - utviklingshjelp
-title: Redaksjonen 20 år på nett
+title: Redaksjonen 20 år
 excerpt: |2+
 
 
