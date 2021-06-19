@@ -20,8 +20,9 @@ image_caption: 'Dette er utsikten fra spisesalen på Finse 1222 historiske hotel
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-08-26T22:00:00.000+00:00
-weight: 5
+publish_date: 
+weight: 8
+coauthor: ''
 
 ---
 De fleste ankommer med tog. Mange for å sykle Rallarveien fra Finse til Flåm hele 57 km - kortere eller lengre. Bergensbanen tar velvillig sykkelen med hvis du tar tog tilbake til Finse. Eller reiser videre.
