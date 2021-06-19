@@ -31,7 +31,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 5
+weight: 8
+coauthor: ''
 
 ---
 ![](/assets/images/lind.13.jpg)
