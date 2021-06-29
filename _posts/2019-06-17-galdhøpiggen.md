@@ -27,7 +27,8 @@ image_caption: 'Foto: Gunnar Christensen x) '
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 9
+coauthor: ''
 
 ---
 1\. august sto mange skuffede barn utenfor den lille hytta på toppen av Galdhøpiggen på 2469 meters høyde. De hadde gått den lange, bratte og steinete stien fra Spiterstulen på 1100 meters høyde og opp til toppen i håp om å få de spesielle "trofeene" som der er å få kjøpt og som bekrefter at de har gjort bragden å bestige Galdhøpiggen.
@@ -108,4 +109,4 @@ Kilde: [http://www.turistforeningen.no/article.php?ar_id=6451&fo_id=3185](http:/
 
 **Det er stort å bestige Galdhøpiggen særlig fra Spiterstulen**
 
-x) Redaktøren Gunnar Christensen nådde toppen av Galdhøpiggen på 2469 meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første gang han var der. Begge ganger i fint vær og til stengt kiosk på toppen. Der sto begge ganger skuffede barn utenfor den lille hytta på toppen hvor den eksklusive pins-medaljen kunne kjøpes og bare der. For mange barn er denne pinsen selve beviset på å ha besteget Norges høyeste fjell. Dette når ferien er over og alle i klassen skryter av hvor de har vært. Fremdeles er det slik. Dette må lokale krefter kunne gjøre bedre? Særlig i vår digitale tid. 
+x) Redaktøren Gunnar Christensen nådde toppen av Galdhøpiggen på 2469 meters høyde sammen med sin familie 1. august. 2005 på dagen 30 år etter første gang han var der. Begge ganger i fint vær og til stengt kiosk på toppen. Der sto begge ganger skuffede barn utenfor den lille hytta på toppen hvor den eksklusive pins-medaljen kunne kjøpes og bare der. For mange barn er denne pinsen selve beviset på å ha besteget Norges høyeste fjell. Dette når ferien er over og alle i klassen skryter av hvor de har vært. Fremdeles er det slik. Dette må lokale krefter kunne gjøre bedre? Særlig i vår digitale tid.
