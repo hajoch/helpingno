@@ -21,7 +21,7 @@ tags:
 - Lindesnes fyr
 - Norges sydligste punkt
 - Sydkapp
-title: Fyrvokterboligen på Lindesnes Fyr
+title: 'Fyrvokter: Lindesnes Fyr'
 excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste med panoramautsikt
   over havet. Hyggelige og gjestfrie fyrvoktere ønsker deg velkommen, hjelper deg
   til rette og orienterer om fyret.
