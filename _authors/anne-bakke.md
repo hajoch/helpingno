@@ -16,3 +16,7 @@ Født 12.12.52 død 12.12. 2020
 Foto: Anne Bakke
 
 [https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder](https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder "https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder")
+
+[https://helping.no/gi-barna-et-godt-forhold-til-b%C3%B8ker](https://helping.no/gi-barna-et-godt-forhold-til-b%C3%B8ker "https://helping.no/gi-barna-et-godt-forhold-til-b%C3%B8ker")
+
+[https://helping.no/koffer-og-trille](https://helping.no/koffer-og-trille "https://helping.no/koffer-og-trille")
