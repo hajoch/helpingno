@@ -14,3 +14,5 @@ Født 12.12.52 død 12.12. 2020
 ![](/assets/images/ab5.JPG)
 
 Foto: Anne Bakke
+
+[https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder](https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder "https://helping.no/setesdal-naturens-%C3%A5rstider-i-bilder")
