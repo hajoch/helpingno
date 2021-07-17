@@ -6,7 +6,7 @@ image: "/assets/images/CJC.jpg"
 ---
 Redaksjonssekretær, journalist, lay-out og fotograf.
 
-Bachelor i Hotell økonomi. UIS
+Bachelor i Hotell økonomi. UiS
 
 Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
 
