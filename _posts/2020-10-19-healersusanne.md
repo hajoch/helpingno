@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-19 16:03:36 +0200
+date: 2020-10-19T16:03:36.000+02:00
 crop_image: true
 tags:
 - healing
@@ -21,7 +21,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 9
+coauthor: ''
 
 ---
 Jeg føler meg nesten like spent som en tenåringsgutt på sin første date der jeg sitter i en litt tom og åpen moderne forretningsgård på Forus i Stavanger minutter før avtalt tid. Fra nettbildene gjenkjenner jeg kort tid etter ei smilende, ung og slank dame i hvit frakk med store blå øyne.
