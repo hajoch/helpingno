@@ -55,8 +55,8 @@ Avdelingsleder for analyse
 
 [**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjonssekretær og fotograf  
-Bachelor i Hotell økonomi.  
-Utdannet ved universitetet i Stavanger
+Bachelor i Hotell økonomi. UIS  
+Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
 
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
