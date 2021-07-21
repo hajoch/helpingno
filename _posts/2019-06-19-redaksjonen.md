@@ -65,14 +65,13 @@ Utdannet ved Hotellfag høyskolen, Stavanger.
 Forfatter, foreleser og designer
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
-Journalist  
-Utdannet Sykepleier
+Journalist, Utdannet Sykepleier
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
-Journalist  
-Fagområde helse og mental helse: Utdannet Lege og psykiater  
+Journalist, Utdannet Lege og psykiater  
+Fagområde helse og mental helse   
   
-Ole Torbjørn Moy, Journalist og fotograf.  
+[Ole Torbjørn Moy](https://helping.no/author/ole-t-moy "https://helping.no/author/ole-t-moy"), Journalist og fotograf.  
 Selvstendig næringsdrivende/master i sam. pol. fra UiB.  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima)  - barnebok-tegner  
