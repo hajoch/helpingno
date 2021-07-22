@@ -47,6 +47,12 @@ Master i Informasjonsteknologi og -tjenester
 Utdannet ved NTNU i Trondheim  
 Leder, Senior analytiker
 
+[**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
+Styremedlem og grunder  
+E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
+Utdannet ved Hotellfag høyskolen, Stavanger.  
+Forfatter, foreleser og designer
+
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
 Master i matematisk finans og internasjonal aktuar.  
@@ -57,12 +63,6 @@ Avdelingsleder for analyse
 Redaksjonssekretær og fotograf  
 Bachelor i Hotell økonomi. UiS  
 Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
-
-[**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
-Styremedlem og grunder  
-E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
-Utdannet ved Hotellfag høyskolen, Stavanger.  
-Forfatter, foreleser og designer
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist, Utdannet Sykepleier
