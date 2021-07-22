@@ -70,7 +70,7 @@ Journalist, Utdannet Sykepleier
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist, Utdannet Lege og psykiater. Fagområde helse og mental helse
 
-[Ole Torbjørn Moy](https://helping.no/author/ole-t-moy "https://helping.no/author/ole-t-moy"), Journalist, Selvst. næringsdr./master i sam. pol. fra UiB.  
+[Ole Torbjørn Moy](https://helping.no/author/ole-t-moy "https://helping.no/author/ole-t-moy"), Journalist  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima)  - barnebok-tegner  
 Ellen Marie Christensen - tradisjonell norsk mat  
