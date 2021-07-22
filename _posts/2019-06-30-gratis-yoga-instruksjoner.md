@@ -26,12 +26,13 @@ excerpt: |-
 
   Det er problemet med muskelspenninger denne typen Yoga - såkalt Hatha-Yoga- best kan hjelpe deg med. Prinsippet i disse øvelsene er å strekke muskulaturen slik at den blir ledigere og smidigere. Stressknuter løses opp med regelmessig yoga-praksis som gir deg en mykere kropp. Her er enkle øvelser som de fleste kan få til med litt øvelse.
 image: "/assets/images/y8.jpg"
-image_caption: Øvelse 8
+image_caption: Øvelse 5
 author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
 weight: 4
+coauthor: ''
 
 ---
 I yoga-øvelsene er ikke tempo og kondisjon det viktigste, derimot å strekke musklene for å gjøre dem smidigere.
