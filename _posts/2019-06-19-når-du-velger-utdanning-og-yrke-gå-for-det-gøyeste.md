@@ -24,7 +24,8 @@ image_caption: 'Foto Christoffer J. Christensen: Når du velger utdanning og yrk
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 8
+coauthor: ''
 
 ---
 Mange har vansker med å vege utdannelse og yrke. Egentlig er dette ikke vanskelig om du stiller deg selv et enkelt spørsmål: Hva er det aller gøyeste du kan tenke deg å studere og eller å jobbe med? Så enkelt og så vanskelig er det. Verken mer eller mindre.
