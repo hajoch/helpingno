@@ -24,7 +24,8 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 3
+coauthor: ''
 
 ---
 Kjøreegenskapene er ikke dårligere ved hevet tyngdepunkt, kanskje på grunn av bredere dekkdimensjon? Alltack gir en fin og myk kjøreopplevelse. Den ligger stødig og forutsigbart på veien. Den er fast og fin på rattet og gir et solid, trygt inntrykk.
