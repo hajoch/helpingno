@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-17 10:16:54 +0200
+date: 2020-05-17T10:16:54.000+02:00
 crop_image: true
 tags:
 - Volvo V40
@@ -19,11 +19,12 @@ excerpt: |-
   At den "lille" Volvo V40 stikker av med tittelen sikreste bil i sin klassse på NCAP-testen alt  i 2012 er både oppsiktsvekkende og imponerende. For nå er NCAP-testene utvidet og flere sider ved bilens sikkerhet testes nå enn før. I tillegg har bilen flotte kjøreegenskaper og et tiltalende og moderne design.
 image: "/assets/images/v401-1.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen '
-author: _authors/gunnar-christensen.md
+author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/gunnar-christensen.md
 
 ---
 Ja, alt er vel og bra med V 40 helt til du setter deg inn i baksetet: Det er trangt å komme seg inn og ut og slik sett likner bilen på Mercedes A-klasse. Så i klassen "kompakte familiebiler" finnes konkurrenter som lettere får bestemor inn i baksetet.
