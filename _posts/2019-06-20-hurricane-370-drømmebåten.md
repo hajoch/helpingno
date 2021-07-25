@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-20T08:25:43.000+00:00
 crop_image: true
-author: _authors/gunnar-christensen.md
+author: _authors/christoffer-jore-christensen.md
 tags:
 - båt
 - båttest
