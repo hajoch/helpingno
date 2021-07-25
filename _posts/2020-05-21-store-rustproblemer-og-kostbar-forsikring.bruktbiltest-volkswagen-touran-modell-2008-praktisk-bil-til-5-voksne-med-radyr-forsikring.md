@@ -27,7 +27,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 2
-coauthor: ''
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 Bruktbiltest over flere år Volkswagen Touran:
