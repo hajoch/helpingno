@@ -20,7 +20,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
-coauthor: ''
+coauthor: _authors/henning-j-grini.md
 
 ---
 **God plass**  
