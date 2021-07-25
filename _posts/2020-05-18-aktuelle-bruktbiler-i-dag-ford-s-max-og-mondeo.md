@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-18 16:33:50 +0200
+date: 2020-05-18T16:33:50.000+02:00
 crop_image: true
 tags:
 - Bil
@@ -21,6 +21,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/gunnar-christensen.md
 
 ---
 **Brukt - Ford S-Max: Super, men dyr familiebil**
