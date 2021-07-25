@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-17 12:38:35 +0200
+date: 2020-05-17T12:38:35.000+02:00
 crop_image: true
 tags:
 - Octavia stv.
@@ -22,6 +22,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 **Fakta om testbilen: 2012 Skoda Octavia stv.**  
