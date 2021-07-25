@@ -22,8 +22,6 @@ weight: 5
 ---
 **Bruktbiltest: Volvo V70 2008**
 
-![](https://helping.no/assets/images/volvov70.jpg)
-
 Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
 
 **Pris og kvalitet**  
