@@ -23,7 +23,8 @@ image_caption: Filmen "Life of Brain"
 categories:
 - _category/religion.md
 publish_date: 
-weight: 4
+weight: 8
+coauthor: ''
 
 ---
 **Hva ligger i begrepet blasfemi og hvorledes har de fororientalske religionene - gresk religion, jødedommen, islam og kristendommen - tolket blasfemi gjennom tidene?**
