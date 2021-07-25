@@ -27,6 +27,7 @@ categories:
 - _category/båt.md
 publish_date: 
 weight: 3
+coauthor: _authors/gunnar-christensen.md
 
 ---
 Forbinder du Color Line med den overfylte danskebåten "Color Superspeed" i sommerhalvåret så er dette en helt annen opplevelse: Du er på en form for cruise. Om bord finnes et så variert tilbud at det skjeden føles overfylt der du er. Her er trim, spa, revy, casino, handlegate, badeland for barna og flere flotte spisesteder.
