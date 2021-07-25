@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-21 12:46:38 +0200
+date: 2020-05-21T12:46:38.000+02:00
 crop_image: true
 tags:
 - superb
@@ -24,6 +24,7 @@ author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
 weight: 1
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 Skoda Superb stasjonsvogn:
