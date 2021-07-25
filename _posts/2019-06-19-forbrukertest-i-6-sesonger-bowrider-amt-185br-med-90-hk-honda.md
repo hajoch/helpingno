@@ -31,7 +31,7 @@ categories:
 - _category/båt.md
 publish_date: 
 weight: 8
-coauthor: ''
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 **Båten:**
