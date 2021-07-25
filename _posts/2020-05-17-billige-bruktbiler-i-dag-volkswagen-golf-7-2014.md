@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-17 16:53:17 +0200
+date: 2020-05-17T16:53:17.000+02:00
 crop_image: true
 tags:
 - billig bil
@@ -24,6 +24,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 **Volkswagen Golf 7 - 2014**  
