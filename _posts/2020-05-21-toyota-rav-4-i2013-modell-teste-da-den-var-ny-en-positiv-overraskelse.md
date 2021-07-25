@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-21 06:06:52 +0200
+date: 2020-05-21T06:06:52.000+02:00
 crop_image: true
 tags:
 - Toyota Rav 4
@@ -23,6 +23,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 Testbilen er en diesel 151 hk firehjulstrekker med manuell 6-trinns girkasse i "Executive" den best utstyrte modellen. Dette innbefatter takluke, el. førersete, DAB-radio, skinnseter og cruise control for å nevne noe. "Executive" gir også muligheter for penere farger på interiøret - for standard er grått, sort og trist.
@@ -77,4 +78,4 @@ Best poeng er 5 sol-tegn: ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =
 
 Testbilen: 2013 Toyota Rav4, Motor 2.0 liter med 151 hk fra en firesylindret turbo-dieselmotor, Sikkerhet 5 stjerner i NCAP. Forkorte nakkestøtter i baksetet: Dette er et Toyota-problem også på Avensis. Komfort Beinplassen i baksetet er flott. Dette er en behagelig bil å sitte i for sitte-komforten er også forbedret i forhold til tidligere modell. Design De fleste vil si at nye RAV4 er betydelig penere enn forgjengerne, men ikke mer spennende enn et kneippbrød. Fargevalg Om du liker bilen lakkert i sort, grått eller hvit får du full pakke. Litt mer spennende farger er det ikke mye av. Økonomi Kundetilfredshet og god service er Toyotas beste kort. Ingen vet bedre kvaliteten på bilen enn kundene. Og de er strålende fornøyde Dette gjør Toyota til et sikkert kjøp med en brukbar bruktbilpris når du skal bytte inn. Totalvurdering: Bilene får poeng med antall sol-tegn.
 
-Best poeng er 5 sol-tegn: . 
+Best poeng er 5 sol-tegn: .
