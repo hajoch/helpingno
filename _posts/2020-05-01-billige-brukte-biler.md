@@ -21,7 +21,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 3
-coauthor: ''
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 
