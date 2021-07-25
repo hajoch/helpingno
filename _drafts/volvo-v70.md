@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2021-07-25 12:58:16 +0200
+crop_image: true
+coauthor: []
+tags: []
+title: Volvo V70
+excerpt: 'Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et
+  spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. '
+image: "/assets/images/volvov70.jpg"
+image_caption: ''
+author: _authors/gunnar-christensen.md
+categories:
+- _category/bil.md
+publish_date: 
+weight: 5
+
+---
+**Bruktbiltest: Volvo V70 2008**
+
+![](https://helping.no/assets/images/volvov70.jpg)
+
+Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
+
+**Pris og kvalitet**  
+Testbilen har en toliters diesel på 136 hestekrefter. Det er nok krefter om du har lesset bilen full eller skal dra båten langs landeveien. Ei uke og omkring 90 mil har jeg kjørt bilen langs E 18 og E 39. Kjøring i by og land og på all slag vei. Personlig liker jeg ikke skinnseter som oppleves klamme, men de fleste som kjøper denne bilen velger skinn. Bare en ting er trist med denne bilen: Det er prisen. Over fire hundre tusen spenn er drøyt. Men så finnes den da med en 109-hesters diesel femti tusen billigere.
+
+Men stopp litt: Hvorfor er Volvo eiere villige til å gi trehundreogfemti tusen spenn for den rimeligste V70? Når det finnes både Skoda Superb, Ford Mondeo, Toyota Avensis, og flere andre like store kvalitetsbiler med prislapp på omkring tre hundre tusen - altså billigere enn V70. Kan det være den gode sittekomforten, statusfaktoren eller designet?
+
+**Kollisjonssikkerhet**  
+Volvos legendariske kollisjonssikkerhet er denne bilen ikke lenger alene om. Alle konkurrentene har oppnådd fem stjerner i den europeiske sikkerhets-testen. Sikkerhet er blitt et satsingsområde i bilindustrien. Forbedringer skjer hele tiden.
+
+**Økonomi og miljø**  
+Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølge Volvo på en halvliter diesel på mila hvilket er bra vekta tatt i betraktning. Og miljøprofilen skjerpes for hvert år her som hos alle bilprodusenter.
+
+**Test**  
+Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig “langkjøring”.
