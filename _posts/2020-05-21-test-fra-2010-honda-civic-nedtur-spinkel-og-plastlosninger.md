@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-21 20:43:54 +0200
+date: 2020-05-21T20:43:54.000+02:00
 crop_image: true
 tags:
 - Honda
@@ -20,6 +20,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/gunnar-christensen.md
 
 ---
 **Fakta om testbilen: 2010 Honda Civic Sport**  
