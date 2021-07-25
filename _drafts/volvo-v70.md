@@ -3,8 +3,9 @@ layout: post
 date: 2021-07-25 12:58:16 +0200
 crop_image: true
 coauthor: []
-tags: []
-title: Volvo V70
+tags:
+- Volvo V70
+title: Volvo V70 2008
 excerpt: 'Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et
   spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. '
 image: "/assets/images/volvov70.jpg"
