@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-21 12:02:45 +0200
+date: 2020-05-21T12:02:45.000+02:00
 crop_image: true
 tags:
 - Kia
@@ -21,6 +21,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: _authors/christoffer-jore-christensen.md
 
 ---
 Bruktbil - Kia Carens: - Bedre design
