@@ -7,7 +7,6 @@ tags:
 - bruktbil
 - billige bruktbiler
 - test
-- Opel Astra
 - sikkerhet
 - Toyota Avensis
 - Peugteot 5008
