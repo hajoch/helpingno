@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-05-01 15:41:32 +0200
+date: 2020-05-01T15:41:32.000+02:00
 crop_image: true
 tags:
 - bil
@@ -11,8 +11,7 @@ tags:
 - sikkerhet
 - Toyota Avensis
 - Peugteot 5008
-- Volvo V70
-title: Brukte biler - Opel Astra, Toyota Avensis, Peugeots 5008 og Volvo V70,
+title: Brukte biler - Opel Astra, Toyota Avensis, Peugeots 5008,
 excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. Her
   gjengir vi testet fra 2008 - 2013. '
 image: "/assets/images/superb035.jpg"
@@ -23,6 +22,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: ''
 
 ---
 Dette var perioden for manuelt gir god manuell hånd-brekke og fossilt drivstoff. Manuell girkasser er i dag billig å skifte, mens automatgir er betydelig dyrere å skifte. Som bruktbil er biler med fossilt drivstoff tryggere. Tenk deg en brukt El-bil med et batteri som kan eksplodere i løpet av eiertiden din.....
@@ -138,23 +138,3 @@ Høyden gjør en flerbruksbil behageligere å stige inn og ut av.
 Samlet sett gir Peugeot 5008 et solid og praktisk inntrykk. Denne flerbruksbilen er et bedre og større alternativ enn en stasjonsvogn på grunn av bedre sittekomfort i baksetet, flere bruksmuligheter og bedre takhøyde. Men er dette en solid bil? Denne bilmodellen er for ny til å være med i kundetesten
 
 Er bileierne fornøyd med Peugeot? Undersøkelsen av kundetilfredshet hos bileire er ikke lystig lesning for Peugeot. På en skala fra 1 til 115 havner disse bilene langt nede på lista: Peugeot 107 er på 69-plass, Peugeot 4007 er på 74-plass, Peugeot 206 på 92-plass, Peugeot Partner på elendige 106-plass. Dette lover ikke bra for Peugeot 5008.
-
-**Bruktbiltest: Volvo V70 2008**
-
-![](/assets/images/volvov70.jpg)
-
-Volvo V70 2.0D med 136 hk fra en firesylindret. For mange er bilvalg et spørsmål om følelser. Det er en herlig følelse å sitte bak rattet i denne bilen. Den oppleves solid og godt skrudd sammen. Flotte kjøreegenskaper. Støysvak dieselmotor. Vidunderlige seter med varme. Varme også i baksetet. Flott lettbetjent musikk-anlegg. Kort sagt en herlig kjøremaskin.
-
-**Pris og kvalitet**  
-Testbilen har en toliters diesel på 136 hestekrefter. Det er nok krefter om du har lesset bilen full eller skal dra båten langs landeveien. Ei uke og omkring 90 mil har jeg kjørt bilen langs E 18 og E 39. Kjøring i by og land og på all slag vei. Personlig liker jeg ikke skinnseter som oppleves klamme, men de fleste som kjøper denne bilen velger skinn. Bare en ting er trist med denne bilen: Det er prisen. Over fire hundre tusen spenn er drøyt. Men så finnes den da med en 109-hesters diesel femti tusen billigere.
-
-Men stopp litt: Hvorfor er Volvo eiere villige til å gi trehundreogfemti tusen spenn for den rimeligste V70? Når det finnes både Skoda Superb, Ford Mondeo, Toyota Avensis, og flere andre like store kvalitetsbiler med prislapp på omkring tre hundre tusen - altså billigere enn V70. Kan det være den gode sittekomforten, statusfaktoren eller designet?
-
-**Kollisjonssikkerhet**  
-Volvos legendariske kollisjonssikkerhet er denne bilen ikke lenger alene om. Alle konkurrentene har oppnådd fem stjerner i den europeiske sikkerhets-testen. Sikkerhet er blitt et satsingsområde i bilindustrien. Forbedringer skjer hele tiden.
-
-**Økonomi og miljø**  
-Drivstofforbruket var tidligere en Volvo V70-ulempe: Nå går denne bilen ifølge Volvo på en halvliter diesel på mila hvilket er bra vekta tatt i betraktning. Og miljøprofilen skjerpes for hvert år her som hos alle bilprodusenter.
-
-**Test**  
-Bilen ble testet med piggfrie vinterdekk: Det ble en utrygg opplevelse da det kom våt nysnø en dag i testperioden. Piggdekk på denne bilen er derfor absolutt å foretrekke. I vår test brukte bilen 0,6 liter diesel pr. mil på vinterdekk med hovedsakelig "langkjøring".
