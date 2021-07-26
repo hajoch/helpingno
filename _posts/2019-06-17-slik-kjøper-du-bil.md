@@ -19,6 +19,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 2
+coauthor: ''
 
 ---
 **Her er sjekklista før du kjøper:**
@@ -30,7 +31,7 @@ Sjekk kollisjonstester og sikkerhetsnivå på bilen du kjøper. Stadig flere bil
 Bilens farge har betydning for sikkerheten og prisen på kaskoforsikringen. I England og flere andre land er røde og gule biler billigst å forsikre og de sorte og grå dyrest.  Dette systemet vil påvirke prisingen av forsikring fremover også i Norge.
 
 **3**. **Eierskiftekontroll**.  
-Sjekke bilens tekniske tilstand på et uavhengig verksted og få en tilstandsrapport. Vær nøye med å sjekke rust og eventuelle kollisjonsskader for dette er dyrt å reparere.
+Sjekke bilens tekniske tilstand på et uavhengig verksted og få en tilstandsrapport. Vær nøye med å sjekke rust og eventuelle kollisjonsskader for dette er dyrt å reparere og kan påvirke sikkerheten.
 
 En EU-kontroll har ikke alle opplysninger du trenger for å vite hva du kjøper. Sjekk også når bilen skal til EU-kontroll.
 
@@ -49,7 +50,7 @@ Undersøk tidligere eiere og deres forsikringsselskap: På Statens Vegvesens vog
 
 Du kan da ringe både forsikrings-selskapene og tidligere eiere for å få opplysninger om tidligere skader på bilen og km-stand på ulike tidspunkt. Dette kan spare deg for overraskelser også når du en gang skal selge bilen videre.
 
-Kjøper du veteranbil eller importert bil så sjekk om bilen er ombygd og om denne ombyggingen er godkjent for bnruk i Norge.
+Kjøper du veteranbil eller importert bil så sjekk om bilen er ombygd og om denne ombyggingen er godkjent for bruk i Norge.
 
 **6. Sjekk km-telleren, serviceheftet og speedometerfeil**  
 Sjekk at bilen har serviceheftet - eller at dette er elektronisk lagret hos merkeforhandler. Serviceheftet er et viktig dokument som forteller deg hvor godt bilen er tatt vare på med hensyn på oljeskift, tilsyn og sikkerhetssjekk og om dette er gjort etter de intervaller som fabrikken anbefaler. Service er mer enn en EU-kontroll.
@@ -61,7 +62,7 @@ Sinker du trafikken når du holder fartsgrensen under prøvekjøring? Mange bile
 **7.** Bruk en **kjøpekontrakt**.  
 Forbrukerrådet har standard kontrakter som har med det du trenger og gode råd.
 
-Ta deg tid til å lese igjennom kontrakten nøye før du signerer. Merk deg hvilke opplysninger selger gir om rust og teknisk tilstand på bilen og be om nærmere opplysninger skriftelig på kontrakten om noe er uklart.
+Ta deg tid til å lese igjennom kontrakten nøye før du signerer. Merk deg hvilke opplysninger selger gir om rust og teknisk tilstand på bilen og be om nærmere opplysninger skriftlig på kontrakten om noe er uklart.
 
 Avtal i kontrakten hvordan betaling skal skje. f.eks. "kontant ved overtakelse" og tidspunkt for eierskifte. Avtal når selger sier opp sine forsikringer slik at du får forsikret bilen på deg i tide.
 
