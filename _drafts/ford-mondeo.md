@@ -8,7 +8,7 @@ tags:
 - mondeo
 - bruktbil
 - bruktbiltest
-title: Ford Mondeo
+title: Ford Mondeo 2011
 excerpt: 2.0 liter med 115 hk fra, en firesylindret turbodieselmotor, Sekstrinns manuell
   girkasse, Mondeo leveres som sedan, kombi og stasjonsvogn, 5 stjerner i Euro NCAP
 image: "/assets/images/fordmodeo.jpg"
