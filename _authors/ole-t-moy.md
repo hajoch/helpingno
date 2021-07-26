@@ -5,5 +5,5 @@ image: "/assets/images/oletmoy (2).jpg"
 
 ---
 **Journalist og fotograf**  
-Selvstendig næringsdrivende og militærkaptein i det norske infanteriet.  
+Selvstendig næringsdrivende.  
 Utdannet master i sammenliknende politikk fra Universitet i Bergen
