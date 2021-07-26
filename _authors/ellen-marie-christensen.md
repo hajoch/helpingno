@@ -5,3 +5,7 @@ image: ''
 
 ---
 Mat-journalist
+
+tradisjonelt norsk kosthold. 
+
+fylte 100 år i 2021
