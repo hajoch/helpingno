@@ -3,9 +3,14 @@ layout: post
 date: 2021-07-26 12:43:12 +0200
 crop_image: true
 coauthor: _authors/gunnar-christensen.md
-tags: []
+tags:
+- ford
+- mondeo
+- bruktbil
+- bruktbiltest
 title: Ford Mondeo
-excerpt: ''
+excerpt: 2.0 liter med 115 hk fra, en firesylindret turbodieselmotor, Sekstrinns manuell
+  girkasse, Mondeo leveres som sedan, kombi og stasjonsvogn, 5 stjerner i Euro NCAP
 image: "/assets/images/fordmodeo.jpg"
 image_caption: Foto GC
 author: _authors/christoffer-jore-christensen.md
