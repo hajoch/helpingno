@@ -28,6 +28,7 @@ categories:
 - _category/religion.md
 publish_date: 
 weight: 5
+coauthor: _authors/jens-christian-jore-christensen.md
 
 ---
 **Dette er Lisa Williams, det verdenskjente klarsynte mediet som snakker med de døde. Folk står i kø for å møte henne og populariteten bare øker i Norge.**
