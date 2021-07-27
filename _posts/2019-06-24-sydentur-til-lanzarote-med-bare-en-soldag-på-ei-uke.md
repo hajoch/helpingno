@@ -24,7 +24,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 4
+coauthor: _authors/jens-christian-jore-christensen.md
 
 ---
 Dårligere vær rammer nå alle Kanariøyene liksom mange andre steder i verden. Skal du være sikker på å kjenne sommersol på kroppen i vinterhalvåret må du velge andre reisemål.
