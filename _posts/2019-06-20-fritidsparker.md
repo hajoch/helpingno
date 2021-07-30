@@ -15,15 +15,16 @@ tags:
 - underholdning
 - opplevelser
 title: 'Fritidsparker '
-excerpt: Din guide til de beste fritids-og familieparkene i Skandinavia. Fritidsparkene
-  i Norge, Danmark og Sverige. Det legges vekt på barnevennlighet, tilpasning for
-  hele familien, tilgjengelighet og totalinntrykk.
+excerpt: Din guide til de beste fritids-og familieparkene i Norge, Danmark og Sverige.
+  Det legges vekt på barnevennlighet, tilpasning for hele familien, tilgjengelighet
+  og totalinntrykk.
 image: "/assets/images/nikondk1 (1).jpg"
 image_caption: Foto Gunnar Christensen motiv fra Skagen, Danmark
 categories:
 - _category/reise.md
 publish_date: 
 weight: 7
+coauthor: ''
 
 ---
 #### Norge:
@@ -31,7 +32,7 @@ weight: 7
 **Dyreparken i Kristiansand**
 
 ![](/assets/images/dyreparken.jpg)  
-Dyreparken var i utgangspunktet en dyrehage som gradvis er utvidet til badeland og fornøyelsespark. Her er mange attraksjoner som bl.a. kaptein Sabeltann og reise med sjørøverskip, Kjuttaviga samt Torbjørn Egners Kardemomme by og Hakkebakkeskogen. Muligheter for overnatting bl.a. i røverlandsby. Dette er en fin familiepark med et variert tilbud som passer for hele familien.
+Dyreparken var i utgangspunktet en dyrehage som gradvis er utvidet til badeland, barneteater og fornøyelsespark samt hotelltilbud. Her er mange attraksjoner som bl.a. kaptein Sabeltann og reise med sjørøverskip, Kjuttaviga samt Torbjørn Egners Kardemomme by og Hakkebakkeskogen samt sjørøverlandsby. Muligheter for overnatting bl.a. i røverlandsby. Dette er en fin familiepark med et variert tilbud som passer for hele familien.
 
 **Tusenfryd**
 
