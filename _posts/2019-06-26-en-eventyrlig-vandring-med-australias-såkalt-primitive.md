@@ -12,7 +12,7 @@ tags:
 - urinnvåner
 - dokumentar
 - dokumentarroman bøker litteratur
-title: En eventyrlig vandring med Australias såkalt primitive
+title: En eventyrlig vandring med Australias urinnvånere
 excerpt: Morgan har skrevet en underlig bok. Romanen gir oss en unik og spennende
   mulighet til innlevelse i og forståelse av Australias undertrykte urbefolkning -
   aborginerne.
@@ -23,6 +23,7 @@ categories:
 - _category/boker.md
 publish_date: 
 weight: 3
+coauthor: ''
 
 ---
 **Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk brukt-bok-markedet.**
