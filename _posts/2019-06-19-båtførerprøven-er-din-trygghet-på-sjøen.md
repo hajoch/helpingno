@@ -19,9 +19,9 @@ tags:
 - båtvett
 title: Båtlappen.
 excerpt: 'Ta hensyn til badende barn og voksne, dyre- og fugleliv og trivsel for alle
-  på sjøen: Det betyr bl.a. at du senker farten for kajakk, kano og småbåter samt
-  fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er du en
-  del av idyllen - og ikke en bølle på sjøen.
+  på sjøen: Det betyr bl.a. at du senker farten for badende, kajakk, kano og småbåter
+  samt fortøyde småbåter der du ferdes. Sjekk hekksjøen din i trangt farvann så er
+  du en del av idyllen - og ikke en bølle på sjøen.
 
 '
 image: "/assets/images/sb7.jpg"
@@ -29,7 +29,8 @@ image_caption: Båtførerprøven - din trygghet på sjøen. Foto Gunnar Christen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 5
+coauthor: ''
 
 ---
 Båtførerprøven kan du ta på vår- og høstsemester de fleste steder her i landet. Denne "båtlappen" gir ikke bare rabatt på båtforsikringen. Viktigst er at du får en tryggere ferdsel på sjøen når du kan orientere deg etter et båtsportkart, kjenne sjøens staker, kjøreregler, vikeplikt, fart, ferdsel - kort sagt trafikkregler på sjøen.
