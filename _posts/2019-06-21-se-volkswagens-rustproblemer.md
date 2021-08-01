@@ -18,6 +18,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 3
+coauthor: ''
 
 ---
 Folk i antirust-bransjen har snakket om det lenge. Også Volkswagen-eiere har lenge vært frustrert over mer rustproblemer på bilene sine sammenliknet med andre merker. Selv de nyeste modellene har rustproblemer iflg. uavhengige godkjente verksteder.
@@ -45,16 +46,16 @@ Merkeforhandlers verksted har også gitt ett tilbud på samme feil: Egenandel kr
 
 **Dette frister ikke uten tillit til antirustprogrammet hos VW særlig når vi må betale omkring dobbelt så mye her som hos Tectyl.**
 
-VW hadde 10 års garanti mot "gjennomrusting" på tidspunktet vi kjøpte Golfen ? nå er dette hevet 12 år på nye biler. Hva er gjennomrustning? Gjennomrust av metallplata eller "antirustbelegget"? Det er noe forhandler selv tolker og definerer på sin egen måte.
+VW hadde 10 års garanti mot "gjennomrusting" på tidspunktet vi kjøpte Golfen. Nå er dette hevet 12 år på nye biler. Hva er gjennom-rustning? Gjennom-rust av metallplata eller "antirustbelegget"? Det er noe forhandler selv tolker og definerer på sin egen måte.
 
-Flere forhandlere for antirustbehandling på bil rister på hodet av VWs antirustprogram og anbefaler oss å kjøpe Toyota neste gang. Vi spør:
+Flere forhandlere for antirustbehandling på bil rister på hodet av VWs antirust-program og anbefaler oss å kjøpe Toyota neste gang. Vi spør:
 
-Hva er VW-antirustprogram verd? Vi er ved nybilkjøp forespeilet å være trygge med hensyn på rustoppfølging gjennom forhandlerens utsagn om service og garantier, men ender opp med en større ekstrautgift som følge av at VW ikke følger opp det som er lovet.
+Hva er VW-antirust-program verd? Vi er ved nybilkjøp forespeilet å være trygge med hensyn på rustoppfølging gjennom forhandlerens utsagn om service og garantier, men ender opp med en større ekstrautgift som følge av at VW ikke følger opp det som er lovet.
 
-Rust er noe forbrukere merker seg: Vi husker Audis rustproblemer på 1970-tallet, Mercedes rustproblemer på 2000-tallet. Det lønner seg aldri å gamble på dårlig rustbehandling.
+Rust er noe forbrukere merker seg: Vi husker Audis rust-problemer på 1970-tallet, Mercedes rust-problemer på 2000-tallet. Det lønner seg aldri å gamble på dårlig rustbehandling.
 
-Volkswagen har nå trolig en jumboplass i antirustbehandling av nybiler: Mange andre nybilforhandlere leverer bilen ferdig Tectylert.
+Volkswagen har nå trolig en jumboplass i antirustbehandling av nybiler: Mange andre nybilforhandlere leverer bilen ferdig Tectyl-behandlet.
 
-Spør nøye om bilens antirustprogram før du gjør kjøpsavtale om ny bil uansett merke: Bl.a. Toyota leverer alle sine nye biler ferdig tectylert. Det er slik det burde være.
+Spør nøye om bilens anti-rust-program før du gjør kjøpsavtale om ny bil uansett merke: Bl.a. Toyota leverer alle sine nye biler ferdig Tectyl-behandlet. Det er slik det burde være.
 
 Vil du ha en god garanti og oppfølging mot rust på din neste nybil så styr unna Volkwagen, Audi og Skoda som alle har samme dårlige garanti mot rust. Også om du planlegger å bytte ut bilen etter 3 eller 6 år. Det rytes fort på bruktbilmarkedet at Volkswagen har rustproblemer.
