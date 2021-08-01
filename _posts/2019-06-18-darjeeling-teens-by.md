@@ -33,7 +33,8 @@ image_caption: |-
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 4
+coauthor: ''
 
 ---
 Navnet er tibetansk: Khang Chen Dzod Nga. Fjellet består av syv tinder på samme fjellrygg. Den øverste av dem er Kanchenjunga og dominerer de andre tindene i høyde og berømmelse.
