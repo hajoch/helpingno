@@ -65,3 +65,5 @@ www.bosnianpyramidofthesun.com
 www.semirosmanagic.com
 
 www.bpblognews.blogspot.com
+
+![](/assets/images/sunpyramid1.jpg)
