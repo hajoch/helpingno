@@ -12,7 +12,7 @@ title: Fremtidens bolig
 excerpt: I dag lever vi som bor i byer for det meste atskilt fra mennesker og natur.
   Dette får store negative konsekvenser som ensomhet og miljøødeleggelser.
 image: "/assets/images/hytte.jpg"
-image_caption: Ilustrasjonsfoto GC
+image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/henning-j-grini.md
 categories: []
 publish_date: 
