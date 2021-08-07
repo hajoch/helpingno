@@ -60,10 +60,10 @@ Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å å
 
 Noen kilder:
 
-[www.bosnian-pyramid.com]()
+[www.bosnian-pyramid.com]( "www.bosnian-pyramid.com")
 
-[www.bosnianpyramidofthesun.com]()
+[www.bosnianpyramidofthesun.com]( "www.bosnianpyramidofthesun.com")
 
-[www.semirosmanagic.com]()
+[www.semirosmanagic.com]( "www.semirosmanagic.com")
 
-[www.bpblognews.blogspot.com]()
+[www.bpblognews.blogspot.com]( "www.bpblognews.blogspot.com")
