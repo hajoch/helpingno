@@ -38,6 +38,8 @@ Laboratorieprøver av jorden over pyramiden viser en datering på over 12 000 å
 
 I mai 2010 besøkte den amerikanske forskeren og forfatteren Paul von Ward (www.vonward.com) pyramidene. Han mener de ble bygget av en meget gammel kultur og at dette er en av de mest interessante arkeologiske oppdagelser i verden. Videre sa han at de bosniske pyramidene er langt eldre og bedre bygget enn de egyptiske pyramidene.
 
+![/assets/images/sunpyramid1.jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/sunpyramid1.jpg)
+
 De tre hovedpyramidene i den bosniske pyramidedalen, Pyramid of the Sun, Pyramid of the Moon og Pyramid of the Bosnian Dragon danner en likesidet triangel. GPS målinger fra toppene viser at alle vinklene er symmetriske (60 grader). Målingene viser også at det er 2,2 kilometer mellom disse pyramidene, med en feilmargin på mindre enn 2 %.
 
 Det eksisterer endel lokale historier som er interessante. For eksempel har en lokal landeier fortalt at det er et bestemt sted hvor snøen smelter mye raskere enn andre steder i området. Det spekuleres da i om ikke det skyldes underjordiske kamre.
@@ -65,5 +67,3 @@ www.bosnianpyramidofthesun.com
 www.semirosmanagic.com
 
 www.bpblognews.blogspot.com
-
-![](/assets/images/sunpyramid1.jpg)
