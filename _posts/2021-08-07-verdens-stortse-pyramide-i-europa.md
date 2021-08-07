@@ -19,7 +19,6 @@ publish_date: 2021-08-07 00:00:00 +0200
 weight: 7
 
 ---
-
 Jeg kan ikke huske hvor seriøs vinklingen var, men har en vag følelse av en useriøs undertone. Siden ble det relativt stille rundt saken, i hvert fall i Norge. Etter å ha lett litt i arkiver på Internet fant jeg ut at dette ikke helt ble trodd i arkeologiske kretser og fikk et humbug stempel på seg.
 
 Men det var ingen bløff! Nå er nok tonen en annen da det er bekreftet fra flere vitenskapelige hold at det er, ikke bare en, men flere pyramider ved byen Visoko i Bosnia-Herzegovina, et par mil nordvest for Sarajevo. Jeg ble oppmerksom på det nå nylig på ettersommeren fordi det ble lagt ut litt informasjon om dette i Ildsjelens nettsamfunn.
@@ -53,8 +52,6 @@ Det er forståelig at det trengs tid for det akademiske samfunnet, og samfunnet 
 Som alle andre geniale og revolusjonære oppdagelser setter dette ofte i gang sterke følelser og det skapes fort kontroverser, latterliggjøring og motstand. Til å begynne med…
 
 Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å åpenbare seg i all sin prakt og er dermed med på å endre historien. •
-
-_PS! Ildsjelen planlegger en tur til Bosnia allerede i oktober i år for selv å se nærmere på disse pyramidene. Mer om dette i neste nummer._
 
 Noen kilder:
 
