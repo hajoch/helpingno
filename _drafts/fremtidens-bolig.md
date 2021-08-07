@@ -16,7 +16,7 @@ image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/henning-j-grini.md
 categories: []
 publish_date: 
-weight: 7
+weight: 8
 
 ---
 
