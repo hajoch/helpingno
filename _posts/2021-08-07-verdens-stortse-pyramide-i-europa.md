@@ -14,7 +14,7 @@ title: Verdens størtse pyramide i Europa
 excerpt: Jeg husker det var på TV for noen år siden, tror det var i 2006. Nyheten
   gikk verden rundt om at en mulig pyramide var blitt oppdaget i Bosnia-Herzegovina.
 image: "/assets/images/sunpyramid6.jpg"
-image_caption: ''
+image_caption: 'Foto: Henning Jon Grini'
 author: _authors/henning-j-grini.md
 categories:
 - _category/reise.md
