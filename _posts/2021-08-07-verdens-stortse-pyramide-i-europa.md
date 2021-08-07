@@ -57,13 +57,3 @@ Det er forståelig at det trengs tid for det akademiske samfunnet, og samfunnet 
 Som alle andre geniale og revolusjonære oppdagelser setter dette ofte i gang sterke følelser og det skapes fort kontroverser, latterliggjøring og motstand. Til å begynne med…
 
 Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å åpenbare seg i all sin prakt og er dermed med på å endre historien. •
-
-Noen kilder:
-
-[www.bosnian-pyramid.com]( "www.bosnian-pyramid.com")
-
-[www.bosnianpyramidofthesun.com]( "www.bosnianpyramidofthesun.com")
-
-[www.semirosmanagic.com]( "www.semirosmanagic.com")
-
-[www.bpblognews.blogspot.com]( "www.bpblognews.blogspot.com")
