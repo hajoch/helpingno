@@ -14,8 +14,9 @@ excerpt: I dag lever vi som bor i byer for det meste atskilt fra mennesker og na
 image: "/assets/images/hytte.jpg"
 image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/henning-j-grini.md
-categories: []
-publish_date: 
+categories:
+- _category/bolig.md
+publish_date: 2021-08-07 00:00:00 +0200
 weight: 8
 
 ---
