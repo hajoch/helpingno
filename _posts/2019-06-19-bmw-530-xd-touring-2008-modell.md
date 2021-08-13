@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-19T08:11:09.000+00:00
 crop_image: true
-author: _authors/ole-t-moy.md
+author: _authors/ole-t.moy.md
 tags:
 - bil
 - SUV
@@ -21,6 +21,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: ''
 
 ---
 BMW 530 XD Touring 2008 modell, bare navnet og betegnelsen skaper forventninger om dynamikk, fart, sportslighet, framkommelighet og kvalitet.
