@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-19T06:58:49.000+00:00
 crop_image: true
-author: _authors/ole-t-moy.md
+author: _authors/ole-t.moy.md
 tags:
 - båt påhengsmotor
 - båtliv
