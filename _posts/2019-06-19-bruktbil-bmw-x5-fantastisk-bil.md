@@ -2,7 +2,7 @@
 layout: post
 date: 2019-06-19T08:04:26.000+00:00
 crop_image: true
-author: _authors/ole-t-moy.md
+author: _authors/ole-t.moy.md
 tags:
 - bil
 - 'BMW '
@@ -25,6 +25,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 1
+coauthor: ''
 
 ---
 Dette er en fantastisk bil. En behagelig SUV med 211 hk diesel, men motoren er litt treg for denne bilen vekten tatt i betraktning. Dog ligger kjøreopplevelsen på den komfortable siden. Bilen er retningsstabil, fast og fin. Klimaanlegget virker bra. Rattet er godt å holde i. Med "aktiv drive" trenger man ikke så stort utslag på rattet for å ta svingene. Dette er et fin funksjon på svingete veier.
