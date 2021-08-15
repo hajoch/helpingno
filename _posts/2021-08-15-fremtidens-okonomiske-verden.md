@@ -19,7 +19,6 @@ publish_date: 2021-08-15 00:00:00 +0200
 weight: 7
 
 ---
-![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2020/03/earthmoney2-1080x675.jpg =1080x675)
 
 **Den omfattende artikkelen nedenfor er hentet fra boken min** [**_Gaia og Mennesket mot en lysere fremtid_**](https://www.gaiainnovations.org/norsk/bok/)**. Utdraget tar for seg dagens dysfunksjonelle økonomiske virkelighet som er ødeleggende for både mennesker og natur. Samtidig peker den på måter vi kan gjøre ting annerledes og en mengde henvisninger til de som jobber med en slik massiv omstilling vi nå står ovenfor.**
 
