@@ -5,7 +5,11 @@ crop_image: true
 coauthor: []
 tags: []
 title: Fremtidens økonomiske verden
-excerpt: ''
+excerpt: I tiden som kommer står menneskeheten foran viktige avgjørelser i kjølvannet
+  etter koronaviruset. Noe av det aller viktigste vi må forholde oss er hvordan vi
+  skal organisere oss økonomisk. Håpet er at vi nå kan foreta endringer som fører
+  oss inn på et spor som er mer rettferdig og menneskevennlig samt at vi tar langt
+  mer hensyn til planeten vi bor på og er avhengige av.
 image: ''
 image_caption: ''
 author: _authors/henning-j-grini.md
@@ -15,10 +19,7 @@ publish_date: 2021-08-15 00:00:00 +0200
 weight: 
 
 ---
-
 ![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2020/03/earthmoney2-1080x675.jpg =1080x675)
-
-**I tiden som kommer står menneskeheten foran viktige avgjørelser i kjølvannet etter koronaviruset. Noe av det aller viktigste vi må forholde oss er hvordan vi skal organisere oss økonomisk. Håpet er at vi nå kan foreta endringer som fører oss inn på et spor som er mer rettferdig og menneskevennlig samt at vi tar langt mer hensyn til planeten vi bor på og er avhengige av.**
 
 **Den omfattende artikkelen nedenfor er hentet fra boken min** [**_Gaia og Mennesket mot en lysere fremtid_**](https://www.gaiainnovations.org/norsk/bok/)**. Utdraget tar for seg dagens dysfunksjonelle økonomiske virkelighet som er ødeleggende for både mennesker og natur. Samtidig peker den på måter vi kan gjøre ting annerledes og en mengde henvisninger til de som jobber med en slik massiv omstilling vi nå står ovenfor.**
 
