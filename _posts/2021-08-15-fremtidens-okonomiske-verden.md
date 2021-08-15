@@ -10,7 +10,7 @@ excerpt: I tiden som kommer står menneskeheten foran viktige avgjørelser i kj�
   skal organisere oss økonomisk. Håpet er at vi nå kan foreta endringer som fører
   oss inn på et spor som er mer rettferdig og menneskevennlig samt at vi tar langt
   mer hensyn til planeten vi bor på og er avhengige av.
-image: ''
+image: "/assets/images/earthmoney2-1080x675.jpg"
 image_caption: ''
 author: _authors/henning-j-grini.md
 categories:
