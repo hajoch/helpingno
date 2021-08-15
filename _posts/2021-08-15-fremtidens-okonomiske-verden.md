@@ -6,8 +6,8 @@ coauthor: []
 tags: []
 title: Fremtidens økonomiske verden
 excerpt: I tiden som kommer står menneskeheten foran viktige avgjørelser i kjølvannet
-  etter koronaviruset. Noe av det aller viktigste vi må forholde oss er hvordan vi
-  skal organisere oss økonomisk. Håpet er at vi nå kan foreta endringer som fører
+  etter koronaviruset. Noe av det aller viktigste vi må forholde oss til er hvordan
+  vi skal organisere oss økonomisk. Håpet er at vi nå kan foreta endringer som fører
   oss inn på et spor som er mer rettferdig og menneskevennlig samt at vi tar langt
   mer hensyn til planeten vi bor på og er avhengige av.
 image: "/assets/images/earthmoney2-1080x675.jpg"
