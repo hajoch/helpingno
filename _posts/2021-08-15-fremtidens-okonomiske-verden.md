@@ -16,7 +16,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/bolig.md
 publish_date: 2021-08-15 00:00:00 +0200
-weight: 
+weight: 7
 
 ---
 ![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2020/03/earthmoney2-1080x675.jpg =1080x675)
