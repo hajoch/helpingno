@@ -12,13 +12,13 @@ excerpt: Mai er en nydelig tid å være ute og oppdage all skjønnheten naturen 
   by på. Det er noe helt eget å vandre rundt i den. Du har stillheten, bortsett fra
   naturens egne herlige lyder, som en liten bekk som sildrer, fuglene som kvitrer
   eller trærne som visker.
-image: ''
-image_caption: ''
+image: "/assets/images/IMG_2757.JPG"
+image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/henning-j-grini.md
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
 weight: 5
-published: false
 
 ---
 **Betydningen av skjønnhet**
