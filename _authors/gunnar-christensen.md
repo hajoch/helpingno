@@ -24,8 +24,9 @@ _Foto øverst: Jens Christian Joe Christensen_
 
 ![](/assets/images/img_0022.JPG)
 
-_Foto: Hallvard Jore Christensen_  
-\- Redaktøren beundrer solnedgangen på Hove i Arendal
+_Foto: Hallvard Jore Christensen_ - Gunnar i solnedgangen på Hove i Arendal
+
+Gunnars Bøker: Se over.
 
 Linker til Gunnars noveller:  
 [https://helping.no/barne-fortelleing-den-gode-samtalen](https://helping.no/barne-fortelleing-den-gode-samtalen "https://helping.no/barne-fortelleing-den-gode-samtalen")
