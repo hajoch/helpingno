@@ -22,7 +22,6 @@ publish_date: 2021-08-17 00:00:00 +0200
 weight: 7
 
 ---
-
 ![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2020/05/blomster-1080x675.jpg =1080x675)
 
 Og så har du all skjønnheten som rører ved det innerste i oss. Det kan være landskapet, en blomstereng eller et lam som lekent løper av gårde. Det kan være solnedgangen, en sommerfugl, en løvetann, et smil eller barnelatter som er ekstra kjekt å høre nå etter koronakrisen.
