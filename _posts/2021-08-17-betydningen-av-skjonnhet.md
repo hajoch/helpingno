@@ -13,8 +13,8 @@ excerpt: Mai er en nydelig tid å være ute og oppdage all skjønnheten naturen 
   by på. Det er noe helt eget å vandre rundt i den. Du har stillheten, bortsett fra
   naturens egne herlige lyder, som en liten bekk som sildrer, fuglene som kvitrer
   eller trærne som visker.
-image: "/assets/images/IMG_2757.JPG"
-image_caption: ''
+image: "/assets/images/bergen.jpg"
+image_caption: 'Foto: Henning J. Grini'
 author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
