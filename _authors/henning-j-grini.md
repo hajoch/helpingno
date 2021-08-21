@@ -4,7 +4,7 @@ title: Henning Jon Grini
 image: "/assets/images/photoHenning2.png"
 
 ---
-Styremedlem i helping.no
+Styremedlem og journalist i helping.no
 
 Henning deltok med avgjørende teknisk kunnskap da helping.no ble etablert i 2001. Han laget det første designet til siden. Videre har han vært tilknyttet oss som rådgiver og med teknisk hjelp og er nå styremedlem hos oss.
 
@@ -18,8 +18,8 @@ Redaktør, designer og daglig leder av magasinet Ildsjelen med tidsskrift, netts
 
 Arrangør av en rekke foredrag med internasjonalt kjente personer samt egne foredrag.
 
-Typograf / layout-medarbeider i dagsavisen Arendals Tidende.  
-  
+Typograf / layout-medarbeider i dagsavisen Arendals Tidende.
+
 Web-designer
 
 Daglig leder og forfatter i[ www.gaiainnovations.org](https://www.gaiainnovations.org/)
