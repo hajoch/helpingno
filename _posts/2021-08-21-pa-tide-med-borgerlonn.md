@@ -16,7 +16,7 @@ excerpt: Forestill deg hvilken kreativ kraft en borgerlønn eller grunninntekt v
   kunne utløse! Det å slippe å bruke kolossale ressurser på å bekymre seg for grunnleggende
   nødvendigheter frigjør enorm kreativitet og tid som også ville komme hele menneskeheten
   til gode!
-image: ''
+image: "/assets/images/natur4-1.jpg"
 image_caption: ''
 author: _authors/henning-j-grini.md
 categories:
