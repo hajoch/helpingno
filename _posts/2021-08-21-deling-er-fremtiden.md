@@ -5,6 +5,10 @@ crop_image: true
 coauthor: []
 tags:
 - Helse og samfunn
+- klima
+- forvaltning
+- overlevelse
+- fundamentale spørsmål
 title: Deling er fremtiden!
 excerpt: 'Jeg tror de fleste nå har innsett at vi ikke kan fortsette å forbruke langt
   inn i himmelen. En økonomi basert på vekst er ikke bare utdatert, men og farlig
