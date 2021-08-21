@@ -25,9 +25,6 @@ publish_date: 2021-08-21 00:00:00 +0200
 weight: 8
 
 ---
-
-![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2019/08/BasicIncome.jpg =1080x675)
-
 Det burde vært en menneskerett og en selvfølge at ethvert menneske på denne kloden fikk dekket sine grunnleggende behov. En garantert grunninntekt eller borgerlønn som det også er blitt kalt hadde løst mye av dette. Og faktisk så står det i FNs menneskerettighetserklæring fra 1948, i artikkel 25! Men med så mange andre menneskerettigheter blir de ikke alltid fulgt. Ideen om borgerlønn er gammel, men det er først nå at ideen virkelig begynner å få gjennomslag.
 
 Med grunninntekt menes at alle innbyggere gis et fast beløp i måneden som skal dekke de grunnleggende behovene som mat, klær og et sted å bo helt uten betingelser. Vi har allerede innført grunninntekt for noen i dag. Alle pensjonister får penger av staten uansett om de har jobbet eller ikke. Mange andre ordninger i velferdsstaten er en slags grunninntekt slik som arbeidsledighetstrygd, sosialstøtte og uføretrygd. Men forskjellen er at det her blir stilt betingelser. Hvis for eksempel en sosialmottaker har en liten jobb i tillegg blir vedkommende fratatt penger omtrent tilsvarende det de tjener. Dette virker demotiverende på det å komme seg ut i jobb. Det er også en del stigmatisering og nedverdigelse rundt noen av disse ordningene som vil forsvinne ved innføring av en grunninntekt siden den gis uten betingelser og til alle.
@@ -54,10 +51,6 @@ Mange i dag, selv i rike Norge, bekymrer seg for hvordan de skal greie seg. Det 
 Hvis man mistrives i sin jobb, hva slags liv er det? Hvis derimot alle fikk en garantert grunninntekt hadde man ikke trengt å ta på seg arbeid man ikke trives i og som «knebler» sjelen! Frykten for elementære ting – som en fast grunninntekt hadde dekket – ville blitt eliminert og gleden ville blomstre blant folk mye mer enn i dag. Hvis du ville ønske deg noe mer (som større hus, bedre bil eller en båt, hytte etc.) må du arbeide, noe de aller fleste ville velge å gjøre. Men man står da mye friere til å velge hva slags jobb. Man ville ikke være så avhengig av lange arbeidsdager heller. På den annen side ville folk ha mye mer glede over jobbene sine. Dagens store selvsentrerte selskaper ville gradvis miste sin makt. I fremtiden vil det til slutt bare eksistere selskaper som har lært å vise samfunnsansvar og lært å behandle mennesker og natur med respekt.
 
 I 2019 i Oslo ble det arrangert en konferanse om grunninntekt/borgerlønn hvor både professor Thomas Hylland Eriksen og professor Kalle Moene var med i paneldebatter. Konferansen kalte seg UBI Nordic 2019 Vision for a Brighter Future og var det største i sitt slag i Europa.
-
-![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2019/08/FoajeenChateuNeff2-e1566670828969.jpg =1000x750)
-
-_Fra foajeen på Chateau Neuf._
 
 Når man setter seg inn i denne ideen skjønner man etter hvert hvor omfattende og viktig dette vil være for verden. Et eksempel på det er innlegget til Hilde Latour på konferansen. Denne videoen er på 8 minutter og viser at en grunninntekt vil ha dyptgående innflytelse på de 17 bærekraftsmål til FN som man håper kan innfris innen 2030. Ifølge henne vil en grunninntekt mer eller mindre løse hele 11 av bærekraftsmålene! Foredraget kan sees her:
 
