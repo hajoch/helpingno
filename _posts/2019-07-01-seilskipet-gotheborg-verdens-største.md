@@ -20,7 +20,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 8
+coauthor: ''
 
 ---
 Byggingen av skipet startet i 1995 og den første seilas var med ferdig bygget skip i 2006.
