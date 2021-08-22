@@ -23,7 +23,8 @@ author: ''
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 8
+weight: 7
+coauthor: ''
 
 ---
 Vi selger i utgangspunktet nå annonser for ett år ad gangen  
