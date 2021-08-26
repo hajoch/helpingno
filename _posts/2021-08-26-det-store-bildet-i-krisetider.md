@@ -21,20 +21,19 @@ publish_date: 2021-08-26 00:00:00 +0200
 weight: 7
 
 ---
-
-![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2020/04/NGC7293Hubble-1080x675.jpg =1080x675)
-
 Hvis man ser på universet som mekanisk, dødt og som hovedsakelig består av ikke-levende materie vil våre beslutninger bli basert deretter. Menneskehetens beslutninger har hovedsakelig blitt basert på nettopp disse tankene de siste århundrene og resultatet er på mange måter skrekkelig. Ser man derimot på universet som levende tas det helt andre beslutninger.
+
+![](/assets/images/ngc7293hubble-1080x675.jpg)
 
 Amerikaneren Duane Elgin kommer med følgende oppsiktsvekkende konklusjon: _Den mest presserende utfordringen menneskeheten står overfor er ikke klimaendringer, artsutryddelse eller uholdbar befolkningsvekst; snarere er det hvordan vi forstår universet og vårt intime forhold innenfor det. Våre dypeste valg for fremtiden kommer fra denne grunnleggende forståelsen._
 
 For noen år siden utkom han med boken _Det levende universet_ på Flux forlag. Jeg siterer litt fra boken om disse to fundamentalt forskjellige måtene å se verden på:
 
-**Universet som dødt system  
-**Universet er et goldt og ugjestmildt sted som nesten utelukkende består av ikke-levende materie og tomt rom. Liv er ekstremt sjeldent. På jorden har materien på et eller annet vis organisert seg på en svært kompleks måte slik at levende enheter er oppstått. Men ser man universet under ett, er det menneskelige foretak et ubetydelig unntak. Vår eksistens som mennesker virker meningsløs og uten hensikt – en kosmisk tilfeldighet som vil bli glemt. Et dødt univers har ingen hukommelse og forteller ingen historier. Når legemet dør, slukkes lyset og vi forsvinner, uten spor eller levninger, det være seg fysiske eller ikke-fysiske. Det som da betyr noe, er materielle eiendeler, materiell makt, materiell nytelse og materiell prestisje.
+\**Universet som dødt system  
+\**Universet er et goldt og ugjestmildt sted som nesten utelukkende består av ikke-levende materie og tomt rom. Liv er ekstremt sjeldent. På jorden har materien på et eller annet vis organisert seg på en svært kompleks måte slik at levende enheter er oppstått. Men ser man universet under ett, er det menneskelige foretak et ubetydelig unntak. Vår eksistens som mennesker virker meningsløs og uten hensikt – en kosmisk tilfeldighet som vil bli glemt. Et dødt univers har ingen hukommelse og forteller ingen historier. Når legemet dør, slukkes lyset og vi forsvinner, uten spor eller levninger, det være seg fysiske eller ikke-fysiske. Det som da betyr noe, er materielle eiendeler, materiell makt, materiell nytelse og materiell prestisje.
 
-**Universet som levende  
-**Dette gir oss et univers fullt av usynlig energi og liv; innrettet på tålmodig fremvekst av en innholdsrik kosmisk hage. Innenfor et slikt paradigme blir vi mennesker, som bevisst livsform i helheten, svært verdifulle. Vi tjener en viktig hensikt for et univers som arbeider med å fremelske bevisste livsformer. Gjennom oss ser, vet, føler og lærer universet. Vi selv lærer å leve stadig mer bevisst. Det viktigste er ikke alltid materien, men det som ikke synes – det dypt levende i oss selv, i våre forbindelser og i verden rundt oss.
+\**Universet som levende  
+\**Dette gir oss et univers fullt av usynlig energi og liv; innrettet på tålmodig fremvekst av en innholdsrik kosmisk hage. Innenfor et slikt paradigme blir vi mennesker, som bevisst livsform i helheten, svært verdifulle. Vi tjener en viktig hensikt for et univers som arbeider med å fremelske bevisste livsformer. Gjennom oss ser, vet, føler og lærer universet. Vi selv lærer å leve stadig mer bevisst. Det viktigste er ikke alltid materien, men det som ikke synes – det dypt levende i oss selv, i våre forbindelser og i verden rundt oss.
 
 Denne siste måten å se universet på, som Duane Elgin viser til, gir et helt annet utgangspunkt for hvilken retning menneskeheten har muligheten til å ta i årene fremover. Å utnytte naturen og karre mest mulig til seg selv er en foreldet tankegang. Når vi ser hvilke negative konsekvenser en slik materialistisk tankegang har påført av smerte for mennesker og natur er valget enkelt.
 
