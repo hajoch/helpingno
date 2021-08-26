@@ -8,12 +8,12 @@ tags:
 - helse - mental helse
 - samfunn
 title: DET STORE BILDET I KRISETIDER
-excerpt: ''
-image: ''
-image_caption: I krisetider har man lett for å glemme det store bildet. På grunn av
-  koronakrisen vil det i tiden fremover tas viktige avgjørelser som vil berøre enkeltmennesker
+excerpt: I krisetider har man lett for å glemme det store bildet. På grunn av koronakrisen
+  vil det i tiden fremover tas viktige avgjørelser som vil berøre enkeltmennesker
   og samfunnet i lang tid fremover. Da er det viktig å vite hva disse avgjørelsene
   dypest sett er basert på fordi det er det som legger premisset.
+image: "/assets/images/ab2.jpg"
+image_caption: Illustrasjonsbilde av Anne Bakke
 author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
