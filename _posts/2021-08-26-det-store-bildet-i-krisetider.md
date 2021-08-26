@@ -7,7 +7,7 @@ tags:
 - 'Helse '
 - helse - mental helse
 - samfunn
-title: DET STORE BILDET I KRISETIDER
+title: Det store bildet i krisetider
 excerpt: I krisetider har man lett for å glemme det store bildet. På grunn av koronakrisen
   vil det i tiden fremover tas viktige avgjørelser som vil berøre enkeltmennesker
   og samfunnet i lang tid fremover. Da er det viktig å vite hva disse avgjørelsene
