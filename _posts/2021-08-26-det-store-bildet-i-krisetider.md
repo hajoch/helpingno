@@ -17,7 +17,7 @@ image_caption: Illustrasjonsbilde av Anne Bakke
 author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
-publish_date: 2021-07-26 00:00:00 +0200
+publish_date: 2021-08-26 00:00:00 +0200
 weight: 7
 
 ---
