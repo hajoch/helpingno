@@ -6,8 +6,8 @@ coauthor: []
 tags: []
 title: Vit hvor du skal i livet
 excerpt: ''
-image: ''
-image_caption: ''
+image: "/assets/images/dkb7.jpg"
+image_caption: 'Illustrasjon: Gunnar Christensen'
 author: _authors/henning-j-grini.md
 categories:
 - _category/boker.md
