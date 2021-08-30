@@ -7,7 +7,10 @@ tags:
 - litteratur
 - historier
 title: Man høster som man sår
-excerpt: ''
+excerpt: |-
+  Navnet hans var Fleming, og han var en fattig skotsk bonde.
+
+  En dag mens han strevde for å skaffe et levebrød for familien, hørte han et rop om hjelp som kom fra en myr i nærheten.
 image: "/assets/images/ab2011.3.jpg"
 image_caption: 'Illustrasjonsfoto: Anne Bakke'
 author: _authors/henning-j-grini.md
@@ -17,10 +20,6 @@ publish_date: 2021-08-30 00:00:00 +0200
 weight: 5
 
 ---
-Navnet hans var Fleming, og han var en fattig skotsk bonde.
-
-En dag mens han strevde for å skaffe et levebrød for familien, hørte han et rop om hjelp som kom fra en myr i nærheten.
-
 Han kastet fra seg redskapen og løp til myra.
 
 Der, nedsunket til livet i sort søle, var en vettskremt gutt som skrek og kjempet for å komme seg løs.
