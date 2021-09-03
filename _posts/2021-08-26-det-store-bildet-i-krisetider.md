@@ -18,7 +18,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
 publish_date: 2021-08-28 00:00:00 +0200
-weight: 9
+weight: 7
 
 ---
 Hvis man ser på universet som mekanisk, dødt og som hovedsakelig består av ikke-levende materie vil våre beslutninger bli basert deretter. Menneskehetens beslutninger har hovedsakelig blitt basert på nettopp disse tankene de siste århundrene og resultatet er på mange måter skrekkelig. Ser man derimot på universet som levende tas det helt andre beslutninger.
