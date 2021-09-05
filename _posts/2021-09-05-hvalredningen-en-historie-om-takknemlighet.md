@@ -3,11 +3,14 @@ layout: post
 date: 2021-09-05 11:26:34 +0200
 crop_image: true
 coauthor: _authors/henning-j-grini.md
-tags: []
+tags:
+- hvalredning
+- San Fransisco
+- takkknemlighet
 title: HVALREDNINGEN  – en historie om takknemlighet
 excerpt: ''
 image: "/assets/images/ab.g2.jpg"
-image_caption: Illustrasjonsbilde Anne Bakka
+image_caption: Illustrasjonsbilde Anne Bakke
 author: _authors/mary-cox.md
 categories: []
 publish_date: 2021-09-05 00:00:00 +0200
