@@ -7,7 +7,7 @@ tags:
 - hvalredning
 - San Fransisco
 - takkknemlighet
-title: 'HVALREDNINGEN '
+title: 'Hvalredningen '
 excerpt: " – en historie om takknemlighet"
 image: "/assets/images/ab.g2.jpg"
 image_caption: Illustrasjonsbilde Anne Bakke
