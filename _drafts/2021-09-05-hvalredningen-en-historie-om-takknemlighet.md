@@ -7,12 +7,13 @@ tags:
 - hvalredning
 - San Fransisco
 - takkknemlighet
-title: HVALREDNINGEN  – en historie om takknemlighet
-excerpt: ''
+title: 'HVALREDNINGEN '
+excerpt: " – en historie om takknemlighet"
 image: "/assets/images/ab.g2.jpg"
 image_caption: Illustrasjonsbilde Anne Bakke
 author: _authors/mary-cox.md
-categories: []
+categories:
+- _category/boker.md
 publish_date: 2021-09-05 00:00:00 +0200
 weight: 5
 
