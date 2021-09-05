@@ -14,7 +14,7 @@ image_caption: Illustrasjonsbilde Anne Bakke
 author: _authors/mary-cox.md
 categories: []
 publish_date: 2021-09-05 00:00:00 +0200
-weight: 
+weight: 5
 
 ---
 I San Francisco Chronicle for noen år siden var det et førstesidesoppslag om en pukkelhval av hunkjønn som hadde blitt innviklet i et nettverk av krabbetegner og garn. Hun ble presset ned av hundrevis av kilo med tegner som fikk henne til å streve med å holde seg flytende. Hun hadde også hundrevis av meter med tau tvinnet rundt kroppen både ved halen og magen samt et tau som skjærte henne i munnen.
