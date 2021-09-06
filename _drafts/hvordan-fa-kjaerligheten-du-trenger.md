@@ -11,7 +11,7 @@ excerpt: Dr. Thomas Malone, en psykiater i Atlanta, ble en gang spurt hva psykia
   dreide seg om. ”For meg,” sa han, ”er svaret mer og mer klart.
 image: "/assets/images/ab5.JPG"
 image_caption: Illustrasjon Anne Bakke
-author: ''
+author: _authors/steve-goodier.md
 categories:
 - _category/boker.md
 publish_date: 2021-09-06 00:00:00 +0200
