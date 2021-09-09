@@ -22,11 +22,7 @@ tags:
 title: Slik tenker en ekte indianer.
 excerpt: "Intervju med Lise Lyseggen: \n- Noen sioux indianere blir fremdeles oppdradd
   til høy kunnskap om naturen. De kan se på et tre om det blir regn. De kan også se
-  på naturen hvor dyrene er. Her i Norge går man etter spor mens indianerne kan i
-  tillegg se hvor dyrene er ved å studere et tre eller et blad. Eller på en grein
-  og på hvordan grenen er knekt. Spor av klo og klør i bakken gir også verdifull dyre
-  informasjon. Indianere ble tidligere brukt som speidere i naturen fordi de ser absolutt
-  alle tegn."
+  på naturen hvor dyrene er. "
 image: "/assets/images/siouxbarn1-1.jpg"
 image_caption: 'Foto: Lise Lyseggen'
 categories:
@@ -36,6 +32,8 @@ weight: 9
 coauthor: ''
 
 ---
+Her i Norge går man etter spor mens indianerne kan i tillegg se hvor dyrene er ved å studere et tre eller et blad. Eller på en grein og på hvordan grenen er knekt. Spor av klo og klør i bakken gir også verdifull dyre informasjon. Indianere ble tidligere brukt som speidere i naturen fordi de ser absolutt alle tegn.
+
 **Kunnskapen indianerne har om naturen er nå veldig verdifull for menneskeheten som helhet. Indianernes verdifulle kunnskap om naturen kan nå dø ut.**
 
 Det som imidlertid fascinerer meg mest er deres tidsforståelse. Jeg bruker alltid klokke. Det har de oftest ikke. Det trenger de rett og slett ikke. De ser på sola og vet hva klokka er. De kan høyden bomme med en 5 - 10 minutter på den tiden klokka mi viser. Indianernes verdifulle kunnskap om naturen kan nå dø ut: Det er i vår tid viktigere enn noen gang å bruke indianernes naturkunnskap slik jordklodens helsetilstand er.
