@@ -6,6 +6,6 @@ image: ''
 ---
 Mat-journalist
 
-tradisjonelt norsk kosthold. 
+tradisjonelt norsk kosthold.
 
-fylte 100 år i 2021
+født 10.07.21. død 11.09.2021.
