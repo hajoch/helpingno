@@ -41,8 +41,9 @@ Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.
 Andre plasseringer som inni tekst etc. kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:  
-**Annonser:**  
-[www.nettavisen.no/kredittkort](http://www.nettavisen.no/forbruksl%C3%A5n)
+**Annonser:**
+
+[https://www.inspirasjonogideer.no/](https://www.inspirasjonogideer.no/ "https://www.inspirasjonogideer.no/")
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)
 
