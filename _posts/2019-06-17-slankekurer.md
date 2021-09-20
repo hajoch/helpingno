@@ -35,7 +35,7 @@ categories:
 - _category/helse.md
 publish_date: 
 weight: 7
-coauthor: ''
+coauthor: _authors/ellen-marie-christensen.md
 
 ---
 Slankekur
