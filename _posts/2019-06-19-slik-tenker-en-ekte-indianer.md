@@ -28,7 +28,7 @@ image_caption: 'Foto: Lise Lyseggen'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 9
+weight: 7
 coauthor: ''
 
 ---
