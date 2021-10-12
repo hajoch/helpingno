@@ -26,7 +26,7 @@ author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 3
+weight: 8
 coauthor: _authors/gunnar-christensen.md
 
 ---
