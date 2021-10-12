@@ -26,6 +26,7 @@ categories:
 - _category/bolig.md
 publish_date: 
 weight: 6
+coauthor: _authors/gunnar-christensen.md
 
 ---
 **Ny takst på boligen gir billigere boliglån?**  
