@@ -40,7 +40,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 6
+coauthor: ''
 
 ---
 Vi tester bowrider med påhengsmotor i størrelsen mellom 16 - 19 fot på kvalitet, praktiske løsninger, design mm.. Guiden er tiltenkt bruktbåt-markedet.
