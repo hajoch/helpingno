@@ -38,7 +38,7 @@ image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
