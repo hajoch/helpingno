@@ -9,7 +9,7 @@ tags:
 - Toyota
 - 4 x 4
 - tectylbehandlet som ny
-title: Toyota RAV 4 - 2013
+title: Toyota RAV 4 - 2013, men det ble Ford i stedet.
 excerpt: 'Toyotas RAV 4 er en positiv overraskelse. Kjøreopplevelsen er betydelig
   bedret og størrelsen økt i forhold til eldre modeller. Utslaget kom raskt på salgs-statistikken:
   Er ny bestselger er blitt til på bekostning av Toyotas Avensis som nå taper salg.
