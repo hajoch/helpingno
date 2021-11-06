@@ -87,4 +87,4 @@ Etter prøve kjøring av Rav 4 hos merkeforhandleren i Arendal AS Bil bestemte v
 
 \- Forsvinn! Der er døren. Kom aldri hit igjen.
 
-Da gikk turen direkte til Ford i Arendal hvor vi kjøpte en ny Ford.
+Da gikk turen direkte til Ford i Arendal, Arendal Auto AS hvor vi kjøpte en ny Ford.
