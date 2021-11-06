@@ -78,4 +78,13 @@ Best poeng er 5 sol-tegn: ![](kule.jpg =12x12)![](kule.jpg =12x12)![](kule.jpg =
 
 Testbilen: 2013 Toyota Rav4, Motor 2.0 liter med 151 hk fra en firesylindret turbo-dieselmotor, Sikkerhet 5 stjerner i NCAP. Forkorte nakkestøtter i baksetet: Dette er et Toyota-problem også på Avensis. Komfort Beinplassen i baksetet er flott. Dette er en behagelig bil å sitte i for sitte-komforten er også forbedret i forhold til tidligere modell. Design De fleste vil si at nye RAV4 er betydelig penere enn forgjengerne, men ikke mer spennende enn et kneippbrød. Fargevalg Om du liker bilen lakkert i sort, grått eller hvit får du full pakke. Litt mer spennende farger er det ikke mye av. Økonomi Kundetilfredshet og god service er Toyotas beste kort. Ingen vet bedre kvaliteten på bilen enn kundene. Og de er strålende fornøyde Dette gjør Toyota til et sikkert kjøp med en brukbar bruktbilpris når du skal bytte inn. Totalvurdering: Bilene får poeng med antall sol-tegn.
 
-Best poeng er 5 sol-tegn: .
+Best poeng er 5 sol-tegn: 
+
+**Utvist fra Toyotaforhandler i Arendal   
+fordi innbyttebilen var kjøpt hos forhandler i Grimstad.**
+
+Etter prøve kjøring av Rav 4 hos merkeforhandleren i Arendal AS Bil bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte bilselgeren hvor innbyttebilen var kjøpt. Da vi opplyste at den var kjøpt hos en bruktbilforhandler i Grimstad sa selgeren:
+
+\- Forsvinn! Der er døren. Kom aldri hit igjen.
+
+Da gikk turen direkte til Ford i Arendal hvor vi kjøpte en ny Ford.
