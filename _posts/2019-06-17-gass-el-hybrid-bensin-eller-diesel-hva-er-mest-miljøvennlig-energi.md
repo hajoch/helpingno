@@ -15,6 +15,8 @@ tags:
 - miljøvennlig bil
 - bilbrann og elbiler
 - miljøbil
+- biobensin
+- biodiesel
 title: Når får vi hydrogenbilen?
 excerpt: "Når forstår vi at  hydrogenbilen er et bedre valg for fremtiden enn elbilen?
   Hvorfor satset vi ikke på hydrogen med skattepengene våre fremfor ordinær elbil
@@ -27,7 +29,7 @@ excerpt: "Når forstår vi at  hydrogenbilen er et bedre valg for fremtiden enn 
   med bærekraftpolitikken? Vi må ikke kjøpe elbil for å kjøre utslippsfritt og bærekraftig.
   \n\n"
 image: "/assets/images/hydrogenbil.jpg"
-image_caption: ''
+image_caption: Illustrasjonsbilde
 categories:
 - _category/bil.md
 publish_date: 
