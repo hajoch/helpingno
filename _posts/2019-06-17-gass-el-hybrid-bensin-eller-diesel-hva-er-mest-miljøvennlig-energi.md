@@ -16,28 +16,31 @@ tags:
 - bilbrann og elbiler
 - miljøbil
 title: Når får vi hydrogenbilen?
-excerpt: 'Når forstår vi at  hydrogenbilen er et bedre valg for fremtiden enn elbilen?
+excerpt: "Når forstår vi at  hydrogenbilen er et bedre valg for fremtiden enn elbilen?
   Hvorfor satset vi ikke på hydrogen med skattepengene våre fremfor ordinær elbil
   med batterier produsert av kullkraftverk i Kina? Du behøver ikke investere i en
   ny hybridbil eller el-bil for å kjøre billig og miljøvennlig: Bil med diesel- og
-  bensinmotor kan bygges om til miljøvennlig gassdrift. Dessuten blir denne motorteknologien
-  stadig bedre. På gass kjører du for omkring halvparten av hva bensin koster. Vi
-  trenger flere alternativer til elbiler for å få en robust og bærekraftig fremtid.
-  Miljø-vennlig? Hva er miljøregnskapet på å bygge en ny elbil og hvor lenge skal
-  denne biltypen subsidieres av våre skattepenger? Og når elbilen brenner? Snakk med
-  brannfolk. Gass, el, hybrid, bensin eller diesel? Hva er mest miljøvennlig energi? '
+  bensinmotor kan bygges om til miljøvennlig biodrivstoff eller gassdrift. Dessuten
+  blir denne motorteknologien stadig bedre. På gass kjører du for omkring halvparten
+  av hva bensin koster. Du kan fyre huset med bio fyringsolje som er det samme produktet
+  som diesel på bil. \n Hvorfor er avgiften på biodiesel og bio bensin ikke i samsvar
+  med bærekraftpolitikken? Vi må ikke kjøpe elbil for å kjøre utslippsfritt og bærekraftig.
+  \n\n"
 image: "/assets/images/hydrogenbil.jpg"
 image_caption: ''
 categories:
 - _category/bil.md
 publish_date: 
 weight: 7
+coauthor: ''
 
 ---
-En bil på gass forurenser mindre og ikke i det hele tatt avhengig av typen gass. Bensinbiler kan etter en liten ombygging kjøres direkte på propangass. Men hvorfor er gass så lite brukt i Norge? Flere andre europeiske land har kjørt på gass i flere tiår. Avgiftskutt og andre fordeler på el-biler er nok svaret.
+Vi trenger flere alternativer til elbiler for å få en robust og bærekraftig fremtid. Miljø-vennlig? Hva er miljøregnskapet på å bygge en ny elbil og hvor lenge skal denne biltypen subsidieres av våre skattepenger? Og når elbilen brenner? Snakk med brannfolk. Gass, el, hybrid, biobensin eller biodiesel? Hva er mest miljøvennlig energi?
+
+En bil på gass forurenser mindre og ikke i det hele tatt avhengig av typen gass. Bensinbiler kan også etter en liten ombygging kjøres direkte på propangass. Men hvorfor er gass så lite brukt i Norge? Flere andre europeiske land har kjørt på gass i flere tiår. Avgiftskutt og andre avgiftsfordeler på el-biler er nok svaret.
 
 **Kjører du el-bil eller ladbar hybrid?**  
-Hva med prisutviklingen på strøm fremover og hvor ren er engentlig strømmen i et europeisk strømsamarbeid? Atomkraftverk og kullkraftverk for å nevne noe. På positiv side er utviklingen av solenergi og vindkraft til sjøs/bølgekraft? Vindkraft på land ødelegger stadig mer av vår uberørte natur på land.
+Hva med prisutviklingen på strøm fremover og hvor ren er egentlig strømmen i et europeisk strømsamarbeid? Atomkraftverk og kullkraftverk for å nevne noe. På positiv side er utviklingen av solenergi og vindkraft til sjøs/bølgekraft? Vindkraft på land ødelegger stadig mer av vår uberørte natur på land.
 
 Prisen på strøm fremover presses oppover når stadig mer er avhengig av strøm i et internasjonalt, europeisk marked. Og hva hvis strømmen blir en upålitelig kraft kilde? Har vi glemt at gass fra søppelfyllinger er det mest miljøvennlige drivstoff for biler?
 
