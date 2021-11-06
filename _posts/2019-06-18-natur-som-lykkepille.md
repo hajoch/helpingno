@@ -21,7 +21,7 @@ image_caption: 'Illustrasjon foto: Hallvard Jore Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 8
+weight: 6
 coauthor: ''
 
 ---
