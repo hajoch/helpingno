@@ -25,7 +25,7 @@ image_caption: 'Illustrasjonsbilde. Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
