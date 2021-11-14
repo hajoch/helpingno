@@ -33,7 +33,7 @@ image_caption: Illustrasjonsbilde
 categories:
 - _category/bil.md
 publish_date: 
-weight: 8
+weight: 5
 coauthor: ''
 
 ---
