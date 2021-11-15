@@ -34,7 +34,7 @@ Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen
 
 Bilen testes og oppdateres fortløpende på helping.
 
-En kuriositet er at Ford ikke kan lage hjul muttere: De skal skiftes med 3 års intervall. Mens andre biler ikke har dette problemet. Er det mulig? Skift dekk hos andre enn dekkforhandlere og få på skikkelige hjul muttere som i tillegg koster en brøkdel av det Fords muttere koster.
+En kuriositet er at Ford ikke kan lage hjul muttere: De skal skiftes med 3 års intervall. Mens andre biler ikke har dette problemet. Er det mulig? Skift dekk hos andre dekkforhandlere og få på skikkelige hjul muttere som i tillegg koster en brøkdel av det Fords muttere koster.
 
 ![](/assets/images/focus2015.jpg)
 
