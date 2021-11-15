@@ -19,7 +19,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/bolig.md
 publish_date: 2021-08-21 00:00:00 +0200
-weight: 8
+weight: 5
 
 ---
 
