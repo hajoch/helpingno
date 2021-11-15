@@ -23,6 +23,7 @@ categories:
 - _category/bil.md
 publish_date: 
 weight: 8
+coauthor: ''
 
 ---
 **Flott bil bortsett i fra elendige seter og hands free plunder om du har IPhone. Dekktrykk slår inn med feil hver gang du skifter hjul og ikke bare en gang.**
@@ -33,9 +34,11 @@ Ford taper seg mest i verdi? Formidabel verdireduksjon etter 3,5 år og 55 tusen
 
 Bilen testes og oppdateres fortløpende på helping.
 
+En kuriositet er at Ford ikke kan lage hjul muttere: De skal skiftes med 3 års intervall. Mens andre biler ikke har dette problemet. Er det mulig? Skift dekk hos andre enn dekkforhandlere og få på skikkelige hjul muttere som i tillegg koster en brøkdel av det Fords muttere koster.
+
 ![](/assets/images/focus2015.jpg)
 
-Ny modell fra 2015 av Focus er en facelift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
+Ny modell fra 2015 av Focus er en face-lift og forbedring av Focusen vi testet som Combi i 2013: Det er den samme bilen med ny grill, de samme gode kjøreegenskapene og en forbedret utgave av bl.a. bensinmotoren som da hadde vunnet prisen "Engine og the year" tre år på rad.
 
 I ettertid er det en frustration at nyere modeller kommer med utstyr som kostet my ekstra i 2015. Men slik er det med de fleste bilmerker.
 
@@ -92,7 +95,7 @@ Ford Focus 2013: Bedre enn forventet**
 ![](https://wwww.helping.no/assets/images/focus1.jpg)
 
 Foto: [Christoffer Jore Christensen](https://helping.no/author/christoffer-jore-christensen "https://helping.no/author/christoffer-jore-christensen")  
-Tekst: Gunnar Christensen 
+Tekst: Gunnar Christensen
 
 Dette er en bilmodell som overrasker positivt. Her er god kjørekomfort med flotte kjøreegenskaper og kraft nok så det holder fra en 3 sylinder 125hk bensinmotor: Følelsen av å kjøre en større og dyrere bil med god støydemping gjør denne bilen bedre enn forventet i Golf-klassen. Ja, du må lytte for å høre om motoren er i gang når du stopper opp.
 
