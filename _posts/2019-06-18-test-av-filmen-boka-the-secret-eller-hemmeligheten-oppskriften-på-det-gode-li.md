@@ -28,7 +28,8 @@ image_caption: ''
 categories:
 - _category/boker.md
 publish_date: 
-weight: 2
+weight: 8
+coauthor: ''
 
 ---
 Filmen fokuserer på hvor viktig tankene våre er med hensyn på  
