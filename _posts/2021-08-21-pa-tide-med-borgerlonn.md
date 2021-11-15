@@ -22,7 +22,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
 publish_date: 2021-08-21 00:00:00 +0200
-weight: 8
+weight: 6
 
 ---
 Det burde vært en menneskerett og en selvfølge at ethvert menneske på denne kloden fikk dekket sine grunnleggende behov. En garantert grunninntekt eller borgerlønn som det også er blitt kalt hadde løst mye av dette. Og faktisk så står det i FNs menneskerettighetserklæring fra 1948, i artikkel 25! Men med så mange andre menneskerettigheter blir de ikke alltid fulgt. Ideen om borgerlønn er gammel, men det er først nå at ideen virkelig begynner å få gjennomslag.
