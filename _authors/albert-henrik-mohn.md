@@ -4,10 +4,10 @@ title: 'Albert Henrik Mohn. '
 image: "/assets/images/a.h.mohn.jpg.jpg"
 
 ---
-Litteraturkritikk Morgenavisen 1982 og senere i **helping.no** av boka:   
+Litteraturkritikk Morgenavisen 1982 og senere i **helping.no** av boka:  
 [Skandalebøkene i ungdomsskolen](https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen "https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen"), da boka kom ut som hovedfagsavhandling ved universitetet i Bergen. Se under [Gunnar Christensen](https://helping.no/author/gunnar-christensen "https://helping.no/author/gunnar-christensen"). som jobbet sammen med Mohn i Morgenavisen på denne tiden.
 
-Født1918 - død 1999
+Født 1918 - død 1999
 
 Diverse stillinger innen norsk presse, NRK-korrespondent, forfatter
 
