@@ -24,7 +24,7 @@ Web-designer
 
 Forfatter
 
-Daglig leder 
+Daglig leder:
 
 [https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
 
