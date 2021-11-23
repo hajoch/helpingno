@@ -55,4 +55,8 @@ Det er forståelig at det trengs tid for det akademiske samfunnet, og samfunnet 
 
 Som alle andre geniale og revolusjonære oppdagelser setter dette ofte i gang sterke følelser og det skapes fort kontroverser, latterliggjøring og motstand. Til å begynne med…
 
-Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å åpenbare seg i all sin prakt og er dermed med på å endre historien. •
+Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å åpenbare seg i all sin prakt og er dermed med på å endre historien.
+
+**Annonse**
+
+[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
