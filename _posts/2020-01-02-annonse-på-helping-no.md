@@ -46,18 +46,18 @@ Andre plasseringer som inni tekst etc. kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:  
 \- Her er link annonse i form av linker/linjer som hver koster kr.1.200,- pr. år.  
-I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere.   
+I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.  
 Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.  
-og angir hvilken av våre over 220 sider du ønsker å annonsere.  
+  
 [https://www.inspirasjonogideer.no/](https://www.inspirasjonogideer.no/ "https://www.inspirasjonogideer.no/")
 
 \- Her er link annonse i form av logo som hver koster kr.2.200,- pr. år.
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år.   
-Den sendes på samme måte som beskrevet over. 
+Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år.  
+Den sendes på samme måte som beskrevet over.
 
- Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.  
+Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.  
 F. eks kjøp 3 og betal for 2.
 
 Spør oss  gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.com)
