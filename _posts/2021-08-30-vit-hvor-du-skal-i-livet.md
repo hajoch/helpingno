@@ -48,3 +48,7 @@ Amerikaneren avbrøt, ”jeg har en MBA fra Harvard, og jeg kan hjelpe deg! Du b
 ”… men det er jo nøyaktig det jeg gjør nå. Så hva er poenget med å kaste bort tjue til tjuefem år?” Spurte meksikaneren.
 
 _Vit hvor du skal i livet… du kan allerede være der._
+
+**Annonse**
+
+[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
