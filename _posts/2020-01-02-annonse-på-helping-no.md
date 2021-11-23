@@ -51,7 +51,7 @@ Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.
   
 [https://www.inspirasjonogideer.no/](https://www.inspirasjonogideer.no/ "https://www.inspirasjonogideer.no/")
 
-\- Her er link annonse i form av logo som hver koster kr.2.200,- pr. år.
+\- Her er link annonse i form av logo:
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
 Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år.  
