@@ -10,7 +10,6 @@ tags:
 - reklame hos helping.no
 - gode annonsetilbud
 - likes
-- frivillig dugnad bak heklping.no
 title: Annonse
 excerpt: |
   Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. i høysesong. Det lønner seg å annonsere hos oss. Ta kontakt så hjelper vi deg.
