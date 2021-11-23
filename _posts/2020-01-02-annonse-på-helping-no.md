@@ -44,11 +44,11 @@ Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.
 Andre plasseringer som inni tekst etc. kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:  
+  
 \- Her er link annonse i form av linker/linjer som hver koster kr.1.200,- pr. år.  
 I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.  
 Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.  
-  
-[https://www.inspirasjonogideer.no/](https://www.inspirasjonogideer.no/ "https://www.inspirasjonogideer.no/")
+[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
 
 \- Her er link annonse i form av logo:
 
@@ -63,6 +63,6 @@ Spør oss  gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.co
 
 Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
 
-Vi ønsker ikke artikler som inneholder annonse fordi det kan villede leserne. 
+Vi ønsker ikke artikler som inneholder annonse fordi det kan villede leserne.
 
-Annonseinntekter går til å dekke våre løpende driftsutgifter.
+Annonseinntekter går til å dekke deler av våre løpende driftsutgifter.
