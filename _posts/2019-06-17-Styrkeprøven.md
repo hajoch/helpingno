@@ -39,7 +39,7 @@ image_caption: Boka "Styrkeprøven". - Hvordan takle livet etter en trafikkskade
 categories:
 - _category/boker.md
 publish_date: 
-weight: 8
+weight: 6
 coauthor: ''
 
 ---
