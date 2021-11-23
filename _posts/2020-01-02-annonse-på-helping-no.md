@@ -43,14 +43,18 @@ Foto: Jens Christian Jore Christensen_
 Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
 Andre plasseringer som inni tekst etc. kan vi diskutere.
 
-Slik som disse annonsene nederst på våre sider:  
-  
+Slik som disse annonsene nederst på våre sider:
+
 \- Her er link annonse i form av linker/linjer som hver koster kr.1.200,- pr. år.  
 I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.  
-Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.  
+Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.
+
+**Annonse:**  
 [https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
 
 \- Her er link annonse i form av logo:
+
+**Annonse:**
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
 Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år.  
