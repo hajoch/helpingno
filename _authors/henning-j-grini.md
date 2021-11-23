@@ -22,7 +22,13 @@ Typograf / layout-medarbeider i dagsavisen Arendals Tidende.
 
 Web-designer
 
-Daglig leder og forfatter i[ www.gaiainnovations.org](https://www.gaiainnovations.org/)
+Forfatter
+
+Daglig leder 
+
+[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
+
+ og i[ www.gaiainnovations.org](https://www.gaiainnovations.org/)
 
 **Forfatter av bøkene:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
