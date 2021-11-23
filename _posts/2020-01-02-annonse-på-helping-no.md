@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
@@ -64,4 +64,6 @@ Spør oss  gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.co
 
 Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
 
-Vi ønsker ikke artikler som inneholder annonse fordi det kan villede leserne.
+Vi ønsker ikke artikler som inneholder annonse fordi det kan villede leserne. 
+
+Annonseinntekter går til å dekke våre løpende driftsutgifter.
