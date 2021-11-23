@@ -27,7 +27,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 5
+weight: 7
 coauthor: ''
 
 ---
