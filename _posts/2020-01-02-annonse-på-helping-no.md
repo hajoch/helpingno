@@ -13,7 +13,7 @@ tags:
 - frivillig dugnad bak heklping.no
 title: Annonse
 excerpt: |
-  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. Det lønner seg å annonsere hos oss. Ta kontakt så hjelper vi deg.
+  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. i høysesong. Det lønner seg å annonsere hos oss. Ta kontakt så hjelper vi deg.
   Du er også velkommen til å støtte vår virksomhet om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
 image: "/assets/images/Basse (04).jpg"
 image_caption: "Helping-maskoten \"Basse\" tror du vil støtte oss på helping.no. Nettstedet
@@ -37,26 +37,31 @@ Kontakt oss: E-post redaksjonen:
 
 **Slik annonserer du hos oss:**
 
+![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)  
+_Helping-maskoten "Basse" tror du vil sponse og annonsere hos oss.:  
+Foto: Jens Christian Jore Christensen_
+
 Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
 Andre plasseringer som inni tekst etc. kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:  
-**Annonser:**
-
+\- Her er link annonse i form av linker/linjer som hver koster kr.1.200,- pr. år.  
+I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere.   
+Når annonsen er på, sender du kr. 1200,- til konto  1506.28.29343.  
+og angir hvilken av våre over 220 sider du ønsker å annonsere.  
 [https://www.inspirasjonogideer.no/](https://www.inspirasjonogideer.no/ "https://www.inspirasjonogideer.no/")
 
-[![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)
+\- Her er link annonse i form av logo som hver koster kr.2.200,- pr. år.
 
-Her er link annonser i form av linker/linjer som hver koster kr.1.200,- pr. år.  
-I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.
+[![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
+Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år.   
+Den sendes på samme måte som beskrevet over. 
 
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2200,- pr. år. Ønsker du samme annonse på flere sider gir vi rabatt etter avtale. F. eks kjøp 3 og betal for 2.
+ Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.  
+F. eks kjøp 3 og betal for 2.
 
-Spør oss  på mailen [helping.red@gmail.com](mailto:helping.red@gmail.com)
-
-![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)
-
-_Helping-maskoten "Basse" tror du vil sponse og annonsere hos oss.:  
-Foto: Jens Christian Jore Christensen_
+Spør oss  gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
 Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
+
+Vi ønsker ikke artikler som inneholder annonse fordi det kan villede leserne.
