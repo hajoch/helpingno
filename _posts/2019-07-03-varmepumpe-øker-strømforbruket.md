@@ -20,14 +20,15 @@ tags:
 title: Varmepumpe? Fremtiden har mange muligheter
 excerpt: |-
   Langtidstest - Forbrukertest: Varmepumpene markedsføres med strømsparing. Overraskelsen var derfor stor da det viste seg at varmepumpa øker det totale strømforbruket betydelig i vintersesongene.
-  Les også om nyheten billigere husbatteri og strømsparing som utkonkurrerer solcelle-investeringen.
+  Les også om nyheten: Billigere husbatteri og strømsparing som utkonkurrerer solcelle-investeringen.
 image: "/assets/images/varmep.jpg"
 image_caption: Foto  Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 6
+coauthor: ''
 
 ---
 **Resultat av bruk siden 2008:**  
