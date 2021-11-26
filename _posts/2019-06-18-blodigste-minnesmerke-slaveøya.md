@@ -26,7 +26,7 @@ image_caption: 'Den blodige slaveøya James Island kommer til syne i tåkedisen 
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 4
 coauthor: ''
 
 ---
