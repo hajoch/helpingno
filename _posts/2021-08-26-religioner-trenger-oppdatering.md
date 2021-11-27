@@ -21,7 +21,6 @@ publish_date: 2021-08-26 00:00:00 +0200
 weight: 7
 
 ---
-
 ![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2021/05/Prevailing_world_religions_map-1080x628.png =1080x675)
 
 Som regel må det et press til fra samfunnet for at de skal endre seg. Kvinners og homofiles rettigheter innen kirken er eksempler på det.
@@ -43,3 +42,7 @@ Professor [Hans Rosling og Gapminder Foundation](https://www.gapminder.org/) var
 Det var neppe bedre før! En gang trodde man jorden var sentrum av solsystemet og man ble straffet og bannlyst av kirken om man trodde noe annet. Selv om små forandringer og oppdateringer på det religiøse området går treigt, så skjer det i hvert fall noe også der. Det er for eksempel mindre svovelpredikanter nå, og det man trodde var hekser før i tiden var visst ikke det likevel.
 
 Den teknologiske og menneskelige utviklingen de siste par hundre år har vært enorm. De som ikke har fulgt helt med i svingene er hovedsakelig våre religioner. Samtidig skal man ikke undervurdere alt det gode de også gjør og alle de flotte menneskene som følger disse religionene, men de bør være flinkere til å våge å stille spørsmål rundt deres egen religions doktriner. En oppdatering hadde vært svært bra for dem og svært bra for oss andre.
+
+**Annonse:**
+
+[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
