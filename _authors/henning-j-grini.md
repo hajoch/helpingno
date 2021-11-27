@@ -12,7 +12,7 @@ Henning er utdannet ved Norsk Hotellhøgskole og har yrkespraksis fra hotellnær
 
 Leder for Alternativt Forum i Arendal i flere år.
 
-Har designet flere web-steder og har allsidig og kreativ dataerfaring.
+Designer fremdeles flere web-steder og har allsidig og kreativ dataerfaring.
 
 Redaktør, designer og daglig leder av magasinet Ildsjelen med tidsskrift, nettsted og forlag i 15 år med ansvar for utgivelse av en rekke bøker og nettbutikk.   
 Også kaldt "Ildsjelen personlig".
