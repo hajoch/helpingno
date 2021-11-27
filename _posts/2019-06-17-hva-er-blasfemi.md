@@ -23,7 +23,7 @@ image_caption: Filmen "Life of Brain"
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
