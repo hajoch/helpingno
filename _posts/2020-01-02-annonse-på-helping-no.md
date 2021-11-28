@@ -67,6 +67,6 @@ Spør oss  gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.co
 
 Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm konto no **1506.28.29343**
 
-Vi ønsker ikke tilsendt artikler som inneholder kamuflert annonse fordi det kan villede leserne.
+Vi ønsker ikke tilsendt artikler som inneholder kamuflert reklame bl.a. fordi det kan villede leserne i forhold til hva som er redaksjonelt produsert stoff.
 
 Annonseinntekter går til å dekke deler av våre løpende driftsutgifter.
