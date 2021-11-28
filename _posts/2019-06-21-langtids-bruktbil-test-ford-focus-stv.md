@@ -14,8 +14,8 @@ title: Ford Focus stv. 2015. Langtids test.
 excerpt: Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Når markedet i Norge kan tilby ren biobensin
   kan denne kjøres like miljøvennlig som en elbil! Biodiesel har som kjent vært på
-  markedet i årevis. Ettersom mangel på strøm og økende strømpriser øker, kan dette
-  bli en bærekraftig fremtidsbil.
+  markedet i årevis. Med mangel på strøm og økende strømpriser, kan dette bli en bærekraftig
+  fremtidsbil.
 image: "/assets/images/focus155.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
