@@ -11,13 +11,11 @@ tags:
 - bilseter
 - stasjonsvogn
 title: Ford Focus stv. 2015. Langtids test.
-excerpt: 'Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
+excerpt: Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Når markedet i Norge kan tilby ren biobensin
-  kan denne kjøres like miljøvennlig som en elbil! Ettersom mangel på strøm og økende
-  strømpriser kommer, kan dette bli en bærekraftig fremtidsbil. Og registerreima skal
-  ikke skiftes før 350.000 km. Farge Race Red. Som kjent er rød den sikreste fargen
-  ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av Ford Focus
-  for meg er handbrekka: Denne håndbrekka er ikke lengre på nye Focus.'
+  kan denne kjøres like miljøvennlig som en elbil! Biodiesel har som kjent vært på
+  markedet i årevis. Ettersom mangel på strøm og økende strømpriser øker, kan dette
+  bli en bærekraftig fremtidsbil.
 image: "/assets/images/focus155.jpg"
 image_caption: 'Foto: Christoffer Jore Christensen.'
 author: _authors/gunnar-christensen.md
@@ -28,7 +26,9 @@ weight: 8
 coauthor: ''
 
 ---
-**Flott bil bortsett i fra elendige seter og hands free plunder om du har IPhone. Dekktrykk slår inn med feil hver gang du skifter hjul og ikke bare en gang.**
+Og registerreima skal ikke skiftes før 350.000 km. Farge Race Red. Som kjent er rød den sikreste fargen ifølge ulykkesstatistikken. En viktig årsak til å velge denne modellen av Ford Focus for meg er handbrekka: Denne håndbrekka er ikke lengre på nye Focus.
+
+**Flott bil bortsett i fra dårlige seter og hands free plunder om du har IPhone. Dekktrykk slår inn med feil hver gang du skifter hjul og ikke bare en gang.**
 
 Etter tidligere å ha eid over 20 biler derav fem Volvoer og en Saab forstår jeg ikke hvorfor andre bilmerker ikke kan lage like gode forseter som svenskene.
 
