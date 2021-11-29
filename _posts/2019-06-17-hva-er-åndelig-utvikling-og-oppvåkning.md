@@ -23,7 +23,8 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 8
+coauthor: ''
 
 ---
 **Abstrakt forklaring**  
