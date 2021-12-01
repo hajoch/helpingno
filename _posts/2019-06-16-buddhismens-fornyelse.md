@@ -49,7 +49,8 @@ image_caption: 'Foto fra stupa i Nepal. Buddhisme: Swoyambhu ligger like utenfor
 categories:
 - _category/religion.md
 publish_date: 
-weight: 7
+weight: 5
+coauthor: ''
 
 ---
 **De fleste sør- og øst-asiatiske land har tilknytning til Buddhisme på en eller annen måte: I de fleste av disse landene har** [**Buddhismen**](https://helping.no/begrepene-lidelse-og-sjel-i-buddhismen "https://helping.no/begrepene-lidelse-og-sjel-i-buddhismen") **en dominerende rolle.**
