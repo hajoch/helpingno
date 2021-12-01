@@ -21,7 +21,7 @@ image_caption: 'Bilde fra Lyseggens egen samling: Rituel Powowdans i Pine Ridge'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
-weight: 5
+weight: 7
 coauthor: ''
 
 ---
