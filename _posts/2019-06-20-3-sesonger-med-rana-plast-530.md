@@ -23,7 +23,8 @@ image_caption: Illustrasjonsfoto Rana Plast
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 8
+coauthor: ''
 
 ---
 Bruktbåt: Rana Plast 530 DC med 40 hk Yamaha.
