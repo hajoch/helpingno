@@ -5,7 +5,9 @@ image: "/assets/images/JCJC.jpg"
 
 ---
 Redaksjonssekretær  
-Master i matematisk finans og internasjonal aktuar.  
-Utdannet ved Universitetet i Oslo  
+Master i matematisk finans, UiO   
+Master i aktuar, UiO   
+Internasjonal aktuar, BI  
+Student revisor, BI  
 Avdelingsleder for analyse.  
 Senior Internal Auditor
