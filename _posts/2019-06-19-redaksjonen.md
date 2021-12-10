@@ -51,7 +51,8 @@ Leder, Senior analytiker
 Styremedlem og grunder  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
 Utdannet ved Hotellfag høyskolen, Stavanger.  
-Forfatter, foreleser og designer
+Forfatter, foreleser og designer mm  
+Daglig leder og prosjektleder Gaia-Messen.
 
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
