@@ -14,7 +14,7 @@ Leder for Alternativt Forum i Arendal i flere år.
 
 Designer fremdeles flere web-steder og har allsidig og kreativ dataerfaring.
 
-Redaktør, designer og daglig leder av magasinet Ildsjelen med tidsskrift, nettsted og forlag i 15 år med ansvar for utgivelse av en rekke bøker og nettbutikk.   
+Redaktør, designer og daglig leder av magasinet Ildsjelen med tidsskrift, nettsted og forlag i 15 år med ansvar for utgivelse av en rekke bøker og nettbutikk.  
 Også kaldt "Ildsjelen personlig".
 
 Arrangør av en rekke foredrag med internasjonalt kjente personer samt egne foredrag.
@@ -25,7 +25,7 @@ Web-designer
 
 Forfatter
 
-Daglig leder:
+Daglig leder og prosjektleder Gaia-Messen.
 
 [https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
 
