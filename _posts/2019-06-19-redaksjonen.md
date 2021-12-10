@@ -69,7 +69,7 @@ Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger
 Masterstudent i "Risk Analysis and Governance" ved UiS .
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
-Journalist,   
+Journalist, Fagområde helse og mental helse  
 Utdannet Sykepleier
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
