@@ -65,14 +65,16 @@ Senior Internal Auditor
 
 [**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjonssekretær og fotograf  
-Bachelor i Hotell økonomi. UiS  
-Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
+Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger  
+Masterstudent i "Risk Analysis and Governance" ved UiS .
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
-Journalist, Utdannet Sykepleier
+Journalist,   
+Utdannet Sykepleier
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
-Journalist, Utdannet Lege og psykiater. Fagområde helse og mental helse
+Journalist, Fagområde helse og mental helse  
+Utdannet Lege og psykiater. 
 
 [Ole Torbjørn Moy]( "https://helping.no/author/ole-t.moy"), Journalist  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
