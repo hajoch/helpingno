@@ -66,7 +66,8 @@ Senior Internal Auditor
 [**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjonssekretær og fotograf  
 Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger  
-Masterstudent i "Risk Analysis and Governance" ved UiS .
+Masterstudent i "Risk Analysis and Governance" ved UiS.  
+Div. yrkeserfaring innen hotell og salg mm
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist, Fagområde helse og mental helse  
