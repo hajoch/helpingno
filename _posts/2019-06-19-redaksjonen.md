@@ -56,10 +56,10 @@ Daglig leder og prosjektleder Gaia-Messen.
 
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
-Master i matematisk finans, UiO  
+Master i matematisk finans, UiO - Universitetet i Oslo  
 Master i aktuar, UiO  
-Internasjonal aktuar, BI  
-Student revisor, BI  
+Internasjonal aktuar, HHBI, Oslo  
+Student revisor, HHBI  
 Avdelingsleder for analyse.  
 Senior Internal Auditor
 
