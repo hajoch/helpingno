@@ -10,6 +10,8 @@ Bachelor i Hotell økonomi. UiS
 
 Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
 
+Div. yrkeserfaring innen hotell og salg mm
+
 ![](/assets/images/alltrack.jpg)
 
 Foto: Christoffer Jore Christensen
