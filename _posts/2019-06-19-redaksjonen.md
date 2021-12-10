@@ -77,7 +77,7 @@ Utdannet Sykepleier
 Journalist, Fagområde helse og mental helse  
 Utdannet Lege og psykiater. 
 
-[Ole Torbjørn Moy]( "https://helping.no/author/ole-t.moy"), Journalist  
+[Ole Torbjørn Moy]( "https://helping.no/author/ole-t.moy"), Journalist båt/bil  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima)  - barnebok-tegner  
 [Ellen Marie Christensen]() - tradisjonell norsk mat  
