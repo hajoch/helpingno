@@ -43,7 +43,7 @@ Det er underlig at bilene i Europcar ikke testes for påkjørsler bakfra. Det sv
 
 Passaten har et flott og moderne design også etter dagens krav: Den tiltaler mange. Dette kan bety at bilen vil kunne holde seg godt i verdi.
 
-**Vurderes ombygd til gassdrift**  
+**Vurderes ombygd til gassdrift - obs eldre priser.**  
 VW Passaten koster kr. 18.000,- å bygge om  
 til gassdrift. Tar vi utgangspunkt i at vi ved by- og langkjøring bruker 0,7 l. pr. mil og gass koster kr. 5,- pr. liter og bensin kr. 12,- pr. liter, får vi følgende tall:
 
