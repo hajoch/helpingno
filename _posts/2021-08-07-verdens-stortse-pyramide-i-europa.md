@@ -10,6 +10,9 @@ tags:
 - pyramide i Europa
 - verdens største pyramide
 - Bosnia
+- arkeologi
+- utgraving
+- ukjente skatter
 title: Verdens største pyramide i Europa
 excerpt: Nyheten gikk verden rundt om at en mulig pyramide var blitt oppdaget i Bosnia-Herzegovina.
 image: "/assets/images/sunpyramid6.jpg"
@@ -17,7 +20,7 @@ image_caption: 'Foto: Henning Jon Grini'
 author: _authors/henning-j-grini.md
 categories:
 - _category/reise.md
-publish_date: 2021-08-07 00:00:00 +0200
+publish_date: 2021-12-12 00:00:00 +0100
 weight: 8
 
 ---
