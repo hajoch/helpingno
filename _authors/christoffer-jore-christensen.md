@@ -8,7 +8,7 @@ Redaksjonssekretær, journalist, lay-out og fotograf.
 
 Bachelor i Hotell økonomi. UiS
 
-Masterstudent i "Risk Analysis and Governance" ved Universitetet i Stavanger.
+Masterstudent i "Risk Analysis and Governance" ved UiS, Universitetet i Stavanger.
 
 Div. yrkeserfaring innen hotell og salg mm
 
