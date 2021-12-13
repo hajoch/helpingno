@@ -18,7 +18,8 @@ image_caption: Illustrasjoner Anne Bakke
 categories:
 - _category/boker.md
 publish_date: 
-weight: 7
+weight: 5
+coauthor: ''
 
 ---
 ![](/assets/images/gutt.jpg)
