@@ -38,7 +38,9 @@ Dette Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Redaktør, styreformann og gründer  
-Utdannet cand.philol/master i religionsvitenskap med økonomi og media-sosiologi som støttefag.  
+Utdannet cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
+Økonomi mellomfag. UiA, Universitetet i Agder  
+Media-sosiologi mellomfag, UiO, Universitetet i Oslo  
 Lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
@@ -75,7 +77,7 @@ Utdannet Sykepleier
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist, Fagområde helse og mental helse  
-Utdannet Lege og psykiater. 
+Utdannet Lege og psykiater.
 
 [Ole Torbjørn Moy]( "https://helping.no/author/ole-t.moy"), Journalist båt/bil  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
