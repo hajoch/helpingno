@@ -45,15 +45,14 @@ Lektor, forfatter og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Redaktør, Teknisk redaktør, styrenestleder  
-Master i Informasjonsteknologi og -tjenester  
-Utdannet ved NTNU i Trondheim  
+Master i Informasjonsteknologi og -tjenester ved NTNU i Trondheim  
 Leder, Senior analytiker
 
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
 Utdannet ved Hotellfag høyskolen, Stavanger.  
-Forfatter, foreleser og designer mm  
+Forfatter, redaktør, foreleser, lærer og grafisk designer mm  
 Daglig leder og prosjektleder Gaia-Messen.
 
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
