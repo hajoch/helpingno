@@ -30,7 +30,7 @@ weight: 7
 coauthor: ''
 
 ---
-Kontaktinformasjon  
+**Kontaktinformasjon**  
 Etablert i 21.04.2001 .- over 20 år på nett  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com  
