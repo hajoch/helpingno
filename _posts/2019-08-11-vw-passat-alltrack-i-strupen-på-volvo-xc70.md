@@ -12,12 +12,11 @@ tags:
 - stasjonsvogn
 - privatbil
 title: 'VW Passat Alltrack 2013 '
-excerpt: 'Bruktbil fra 2013: Med Passat Alltrack er Volkswagen rett i strupen på Volvo
-  XC 70 ved å ny-prise seg langt under Volvos modeller. Passat Alltrack er hevet 3
-  cm i forhold til en standard modell. Visuelt virker det som om bilen er hevet mer
-  - kanskje på grunn av de design-messige off-road- effektene som denne modellen har
-  fått. Men. Hva med Volkswagens rustproblem på bruktbiler? Er Volvo likevel best
-  bruktbil kjøp?'
+excerpt: 'Bruktbil: Med Passat Alltrack er Volkswagen rett i strupen på Volvo XC 70
+  ved å ny-prise seg langt under Volvos modeller. Passat Alltrack er hevet 3 cm i
+  forhold til en standard modell. Visuelt virker det som om bilen er hevet mer - kanskje
+  på grunn av de design-messige off-road- effektene som denne modellen har fått. Men.
+  Hva med Volkswagens rustproblem på bruktbiler? Er Volvo likevel best bruktbil kjøp?'
 image: "/assets/images/alltrack.jpg"
 image_caption: 'Foto og test: Christoffer Jore Christensen'
 author: _authors/christoffer-jore-christensen.md
