@@ -20,13 +20,14 @@ excerpt: Historiske dr. Holms hotell, Geilo testes i en spesiell anledning. Flot
   billedkunst i fellesrom gjør oppholdet til en fin kunstopplevelse. August med fint
   vær og dagstur med toget til Finse.
 image: "/assets/images/IMG_2929.JPG"
-image_caption: 'Bilde Gunnar Christensen: Modell-presentasjonen av hotellet som ble
+image_caption: 'Bilde Gunnar Christensen: Modell-presentasjonen av hotellet. Det ble
   bygget fra 1909 og utvidet flere ganger senere.'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
-publish_date: 2019-08-26T22:00:00.000+00:00
+publish_date: 
 weight: 3
+coauthor: ''
 
 ---
 Det var en spesiell anledning som skulle feires da vi kjørte bil fra Arendal til Geilo 7 timer hver vei for  ta inn på et historisk hotell: Vakkert beliggende like ved jernbanestasjonen og med en imponerende bygningsmasse både i størrelse og arkitektonisk eleganse.
