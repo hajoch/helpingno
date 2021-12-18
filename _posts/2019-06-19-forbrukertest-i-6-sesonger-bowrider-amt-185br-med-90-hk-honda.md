@@ -23,14 +23,14 @@ excerpt: "Forbrukertest i 6 sesonger med Bowrider: Da AMT-båtene kom på marked
   holder mål på kvalitet i bruk, praktiske løsninger og service. Båten er flott på
   alle måter. Den er virkelig bedre enn forventet. \n\nHondamotoren derimot hadde
   problemer de to første sesongene og videre noe som ble tatt som garantireparasjoner:
-  Siden ble Hondaen friskmeldt og fungerte. Motortrøbbel i garantitiden er ikke \"bedre
-  enn forventet\"."
+  Siden ble Hondaen friskmeldt og fungerte. Alvorlig motortrøbbel i garantitiden er
+  ikke \"bedre enn forventet\"."
 image: "/assets/images/amt.8.jpg"
 image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 5
 coauthor: _authors/christoffer-jore-christensen.md
 
 ---
