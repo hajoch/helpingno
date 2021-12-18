@@ -24,7 +24,8 @@ image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
 publish_date: 
-weight: 8
+weight: 7
+coauthor: ''
 
 ---
 **Askeladden 16 m. 25 hk Yamaha**
