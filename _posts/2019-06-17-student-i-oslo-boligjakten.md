@@ -26,7 +26,8 @@ image_caption: 'Illustrasjonsfoto: Jens Christian Christensen'
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 4
+coauthor: ''
 
 ---
 Seniorstudentene flytter inn i de mest attraktive utleieobjektene til SiO, mens du som ny i Oslo stiller svakest. Det hjelper deg lite at det har vært klaget i generasjoner på at regjeringen gjør for lite for å løse studentenes boligkrise. Regjeringen har sviktet deg. Alt da du ble født var regjeringen klar over hvor mange som ville trenge studentbolig nå. Likevel er lite gjort for å hjelpe deg.
