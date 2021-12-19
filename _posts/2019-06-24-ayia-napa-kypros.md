@@ -22,7 +22,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 4
 coauthor: _authors/hallvard-j-christensen.md
 
 ---
