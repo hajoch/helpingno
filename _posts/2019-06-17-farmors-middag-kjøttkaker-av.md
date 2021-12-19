@@ -17,7 +17,8 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 Bank kjøttet. Bruk f.eks. den uskarpe enden av en kjøkkenkniv hvis du ikke har et spesialredskap for bankingen. Bank kjøttet på begge sider før steking. Brun så kjøttet på begge sider i pannen.
