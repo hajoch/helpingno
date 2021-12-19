@@ -26,7 +26,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 7
+weight: 4
+coauthor: ''
 
 ---
 Planen var å sette opp et landsted etter et rimelig nøkternt budsjett, men med alle de kvaliteter som man forbinder med et sunt hus. Et laftehus er i utgangspunktet et sunt hus, men vi ville heller ha en bygning som passet inn i kystmiljøet - altså et lite, tradisjonelt skipperhus.
