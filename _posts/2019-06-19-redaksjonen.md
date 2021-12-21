@@ -60,7 +60,7 @@ Redaksjonssekretær
 Master i matematisk finans, UiO - Universitetet i Oslo  
 Master i aktuar, UiO  
 Internasjonal aktuar, HHBI, Oslo  
-Student revisor, HHBI  
+Internasjonale studier i Internal Auditor  
 Avdelingsleder for analyse.  
 Senior Internal Auditor
 
