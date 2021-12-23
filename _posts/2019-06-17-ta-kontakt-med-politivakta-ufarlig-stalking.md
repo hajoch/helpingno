@@ -21,7 +21,8 @@ image_caption: Illustrasjon. Foto Gunnar Christensen
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 3
+weight: 7
+coauthor: ''
 
 ---
 Selv har jeg fått god hjelp av politiet i et slikt tilfelle for 20 år siden.
