@@ -21,7 +21,8 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 3
+weight: 4
+coauthor: ''
 
 ---
 Brokkoli- og spinatsuppe - velsmakende og sunn.
