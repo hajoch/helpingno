@@ -8,6 +8,8 @@ tags:
 - billige bruktbiler
 - test
 - sikkerhet
+- " Peugeots 5008"
+- franske biler
 title: Brukte biler - Peugeots 5008,
 excerpt: 'Det som i dag er billige bruktbiler testet vi i helping da de var nye. '
 image: "/assets/images/Peugeut 50081.jpg"
