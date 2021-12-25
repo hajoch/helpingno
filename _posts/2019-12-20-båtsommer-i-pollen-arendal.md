@@ -14,6 +14,10 @@ tags:
 - sesong
 - sommeridyll
 - sommerbyen
+- årlig båtutstilling
+- salgsutstilling
+- nyheter på sjøen
+- populær sommeropplevelse
 title: Båtmesse i Pollen
 excerpt: " Første helga i juni arrangeres årets båtsommer i Arendal."
 image: "/assets/images/sob6.jpg"
