@@ -8,6 +8,17 @@ tags:
 - Finse
 - Rallarveien
 - historisk hotell
+- fjell-sykling
+- fjellvandring
+- Hardangerjøkulen
+- sauna
+- nasjonalpark
+- fjellsport
+- ski-turisme
+- naturopplevelser
+- fiske
+- turistforeningens løyper
+- turistforeningens hytter
 title: Finse 1222 hotell på jernbanestasjonen og Rallarveien
 excerpt: 'Dette historiske hotellet åpnet med Bergensbanen i 1909 og ble påbygd med
   økende etterspørsel senere. Beliggende på Jernbanestasjonen av samme navn. Her kan
