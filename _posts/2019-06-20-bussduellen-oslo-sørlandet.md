@@ -13,6 +13,7 @@ tags:
 - reiseguide
 - langdistansereise
 - reise i Norge
+- bussnettverk i Norge
 title: 'Bussduellen: Oslo-Sørlandet'
 excerpt: '"Underdog" skåret best, men nå har VY oppgradert med flotte nye busser.
   Begge har for det meste grei orden på koronareglene.'
@@ -21,7 +22,7 @@ image_caption: Foto Gunnar Christensen. Harebakken bussterminal i Arendal
 categories:
 - _category/reise.md
 publish_date: 
-weight: 6
+weight: 5
 coauthor: ''
 
 ---
