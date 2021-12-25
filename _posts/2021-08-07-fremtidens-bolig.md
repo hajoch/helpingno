@@ -8,6 +8,14 @@ tags:
 - bolig
 - trivsel
 - harmoni
+- bærekraftig boligbygging
+- nye tanker i boligmarkedet
+- fremtidens boliger
+- sosial kontakt
+- livskvalitet
+- naboskap
+- 'Agatunet i Hardanger '
+- Havråtunet på Osterøy
 title: Fremtidens bolig
 excerpt: I dag lever vi som bor i byer for det meste atskilt fra mennesker og natur.
   Dette får store negative konsekvenser som ensomhet og miljøødeleggelser.
@@ -20,7 +28,6 @@ publish_date: 2021-08-07 00:00:00 +0200
 weight: 7
 
 ---
-
 Det høres litt rart ut at vi lever atskilt fra mennesker når byen er full av dem, men det blir jo ofte slik når naboer knapt kjenner hverandre selv om de har bodd der i årevis. I de siste tiårene har vi ikke vært flinke nok med å tilrettelegge for sosialisering når boligprosjektene planlegges, dermed blir mange sittende innendørs og alle skjermene gjør ikke saken bedre.
 
 Etter andre verdenskrig var det boligmangel og boligblokkene poppet opp. Siden det hastet å få bygget rimelige boliger var kanskje ikke tilrettelegging for sosial kontakt det første man tenkte på. Det å ha sosial kontakt er livsnødvendig for et menneske. Hvis ikke babyer blir fysisk berørt [risikerer de å dø](https://www.aftenposten.no/norge/i/RGkVW/livsviktig-beroering-for-kropp-og-sjel). Voksne får [redusert sin livskvalitet og sine leveår](https://www.oslomet.no/forskning/forskningsnyheter/ensomhet-ikke-bra-for-helsa) om man har lite kontakt med andre. Vi ser jo også hvor mye det går ut over barn og unge under nedstenging.
@@ -41,4 +48,4 @@ Det skal være et boligkonsept med utstrakt bruk av deling og samarbeid. Her kom
 
 Tiden for å bygge rene leilighetsbygg uten noe annet begynner å renne ut. Her må man tenke helhetlig slik at beboerne kan trives og blomstre også utenfor sine egne fire vegger. Vi er sosiale vesener og uten kontakt med andre forvitrer vi som mennesker. Det merker vi alle i disse tider med sosial distansering.
 
-For å skape fremtidens mest optimale boform og samfunn er respekt for naturen en selvsagt ting. Samtidig må vi legge mest mulig til rette for at vi tar vare for hverandre. Tilsammen vil dette gi et mer berikende, triveligere og meningsfullt liv. Når vi greier å komme oss til Månen og Mars burde ikke det være en uoverkommelig oppgave.
+For å skape fremtidens mest optimale boform og samfunn er respekt for naturen en selvsagt ting. Samtidig må vi legge mest mulig til rette for at vi tar vare for hverandre. Til sammen vil dette gi et mer berikende, triveligere og meningsfullt liv. Når vi greier å komme oss til Månen og Mars burde ikke det være en uoverkommelig oppgave.
