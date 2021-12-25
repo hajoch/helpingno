@@ -8,6 +8,8 @@ tags:
 - Felleskatalogen
 - bivirkninger
 - lege
+- kontroll
+- brukerveiledning
 title: Titt legen i kortene
 excerpt: 'Nå kan du selv sjekke bivirkninger av medisinene '
 image: "/assets/images/IMG_2754.JPG"
