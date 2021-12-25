@@ -16,7 +16,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 6
+weight: 3
+coauthor: ''
 
 ---
 **Titt legen i kortene**  
