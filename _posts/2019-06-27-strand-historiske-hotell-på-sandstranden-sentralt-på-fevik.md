@@ -19,7 +19,7 @@ excerpt: 'Test: Strand historiske Hotell på Fevik er en Sørlandsperle både n�
   fra 1960-tallet og frem til i dag: Barnedåp, konfirmasjon og bryllup i tillegg til
   en rekke andre anledninger. I løpet av denne tiden er hotellet oppgradert fra sommerhotell
   til helårshotell.'
-image: "/assets/images/img_e3978.JPG"
+image: "/assets/images/strand-hotell-2.jpg"
 image_caption: " Foto: Gunnar Christensen"
 author: _authors/gunnar-christensen.md
 categories:
