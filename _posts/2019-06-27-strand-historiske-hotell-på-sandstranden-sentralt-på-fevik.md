@@ -13,6 +13,11 @@ tags:
 - sørlandsidyll
 - spa
 - spahotell
+- sommerparadis
+- Roald Dahl
+- Patricia Neal
+- '1937'
+- " Storesand"
 title: Strand Hotell, Fevik
 excerpt: 'Test: Strand historiske Hotell på Fevik er en Sørlandsperle både når det
   gjelder beliggenhet og arkitektur. Her har selskapslokaler og kjøkkenet vært testet
@@ -25,12 +30,12 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 6
+weight: 7
 coauthor: ''
 
 ---
 **Historie**  
-Hotellet har lange tradisjoner og tilhører kjeden historieske hoteller. Helt siden 1937 har Strand Hotel, Fevik vært et attraktivt feriested i skjærgården. Hotellet har tiltrukket seg kjente gjester som forfatteren Roald Dahl: Han var stamgjest her i over 30 år, sammen med sin Oscar-belønnede kone Patricia Neal.
+Hotellet har lange tradisjoner og tilhører kjeden historiske hoteller. Helt siden 1937 har Strand Hotel, Fevik vært et attraktivt feriested i skjærgården. Hotellet har tiltrukket seg kjente gjester som forfatteren Roald Dahl: Han var stamgjest her i over 30 år, sammen med sin Oscar-belønnede kone Patricia Neal.
 
 Hotellet ble i sin tid bygd med eksklusive kvaliteter:  
 \- Opprinnelig var spisesal m.m. dekorert med originalmalerier direkte på veggen av kjent kunstner fra hotellets første år. Dette er beklageligvis ødelagt med overmaling og tapetsering og er trolig gått tapt for all fremtid.  
@@ -42,7 +47,7 @@ Slike skandaler burde riksantikvaren forhindret.
 **Et moderne og attraktivt hotell**  
 I de senere år har det kommet nye påbygg med konferansesal og spa samt mer moderne hotellrom. Ute arealet er også forbedret og oppgradert. Stranden er den samme med finkornet sand og deilig vann rett inn Fevikkilen fra havet.
 
-Skjærgården utenfor har idylliske øyer og en kanal for småbåter som skal til Grimstad havn. Fevikområde er kjent for det fine rødlige fjellet i skjærgården og en rekke fine finkornede sandstrender, kanskje flere sandstrender innen dette begrensede område enn noe annet sted på Sørlandet. Lokalbefolkningen velger strand ut i fra vindretningen. Stranden Storesand er av VG kåret til Norges fineste sandstrand for noen år tilbake.
+Skjærgården utenfor har idylliske øyer og en kanal for småbåter som skal til Grimstad havn. Fevikområde er kjent for det fine rødlige fjellet i skjærgården og en rekke fine finkornede sandstrender, kanskje flere sandstrender innen dette begrensede område enn noe annet sted på Sørlandet. Lokalbefolkningen velger strand ut i fra vindretningen. Stranden Storesand på Fevik er av VG kåret til Norges fineste sandstrand for noen år tilbake.
 
 Fra hotellet går gang og sykkelstier i begge retninger til Arendal og Grimstad. Regelmessig bussforbindelse i begge retninger. Kort bilvei til småbyene på Sørlandet, 2 flyplasser - Gullknapp i Froland og Kjevik i Kristiansand - samt den populære dyreparken mellom Lillesand og Kristiansand.
 
