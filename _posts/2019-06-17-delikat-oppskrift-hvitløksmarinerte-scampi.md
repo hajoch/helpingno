@@ -11,6 +11,9 @@ tags:
 - middag
 - lett måltid
 - delikatesse
+- havets delikatesser
+- skaldyr
+- eksklusive retter
 title: Hvitløksmarinerte SCAMPI
 excerpt: En frisk, god salat bestående av ruccola, tomater og pinjekjerner smaker
   utmerket inntil. Hvitløksbrød er også godt, og kanskje en flaske rødvin?
@@ -19,7 +22,8 @@ image_caption: Foto Jens Christian Jore Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 5
+weight: 8
+coauthor: ''
 
 ---
 Hvitløksmarinerte Scampi:  
