@@ -54,6 +54,8 @@ Fra hotellet går gang og sykkelstier i begge retninger til Arendal og Grimstad.
 De senere år er hotellet vel drevet og maten av god standard med fokus på lokalproduserte råvarer og god kokkekunst.  
 Hotellet fikk ny ledelse i 2017.
 
+![](/assets/images/strand-hotell-2-2.jpg)
+
 Behagelig stille og rolig område på stranden ved havkanten. Populær langgrunn sandstrand trygg og god for småbarnsfamilier - både for hotellets gjester og fastboende. Innerst i en bukt - Fevikkilen - med havet rett ut. Lite berørt av støy fra lokal kystvei mellom Arendal og Grimstad.
 
 [http://www.strandhotelfevik.no/no-no/hotellet/om-hotellet](http://www.strandhotelfevik.no/no-no/hotellet/om-hotellet "http://www.strandhotelfevik.no/no-no/hotellet/om-hotellet")
