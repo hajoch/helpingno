@@ -21,16 +21,16 @@ tags:
 - Lindesnes fyr
 - Norges sydligste punkt
 - Sydkapp
-title: 'Fyrvokter: Lindesnes Fyr'
-excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste med panoramautsikt
-  over havet.
+title: 'Fyrvokterboligen: Lindesnes Fyr'
+excerpt: Fyrvokterboligen består av tre leiligheter. Du får leie den beste av dem
+  med panoramautsikt på orkesterplass over havet.
 image: "/assets/images/lind.10.jpg"
 image_caption: Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
