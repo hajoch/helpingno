@@ -26,7 +26,7 @@ coauthor: ''
 ---
 Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
 
-**Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:**
+Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:
 
 * **_Elisabeth Kübler-Ross: "Døden er livsviktig  
   \- om livet, døden om livet etter døden."  
@@ -47,7 +47,7 @@ Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har d
 
 I denne boka tolker Sogyal Rinpoche den tibetanske dødebok og gjør den mer tilgjengelig for mennesker i vesten. Tradisjonelt har den tibetanske kulturen mange innsiktsfulle skriftelige kilder som gir kunnskap om dødens mysterier.
 
-Dalai Lama skriver bl.a. i sin bokanmeldelse til denne boken: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man kan hjelpe de døende og de døde."
+[Dalai Lama](https://helping.no/m%C3%B8te-med-h-h-dalai-lama-en-pilgrim-i-bodh-gaya) skriver bl.a. i sin bokanmeldelse til denne boken: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man kan hjelpe de døende og de døde."
 
 Les også: [Sorgbearbeidelse](http://www.helping.no/sorgbearbeidelse.htm)
 
