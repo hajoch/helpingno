@@ -25,7 +25,7 @@ image_caption: Hansvik 18 HT. Foto Hansvik
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 4
 coauthor: ''
 
 ---
