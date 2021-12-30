@@ -20,7 +20,8 @@ image_caption: 'Sorg kan være en del av depresjon. Der er mange typer sorg : N�
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 6
+coauthor: ''
 
 ---
 Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter kun to år. Sjekk bruktbok-markedet.
