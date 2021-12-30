@@ -28,9 +28,9 @@ Tørk støvet av eldre utgivelser - mange skatter er ute av bokhandelen etter ku
 
 **Flere bøker tar opp tema "sorg" og bearbeidelse av sorg i forbindelse med dødsfall. Her en to bokforslag:**
 
-* Elisabeth Kübler-Ross: "Døden er livsviktig  
+* **_Elisabeth Kübler-Ross: "Døden er livsviktig  
   \- om livet, døden om livet etter døden."  
-  Damm Pocket, 2 opplag 2005. 192 sider.
+  Damm Pocket, 2 opplag 2005. 192 sider._**
 
 Boken er en samling foredrag av Elisabeth Kübler-Ross. Foredragene er bearbeidet til bokform av den svenske legen Göran Grip basert på opptak fra en rekke av Kübler-Ross foredrag verden over.
 
@@ -40,8 +40,8 @@ Som leser blir du i denne boken bedre kjent med forfatteren og hennes bakgrunn e
 
 I tillegg finnes mye humor i boka og en rekke lærerike menneskeskjebner. Få bøker gir bedre innsikt i dødens mysterier. Boka anbefales som medisin mot dødsangst.
 
-* Sogyal Rinpoche: "Den Tibetanske boken om livet og døden"  
-  Grønndahl Dreyer 1996. 429 sider.
+* **_Sogyal Rinpoche: "Den Tibetanske boken om livet og døden"  
+  Grønndahl Dreyer 1996. 429 sider._**
 
 Da denne boken kom på markedet ble den straks en bestselger i Vesten. Nå har de fleste glemt dette skattekammer av en bok for dem som ønsker større innsikt i og kunnskap om dødens mysterier.
 
