@@ -26,7 +26,7 @@ image_caption: |-
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
