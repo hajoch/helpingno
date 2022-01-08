@@ -48,6 +48,6 @@ Dalai Lama skriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer 
 Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
 
 **Tips om hvor denne boka finnes:**  
-Biblioteket og bruktbutikker for den norske utgaven. Den finnes på engelsk og kan bestilles fra utenlandske bok-shopping. Tibetanske menigheten i Oslo, Karma Tashi Ling har kanskje bøker til salgs?
+Biblioteket og bruktbutikker for den norske utgaven. Den finnes på engelsk og kan bestilles fra utenlandske bok-shopping. Tibetanske menigheten i Oslo, Karma Tashi Ling har kanskje denne boka til salgs?
 
 www.helping.no har sluttet å selge bøker så vi har ikke lager av den.
