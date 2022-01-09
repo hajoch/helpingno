@@ -9,7 +9,6 @@ tags:
 - litteratur
 - visdom
 - Tibet'
-- døde
 - livet
 - forstå døden bedre
 - den gamle visdommen fra Tibet
@@ -17,6 +16,7 @@ tags:
 - over 2000 år gammel visdom om livet og døden
 - hjelp mot dødsangst
 - etter døden
+- døden
 title: 'Forstå døden: Den Tibetanske Dødebok:'
 excerpt: '"Den Tibetanske boken om livet og døden". Sogyal Rinpoche: Dreyer 1996.
   429 sider og senere utgaver. Får  du tak i et eksemplar av denne boka har du et
@@ -45,9 +45,9 @@ _Foto Gunnar Christensen: Swoyambhu like utenfor Kathamndu i Nepal er verdens st
 
 Dalai Lama skriver bl.a. i sin bokanmeldelse: "I sin høyaktuelle bok fokuserer Sogyal Rinpoche på hvordan man skal forstå den sanne meningen med livet, hvordan man skal hjelpe de døende og de døde."
 
-Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i TIbet.
+Et godt tips kan være å begynne med kapittel 2. Dette fordi forfatteren bruker hele kapittel 1 til å takke alle sine læremestere slik tradisjonen er i Tibet.
 
 **Tips om hvor denne boka finnes:**  
-Biblioteket og bruktbutikker for den norske utgaven. Den finnes på engelsk og kan bestilles fra utenlandske bok-shopping. Tibetanske menigheten i Oslo, Karma Tashi Ling har kanskje denne boka til salgs?
+Biblioteket og brukt-bok-butikker for den norske utgaven. Den finnes på engelsk og kan bestilles fra utenlandske bok-shopping. Tibetanske menigheten i Oslo, [Karma Tashi Ling](https://www.ktl.no/ "https://www.ktl.no/") har kanskje denne boka til salgs?
 
 www.helping.no har sluttet å selge bøker så vi har ikke lager av den.
