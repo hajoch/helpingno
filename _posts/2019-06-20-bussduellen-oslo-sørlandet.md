@@ -28,17 +28,17 @@ coauthor: ''
 ---
 Busstrafikken mellom Sørlandet og Oslo har tatt av og "stjålet" mange kunder fra toget og biltrafikken. Kystruten sjøveien er for lengst historie. Det største volumet passasjerer tar bussene og her er flere aktører.
 
-De to største selskapene som er mest tilgjengelige med hyppige ruteavganger er NOR-WAY som nå er [konkurrenten.no](http://www.konkurrenten.no/) som fremdeles har plassgaranti så du alltid kommer med - og VY som er eid av NSB og som ikke har plassgaranti og du kan bli stående igjen uten å komme med om du ikke har forhåndsbestilt plassbillett. Det virker som om YV tar koronareglene mest på alvor.
+De to største selskapene som er mest tilgjengelige med hyppige ruteavganger er NOR-WAY som nå er [konkurrenten.no](http://www.konkurrenten.no/) som fremdeles har plassgaranti så du alltid kommer med - og VY som er eid av NSB og som ikke har plassgaranti og du kan bli stående igjen uten å komme med om du ikke har forhåndsbestilt plassbillett. 
 
-Disse to selskapene har kriget om passasjerene fra konkurrenten kom på markedet i 2000, der Nettbuss nå VY ifølge lokal presse har brukt tildels ufine metoder hvilket har blitt lagt merke til hos publikum og gitt konkurrenten.no stor sympati og kanskje flere kunder. Vi har en tendens til å få sympati for "the Underdog". Til å begynne med fikk ikke publikum opplyst ruteavgangene til konkurrenten.no på telefonopplysningen for rutetider - dette er kun ett eksempel.
+Disse to selskapene har kriget om passasjerene: Fra konkurrenten kom på markedet i 2000, der Nettbuss nå VY ifølge lokal presse har brukt til dels ufine metoder - les boikott - hvilket har blitt lagt merke til hos publikum og gitt konkurrenten.no stor sympati og kanskje flere kunder. Vi har en tendens til å få sympati for "the Underdog". Til å begynne med fikk ikke publikum opplyst ruteavgangene til konkurrenten.no på telefonopplysningen for rutetider - dette er kun ett eksempel.
 
 **Komfort**  
-I tillegg hadde tidligere konkurrenten.no de beste bussene med de behageligste setene og god aircondition. Nå har imidlertid VY tidligere Nettbuss fornyet bussparken og har ikke lengre så mange turer med eldre busstyper. Fremdeles kjennetegnes eldre Nettbusser med en kald trekk under hele reisen og sjåfører som ikke tar råd om innstillingen av klimaanlegget: Derfor sitter mange og hoster rundt deg når du kjører gammel VY-Nettbuss. Hos Konkurrenten har de innleide ekstra bussene problem med kald trekk, særlig hvis de heter "Prebens bussreiser" - det er fristende å tilføye "med forkjølelsegaranti". Uansett hvilket selskap man velger kan man derfor lett være uheldig med bussen og få en trekkfull opplevelse.
+I tillegg hadde tidligere konkurrenten.no de beste bussene med de behageligste setene og god aircondition. Nå har imidlertid VY tidligere Nettbuss fornyet bussparken og har ikke lengre så mange turer med eldre busstyper. Fremdeles kjennetegnes eldre Nettbusser med en kald trekk under hele reisen og sjåfører som ikke tar råd om innstillingen av klimaanlegget: Derfor sitter mange og hoster rundt deg når du kjører gammel VY-Nettbuss. Hos Konkurrenten har de innleide ekstra bussene problem med kald trekk, særlig hvis de heter "Prebens bussreiser" - det er fristende å tilføye "med forkjølelse-garanti". Uansett hvilket selskap man velger kan man derfor lett være uheldig med bussen og få en trekkfull opplevelse.
 
 **Mobilbruk tar helt av.**  
-I de senere år har problemet med mobilbruk økt for hver gang jeg bruker bussene. Det er direkte plagsomt når flere snakker høylytt i telefonen under det meste av reisen: Dette er utenfor enhver folkeskikk: Å måtte sitte og overhøre hele livshistoria til andre busspassasjerer, utbretting av intime detaljer m.m.. Man bør tenke på at folk sitter tett på hverandre på en buss og noen har faktisk tenk å slappe av på turen.
+I de senere år har problemet med mobilbruk økt for hver gang jeg bruker bussene. Det er direkte plagsomt når flere snakker høylytt i telefonen under det meste av reisen: Dette er utenfor enhver folkeskikk: Å måtte sitte og overhøre hele livshistoria til andre busspassasjerer, utbretting av intime detaljer m.m.. Man bør tenke på at folk sitter tett på hverandre på en buss og noen har faktisk tenk å slappe av eller sove på turen.
 
-Det er derfor flott at noen av sjåførene ber passasjerene begrense mobilbruken for den kan til tider være meget plagsom uansett hvilket selskap man reiser med. Alle sjåfører burde minne om mobilvett på bussen.
+Det er derfor flott at noen av sjåførene ber passasjerene begrense mobilbruken for den kan til tider være meget plagsom uansett hvilket selskap man reiser med. Alle sjåfører burde minne om mobilvett på bussen. De fleste sjåførene i begge selskapene er dyktige og kjører pent og mykt.
 
 Denne testen bygger på et stort antall erfaringer etter regelmessig bruk av begge selskapene så lenge tilbudene har eksistert.
 
@@ -51,7 +51,7 @@ Bussene holder ruta meget bra. Er der forsinkelser så er det oftest, omkjøring
 Korresponderer og har avgang/påstigning ved Kielferga i Oslo. Dette fungerte ikke når vi testet det fordi bussen som henter på fergekaia ikke alltid er godt nok merket (innleid buss med annen farge) og parkerer annet sted ved avgang enn ved adkomst.
 
 **Komfort**  
-4-stjerners turistbusser med behagelige seter, god beinplass, air-condition som gir jevn og fin varme uten at det "trekker". Men havner du i en av de innleide bussene med navn "Prebens bussreiser" er du garantert iskald trekk som selv sjåførene ikke får regulert bort: I disse bussene er det "forkjølelsegaranti".
+4-stjerners turistbusser med behagelige seter, god beinplass, air-condition som gir jevn og fin varme uten at det "trekker". Men havner du i en av de innleide bussene med navn "Prebens bussreiser" er du garantert iskald trekk som selv sjåførene ikke får regulert bort: I disse bussene er det "forkjølelse-garanti".
 
 **Service**  
 De fleste sjåførene er meget dyktige med behagelig kjørestil og meget gode kundebehandlere. Sjåfører som ikke behersker norsk godt nok kan forekomme.
@@ -62,16 +62,16 @@ Vurdering: VY ([**Nettbuss**](http://www.nettbuss.no/rutetilbud/ekspressbuss/net
 Bussene holder ruta meget bra. Er der forsinkelser så er det oftest, omkjøringer, trafikkproblemer eller andre årsaker som sjåførene ikke er herre over.
 
 **Komfort**  
-Ulike busstyper med forskjellig komfort. De fleste bussene er nå nyere med god komfort, men de gamle har fremdeles en kald trekk i kupeen som kan være ubehagelig og som i verste fall kan gi en forkjølelse: Nettbuss-sjåfører må skjerpe seg på aircondition her er kald trekk snarere regelen enn unntaket.
+Ulike busstyper med forskjellig komfort. De fleste bussene er nå nyere med god komfort, men de gamle har fremdeles en kald trekk i kupeen som kan være ubehagelig og som i verste fall kan gi en forkjølelse: Nettbuss-sjåfører må skjerpe seg på aircondition i de eldre byssene- her er kald trekk snarere regelen enn unntaket.
 
 Nyinnkjøp av flere nye busser hever nå komfort-nivået.
 
 **Service**  
 De fleste sjåførene er dyktige med behagelig kjørestil og meget gode kundebehandlere.
 
-Da Sørlands-eksprtessen (Gamle ADS) startet var alle sjåførene meget dyktige. Dette har forandret seg noe i senere tid. En fartsbot er observert. Det er en sammenheng mellom kjøreerfaring og norskkunnskaper på servicesiden.
+Da Sørlands-ekspressen (Gamle ADS nå VY) startet var alle sjåførene meget dyktige. Dette har forandret seg noe i senere tid. En fartsbot er observert. Det er en sammenheng mellom kjøreerfaring og norskkunnskaper på servicesiden.
 
-VY-Nettbuss har innført samme system som NSB med plassbestilling og bestilling på nett for å være sikker på å skremme bort de fleste pensjonistene, men også andre grupper. Dette taper Nettbuss på så lenge de konkurrerer mot selskap med plassgaranti.
+VY-Nettbuss har innført samme system som NSB med plassbestilling og bestilling på nett for å være sikker på å skremme bort de fleste pensjonistene, men også andre grupper. Dette taper VY-Nettbuss på så lenge de konkurrerer mot selskap med plassgaranti.
 
 ###### Parkeringsproblemer på Harebakken i Arendal
 
