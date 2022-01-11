@@ -22,7 +22,8 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 5
+coauthor: ''
 
 ---
 Med bilen blir turen til og fra til en innholdsrik del av turen.  
