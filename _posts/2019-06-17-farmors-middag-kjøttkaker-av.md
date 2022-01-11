@@ -17,7 +17,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/helse.md
 publish_date: 
-weight: 2
+weight: 3
 coauthor: ''
 
 ---
