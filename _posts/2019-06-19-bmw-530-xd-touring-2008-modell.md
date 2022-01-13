@@ -20,7 +20,7 @@ image_caption: Foto Ole T. Moy
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 2
 coauthor: ''
 
 ---
