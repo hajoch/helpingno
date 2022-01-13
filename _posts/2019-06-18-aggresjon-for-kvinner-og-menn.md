@@ -27,7 +27,8 @@ image_caption: Foto Gunnar Christensen. Motiv fra Roma
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 5
+weight: 3
+coauthor: ''
 
 ---
 Når ulven jakter, viser den ikke tegn på aggresjon. Den er intenst opptatt av det den holder på med. Jo. Skulle den komme i kamp med en av samme art, så flekker den tenner og reiser bust. Jeg tror også den lager lyder. Slik er det med mannen også. Når han jakter på parkeringsplass eller et par sko så er han ikke sinna. Bare dypt konsentrert om det ofte farefulle som skal skje.
