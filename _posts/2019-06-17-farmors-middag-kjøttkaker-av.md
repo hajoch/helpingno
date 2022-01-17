@@ -7,7 +7,10 @@ tags:
 - middag
 - kjøtt
 - tradisjonsmat i Norge
-- tradisjonell norsk mat'
+- biff
+- matoppskrift
+- hjemmekjøkken
+- oppskrift på kjøttmiddag
 title: Bankekjøtt
 excerpt: 'Sjekk kjøttet nøye før du kjøper det. Sjekk at kjøttet har god kvalitet
   uten slinter. Slinter sees som lysere striper i kjøttet. Stykker med ensfarget kjøttfarge
