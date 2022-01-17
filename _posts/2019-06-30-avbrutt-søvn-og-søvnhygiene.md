@@ -32,7 +32,7 @@ author: _authors/odd-m-lunde.markdown
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 5
 coauthor: ''
 
 ---
