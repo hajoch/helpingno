@@ -20,7 +20,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 Og vi benker oss i en fullsatt sal på Oslo kongressenter for å høre det kjente og kjære evangelium om at vi selv er skyld i alle våre sykdommer. Ja, alt fra den lille antydning til forkjølelse hos Myss selv til rullestolbrukerne i midtgangen og damen som rasler med krykkene bak meg. Det er vår egen skyld alt sammen.
