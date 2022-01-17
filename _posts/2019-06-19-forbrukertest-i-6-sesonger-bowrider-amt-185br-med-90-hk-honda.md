@@ -30,7 +30,7 @@ image_caption: Foto Gunnar Christensen
 categories:
 - _category/båt.md
 publish_date: 
-weight: 5
+weight: 6
 coauthor: _authors/christoffer-jore-christensen.md
 
 ---
