@@ -22,7 +22,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 3
+coauthor: ''
 
 ---
 ![](/assets/images/dkb11.jpg)
