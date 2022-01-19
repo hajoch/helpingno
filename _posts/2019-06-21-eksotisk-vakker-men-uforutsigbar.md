@@ -20,11 +20,11 @@ tags:
 - Bodhi-tre
 - reinkarnasjon
 - Tamiler
-title: Sri Lanka
+title: Sri Lanka - sol og trope
 excerpt: 'Eksotisk, vakker, men uforutsigbar: Hver morgen stiger en skog av master
   og seil frem over horisonten utenfor Negombos kyststripe: Fiskerne kommer med dagens
   fangst i sine tradisjonelle, spinkle småbåter. Det likner et mektig sjøslag og er
-  kampen for det daglige brød i et farlig farvann hjemsøkt av menneske-etende hai. '
+  kampen for det daglige brød i et farlig farvann hjemsøkt av menneske-etende hvithai. '
 image: "/assets/images/fiskere.jpg"
 image_caption: 'Foto Gunnar Christensen. Hver morgen stiger en skog av master og seil
   frem over horisonten utenfor Negombos kyststripe: Fiskerne kommer med dagens fangst
@@ -33,7 +33,8 @@ image_caption: 'Foto Gunnar Christensen. Hver morgen stiger en skog av master og
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 **Fiskerne deler broderlig**  
