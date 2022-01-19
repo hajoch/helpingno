@@ -16,7 +16,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 6
+weight: 5
+coauthor: ''
 
 ---
 **Digitalfoto: Ta sikkerhetskopi.**
