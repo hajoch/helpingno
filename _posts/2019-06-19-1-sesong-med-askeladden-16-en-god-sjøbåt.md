@@ -14,6 +14,8 @@ tags:
 - Yamaha påhenger
 - 16 fot
 - familiebåt
+- plastbåt
+- " åpen vindskjerm hard topp"
 title: 'Askeladden 16: God sjøbåt'
 excerpt: 'Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig
   god og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du
