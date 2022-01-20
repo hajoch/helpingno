@@ -10,6 +10,11 @@ tags:
 - lantidstest
 - bilseter
 - stasjonsvogn
+- tekniske løsninger
+- hva er for dårlig
+- hva funker bra
+- dårlige seter fra Italia
+- Tekniskeutforfdringer med Iphone
 title: Ford Focus stv. 2015. Langtids test.
 excerpt: Helping kjøpte ny Ford Focus stv. i 2015. Titanium med 125 hk 1 liters 3
   cyl. bensinmotor for langtidstest. Når markedet i Norge kan tilby ren biobensin
@@ -22,7 +27,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 8
+weight: 6
 coauthor: ''
 
 ---
