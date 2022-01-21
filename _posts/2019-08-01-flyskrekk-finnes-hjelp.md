@@ -19,7 +19,8 @@ author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 4
+weight: 5
+coauthor: ''
 
 ---
 Gjennom dette selvhjelpsprogrammet lærer man å mestre nervøsitet i forbindelse med flyging ved å lære teknikker for avslapning, samt å få en dypere forståelse for hvordan et fly er oppbygd og hva som skjer under en flytur.
