@@ -30,7 +30,7 @@ Høyere avgifter og over 20 kroner literen (den gamle olja som nå er ulovlig å
 
 Var det vanlige folks tur nå? Valgløgn som vanlig.
 
-Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye strømprisen, økt avgift på bio fyringsolje - under en kraftig inflasjon på over 5 % mm. 
+Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye strømpriser, økt avgift på bio fyringsolje - under en kraftig inflasjon på over 5 % mm. 
 
 Det er nå bare ved i egen skog som redder deg - for den som har tilgang på det.
 
