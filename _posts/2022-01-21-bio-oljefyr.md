@@ -7,6 +7,10 @@ tags:
 - husvarme
 - oljefyring bio
 - biodiesel
+- grønt skifte
+- avgifter
+- kveletak på norske markedet
+- dårlig politisk handverk
 title: Bio oljefyr?
 excerpt: |
   -Trodde du biofyring var bedre?
