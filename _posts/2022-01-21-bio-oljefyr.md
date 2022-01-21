@@ -24,9 +24,9 @@ publish_date: 2022-01-21 00:00:00 +0100
 weight: 8
 
 ---
-Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere oljefyringen og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til grønn oppvarming?
+Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til grønn oppvarming?
 
-Høyere avgifter og over 20 kroner literen (den gamle olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner. Og staten gjør ikke noe med avgiften på bio fyringsolje. 
+Høyere avgifter og over 20 kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner. Og regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. 
 
 Var det vanlige folks tur nå? Valgløgn som vanlig.
 
