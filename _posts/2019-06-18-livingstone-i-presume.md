@@ -27,7 +27,8 @@ image_caption: "Foto Gunnar Christensen. \nGambia-flodens sideelver i tett junge
 categories:
 - _category/reise.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 Fra den maktige Gambiafloden går jungelsafariene fra Tendaba Camp innover de eksotiske sideelvene til det mystiske landskapet i det indre av Gambia.
