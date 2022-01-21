@@ -24,16 +24,18 @@ publish_date: 2022-01-21 00:00:00 +0100
 weight: 8
 
 ---
-Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til grønn oppvarming?
+Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til denne grønne oppvarmingen?
 
-Høyere avgifter og over 20 kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner. Og regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. 
+Høyere avgifter og over 21 kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner er ca. kr. 1700,-.
+
+Men regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. Hvorfor?
 
 Var det vanlige folks tur nå? Valgløgn som vanlig.
 
 Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye strømpriser, økt avgift på bio fyringsolje - under en kraftig inflasjon på over 5 % mm.
 
-Pr. januar 2022 er det lønnsomt å fyre med bio-olje selv om denne koster betydelig mer enn fossilt. Så strøm er dyrest også når vi medregner kompensasjonsordningene som medregnes nå.  
+Pr. januar 2022 er det lønnsomt å fyre med bio-olje selv om denne koster betydelig mer enn fossilt. Så strøm er dyrest også når vi medregner kompensasjonsordningene som medregnes nå. Så har du oljefyr i huset - vurder å ta den i bruk igjen.
 
 Det er nå bare ved i egen skog som redder deg - for den som har tilgang på det.
 
-Det påståes å være markedet som mangler kapasitet til å produsere nok bio-olje. Avgiftene på dette rene produktet er øket og ikke senket som logikken burde tilsi.
+Det påståes å være markedet som mangler kapasitet til å produsere nok bio-olje? Avgiftene på dette rene produktet er øket og ikke senket som logikken burde tilsi.
