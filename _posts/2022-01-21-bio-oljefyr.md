@@ -30,7 +30,9 @@ Høyere avgifter og over 20 kroner literen (den gamle fossile olja som nå er ul
 
 Var det vanlige folks tur nå? Valgløgn som vanlig.
 
-Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye strømpriser, økt avgift på bio fyringsolje - under en kraftig inflasjon på over 5 % mm. 
+Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye strømpriser, økt avgift på bio fyringsolje - under en kraftig inflasjon på over 5 % mm.
+
+Pr. januar 2022 er det lønnsomt å fyre med bio-olje selv om denne koster betydelig mer enn fossilt. Så strøm er dyrest også når vi medregner kompensasjonsordningene som medregnes nå.  
 
 Det er nå bare ved i egen skog som redder deg - for den som har tilgang på det.
 
