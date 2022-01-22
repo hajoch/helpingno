@@ -25,7 +25,7 @@ image_caption: 'Foto: SJ'
 author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
-publish_date: 2022-01-21 00:00:00 +0100
+publish_date: 2022-01-22 00:00:00 +0100
 weight: 8
 
 ---
@@ -49,6 +49,6 @@ Noen har revet ut oljefyringen fra huset sitt for å satse på strøm. Det kan v
 
 Det er nå bare ved i egen skog som redder deg fra høye fyringsutgifter - for dem som har tilgang på det.
 
-Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Denne produksjonen vil øke og prisene på bio oljefyring vil dermed synke - korrigert av sesongvariasjonen.
+Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Denne produksjonen vil øke og prisene på bio oljefyring vil dermed synke - korrigert av sesongvariasjonen. OBS ikke kjøp bio-produkter som inneholder palmeolje.
 
  Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor?
