@@ -36,10 +36,14 @@ Regjeringen tar nå økonomisk kvelertak på den norske befolkningen med høye s
 
 Pr. januar 2022 er det lønnsomt å fyre med bio-olje selv om denne koster betydelig mer enn fossilt. Så strøm er dyrest også når vi medregner kompensasjonsordningene som medregnes nå. Så har du oljefyr i huset - vurder å ta den i bruk igjen.
 
-Hvordan tar du oljefyren i bruk igjen? Det kreves en liten ombygging. Det er brenneren som må bygges om eller skiftes. Jeg tror det er smart å skifte den. Vanligvis trenger du ikke rense oljetanken, men den må være tom før du bestiller ny bio fyringsolje. I praksis tømmer du olje-tanken ved å kjøre fyringsanlegget til det stopper av seg selv ved tom tank. Ny bio fyringsolje må fylles på tanken før du bestiller ombygging så reparatøren kan starte opp anlegget og kontrollere at alt fungerer som det skal. Vanligvis går dette greit, men om det ikke gjør det er det snakk om å rense filter o.l. altså ikke kostbare ting. Mange slike oljefyringsanlegg er i utgangspunktet en kostbar installasjon med vannbåren varme i radiatorer med lang levetid. 
+Hvordan tar du oljefyren i bruk igjen? Det kreves en liten ombygging. Det er brenneren som må bygges om eller skiftes. Jeg tror det er smart å skifte den. Vanligvis trenger du ikke rense oljetanken, men den må være tom før du bestiller ny bio fyringsolje. I praksis tømmer du olje-tanken ved å kjøre fyringsanlegget til det stopper av seg selv ved tom tank. Ny bio fyringsolje må fylles på tanken før du bestiller ombygging så reparatøren kan starte opp anlegget og kontrollere at alt fungerer som det skal. Vanligvis går dette greit, men om det ikke gjør det er det snakk om å rense filter o.l. altså ikke kostbare ting. Mange slike oljefyringsanlegg er i utgangspunktet en kostbar installasjon med vannbåren varme i radiatorer med lang levetid.
 
 Fyringsolja som ble brukt tidligere er identisk med bl.a. diesel til bil og tyngre kjøretøy, men heter fyringsolje straks det ble levert til fyring. Den biologiske fyringsolja er på samme måten drivstoff til din dieselmotor i kjelleren som driver fyringsanlegget. Dette gir en meget behagelig varme i huset.
 
+Noen har revet ut oljefyringen fra huset sitt for å satse på strøm. Det kan vise seg å være en tabbe nå.
+
 Det er nå bare ved i egen skog som redder deg fra høye fyringsutgifter - for dem som har tilgang på det.
 
-Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor?
+Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Denne produksjonen vil øke og prisene på bio oljefyring vil dermed synke - korrigert av sesongvariasjonen.
+
+ Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor?
