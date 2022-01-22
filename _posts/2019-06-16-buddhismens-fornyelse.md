@@ -49,7 +49,7 @@ image_caption: 'Foto fra stupa i Nepal. Buddhisme: Swoyambhu ligger like utenfor
 categories:
 - _category/religion.md
 publish_date: 
-weight: 5
+weight: 4
 coauthor: ''
 
 ---
