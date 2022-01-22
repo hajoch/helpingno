@@ -11,6 +11,11 @@ tags:
 - avgifter
 - kveletak på norske markedet
 - dårlig politisk handverk
+- bygge om gammel oljefyring
+- rimeligere fyring?
+- bio fyringsalternativ
+- gjør huset ditt grønnere med biofyring
+- ombyggingskostnader oljefyring
 title: Bio oljefyr?
 excerpt: |
   -Trodde du biofyring var bedre?
