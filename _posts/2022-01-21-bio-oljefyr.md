@@ -40,7 +40,7 @@ Hvordan tar du oljefyren i bruk igjen? Det kreves en liten ombygging. Det er bre
 
 Fyringsolja som ble brukt tidligere er identisk med bl.a. diesel til bil og tyngre kjøretøy, men heter fyringsolje straks det ble levert til fyring. Den biologiske fyringsolja er på samme måten drivstoff til din dieselmotor i kjelleren som driver fyringsanlegget. Dette gir en meget behagelig varme i huset.
 
-Noen har revet ut oljefyringen fra huset sitt for å satse på strøm. Det kan vise seg å være en tabbe nå.
+Noen har revet ut oljefyringen fra huset sitt for å satse på strøm. Det kan vise seg å være en tabbe nå. Generelt råd for boliger er å ha flere fyringsalternativer tilgjengelig.
 
 Det er nå bare ved i egen skog som redder deg fra høye fyringsutgifter - for dem som har tilgang på det.
 
