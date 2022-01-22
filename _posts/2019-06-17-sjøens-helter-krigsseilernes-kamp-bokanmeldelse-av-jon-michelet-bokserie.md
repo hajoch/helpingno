@@ -21,7 +21,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/boker.md
 publish_date: 
-weight: 7
+weight: 5
 coauthor: ''
 
 ---
