@@ -18,7 +18,7 @@ image_caption: Foto Gunnar Christensen. Motiv fra veteranbilmessa i Froland - i 
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 4
 coauthor: ''
 
 ---
@@ -28,10 +28,10 @@ coauthor: ''
 Sjekk kollisjonstester og sikkerhetsnivå på bilen du kjøper. Stadig flere bilkjøpere vedsetter kollisjons-sikkerhet både ved kjøp av ny og brukt bil. I dag kan du få biler i alle størrelser med 5 stjerner i Euro NCAPs sikkerhetstest.
 
 **2. Bilens farge:**  
-Bilens farge har betydning for sikkerheten og prisen på kaskoforsikringen. I England og flere andre land er røde og gule biler billigst å forsikre og de sorte og grå dyrest.  Dette systemet vil påvirke prisingen av forsikring fremover også i Norge.
+Bilens farge har betydning for sikkerheten og prisen på kaskoforsikringen. I England og flere andre land er røde og gule biler billigst å forsikre og de sorte og grå dyrest.  Dette systemet vil trolig påvirke prisingen av forsikring fremover også i Norge.
 
 **3**. **Eierskiftekontroll**.  
-Sjekke bilens tekniske tilstand på et uavhengig verksted og få en tilstandsrapport. Vær nøye med å sjekke rust og eventuelle kollisjonsskader for dette er dyrt å reparere og kan påvirke sikkerheten.
+Sjekke bilens tekniske tilstand på et uavhengig verksted og få en tilstandsrapport. Vær nøye med å sjekke rust og eventuelle kollisjonsskader for dette er dyrt å reparere og kan påvirke verdien og sikkerheten.
 
 En EU-kontroll har ikke alle opplysninger du trenger for å vite hva du kjøper. Sjekk også når bilen skal til EU-kontroll.
 
@@ -46,18 +46,18 @@ Heftelser betyr at selger kan ha lån på bilen, ikke har betalt årsavgiften el
 Slik sparer du penger når du kjøper bil: Sjekk om du har det rimeligste tilbud innen bank og forsikring.
 
 **5. Sjekk bilens historikk**  
-Undersøk tidligere eiere og deres forsikringsselskap: På Statens Vegvesens vognkortregister [http://www.vegvesen.no/](http://www.vegvesen.no/ "http://www.vegvesen.no/")[ ](http://www.vegvesen.no/)( tidligere "Bilsakkyndige" eller "Trafikkstasjon") får du ved å ringe tlf. 02030 opplyst tidligere og næværende eiere og deres forsikriksselskap i perioden de har eid bilen.
+Undersøk tidligere eiere og deres forsikringsselskap: På Statens Vegvesens vognkortregister [http://www.vegvesen.no/](http://www.vegvesen.no/ "http://www.vegvesen.no/")[ ](http://www.vegvesen.no/)( tidligere "Bilsakkyndige" eller "Trafikkstasjon") får du ved å ringe tlf. 02030 opplyst tidligere og nåværende eiere og deres forsikringsselskap i perioden de har eid bilen.
 
 Du kan da ringe både forsikrings-selskapene og tidligere eiere for å få opplysninger om tidligere skader på bilen og km-stand på ulike tidspunkt. Dette kan spare deg for overraskelser også når du en gang skal selge bilen videre.
 
 Kjøper du veteranbil eller importert bil så sjekk om bilen er ombygd og om denne ombyggingen er godkjent for bruk i Norge.
 
 **6. Sjekk km-telleren, serviceheftet og speedometerfeil**  
-Sjekk at bilen har serviceheftet - eller at dette er elektronisk lagret hos merkeforhandler. Serviceheftet er et viktig dokument som forteller deg hvor godt bilen er tatt vare på med hensyn på oljeskift, tilsyn og sikkerhetssjekk og om dette er gjort etter de intervaller som fabrikken anbefaler. Service er mer enn en EU-kontroll.
+Sjekk at bilen har serviceheftet - eller at dette er elektronisk lagret hos merkeforhandler. Serviceheftet er et viktig dokument som forteller deg hvor godt bilen er tatt vare på med hensyn på oljeskift, tilsyn og sikkerhetssjekk og om dette er gjort etter de intervaller som fabrikken anbefaler. Service kan være mer enn en EU-kontroll.
 
 Sjekk også om km-telleren er rett i henhold til serviceheftet og de opplysningen du har fått av tidligere eiere og deres forsikringsselskap. Mange biler på bruktmarkedet har jukset med kjørelengden særlig importbiler. Kjørelengde er en viktig faktor i vurderingen av verdien på bilen. Høyere kjørelengde betyr lavere pris. Ikke kjøp bilen om du er i tvil om kjørelengden.
 
-Sinker du trafikken når du holder fartsgrensen under prøvekjøring? Mange biler har feil på speedometeret også nye biler. Over 5 km/t feilvisning er ikke uvanlig. Et godt tips er å sjekke og justere speedometeret på et spesialverksted for dette før du kjøper bilen eller innen garantitiden. Er bilen så ny at feilen går inn under garantien så klag på denne feilen.
+Sinker du trafikken når du holder fartsgrensen under prøve-kjøring? Mange biler har feil på speedometeret også nye biler. Over 5 km/t feilvisning er ikke uvanlig. Et godt tips er å sjekke og justere speedometeret på et spesialverksted for dette før du kjøper bilen eller innen garantitiden. Er bilen så ny at feilen går inn under garantien så klag på denne feilen.
 
 **7.** Bruk en **kjøpekontrakt**.  
 Forbrukerrådet har standard kontrakter som har med det du trenger og gode råd.
