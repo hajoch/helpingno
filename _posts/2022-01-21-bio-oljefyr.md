@@ -33,7 +33,7 @@ Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller bio
 
 Høyere avgifter og over 22,- kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner er ca. kr. 1700,-.
 
-Men regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. Hvorfor?
+Men regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. Hvorfor? Avgiften burde fjernes for å lette trykket på strøm nå.
 
 Var det vanlige folks tur nå? Valgløgn som vanlig.
 
