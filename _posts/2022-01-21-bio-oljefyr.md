@@ -31,7 +31,7 @@ weight: 8
 ---
 Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til denne grønne oppvarmingen?
 
-Høyere avgifter og over 21 kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner er ca. kr. 1700,-.
+Høyere avgifter og over 22,- kroner literen (den gamle fossile olja som nå er ulovlig å selge kostet ca. kr. 9,-), omkostningen med montering av ny bio-brenner er ca. kr. 1700,-.
 
 Men regjeringen gjør ikke noe med avgiften på bio fyringsolje for å fremme et miljøvennlig alternativ. Hvorfor?
 
@@ -51,4 +51,4 @@ Det er nå bare ved i egen skog som redder deg fra høye fyringsutgifter - for d
 
 Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Denne produksjonen vil øke og prisene på bio oljefyring vil dermed synke - korrigert av sesongvariasjonen. OBS ikke kjøp bio-produkter som inneholder palmeolje.
 
- Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor?
+Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor?
