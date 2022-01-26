@@ -15,7 +15,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 1
+weight: 9
 
 ---
 Vi vet at vi mennesker påfører jorden ødeleggelser med store klimaproblemer som følge. Hvis jorden kunne snakke ville det ikke vært interessant å høre hennes mening? 
