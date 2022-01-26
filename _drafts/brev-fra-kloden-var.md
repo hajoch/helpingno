@@ -12,7 +12,8 @@ excerpt: Kjære mennesker - vil dere ta bedre vare på meg?
 image: "/assets/images/earthsmaller.jpg"
 image_caption: ''
 author: _authors/henning-j-grini.md
-categories: []
+categories:
+- _category/helse.md
 publish_date: 
 weight: 1
 
