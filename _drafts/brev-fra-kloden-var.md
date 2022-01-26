@@ -8,7 +8,7 @@ tags:
 - gaia
 - klima
 title: Brev fra kloden vår
-excerpt: ''
+excerpt: Kjære mennesker - vil dere ta bedre vare på meg?
 image: "/assets/images/earthsmaller.jpg"
 image_caption: ''
 author: _authors/henning-j-grini.md
