@@ -56,3 +56,5 @@ Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logik
 Skattebetalerne har subsidiert elbiler siden de kom på markedet. Alle nyproduserte biler har i produksjonsprosessen gitt ekstra forurensning som ikke kan konkurrere med bilene vi alt har bygd om til biobensin og diesel. Hvis alt går på strøm så vil en dag alt stoppe opp.... 
 
 Vi har da et sårbart samfunn. 
+
+Militæret rekvirerte nylig sivile privatbiler i januar 2022 - biler til bruk i krig. De ville bare ha bensin og dieselbiler. En tankevekker.
