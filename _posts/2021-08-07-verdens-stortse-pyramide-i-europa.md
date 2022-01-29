@@ -21,7 +21,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/reise.md
 publish_date: 2021-12-12 00:00:00 +0100
-weight: 8
+weight: 7
 
 ---
 Jeg kan ikke huske hvor seriøs vinklingen var, men har en vag følelse av en useriøs undertone. Siden ble det relativt stille rundt saken, i hvert fall i Norge. Etter å ha lett litt i arkiver på Internet fant jeg ut at dette ikke helt ble trodd i arkeologiske kretser og fikk et humbug stempel på seg.
