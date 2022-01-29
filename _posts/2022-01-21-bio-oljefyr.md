@@ -51,7 +51,7 @@ Det er nå bare ved i egen skog som redder deg fra høye fyringsutgifter - for d
 
 Det påståes å være markedet som mangler kapasitet til å produsere nok bio-fyringsolje? Denne produksjonen vil øke og prisene på bio oljefyring vil dermed synke - korrigert av sesongvariasjonen. OBS ikke kjøp bio-produkter som inneholder palmeolje.
 
-Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor er ikke avgiftene på rent biobrensel fjernet?
+Avgiftene på dette rene produktet er utrolig nok øket og ikke senket som logikken burde tilsi. Hvorfor er ikke miljø-avgiftene på rent biobrensel fjernet?
 
 Skattebetalerne har subsidiert elbiler siden de kom på markedet. Alle nyproduserte biler har i produksjonsprosessen gitt ekstra forurensning som ikke kan konkurrere med bilene vi alt har bygd om til biobensin og diesel. Hvis alt går på strøm så vil en dag alt stoppe opp.... 
 
