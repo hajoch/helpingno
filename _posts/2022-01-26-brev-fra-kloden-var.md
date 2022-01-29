@@ -7,6 +7,8 @@ tags:
 - joden
 - gaia
 - klima
+- grønnt synspunkt på kloden vår
+- hva sier kloden vår?
 title: Brev fra kloden vår
 excerpt: Kjære mennesker - vil dere ta bedre vare på meg?
 image: "/assets/images/earthsmaller.jpg"
