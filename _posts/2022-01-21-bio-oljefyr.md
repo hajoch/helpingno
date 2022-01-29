@@ -57,4 +57,8 @@ Skattebetalerne har subsidiert elbiler siden de kom på markedet. Alle nyproduse
 
 Vi har da et sårbart samfunn. 
 
-Militæret rekvirerte nylig sivile privatbiler i januar 2022 - biler til bruk i krig. De ville bare ha bensin og dieselbiler. En tankevekker.
+Militæret rekvirerte sivile privatbiler i januar 2022 - biler til bruk i krig. De ville bare ha bensin og dieselbiler. En tankevekker.
+
+En tanke i debatten om bærekraft. 
+
+En tankevekker om oljefyr som mange ikke kunne få kastet fort nok ut av huset for få år siden.
