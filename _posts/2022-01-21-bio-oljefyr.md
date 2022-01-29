@@ -26,7 +26,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 2022-01-22 00:00:00 +0100
-weight: 8
+weight: 9
 
 ---
 Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til denne grønne oppvarmingen?
