@@ -12,7 +12,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/boker.md
 publish_date: 2021-08-30 00:00:00 +0200
-weight: 2
+weight: 3
 
 ---
 En båt la til kai i en liten meksikansk landsby. En amerikansk turist skrøt til den meksikanske fiskeren hvor god kvaliteten på fisken var og spurte hvor lang tid det hadde tatt ham å fange dem.
