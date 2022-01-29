@@ -16,7 +16,7 @@ author: _authors/hallvard-j-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 2
+weight: 1
 
 ---
 **Flere biler ble prøvd bl.a. Saab 9.3, Golf og flere Toyota-modeller, men det var VW Passat Comfort 1997 modell med 1,6 liter på 100 hk som gikk av med seieren. Det var design og kjørekomfort som ga utslaget i tillegg til at prisen var riktig der og da for en 18-åring.**
