@@ -14,7 +14,7 @@ image_caption: ''
 author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
-publish_date: 
+publish_date: 2022-01-26 00:00:00 +0100
 weight: 9
 
 ---
