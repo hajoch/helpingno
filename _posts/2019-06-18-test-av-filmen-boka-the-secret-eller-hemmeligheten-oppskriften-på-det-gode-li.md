@@ -28,7 +28,7 @@ image_caption: ''
 categories:
 - _category/boker.md
 publish_date: 
-weight: 3
+weight: 6
 coauthor: ''
 
 ---
