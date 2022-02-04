@@ -14,6 +14,8 @@ tags:
 - langdistansereise
 - reise i Norge
 - bussnettverk i Norge
+- Sørlandsbussen
+- Miljøvennlig til Sørlandet?
 title: 'Bussduellen: Oslo-Sørlandet'
 excerpt: '"Underdog" skåret best, men nå har VY oppgradert med flotte, nye busser.
   Begge har for det meste grei orden på koronareglene.'
