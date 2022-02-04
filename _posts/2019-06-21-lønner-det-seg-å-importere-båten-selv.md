@@ -32,7 +32,7 @@ Båtkjøp i Sverige kan lønne seg. Flere har beregnet prisgevinst på egen impo
 
 Når du kjøper ny båt i Sverige får du refundert den svenske momsen, men må betale norsk moms og hk-avgift på den norske grensen.
 
-Her er linker til svenske nettsteder for nye og brukte båter:  
+Her er link til en av svenske nettsteder for nye og brukte båter:  
 [http://batnet.se](http://batnet.se "http://batnet.se")
 
 Husk at når du importerer ny båt fra områder med moms får du refundert momsen fra f.eks. Sverige eller Tyskland.
