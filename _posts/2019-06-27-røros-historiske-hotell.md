@@ -8,6 +8,8 @@ tags:
 - historisk hotell
 - Røros
 - bergstaden
+- turisttilbud
+- historisk bymiljø
 title: 'Røros historiske hotell '
 excerpt: 'Test: Meget bra hotell i landlige omgivelser med gangavstand til sentrale
   severdigheter i Røros. God service og rolig atmosfære med preg av høyfjellshotell.
@@ -20,6 +22,7 @@ categories:
 - _category/reise.md
 publish_date: 
 weight: 5
+coauthor: ''
 
 ---
 Mange hoteller har ulik rom standard innen samme resepsjon. Slik også her med et nybygg som har bedre standard enn den eldre del av hotellet. Man får følelsen av høyfjellshotell utifra arkitektur og innredning på den gamle delen. Et innendørs basseng hever inntrykket av standarden.
