@@ -26,7 +26,8 @@ image_caption: 'Foto Gunnar Christensen. '
 categories:
 - _category/helse.md
 publish_date: 
-weight: 7
+weight: 5
+coauthor: ''
 
 ---
 Husk å undersøke kvaliteten på det du spiser særlig med hensyn på salt, sukkerinnhold og fett. Slanking kan være så enkelt som å redusere inntaket av fett og av sukkerholdig mat og drikke. Undersøk hva matvarene du bruker inneholder: Hvilke matvarer spiser du oftest? Finnes et sunnere alternativ som du også liker?
