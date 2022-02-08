@@ -31,7 +31,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/helse.md
 publish_date: 
-weight: 3
+weight: 5
 coauthor: ''
 
 ---
