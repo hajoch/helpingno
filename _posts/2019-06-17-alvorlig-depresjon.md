@@ -30,7 +30,7 @@ image_caption: 'Foto: Gunnar Christensen'
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 6
+weight: 5
 coauthor: ''
 
 ---
