@@ -26,7 +26,7 @@ image_caption: 'Foto: Askeladden 16 -1 testsesong '
 categories:
 - _category/båt.md
 publish_date: 
-weight: 7
+weight: 8
 coauthor: ''
 
 ---
