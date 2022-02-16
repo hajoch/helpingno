@@ -13,9 +13,10 @@ tags:
 title: Morgendagens skole burde undervise i verdier
 excerpt: "Er det ikke forunderlig at skolen ikke underviser barna våre om de viktigste
   verdiene i\nlivet? Er det noe verden trenger nå så er det flere empatiske mennesker.
-  \nAv Henning Jon Grini, forfatter og initiativtaker til Gaiamessen"
-image: ''
-image_caption: ''
+  \n"
+image: "/assets/images/0-1.jpg"
+image_caption: Illustrasjonsbilde av Henning Jon Grini, forfatter og initiativtaker
+  til Gaiamessen
 author: _authors/henning-j-grini.md
 categories:
 - _category/religion.md
