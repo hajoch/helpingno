@@ -19,7 +19,7 @@ image_caption: Illustrasjonsbilde av Henning Jon Grini, forfatter og initiativta
   til Gaiamessen
 author: _authors/henning-j-grini.md
 categories:
-- _category/religion.md
+- _category/helse.md
 publish_date: 2022-02-16 00:00:00 +0100
 weight: 4
 
