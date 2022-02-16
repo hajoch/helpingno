@@ -74,98 +74,30 @@ Jeg vet ikke om det er noe som er viktigere enn å gi barna våre en så god sta
 
 **SKAPERUTDANNINGEN**
 
-Sitat:
+Sitat: Alle lærere bør først undervise i menneskelighet, og deretter i et fag.  
+\- Neale Donald Walsch  
+I boken Morgendagens Gud (Tomorrow's God) utgitt av Cappelen Damm skriver forfatteren Neale Donald Walsch en del om fremtidens skole under det han har kalt Skaperutdanningen. Ifølge ham vil utdanningen, når den nye spiritualiteten inntrer, sette søkelys på det å skape og ikke kopiere. Det vil dreie seg om å vise unge mennesker hvem de virkelig er. Det vil dreie seg om å åpne dem for skaperen de har i seg. Det vil dreie seg om å la dem se og tro på seg selv som kilden til opplevelsen av og herredømmet over sitt liv. Det vil dreie seg om å få dem til å vende tilbake til sin egen indre visdom, og å oppmuntre dem til å utforme sin egen innerste sannhet. Det vil dreie seg om å vise dem hvordan de skal gjøre det.
 
-Alle lærere bør først undervise i menneskelighet, og deretter i et fag.
+Videre sier forfatteren at det vil dreie seg om å vekke barnas sinn, ikke døyve det, befri barnas sinn, ikke legge det i lenker, åpne barnas sinn, ikke lukke det. Det er ni viktige budskap i undervisningen som den nye spiritualiteten vil gi barna og som utgjør kjernepensumet de første årene av «skaperutdanning»:
 
-\- Neale Donald Walsch
-
-I boken Morgendagens Gud (Tomorrow's God) utgitt av CappelenDamm skriver forfatteren
-
-Neale Donald Walsch en del om fremtidens skole under det han har kalt Skaperutdanningen.
-
-Ifølge ham vil utdanningen, når den nye spiritualiteten inntrer, sette søkelys på det å skape
-
-og ikke kopiere. Det vil dreie seg om å vise unge mennesker hvem de virkelig er. Det vil dreie
-
-seg om å åpne dem for skaperen de har i seg. Det vil dreie seg om å la dem se og tro på seg
-
-selv som kilden til opplevelsen av og herredømmet over sitt liv. Det vil dreie seg om å få dem
-
-til å vende tilbake til sin egen indre visdom, og å oppmuntre dem til å utforme sin egen
-
-innerste sannhet. Det vil dreie seg om å vise dem hvordan de skal gjøre det.
-
-Videre sier forfatteren at det vil dreie seg om å vekke barnas sinn, ikke døyve det, befri
-
-barnas sinn, ikke legge det i lenker, åpne barnas sinn, ikke lukke det.
-
-Det er ni viktige budskap i undervisningen som den nye spiritualiteten vil gi barna og som
-
-utgjør kjernepensumet de første årene av «skaperutdanning»:
-
-1\. Du er ett med alle og alt i universet – innbefattet Gud. Alle ting er en del av ett
-
-livssystem.
+1\. Du er ett med alle og alt i universet – innbefattet Gud. Alle ting er en del av ett livssystem.
 
 2\. Siden du er ett med Gud, har du makt til å skape det du ønsker å oppleve i livet.
 
 3\. Du skaper ved hjelp av det du tenker, sier og gjør.
 
-4\. Det er ikke mulig å gjøre feil i skapelsesprosessen, og fiasko er en illusjon. Alt du
+4\. Det er ikke mulig å gjøre feil i skapelsesprosessen, og fiasko er en illusjon. Alt du skaper, er perfekt akkurat som det er – innbefattet du selv.
 
-skaper, er perfekt akkurat som det er – innbefattet du selv.
+5\. Når du skaper, tjener du formålet med livet ditt, for det er ved å skape du vokser og utvikler deg, og det er dette du og alle levende vesener er på jorden for å gjøre.
 
-5\. Når du skaper, tjener du formålet med livet ditt, for det er ved å skape du vokser og
+6\. Livet selv er din beste lærer, og det har innebygde konsekvenser, men aldri avstraffelser. Straff er ikke en del av Guds plan, og har ingen plass i Guds rike. Det har alltid vært meningen at det skal være lett å lære – læring er faktisk prosessen med å huske det sjelen din alltid har visst. Denne formen for «læring» vil bli lystbetont når du bruker den erfaringen du nå har, til å huske så mye du kan om livet. Da vil du huske det du må huske, når du trenger å huske det, for å få livet til å fungere i fremtiden.
 
-utvikler deg, og det er dette du og alle levende vesener er på jorden for å gjøre.
+7\. Prøv å aldri skade en annen person, ting eller et annet sted på noen måte, prøv bare å hjelpe andre og elske dem så godt du kan, særlig når de har gjort en feil eller noe galt. Hvis du kan gjøre dette, vil du gjøre omtrent alle du kjenner til dine venner, og når du trenger en, vil du aldri mangle en.
 
-6\. Livet selv er din beste lærer, og det har innebygde konsekvenser, men aldri
+8\. Det finnes nok til alle. Det skal veldig lite til for å være lykkelig, og den raskeste måten å skape lykke for deg selv på er å skape lykke for en annen.
 
-avstraffelser. Straff er ikke en del av Guds plan, og har ingen plass i Guds rike. Det har
-
-alltid vært meningen at det skal være lett å lære – læring er faktisk prosessen med å
-
-huske det sjelen din alltid har visst. Denne formen for «læring» vil bli lystbetont når
-
-du bruker den erfaringen du nå har, til å huske så mye du kan om livet. Da vil du
-
-huske det du må huske, når du trenger å huske det, for å få livet til å fungere i
-
-fremtiden.
-
-7\. Prøv å aldri skade en annen person, ting eller et annet sted på noen måte, prøv bare
-
-å hjelpe andre og elske dem så godt du kan, særlig når de har gjort en feil eller noe
-
-galt. Hvis du kan gjøre dette, vil du gjøre omtrent alle du kjenner til dine venner, og
-
-når du trenger en, vil du aldri mangle en.
-
-8\. Det finnes nok til alle. Det skal veldig lite til for å være lykkelig, og den raskeste
-
-måten å skape lykke for deg selv på er å skape lykke for en annen.
-
-9\. Din aller beste venn er livet selv, siden det aldri tar slutt. Når den delen av livet som
-
-du tilbringer på jorden er over, vil det ikke komme noen «dommedag», ingen
-
-fordømmelse og ingen straff, men bare en anledning for deg til å gjenoppleve alle
-
-tanker, ord og handlinger i ditt liv og avgjøre om du, når du går videre til nye eventyr,
-
-ønsker å velge annerledes når du står overfor lignende omstendigheter. Valg er den
-
-prosessen du utvikler deg gjennom, og den prosessen som til syvende og sist viser
-
-deg hvem du virkelig er.
+9\. Din aller beste venn er livet selv, siden det aldri tar slutt. Når den delen av livet som du tilbringer på jorden er over, vil det ikke komme noen «dommedag», ingen fordømmelse og ingen straff, men bare en anledning for deg til å gjenoppleve alle tanker, ord og    handlinger i ditt liv og avgjøre om du, når du går videre til nye eventyr, ønsker å velge annerledes når du står overfor lignende omstendigheter. Valg er den prosessen du utvikler deg gjennom, og den prosessen som til syvende og sist viser deg hvem du virkelig er.
 
 Sitat:
 
-De gammeldagse skolene vil bli erstattet av «læringssamfunn» der elevene aldri mer vil bli
-
-delt inn etter alder eller kjønn, men danne naturlige interessegrupper, uavhengig av alder,
-
-kjønn, rase, kultur eller bakgrunn.
-
-\- Neale Donald Walsch
+De gammeldagse skolene vil bli erstattet av «læringssamfunn» der elevene aldri mer vil bli delt inn etter alder eller kjønn, men danne naturlige interessegrupper, uavhengig av alder, kjønn, rase, kultur eller bakgrunn. - Neale Donald Walsch
