@@ -21,7 +21,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
 publish_date: 2022-02-16 00:00:00 +0100
-weight: 4
+weight: 6
 
 ---
 Verden er full av menneskeskapte problemer og konflikter. I skrivende stund har verden nettopp vært på randen av storkrig og det her i Europa til og med. Heldigvis ser det nå ut for å roe seg mellom Russland, Ukraina og Vesten.
