@@ -6,6 +6,8 @@ coauthor: []
 tags:
 - film
 - kvalitetsfilmer
+- beste filmer
+- kjente filmer
 title: Godfilmen
 excerpt: |-
   - En god film beriker deg med innsikt, økt kunnskap eller hjelper deg på en eller annen måte.
