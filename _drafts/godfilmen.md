@@ -10,7 +10,7 @@ title: Godfilmen
 excerpt: |-
   - En god film beriker deg med innsikt, økt kunnskap eller hjelper deg på en eller annen måte.
   - En god film er en film du vil anbefale til andre.
-image: ''
+image: "/assets/images/abe.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
 categories: []
