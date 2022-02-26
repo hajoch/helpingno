@@ -8,7 +8,7 @@ tags:
 - kvalitetsfilmer
 - beste filmer
 - kjente filmer
-title: Godfilmen
+title: Filmtips
 excerpt: |-
   - En god film beriker deg med innsikt, økt kunnskap eller hjelper deg på en eller annen måte.
   - En god film er en film du vil anbefale til andre.
@@ -16,8 +16,8 @@ image: "/assets/images/abe.jpg"
 image_caption: Illustrasjonsfoto Anne Bakke
 author: _authors/gunnar-christensen.md
 categories: []
-publish_date: 2022-02-17 00:00:00 +0100
-weight: 8
+publish_date: 
+weight: 5
 
 ---
 Meryl Streep: **"Jernkvinnen"** Aldersgrense 11 år
