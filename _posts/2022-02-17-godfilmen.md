@@ -5,9 +5,9 @@ crop_image: true
 coauthor: []
 tags:
 - film
-- kvalitetsfilmer
 - beste filmer
 - kjente filmer
+- kvalitetsfilmer
 title: Filmtips
 excerpt: |-
   - En god film beriker deg med innsikt, økt kunnskap eller hjelper deg på en eller annen måte.
