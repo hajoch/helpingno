@@ -27,7 +27,7 @@ image_caption: 'Foto: Gunnar Christensen x) '
 categories:
 - _category/reise.md
 publish_date: 
-weight: 4
+weight: 7
 coauthor: ''
 
 ---
