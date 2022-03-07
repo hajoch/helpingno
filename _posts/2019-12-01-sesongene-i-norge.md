@@ -18,7 +18,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 3
+weight: 5
+coauthor: ''
 
 ---
 Naturen er forskjellig avhengig av hvor du er på planeten vår. Vi bringer bilder fra den norske naturen. Hver måned skildres naturen i bilder så du kan se hvordan naturen skifter fra sesong til sesong. Å ta vare på vår vakre natur her og nå er å ta vare på oss selv nå - og i fremtiden. Dette er vår eneste mulighet til å overleve på denne kloden - den eneste kloden vi har.
