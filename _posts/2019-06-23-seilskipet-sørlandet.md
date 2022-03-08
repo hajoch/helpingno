@@ -19,7 +19,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/båt.md
 publish_date: 
-weight: 1
+weight: 5
+coauthor: ''
 
 ---
 Sørlandet er tremastet fullrigger på 577 bruttotonn, 64 m lang, 9 m bred og største mastehøyde 34 m.
