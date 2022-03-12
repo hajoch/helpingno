@@ -24,7 +24,7 @@ image_caption: 'Foto Christoffer J. Christensen: Når du velger utdanning og yrk
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 5
+weight: 3
 coauthor: ''
 
 ---
