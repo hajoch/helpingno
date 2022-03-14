@@ -12,4 +12,4 @@ image: "/assets/images/kari.jpg"
 
 ![](/assets/images/karidvd2.jpg)
 
-_Bilde: Henning Jon Grini i forlaget Ildsjelens intervju med Kari Rose Nordheim om hennes nær-døden-opplevelse._
+_Bilde: Henning Jon Grini i forlaget Ildsjelen i intervju med Kari Rose Nordheim om hennes nær-døden-opplevelse._
