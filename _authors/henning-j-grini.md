@@ -33,7 +33,7 @@ og i[ www.gaiainnovations.org](https://www.gaiainnovations.org/)
 
 **Forfatter av bøkene:**  
 "Towards a brighter future for you, mankind and Mother Earth".  
-Utgitt engelsk versjon i 2017. ( Utgitt på norsk i 2016.)
+Utgitt engelsk versjon i 2017. (Utgitt på norsk i 2016.)
 
 "Vår nære fremtid" Utgitt 2019
 
