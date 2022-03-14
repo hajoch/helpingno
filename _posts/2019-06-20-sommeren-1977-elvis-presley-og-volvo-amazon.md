@@ -26,7 +26,7 @@ image_caption: Foto Volvo. (Bildet er ærlig og redelig stjålet fra Volvos nybi
 categories:
 - _category/bil.md
 publish_date: 
-weight: 6
+weight: 5
 coauthor: ''
 
 ---
