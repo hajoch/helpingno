@@ -9,7 +9,7 @@ Litteraturkritikk Morgenavisen 1982 og senere i **helping.no** av boka:
 
 Født 1918 - død 1999
 
-Diverse stillinger innen norsk presse, NRK-korrespondent, forfatter
+Diverse stillinger innen norsk presse, NRK- utenrikskorrespondent bl.a. i Moskva, forfatter av et stort antall bøker.
 
 ##### Bibliografi forfatter:
 
