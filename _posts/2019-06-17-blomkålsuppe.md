@@ -18,7 +18,7 @@ image_caption: Foto GC
 categories:
 - _category/helse.md
 publish_date: 
-weight: 3
+weight: 4
 coauthor: ''
 
 ---
