@@ -19,7 +19,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 3
+weight: 5
+coauthor: ''
 
 ---
 **Elisabeth Kübler-Ross: "Døden er livsviktig**  
