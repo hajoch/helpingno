@@ -11,7 +11,7 @@ tags:
 title: Lenny Lemen rømmer
 excerpt: Barnefortelling for de minste
 image: "/assets/images/lenny.jpg"
-image_caption: Illustrasjoner Berit Anfinsen, forfatter Knut Frognes
+image_caption: Illustrasjoner Berit Anfinsen
 author: _authors/knut-frognes.md
 categories:
 - _category/boker.md
