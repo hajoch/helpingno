@@ -23,7 +23,7 @@ image_caption: Foto Gunnar Christensen motiv fra Skagen, Danmark
 categories:
 - _category/reise.md
 publish_date: 
-weight: 6
+weight: 7
 coauthor: ''
 
 ---
