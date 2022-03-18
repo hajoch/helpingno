@@ -1,19 +1,23 @@
 ---
 layout: post
-date: 2020-04-30 13:47:43 +0200
+date: 2020-04-30T13:47:43.000+02:00
 crop_image: true
 tags:
 - 'Barnebok '
 - barn
+- tegninger
+- illustrert
+- fortelling for de minste barna
 title: Lenny Lemen rømmer
 excerpt: Barnefortelling for de minste
 image: "/assets/images/lenny.jpg"
 image_caption: Illustrasjoner Berit Anfinsen, forfatter Knut Frognes
-author: ''
+author: _authors/knut-frognes.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 1
+weight: 2
+coauthor: ''
 
 ---
 Lenny Lemen er sur. Han er bitte liten og har ligget under en svær, tung bamse i en hel uke her på Petters værelse. Petter eier både Lenny og bamsen, men han snakker alltid mest med bamsen. Har Petter glemt Lenny?  
