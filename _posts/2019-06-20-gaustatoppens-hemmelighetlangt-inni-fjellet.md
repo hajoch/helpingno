@@ -32,7 +32,7 @@ image_caption: Der står kabelbanen som skal ta meg 1040 meter oppover inni fjel
 categories:
 - _category/reise.md
 publish_date: 
-weight: 6
+weight: 8
 coauthor: ''
 
 ---
