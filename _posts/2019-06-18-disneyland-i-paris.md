@@ -13,6 +13,13 @@ tags:
 - bilreise
 - familietur
 - høstferie
+- Langbein
+- Mikke Mus
+- Donald Duck
+- Snipp og Snapp
+- Onkel Skrue
+- fornøyelsespark
+- show
 title: Disneyland i Paris
 excerpt: 'Besøk Disneyland og Paris i barnas høstferie og unngå langdryge, uendelige
   køer på silsvette sommerdager. Unngå rådyre Disneyland-hoteller og flyreiser: Ta
