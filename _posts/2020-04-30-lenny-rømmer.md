@@ -16,8 +16,8 @@ author: _authors/knut-frognes.md
 categories:
 - _category/boker.md
 publish_date: 
-weight: 2
-coauthor: ''
+weight: 5
+coauthor: _authors/berit-anfinsen.md
 
 ---
 Lenny Lemen er sur. Han er bitte liten og har ligget under en svær, tung bamse i en hel uke her på Petters værelse. Petter eier både Lenny og bamsen, men han snakker alltid mest med bamsen. Har Petter glemt Lenny?  
