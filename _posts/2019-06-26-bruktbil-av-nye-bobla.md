@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 2
 coauthor: _authors/christoffer-jore-christensen.md
 
 ---
