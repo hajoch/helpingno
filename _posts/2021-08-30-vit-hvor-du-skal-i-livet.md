@@ -4,7 +4,7 @@ date: 2021-08-30 14:55:10 +0200
 crop_image: true
 coauthor: []
 tags: []
-title: Vit hvor du skal i livet
+title: Hvor du skal i livet?
 excerpt: ''
 image: "/assets/images/dkb7.jpg"
 image_caption: 'Illustrasjon: Gunnar Christensen'
@@ -12,7 +12,7 @@ author: _authors/henning-j-grini.md
 categories:
 - _category/boker.md
 publish_date: 2021-08-30 00:00:00 +0200
-weight: 4
+weight: 5
 
 ---
 En båt la til kai i en liten meksikansk landsby. En amerikansk turist skrøt til den meksikanske fiskeren hvor god kvaliteten på fisken var og spurte hvor lang tid det hadde tatt ham å fange dem.
