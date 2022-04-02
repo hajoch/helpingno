@@ -46,7 +46,7 @@ Lektor, forfatter og journalist
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Redaktør, Teknisk redaktør, styrenestleder  
 Master i Informasjonsteknologi og -tjenester ved NTNU i Trondheim  
-Leder, Senior analytiker
+Leder, Senior analytiker, Associate manager.
 
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
