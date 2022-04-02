@@ -103,14 +103,14 @@ Hyl og skrik ljomer i gaten. Jeg snur meg tidsnok til å se en bil i stor fart m
 \- No good driver!
 
 **Barnebyen**  
-SOS-barnebyen er uvanlig velstelt og trivelig. Liksom en liten velorganisert oase i landskapet med hvite murhus. Denne internasjonale organisasjonen med sveitsisk opprinnelse er vel etablert i Gambia. Hvert lite hus har to leiligheter med ren vannforsyning og enkle kokemuligheter. Fra hver leilighet smiler en matmor med livlige ungeflokker omkring seg. Små gyllenbrune føtter tripper nysgjerrig mot besøkende. Foreldreløse barn i alder fra babyer til tenåringer får her det best mulige utgangspunkt i lek og skole. Mange turister besøker barnebyen og fjerna-adopterer ett barn eller flere.
+SOS-barnebyen er uvanlig velstelt og trivelig. Liksom en liten velorganisert oase i landskapet med hvite murhus. Denne internasjonale organisasjonen med sveitsisk opprinnelse er vel etablert i Gambia. Hvert lite hus har to leiligheter med ren vannforsyning og enkle kokemuligheter. Fra hver leilighet smiler en matmor med livlige ungeflokker omkring seg. Små gyllenbrune føtter tripper nysgjerrig mot besøkende. Foreldreløse barn i alder fra babyer til tenåringer får her det best mulige utgangspunkt i lek og skole. Mange turister besøker barnebyen og fjern-adopterer ett barn eller flere.
 
 \- En fin og direkte form for u-hjelp, bekrefter en fornøyd norsk adoptivfar og peker smilende ut "sitt" barn i flokken, før han forsvinner inn i ei drosje tilbake til hotellet.
 
 **Utakknemlighet**  
 Min far hadde i årevis et hjelpeprosjekt i Gambia hvor han ferierte. Han hadde stor glede av å hjelpe der han kunne. Her hadde han valgt å hjelpe et SOS-barneby-barn og en fattig taxisjåfør kalt Sambo i landsbyen nær hotellet, en liten puslete og forsiktig kar uten næringsvett - for øvrig den eneste taxisjåføren han torde sitte på med der. Hver gang han besøkte Gambia hadde han med ekstra kofferter med klær til barnebyen og til sjåføren og hans familie. Sjåføren hadde to koner og et stort antall barn etter muslimsk tradisjon. Den fattige familien ble plutselig dobbelt så stor da Sambos bror døde: Etter Gambisk skikk måtte Sambo ta til seg brorens enke og alle barna hans. Det er ingen tvil om at min fars hjelp var avgjørende for at familien overlevde. Da taxien etter en del år ikke kunne brukes lengre fikk Sambo penger av min far til kjøp av en bedre bruktbil. Dette ble totalt en meget stor gave med årene. Min far var lykkelig over å kunne se resultater av hjelpearbeidet sitt hver gang han besøkte Gambia på ferie..
 
-Flere år senere ble jeg ringt opp av ei ung, radikalisert, aggressiv afrikansk kvinne som ga seg ut for å representere familien til Sambo: En person som åpenbart ikke kjente til de faktiske forholdene og hvor mye min far hadde hjulpet familien. Jeg ble utskjelt på det groveste.  
+Flere år senere ble jeg ringt opp av ei ung, radikalisert, aggressiv afrikansk kvinne som ga seg ut for å representere familien til Sambo: En person som åpenbart ikke kjente til de faktiske forholdene og hvor mye min far hadde hjulpet familien. Jeg ble utskjelt på det groveste. Dette fordi jeg hadde skrevet om Gambia og Sambo. Artikkelen du nettopp leste.  
 Jeg er glad min far ikke fikk oppleve denne grove utakknemligheten.
 
 ###### Les alltid UDs oppdaterte reiseråd før du reiser:
