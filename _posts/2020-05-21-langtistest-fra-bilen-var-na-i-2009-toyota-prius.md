@@ -90,7 +90,7 @@ Grini tjente i 2009 på å kjøpe piggdekk med aluminiumsfelg av annen forhandle
 **Utvist fra Toyotaforhandler i Arendal  
 fordi innbyttebilen var kjøpt hos forhandler i Grimstad.**
 
-Etter prøve kjøring av Rav 4 hos merkeforhandleren i Arendal, AS Bil i 2015, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte den lubne bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad (dette var før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
+Etter prøve kjøring av ny Rav 4 hos merkeforhandleren i Arendal, AS Bil i 2015, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte den lubne bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad (dette var før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
 
 \- Forsvinn! Der er døren. Kom aldri hit igjen.
 
