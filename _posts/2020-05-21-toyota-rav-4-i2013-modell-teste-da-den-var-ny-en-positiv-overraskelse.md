@@ -9,7 +9,7 @@ tags:
 - Toyota
 - 4 x 4
 - tectylbehandlet som ny
-title: Toyota RAV 4 - 2013, men det ble Ford i stedet.
+title: Toyota RAV 4 - 2013, men det ble ny Ford i stedet.
 excerpt: 'Toyotas RAV 4 er en positiv overraskelse. Kjøreopplevelsen er betydelig
   bedret og størrelsen økt i forhold til eldre modeller. Utslaget kom raskt på salgs-statistikken:
   Er ny bestselger er blitt til på bekostning av Toyotas Avensis som nå taper salg.
@@ -83,9 +83,9 @@ Best poeng er 5 sol-tegn:
 **Utvist fra Toyotaforhandler i Arendal  
 fordi innbyttebilen var kjøpt hos forhandler i Grimstad.**
 
-Etter prøve kjøring av ny Rav 4 hos merkeforhandleren i Arendal, AS Bil for en del år tilbake, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad (noen år før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
+Etter prøve kjøring av Rav 4 hos merkeforhandleren i Arendal, AS Bil i 2015, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte den lubne bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad flere år tidligere (dette var før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
 
 \- Forsvinn! Der er døren. Kom aldri hit igjen.
 
 Da gikk turen direkte til Ford i Arendal, Arendal Auto AS hvor vi byttet inn bruktbilen og kjøpte en ny Ford. Heretter kjøper vi aldri en Toyota.  
-GC
+Gunnar Christensen
