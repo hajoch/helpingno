@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 1
+weight: 3
 coauthor: _authors/henning-j-grini.md
 
 ---
@@ -86,3 +86,13 @@ En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkj�
 
 **Piggdekktilbud**  
 Grini tjente i 2009 på å kjøpe piggdekk med aluminiumsfelg av annen forhandler. Merkeforhandlere har vanligvis dårligst tilbud på vinterdekk. Pris hos merkeforhandler var da kr. 11.000,-. Dekkforhandleren leverte dekkene på døren for kr. 5.500,-. Piggdekkene han kjøpte har samme kvalitet/merke som merkeforhandlers tilbud. Nokia Hakkapalita har vist seg å være en av de beste piggdekkene.
+
+**Utvist fra Toyotaforhandler i Arendal  
+fordi innbyttebilen var kjøpt hos forhandler i Grimstad.**
+
+Etter prøve kjøring av Rav 4 hos merkeforhandleren i Arendal, AS Bil i 2015, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte den lubne bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad (dette var før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
+
+\- Forsvinn! Der er døren. Kom aldri hit igjen.
+
+Da gikk turen direkte til Ford i Arendal, Arendal Auto AS hvor vi byttet inn bruktbilen og kjøpte en ny Ford. Heretter kjøper vi aldri en Toyota.  
+Gunnar Christensen
