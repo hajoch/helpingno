@@ -17,7 +17,7 @@ image_caption: 'Foto: Tactyl, Arendal'
 categories:
 - _category/bil.md
 publish_date: 
-weight: 5
+weight: 6
 coauthor: ''
 
 ---
