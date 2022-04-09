@@ -34,7 +34,7 @@ image_caption: "- Jeg elsker hemmeligheter. Foto: Bjørn Wad"
 categories:
 - _category/mental-helse.md
 publish_date: 
-weight: 1
+weight: 2
 coauthor: ''
 
 ---
