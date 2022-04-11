@@ -25,7 +25,7 @@ author: _authors/jens-christian-jore-christensen.md
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 6
+weight: 7
 coauthor: _authors/gunnar-christensen.md
 
 ---
