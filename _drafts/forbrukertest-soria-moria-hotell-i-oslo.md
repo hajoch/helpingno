@@ -6,10 +6,11 @@ coauthor: []
 tags:
 - Hotell i Oslo
 - reiseliv
-title: 'Forbrukertest: Soria Moria hotell i Oslo'
-excerpt: Navnet indikerer noe eventyrlig. Eventyrlig er beliggenheten i en fin uberørt
-  natur med utsikt over skog og fjell i rolige, vakre omgivelser som om det skulle
-  være et høyfjellshotell. Likevel er Oslo sentrum bare en trikketur unna.
+title: Soria Moria hotell i Oslo
+excerpt: 'Forbrukertest: Navnet indikerer noe eventyrlig. Eventyrlig er beliggenheten
+  i en fin uberørt natur med utsikt over skog og fjell i rolige, vakre omgivelser
+  som om det skulle være et høyfjellshotell. Likevel er Oslo sentrum bare en trikketur
+  unna.'
 image: "/assets/images/soriam2.jpg"
 image_caption: Soria Moria Hotell, Oslo. Foto Gunnar Christensen
 author: _authors/gunnar-christensen.md
