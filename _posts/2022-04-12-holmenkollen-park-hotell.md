@@ -7,8 +7,9 @@ tags:
 - Hotell
 - Oslo
 - overnatting
+- Holmenkollen
 title: Holmenkollen Park hotell
-excerpt: Prisjuks og dårlig ekstraseng
+excerpt: 'Forbrukertest: Prisjuks og dårlig ekstraseng, men fin utsikt.'
 image: "/assets/images/holmenkoll.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
