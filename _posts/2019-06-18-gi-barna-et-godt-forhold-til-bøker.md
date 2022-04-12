@@ -19,7 +19,7 @@ categories:
 - _category/boker.md
 publish_date: 
 weight: 5
-coauthor: ''
+coauthor: _authors/anne-bakke.md
 
 ---
 ![](/assets/images/gutt.jpg)
