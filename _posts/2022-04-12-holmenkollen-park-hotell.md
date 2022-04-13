@@ -9,7 +9,7 @@ tags:
 - overnatting
 - Holmenkollen
 title: Holmenkollen Park hotell
-excerpt: 'Forbrukertest: Prisjuks og dårlig ekstraseng, men fin utsikt.'
+excerpt: 'Forbrukertest: Prisjuks og dårlig ekstraseng, men god mat og fin utsikt.'
 image: "/assets/images/holmenkoll.jpg"
 image_caption: ''
 author: _authors/gunnar-christensen.md
