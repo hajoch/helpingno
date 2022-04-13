@@ -19,7 +19,7 @@ excerpt: Besøker du utviklingsland kan det være en ide å bli kjente med en fa
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
   måte - med hensyn på å hjelpe dem økonomisk? Men ikke vær naiv.
 image: "/assets/images/barnemunker-1.jpg"
-image_caption: ''
+image_caption: 'Illustrasjonsfoto: Gunnar Christensen'
 categories:
 - _category/hjelpearbeid.md
 publish_date: 
