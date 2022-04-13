@@ -18,7 +18,7 @@ title: Humanitær hjelp til barn er et viktig og avgjørende fredsarbeid
 excerpt: Besøker du utviklingsland kan det være en ide å bli kjente med en familie
   eller enkeltpersoner som trenger bistand til skole for barna eller støtte på annen
   måte - med hensyn på å hjelpe dem økonomisk? Men ikke vær naiv.
-image: "/assets/images/the_sharing_economy.jpg"
+image: "/assets/images/barnemunker-1.jpg"
 image_caption: ''
 categories:
 - _category/hjelpearbeid.md
