@@ -9,7 +9,8 @@ tags:
 - hurtigruten
 - turistattraksjon
 title: Dronning med turisttekke på verdens vakreste sjøreise
-excerpt: ''
+excerpt: " Utenlandske turister står i kø for å få rundreisen Bergen - Kirkenes -
+  Bergen. Billettene bestilles ofte ett år i forveien."
 image: "/assets/images/hurtigruten-trollfj.jpg"
 image_caption: Hurtigruta (arkivfoto)
 author: _authors/gunnar-christensen.md
@@ -19,7 +20,7 @@ publish_date:
 weight: 5
 
 ---
-Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i de åtte nordligste fylkene er Hurtigruten en like naturlig del av kysten som Lofotveggen og Hestmannen. Utenlandske turister står i kø for å få rundreisen Bergen - Kirkenes - Bergen. Billettene bestilles ofte ett år i forveien.
+Hurtigruten er norskekystens ukronede dronning. For kystbefolkningen i de åtte nordligste fylkene er Hurtigruten en like naturlig del av kysten som Lofotveggen og Hestmannen.
 
 Hele året seiler et skip daglig nordover og sørover fra hvert anløp langs den 2000 km lange kyststripen. Trolig verdens vakreste naturlandskap i fint vær. Dyktige sjøfolk fører skipene innenskjærs - en av verdens vanskeligste skipsleier særlig i hardt vintervær.
 
