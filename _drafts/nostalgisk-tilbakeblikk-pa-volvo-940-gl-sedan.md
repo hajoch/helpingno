@@ -6,7 +6,9 @@ coauthor: []
 tags:
 - gamle biler
 - Volvo 940
-title: Nostalgisk tilbakeblikk på Volvo 940 GL sedan
+- sedan
+- hodepine for Volvo
+title: " Volvo 940 GL sedan"
 excerpt: "- Vi har tapt mange kunder på Volvo 940 innrømte Volvo-selgeren da jeg ikke
   ville skifte ut denne bilen med en nyere Volvo i 1995."
 image: "/assets/images/volvo940.jpg"
@@ -20,7 +22,7 @@ weight: 4
 ---
 2 år kjørte jeg Volvo 940 GL sedan 131 hk 2.3 liter modell 1991. Da jeg kjøpe Volvo 940 trodde jeg fremdeles at de "store" Volvoene skrudd sammen i Sverige var til å stole på. De hadde tilsynelatende fremdeles kvalitetene og bedre kollisjonssikkerhet en de fleste biler den gang: Deilig å sitte i er den, gode å kjøre - men ikke på glatta med bakhjulsdrift - det var kjent på Volvo den gang.
 
-Volvo 940 er egentlig Volvo 740 med en facelift på sedanen: Bakstussen ble modernisert. Altå er Volvo 940 en konstrukjsonsom som må betraktes som veteran siden Volvo 740 kom først på markedet i 1984.
+Volvo 940 er egentlig Volvo 740 med en face lift på sedanen: Bakstussen ble modernisert. Alså er Volvo 940 en konstruksjon som må betraktes som veteran siden Volvo 740 kom først på markedet i 1984.
 
 Da denne Volvo 940 ble kjøpt brukt i 1994 hadde den gått 51.000 km. Kjørelengden var garantert, serviceheftet med alle servicer lå ved og bilen framsto som pent brukt av en middelaldrende tidligere eier. Alt lå til rette for et bra bruktbilkjøp, trodde jeg.
 
