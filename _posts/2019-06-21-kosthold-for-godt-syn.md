@@ -25,7 +25,7 @@ weight: 2
 coauthor: ''
 
 ---
-**Leserinnlegg:**
+**Leserinnlegg: Edle Bugge**
 
 Hva vi spiser har stor innvirkning på kroppens balanse, og på funksjonen til hvert enkelt organ. Med riktig kosthold kan du bidra til god øyehelse på flere ulike måter. For dem som bruker kontaktlinser er det viktig å holde øynene så friske som mulig, og å spise sunt er en måte å oppnå det på. Noen typer mat bidrar til god øyehelse, og visse næringsmiddel bør unngås, eller iallfall begrenses.
 
