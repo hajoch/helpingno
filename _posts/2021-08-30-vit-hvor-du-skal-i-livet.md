@@ -4,19 +4,19 @@ date: 2021-08-30 14:55:10 +0200
 crop_image: true
 coauthor: []
 tags: []
-title: Hvor du skal i livet?
-excerpt: ''
+title: Livsvalg
+excerpt: En båt la til kai i en liten meksikansk landsby. En amerikansk turist skrøt
+  til den meksikanske fiskeren hvor god kvaliteten på fisken var og spurte hvor lang
+  tid det hadde tatt ham å fange dem.
 image: "/assets/images/dkb7.jpg"
 image_caption: 'Illustrasjon: Gunnar Christensen'
 author: _authors/henning-j-grini.md
 categories:
 - _category/boker.md
 publish_date: 2021-08-30 00:00:00 +0200
-weight: 5
+weight: 3
 
 ---
-En båt la til kai i en liten meksikansk landsby. En amerikansk turist skrøt til den meksikanske fiskeren hvor god kvaliteten på fisken var og spurte hvor lang tid det hadde tatt ham å fange dem.
-
 ”Ikke så veldig lenge,” svarte meksikaneren.
 
 ”Men hvorfor ble du ikke ute lenger og fanget flere fisker da?” spurte amerikaneren.
