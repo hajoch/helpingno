@@ -13,7 +13,7 @@ tags:
 - sponsing
 - frilansere hos helping.no
 - utviklingshjelp
-title: Redaksjonen 20 år
+title: Redaksjonen 21 år
 excerpt: |2+
 
 
@@ -31,7 +31,7 @@ coauthor: ''
 
 ---
 **Kontaktinformasjon**  
-Etablert i 21.04.2001 .- nå over 20 år på nett  
+Etablert i 21.04.2001 .- nå 21 år på nett  
 Organisasjonsnr. 997604830  
 E-post redaksjonen: helping.red@gmail.com  
 Dette Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
