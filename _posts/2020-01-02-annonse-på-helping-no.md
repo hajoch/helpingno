@@ -23,7 +23,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/redaksjonen-om-oss.md
 publish_date: 
-weight: 8
+weight: 0
 coauthor: ''
 
 ---
@@ -45,9 +45,9 @@ Andre plasseringer som inni tekst etc. kan vi diskutere.
 
 Slik som disse annonsene nederst på våre sider:
 
-\- Her er link annonse i form av linker/linjer som hver koster kr.1.400,- pr. år.  
-I tillegg velger du hvilken av våre over 220 sider du ønsker å annonsere på.  
-Når annonsen er på, sender du kr. 1400,- til konto  1506.28.29343.
+\- Her er link annonse i form av linker/linjer som hver koster kr.1.900,- pr. år.  
+I tillegg velger du hvilken av våre 249 sider du ønsker å annonsere på.  
+Når annonsen er på og godtatt avtales innbetaling.
 
 **Annonse:**  
 [https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
@@ -57,18 +57,16 @@ Når annonsen er på, sender du kr. 1400,- til konto  1506.28.29343.
 **Annonse:**
 
 [![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2500,- pr. år.  
+Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2900,- pr. år.  
 Den sendes på samme måte som beskrevet over.
 
 Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.  
 F. eks kjøp 3 og betal for 2.
 
-Helping.no beregner ikke moms på disse prisene.
+Helping.no beregner ikke moms på disse annonse-prisene fordi vi har lavere aktivitet enn det som beskattes.
 
 Spør oss gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.com)
 
-Velkommen til helping-magasinets konto ved annonseinnbetaling, sponsing mm. konto no **1506.28.29343**
-
-Vi ønsker ikke tilsendt artikler som inneholder kamuflert reklame bl.a. fordi det kan villede leserne i forhold til hva som er redaksjonelt produsert stoff.
+Vi ønsker ikke tilsendt annonser og artikler som inneholder spill, porno eller kamuflert reklame bl.a. fordi det kan villede leserne i forhold til hva som er redaksjonelt produsert stoff.
 
 Annonseinntekter går til å dekke våre løpende driftsutgifter.
