@@ -41,7 +41,7 @@ Redaktør, styreformann og gründer
 Utdannet cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
 Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder  
 Media-sosiologi mellomfag, UiO, Universitetet i Oslo  
-Lektor, forfatter og journalist
+Lektor, forfatter, vaktsjef og journalist
 
 [**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
 Redaktør, Teknisk redaktør, styrenestleder  
