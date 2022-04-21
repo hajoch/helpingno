@@ -39,7 +39,7 @@ Dette Helping-teamet presenter et bredt tilbud av nyttige artikler og lesestoff.
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Redaktør, styreformann og gründer  
 Utdannet cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
-Økonomi mellomfag. UiA, Universitetet i Agder  
+Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder  
 Media-sosiologi mellomfag, UiO, Universitetet i Oslo  
 Lektor, forfatter og journalist
 
