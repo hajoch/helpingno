@@ -61,8 +61,7 @@ Master i matematisk finans, UiO - Universitetet i Oslo
 Master i aktuar, UiO  
 Internasjonal aktuar, HHBI, Oslo  
 Internasjonale studier i Internal Auditor  
-Avdelingsleder for analyse.  
-Senior Internal Auditor
+Avdelingsleder for analyse. Senior Internal Auditor
 
 [**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
 Redaksjonssekretær og fotograf  
@@ -79,7 +78,6 @@ Journalist, Fagområde helse og mental helse
 Utdannet Lege og psykiater.
 
 **Andre bidragsytere**  
-Ole T. Moy, journalist båt/bil  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima), barnebok-tegner  
 Ellen Marie Christensen, tradisjonell norsk mat  
@@ -89,4 +87,5 @@ Julie Jørgensen, journalist økonomi
 Hans Olsen, innlegg  
 May-Lill Thorkelsson, innlegg  
 [Knut Frognes](https://helping.no/lenny-rømmer), forfatter, barnefortelling  
+Ole T. Moy, journalist båt/bil  
 Walter Krauss, konsulent
