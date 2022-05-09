@@ -58,7 +58,7 @@ Daglig leder og prosjektleder Gaia-Messen.
 [**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
 Redaksjonssekretær  
 Master i matematisk finans, UiO - Universitetet i Oslo  
-Master i aktuar, UiO  
+Master i aktuarfag, UiO  
 Internasjonal aktuar, HHBI, Oslo  
 Internasjonale studier i Internal Auditor  
 Avdelingsleder for analyse. Senior Internal Auditor
@@ -71,7 +71,7 @@ Div. yrkeserfaring innen hotell og salg mm
 
 [**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
 Journalist, Fagområde helse og mental helse  
-Utdannet Sykepleier
+Utdannet Sykepleier, alternativ behandler.
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
 Journalist, Fagområde helse og mental helse  
@@ -80,9 +80,9 @@ Utdannet Lege og psykiater.
 **Andre bidragsytere**  
 [Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
 [Berit Anfinsen](https://helping.no/aima), barnebok-tegner  
-Ellen Marie Christensen, tradisjonell norsk mat  
-[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse  
-Edle Bugge, journalist mat  
+Ellen Marie Christensen, tradisjonell norsk kosthold  
+[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse, journalist  
+Edle Bugge, journalist kosthold.  
 Julie Jørgensen, journalist økonomi  
 Hans Olsen, innlegg  
 May-Lill Thorkelsson, innlegg  
