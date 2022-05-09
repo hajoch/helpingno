@@ -38,7 +38,7 @@ Helping-redaksjonen presenter et bredt tilbud av nyttige artikler og lesestoff.
 
 [**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
 Redaktør, styreformann og gründer  
-Utdannet cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
+Cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
 Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder  
 Media-sosiologi mellomfag, UiO, Universitetet i Oslo  
 Lektor, forfatter, vaktsjef og journalist
@@ -51,7 +51,7 @@ Leder, Senior analytiker, Associate manager.
 [**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
 Styremedlem og grunder  
 E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
-Utdannet ved Hotellfag høyskolen, Stavanger.  
+Bachelor Hotellfag høyskolen, Stavanger.  
 Forfatter, redaktør, foreleser, lærer og grafisk designer mm  
 Daglig leder og prosjektleder Gaia-Messen.
 
