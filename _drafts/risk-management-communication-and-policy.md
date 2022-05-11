@@ -9,7 +9,7 @@ tags:
 - Norway
 - University in Stavanger
 title: Risk Management, Communication and Policy. (Eng)
-excerpt: Norwegian Covid report
+excerpt: Norwegian Kovid report
 image: "/assets/images/img_3951.JPG"
 image_caption: Illustrasjonsbilde
 author: _authors/christoffer-jore-christensen.md
