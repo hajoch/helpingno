@@ -23,8 +23,6 @@ weight:
 
 UiS: Spring semester 2022
 
-0
-
 **Table of content**
 
 1\. Introduction 3
@@ -32,8 +30,6 @@ UiS: Spring semester 2022
 2\. Possible explanations for the phenomenon:
 
 Barriers and challenges of communicating with vulnerable groups 5 3. Unexpected challenge of risk communicating to certain immigrant groups 7 4. The unfolding of an immigration system problem 9 5. Concluding remarks 10 References 11
-
-1
 
 **Background**
 
@@ -45,8 +41,6 @@ This paper, because of its limitation in length, emphasizes and focuses on the p
 
 **Structure  
 **This paper is mainly based on part two of the Corona Commission report of 26th April 2022. This to make sure that an overall view of the authorities’ communication efforts during the pandemic is included in the discussion. Researching all the material independently would take up a lot of time.
-
-2
 
 This paper is structured by first presenting the topic question with FHI statistics shedding light on the differences between immigrant groups. Furthermore, addressing the findings of the Corona Commission where communication barriers with specific population groups illustrate the challenges of communicating health-related risks in a pandemic.
 
@@ -63,8 +57,6 @@ Figure 1 covers the period of time from 21st of February 2020 until 30th of June
 
 When analyzing these datasets we need to consider the amount of people representing each group. From Indseth et al. (2021), supported by SSB (2022) (Norwegian Central Bureau for Statistics), these groups are in the size of 18.000 to 29.000, where Somalia is the biggest selected group of immigrants. Additionally to these numbers are what SSB refers to as second generation immigrants which are collected in the group of Norwegian-born citizens with immigrant backgrounds. The Covid statistics of this population group are considerably lower, however still high in terms of other population groups. It might be of interest in defining which immigrant background (country-wise) this group actually has, to further analyze if there are similar differences in the second generation immigrants.
 
-4
-
 Looking to countries like Denmark and the UK the tendency seemed in autumn 2020 the same, where there was an “_overrepresentation of infected cases and hospitalizations among Black and Asian residents_” (Indseth et al, 2021, p.53). The health article of Indseth discusses the reasons for this, which might involve genetic factors when faced with the virus’ characteristics. Different immigrant groups rather more than the rest of the public may have different needs of physiological character living in northern countries where there is less sunshine resulting in lower levels of vitamin D. It has been questioned how lower levels of vitamin D might affect the character of infection and sickness, and is an aspect of the reasoning for genetic factors explaining the mentioned statistics. What if, however, the reason for this overrepresentation of some immigrant groups is to be explained by social factors? What if this actually represents a societal problem of our immigration system, that might be resolved by improved understanding of different cultures' risk perception and acceptance?
 
 **2. Possible explanations for the phenomenon:  
@@ -74,19 +66,14 @@ The Corona Commission states: “_In science, still there is no agreement of why
 
 ● _Language skills_: Starting with the most obvious barrier, research states that large numbers of immigrants consider their Norwegian skills as poor (NOU, 2022). ● _Digital competence:_ Large numbers of immigrants are considered to have low competence in digital solutions (NOU, 2022), this unveiling a barrier related to navigating through and finding information.
 
-● _Frame of reference, affiliation and media use_: Immigrants may use information channels differently than the population without immigrant backgrounds. There is a compound explanation behind this involving trust in media and government, leading to different habits regarding sources for information gathering. It is likely that immigrants will closely follow the media coverage from their country of origin (NOU, 2022). Norwegian media have emphasized the severity of the pandemic and the infection rates - This might not be the case from early on in other countries,
-
-5
-
-therefore potentially leading to a delayed understanding within certain groups. This results in a delayed process of testing, isolating, infection tracing and quarantine, referred to as TISK in Norwegian.
+● _Frame of reference, affiliation and media use_: Immigrants may use information channels differently than the population without immigrant backgrounds. There is a compound explanation behind this involving trust in media and government, leading to different habits regarding sources for information gathering. It is likely that immigrants will closely follow the media coverage from their country of origin (NOU, 2022). Norwegian media have emphasized the severity of the pandemic and the infection rates - This might not be the case from early on in other countries, therefore potentially leading to a delayed understanding within certain groups. This results in a delayed process of testing, isolating, infection tracing and quarantine, referred to as TISK in Norwegian.
 
 Also socio-economic concerns are relevant as several immigrant groups are under less fortunate conditions: “_Immigrants rather often have lower education, income and cramped accomodations and professions less likely to be suitable for home office solutions_” (NOU, 2022, p. 394). The point regarding housing and profession may potentially lead to more virus exposure. When it comes to the level of education, this needs to be considered in the state communication strategy. “_(..) Less educated people may prefer simple and short messages; therefore, the risk communication messages to this group should contain more visual information to attract their high attention_” (Thanh & Tung, 2022, p. 13). We of course also find non-immigrants in this group of low education, however in general there is a very high level of education in Norway in international context - Which makes the public more likely to understand complex risk concepts and messages.
 
 The report further addresses communication barriers in reaching out to minorities. FHI quickly translated the messages of the authorities to 18 languages (NOU, 2022), and eight additional languages later (FHI, 2022). However, translation alone is not enough. “_There are plenty of barriers related to who is interpreted as the sender, how the message is constructed, and what platforms used to spread the information_” (NOU, 2022, p. 396). Another factor of the conditions under a pandemic is the frequency of change and update in restrictions and recommendations. The messages were complex explaining an invisible hazard where groups that do not know the language well naturally will have difficulties following.
 
-One vital communication barrier especially when communicating with Somali immigrants are their differences towards trust in written versus verbal communication. In other cultures the public may trust verbal communication through radio and digital channels as well as information from relatives and friends much rather than state written messanges (FHI, 2021). Also the use of social media is an important difference. The level of trust in the media of their country of origin might explain why some immigrants often more use social media as an information source to Covid (FHI, 2021).
-
-6  
+One vital communication barrier especially when communicating with Somali immigrants are their differences towards trust in written versus verbal communication. In other cultures the public may trust verbal communication through radio and digital channels as well as information from relatives and friends much rather than state written messanges (FHI, 2021). Also the use of social media is an important difference. The level of trust in the media of their country of origin might explain why some immigrants often more use social media as an information source to Covid (FHI, 2021).  
+  
 Another barrier of high relevance is the confusion between the authorities’ “recommendations” and “encouragements”. Several immigrant groups are from countries that practice a very different relationship with injunctions - a lower threshold to use force. “_(Certain immigrant groups) have assumed that it was acceptable to act in conflict with the recommendations, because they thought if the recommendations were of high importance, the state would rather give an injunction_” (NOU, 2022, p. 397). Managing this balance is extremely challenging, but you may argue this is rather a matter of integration. Norway is an individualistic culture where the public is used to an open society with freedom of will. You may say the handling of the pandemic in such a society was based on freedom under responsibility encouraging solidarity.
 
 Engen et al. (2020) raises the question of how the pandemic might have changed the public’s willingness to be protected from hazards. Immigrant groups might have a different perception of to what degree is acceptable for the government to actively protect them. This is not a topic of the Corona Commission report though it is a matter related to public trust in government.
@@ -94,9 +81,7 @@ Engen et al. (2020) raises the question of how the pandemic might have changed t
 Societal challenges of this scale rarely have a singular reason, handling the covid-pandemic is a matter of high complexity, ambiguity and uncertainty. “_The Covid pandemic presses all the red buttons”_ (Aven, 2021 personal communication (lecture notes)). Experiences from the pandemic confirmed how a wide set of measures have a significantly larger impact on the infection rates than a singular (NOU, 2022). Leading us to the fact that a built system is more effective than campaigns.
 
 **3. Unexpected challenge of risk communicating to certain immigrant groups  
-**When analyzing the Corona Commission report part two, a rather unexpected challenge in risk communication to immigrant groups unfolds. And this challenge is not necessarily characterized by the cultural differences but rather by the judgment of state and municipal actors. The report actually uncovered that in several cases the actors were reluctant to initiate measures targeting groups of the population with immigrant backgrounds. Concerns about stigmation of certain immigrant groups led to this act of reluctance based on the undesired consequence that these groups would “close off” if they felt exposed to negative attention (NOU, 2022).
-
-7  
+**When analyzing the Corona Commission report part two, a rather unexpected challenge in risk communication to immigrant groups unfolds. And this challenge is not necessarily characterized by the cultural differences but rather by the judgment of state and municipal actors. The report actually uncovered that in several cases the actors were reluctant to initiate measures targeting groups of the population with immigrant backgrounds. Concerns about stigmation of certain immigrant groups led to this act of reluctance based on the undesired consequence that these groups would “close off” if they felt exposed to negative attention (NOU, 2022).  
 In reality the Corona Commission concludes that ”_the desire to treat everyone equally actually led to some immigrant groups receiving a worse offer than they should have had_“ (NOU, 2022, p. 407). This referring to for example a period of high infection cases in Stovner Oslo, which has a high percentage of the population from AfAsSa (Africa, Asia, South America), the municipality hesitated to initiate the necessary measures. Implementation of mobile Covid testing hubs was not initiated as it was for other parts of Oslo (NOU, 2022). The fear of stigmatizing immigrant groups based on the high infection rates in the groups led to hesitation.
 
 Equality is a cornerstone in Norwegian society. All groups of the population are ideally to have the same opportunities, and the differences in income and social status are remarkably small in an international context. This is one of many reasons behind the high public trust that is special for Scandinavia. Treating vulnerable groups of the population with the same level of respect and dignity has also played an important role in governmental communication during the Covid pandemic.
