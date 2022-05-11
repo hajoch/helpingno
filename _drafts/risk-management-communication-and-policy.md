@@ -16,7 +16,7 @@ author: _authors/christoffer-jore-christensen.md
 categories:
 - _category/helse.md
 publish_date: 2022-05-11 00:00:00 +0200
-weight: 
+weight: 5
 
 ---
 **Risk Management, Communication and Policy.**
