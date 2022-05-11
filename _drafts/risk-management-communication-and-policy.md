@@ -3,9 +3,13 @@ layout: post
 date: 2022-05-11 17:47:58 +0200
 crop_image: true
 coauthor: []
-tags: []
+tags:
+- Politics
+- Covid
+- Norway
+- University in Stavanger
 title: Risk Management, Communication and Policy
-excerpt: Norwegian report
+excerpt: Norwegian Covid report
 image: "/assets/images/img_3951.JPG"
 image_caption: Illustrasjonsbilde
 author: _authors/christoffer-jore-christensen.md
