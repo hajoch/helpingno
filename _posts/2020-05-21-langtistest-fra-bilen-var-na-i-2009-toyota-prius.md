@@ -8,7 +8,7 @@ tags:
 - hybrid
 - Toyota
 - Henning Jon Grini
-title: 'Toyota Prius 2009 - Langtidstest '
+title: Toyota Prius 2009 - Langtidstest - 270.000 KM
 excerpt: 'Toyota Prius var i 2009 en bestselgende hybridbil. Dette kunne ikke Henning
   Jon Grini (styremedlem i helping.no) motstå: Han kjøpte ny Toyota Prius. Han har
   den fremdeles og er fremdeles strålende fornøyd med bilen.'
@@ -19,7 +19,7 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/bil.md
 publish_date: 
-weight: 3
+weight: 5
 coauthor: _authors/henning-j-grini.md
 
 ---
@@ -81,18 +81,8 @@ Feil på servostyringen juli 2013
 Feil på Prius februar 2014
 
 **Eierens kommentar**  
-En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkjøp av Toyota Prius. Det tar bort mye av gleden ved å ha kjøpt en ny bil. Priusen har nå gått både på langturer og lokalkjøring. Men Henning J. Grini har ingen problemer så langt:  
+En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkjøp av Toyota Prius. Det tar bort mye av gleden ved å ha kjøpt en ny bil. Priusen har nå gått både på langturer og lokalkjøring hele 270000 km. Men Henning J. Grini har ingen problemer så langt:  
 \- Alt fungerer som det skal og servicen hos Toyota Arendal er god. Jeg har ikke hatt behov for garantireparasjoner og er hele tiden fornøyd med bilen. Prius skårer også meget bra på kundetilfredshet i bruktbilstatistikken. I tillegg er bilens miljøprofil god.
 
 **Piggdekktilbud**  
 Grini tjente i 2009 på å kjøpe piggdekk med aluminiumsfelg av annen forhandler. Merkeforhandlere har vanligvis dårligst tilbud på vinterdekk. Pris hos merkeforhandler var da kr. 11.000,-. Dekkforhandleren leverte dekkene på døren for kr. 5.500,-. Piggdekkene han kjøpte har samme kvalitet/merke som merkeforhandlers tilbud. Nokia Hakkapalita har vist seg å være en av de beste piggdekkene.
-
-**Utvist fra Toyotaforhandler i Arendal  
-fordi innbyttebilen var kjøpt hos forhandler i Grimstad.**
-
-Etter prøve kjøring av ny Rav 4 hos merkeforhandleren i Arendal, AS Bil i 2015, bestemte vi oss for å handle. Like før vi skulle skrive kontrakt spurte den lubne bilselgeren hvor innbyttebilen en VW var kjøpt. Da vi opplyste at den var kjøpt hos bruktbilforhandler Olsen Bil AS i Grimstad (dette var før dette firmaet fikk skandaleoppslag i pressen). Da sa selgeren:
-
-\- Forsvinn! Der er døren. Kom aldri hit igjen.
-
-Da gikk turen direkte til Ford i Arendal, Arendal Auto AS hvor vi byttet inn bruktbilen og kjøpte en ny Ford. Heretter kjøper vi aldri en Toyota.  
-Gunnar Christensen
