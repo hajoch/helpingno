@@ -81,8 +81,10 @@ Feil på servostyringen juli 2013
 Feil på Prius februar 2014
 
 **Eierens kommentar**  
-En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkjøp av Toyota Prius. Det tar bort mye av gleden ved å ha kjøpt en ny bil. Priusen har nå gått både på langturer og lokalkjøring hele 270000 km. Men Henning J. Grini har ingen problemer så langt:  
-\- Alt fungerer som det skal og servicen hos Toyota Arendal er god. Jeg har ikke hatt behov for garantireparasjoner og er hele tiden fornøyd med bilen. Prius skårer også meget bra på kundetilfredshet i bruktbilstatistikken. I tillegg er bilens miljøprofil god.
+En serie dårlige nyheter for Toyota er alltid trist å få like etter et bilkjøp av Toyota Prius. Det tar bort mye av gleden ved å ha kjøpt en ny bil. 
+
+Priusen har i 2022 gått både på langturer og lokalkjøring hele 270000 km. Men Henning J. Grini har ingen problemer så langt:  
+\- Alt fungerer som det skal og servicen hos Toyota er god. Jeg har ikke hatt behov for garantireparasjoner og er hele tiden fornøyd med bilen. Prius skårer også meget bra på kundetilfredshet i bruktbilstatistikken. I tillegg er bilens miljøprofil god.
 
 **Piggdekktilbud**  
 Grini tjente i 2009 på å kjøpe piggdekk med aluminiumsfelg av annen forhandler. Merkeforhandlere har vanligvis dårligst tilbud på vinterdekk. Pris hos merkeforhandler var da kr. 11.000,-. Dekkforhandleren leverte dekkene på døren for kr. 5.500,-. Piggdekkene han kjøpte har samme kvalitet/merke som merkeforhandlers tilbud. Nokia Hakkapalita har vist seg å være en av de beste piggdekkene.
