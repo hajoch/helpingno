@@ -11,7 +11,7 @@ tags:
 - Nordens største middelalderkirk
 - Hellige Olavs grav
 - kroningskirke fra 1814
-title: Nordens største middelalderkirke
+title: Nidarosdomen. Nordens største middelalderkirke
 excerpt: Nidarosdomen ble oppført der Olav den hellige ble gravlagt etter slaget på
   Stiklestad. I 1814 ble det tatt inn i grunnloven at Nidarosdomen skulle være landets
   kroningskirke. Dette er Norges opprinnelige erkebiskop-kirke og Nordens største
@@ -23,7 +23,8 @@ author: _authors/gunnar-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 7
+weight: 5
+coauthor: ''
 
 ---
 ![](/assets/images/Nidaros1.jpg)
