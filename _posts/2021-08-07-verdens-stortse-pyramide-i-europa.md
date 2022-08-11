@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-07 07:55:25 +0200
+date: 2021-08-07T07:55:25.000+02:00
 crop_image: true
 coauthor: []
 tags:
@@ -20,8 +20,8 @@ image_caption: 'Foto: Henning Jon Grini'
 author: _authors/henning-j-grini.md
 categories:
 - _category/reise.md
-publish_date: 2021-12-12 00:00:00 +0100
-weight: 7
+publish_date: 2021-12-12T00:00:00.000+01:00
+weight: 4
 
 ---
 Jeg kan ikke huske hvor seriøs vinklingen var, men har en vag følelse av en useriøs undertone. Siden ble det relativt stille rundt saken, i hvert fall i Norge. Etter å ha lett litt i arkiver på Internet fant jeg ut at dette ikke helt ble trodd i arkeologiske kretser og fikk et humbug stempel på seg.
@@ -59,7 +59,3 @@ Det er forståelig at det trengs tid for det akademiske samfunnet, og samfunnet 
 Som alle andre geniale og revolusjonære oppdagelser setter dette ofte i gang sterke følelser og det skapes fort kontroverser, latterliggjøring og motstand. Til å begynne med…
 
 Kontroversene har begynt å stilne av og pyramidene i Bosnia er i ferd med å åpenbare seg i all sin prakt og er dermed med på å endre historien.
-
-**Annonse**
-
-[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
