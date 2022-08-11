@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-17 15:32:48 +0200
+date: 2021-08-17T15:32:48.000+02:00
 crop_image: true
 coauthor: []
 tags:
@@ -18,11 +18,10 @@ image_caption: 'Foto: Henning J. Grini'
 author: _authors/henning-j-grini.md
 categories:
 - _category/helse.md
-publish_date: 2021-08-17 00:00:00 +0200
-weight: 6
+publish_date: 2021-08-17T00:00:00.000+02:00
+weight: 4
 
 ---
-
 Og så har du all skjønnheten som rører ved det innerste i oss. Det kan være landskapet, en blomstereng eller et lam som lekent løper av gårde. Det kan være solnedgangen, en sommerfugl, en løvetann, et smil eller barnelatter som er ekstra kjekt å høre nå etter koronakrisen.
 
 Dette med skjønnhet og ha det vakkert rundt seg er kanskje mer betydningsfullt enn vi er klar over. Vi søker jo alle etter skjønnhet, både i oss selv og andre, i musikk og kunst, i hager og kjærlighet. Hvis ikke vi finner denne skjønnheten blir livet tomt og meningsløst.
