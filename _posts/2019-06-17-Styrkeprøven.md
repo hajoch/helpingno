@@ -29,7 +29,7 @@ tags:
 - avmakt
 - overgrep
 - korrupsjon
-title: '"Den lille manns kamp"'
+title: 'Styrkeprøven: Den lille manns kamp'
 excerpt: "\nDa boka kom ut haglet det med telefonhenvendelser. Jeg måtte ta nettene
   til hjelp for å betjene alle trafikkskadde som ønsket kontakt. Det er ikke etisk
   forsvarlig å trekke ut telefonkontakten når de fleste som ringte meg vurderte å
