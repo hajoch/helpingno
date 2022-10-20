@@ -1,6 +1,6 @@
 ---
 layout: author
-title: " Edle Bugge"
+title: ''
 image: ''
 
 ---
