@@ -38,11 +38,3 @@ Utgitt engelsk versjon i 2017. (Utgitt på norsk i 2016.)
 "Vår nære fremtid" Utgitt 2019
 
 E-post: [hjgrini@gmail.com](mailto:hjgrini@online.no)
-
-**Annonse:**
-
-[![](/assets/images/gaialogo.jpg)](www.gaiainnovations.org " www.gaiainnovations.org")
-
-**Annonse:**
-
-[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
