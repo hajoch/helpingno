@@ -1,6 +1,0 @@
----
-layout: author
-title: ''
-image: ''
-
----
