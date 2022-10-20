@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-07 16:47:25 +0200
+date: 2021-08-07T16:47:25.000+02:00
 crop_image: true
 coauthor: []
 tags:
@@ -24,8 +24,8 @@ image_caption: Illustrasjonsfoto Gunnar Christensen
 author: _authors/henning-j-grini.md
 categories:
 - _category/bolig.md
-publish_date: 2021-08-07 00:00:00 +0200
-weight: 7
+publish_date: 2021-08-07T00:00:00.000+02:00
+weight: 2
 
 ---
 Det høres litt rart ut at vi lever atskilt fra mennesker når byen er full av dem, men det blir jo ofte slik når naboer knapt kjenner hverandre selv om de har bodd der i årevis. I de siste tiårene har vi ikke vært flinke nok med å tilrettelegge for sosialisering når boligprosjektene planlegges, dermed blir mange sittende innendørs og alle skjermene gjør ikke saken bedre.
