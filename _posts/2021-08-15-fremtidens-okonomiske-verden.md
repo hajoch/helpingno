@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-15 14:11:28 +0200
+date: 2021-08-15T14:11:28.000+02:00
 crop_image: true
 coauthor: []
 tags: []
@@ -15,11 +15,10 @@ image_caption: ''
 author: _authors/henning-j-grini.md
 categories:
 - _category/bolig.md
-publish_date: 2021-08-15 00:00:00 +0200
-weight: 7
+publish_date: 2021-08-15T00:00:00.000+02:00
+weight: 2
 
 ---
-
 **Den omfattende artikkelen nedenfor er hentet fra boken min** [**_Gaia og Mennesket mot en lysere fremtid_**](https://www.gaiainnovations.org/norsk/bok/)**. Utdraget tar for seg dagens dysfunksjonelle økonomiske virkelighet som er ødeleggende for både mennesker og natur. Samtidig peker den på måter vi kan gjøre ting annerledes og en mengde henvisninger til de som jobber med en slik massiv omstilling vi nå står ovenfor.**
 
 _«Å være den rikeste mannen på kirkegården er ikke noe poeng for meg. Å legge seg hver kveld og vite at vi har gjort noe viktig og betydningsfullt er det som betyr noe.»_
