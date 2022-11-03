@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-02-17 11:04:15 +0100
+date: 2022-02-17T11:04:15.000+01:00
 crop_image: true
 coauthor: []
 tags:
@@ -17,7 +17,7 @@ image_caption: Illustrasjonsfoto Anne Bakke
 author: _authors/gunnar-christensen.md
 categories: []
 publish_date: 
-weight: 5
+weight: 7
 
 ---
 Meryl Streep: **"Jernkvinnen"** Aldersgrense 11 år
