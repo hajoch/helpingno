@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-21 13:31:57 +0200
+date: 2021-08-21T13:31:57.000+02:00
 crop_image: true
 coauthor: []
 tags:
@@ -18,11 +18,10 @@ image_caption: ''
 author: _authors/henning-j-grini.md
 categories:
 - _category/bolig.md
-publish_date: 2021-08-21 00:00:00 +0200
-weight: 5
+publish_date: 2021-08-21T00:00:00.000+02:00
+weight: 2
 
 ---
-
 ![](https://usercontent.one/wp/www.inspirasjonogideer.no/wp-content/uploads/2019/06/the_sharing_economy.jpg =1080x675)
 
 Dette ble godt forklart nylig i kommentaren [Bare noen penger](https://www.bt.no/btmeninger/kommentar/i/xP9z28/Bare-Noen-Penger) i BT av Anne Rokkan. For planeten er konsekvensen av stadig vekst ødelagt natur og forurensning. For mennesker betyr det klimaendringer og større ulikhet, med alle de problemene det medfølger.
