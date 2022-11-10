@@ -34,7 +34,7 @@ image_caption: Motiv fra Kypros - foto Gunnar Christensen
 categories:
 - _category/helse.md
 publish_date: 
-weight: 6
+weight: 8
 coauthor: _authors/ellen-marie-christensen.md
 
 ---
