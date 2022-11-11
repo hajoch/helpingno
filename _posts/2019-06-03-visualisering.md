@@ -15,7 +15,7 @@ categories:
 image: "/assets/images/visualisering[1].jpg"
 crop_image: true
 publish_date: 
-weight: 5
+weight: 7
 tags:
 - Mental Helse
 - Stress
