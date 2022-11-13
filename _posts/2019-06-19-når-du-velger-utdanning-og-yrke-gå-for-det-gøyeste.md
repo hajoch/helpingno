@@ -13,7 +13,7 @@ tags:
 - motivasjon
 - yrkesvalg
 - ønske om å lykkes
-title: 'Yrkesvalg? '
+title: 'Yrkesvalg '
 excerpt: "Spør du topp idrettsutøvere hva som er det viktigste motivasjonsfaktoren
   deres for å nå toppresultater. De fleste svarer:  \"Jeg valgte det gøyeste.\" Dette
   gjelder ikke bare idrett, men alt du velger å gjøre i livet. Det er alltid mest
@@ -24,7 +24,7 @@ image_caption: 'Foto Christoffer J. Christensen: Når du velger utdanning og yrk
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 3
+weight: 5
 coauthor: ''
 
 ---
