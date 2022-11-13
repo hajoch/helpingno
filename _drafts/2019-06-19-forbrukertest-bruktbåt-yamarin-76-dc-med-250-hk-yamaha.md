@@ -19,7 +19,7 @@ tags:
 - produksjonsfeil
 - helgeturer på fjorden
 - stødig sjøbåt
-title: 'YAMARIN 76DC. '
+title: 'YAMARIN 76DC '
 excerpt: 'Forbrukertest: RAPPORT ETTER 11 SESONGER: Kvalitetsbåt - velutstyrt familievennlig
   daycruiser for ettermiddagsturer, helgeutflukter med overnatting i nærmiljøet, vannskikjøring,
   tube mv. '
