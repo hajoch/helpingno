@@ -26,7 +26,7 @@ image_caption: ''
 categories:
 - _category/bolig.md
 publish_date: 
-weight: 1
+weight: 8
 coauthor: ''
 
 ---
