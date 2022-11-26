@@ -24,7 +24,7 @@ author: _authors/hallvard-j-christensen.md
 categories:
 - _category/reise.md
 publish_date: 
-weight: 2
+weight: 4
 coauthor: ''
 
 ---
