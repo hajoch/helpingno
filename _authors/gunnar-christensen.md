@@ -5,7 +5,7 @@ image: "/assets/images/authors/gc8.jpg"
 
 ---
 Journalist, lektor, forfatter.  
-Redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
+Nå Redaktør, styreleder og gründer i [www.helping.no](http://www.helping.no).
 
 Utdannet lektor basert på cand.philol./mastergrad 1982 med fagene religionshistorie hovedfag, økonomi mellomfag og media-sosiologi mellomfag fra universitetene i Oslo og Bergen. Feltforskning i India og Nepal på tibetansk buddhisme i 1979.  
 Hovedfag-avhandling: "Fremmede religioner i ungdomsskolens lærebøker" ved Universitetet i Bergen 1981. Popularisert og utgitt som [Skandalebøkene i Ungdomsskolen](https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen "https://helping.no/religioner-i-u-skolens-l%C3%A6reb%C3%B8ker-f%C3%B8r-m%C3%B8nsterplanen")".
