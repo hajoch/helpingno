@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-30 15:26:35 +0200
+date: 2021-08-30T15:26:35.000+02:00
 crop_image: true
 coauthor: []
 tags:
@@ -16,8 +16,8 @@ image_caption: 'Illustrasjonsfoto: Anne Bakke'
 author: _authors/henning-j-grini.md
 categories:
 - _category/boker.md
-publish_date: 2021-08-30 00:00:00 +0200
-weight: 5
+publish_date: 2021-08-30T00:00:00.000+02:00
+weight: 3
 
 ---
 Han kastet fra seg redskapen og løp til myra.
@@ -53,7 +53,3 @@ Lord Randolph Churchill.
 Hans sønns navn?
 
 Sir Winston Churchill.
-
-**Annonse**
-
-[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
