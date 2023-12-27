@@ -1,34 +1,29 @@
 ---
 layout: post
-date: 2019-06-19T16:31:48.000+00:00
-crop_image: false
-author: ''
-tags:
-- redaksjonen
-- medarbeidere
-- helpingteam
-- journalister i helping
-- temamedarbeidere
-- bidragsytere
-- sponsing
-- frilansere hos helping.no
-- utviklingshjelp
 title: Redaksjonen 21 år
-excerpt: |2+
-
-
-
-
-image: "/assets/images/trille2.jpg"
+author: ""
+coauthor: ""
+categories:
+  - _category/redaksjonen-om-oss.md
+tags:
+  - redaksjonen
+  - medarbeidere
+  - helpingteam
+  - journalister i helping
+  - temamedarbeidere
+  - bidragsytere
+  - sponsing
+  - frilansere hos helping.no
+  - utviklingshjelp
+date: 2019-06-19T16:31:48.000+00:00
+publish_date: null
+image: /assets/images/trille2.jpg
+crop_image: true
+excerpt: "\n\n\n\n"
 image_caption: |-
   Foto: Christoffer Jore Christensen.
   Helping-maskoten skogskatten "Trille".
-categories:
-- _category/redaksjonen-om-oss.md
-publish_date: 
 weight: 8
-coauthor: ''
-
 ---
 **Kontaktinformasjon**  
 Etablert i 21.04.2001 - nå 21 år på nett  
