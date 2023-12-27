@@ -23,14 +23,11 @@ permalink: /:title
 include: ['_pages']
 
 # Build settings
-markdown: kramdown
+markdown: CommonMark
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-menus
-
-kramdown:
-  input: GFM
 
 collections:
   authors:
