@@ -55,7 +55,7 @@ collections:
       - { label: 'Ingress', name: 'excerpt', widget: 'string', required: false }
       - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string', required: false }
       - { label: 'Weight', name: 'weight', widget: 'number', required: false }
-      - { label: 'Innhold', name: 'body', widget: 'markdown', required: false}
+      - { label: 'Innhold', name: 'body', widget: 'markdown'}
   - name: 'author'
     label: 'Forfattere'
     folder: '_authors/'
@@ -63,7 +63,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
       - { label: 'Navn', name: 'title', widget: 'string' }
       - { label: 'Bilde', name: 'image', widget: 'image', required: false }
-      - { label: 'Innhold', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Innhold', name: 'body', widget: 'markdown' }
   - name: 'category'
     label: 'Kategori'
     folder: '_category/'
