@@ -22,7 +22,8 @@ collections:
           collection: "author",
           search_fields: ["title"],
           display_fields: ["title"],
-          value_field: "_authors/{{slug}}.md" 
+          value_field: "_authors/{{slug}}.md",
+          optional: true 
         }
       - { 
           label: "Med-forfatter",
@@ -31,7 +32,8 @@ collections:
           collection: "author",
           search_fields: ["title"],
           display_fields: ["title"],
-          value_field: "_authors/{{slug}}.md" 
+          value_field: "_authors/{{slug}}.md" ,
+          optional: true
         }
       - {
           label: "Kategorier",
@@ -41,30 +43,31 @@ collections:
           search_fields: ["title"],
           display_fields: ["title"],
           value_field: "_category/{{slug}}.md",
-          multiple: true
+          multiple: true,
+          optional: true
         }
-      - { label: 'Emneknagger', name: "tags", widget: "list" }
+      - { label: 'Emneknagger', name: "tags", widget: "list", optional: true }
       - { label: 'Date', name: 'date', widget: 'hidden' }
-      - { label: 'Artikkel Dato', name: 'publish_date', widget: 'datetime' }
-      - { label: 'Tittel bilde', name: 'image', widget: 'image' }
+      - { label: 'Artikkel Dato', name: 'publish_date', widget: 'datetime', optional: true }
+      - { label: 'Tittel bilde', name: 'image', widget: 'image', optional: true }
       - { label: 'Tilpasse bildet?', name: 'crop_image', widget: 'boolean', hint: 'Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
-    i sin helhet'}
-      - { label: 'Ingress', name: 'excerpt', widget: 'text' }
-      - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string' }
-      - { label: 'Weight', name: 'weight', widget: 'number' }
-      - { label: 'Innhold', name: 'body', widget: 'markdown'}
+    i sin helhet', optional: true}
+      - { label: 'Ingress', name: 'excerpt', widget: 'text', optional: true }
+      - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string', optional: true }
+      - { label: 'Weight', name: 'weight', widget: 'number', optional: true }
+      - { label: 'Innhold', name: 'body', widget: 'markdown', optional: true}
   - name: 'author'
     label: 'Forfattere'
     folder: '_authors/'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
       - { label: 'Navn', name: 'title', widget: 'string' }
-      - { label: 'Bilde', name: 'image', widget: 'image' }
-      - { label: 'Innhold', name: 'body', widget: 'markdown' }
+      - { label: 'Bilde', name: 'image', widget: 'image', optional: true }
+      - { label: 'Innhold', name: 'body', widget: 'markdown', optional: true }
   - name: 'category'
     label: 'Kategori'
     folder: '_category/'
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'category' }
       - { label: 'Kategorinavn', name: 'title', widget: 'string' }
-      - { label: 'Farge', name: 'color', widget: 'color' }
+      - { label: 'Farge', name: 'color', widget: 'color', optional: true }
