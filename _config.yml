@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-menus
 
+kramdown:
+  input: GFM
+
 collections:
   authors:
     title: Authors
