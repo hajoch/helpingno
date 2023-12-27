@@ -52,7 +52,7 @@ collections:
       - { label: 'Tittel bilde', name: 'image', widget: 'image', required: false }
       - { label: 'Tilpasse bildet?', name: 'crop_image', widget: 'boolean', hint: 'Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
     i sin helhet', required: false}
-      - { label: 'Ingress', name: 'excerpt', widget: 'text', required: false }
+      - { label: 'Ingress', name: 'excerpt', widget: 'string', required: false }
       - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string', required: false }
       - { label: 'Weight', name: 'weight', widget: 'number', required: false }
       - { label: 'Innhold', name: 'body', widget: 'markdown', required: false}
