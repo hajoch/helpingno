@@ -25,62 +25,54 @@ image_caption: |-
   Helping-maskoten skogskatten "Trille".
 weight: 8
 ---
-**Kontaktinformasjon**  
-Etablert i 21.04.2001 - nå 21 år på nett  
-Organisasjonsnr. 997604830  
-E-post redaksjonen: helping.red@gmail.com  
+**Kontaktinformasjon**\
+Etablert i 21.04.2001 - nå 21 år på nett\
+Organisasjonsnr. 997604830\
+E-post redaksjonen: helping.red@gmail.com\
 Helping-redaksjonen presenter et bredt tilbud av nyttige artikler og lesestoff.
 
-[**Gunnar Christensen**](https://helping.no/author/gunnar-christensen)  
-Redaktør, styreformann og gründer  
-Cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen  
-Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder  
-Media-sosiologi mellomfag, UiO, Universitetet i Oslo  
+**[Gunnar Christensen](https://helping.no/author/gunnar-christensen)**\
+Redaktør, styreformann og gründer\
+Cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen\
+Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder\
+Media-sosiologi mellomfag, UiO, Universitetet i Oslo\
 Lektor, forfatter, vaktsjef og journalist
 
-[**Hallvard J. Christensen**](https://helping.no/author/hallvard-j-christensen)  
-Redaktør, Teknisk redaktør, styrenestleder  
-Master i Informasjonsteknologi og -tjenester ved NTNU i Trondheim  
+**[Hallvard J. Christensen](https://helping.no/author/hallvard-j-christensen)**\
+Redaktør, Teknisk redaktør, styrenestleder\
+Master i Informasjonsteknologi og -tjenester ved NTNU i Trondheim\
 Leder, Senior analytiker, Associate manager.
 
-[**Henning Jon Grini**](https://helping.no/author/henning-j-grini)  
-Styremedlem og grunder  
-E-post: [hjgrini@online.no](mailto:hjgrini@online.no)  
-Bachelor Hotellfag høyskolen, Stavanger.  
-Forfatter, redaktør, foreleser, lærer og grafisk designer mm  
-Daglig leder og prosjektleder Gaia-Messen.
-
-[**Jens Christian J. Christensen**](https://helping.no/author/jens-christian-jore-christensen)  
-Redaksjonssekretær  
-Master i matematisk finans, UiO - Universitetet i Oslo  
-Master i aktuarfag, UiO  
-Internasjonal aktuar, HHBI, Oslo  
-Internasjonale studier i Internal Auditor  
+**[Jens Christian J. Christensen](https://helping.no/author/jens-christian-jore-christensen)**\
+Redaksjonssekretær\
+Master i matematisk finans, UiO - Universitetet i Oslo\
+Master i aktuarfag, UiO\
+Internasjonal aktuar, HHBI, Oslo\
+Internasjonale studier i Internal Auditor\
 Avdelingsleder for analyse. Senior Internal Auditor
 
-[**Christoffer J. Christensen**](https://helping.no/author/christoffer-jore-christensen)  
-Redaksjonssekretær og fotograf  
-Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger  
-Masterstudent i "Risk Analysis and Governance" ved UiS.  
+**[Christoffer J. Christensen](https://helping.no/author/christoffer-jore-christensen)**\
+Redaksjonssekretær og fotograf\
+Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger\
+Masterstudent i "Risk Analysis and Governance" ved UiS.\
 Div. yrkeserfaring innen hotell og salg mm
 
-[**Kari Rose Norheim**](https://helping.no/author/kari-rose-norheim)  
-Journalist, Fagområde helse og mental helse  
+**[Kari Rose Norheim](https://helping.no/author/kari-rose-norheim)**\
+Journalist, Fagområde helse og mental helse\
 Utdannet Sykepleier, alternativ behandler.
 
-[**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)  
-Journalist, Fagområde helse og mental helse  
+[**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)\
+Journalist, Fagområde helse og mental helse\
 Utdannet Lege og psykiater.
 
-**Andre bidragsytere**  
-[Anne Bakke](https://helping.no/author/anne-bakke "https://helping.no/author/anne-bakke"), tegner, foto og adjunkt  
-[Berit Anfinsen](https://helping.no/aima), barnebok-tegner  
-Ellen Marie Christensen, tradisjonell norsk kosthold  
-[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse, journalist  
-Edle Bugge, journalist kosthold.  
-Julie Jørgensen, journalist økonomi  
-Hans Olsen, innlegg  
-May-Lill Thorkelsson, innlegg  
-[Knut Frognes](https://helping.no/lenny-rømmer), forfatter, barnefortelling  
-Ole T. Moy, journalist båt/bil  
+**Andre bidragsytere**\
+[Anne Bakke](https://helping.no/author/anne-bakke "https\://helping.no/author/anne-bakke"), tegner, foto og adjunkt\
+[Berit Anfinsen](https://helping.no/aima), barnebok-tegner\
+Ellen Marie Christensen, tradisjonell norsk kosthold\
+[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse, journalist\
+Edle Bugge, journalist kosthold.\
+Julie Jørgensen, journalist økonomi\
+Hans Olsen, innlegg\
+May-Lill Thorkelsson, innlegg\
+[Knut Frognes](https://helping.no/lenny-rømmer), forfatter, barnefortelling\
 Walter Krauss, konsulent
