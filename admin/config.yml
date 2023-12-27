@@ -11,21 +11,16 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Tittel', name: 'title', widget: 'string' }
-      - { label: "Forfatter",
-        name: "author",
-        widget: "relation",
-        collection: "author",
-        search_fields: ["title"],
-        value_field: "name" }
+      - { label: "Forfatter", name: "author", widget: "relation", collection: "author", search_fields: ["title"], value_field: "name" }
       - { label: 'Date', name: 'date', widget: 'hidden' }
-      - { label: 'Artikkel Dato', name: 'date', widget: 'datetime' }
+      - { label: 'Artikkel Dato', name: 'publish_date', widget: 'datetime' }
       - { label: 'Tittel bilde', name: 'image', widget: 'image' }
       - { label: 'Tilpasse bildet?', name: 'crop_image', widget: 'boolean', hint: 'Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
     i sin helhet'}
       - { label: 'Ingress', name: 'excerpt', widget: 'textarea' }
       - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string' }
       - { label: 'Weight', name: 'weight', widget: 'number' }
-      - { label: 'Innhold', name: 'body', widget: 'markdown', modes: 'rich_text' }
+      - { label: 'Innhold', name: 'body', widget: 'markdown'}
   - name: 'author'
     label: 'Forfattere'
     folder: '_authors/'
@@ -33,7 +28,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
       - { label: 'Navn', name: 'title', widget: 'string' }
       - { label: 'Bilde', name: 'image', widget: 'image' }
-      - { label: 'Innhold', name: 'body', widget: 'markdown', modes: 'rich_text' }
+      - { label: 'Innhold', name: 'body', widget: 'markdown' }
   - name: 'category'
     label: 'Kategori'
     folder: '_category/'
