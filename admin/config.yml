@@ -21,14 +21,35 @@ collections:
           widget: "relation",
           collection: "author",
           search_fields: ["title"],
+          display_fields: ["title"],
           value_field: "_authors/{{slug}}.md" 
         }
+      - { 
+          label: "Med-forfatter",
+          name: "coauthor",
+          widget: "relation",
+          collection: "author",
+          search_fields: ["title"],
+          display_fields: ["title"],
+          value_field: "_authors/{{slug}}.md" 
+        }
+      - {
+          label: "Kategorier",
+          name: "categories",
+          widget: "relation",
+          collection: "category",
+          search_fields: ["title"],
+          display_fields: ["title"],
+          value_field: "_category/{{slug}}.md",
+          multiple: true
+        }
+      - { label: 'Emneknagger', name: "tags", widget: "list" }
       - { label: 'Date', name: 'date', widget: 'hidden' }
       - { label: 'Artikkel Dato', name: 'publish_date', widget: 'datetime' }
       - { label: 'Tittel bilde', name: 'image', widget: 'image' }
       - { label: 'Tilpasse bildet?', name: 'crop_image', widget: 'boolean', hint: 'Setter makshøyde på bildet. La vær å huk av hvis bildet skal vises
     i sin helhet'}
-      - { label: 'Ingress', name: 'excerpt', widget: 'textarea' }
+      - { label: 'Ingress', name: 'excerpt', widget: 'text' }
       - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string' }
       - { label: 'Weight', name: 'weight', widget: 'number' }
       - { label: 'Innhold', name: 'body', widget: 'markdown'}
