@@ -1,72 +1,29 @@
 ---
 layout: post
-date: 2020-01-02T17:56:28.000+00:00
-crop_image: true
-tags:
-- annonse
-- reklame på nett
-- sponse helping.no
-- annonselinker
-- reklame hos helping.no
-- gode annonsetilbud
-- likes
-- fan av helping.no
-- redaksjons-historikk-helping
 title: Annonsere på helping.no.
-excerpt: |
-  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler. Takk for omkring 4.000 besøk pr. mnd. i høysesong. Det lønner seg å annonsere hos oss. Ta kontakt så hjelper vi deg.
-  Du er også velkommen til å støtte vår virksomhet om du liker og setter pris på noe vi skriver til konto no 1506.28.29343.
-image: "/assets/images/Basse (04).jpg"
-image_caption: Helping-maskoten "Basse". Nettstedet har vært på Internett siden 2001.
-  Vi skiftet sist design 1. januar 2020. Foto Jens Christian Jore Christensen
 author: _authors/gunnar-christensen.md
+coauthor: ""
 categories:
-- _category/redaksjonen-om-oss.md
-publish_date: 
+  - _category/redaksjonen-om-oss.md
+tags:
+  - annonselinker
+  - reklame hos helping.no
+  - gode annonsetilbud
+  - likes
+  - fan av helping.no
+  - redaksjons-historikk-helping
+date: 2020-01-02T17:56:28.000+00:00
+publish_date: null
+image: /assets/images/Basse (04).jpg
+crop_image: true
+excerpt: >
+  Vi har siden 2001 gitt deg gratis bøker og nyttige tester, råd og artikler.
+  Takk for omkring 4.000 besøk pr. mnd. i høysesong. 
+image_caption: Helping-maskoten "Basse". Nettstedet har vært på Internett siden
+  2001. Vi skiftet sist design 1. januar 2020. Foto Jens Christian Jore
+  Christensen
 weight: 0
-coauthor: ''
-
 ---
-Vi selger i utgangspunktet nå annonser for ett år eller mer ad gangen  
-og begrenser antallet annonser slik at det ikke dominerer sidene våre.
+[](mailto:helping.red@gmail.com)
 
-Helping.no har lesere først og fremst der hvor nordmenn bor som i Norge, Skandinavia, Nord Amerika og Syd-Europa. Vi har også internasjonalt besøk.
-
-Kontakt oss: E-post redaksjonen:  
-[helping.red@gmail.com](mailto:helping.red@gmail.com)
-
-**Slik annonserer du hos oss:**
-
-![/assets/images/Basse (4).jpg](https://app.forestry.io/sites/afjoa9tu1jlglg/body-media//assets/images/Basse%20(4).jpg)  
-_Helping-maskoten "Basse".: Foto: Jens Christian Jore Christensen_
-
-Foreløpig har vi konsentrert annonsene til linker nederst på hver temaside.  
-Andre plasseringer som inni tekst etc. kan vi diskutere.
-
-Slik som disse annonsene nederst på våre sider:
-
-\- Her er link annonse i form av linker/linjer som hver koster kr.1.900,- pr. år.  
-I tillegg velger du hvilken av våre 249 sider du ønsker å annonsere på.  
-Når annonsen er på og godtatt avtales innbetaling.
-
-**Annonse:**  
-[https://www.gaiamessen.no/](https://www.gaiamessen.no/ "https://www.gaiamessen.no/")
-
-\- Her er link annonse i form av logo:
-
-**Annonse:**
-
-[![Strømmestiftelsen logo](https://strommestiftelsen.no/image/logo-strommestiftelsen.png?w=960)](https://strommestiftelsen.no)  
-Ønsker du en logo som eksemplet med Strømme-stiftelsen koster det kr. 2900,- pr. år.  
-Den sendes på samme måte som beskrevet over.
-
-Ønsker du samme annonse på flere sider gir vi rabatt etter avtale.  
-F. eks kjøp 3 og betal for 2.
-
-Helping.no beregner ikke moms på disse annonse-prisene fordi vi har lavere aktivitet enn det som beskattes.
-
-Spør oss gjerne på mailen [helping.red@gmail.com](mailto:helping.red@gmail.com)
-
-Vi ønsker ikke tilsendt annonser og artikler som inneholder spill, porno eller kamuflert reklame bl.a. fordi det kan villede leserne i forhold til hva som er redaksjonelt produsert stoff.
-
-Annonseinntekter går til å dekke våre løpende driftsutgifter.
+r.
