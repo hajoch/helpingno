@@ -4,6 +4,7 @@ title: Odd Milton Lunde
 image: "/assets/images/authors/oddmlunde.jpg"
 
 ---
+
 **Lege og psykiater**
 
 **Utdannelse:**
