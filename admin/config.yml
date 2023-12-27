@@ -11,7 +11,14 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Tittel', name: 'title', widget: 'string' }
-      - { label: "Forfatter", name: "author", widget: "relation", collection: "author", search_fields: ["title"], value_field: "name" }
+      - { 
+          label: "Forfatter",
+          name: "author",
+          widget: "relation",
+          collection: "author",
+          search_fields: ["title"],
+          value_field: "{{slug}}" 
+        }
       - { label: 'Date', name: 'date', widget: 'hidden' }
       - { label: 'Artikkel Dato', name: 'publish_date', widget: 'datetime' }
       - { label: 'Tittel bilde', name: 'image', widget: 'image' }
