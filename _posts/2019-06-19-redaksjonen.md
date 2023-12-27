@@ -47,14 +47,13 @@ Leder, Senior analytiker, Associate manager.
 Redaksjonssekretær\
 Master i matematisk finans, UiO - Universitetet i Oslo\
 Master i aktuarfag, UiO\
-Internasjonal aktuar, HHBI, Oslo\
-Internasjonale studier i Internal Auditor\
-Avdelingsleder for analyse. Senior Internal Auditor
+Internal Auditor,\
+vise dir.
 
 **[Christoffer J. Christensen](https://helping.no/author/christoffer-jore-christensen)**\
 Redaksjonssekretær og fotograf\
 Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger\
-Masterstudent i "Risk Analysis and Governance" ved UiS.\
+Master i "Risk Analysis and Governance" ved UiS.\
 Div. yrkeserfaring innen hotell og salg mm
 
 **[Kari Rose Norheim](https://helping.no/author/kari-rose-norheim)**\
