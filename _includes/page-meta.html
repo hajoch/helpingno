@@ -3,9 +3,9 @@
 {% if page.coauthor %}
   {% assign coauthor = site.authors | where: 'path', page.coauthor | first %}
 {% endif %}
-<div class="uk-flex uk-flex-between ">
+<div class="uk-flex uk-flex-wrap uk-flex-between ">
 {% if author %}
-<acticle class="uk-comment">
+<acticle class="uk-comment uk-width-1-1 uk-width-auto@l">
   <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid>
     <div class="uk-width-auto">
       <div class="avatar avatar-thumb">
@@ -28,7 +28,7 @@
 {% endif %}
 
 {% if coauthor %}
-<acticle class="uk-comment">
+<acticle class="uk-comment uk-width-1-1 uk-width-auto@l">
   <header class="uk-comment-header uk-grid-medium uk-flex-middle" uk-grid>
     <div class="uk-width-expand">
       <h4 class="uk-comment-title uk-margin-remove"><a class="uk-link-reset" href="{{ coauthor.url | prepend: site.baseurl }}">{{ coauthor.title }}</a></h4>
