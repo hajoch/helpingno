@@ -56,6 +56,8 @@ collections:
       - { label: 'Bildetekst til tittelbilde', name: 'image_caption', widget: 'string', required: false }
       - { label: 'Weight', name: 'weight', widget: 'number', required: false }
       - { label: 'Innhold', name: 'body', widget: 'markdown'}
+    editor:
+      preview: false
   - name: 'author'
     label: 'Forfattere'
     folder: '_authors/'
@@ -64,6 +66,8 @@ collections:
       - { label: 'Navn', name: 'title', widget: 'string' }
       - { label: 'Bilde', name: 'image', widget: 'image', required: false }
       - { label: 'Innhold', name: 'body', widget: 'markdown' }
+    editor:
+      preview: false
   - name: 'category'
     label: 'Kategori'
     folder: '_category/'
