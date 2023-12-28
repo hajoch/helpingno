@@ -21,14 +21,15 @@ END NOTE -->
     <div class="uk-margin-medium">
       <div class="uk-grid-match uk-child-width-expand@s" uk-grid>
         <div>
-          <div class="uk-inline">
-            <div class="uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
+          <div class="uk-inline uk-light" uk-grid>
+            <div class="uk-width-auto uk-background-cover" data-src="{{ main.image | prepend: site.baseurl }}" uk-img>
+                <!-- Image content -->
             </div>
-            <div class="uk-overlay uk-overlay-default uk-position-bottom">
-              <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
-              <p>{{ main.excerpt }}</p>
+            <div class="uk-width-expand uk-overlay uk-overlay-default uk-position-bottom">
+                <h1><a href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a></h1>
+                <p>{{ main.excerpt }}</p>
             </div>
-          </div>
+        </div>
         </div>
         <div>
           {% for post in featured limit:3 %}
