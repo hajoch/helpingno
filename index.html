@@ -21,7 +21,30 @@ END NOTE -->
     <div class="uk-margin-medium">
       <div class="uk-grid-match uk-child-width-expand@s" uk-grid>
         <div>
-          {% include card-post.html post=main %}
+          <a href="{{ main.url | prepend: site.baseurl }}" class="uk-link-toggle">
+            <div class="uk-card">
+                {% if main.image %}
+                <div class="uk-card-media-top">
+                  <div class="image-fill small-height">
+                    <img class="uk-position-absolute uk-transform-center" style="left: 50%; top: 50%" data-src="{{ main.image | prepend: site.baseurl }}" alt="" uk-img>
+                  </div>
+                </div>
+                {% endif %}
+                <div class="uk-card-body uk-padding-small">
+                    <h3 class="uk-card-title uk-margin-remove">
+                      <a class="uk-link-heading" href="{{ main.url | prepend: site.baseurl }}">{{ main.title }}</a>
+                    </h3>
+                    <div class="ingress uk-divider">
+                      {% if main.excerpt != '' %}
+                        <p>{{ main.excerpt | truncate: 200 }}</p>
+                      {% else %}
+                        <p>{{ main.content | truncate: 200 }}</p>
+                      {% endif %}
+                    </div>
+                    {% include base/post-categories.html %}
+                </div>
+            </div>
+          </a>
         </div>
         <!--
         <div class="uk-visible@m">
