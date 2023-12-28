@@ -14,6 +14,9 @@ window.onload = () => {
     let socialMenu = document.getElementById("socialMenu");
     if(socialMenu) UIkit.sticky(socialMenu, {});
 
+    let offcanvasMenu = document.getElementById("offcanvasNav");
+    if(offcanvasMenu) UIkit.offcanvas(offcanvasMenu, {});
+
     /*
     //favorite
     var AddToFavorite = function(url, title) {
