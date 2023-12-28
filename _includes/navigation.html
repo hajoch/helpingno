@@ -30,10 +30,10 @@
     </div>
 </nav>
 
-<div id="offcanvasNav" class="uk-offcanvas" uk-offcanvas="mode: push" style="display: block;" tabindex="-1">
+<div id="offcanvasNav" class="uk-offcanvas" uk-offcanvas="mode: slide" style="display: block;" tabindex="-1">
   <div class="uk-offcanvas-bar uk-offcanvas-bar-animation uk-offcanvas-slide" role="dialog" style="max-width: 720px;">
-    <a class="uk-navbar-toggle uk-align-right" uk-close uk-toggle="target: #offcanvasNav; animation: uk-animation-fade" href="#"></a>
-    <ul class="uk-nav uk-nav-default">
+    <a class="uk-navbar-toggle uk-icon-large uk-align-right" uk-close uk-toggle="target: #offcanvasNav; animation: uk-animation-fade" href="#"></a>
+    <ul class="uk-nav uk-nav-default uk-margin">
       {% for category in site.category %}
         <li><a href="{{ category.url | prepend: site.baseurl }}">{{ category.title }}</a></li>
       {% endfor %}
