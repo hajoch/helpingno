@@ -143,13 +143,6 @@ main {
     color: #333 !important;
 }
 
-@media screen and (max-width: 767px) {
-  html {
-      -webkit-text-size-adjust: auto !important;
-  }
-}
-
-
 //-------------------
  @media print {
     .content{margin-top: 50mm; margin-bottom: 50mm;
