@@ -1,14 +1,13 @@
 ---
 layout: author
 title: Christoffer Jore Christensen
-image: "/assets/images/CJC.jpg"
-
+image: /assets/images/CJC.jpg
 ---
 Redaksjonssekretær, journalist, lay-out og fotograf.
 
 Bachelor i Hotell økonomi. UiS,  Universitetet i Stavanger.
 
-Masterstudent i "Risk Analysis and Governance" ved UiS.
+Master i "Risk Analysis and Governance" ved UiS.
 
 Div. yrkeserfaring innen hotell og salg mm
 
