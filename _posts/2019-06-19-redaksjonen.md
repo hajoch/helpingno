@@ -48,7 +48,7 @@ Redaksjonssekretær\
 Master i matematisk finans, UiO - Universitetet i Oslo\
 Master i aktuarfag, UiO\
 Internal Auditor,\
-vise dir.
+Vise Dir.
 
 **[Christoffer J. Christensen](https://helping.no/author/christoffer-jore-christensen)**\
 Redaksjonssekretær og fotograf\
