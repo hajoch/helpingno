@@ -68,7 +68,7 @@ Utdannet Lege og psykiater.
 [Anne Bakke](https://helping.no/author/anne-bakke "https\://helping.no/author/anne-bakke"), tegner, foto og adjunkt\
 [Berit Anfinsen](https://helping.no/aima), barnebok-tegner\
 Ellen Marie Christensen, tradisjonell norsk kosthold\
-[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse, journalist\
+[Albert Henrik Mohn,](https://helping.no/author/albert-henrik-mohn) bokanmeldelse, journalist, forfatter\
 Edle Bugge, journalist kosthold.\
 Julie Jørgensen, journalist økonomi\
 Hans Olsen, innlegg\
