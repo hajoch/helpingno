@@ -26,7 +26,7 @@ image_caption: |-
 weight: 8
 ---
 **Kontaktinformasjon**\
-Etablert i 21.04.2001 - nå 23 år på nett\
+Etablert i 21.04.2001\
 Organisasjonsnr. 997604830\
 E-post redaksjonen: helping.red@gmail.com\
 Helping-redaksjonen presenter et bredt tilbud av nyttige artikler og lesestoff.
