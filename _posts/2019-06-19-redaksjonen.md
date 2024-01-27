@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redaksjonen 23 år
+title: "Redaksjonen "
 author: ""
 coauthor: ""
 categories:
