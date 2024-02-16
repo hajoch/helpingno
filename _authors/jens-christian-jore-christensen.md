@@ -10,4 +10,4 @@ Internasjonal aktuar, HHBI, Handelshøyskolen Bedriftsøkonomisk Institutt, Oslo
 Internasjonale studier i Internal Auditor\
 Avdelingsleder for analyse.\
 Senior Internal Auditor\
-vise dir.
+Vise Direktør.
