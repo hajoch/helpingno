@@ -11,6 +11,8 @@ Master i "Risk Analysis and Governance" ved UiS.
 
 Risk analytikker - div. yrkeserfaring innen hotell og salg mm
 
+Leder Risikoanalyse
+
 ![](/assets/images/alltrack.jpg)
 
 Foto: Christoffer Jore Christensen
