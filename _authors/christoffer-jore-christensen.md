@@ -9,7 +9,7 @@ Bachelor i Hotell økonomi. UiS,  Universitetet i Stavanger.
 
 Master i "Risk Analysis and Governance" ved UiS.
 
-Risk analytikker - div. yrkeserfaring innen hotell og salg mm
+Risk analytikker 
 
 Leder Risikoanalyse
 
