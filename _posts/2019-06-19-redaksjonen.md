@@ -27,15 +27,15 @@ weight: 8
 ---
 **Kontaktinformasjon**\
 Etablert i 21.04.2001\
-Organisasjonsnr. 997604830\
+Organisasjon nr. 997604830\
 E-post redaksjonen: helping.red@gmail.com\
 Helping-redaksjonen presenter et bredt tilbud av nyttige artikler og lesestoff.
 
 **[Gunnar Christensen](https://helping.no/author/gunnar-christensen)**\
 Redaktør, styreformann og gründer\
-Cand.philol/master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen\
+Cand. philol./master med hovedfag i religionsvitenskap UiB, Universitetet i Bergen\
 Økonomi og administrasjon mellomfag/Bachelor, UiA, Universitetet i Agder\
-Media-sosiologi mellomfag, UiO, Universitetet i Oslo\
+Media-sosiologi mellomfag/Bachelor, UiO, Universitetet i Oslo\
 Lektor, forfatter, vaktsjef og journalist
 
 **[Hallvard J. Christensen](https://helping.no/author/hallvard-j-christensen)**\
@@ -58,11 +58,11 @@ Leder Risiko
 
 **[Kari Rose Norheim](https://helping.no/author/kari-rose-norheim)**\
 Journalist, Fagområde helse og mental helse\
-Utdannet Sykepleier, alternativ behandler.
+Sykepleier, alternativ behandler.
 
 [**Odd Milton** **Lunde**](https://helping.no/author/odd-m-lunde)\
 Journalist, Fagområde helse og mental helse\
-Utdannet Lege og psykiater.
+Lege og psykiater.
 
 **Andre bidragsytere**\
 [Anne Bakke](https://helping.no/author/anne-bakke "https\://helping.no/author/anne-bakke"), tegner, foto og adjunkt\
