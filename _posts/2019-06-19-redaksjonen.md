@@ -54,7 +54,7 @@ Vise Dir.
 Redaksjonssekretær og fotograf\
 Bachelor i Hotell økonomi. UiS, Universitetet i Stavanger\
 Master i "Risk Analysis and Governance" ved UiS.\
-Div. yrkeserfaring innen hotell og salg mm
+Leder Risiko
 
 **[Kari Rose Norheim](https://helping.no/author/kari-rose-norheim)**\
 Journalist, Fagområde helse og mental helse\
