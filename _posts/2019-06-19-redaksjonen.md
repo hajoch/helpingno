@@ -5,16 +5,7 @@ author: ""
 coauthor: ""
 categories:
   - _category/redaksjonen-om-oss.md
-tags:
-  - redaksjonen
-  - medarbeidere
-  - helpingteam
-  - journalister i helping
-  - temamedarbeidere
-  - bidragsytere
-  - sponsing
-  - frilansere hos helping.no
-  - utviklingshjelp
+tags: []
 date: 2019-06-19T16:31:48.000+00:00
 publish_date: null
 image: /assets/images/trille2.jpg
