@@ -1,34 +1,34 @@
 ---
 layout: post
-date: 2019-06-19T06:40:22.000+00:00
-crop_image: true
+title: "Askeladden 16: God sjøbåt"
 author: _authors/gunnar-christensen.md
-tags:
-- båt
-- påhengsmotor
-- fritid
-- sjø båtliv
-- skjærgård
-- sommer
-- Askeladden
-- Yamaha påhenger
-- 16 fot
-- familiebåt
-- plastbåt
-- " åpen vindskjerm hard topp"
-title: 'Askeladden 16: God sjøbåt'
-excerpt: 'Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en veldig
-  god og stødig sjøbåt. En praktisk båt som du vil finne deg godt til rette i om du
-  ikke trenger en paradebåt, men en nøktern og grei båt til en overkommelig bruktbåtpris.
-  Har du ikke bryggeplass er dette en lett og grei båt å ha på en båthenger.'
-image: "/assets/images/ask.16.jpg"
-image_caption: 'Foto: Askeladden 16 -1 testsesong '
+coauthor: ""
 categories:
-- _category/båt.md
-publish_date: 
-weight: 7
-coauthor: ''
-
+  - _category/båt.md
+tags:
+  - båt
+  - påhengsmotor
+  - fritid
+  - sjø båtliv
+  - skjærgård
+  - sommer
+  - Askeladden
+  - Yamaha påhenger
+  - 16 fot
+  - familiebåt
+  - plastbåt
+  - " åpen vindskjerm hard topp"
+date: 2019-06-19T06:40:22.000+00:00
+publish_date: null
+image: /assets/images/ask.16.jpg
+crop_image: true
+excerpt: "Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en
+  veldig god og stødig sjøbåt. En praktisk båt som du vil finne deg godt til
+  rette i om du ikke trenger en paradebåt, men en nøktern og grei båt til en
+  overkommelig bruktbåtpris. Har du ikke bryggeplass er dette en lett og grei
+  båt å ha på en båthenger."
+image_caption: "Foto: Askeladden 16 -1 testsesong "
+weight: 9
 ---
 **Askeladden 16 m. 25 hk Yamaha**
 
