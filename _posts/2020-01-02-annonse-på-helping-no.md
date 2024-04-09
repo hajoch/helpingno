@@ -22,7 +22,7 @@ excerpt: >
 image_caption: Helping-maskoten "Basse". Nettstedet har vært på Internett siden
   2001. Vi skiftet sist design 1. januar 2020. Foto Jens Christian Jore
   Christensen
-weight: 0
+weight: 2
 ---
 [](mailto:helping.red@gmail.com)
 
