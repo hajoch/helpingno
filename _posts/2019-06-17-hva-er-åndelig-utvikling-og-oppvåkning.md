@@ -1,31 +1,30 @@
 ---
 layout: post
-date: 2019-06-17T16:35:18.000+00:00
-crop_image: true
-author: _authors/kari-rose-norheim.md
-tags:
-- helse
-- mental helse
-- åndelig utvikling
-- religion
-- religionshistorie
-- personlighetspsykologi
-- psykologi
-- menneskelig utvikling
-- bevissthet
-- identitet
 title: Hva er åndelig utvikling og oppvåkning?
-excerpt: Åndelig utvikling og oppvåkning er kjennetegnet ved at man begynner å stille
-  forskjellige eksistensielle spørsmål ved livet og tilværelsen, ofte etter opplevelser
-  av kjærlig nærvær og uforståelige hendelser eller kriser.
-image: "/assets/images/oct092 (1).jpg"
-image_caption: 'Foto: Gunnar Christensen'
+author: _authors/kari-rose-norheim.md
+coauthor: ""
 categories:
-- _category/religion.md
-publish_date: 
+  - _category/religion.md
+tags:
+  - helse
+  - mental helse
+  - åndelig utvikling
+  - religion
+  - religionshistorie
+  - personlighetspsykologi
+  - psykologi
+  - menneskelig utvikling
+  - bevissthet
+  - identitet
+date: 2019-06-17T16:35:18.000+00:00
+publish_date: null
+image: /assets/images/oct092 (1).jpg
+crop_image: false
+excerpt: Åndelig utvikling og oppvåkning er kjennetegnet ved at man begynner å
+  stille forskjellige eksistensielle spørsmål ved livet og tilværelsen, ofte
+  etter opplevelser av kjærlig nærvær og uforståelige hendelser eller kriser.
+image_caption: "Foto: Gunnar Christensen"
 weight: 7
-coauthor: ''
-
 ---
 **Abstrakt forklaring**  
 Bakenfor all skapelse er det en upreget fri energi (Gud/total bevissthet.) Denne energien får forskjellige pregninger som manifesteres i frekvenser og dimensjoner. Her begynner energien å bli gradvis begrenset og vi kan begynne å snakke om de største bevissthetsformene som erkeengler og andre store åndelige bevissthetsformer/vesener. Energien går fra total bevissthet hvor den er alt og ingen ting, videre til pregninger/begrensninger som skaper forskjellighet gjennom dualitet (dobbelthet) eller tosidighet som igjen medfører skapelse av tanker og følelse til materie gjennom motsetningenes par. Dette er kjent som bl. annet yin/yang prinsippet og feminint/maskulint, følelse og tanker, opplevelse og forståelse. I den fysiske materie som magnetisme, elektrisitet osv.
