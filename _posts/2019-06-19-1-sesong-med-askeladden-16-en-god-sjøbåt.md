@@ -28,7 +28,7 @@ excerpt: "Test: Den ser gammelmodig og tilårskommen ut, men den er egentlig en
   overkommelig bruktbåtpris. Har du ikke bryggeplass er dette en lett og grei
   båt å ha på en båthenger."
 image_caption: "Foto: Askeladden 16 -1 testsesong "
-weight: 9
+weight: 8
 ---
 **Askeladden 16 m. 25 hk Yamaha**
 
