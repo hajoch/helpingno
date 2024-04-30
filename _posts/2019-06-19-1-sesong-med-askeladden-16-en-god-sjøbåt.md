@@ -5,19 +5,7 @@ author: _authors/gunnar-christensen.md
 coauthor: ""
 categories:
   - _category/båt.md
-tags:
-  - båt
-  - påhengsmotor
-  - fritid
-  - sjø båtliv
-  - skjærgård
-  - sommer
-  - Askeladden
-  - Yamaha påhenger
-  - 16 fot
-  - familiebåt
-  - plastbåt
-  - " åpen vindskjerm hard topp"
+tags: []
 date: 2019-06-19T06:40:22.000+00:00
 publish_date: null
 image: /assets/images/ask.16.jpg
