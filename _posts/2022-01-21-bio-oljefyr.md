@@ -5,8 +5,7 @@ author: _authors/gunnar-christensen.md
 coauthor: []
 categories:
   - _category/bolig.md
-tags:
-  - g
+tags: []
 date: 2022-01-21 06:02:32 +0100
 publish_date: 2022-01-22 00:00:00 +0100
 image: /assets/images/fyring.jpg
