@@ -1,46 +1,20 @@
 ---
 layout: post
-date: 2019-06-17T08:11:51.000+00:00
-crop_image: true
-author: _authors/gunnar-christensen.md
-tags:
-- religion
-- buddhisme
-- 'tro livssyn '
-- religionsvitenskap
-- religionshistorie
-- lidelse
-- anatman
-- Nirvana
-- åndelig
-- livstørst
-- tro
-- livssyn
-- livstørst
-- Buddaha
-- reinkarnasjon
-- karma
-- indisk religion
-- filosofi
-- ikke-sjel
-- realisere sannheten
-- åttefoldige vei
-- medlidenhet
-- hjertets kvaliteter
-- klokskap
-- kunnskap
 title: ' "Lidelse" og "sjel" i Buddhismen'
-excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i ordets
-  dypeste og videste betydning, fordi det er forgjengelig. På sanskrit heter lidelse
-  dukkha.
-image: "/assets/images/stupa.jpg"
-image_caption: 'Foto: Gunnar Christensen. Stupa på Sri Lanka'
+author: _authors/gunnar-christensen.md
+coauthor: ""
 categories:
-- _category/religion.md
-publish_date: 
+  - _category/religion.md
+tags: []
+date: 2019-06-17T08:11:51.000+00:00
+publish_date: null
+image: /assets/images/stupa.jpg
+crop_image: true
+excerpt: Kjernen i buddhistisk tenkning er at alt i vår tilværelse er lidelse i
+  ordets dypeste og videste betydning, fordi det er forgjengelig. På sanskrit
+  heter lidelse dukkha.
+image_caption: "Foto: Gunnar Christensen. Stupa på Sri Lanka"
 weight: 7
-coauthor: ''
-
 ---
 Buddha forklarer lidelsesbegrepet på tre nivåer: Først at alt vi til vanlig oppfatter som lidelse slik som fødsel, sykdom, alderdom og død, ubehagelige opplevelser etc. er lidelse.  
 Dernest at en lykkelig følelse eller en heldig livssituasjon er ikke evigvarende. Det forandrer seg før eller senere, og når det forandrer seg så medfører dette smerte. Det mest betydningsfulle filosofiske aspektet ved lidelsesbegrepet er at det vi kaler et individ eller et "jeg", bare er en kombinasjon av alltid forandrende fysiske og mentale krefter ifølge buddhistene: Mennesket har altså ut i fra denne tankegangen ingen "sjel", fordi personligheten ifølge buddhismen er bygd opp av fem komponenter som alle er forgjengelige. Disse er form, fornemmelse, sanseoppfatning, vilje eller psykisk energi og bevissthet.
