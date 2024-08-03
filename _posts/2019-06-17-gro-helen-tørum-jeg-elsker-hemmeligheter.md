@@ -1,42 +1,20 @@
 ---
 layout: post
-date: 2019-06-17T17:37:20.000+00:00
-crop_image: true
-author: _authors/gunnar-christensen.md
-tags:
-- healing
-- lykke
-- klarsynt
-- åndelig utvikling
-- Gro Helen
-- medium
-- inkarnasjon
-- husrens
-- andre siden
-- døden
-- visdom
-- ettertanke
-- TV-kjendis
-- filosofi
-- religion
-- klarsyn
-- '"Fra sjel til sjel"'
-- '"Åndenes makt"'
-- ' "Den andre siden"'
-- livserfaring
-- energetisk
 title: Gro Helen Tørum
-excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre siden"
-  , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som medium og
-  klarsynt og vil først snakke om lykke.
-image: "/assets/images/grohelen2.jpg"
-image_caption: "- Jeg elsker hemmeligheter. Foto: Bjørn Wad"
+author: _authors/gunnar-christensen.md
+coauthor: ""
 categories:
-- _category/mental-helse.md
-publish_date: 
+  - _category/mental-helse.md
+tags: []
+date: 2019-06-17T17:37:20.000+00:00
+publish_date: null
+image: /assets/images/grohelen2.jpg
+crop_image: true
+excerpt: Du kjenner henne fra TV-programmene "Fra sjel til sjel", "Den andre
+  siden" , "Åndenes makt" og fra seminarer. Gro Helen Tørum presenterer seg som
+  medium og klarsynt og vil først snakke om lykke.
+image_caption: "- Jeg elsker hemmeligheter. Foto: Bjørn Wad"
 weight: 2
-coauthor: ''
-
 ---
 \- Hvordan definerer du begrepet lykke og hva vil du si er viktigst for lykken?  
 \- Jeg intervjuet en gang den tibetanske munken Tulku Lama Lobsang. Han sa at lykke er visdom. For meg ble dette en veiviser inn til forståelsen av at lykke for meg. Det er å se stadig større sammenhenger og å se at også det meningsløse har en mening. Når jeg mestrer aksept og tilstedeværelse, når gleden over å lykkes er større enn frykten for å mislykkes - da er jeg lykkelig!
