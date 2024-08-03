@@ -1,35 +1,22 @@
 ---
 layout: post
-date: 2019-06-13T21:41:38.000+00:00
-author: _authors/gunnar-christensen.md
-tags:
-- sjø
-- båt
-- båt påhengsmotor
-- valg av båt
-- båttype
-- snekke
-- daycruiser
-- cabincruiser
-- motorseiler
-- seajeep
-- bowrider
-- joller
-- sikkerhet til sjøs
-- kjøpekontrakt
-- heftelser
-- båtliv
 title: Båtkjøpfeller? Unngå tabbene
-excerpt: "Hvilken båt passer deg best? \nUnngå kjøpertabbene. Har du gjort et raskt
-  impulskjøp uten å tenke igjennom ditt behov kan du ha gått i fella."
+author: _authors/gunnar-christensen.md
 categories:
-- _category/båt.md
-image: "/assets/images/abat.10.JPG"
+  - _category/båt.md
+tags: []
+date: 2019-06-13T21:41:38.000+00:00
+publish_date: null
+image: /assets/images/abat.10.JPG
 crop_image: true
-publish_date: 
-weight: 4
-image_caption: "Pollen i Arendal. \nfoto: Gunnar Christensen"
+excerpt: >-
+  Hvilken båt passer deg best? 
 
+  Unngå kjøpertabbene. Har du gjort et raskt impulskjøp uten å tenke igjennom ditt behov kan du ha gått i fella.
+image_caption: |-
+  Pollen i Arendal. 
+  foto: Gunnar Christensen
+weight: 4
 ---
 Den norske båtsesongen er kort og hektisk. Forventningene til sommeren ligger i luften på båtmesser og i salgsannonser. Sommeruker på sjøen lokker med badeliv og fiske. Dette ligger i bakhodet når båtannonser pløyes.
 
