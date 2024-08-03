@@ -1,33 +1,20 @@
 ---
 layout: post
-date: 2022-01-21 06:02:32 +0100
-crop_image: true
-coauthor: []
-tags:
-- husvarme
-- oljefyring bio
-- biodiesel
-- grønt skifte
-- avgifter
-- kveletak på norske markedet
-- dårlig politisk handverk
-- bygge om gammel oljefyring
-- rimeligere fyring?
-- bio fyringsalternativ
-- gjør huset ditt grønnere med biofyring
-- ombyggingskostnader oljefyring
 title: Bio oljefyr?
-excerpt: |
-  -Trodde du biofyring var bedre?
-  Bygde du om oljefyringen i huset for å være miljøvennlig og slippe unna høye strømregninger?
-image: "/assets/images/fyring.jpg"
-image_caption: 'Foto: SJ'
 author: _authors/gunnar-christensen.md
+coauthor: []
 categories:
-- _category/bolig.md
+  - _category/bolig.md
+tags:
+  - g
+date: 2022-01-21 06:02:32 +0100
 publish_date: 2022-01-22 00:00:00 +0100
+image: /assets/images/fyring.jpg
+crop_image: true
+excerpt: -Trodde du biofyring var bedre? Bygde du om oljefyringen i huset for å
+  være miljøvennlig og slippe unna høye strømregninger?
+image_caption: "Foto: SJ"
 weight: 5
-
 ---
 Da har du blitt nesten like mye lurt som alle oss andre. For biodiesel eller biofyring koster mer enn dobbelt så mye som tidligere fossil oljefyring og den brenner litt fortere enn den tidligere kvaliteten - ca. 3 %. Hva er belønningen for å skifte til denne grønne oppvarmingen?
 
