@@ -1,34 +1,24 @@
 ---
 layout: post
-date: 2019-06-19T13:30:25.000+00:00
-crop_image: true
-author: _authors/gunnar-christensen.md
-tags:
-- økonomi
-- sikkerhet på nett
-- infisert pc
-- nettbank
-- datakriminalitet
-- kontobetingelser
-- digital betaling
-- risiko
-- bankkoder
-- botnet
-- virus
 title: Penger, bank og nett?
-excerpt: 'Som hjemme-PC-bruker har du liten mulighet til å oppdage et data-innbrudd
-  på din datamaskin: Du kan bli frarøvet koder og passord uten å være klar over det.
-  Trusselbildet endrer seg stadig.'
-image: "/assets/images/katt.jpg"
-image_caption: |+
-  Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan hjelpe deg når du er utsatt for datakriminalitet og identitetstyveri.
+author: _authors/gunnar-christensen.md
+categories:
+  - _category/bolig.md
+tags: []
+date: 2019-06-19T13:30:25.000+00:00
+publish_date: 2020-11-28 21:44:10 +0100
+image: /assets/images/katt.jpg
+crop_image: true
+excerpt: "Som hjemme-PC-bruker har du liten mulighet til å oppdage et
+  data-innbrudd på din datamaskin: Du kan bli frarøvet koder og passord uten å
+  være klar over det. Trusselbildet endrer seg stadig."
+image_caption: >+
+  Foto: Hallvard Jore Christensen: Selv ikke en årvåken skogkatt kan hjelpe deg
+  når du er utsatt for datakriminalitet og identitetstyveri.
+
   Helping-maskoten skogskatten "Trille".
 
-categories:
-- _category/bolig.md
-publish_date: 2020-11-28 21:44:10 +0100
-weight: 5
-
+weight: 3
 ---
 **PC-bruker oppdager ikke**
 
