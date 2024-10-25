@@ -15,7 +15,7 @@ Utgitt bøkene: "[Styrkeprøven](https://helping.no/styrkepr%C3%B8ven "https\://
 
 Yrkesaktiv i norsk presse, forelesning og undervisning mm i perioden 1968 - 2015. Stillinger som lektor. Foreleser ved Norsk Folkeakademi. Frilansjournalist, foto, lay-out mm ved siden av studier samt faste stillinger etter studier. Bl.a. Lay-out-medarbeider i VG, Oslo. Vaktsjef i Morgenavisen, Bergen. Redaktør i Fiskets Gang, Fiskeridirektoratet i Bergen. Frilans reporter i NRK-radio Bergen, Informasjonskonsulent i Statskraftverkene, NVE, Oslo.
 
-Gift, 3 voksne sønner.
+Gift, 3 voksne sønner og 1 barnebarn.
 
 [Linkedin](https://www.linkedin.com/in/gunnar-christensen-ba257b190/)
 
