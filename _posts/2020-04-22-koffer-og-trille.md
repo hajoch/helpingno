@@ -1,31 +1,30 @@
 ---
 layout: post
-date: 2020-04-22 14:24:52 +0200
-crop_image: true
-tags:
-- Barnebok
-- god-natt-historie
-- les for de minste
-- kosebok for de minste
-- katten Trille
-- Koffer
-- Anne Bakke
-- Gunnar Christensen
-- barn og dyr
-- barnets verden
-- katt som kosedyr
-- skogskatt
 title: Koffer møter Trille
-excerpt: Barnebok. En kos god natt-historie om Koffer, Trille og bilen Karamell som
-  kalles Storebrum.
-image: "/assets/images/gutt (2).jpg"
-image_caption: 'Illustrasjon: Anne Bakke'
 author: _authors/gunnar-christensen.md
 categories:
-- _category/boker.md
-publish_date: 
-weight: 5
-
+  - _category/boker.md
+tags:
+  - Barnebok
+  - god-natt-historie
+  - les for de minste
+  - kosebok for de minste
+  - katten Trille
+  - Koffer
+  - Anne Bakke
+  - Gunnar Christensen
+  - barn og dyr
+  - barnets verden
+  - katt som kosedyr
+  - skogskatt
+date: 2020-04-22 14:24:52 +0200
+publish_date: null
+image: /assets/images/gutt (2).jpg
+crop_image: true
+excerpt: Barnebok. En kos god natt-historie om Koffer, Trille og bilen Karamell
+  som kalles Storebrum.
+image_caption: "Illustrasjon: Anne Bakke"
+weight: 7
 ---
 **Storebrum trenger hjelp**
 
