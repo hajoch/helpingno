@@ -1,42 +1,44 @@
 ---
 layout: post
-date: 2019-06-17T13:32:31.000+00:00
-crop_image: true
-author: _authors/gunnar-christensen.md
-tags:
-- slanking
-- slanking helse
-- slankekurer
-- diett
-- ned i vekt
-- overvekt
-- helse slanking
-- helse
-- vekt
-- kosthold
-- stoffskifte
-- oppskrift
-- 3 dagers kuren
-- nøysomt kosthold er bærekraftig
-- helsegevinst
-- raske resultater?
-- vektproblemer
-- stoffskifte diett
-- slankemani
-- leserinnlegg
 title: Slankekur
-excerpt: "Gratis:\n3 dagers-kuren og Stoffskifte-diett \"oppskrift\"\n\nViktigst av
-  alt etter en slankekur er å bedre dine kostholdsvaner i forhold til før du startet
-  kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves.
-  \n"
-image: "/assets/images/cha.jpg"
-image_caption: Motiv fra Kypros - foto Gunnar Christensen
-categories:
-- _category/helse.md
-publish_date: 
-weight: 8
+author: _authors/gunnar-christensen.md
 coauthor: _authors/ellen-marie-christensen.md
+categories:
+  - _category/helse.md
+tags:
+  - slanking
+  - slanking helse
+  - slankekurer
+  - diett
+  - ned i vekt
+  - overvekt
+  - helse slanking
+  - helse
+  - vekt
+  - kosthold
+  - stoffskifte
+  - oppskrift
+  - 3 dagers kuren
+  - nøysomt kosthold er bærekraftig
+  - helsegevinst
+  - raske resultater?
+  - vektproblemer
+  - stoffskifte diett
+  - slankemani
+  - leserinnlegg
+date: 2019-06-17T13:32:31.000+00:00
+publish_date: null
+image: /assets/images/cha.jpg
+crop_image: true
+excerpt: >
+  Gratis:
 
+  3 dagers-kuren og Stoffskifte-diett "oppskrift"
+
+
+  Viktigst av alt etter en slankekur er å bedre dine kostholdsvaner i forhold til før du startet kuren. Kaster du deg over søtsaker og fett etter kuren kan den fort være forgjeves. 
+image_caption: Motiv fra Kypros - foto Gunnar Christensen
+weight: 4
 ---
 Slankekur
 
