@@ -1,35 +1,34 @@
 ---
 layout: post
-date: 2019-11-25T17:45:34.000+00:00
-crop_image: true
-tags:
-- barnabok
-- barnefortelling
-- den gode samtalen
-- far og sønn samtale
-- barnas spørsmål
-- novelle
-- religion
-- filosofi
-- tanker om Gud
-- guttetur
-- Gunnar Christensen
-- Galtesund
-- Gjessøya
 title: Den gode samtalen.
-excerpt: 'Novelle '
-image: "/assets/images/oct-004-1.jpg"
-image_caption: 'Illustrasjon foto: Gunnar Christensen. Den gode samtalen mellom foreldre
-  og barn er en av de viktigste tegn på et godt foreldre-barn-forhold. Det er viktig
-  med slike samtaler fordi det skaper trygghet, innsikt og refleksjoner for begge
-  parter. Novelle.'
 author: _authors/gunnar-christensen.md
+coauthor: ""
 categories:
-- _category/boker.md
-publish_date: 
-weight: 6
-coauthor: ''
-
+  - _category/boker.md
+tags:
+  - barnabok
+  - barnefortelling
+  - den gode samtalen
+  - far og sønn samtale
+  - barnas spørsmål
+  - novelle
+  - religion
+  - filosofi
+  - tanker om Gud
+  - guttetur
+  - Gunnar Christensen
+  - Galtesund
+  - Gjessøya
+date: 2019-11-25T17:45:34.000+00:00
+publish_date: null
+image: /assets/images/oct-004-1.jpg
+crop_image: true
+excerpt: "Novelle "
+image_caption: "Illustrasjon foto: Gunnar Christensen. Den gode samtalen mellom
+  foreldre og barn er en av de viktigste tegn på et godt foreldre-barn-forhold.
+  Det er viktig med slike samtaler fordi det skaper trygghet, innsikt og
+  refleksjoner for begge parter. Novelle."
+weight: 8
 ---
 Tittan kjører mot vinden. Han kjenner saltvann-sprut fra sjøen i de svake vindkastene. Holder et fast grep om styrespaken og gassen. Kapsen gir øyeskygge for sola i det solbrune ansiktet. Påhengsmotoren durer jevnt ved siden av han. Han er stolt av å kunne kjøre båten uten hjelp nå. Pappa sitter avslappet på midt-tofta. Han er trygg på at Tittan både kan kjøre motoren og vet kjørereglene på fjorden: Hva stakene i sjøen betyr og hvordan vi møter andre båter.
 
